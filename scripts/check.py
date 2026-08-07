@@ -27,7 +27,7 @@ NONFINITE_LABELS = {label for _, label in B.NONFINITE}
 
 
 def rows_of(entry):
-    """[(verbe, conjugaison, temps, personne)] du tableau inversé."""
+    """[(verbe, conjugaison, temps, accord)] du tableau inversé."""
     out = []
     for tr in entry.iter(f"{X}tr"):
         cells = [(td.text or "").strip() for td in tr.findall(f"{X}td")]
@@ -78,7 +78,7 @@ def main():
             problems.append(f"« {form} » : tableau inversé vide")
             continue
 
-        for verb, conjugated, tense, person in rows:
+        for verb, conjugated, tense, accord in rows:
             # La conjugaison affichée doit contenir la forme cherchée. Sinon la
             # ligne parle d'autre chose que de ce qu'on a tapé.
             # Frontière de mot, mais l'apostrophe d'élision en est une : dans
@@ -90,8 +90,8 @@ def main():
                 )
             if tense not in RANK_OF_LABEL:
                 problems.append(f"« {form} » : temps inconnu « {tense} »")
-            if tense not in NONFINITE_LABELS and not person:
-                problems.append(f"« {form} » : {tense} sans personne")
+            if tense not in NONFINITE_LABELS and not accord:
+                problems.append(f"« {form} » : {tense} sans accord")
 
         # L'ordre annoncé : verbe alphabétique, puis temps dans l'ordre de PLAN.
         keys = [(v, RANK_OF_LABEL.get(t, 99)) for v, _, t, _ in rows]
@@ -122,8 +122,8 @@ def main():
             problems.append(f"« {form} » n'a pas d'entrée — introuvable dans Dictionary.app")
             continue
         print(f"  « {form} »")
-        for verb, conjugated, tense, person in rows:
-            print(f"      {verb:<8} {conjugated:<18} {tense:<24} {person}")
+        for verb, conjugated, tense, accord in rows:
+            print(f"      {verb:<8} {conjugated:<18} {tense:<24} {accord}")
 
     if problems:
         print()

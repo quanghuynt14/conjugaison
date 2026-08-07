@@ -31,17 +31,21 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SRC = ROOT / "data" / "verbs.json"
 OUT = ROOT / "src" / "conjugaison.xml"
 
-# --- personnes et sujets ----------------------------------------------------
+# --- accords et sujets ------------------------------------------------------
 
 SUBJECTS = ["je", "tu", "il", "nous", "vous", "ils"]
 
-PERSONS_FINITE = [
+# Ce que porte la dernière colonne. Un verbe conjugué s'accorde avec son sujet
+# en personne et en nombre ; un participe passé, en genre et en nombre. Deux
+# façons de s'accorder, une seule colonne — d'où « accord » plutôt que
+# « personne », qu'un participe n'a pas.
+ACCORDS_FINITE = [
     "1ʳᵉ du singulier", "2ᵉ du singulier", "3ᵉ du singulier",
     "1ʳᵉ du pluriel", "2ᵉ du pluriel", "3ᵉ du pluriel",
 ]
 # L'impératif n'a que trois cases, et elles ne sont pas les trois premières.
-PERSONS_IMPER = ["2ᵉ du singulier", "1ʳᵉ du pluriel", "2ᵉ du pluriel"]
-PERSONS_PARTICIPE = [
+ACCORDS_IMPER = ["2ᵉ du singulier", "1ʳᵉ du pluriel", "2ᵉ du pluriel"]
+ACCORDS_PARTICIPE = [
     "masculin singulier", "féminin singulier",
     "masculin pluriel", "féminin pluriel",
 ]
@@ -81,9 +85,12 @@ PLAN = [
 MODE_OF = {key: mode for mode, tenses in PLAN for key, _, _, _ in tenses}
 LABEL_OF = {key: label for _, tenses in PLAN for key, label, _, _ in tenses}
 
-# Les formes non conjuguées, après les temps, dans cet ordre.
+# Les formes non conjuguées, après les temps, dans cet ordre. L'infinitif et le
+# participe sont des modes au même titre que l'indicatif, et le libellé le dit
+# comme ailleurs : mode puis temps. « Infinitif » seul était le seul des dix-neuf
+# à s'arrêter au mode.
 NONFINITE = [
-    ("inf",        "Infinitif"),
+    ("inf",        "Infinitif présent"),
     ("part.pres",  "Participe présent"),
     ("part.passe", "Participe passé"),
 ]
@@ -157,7 +164,7 @@ def cells_for(verb, aux, key, kind, source):
 
 
 Analysis = collections.namedtuple(
-    "Analysis", "verb slot person_index conjugated person_label"
+    "Analysis", "verb slot slot_index conjugated accord"
 )
 
 
@@ -169,22 +176,22 @@ def analyses_of(verb, aux):
     """
     found = collections.defaultdict(list)
 
-    def record(form, slot, i, conjugated, person):
-        found[form].append(Analysis(verb, slot, i, conjugated, person))
+    def record(form, slot, i, conjugated, accord):
+        found[form].append(Analysis(verb, slot, i, conjugated, accord))
 
     for _, tenses in PLAN:
         for key, _, kind, source in tenses:
             if kind != "simple":
                 continue
-            persons = PERSONS_IMPER if key.startswith("imper.") else PERSONS_FINITE
+            accords = ACCORDS_IMPER if key.startswith("imper.") else ACCORDS_FINITE
             conjugated = cells_for(verb, aux, key, kind, source)
             for i, form in enumerate(verb["tenses"][source]):
-                record(form, key, i, conjugated[i], persons[i])
+                record(form, key, i, conjugated[i], accords[i])
 
     record(verb["infinitif"], "inf", 0, verb["infinitif"], "")
     record(verb["participe_present"], "part.pres", 0, verb["participe_present"], "")
     for i, form in enumerate(verb["participe_passe"]):
-        record(form, "part.passe", i, form, PERSONS_PARTICIPE[i])
+        record(form, "part.passe", i, form, ACCORDS_PARTICIPE[i])
 
     return found
 
@@ -274,14 +281,14 @@ def render_entry(form, records, verbs, auxiliaries):
         f'    <h1 class="searched">{esc(form)}</h1>',
         '    <table class="reverse">',
         "      <tr><th>verbe</th><th>conjugaison</th><th>temps</th>"
-        "<th>personne</th></tr>",
+        "<th>accord</th></tr>",
     ]
     for r in records:
         out.append(
             f'      <tr><td class="c-verb">{esc(r.verb["infinitif"])}</td>'
             f'<td class="c-form">{esc(r.conjugated)}</td>'
             f'<td class="c-tense">{esc(tense_label(r.slot))}</td>'
-            f'<td class="c-person">{esc(r.person_label) or "—"}</td></tr>'
+            f'<td class="c-accord">{esc(r.accord) or "—"}</td></tr>'
         )
     out.append("    </table>")
 
@@ -291,7 +298,7 @@ def render_entry(form, records, verbs, auxiliaries):
             seen.append(r.verb["id"])
     for vid in seen:
         verb = verbs[vid]
-        matches = {(r.slot, r.person_index) for r in records if r.verb["id"] == vid}
+        matches = {(r.slot, r.slot_index) for r in records if r.verb["id"] == vid}
         out += render_table(verb, auxiliaries[vid], matches)
 
     out.append("  </div>")
@@ -320,10 +327,10 @@ def build_index(data):
             index[form] += records
 
     # Par verbe (alphabétique), puis par temps dans l'ordre de PLAN, puis par
-    # personne. Déterministe, donc check.py peut l'affirmer.
+    # accord. Déterministe, donc check.py peut l'affirmer.
     for records in index.values():
         records.sort(key=lambda r: (r.verb["infinitif"], SLOT_RANK[r.slot],
-                                    r.person_index))
+                                    r.slot_index))
     return index, verbs, auxiliaries
 
 

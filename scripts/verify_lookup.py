@@ -183,13 +183,13 @@ def main():
                                               CFRange(0, len(form)))) or ""
         for record in expected.get(form, []):
             row = (f"{record.verb['infinitif']}{record.conjugated}"
-                   f"{B.tense_label(record.slot)}{record.person_label or '—'}")
+                   f"{B.tense_label(record.slot)}{record.accord or '—'}")
             mark = "✓" if row in text else "✗"
             if mark == "✗":
                 problems.append(f"« {form} » : ligne absente du bundle — {row}")
             print(f"        {mark} {record.verb['infinitif']:<7} "
                   f"{record.conjugated:<16} {B.tense_label(record.slot):<24} "
-                  f"{record.person_label or '—'}")
+                  f"{record.accord or '—'}")
 
     if problems:
         print()
