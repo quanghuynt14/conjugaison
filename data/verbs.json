@@ -38,6 +38,44 @@
       },
       "participe_present": "ayant",
       "participe_passe": ["eu", "eue", "eus", "eues"]
+    },
+    {
+      "id": "vivre",
+      "infinitif": "vivre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "« je vis » est le présent de vivre et le passé simple de voir. Les deux verbes sont ici pour cette raison : c'est le cas qui montre à quoi sert une conjugaison inversée.",
+      "tenses": {
+        "ind.pres": ["vis", "vis", "vit", "vivons", "vivez", "vivent"],
+        "ind.imp": ["vivais", "vivais", "vivait", "vivions", "viviez", "vivaient"],
+        "ind.ps": ["vécus", "vécus", "vécut", "vécûmes", "vécûtes", "vécurent"],
+        "ind.fut": ["vivrai", "vivras", "vivra", "vivrons", "vivrez", "vivront"],
+        "cond.pres": ["vivrais", "vivrais", "vivrait", "vivrions", "vivriez", "vivraient"],
+        "subj.pres": ["vive", "vives", "vive", "vivions", "viviez", "vivent"],
+        "subj.imp": ["vécusse", "vécusses", "vécût", "vécussions", "vécussiez", "vécussent"],
+        "imper.pres": ["vis", "vivons", "vivez"]
+      },
+      "participe_present": "vivant",
+      "participe_passe": ["vécu", "vécue", "vécus", "vécues"]
+    },
+    {
+      "id": "voir",
+      "infinitif": "voir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le subjonctif imparfait « que je visse » est aussi le présent de visser, qui n'est pas dans ce jeu de données. La forme « vis », en revanche, n'appartient pas à visser : son présent est « je visse », seulement prononcé [vis].",
+      "tenses": {
+        "ind.pres": ["vois", "vois", "voit", "voyons", "voyez", "voient"],
+        "ind.imp": ["voyais", "voyais", "voyait", "voyions", "voyiez", "voyaient"],
+        "ind.ps": ["vis", "vis", "vit", "vîmes", "vîtes", "virent"],
+        "ind.fut": ["verrai", "verras", "verra", "verrons", "verrez", "verront"],
+        "cond.pres": ["verrais", "verrais", "verrait", "verrions", "verriez", "verraient"],
+        "subj.pres": ["voie", "voies", "voie", "voyions", "voyiez", "voient"],
+        "subj.imp": ["visse", "visses", "vît", "vissions", "vissiez", "vissent"],
+        "imper.pres": ["vois", "voyons", "voyez"]
+      },
+      "participe_present": "voyant",
+      "participe_passe": ["vu", "vue", "vus", "vues"]
     }
   ]
 }

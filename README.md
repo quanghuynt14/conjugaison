@@ -1,68 +1,97 @@
-# Conjugaison — un dictionnaire macOS des formes conjuguées
+# Conjugaison — une conjugaison inversée pour macOS
 
-Preuve de concept. Vous sélectionnez `fasse` dans n'importe quelle application,
-vous faites ⌃⌘D, et vous obtenez la conjugaison complète de *faire*, arrêtée sur
-le subjonctif présent.
+Preuve de concept. Vous sélectionnez `vis` dans n'importe quelle application,
+vous faites ⌃⌘D, et la page s'ouvre sur ceci :
 
-Deux verbes pour l'instant : **faire** et **avoir**. 85 formes indexées.
+| verbe | conjugaison | temps | personne |
+|---|---|---|---|
+| vivre | je vis | Indicatif présent | 1ʳᵉ du singulier |
+| vivre | tu vis | Indicatif présent | 2ᵉ du singulier |
+| vivre | vis | Impératif présent | 2ᵉ du singulier |
+| voir | je vis | Indicatif passé simple | 1ʳᵉ du singulier |
+| voir | tu vis | Indicatif passé simple | 2ᵉ du singulier |
+
+Puis la conjugaison complète de *vivre* et de *voir*, les cases d'où vient la
+forme surlignées.
+
+Quatre verbes : **faire**, **avoir**, **vivre**, **voir**. 162 formes,
+204 analyses.
 
 ## Essayer
 
-Le dictionnaire est déjà compilé et installé. Il reste à le cocher :
+Le dictionnaire est compilé et installé. Il reste à le cocher :
 
 1. Ouvrez **Dictionary.app**.
-2. Menu **Dictionnaire › Réglages** (ou ⌘,).
-3. Cochez **Conjugaison** dans la liste, et montez-le si vous le voulez en tête.
-4. Cherchez `fasse`.
+2. **Dictionnaire › Réglages** (⌘,).
+3. Cochez **Conjugaison**, et montez-le en tête si vous voulez.
+4. Cherchez `vis`, puis `fasse`, puis `faites`.
 
-Puis, hors de Dictionary.app : sélectionnez `fissiez` dans un texte et faites ⌃⌘D.
-
-Pour vérifier sans ouvrir quoi que ce soit :
+Sans ouvrir l'app :
 
 ```bash
 make verify        # interroge le bundle installé par l'API de macOS
 ```
 
-## Ce que ça fait
+## Le découpage : une entrée par forme
 
-Une entrée par **verbe**, indexée par toutes ses **formes**. Chercher `fasse`
-ouvre l'entrée `faire` ; la liste des résultats affiche `fasse (faire)`, ce qui
-lève l'ambiguïté quand plusieurs verbes partagent une forme — et le français en
-partage beaucoup (`vis` est à la fois *vivre*, *voir* et *visser*).
+C'est la décision qui tient tout le reste.
 
-Chaque forme porte une **ancre** vers son temps, donc l'entrée s'ouvre sur la
-bonne case et pas en haut du tableau. C'est le mécanisme des dictionnaires
-d'Apple eux-mêmes, où `made` renvoie à `make`.
+Dictionary.app rend **un corps par entrée**. Une entrée par verbe rendrait donc
+le même corps pour ses quarante clés : le haut de la page ne peut pas savoir
+quelle forme vous avez tapée, et une conjugaison inversée n'est que ça. Une
+entrée par forme le sait.
 
-Les temps composés ne sont pas stockés. Ils sont **construits** à partir de
-l'auxiliaire conjugué et du participe passé, parce que c'est ce qu'un temps
-composé *est*. Écrire « j'ai fait » dans les données serait écrire un fait que la
-grammaire donne déjà. C'est aussi pourquoi `avoir` est dans le jeu de données :
-sans lui, `faire` n'a pas de passé composé.
+Une forme peut avoir plusieurs analyses **dans un même verbe et un même mode** :
+`dis` est le présent *et* le passé simple de dire. On ne choisit jamais, on les
+liste toutes, dans l'ordre : verbe alphabétique, puis temps dans l'ordre de
+`PLAN`, puis personne. Cet ordre est une convention déclarée, pas un modèle de
+fréquence — c'est ce qui permet à `check.py` de l'affirmer.
 
-Les composés ne sont pas indexés non plus. « ai fait » fait deux mots : ce n'est
-pas une recherche, et `d:value` n'accepte pas l'espace.
+Les temps composés sont **construits**, pas stockés : l'auxiliaire conjugué plus
+le participe passé, parce que c'est ce qu'un temps composé est. D'où `avoir`
+dans les données — sans lui, `faire` n'a pas de passé composé. Ils ne sont pas
+indexés : « ai fait » fait deux mots, et `d:value` n'accepte pas l'espace.
 
-## Ce qui existe déjà, et qu'il faut savoir avant d'aller plus loin
+### Les accents se plient, et c'est voulu
 
-macOS livre deux dictionnaires qui résolvent déjà les formes fléchies du
-français : **Oxford-Hachette** et le **Multidictionnaire de la langue
-française**. `make verify` le montre — cherchez `fissiez`, les trois répondent.
+Le DDK ajoute pour chaque clé accentuée une clé sans diacritiques. `vecu` trouve
+`vécu`, `fimes` trouve `fîmes`. Pour une application dont le public est
+précisément celui qui hésite sur les accents, c'est l'inverse d'un défaut.
 
-Le Multidictionnaire est excellent, mais il répond en **lexicographe** : il ouvre
-sur la prononciation, les sens, les emplois. Le tableau de conjugaison n'est pas
-ce qu'il vous met sous les yeux. Celui-ci ne fait que ça, et le met en premier.
+L'effet de bord : `fit` ramène deux entrées, `fit` et `fît`. Le passé simple et
+le subjonctif imparfait de *faire*, côte à côte. Utile. Même chose pour `eut` /
+`eût` et `vit` / `vît`. `verify_lookup.py` l'autorise explicitement : une seule
+entrée **exacte**, et les autres doivent être la même forme aux accents près.
 
-C'est une différence réelle, mais mince. Elle mérite d'être pesée avant
-d'encoder six mille verbes.
+## Ce qui existe déjà, et qu'il faut savoir
+
+macOS livre **Oxford-Hachette** et le **Multidictionnaire de la langue
+française**, qui résolvent déjà les formes fléchies. Cherchez `fissiez` : les
+trois répondent.
+
+Le Multidictionnaire est excellent, mais il répond en lexicographe — la
+prononciation, les sens, les emplois. Il ne vous dit pas *quelle personne de
+quel temps* vous avez sous les yeux. C'est le seul trou que celui-ci remplit,
+et il vaut la peine d'être pesé avant d'encoder six mille verbes.
 
 ## Construire
 
 ```bash
 make            # setup + xml + compilation + installation
-make check      # la forme est-elle dans le XML ?
+make check      # l'analyse est-elle écrite, et juste ?
 make verify     # le bundle installé sait-il y répondre ?
 make uninstall
+```
+
+Les deux contrôles ne se recouvrent pas. `check.py` relit le XML ; `verify_lookup.py`
+interroge le bundle installé. Entre les deux il y a le compilateur d'Apple et un
+index trie qu'on ne relit pas à l'œil, donc seul le second traverse tout. Il sait
+aussi balayer le dictionnaire entier :
+
+```bash
+python3 scripts/verify_lookup.py $(python3 -c "
+import sys; sys.path.insert(0,'scripts'); import build_xml as B
+print(' '.join(sorted(B.build_index(B.load())[0])))")
 ```
 
 `make setup` clone le **Dictionary Development Kit** d'Apple dans `tools/`. Il
@@ -73,42 +102,57 @@ uniquement**, donc sur Apple Silicon il faut Rosetta 2 :
 softwareupdate --install-rosetta --agree-to-license
 ```
 
-`build_dict.sh` vise macOS 10.5 par défaut et écrit alors les données dans
-`Contents/` — une disposition que les macOS récents ne lisent plus. Le Makefile
+`build_dict.sh` vise macOS 10.5 par défaut et écrit les données dans
+`Contents/`, une disposition que les macOS récents ne lisent plus. Le Makefile
 passe `-v 10.11`, qui produit `Contents/Resources/`, un index trie et
-`IDXDictionaryVersion 3`. C'est la disposition des dictionnaires d'Apple.
+`IDXDictionaryVersion 3` — la disposition des dictionnaires d'Apple.
+
+## Ce que ça coûte à l'échelle
+
+Mesuré sur 501 verbes synthétiques, les deux découpages compilés :
+
+| | par verbe | par forme |
+|---|---|---|
+| entrées | 276 | 11 869 |
+| XML source | 3,1 Mo | 79 Mo |
+| **bundle** | **2,88 Mo** | **2,82 Mo** |
+| compilation | rapide | 80 s |
+
+Le disque ne bouge pas : les tableaux quasi identiques se compressent entre eux,
+et l'index rétrécit autant que le corps grossit. À 6 000 verbes, comptez ~34 Mo
+et **une quinzaine de minutes de compilation**. C'est le seul vrai coût.
 
 ## Disposition
 
 - `data/verbs.json` — les verbes. Six formes par temps, dans l'ordre
   je / tu / il / nous / vous / ils ; trois pour l'impératif.
-- `scripts/build_xml.py` — le générateur. Il tient l'ordre des temps, l'élision
-  (`que` + `il` → `qu'il`) et la construction des composés.
-- `scripts/check.py` — relit le XML produit. Il cherche la panne qui ne se voit
-  pas : la forme **absente**. Rien ne la référence, rien ne s'en plaint, et elle
-  ne se manifeste que le jour où on la cherche et où il ne se passe rien.
+- `scripts/build_xml.py` — le générateur. `analyses_of()` produit les analyses
+  d'un verbe, `build_index()` les fusionne par forme, `render_entry()` écrit
+  l'entrée. `build_index()` est isolé pour que le vérificateur puisse comparer le
+  bundle à ce qu'on a voulu écrire.
+- `scripts/check.py` — relit le XML. Il cherche la panne qui ne se voit pas : la
+  forme **absente** et l'analyse **fausse**. Il vérifie aussi qu'une clé
+  n'apparaît qu'une fois — deux, et la liste de résultats double une recherche.
 - `scripts/verify_lookup.py` — interroge le bundle **installé** via
-  DictionaryServices, l'API dont se sert Dictionary.app. Entre le XML et le
-  bundle il y a le compilateur d'Apple et un index qu'on ne relit pas à l'œil ;
-  c'est le seul contrôle qui traverse tout.
-- `src/conjugaison.css` — deux voix typographiques, comme dans *rappel* : le
-  français conjugué en romain à empattements, les étiquettes en sans. Les
-  accents sur du petit texte sont précisément ce qu'on lit ici.
-- `src/Info.plist` — identité du bundle. Le reste du plist est engendré par le
-  DDK.
+  DictionaryServices, l'API de Dictionary.app.
+- `src/conjugaison.css` — deux voix typographiques : le français conjugué en
+  romain à empattements, les étiquettes en sans. Les accents sur du petit texte
+  sont ce qu'on lit ici.
+- `src/Info.plist` — l'identité du bundle. Le DDK engendre le reste.
 
 ## Après la preuve de concept
 
-Le générateur est déjà écrit pour l'échelle ; ce sont les **données** qui
-manquent. Il faudrait :
+Le générateur est écrit pour l'échelle ; ce sont les **données** qui manquent.
 
-- une source de conjugaisons libre de droits — Morphalou (CNRTL, licence LGPL-LR)
-  ou le Lexique 3 donnent les formes fléchies du français par dizaines de
-  milliers ;
-- décider quoi faire des homographes entre verbes. Une forme n'a qu'une entrée
-  par verbe, mais `vis` doit produire trois lignes dans la liste des résultats ;
-- les verbes pronominaux et l'accord du participe passé avec `être`, qui ne se
-  déduit pas de l'auxiliaire seul.
+- **Une source libre.** Wiktionnaire est en CC-BY-SA et stocke déjà la bonne
+  forme — « Première personne du singulier du passé simple de voir » est une
+  analyse inversée en prose. Pour du volume, **Morphalou** (CNRTL, LGPL-LR) ou
+  **Lexique 3** donnent la même chose en tables étiquetées.
+- **leconjugueur n'est pas une source.** C'est celui du Figaro, et il est
+  protégé. Il peut arbitrer une réponse qu'on lui soumet ; il ne peut pas
+  fournir de contenu. Même règle que les volumes CLE dans *rappel*.
+- **Les pronominaux et l'accord avec `être`**, qui ne se déduit pas de
+  l'auxiliaire seul.
 
 Rien de tout ça ne change l'architecture. Un verbe de plus est un objet de plus
 dans `verbs.json`.
