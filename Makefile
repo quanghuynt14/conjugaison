@@ -12,7 +12,7 @@ export DICT_DEV_KIT_OBJ_DIR
 
 DESTINATION_FOLDER  = $(HOME)/Library/Dictionaries
 
-.PHONY: all xml build install uninstall setup clean check verify
+.PHONY: all xml build install uninstall setup clean check verify refresh
 
 all: install
 
@@ -62,10 +62,21 @@ install: build
 		$(DICT_DEV_KIT_OBJ_DIR)/$(DICT_NAME).dictionary \
 		$(DESTINATION_FOLDER)/$(DICT_NAME).dictionary
 	touch $(DESTINATION_FOLDER)
-	@killall cfprefsd Dictionary LookupViewService DictionaryServiceHelper 2>/dev/null || true
+	@$(MAKE) --no-print-directory refresh
 	@echo
 	@echo "Installé. Relancez Dictionary.app, puis Réglages > Sources et cochez"
 	@echo "« Conjugaison française ». Cherchez ensuite « fasse »."
+
+# `killall LookupViewService` ne marche pas : ce sont des services XPC, killall
+# ne les reconnaît pas et sort sans rien dire. Il y en a un par application
+# hôte, chacun garde la liste des dictionnaires pour toute sa durée de vie, et
+# on en a trouvé deux vieux de la veille. C'est ce qui a fait croire pendant
+# toute une séance que les corrections n'avaient aucun effet.
+refresh:
+	@pkill -9 -f LookupViewService 2>/dev/null || true
+	@pkill -9 -f DictionaryServiceHelper 2>/dev/null || true
+	@killall cfprefsd 2>/dev/null || true
+	@echo "Services de consultation relancés."
 
 uninstall:
 	rm -rf $(DESTINATION_FOLDER)/$(DICT_NAME).dictionary

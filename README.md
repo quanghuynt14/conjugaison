@@ -75,7 +75,26 @@ Dictionary.app, lui, continue de marcher. D'où le diagnostic impossible : tout
 ce qu'un script peut interroger dit que tout va bien.
 
 `make install` fait donc `rm -rf` sur la destination avant de copier, puis
-relance `cfprefsd` et les services de consultation.
+appelle `make refresh`.
+
+### `killall LookupViewService` ne relance rien
+
+Et c'est la moitié de l'histoire. Ce sont des services **XPC** : `killall` ne les
+reconnaît pas et sort sans rien dire. Il en tourne **un par application hôte**,
+chacun garde la liste des dictionnaires pour toute sa durée de vie — on en a
+trouvé deux vieux de la veille, lancés avant que le projet existe.
+
+D'où l'impression, pendant toute une séance, qu'aucune correction n'avait
+d'effet : la fenêtre répondait depuis un état antérieur à tout ce qu'on faisait.
+
+```make
+refresh:
+	@pkill -9 -f LookupViewService
+	@pkill -9 -f DictionaryServiceHelper
+	@killall cfprefsd
+```
+
+`pkill -f` vise la ligne de commande complète, et lui les atteint.
 
 ### Comment on l'a su
 
