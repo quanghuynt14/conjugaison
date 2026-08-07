@@ -28,12 +28,23 @@
 
 /* Ces tableaux sont la réponse — un par verbe. Tout ce qui suit n'est que la
    pièce justificative, donc ils passent en premier. */
+/* `fixed` plutôt qu'automatique : deux tableaux voisins ne se voient pas, et en
+   automatique chacun répartit sa largeur selon son propre contenu. « Indicatif
+   passé simple » étant plus long que « Indicatif présent », le tableau de voir
+   décalait sa colonne des temps par rapport à celui de vivre. Empilés, les deux
+   grilles doivent tomber au même endroit — sinon la page a l'air cassée. */
 .reverse {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
   margin-bottom: 1.2em;
   font-size: 0.88em;
 }
+
+/* 44 / 56 : le rapport des contenus les plus longs, « que vous eussiez vécu »
+   contre « Subjonctif plus-que-parfait ». En pourcentage et non en em, pour que
+   la grille suive la fenêtre au lieu de lui imposer une largeur. */
+.reverse th:first-child { width: 44%; }
 
 /* Un tableau par verbe, et sa légende le nomme. « vis » en aligne donc deux,
    vivre et voir. En colonne, le verbe répétait le même mot à chaque ligne ;
@@ -74,13 +85,20 @@
    temps. Pas de fond ici — c'est la conjugaison du bas qui s'en sert. */
 .reverse tr.row-cited .c-form { font-weight: 400; }
 
+/* Une colonne de largeur fixe déborderait si rien ne pouvait se replier. La
+   conjugaison se replie donc, mais entre les mots seulement : « que vous eussiez
+   vécu » peut passer à la ligne après « vous », jamais au milieu de « eussiez ».
+   Une forme coupée en deux ne se lit plus comme une forme. */
 .c-form {
   font-family: "Iowan Old Style", "Palatino", Georgia, serif;
   font-weight: 600;
-  white-space: nowrap;
+  hyphens: none;
 }
 
-.c-tense { white-space: nowrap; }
+/* Le libellé, lui, peut se couper au milieu d'un mot : « Subjonctif plus-que-
+   parfait » sur deux lignes ne perd rien. C'est toute la différence avec la
+   colonne d'à côté, où une coupure ferait douter de la forme. */
+.c-tense { hyphens: auto; }
 
 /* --- la conjugaison complète ---------------------------------------------- */
 
