@@ -1,7 +1,7 @@
 # Conjugaison — une conjugaison inversée pour macOS
 
-Preuve de concept. Vous sélectionnez `vis` dans n'importe quelle application,
-vous faites ⌃⌘D, et la page s'ouvre sur ceci :
+Preuve de concept. Vous cherchez `vis` dans Dictionary.app et la page s'ouvre
+sur ceci :
 
 | verbe | conjugaison | temps | personne |
 |---|---|---|---|
@@ -63,11 +63,34 @@ le subjonctif imparfait de *faire*, côte à côte. Utile. Même chose pour `eut
 `eût` et `vit` / `vît`. `verify_lookup.py` l'autorise explicitement : une seule
 entrée **exacte**, et les autres doivent être la même forme aux accents près.
 
-## L'index de référence doit être peuplé, sinon la fenêtre montre la mauvaise entrée
+## État : la fenêtre de consultation ne fonctionne pas, et on ne sait pas pourquoi
 
-Le symptôme : clic maintenu sur `fasse`, la fenêtre affiche bien « Conjugaison
-française » — et dedans, `a`, la conjugaison d'*avoir*. Pour n'importe quelle
-recherche. `a` est la **première entrée du fichier**.
+**Dictionary.app fonctionne.** Le clic maintenu et ⌃⌘D, non. Les deux sections
+qui suivent décrivent deux défauts réels, trouvés et corrigés — mais **ni l'un ni
+l'autre n'a fait marcher la fenêtre**. Ils sont documentés parce qu'ils étaient
+de vrais défauts, pas parce qu'ils étaient la cause.
+
+Ce qui est établi, par l'API :
+
+- le bundle est installé, actif, et déclare `fr` ;
+- les 162 formes renvoient la bonne entrée, y compris interrogées avec le texte
+  autour et un décalage de clic — exactement comme le fait la fenêtre ;
+- `DCSGetTermRangeInString` découpe correctement le mot sous le curseur.
+
+Ce qui reste à savoir, et qui n'a pas été testé : **un dictionnaire tiers
+apparaît-il seulement dans la fenêtre de consultation sur ce macOS ?** Le contrôle
+à faire est d'installer un dictionnaire tiers connu — websters-1913, dont ce
+projet est parti — et de faire un clic maintenu sur un mot anglais. S'il
+n'apparaît pas non plus, aucune clé de plist n'y changera rien.
+
+Tant que ce contrôle n'est pas fait, tout ce qui suit est une hypothèse.
+
+## L'index de référence était vide, et c'était un vrai défaut
+
+Le symptôme observé une fois : clic maintenu sur `fasse`, la fenêtre affichait
+bien « Conjugaison française » — et dedans, `a`, la conjugaison d'*avoir*. `a`
+est la **première entrée du fichier**. La correspondance est trop exacte pour
+être un hasard, mais la correction n'a pas suffi.
 
 Dictionary.app résout l'entrée par la recherche ; la fenêtre de consultation la
 résout par **identifiant**, dans `EntryID.index`. Et le DDK n'y met que les
@@ -93,12 +116,15 @@ preserve_unused_ref_id_in_reference_index=1 "$(DDK_BIN)/build_dict.sh" …
 avertissement une **erreur** : c'est une panne invisible partout sauf dans une
 fenêtre qu'aucun script n'ouvre.
 
-## La fenêtre de consultation filtre par langue
+## La langue n'était pas déclarée — corrigé, sans effet observé
 
-Un dictionnaire peut très bien marcher dans Dictionary.app et rester invisible
-au clic maintenu et à ⌃⌘D. C'est arrivé ici, et ce n'est pas un défaut du
-bundle : **Dictionary.app ne filtre pas par langue, la fenêtre de consultation
-si**. Sans langue déclarée, elle ne propose jamais le dictionnaire.
+Hypothèse, non vérifiée : Dictionary.app ne filtre pas par langue, la fenêtre de
+consultation si. Le nôtre n'en déclarait aucune.
+
+Ce qui affaiblit l'hypothèse : websters-1913 ne déclare **aucune** clé de langue
+non plus, et il est utilisé tel quel par d'autres. La déclaration reste juste —
+un dictionnaire français doit dire qu'il est français — mais elle n'a rien
+débloqué.
 
 Les trois clés qui manquaient, telles que les déclarent les dictionnaires
 français livrés par macOS :
