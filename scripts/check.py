@@ -24,6 +24,8 @@ X = "{http://www.w3.org/1999/xhtml}"
 
 RANK_OF_LABEL = {B.tense_label(k): r for k, r in B.SLOT_RANK.items()}
 NONFINITE_LABELS = {label for _, label in B.NONFINITE}
+# Les temps construits : la ligne dit où la forme apparaît, pas ce qu'elle est.
+CITED_LABELS = {B.tense_label(k) for k in B.COMPOSED}
 
 
 def rows_of(entry):
@@ -93,10 +95,19 @@ def main():
             if tense not in NONFINITE_LABELS and not accord:
                 problems.append(f"« {form} » : {tense} sans accord")
 
-        # L'ordre annoncé : verbe alphabétique, puis temps dans l'ordre de PLAN.
+        # L'ordre annoncé : verbe alphabétique, puis temps dans l'ordre de PLAN
+        # — mode, puis temps dans le mode. Le verbe découpe la page en tableaux,
+        # le temps ordonne chaque tableau.
         keys = [(v, RANK_OF_LABEL.get(t, 99)) for v, _, t, _ in rows]
         if keys != sorted(keys):
             problems.append(f"« {form} » : lignes hors de l'ordre annoncé")
+
+        # Une clé est d'abord une forme. Une entrée qui ne dirait que des cases
+        # construites voudrait dire qu'on a indexé un composé.
+        if all(t in CITED_LABELS for _, _, t, _ in rows):
+            problems.append(
+                f"« {form} » : que des lignes citées — une clé doit d'abord "
+                "être une forme")
 
         # Un surlignage par analyse, ni plus ni moins. Un fond en trop désigne
         # une case qui n'est pas la bonne, ce qui est un mensonge silencieux.

@@ -54,6 +54,13 @@
 
 .reverse tr:last-child td { border-bottom: none; }
 
+/* Le tableau suit l'ordre des temps, donc les lignes qui disent ce que la forme
+   *est* sont dispersées parmi les cases construites qui la citent. Elles gardent
+   le gras de la colonne « conjugaison », les citées le perdent : dans un tableau
+   de quarante-six lignes, l'œil retrouve la réponse sans lire la colonne des
+   temps. Pas de fond ici — c'est la conjugaison du bas qui s'en sert. */
+.reverse tr.row-cited .c-form { font-weight: 400; }
+
 .c-verb {
   font-family: "Iowan Old Style", "Palatino", Georgia, serif;
   font-style: italic;

@@ -18,12 +18,19 @@ Les temps composés ne sont pas stockés. Ils sont construits depuis l'auxiliair
 conjugué et le participe passé, parce que c'est ce qu'un temps composé est. Ils
 ne sont pas indexés non plus : « ai fait » fait deux mots, et d:value n'accepte
 pas l'espace.
+
+Mais ils sont *cités*. « j’ai vécu » nomme deux formes cherchables, « ai » et
+« vécu » ; chacune reçoit sa ligne dans le tableau de l'autre. Sans quoi
+chercher « vécu » répondait « participe passé » et s'arrêtait là — vrai, et
+muet sur les quarante-cinq cases où la forme travaille. Aucune clé nouvelle
+n'en sort : on ajoute des lignes, pas des entrées.
 """
 
 import collections
 import hashlib
 import json
 import pathlib
+import re
 import sys
 import unicodedata
 
@@ -95,10 +102,15 @@ NONFINITE = [
     ("part.passe", "Participe passé"),
 ]
 
-# L'ordre du tableau inversé : les temps simples dans l'ordre de PLAN, puis les
-# formes non conjuguées. Les composés n'y sont pas — ils ne sont pas indexables.
+# Les temps construits. Une ligne portant l'un d'eux dit où la forme apparaît,
+# pas ce qu'elle est — et le tableau les range après, d'où ce jeu.
+COMPOSED = {key for _, tenses in PLAN for key, _, kind, _ in tenses
+            if kind == "compose"}
+
+# L'ordre du tableau inversé : tous les temps dans l'ordre de PLAN, composés
+# compris, puis les formes non conjuguées.
 SLOT_ORDER = (
-    [key for _, tenses in PLAN for key, _, kind, _ in tenses if kind == "simple"]
+    [key for _, tenses in PLAN for key, _, _, _ in tenses]
     + [key for key, _ in NONFINITE]
 )
 SLOT_RANK = {key: i for i, key in enumerate(SLOT_ORDER)}
@@ -196,6 +208,28 @@ def analyses_of(verb, aux):
     return found
 
 
+def occurrences_of(verb, aux, keys):
+    """forme -> [Analysis], pour les cases composées de ce verbe.
+
+    « j’ai vécu » cite « ai » et « vécu ». On découpe la case en mots et on
+    garde ceux qui sont des clés du dictionnaire ; le reste — les sujets, le
+    « que » du subjonctif — n'est cherchable nulle part et ne produit rien.
+
+    Une case ne donne qu'une ligne par forme, d'où l'ensemble : c'est ce qui
+    garantit qu'une ligne du tableau vaut une case surlignée, et pas deux.
+    """
+    found = collections.defaultdict(list)
+    for _, tenses in PLAN:
+        for key, _, kind, source in tenses:
+            if kind != "compose":
+                continue
+            accords = ACCORDS_IMPER if key.startswith("imper.") else ACCORDS_FINITE
+            for i, cell in enumerate(cells_for(verb, aux, key, kind, source)):
+                for form in sorted(set(re.findall(r"\w+", cell)) & keys):
+                    found[form].append(Analysis(verb, key, i, cell, accords[i]))
+    return found
+
+
 # --- xml --------------------------------------------------------------------
 
 
@@ -283,9 +317,14 @@ def render_entry(form, records, verbs, auxiliaries):
         "      <tr><th>verbe</th><th>conjugaison</th><th>temps</th>"
         "<th>accord</th></tr>",
     ]
+    # Dans le tableau, l'ordre des temps de PLAN. Les lignes qui disent ce que
+    # la forme *est* n'y sont donc pas groupées : « Participe passé » vient
+    # après les composés qui le citent. La graisse les distingue — la
+    # conjugaison la garde sur une ligne directe, la perd sur une ligne citée.
     for r in records:
+        cls = ' class="row-cited"' if r.slot in COMPOSED else ""
         out.append(
-            f'      <tr><td class="c-verb">{esc(r.verb["infinitif"])}</td>'
+            f'      <tr{cls}><td class="c-verb">{esc(r.verb["infinitif"])}</td>'
             f'<td class="c-form">{esc(r.conjugated)}</td>'
             f'<td class="c-tense">{esc(tense_label(r.slot))}</td>'
             f'<td class="c-accord">{esc(r.accord) or "—"}</td></tr>'
@@ -326,8 +365,22 @@ def build_index(data):
         for form, records in analyses_of(verb, auxiliaries[verb["id"]]).items():
             index[form] += records
 
-    # Par verbe (alphabétique), puis par temps dans l'ordre de PLAN, puis par
-    # accord. Déterministe, donc check.py peut l'affirmer.
+    # Les composés se lisent après coup : il faut la liste complète des clés
+    # pour savoir quels mots d'une case sont cherchables. Elle est close ici —
+    # une case composée ne cite que des formes déjà indexées, donc cette
+    # seconde passe n'ajoute jamais de clé.
+    keys = set(index)
+    for verb in data["verbs"]:
+        for form, records in occurrences_of(verb, auxiliaries[verb["id"]], keys).items():
+            index[form] += records
+
+    # Par verbe (alphabétique), puis par temps dans l'ordre de PLAN — donc par
+    # mode, puis par temps dans le mode : Indicatif présent, Indicatif passé
+    # composé, Indicatif imparfait… — puis par accord.
+    #
+    # Le verbe vient en premier parce qu'il découpe la page : un tableau par
+    # verbe, et dans chacun l'ordre des temps. C'est aussi l'ordre des
+    # conjugaisons du bas. Déterministe, donc check.py peut l'affirmer.
     for records in index.values():
         records.sort(key=lambda r: (r.verb["infinitif"], SLOT_RANK[r.slot],
                                     r.slot_index))
