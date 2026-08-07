@@ -63,6 +63,41 @@ le subjonctif imparfait de *faire*, côte à côte. Utile. Même chose pour `eut
 `eût` et `vit` / `vît`. `verify_lookup.py` l'autorise explicitement : une seule
 entrée **exacte**, et les autres doivent être la même forme aux accents près.
 
+## La fenêtre de consultation filtre par langue
+
+Un dictionnaire peut très bien marcher dans Dictionary.app et rester invisible
+au clic maintenu et à ⌃⌘D. C'est arrivé ici, et ce n'est pas un défaut du
+bundle : **Dictionary.app ne filtre pas par langue, la fenêtre de consultation
+si**. Sans langue déclarée, elle ne propose jamais le dictionnaire.
+
+Les trois clés qui manquaient, telles que les déclarent les dictionnaires
+français livrés par macOS :
+
+```xml
+<key>DCSDictionaryPrimaryLanguage</key><string>fr</string>
+<key>DCSDictionaryLanguages</key>
+<array><dict>
+  <key>DCSDictionaryDescriptionLanguage</key><string>fr</string>
+  <key>DCSDictionaryIndexLanguage</key><string>fr</string>
+</dict></array>
+<key>DCSDictionaryUseSystemAppearance</key><true/>
+```
+
+La dernière n'a rien à voir avec la recherche : sans elle la fenêtre reste
+blanche en thème sombre, et le `prefers-color-scheme` du CSS ne sert à rien.
+
+Le DDK laisse passer les clés qu'il ne connaît pas, y compris les tableaux
+imbriqués — vérifié sur le plist compilé. `make verify` affiche désormais la
+langue déclarée et refuse de passer si ce n'est pas `fr`, parce que c'est une
+panne qui ne se voit que dans une fenêtre qu'aucun script n'ouvre.
+
+Après un changement de plist, il faut relancer les services qui gardent ces
+métadonnées en cache :
+
+```bash
+killall LookupViewService Dictionary DictionaryServiceHelper
+```
+
 ## Ce qui existe déjà, et qu'il faut savoir
 
 macOS livre **Oxford-Hachette** et le **Multidictionnaire de la langue

@@ -11,12 +11,14 @@ Usage :  python3 scripts/verify_lookup.py [forme…]
 import ctypes
 import ctypes.util
 import pathlib
+import plistlib
 import sys
 import unicodedata
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import build_xml as B  # noqa: E402  — pour retrouver ce qu'on a voulu écrire
 
+ROOT = pathlib.Path(__file__).resolve().parent.parent
 BUNDLE = pathlib.Path.home() / "Library/Dictionaries/Conjugaison.dictionary"
 DEFAULT_FORMS = ["vis", "fasse", "faites", "visse", "vît", "faire"]
 
@@ -41,7 +43,11 @@ for fn, res, args in [
     (cf.CFArrayGetCount, CFIndex, [ctypes.c_void_p]),
     (cf.CFArrayGetValueAtIndex, ctypes.c_void_p, [ctypes.c_void_p, CFIndex]),
     (cs.DCSCopyAvailableDictionaries, ctypes.c_void_p, []),
+    # Sans restype déclaré, ctypes rend un c_int et tronque le pointeur.
+    (cs.DCSGetActiveDictionaries, ctypes.c_void_p, []),
     (cs.DCSDictionaryGetName, ctypes.c_void_p, [ctypes.c_void_p]),
+    (cs.DCSDictionaryGetIdentifier, ctypes.c_void_p, [ctypes.c_void_p]),
+    (cs.DCSDictionaryGetPrimaryLanguage, ctypes.c_void_p, [ctypes.c_void_p]),
     (cs.DCSCopyRecordsForSearchString, ctypes.c_void_p,
      [ctypes.c_void_p] * 4),
     (cs.DCSRecordGetHeadword, ctypes.c_void_p, [ctypes.c_void_p]),
@@ -72,37 +78,72 @@ def pystr(ref):
     return buf.value.decode("utf-8")
 
 
-def find_dictionary(name):
+def bundle_identifier():
+    return plistlib.loads(
+        (ROOT / "src" / "Info.plist").read_bytes())["CFBundleIdentifier"]
+
+
+def find_dictionary(identifier):
     """On demande la référence au système plutôt que de la fabriquer depuis l'URL.
 
     DCSDictionaryCreate() renvoie NULL même sur un bundle sain — vérifié contre
     websters-1913, qui fonctionne. Le système, lui, tient la liste des
     dictionnaires qu'il a indexés ; en faire partie est déjà la moitié du test.
+
+    On cherche par identifiant, pas par nom : le nom affiché change dès qu'on
+    touche à CFBundleDisplayName, et ce vérificateur s'est déjà cassé une fois
+    pour cette raison.
     """
     available = cs.DCSCopyAvailableDictionaries()
     count = cf.CFSetGetCount(available) if available else 0
     refs = (ctypes.c_void_p * count)()
     cf.CFSetGetValues(available, refs)
     for ref in refs:
-        if pystr(cs.DCSDictionaryGetName(ref)) == name:
+        if pystr(cs.DCSDictionaryGetIdentifier(ref)) == identifier:
             return ref
     return None
+
+
+def active_identifiers():
+    active = cs.DCSGetActiveDictionaries()
+    count = cf.CFSetGetCount(active) if active else 0
+    refs = (ctypes.c_void_p * count)()
+    cf.CFSetGetValues(active, refs)
+    return {pystr(cs.DCSDictionaryGetIdentifier(r)) for r in refs}
 
 
 def main():
     if not BUNDLE.exists():
         sys.exit(f"{BUNDLE} absent. Lancez `make install`.")
 
-    dictionary = find_dictionary(BUNDLE.stem)
+    identifier = bundle_identifier()
+    dictionary = find_dictionary(identifier)
     if not dictionary:
         sys.exit(
-            f"« {BUNDLE.stem} » n'est pas dans la liste du système. Le bundle est "
+            f"« {identifier} » n'est pas dans la liste du système. Le bundle est "
             "installé mais macOS ne l'a pas indexé : relancez Dictionary.app."
         )
 
     expected, _, _ = B.build_index(B.load())
-
     problems = []
+
+    print(f"  {pystr(cs.DCSDictionaryGetName(dictionary))}  [{identifier}]")
+
+    # Actif, sinon rien ne le consultera — ni Dictionary.app, ni la fenêtre ⌃⌘D.
+    if identifier not in active_identifiers():
+        problems.append(
+            "le dictionnaire est installé mais pas coché : Dictionary.app > "
+            "Réglages, puis cochez-le")
+
+    # La langue est ce qui décide de sa présence dans la fenêtre de consultation.
+    # Dictionary.app ne filtre pas ; ⌃⌘D et le clic maintenu, si.
+    language = pystr(cs.DCSDictionaryGetPrimaryLanguage(dictionary))
+    print(f"  langue déclarée : {language or 'AUCUNE'}")
+    if language != "fr":
+        problems.append(
+            f"langue « {language} » au lieu de « fr » — la fenêtre de "
+            "consultation ne le proposera pas")
+    print()
     for form in sys.argv[1:] or DEFAULT_FORMS:
         records = cs.DCSCopyRecordsForSearchString(dictionary, cfstr(form), None, None)
         count = cf.CFArrayGetCount(records) if records else 0

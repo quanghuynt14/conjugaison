@@ -4,15 +4,41 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>French</string>
+	<key>CFBundleDisplayName</key>
+	<string>Conjugaison française</string>
 	<key>CFBundleIdentifier</key>
 	<string>fr.huy.conjugaison</string>
 	<key>CFBundleName</key>
 	<string>Conjugaison française</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.1</string>
+	<string>0.2</string>
 	<key>DCSDictionaryCopyright</key>
 	<string>Conjugaisons : domaine public. Rédaction et code : Huy.</string>
 	<key>DCSDictionaryManufacturerName</key>
 	<string>Huy</string>
+	<key>DCSDictionaryNativeDisplayName</key>
+	<string>Conjugaison</string>
+
+	<!-- La fenêtre de consultation (⌃⌘D, clic maintenu, Recherche) filtre les
+	     dictionnaires par langue. Sans ces clés, le nôtre ne déclare aucune
+	     langue et n'est jamais proposé, alors qu'il apparaît normalement dans
+	     Dictionary.app — qui, lui, ne filtre pas. Les dictionnaires français
+	     livrés par macOS déclarent exactement ceci. -->
+	<key>DCSDictionaryPrimaryLanguage</key>
+	<string>fr</string>
+	<key>DCSDictionaryLanguages</key>
+	<array>
+		<dict>
+			<key>DCSDictionaryDescriptionLanguage</key>
+			<string>fr</string>
+			<key>DCSDictionaryIndexLanguage</key>
+			<string>fr</string>
+		</dict>
+	</array>
+
+	<!-- Sans quoi la fenêtre reste blanche en thème sombre et le CSS
+	     prefers-color-scheme ne sert à rien. -->
+	<key>DCSDictionaryUseSystemAppearance</key>
+	<true/>
 </dict>
 </plist>
