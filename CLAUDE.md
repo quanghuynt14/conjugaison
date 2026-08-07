@@ -1,13 +1,13 @@
 # Conjugaison
 
-## Référence
+## Références
 
-**James Somers, « You're probably using the wrong dictionary » —
-https://jsomers.net/blog/dictionary**
+### L'article — https://jsomers.net/blog/dictionary
 
-L'article de référence du projet. À relire avant toute décision sur ce à quoi
-une entrée doit ressembler, ou sur la façon dont un dictionnaire tiers entre
-dans Dictionary.app.
+James Somers, « You're probably using the wrong dictionary ». L'article de
+référence du projet. À relire avant toute décision sur ce à quoi une entrée
+doit ressembler, ou sur la façon dont un dictionnaire tiers entre dans
+Dictionary.app.
 
 Ce qu'on y trouve :
 
@@ -24,6 +24,19 @@ Ce qu'on y trouve :
   un dictionnaire converti sort typographiquement faux, et la feuille de style
   du bundle est là pour ça. `src/conjugaison.css` joue le même rôle.
 
-websters-1913 sert déjà de témoin dans ce dépôt — c'est le dictionnaire tiers
-avec lequel on compare quand une pièce du bundle a l'air anormale (l'index de
-référence, par exemple).
+### Le bundle — https://github.com/cmod/websters-1913
+
+Webster 1913 empaqueté et restylé pour Dictionary.app. Le contenu vient du
+parseur de ponychicken ; ce dépôt-ci n'ajoute que la CSS, et son auteur le dit
+en toutes lettres. Donc : pas de Makefile, pas de DDK, aucun réglage de
+compilation à y chercher. Ce qu'on y prend, c'est un `.dictionary` construit et
+qui marche.
+
+Deux usages :
+
+- **Témoin.** C'est le bundle avec lequel on compare quand une pièce du nôtre a
+  l'air anormale. C'est comme ça qu'on a su qu'un `EntryID.index` vide était un
+  défaut : le sien est peuplé.
+- **Modèle typographique.** Un dictionnaire lu dans une petite fenêtre est un
+  problème de CSS avant d'être un problème de données. `src/conjugaison.css`
+  répond à la même question.
