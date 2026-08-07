@@ -1,0 +1,43 @@
+{
+  "_comment": "Une entrée par verbe. Les six formes sont dans l'ordre je / tu / il / nous / vous / ils. L'impératif n'en a que trois : tu / nous / vous.",
+  "verbs": [
+    {
+      "id": "faire",
+      "infinitif": "faire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Verbe irrégulier. Le radical change quatre fois : fai- (fais, faisons), f- (font, ferai), fi- (fis), fass- (fasse). Attention à « vous faites », l'une des trois formes en -tes de la langue, avec « vous dites » et « vous êtes ».",
+      "tenses": {
+        "ind.pres": ["fais", "fais", "fait", "faisons", "faites", "font"],
+        "ind.imp": ["faisais", "faisais", "faisait", "faisions", "faisiez", "faisaient"],
+        "ind.ps": ["fis", "fis", "fit", "fîmes", "fîtes", "firent"],
+        "ind.fut": ["ferai", "feras", "fera", "ferons", "ferez", "feront"],
+        "cond.pres": ["ferais", "ferais", "ferait", "ferions", "feriez", "feraient"],
+        "subj.pres": ["fasse", "fasses", "fasse", "fassions", "fassiez", "fassent"],
+        "subj.imp": ["fisse", "fisses", "fît", "fissions", "fissiez", "fissent"],
+        "imper.pres": ["fais", "faisons", "faites"]
+      },
+      "participe_present": "faisant",
+      "participe_passe": ["fait", "faite", "faits", "faites"]
+    },
+    {
+      "id": "avoir",
+      "infinitif": "avoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Auxiliaire. Il sert à former les temps composés de la plupart des verbes — d'où sa présence ici : sans lui, « j'ai fait » ne se conjugue pas.",
+      "tenses": {
+        "ind.pres": ["ai", "as", "a", "avons", "avez", "ont"],
+        "ind.imp": ["avais", "avais", "avait", "avions", "aviez", "avaient"],
+        "ind.ps": ["eus", "eus", "eut", "eûmes", "eûtes", "eurent"],
+        "ind.fut": ["aurai", "auras", "aura", "aurons", "aurez", "auront"],
+        "cond.pres": ["aurais", "aurais", "aurait", "aurions", "auriez", "auraient"],
+        "subj.pres": ["aie", "aies", "ait", "ayons", "ayez", "aient"],
+        "subj.imp": ["eusse", "eusses", "eût", "eussions", "eussiez", "eussent"],
+        "imper.pres": ["aie", "ayons", "ayez"]
+      },
+      "participe_present": "ayant",
+      "participe_passe": ["eu", "eue", "eus", "eues"]
+    }
+  ]
+}

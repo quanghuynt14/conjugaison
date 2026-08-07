@@ -1,0 +1,11 @@
+# Sortie du compilateur d'Apple.
+objects/
+
+# Le Dictionary Development Kit est à Apple. On le clone, on ne le commite pas.
+tools/dictionary-development-kit/
+
+.DS_Store
+__pycache__/
+
+# Engendré par scripts/build_xml.py, supprimé par `make clean`.
+src/conjugaison.xml
