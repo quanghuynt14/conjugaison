@@ -29,13 +29,31 @@ CITED_LABELS = {B.tense_label(k) for k in B.COMPOSED}
 
 
 def rows_of(entry):
-    """[(verbe, conjugaison, temps, accord)] du tableau inversé."""
+    """[(verbe, conjugaison, temps)], tous tableaux inversés confondus.
+
+    Le verbe est en légende et non plus en colonne : il vaut pour tout un
+    tableau. On le rattache à chaque ligne pour que les contrôles qui suivent
+    n'aient pas à connaître le découpage.
+    """
     out = []
-    for tr in entry.iter(f"{X}tr"):
-        cells = [(td.text or "").strip() for td in tr.findall(f"{X}td")]
-        if len(cells) == 4:
-            out.append(tuple(cells))
+    for table in entry.iter(f"{X}table"):
+        if "reverse" not in (table.get("class") or ""):
+            continue
+        caption = table.find(f"{X}caption")
+        verb = (caption.text or "").strip() if caption is not None else ""
+        for tr in table.iter(f"{X}tr"):
+            cells = [(td.text or "").strip() for td in tr.findall(f"{X}td")]
+            if len(cells) == len(B.REVERSE_COLUMNS):
+                out.append((verb, *cells))
     return out
+
+
+def captions_of(entry):
+    """Les verbes en légende, dans l'ordre des tableaux."""
+    return [(t.find(f"{X}caption").text or "").strip()
+            for t in entry.iter(f"{X}table")
+            if "reverse" in (t.get("class") or "")
+            and t.find(f"{X}caption") is not None]
 
 
 def main():
@@ -101,6 +119,18 @@ def main():
         keys = [(v, RANK_OF_LABEL.get(t, 99)) for v, _, t, _ in rows]
         if keys != sorted(keys):
             problems.append(f"« {form} » : lignes hors de l'ordre annoncé")
+
+        # Un tableau par verbe, et il se nomme. Une légende vide ou en double
+        # veut dire qu'une ligne est rattachée au mauvais verbe — le seul
+        # endroit où le verbe est encore écrit.
+        captions = captions_of(entry)
+        if not all(captions):
+            problems.append(f"« {form} » : tableau inversé sans légende")
+        if len(captions) != len(set(captions)):
+            problems.append(
+                f"« {form} » : deux tableaux pour le même verbe — {captions}")
+        if captions != sorted(captions):
+            problems.append(f"« {form} » : tableaux hors de l'ordre alphabétique")
 
         # Une clé est d'abord une forme. Une entrée qui ne dirait que des cases
         # construites voudrait dire qu'on a indexé un composé.

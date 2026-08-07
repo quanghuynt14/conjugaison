@@ -102,6 +102,11 @@ NONFINITE = [
     ("part.passe", "Participe passé"),
 ]
 
+# Les colonnes du tableau inversé. Le verbe n'y est pas : il est en légende,
+# une fois par tableau. verify_lookup.py s'en sert pour reconnaître un tableau
+# dans le texte brut que rend Dictionary.app.
+REVERSE_COLUMNS = ("conjugaison", "temps", "accord")
+
 # Les temps construits. Une ligne portant l'un d'eux dit où la forme apparaît,
 # pas ce qu'elle est — et le tableau les range après, d'où ce jeu.
 COMPOSED = {key for _, tenses in PLAN for key, _, kind, _ in tenses
@@ -306,16 +311,27 @@ def render_table(verb, aux, matches):
     return out
 
 
-def render_entry(form, records, verbs, auxiliaries):
-    """Une entrée : le tableau inversé, puis la conjugaison de chaque verbe cité."""
+def group_by_verb(records):
+    """[(verb, [Analysis])], verbes alphabétiques, ordre des lignes préservé."""
+    grouped = collections.defaultdict(list)
+    for r in records:
+        grouped[r.verb["id"]].append(r)
+    return [(rs[0].verb, rs) for _, rs in
+            sorted(grouped.items(), key=lambda kv: kv[1][0].verb["infinitif"])]
+
+
+def render_reverse(verb, records):
+    """Le tableau inversé d'un seul verbe. « vis » en a deux, vivre et voir.
+
+    Le verbe passe en légende. En colonne il répétait le même mot sur toutes les
+    lignes du groupe — quarante-six fois pour « vécu » — et il n'y disait rien
+    que le groupe ne dise déjà. Restent les colonnes qui varient d'une ligne à
+    l'autre.
+    """
     out = [
-        f'<d:entry id="f_{slug(form)}" d:title="{esc(form)}">',
-        f'  <d:index d:value="{esc(form)}" d:title="{esc(form)}"/>',
-        '  <div class="form-entry">',
-        f'    <h1 class="searched">{esc(form)}</h1>',
         '    <table class="reverse">',
-        "      <tr><th>verbe</th><th>conjugaison</th><th>temps</th>"
-        "<th>accord</th></tr>",
+        f'      <caption>{esc(verb["infinitif"])}</caption>',
+        "      <tr>" + "".join(f"<th>{c}</th>" for c in REVERSE_COLUMNS) + "</tr>",
     ]
     # Dans le tableau, l'ordre des temps de PLAN. Les lignes qui disent ce que
     # la forme *est* n'y sont donc pas groupées : « Participe passé » vient
@@ -324,21 +340,32 @@ def render_entry(form, records, verbs, auxiliaries):
     for r in records:
         cls = ' class="row-cited"' if r.slot in COMPOSED else ""
         out.append(
-            f'      <tr{cls}><td class="c-verb">{esc(r.verb["infinitif"])}</td>'
-            f'<td class="c-form">{esc(r.conjugated)}</td>'
+            f'      <tr{cls}><td class="c-form">{esc(r.conjugated)}</td>'
             f'<td class="c-tense">{esc(tense_label(r.slot))}</td>'
             f'<td class="c-accord">{esc(r.accord) or "—"}</td></tr>'
         )
     out.append("    </table>")
+    return out
 
-    seen = []
-    for r in records:
-        if r.verb["id"] not in seen:
-            seen.append(r.verb["id"])
-    for vid in seen:
-        verb = verbs[vid]
-        matches = {(r.slot, r.slot_index) for r in records if r.verb["id"] == vid}
-        out += render_table(verb, auxiliaries[vid], matches)
+
+def render_entry(form, records, verbs, auxiliaries):
+    """Une entrée : un tableau inversé par verbe, puis leurs conjugaisons.
+
+    Les deux moitiés de la page listent les mêmes verbes dans le même ordre.
+    """
+    out = [
+        f'<d:entry id="f_{slug(form)}" d:title="{esc(form)}">',
+        f'  <d:index d:value="{esc(form)}" d:title="{esc(form)}"/>',
+        '  <div class="form-entry">',
+        f'    <h1 class="searched">{esc(form)}</h1>',
+    ]
+
+    groups = group_by_verb(records)
+    for verb, rows in groups:
+        out += render_reverse(verb, rows)
+    for verb, rows in groups:
+        matches = {(r.slot, r.slot_index) for r in rows}
+        out += render_table(verb, auxiliaries[verb["id"]], matches)
 
     out.append("  </div>")
     out.append("</d:entry>")

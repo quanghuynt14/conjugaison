@@ -176,20 +176,32 @@ def main():
             # qui y mène. On le dit, plutôt que d'afficher une coche.
             print(f"  ~ « {form} »  pas une forme ; mène à {', '.join(headwords)}")
 
-        # Dictionary.app rend le tableau en texte brut, cellules collées bout à
-        # bout. On ne cherche donc pas à le relire — on reconstruit la ligne
-        # attendue depuis le générateur et on exige de la retrouver telle quelle.
+        # Dictionary.app rend les tableaux en texte brut : les cellules d'une
+        # ligne collées bout à bout, les lignes séparées par un saut. Un tableau
+        # s'y retrouve donc en bloc — sa légende, ses en-têtes, puis ses lignes
+        # dans l'ordre. On ne cherche pas à le relire, on le reconstruit depuis
+        # le générateur et on exige le bloc entier.
+        #
+        # Le bloc, et pas les lignes une à une : le verbe n'est plus dans la
+        # ligne mais en légende, et seule la contiguïté prouve que ces lignes-là
+        # sont sous ce verbe-là.
         text = pystr(cs.DCSCopyTextDefinition(dictionary, cfstr(form),
                                               CFRange(0, len(form)))) or ""
-        for record in expected.get(form, []):
-            row = (f"{record.verb['infinitif']}{record.conjugated}"
-                   f"{B.tense_label(record.slot)}{record.accord or '—'}")
-            mark = "✓" if row in text else "✗"
-            if mark == "✗":
-                problems.append(f"« {form} » : ligne absente du bundle — {row}")
-            print(f"        {mark} {record.verb['infinitif']:<7} "
-                  f"{record.conjugated:<16} {B.tense_label(record.slot):<24} "
-                  f"{record.accord or '—'}")
+        for verb, records in B.group_by_verb(expected.get(form, [])):
+            rows = [f"{r.conjugated}{B.tense_label(r.slot)}{r.accord or '—'}"
+                    for r in records]
+            block = "\n".join([verb["infinitif"], "".join(B.REVERSE_COLUMNS), *rows])
+            whole = block in text
+            if not whole:
+                problems.append(
+                    f"« {form} » : le tableau de « {verb['infinitif']} » ne se "
+                    "retrouve pas tel quel dans le bundle")
+            for record, row in zip(records, rows):
+                # Le bloc a échoué : on redescend à la ligne pour dire laquelle.
+                mark = "✓" if whole or row in text else "✗"
+                print(f"        {mark} {verb['infinitif']:<7} "
+                      f"{record.conjugated:<16} {B.tense_label(record.slot):<24} "
+                      f"{record.accord or '—'}")
 
     if problems:
         print()

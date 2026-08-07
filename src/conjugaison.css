@@ -24,15 +24,28 @@
   margin: 0 0 0.35em;
 }
 
-/* --- le tableau inversé --------------------------------------------------- */
+/* --- les tableaux inversés ------------------------------------------------- */
 
-/* Ce tableau est la réponse. Tout ce qui suit n'est que la pièce justificative,
-   donc il passe en premier et il est le seul élément encadré de la page. */
+/* Ces tableaux sont la réponse — un par verbe. Tout ce qui suit n'est que la
+   pièce justificative, donc ils passent en premier. */
 .reverse {
   width: 100%;
   border-collapse: collapse;
-  margin-bottom: 1.6em;
+  margin-bottom: 1.2em;
   font-size: 0.88em;
+}
+
+/* Un tableau par verbe, et sa légende le nomme. « vis » en aligne donc deux,
+   vivre et voir. En colonne, le verbe répétait le même mot à chaque ligne ;
+   en légende il le dit une fois et sert de titre au groupe. */
+.reverse caption {
+  caption-side: top;
+  text-align: left;
+  font-family: "Iowan Old Style", "Palatino", Georgia, serif;
+  font-style: italic;
+  font-size: 1.1em;
+  color: #8a3a3a;
+  padding-bottom: 0.15em;
 }
 
 .reverse th {
@@ -60,12 +73,6 @@
    de quarante-six lignes, l'œil retrouve la réponse sans lire la colonne des
    temps. Pas de fond ici — c'est la conjugaison du bas qui s'en sert. */
 .reverse tr.row-cited .c-form { font-weight: 400; }
-
-.c-verb {
-  font-family: "Iowan Old Style", "Palatino", Georgia, serif;
-  font-style: italic;
-  color: #8a3a3a;
-}
 
 .c-form {
   font-family: "Iowan Old Style", "Palatino", Georgia, serif;
@@ -193,7 +200,7 @@
 
 @media (prefers-color-scheme: dark) {
   .reverse th { color: #9a9a9a; }
-  .c-verb { color: #e09a9a; }
+  .reverse caption { color: #e09a9a; }
   .c-accord, .meta, .nf-label { color: #9a9a9a; }
   .mode > h3 { color: #e08c8c; }
   .tense > h4 { color: #cfcfcf; }
