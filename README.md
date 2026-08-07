@@ -1,7 +1,7 @@
 # Conjugaison — une conjugaison inversée pour macOS
 
-Preuve de concept. Vous cherchez `vis` dans Dictionary.app et la page s'ouvre
-sur ceci :
+Preuve de concept. Vous sélectionnez `vis` dans n'importe quelle application,
+vous faites ⌃⌘D, et la page s'ouvre sur ceci :
 
 | verbe | conjugaison | temps | personne |
 |---|---|---|---|
@@ -63,96 +63,71 @@ le subjonctif imparfait de *faire*, côte à côte. Utile. Même chose pour `eut
 `eût` et `vit` / `vît`. `verify_lookup.py` l'autorise explicitement : une seule
 entrée **exacte**, et les autres doivent être la même forme aux accents près.
 
-## État : la fenêtre de consultation ne fonctionne pas, et on ne sait pas pourquoi
+## Réinstaller par-dessus casse la fenêtre de consultation
 
-**Dictionary.app fonctionne.** Le clic maintenu et ⌃⌘D, non. Les deux sections
-qui suivent décrivent deux défauts réels, trouvés et corrigés — mais **ni l'un ni
-l'autre n'a fait marcher la fenêtre**. Ils sont documentés parce qu'ils étaient
-de vrais défauts, pas parce qu'ils étaient la cause.
+C'est la panne qui a coûté le plus cher, et elle n'est dans aucun fichier du
+projet : elle est dans la façon d'installer.
 
-Ce qui est établi, par l'API :
+`ditto` par-dessus un bundle déjà en place laisse macOS avec un index périmé. Le
+dictionnaire continue de répondre à l'API — `make verify` passait, les 162
+formes revenaient justes — et **disparaît de la fenêtre de consultation**.
+Dictionary.app, lui, continue de marcher. D'où le diagnostic impossible : tout
+ce qu'un script peut interroger dit que tout va bien.
 
-- le bundle est installé, actif, et déclare `fr` ;
-- les 162 formes renvoient la bonne entrée, y compris interrogées avec le texte
-  autour et un décalage de clic — exactement comme le fait la fenêtre ;
-- `DCSGetTermRangeInString` découpe correctement le mot sous le curseur.
+`make install` fait donc `rm -rf` sur la destination avant de copier, puis
+relance `cfprefsd` et les services de consultation.
 
-Ce qui reste à savoir, et qui n'a pas été testé : **un dictionnaire tiers
-apparaît-il seulement dans la fenêtre de consultation sur ce macOS ?** Le contrôle
-à faire est d'installer un dictionnaire tiers connu — websters-1913, dont ce
-projet est parti — et de faire un clic maintenu sur un mot anglais. S'il
-n'apparaît pas non plus, aucune clé de plist n'y changera rien.
+### Comment on l'a su
 
-Tant que ce contrôle n'est pas fait, tout ce qui suit est une hypothèse.
+Trois hypothèses successives — identifiant, langue déclarée, index de référence
+vide — chacune plausible, chacune corrigée, aucune n'ayant rien changé. La
+sortie a été d'installer **cinq variantes côte à côte**, isolant un facteur
+chacune, et de faire un seul clic maintenu :
 
-## L'index de référence était vide, et c'était un vrai défaut
+| | identifiant | langue | index de référence |
+|---|---|---|---|
+| A | `fr.huy.*` | `fr` | peuplé |
+| B | `fr.huy.*` | aucune | peuplé |
+| C | `fr.huy.*` | `fr` | vide |
+| D | `com.apple.*` | aucune | peuplé |
+| E | `fr.huy.*` | aucune | vide |
 
-Le symptôme observé une fois : clic maintenu sur `fasse`, la fenêtre affichait
-bien « Conjugaison française » — et dedans, `a`, la conjugaison d'*avoir*. `a`
-est la **première entrée du fichier**. La correspondance est trop exacte pour
-être un hasard, mais la correction n'a pas suffi.
+**Les cinq sont apparues.** Aucun des trois facteurs ne conditionnait la
+visibilité ; installées proprement, toutes marchaient. Ce qui distinguait le
+dictionnaire cassé n'était pas son contenu mais son installation.
 
-Dictionary.app résout l'entrée par la recherche ; la fenêtre de consultation la
-résout par **identifiant**, dans `EntryID.index`. Et le DDK n'y met que les
-entrées *citées* — par un lien `x-dictionary:r:` ou par
-`DCSDictionaryFrontMatterReferenceID`. Sans l'un ni l'autre, l'index sort vide,
-la résolution échoue, et la fenêtre retombe sur l'entrée numéro zéro.
+Une variante isole un facteur ; cinq installées ensemble isolent tout l'espace
+en un essai. À refaire dès qu'une panne ne se voit que dans une fenêtre.
 
-Le DDK le disait à chaque build, et continuait :
+### Ce que l'ordre a appris
+
+Elles sont sorties dans l'ordre D, B, E, C, A : les trois **sans langue
+déclarée** d'abord, les deux qui déclaraient `fr` ensuite. Déclarer la langue ne
+conditionne pas la visibilité — elle **dégrade le classement**. Les clés ont donc
+été retirées, et `make verify` refuse maintenant qu'on en déclare une.
+websters-1913 n'en déclare aucune non plus.
+
+## L'index de référence, gardé sans être la cause
+
+Le DDK ne met dans `EntryID.index` que les entrées *citées* — par un lien
+`x-dictionary:r:` ou par `DCSDictionaryFrontMatterReferenceID`. Sans l'un ni
+l'autre l'index sort vide, et le build le dit à chaque fois avant de continuer :
 
 ```
 - Building reference index.
 * Note: No reference index record.
 ```
 
-`build_dict.sh` a un interrupteur pour ça, qui n'est documenté que dans son
-propre code :
+L'interrupteur n'est documenté que dans le code de `build_dict.sh` :
 
 ```make
 preserve_unused_ref_id_in_reference_index=1 "$(DDK_BIN)/build_dict.sh" …
 ```
 
-`EntryID.data` passe de 64 octets à 22 592. Le Makefile fait maintenant de cet
-avertissement une **erreur** : c'est une panne invisible partout sauf dans une
-fenêtre qu'aucun script n'ouvre.
-
-## La langue n'était pas déclarée — corrigé, sans effet observé
-
-Hypothèse, non vérifiée : Dictionary.app ne filtre pas par langue, la fenêtre de
-consultation si. Le nôtre n'en déclarait aucune.
-
-Ce qui affaiblit l'hypothèse : websters-1913 ne déclare **aucune** clé de langue
-non plus, et il est utilisé tel quel par d'autres. La déclaration reste juste —
-un dictionnaire français doit dire qu'il est français — mais elle n'a rien
-débloqué.
-
-Les trois clés qui manquaient, telles que les déclarent les dictionnaires
-français livrés par macOS :
-
-```xml
-<key>DCSDictionaryPrimaryLanguage</key><string>fr</string>
-<key>DCSDictionaryLanguages</key>
-<array><dict>
-  <key>DCSDictionaryDescriptionLanguage</key><string>fr</string>
-  <key>DCSDictionaryIndexLanguage</key><string>fr</string>
-</dict></array>
-<key>DCSDictionaryUseSystemAppearance</key><true/>
-```
-
-La dernière n'a rien à voir avec la recherche : sans elle la fenêtre reste
-blanche en thème sombre, et le `prefers-color-scheme` du CSS ne sert à rien.
-
-Le DDK laisse passer les clés qu'il ne connaît pas, y compris les tableaux
-imbriqués — vérifié sur le plist compilé. `make verify` affiche désormais la
-langue déclarée et refuse de passer si ce n'est pas `fr`, parce que c'est une
-panne qui ne se voit que dans une fenêtre qu'aucun script n'ouvre.
-
-Après un changement de plist, il faut relancer les services qui gardent ces
-métadonnées en cache :
-
-```bash
-killall LookupViewService Dictionary DictionaryServiceHelper
-```
+`EntryID.data` passe de 64 octets à 22 592. C'est gardé, et le Makefile fait de
+l'avertissement une erreur — un index de référence vide reste un défaut, et
+websters-1913 a le sien peuplé. Mais **ce n'était pas la cause** de la fenêtre
+vide : la variante E, index vide, s'affichait très bien.
 
 ## Ce qui existe déjà, et qu'il faut savoir
 

@@ -11,7 +11,7 @@
 	<key>CFBundleName</key>
 	<string>Conjugaison française</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.2</string>
+	<string>0.3</string>
 	<key>DCSDictionaryCopyright</key>
 	<string>Conjugaisons : domaine public. Rédaction et code : Huy.</string>
 	<key>DCSDictionaryManufacturerName</key>
@@ -19,26 +19,16 @@
 	<key>DCSDictionaryNativeDisplayName</key>
 	<string>Conjugaison</string>
 
-	<!-- La fenêtre de consultation (⌃⌘D, clic maintenu, Recherche) filtre les
-	     dictionnaires par langue. Sans ces clés, le nôtre ne déclare aucune
-	     langue et n'est jamais proposé, alors qu'il apparaît normalement dans
-	     Dictionary.app — qui, lui, ne filtre pas. Les dictionnaires français
-	     livrés par macOS déclarent exactement ceci. -->
-	<key>DCSDictionaryPrimaryLanguage</key>
-	<string>fr</string>
-	<key>DCSDictionaryLanguages</key>
-	<array>
-		<dict>
-			<key>DCSDictionaryDescriptionLanguage</key>
-			<string>fr</string>
-			<key>DCSDictionaryIndexLanguage</key>
-			<string>fr</string>
-		</dict>
-	</array>
-
-	<!-- Sans quoi la fenêtre reste blanche en thème sombre et le CSS
-	     prefers-color-scheme ne sert à rien. -->
+	<!-- Sans quoi la fenêtre de consultation reste blanche en thème sombre et le
+	     prefers-color-scheme du CSS ne sert à rien. -->
 	<key>DCSDictionaryUseSystemAppearance</key>
 	<true/>
+
+	<!-- Pas de DCSDictionaryPrimaryLanguage ni de DCSDictionaryLanguages, et ce
+	     n'est pas un oubli. Mesuré sur cinq variantes installées côte à côte :
+	     les trois sans langue déclarée sortaient en tête de la fenêtre de
+	     consultation, les deux qui déclaraient « fr » en queue. Déclarer la
+	     langue ne conditionne pas la visibilité — elle dégrade le classement.
+	     websters-1913 n'en déclare aucune non plus. -->
 </dict>
 </plist>

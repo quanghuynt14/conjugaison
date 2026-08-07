@@ -135,14 +135,14 @@ def main():
             "le dictionnaire est installé mais pas coché : Dictionary.app > "
             "Réglages, puis cochez-le")
 
-    # La langue est ce qui décide de sa présence dans la fenêtre de consultation.
-    # Dictionary.app ne filtre pas ; ⌃⌘D et le clic maintenu, si.
+    # Aucune langue déclarée, volontairement : mesuré sur cinq variantes, celles
+    # qui déclaraient « fr » sortaient en queue de la fenêtre de consultation.
     language = pystr(cs.DCSDictionaryGetPrimaryLanguage(dictionary))
-    print(f"  langue déclarée : {language or 'AUCUNE'}")
-    if language != "fr":
+    print(f"  langue déclarée : {language or 'aucune (voulu)'}")
+    if language:
         problems.append(
-            f"langue « {language} » au lieu de « fr » — la fenêtre de "
-            "consultation ne le proposera pas")
+            f"langue « {language} » déclarée — mesurée comme dégradant le "
+            "classement dans la fenêtre de consultation")
     print()
     for form in sys.argv[1:] or DEFAULT_FORMS:
         records = cs.DCSCopyRecordsForSearchString(dictionary, cfstr(form), None, None)

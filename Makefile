@@ -50,12 +50,19 @@ build: setup xml
 		exit 1; \
 	fi
 
+# Le `rm -rf` n'est pas une précaution de style. `ditto` par-dessus un bundle
+# déjà en place laisse macOS avec un index périmé : le dictionnaire continue de
+# répondre à l'API et disparaît de la fenêtre de consultation. C'est ce qui a
+# coûté trois fausses pistes — plist, langue, index de référence — alors que
+# réinstaller proprement suffisait.
 install: build
 	mkdir -p $(DESTINATION_FOLDER)
+	rm -rf $(DESTINATION_FOLDER)/$(DICT_NAME).dictionary
 	ditto --noextattr --norsrc \
 		$(DICT_DEV_KIT_OBJ_DIR)/$(DICT_NAME).dictionary \
 		$(DESTINATION_FOLDER)/$(DICT_NAME).dictionary
 	touch $(DESTINATION_FOLDER)
+	@killall cfprefsd Dictionary LookupViewService DictionaryServiceHelper 2>/dev/null || true
 	@echo
 	@echo "Installé. Relancez Dictionary.app, puis Réglages > Sources et cochez"
 	@echo "« Conjugaison française ». Cherchez ensuite « fasse »."
