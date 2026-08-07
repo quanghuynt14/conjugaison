@@ -188,8 +188,7 @@ def main():
         text = pystr(cs.DCSCopyTextDefinition(dictionary, cfstr(form),
                                               CFRange(0, len(form)))) or ""
         for verb, records in B.group_by_verb(expected.get(form, [])):
-            rows = [f"{r.conjugated}{B.tense_label(r.slot)}{r.accord or '—'}"
-                    for r in records]
+            rows = [f"{r.conjugated}{B.tense_label(r.slot)}" for r in records]
             block = "\n".join([verb["infinitif"], "".join(B.REVERSE_COLUMNS), *rows])
             whole = block in text
             if not whole:
@@ -199,6 +198,8 @@ def main():
             for record, row in zip(records, rows):
                 # Le bloc a échoué : on redescend à la ligne pour dire laquelle.
                 mark = "✓" if whole or row in text else "✗"
+                # L'accord n'est plus dans la page, mais il reste ici : c'est à
+                # ça qu'un humain reconnaît une case de conjugaison d'un coup.
                 print(f"        {mark} {verb['infinitif']:<7} "
                       f"{record.conjugated:<16} {B.tense_label(record.slot):<24} "
                       f"{record.accord or '—'}")

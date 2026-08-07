@@ -105,7 +105,15 @@ NONFINITE = [
 # Les colonnes du tableau inversé. Le verbe n'y est pas : il est en légende,
 # une fois par tableau. verify_lookup.py s'en sert pour reconnaître un tableau
 # dans le texte brut que rend Dictionary.app.
-REVERSE_COLUMNS = ("conjugaison", "temps", "accord")
+#
+# L'accord n'y est pas non plus. Il est déterminé par les deux autres colonnes —
+# aucune paire (conjugaison, temps) ne se répète dans un tableau — donc il ne
+# distinguait aucune ligne d'aucune autre ; il nommait. Et il nommait ce que la
+# ligne montrait déjà : « je vis » suivi de « 1ʳᵉ du singulier », 504 fois sur
+# 564. Les 52 autres — impératif, participe — portent la marque dans la forme :
+# le -ez de « vivez », le -e de « vécue ». La colonne reste dans `Analysis`,
+# où verify_lookup.py l'imprime pour rendre son contrôle lisible.
+REVERSE_COLUMNS = ("conjugaison", "temps")
 
 # Les temps construits. Une ligne portant l'un d'eux dit où la forme apparaît,
 # pas ce qu'elle est — et le tableau les range après, d'où ce jeu.
@@ -325,8 +333,7 @@ def render_reverse(verb, records):
 
     Le verbe passe en légende. En colonne il répétait le même mot sur toutes les
     lignes du groupe — quarante-six fois pour « vécu » — et il n'y disait rien
-    que le groupe ne dise déjà. Restent les colonnes qui varient d'une ligne à
-    l'autre.
+    que le groupe ne dise déjà. Reste ce qui varie d'une ligne à l'autre.
     """
     out = [
         '    <table class="reverse">',
@@ -341,8 +348,7 @@ def render_reverse(verb, records):
         cls = ' class="row-cited"' if r.slot in COMPOSED else ""
         out.append(
             f'      <tr{cls}><td class="c-form">{esc(r.conjugated)}</td>'
-            f'<td class="c-tense">{esc(tense_label(r.slot))}</td>'
-            f'<td class="c-accord">{esc(r.accord) or "—"}</td></tr>'
+            f'<td class="c-tense">{esc(tense_label(r.slot))}</td></tr>'
         )
     out.append("    </table>")
     return out

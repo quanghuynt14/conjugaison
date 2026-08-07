@@ -9,6 +9,7 @@ lit la page et où elle ment.
 Usage :  python3 scripts/check.py [forme…]
 """
 
+import collections
 import pathlib
 import re
 import sys
@@ -98,7 +99,7 @@ def main():
             problems.append(f"« {form} » : tableau inversé vide")
             continue
 
-        for verb, conjugated, tense, accord in rows:
+        for verb, conjugated, tense in rows:
             # La conjugaison affichée doit contenir la forme cherchée. Sinon la
             # ligne parle d'autre chose que de ce qu'on a tapé.
             # Frontière de mot, mais l'apostrophe d'élision en est une : dans
@@ -110,13 +111,21 @@ def main():
                 )
             if tense not in RANK_OF_LABEL:
                 problems.append(f"« {form} » : temps inconnu « {tense} »")
-            if tense not in NONFINITE_LABELS and not accord:
-                problems.append(f"« {form} » : {tense} sans accord")
+
+        # Ce qui rendait la colonne « accord » supprimable : deux colonnes
+        # suffisent à séparer les lignes. Le jour où une paire se répète, la
+        # page affiche deux fois la même chose et l'accord manque vraiment.
+        vus = collections.Counter(rows)
+        for (verb, conjugated, tense), n in vus.items():
+            if n > 1:
+                problems.append(
+                    f"« {form} » : {n} lignes identiques dans le tableau de "
+                    f"« {verb} » — {conjugated}, {tense}")
 
         # L'ordre annoncé : verbe alphabétique, puis temps dans l'ordre de PLAN
         # — mode, puis temps dans le mode. Le verbe découpe la page en tableaux,
         # le temps ordonne chaque tableau.
-        keys = [(v, RANK_OF_LABEL.get(t, 99)) for v, _, t, _ in rows]
+        keys = [(v, RANK_OF_LABEL.get(t, 99)) for v, _, t in rows]
         if keys != sorted(keys):
             problems.append(f"« {form} » : lignes hors de l'ordre annoncé")
 
@@ -134,17 +143,17 @@ def main():
 
         # Une clé est d'abord une forme. Une entrée qui ne dirait que des cases
         # construites voudrait dire qu'on a indexé un composé.
-        if all(t in CITED_LABELS for _, _, t, _ in rows):
+        if all(t in CITED_LABELS for _, _, t in rows):
             problems.append(
                 f"« {form} » : que des lignes citées — une clé doit d'abord "
                 "être une forme")
 
         # Un surlignage par analyse, ni plus ni moins. Un fond en trop désigne
         # une case qui n'est pas la bonne, ce qui est un mensonge silencieux.
-        finite = sum(1 for _, _, t, _ in rows if t not in NONFINITE_LABELS)
+        finite = sum(1 for _, _, t in rows if t not in NONFINITE_LABELS)
         li_hits = sum(1 for li in entry.iter(f"{X}li")
                       if "cell-match" in (li.get("class") or ""))
-        nf_slots = {(v, t) for v, _, t, _ in rows if t in NONFINITE_LABELS}
+        nf_slots = {(v, t) for v, _, t in rows if t in NONFINITE_LABELS}
         nf_hits = sum(1 for s in entry.iter(f"{X}span")
                       if "cell-match" in (s.get("class") or ""))
         if li_hits != finite:
@@ -163,8 +172,8 @@ def main():
             problems.append(f"« {form} » n'a pas d'entrée — introuvable dans Dictionary.app")
             continue
         print(f"  « {form} »")
-        for verb, conjugated, tense, accord in rows:
-            print(f"      {verb:<8} {conjugated:<18} {tense:<24} {accord}")
+        for verb, conjugated, tense in rows:
+            print(f"      {verb:<8} {conjugated:<22} {tense}")
 
     if problems:
         print()
