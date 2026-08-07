@@ -123,10 +123,24 @@ def elide(left, right):
 
 
 def subject_for(tense_key, i):
+    """Le sujet nu. L'impératif n'en a pas."""
     if tense_key.startswith("imper."):
         return None
-    subject = SUBJECTS[i]
-    return elide("que", subject) if tense_key.startswith("subj.") else subject
+    return SUBJECTS[i]
+
+
+def with_subject(tense_key, i, form):
+    """« aie vécu » -> « que j’aie vécu ».
+
+    L'élision se fait de droite à gauche : « je » se colle d'abord au verbe,
+    « que » se colle ensuite au résultat. Dans l'autre sens on obtient
+    « que je aie vécu », parce que « que je » n'est plus un mot élidable.
+    """
+    subject = subject_for(tense_key, i)
+    if subject is None:
+        return form
+    cell = elide(subject, form)
+    return elide("que", cell) if tense_key.startswith("subj.") else cell
 
 
 # --- conjugaison ------------------------------------------------------------
@@ -139,11 +153,7 @@ def cells_for(verb, aux, key, kind, source):
     else:
         raw = [f"{a} {verb['participe_passe'][0]}" for a in aux["tenses"][source]]
 
-    out = []
-    for i, form in enumerate(raw):
-        subject = subject_for(key, i)
-        out.append(elide(subject, form) if subject else form)
-    return out
+    return [with_subject(key, i, form) for i, form in enumerate(raw)]
 
 
 Analysis = collections.namedtuple(
