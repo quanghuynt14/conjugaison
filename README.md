@@ -3,19 +3,26 @@
 Preuve de concept. Vous sélectionnez `vis` dans n'importe quelle application,
 vous faites ⌃⌘D, et la page s'ouvre sur ceci :
 
-| verbe | conjugaison | temps | personne |
-|---|---|---|---|
-| vivre | je vis | Indicatif présent | 1ʳᵉ du singulier |
-| vivre | tu vis | Indicatif présent | 2ᵉ du singulier |
-| vivre | vis | Impératif présent | 2ᵉ du singulier |
-| voir | je vis | Indicatif passé simple | 1ʳᵉ du singulier |
-| voir | tu vis | Indicatif passé simple | 2ᵉ du singulier |
+***vivre***
+
+| conjugaison | temps |
+|---|---|
+| je vis | Indicatif présent |
+| tu vis | Indicatif présent |
+| vis | Impératif présent |
+
+***voir***
+
+| conjugaison | temps |
+|---|---|
+| je vis | Indicatif passé simple |
+| tu vis | Indicatif passé simple |
 
 Puis la conjugaison complète de *vivre* et de *voir*, les cases d'où vient la
 forme surlignées.
 
 Quatre verbes : **faire**, **avoir**, **vivre**, **voir**. 162 formes,
-204 analyses.
+564 analyses.
 
 ## Essayer
 
@@ -43,14 +50,118 @@ entrée par forme le sait.
 
 Une forme peut avoir plusieurs analyses **dans un même verbe et un même mode** :
 `dis` est le présent *et* le passé simple de dire. On ne choisit jamais, on les
-liste toutes, dans l'ordre : verbe alphabétique, puis temps dans l'ordre de
-`PLAN`, puis personne. Cet ordre est une convention déclarée, pas un modèle de
-fréquence — c'est ce qui permet à `check.py` de l'affirmer.
+liste toutes.
+
+### Un tableau par verbe
+
+`vis` est de vivre et de voir. Ce sont deux réponses, pas cinq lignes d'une
+même liste, et la page le dit maintenant en deux tableaux — chacun avec le verbe
+en légende.
+
+Le verbe quitte donc les colonnes. Il y répétait le même mot à chaque ligne, et
+pour `vécu` il l'aurait répété quarante-six fois sans jamais rien apprendre.
+En légende, il le dit une fois et sert de titre. Restent deux colonnes : ce qui
+change d'une ligne à l'autre.
+
+L'ordre en découle. **Verbe alphabétique** — c'est le découpage en tableaux —
+puis, dans chaque tableau, **temps selon `PLAN`** : mode, puis temps dans le
+mode. Indicatif présent, Indicatif passé composé, Indicatif imparfait… le même
+ordre que les conjugaisons du bas de la page. Cet ordre est une convention
+déclarée, pas un modèle de fréquence — c'est ce qui permet à `check.py` de
+l'affirmer.
+
+#### Deux tableaux ne se voient pas
+
+Et c'est le défaut qu'on n'avait pas vu venir. En calage automatique, chaque
+tableau répartit sa largeur selon son seul contenu : `Indicatif passé simple`
+étant plus long que `Indicatif présent`, le tableau de *voir* décalait sa
+colonne des temps par rapport à celui de *vivre*. Empilées, les deux grilles ne
+tombaient pas au même endroit, et la page avait l'air cassée.
+
+D'où `table-layout: fixed` et une première colonne à **44 %** — le rapport des
+contenus les plus longs, `que vous eussiez vécu` contre
+`Subjonctif plus-que-parfait`. En pourcentage, pas en `em` : la grille suit la
+fenêtre au lieu de lui imposer une largeur.
+
+Une colonne de largeur fixe déborde si rien ne peut se replier. La conjugaison
+se replie donc, mais **entre les mots seulement** — `que nous ayons` puis `vécu`
+à la ligne, jamais une coupure au milieu de `eussiez`. Une forme coupée en deux
+ne se lit plus comme une forme.
+
+Mesuré à 320 px sur l'entrée la plus large, `vécu` : aucun débordement, et les
+deux colonnes `TEMPS` de `vis` commencent au même pixel.
+
+### La colonne « personne » a été corrigée, puis supprimée
+
+Elle disait `1ʳᵉ du singulier` en face de `je vis`, et `masculin singulier` en
+face de `vécu`. La seconde moitié était fausse — un participe n'a pas de
+personne, il s'accorde en genre et en nombre. On l'a donc rebaptisée **accord**,
+qui couvre les deux : un verbe s'accorde avec son sujet en personne et en
+nombre, un participe en genre et en nombre.
+
+Puis on a mesuré ce qu'elle apprenait. **504 lignes sur 564 répétaient le pronom
+déjà visible** : `je vis` suivi de `1ʳᵉ du singulier`. Et aucune paire
+(conjugaison, temps) ne se répète dans un tableau — l'accord était donc une
+fonction des deux autres colonnes, incapable de distinguer une ligne d'une
+autre. Il ne distinguait pas, il nommait.
+
+Restaient 52 lignes sans pronom : l'impératif et le participe. Elles ne
+sauvent pas la colonne. Les trois impératifs d'un verbe sont toujours distincts
+— `fais / faisons / faites` — et le `-ons`, le `-ez` portent la personne. Les
+quatre participes le sont aussi, et le `-e`, le `-s` portent le genre et le
+nombre ; la conjugaison du bas surligne déjà lequel des quatre. Rien de ce qui
+**identifie** la forme ne disparaît avec la colonne.
+
+Ce qui disparaît, c'est le nom de la catégorie : savoir que le `-ez` de `vivez`
+s'appelle « 2ᵉ du pluriel ». Trente-six lignes le méritaient. Cinq cent quatre
+paraphrasaient. Une définition doit apprendre quelque chose — c'est la barre de
+[l'article de Somers](https://jsomers.net/blog/dictionary), et à 89 % de
+répétition la colonne ne la tenait pas.
+
+`check.py` garde l'invariant qui rend la suppression sûre : deux lignes
+identiques dans un tableau sont une erreur. Le jour où une paire se répète,
+l'accord manquera vraiment.
+
+`Participe passé` dans la colonne des temps, en revanche, était juste et le
+reste. Le participe est un mode impersonnel, au même titre que l'indicatif est
+un mode personnel, et le passé est un de ses deux temps. La cellule a la même
+forme que `Indicatif présent` : mode puis temps. La seule qui s'arrêtait au mode
+était `Infinitif`, seule sur dix-neuf ; elle dit maintenant `Infinitif présent`.
 
 Les temps composés sont **construits**, pas stockés : l'auxiliaire conjugué plus
 le participe passé, parce que c'est ce qu'un temps composé est. D'où `avoir`
 dans les données — sans lui, `faire` n'a pas de passé composé. Ils ne sont pas
 indexés : « ai fait » fait deux mots, et `d:value` n'accepte pas l'espace.
+
+### Le tableau dit aussi où la forme apparaît
+
+Une case composée cite deux formes cherchables. « j'ai vécu » en cite deux :
+`ai` et `vécu`. Chacune reçoit sa ligne dans le tableau de l'autre.
+
+Sans ça, chercher `vécu` répondait « participe passé » et s'arrêtait là. Vrai,
+et muet sur les quarante-cinq cases où la forme travaille — alors que celui qui
+sélectionne `vécu` l'a presque toujours lu dans « j'ai vécu ». Son tableau fait
+maintenant 46 lignes.
+
+`ai` est la trouvaille. Il ouvre **quatre** tableaux : avoir, où il est le
+présent puis l'auxiliaire du passé composé, et faire, vivre, voir, où il n'est
+que l'auxiliaire. Le dictionnaire ne disait nulle part qu'`ai` est un auxiliaire.
+
+Ces lignes ne sont pas groupées à part : elles prennent leur rang dans l'ordre
+des temps, comme les autres. Pour `vécu`, `Participe passé` arrive donc en
+dernier — c'est le dernier temps de `PLAN` — après les quarante-cinq composés
+qui le citent. Un tableau qui suit une seule règle, au prix de la réponse la
+plus directe qui n'est plus en tête.
+
+Ce qui la rend repérable, c'est la graisse. Une ligne qui dit ce que la forme
+**est** garde sa conjugaison en gras ; une ligne qui dit où elle **apparaît** la
+perd. Sur quarante-six lignes, l'œil trouve la bonne sans lire la colonne des
+temps. `check.py` exige par ailleurs qu'aucune entrée ne soit faite que de lignes
+citées : une clé est d'abord une forme.
+
+Le nombre de clés, lui, ne bouge pas — 162 avant, 162 après. Une case composée
+ne cite que des formes déjà indexées. On ajoute des lignes, jamais des entrées,
+et « ai fait » reste introuvable en tant que tel.
 
 ### Les accents se plient, et c'est voulu
 
