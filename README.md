@@ -63,6 +63,36 @@ le subjonctif imparfait de *faire*, côte à côte. Utile. Même chose pour `eut
 `eût` et `vit` / `vît`. `verify_lookup.py` l'autorise explicitement : une seule
 entrée **exacte**, et les autres doivent être la même forme aux accents près.
 
+## L'index de référence doit être peuplé, sinon la fenêtre montre la mauvaise entrée
+
+Le symptôme : clic maintenu sur `fasse`, la fenêtre affiche bien « Conjugaison
+française » — et dedans, `a`, la conjugaison d'*avoir*. Pour n'importe quelle
+recherche. `a` est la **première entrée du fichier**.
+
+Dictionary.app résout l'entrée par la recherche ; la fenêtre de consultation la
+résout par **identifiant**, dans `EntryID.index`. Et le DDK n'y met que les
+entrées *citées* — par un lien `x-dictionary:r:` ou par
+`DCSDictionaryFrontMatterReferenceID`. Sans l'un ni l'autre, l'index sort vide,
+la résolution échoue, et la fenêtre retombe sur l'entrée numéro zéro.
+
+Le DDK le disait à chaque build, et continuait :
+
+```
+- Building reference index.
+* Note: No reference index record.
+```
+
+`build_dict.sh` a un interrupteur pour ça, qui n'est documenté que dans son
+propre code :
+
+```make
+preserve_unused_ref_id_in_reference_index=1 "$(DDK_BIN)/build_dict.sh" …
+```
+
+`EntryID.data` passe de 64 octets à 22 592. Le Makefile fait maintenant de cet
+avertissement une **erreur** : c'est une panne invisible partout sauf dans une
+fenêtre qu'aucun script n'ouvre.
+
 ## La fenêtre de consultation filtre par langue
 
 Un dictionnaire peut très bien marcher dans Dictionary.app et rester invisible

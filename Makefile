@@ -29,8 +29,26 @@ xml:
 # -v 10.11 : la disposition moderne du bundle — données sous Contents/Resources,
 # index trie, IDXDictionaryVersion 3. Sans elle, build_dict.sh vise 10.5 par défaut
 # et écrit un bundle que les macOS récents ne lisent plus.
+#
+# preserve_unused_ref_id_in_reference_index : par défaut le DDK ne met dans
+# l'index de référence que les entrées *citées* par un lien ou par le front
+# matter. Nous n'avons ni l'un ni l'autre, donc cet index sortait vide — le build
+# le disait à chaque fois, « No reference index record », et la fenêtre de
+# consultation, qui résout l'entrée par son identifiant, retombait sur la
+# première du fichier : « a », c'est-à-dire avoir, quelle que soit la recherche.
+#
+# Le DDK signale l'index vide et continue. On en fait une erreur : c'est une
+# panne invisible partout sauf dans une fenêtre qu'aucun script n'ouvre.
 build: setup xml
-	"$(DDK_BIN)/build_dict.sh" -v 10.11 $(DICT_NAME) $(DICT_SRC_PATH) $(CSS_PATH) $(PLIST_PATH)
+	@preserve_unused_ref_id_in_reference_index=1 \
+		"$(DDK_BIN)/build_dict.sh" -v 10.11 $(DICT_NAME) $(DICT_SRC_PATH) \
+		$(CSS_PATH) $(PLIST_PATH) 2>&1 | tee $(DICT_DEV_KIT_OBJ_DIR)-build.log
+	@if grep -q "No reference index record" $(DICT_DEV_KIT_OBJ_DIR)-build.log; then \
+		echo; \
+		echo "ERREUR : index de référence vide. La fenêtre de consultation"; \
+		echo "affichera la première entrée du fichier pour toute recherche."; \
+		exit 1; \
+	fi
 
 install: build
 	mkdir -p $(DESTINATION_FOLDER)

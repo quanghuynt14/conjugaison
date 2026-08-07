@@ -9,3 +9,4 @@ __pycache__/
 
 # Engendré par scripts/build_xml.py, supprimé par `make clean`.
 src/conjugaison.xml
+objects-build.log
