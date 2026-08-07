@@ -164,9 +164,11 @@
 
 /* La case d'où vient la forme cherchée. Un fond, pas une couleur de texte :
    le texte doit rester au même poids que ses voisines pour qu'on lise la
-   colonne, et c'est le fond qui dit « c'est ici ». */
-.cell-match,
-.nf-row .form.cell-match {
+   colonne, et c'est le fond qui dit « c'est ici ».
+
+   Même classe pour la case d'un temps (`li`) et pour une des quatre formes du
+   participe passé (`.nf-cell`) : c'est la même chose dite au même endroit. */
+.cell-match {
   background: rgba(170, 51, 51, 0.13);
   border-radius: 3px;
   font-weight: 600;
@@ -188,8 +190,7 @@
   .c-person, .meta, .nf-label { color: #9a9a9a; }
   .mode > h3 { color: #e08c8c; }
   .tense > h4 { color: #cfcfcf; }
-  .cell-match,
-  .nf-row .form.cell-match { background: rgba(224, 140, 140, 0.22); }
+  .cell-match { background: rgba(224, 140, 140, 0.22); }
   .note {
     color: #b8b8b8;
     border-left-color: rgba(224, 140, 140, 0.5);

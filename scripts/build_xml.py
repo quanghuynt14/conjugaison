@@ -225,16 +225,23 @@ def render_table(verb, aux, matches):
     out.append('      <div class="nonfinite">')
     for key, label in NONFINITE:
         if key == "inf":
-            value = verb["infinitif"]
+            forms = [verb["infinitif"]]
         elif key == "part.pres":
-            value = verb["participe_present"]
+            forms = [verb["participe_present"]]
         else:
-            value = ", ".join(verb["participe_passe"])
-        hit = " cell-match" if any(k == key for k, _ in matches) else ""
+            forms = verb["participe_passe"]
+        # Le participe passé a quatre cases comme un temps en a six, et
+        # `matches` les distingue déjà. Surligner la ligne entière dirait que
+        # « vécu » est aussi « vécue » : on marque la case, pas la ligne.
+        cells = ", ".join(
+            f'<span class="nf-cell'
+            f'{" cell-match" if (key, i) in matches else ""}">{esc(form)}</span>'
+            for i, form in enumerate(forms)
+        )
         out.append(
             f'        <div class="nf-row" id="{anchor_id(vid, key)}">'
             f'<span class="nf-label">{esc(label.lower())}</span>'
-            f'<span class="form{hit}">{esc(value)}</span></div>'
+            f'<span class="form">{cells}</span></div>'
         )
     out.append("      </div>")
 
