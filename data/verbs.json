@@ -16440,6 +16440,24 @@
       },
       "participe_present": "multipliant",
       "participe_passe": ["multiplié", "multipliée", "multipliés", "multipliées"]
+    },
+    {
+      "id": "choquer",
+      "infinitif": "choquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["choque", "choques", "choque", "choquons", "choquez", "choquent"],
+        "ind.imp": ["choquais", "choquais", "choquait", "choquions", "choquiez", "choquaient"],
+        "ind.ps": ["choquai", "choquas", "choqua", "choquâmes", "choquâtes", "choquèrent"],
+        "ind.fut": ["choquerai", "choqueras", "choquera", "choquerons", "choquerez", "choqueront"],
+        "cond.pres": ["choquerais", "choquerais", "choquerait", "choquerions", "choqueriez", "choqueraient"],
+        "subj.pres": ["choque", "choques", "choque", "choquions", "choquiez", "choquent"],
+        "subj.imp": ["choquasse", "choquasses", "choquât", "choquassions", "choquassiez", "choquassent"],
+        "imper.pres": ["choque", "choquons", "choquez"]
+      },
+      "participe_present": "choquant",
+      "participe_passe": ["choqué", "choquée", "choqués", "choquées"]
     }
   ]
 }
