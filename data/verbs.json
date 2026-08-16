@@ -222,6 +222,24 @@
       },
       "participe_present": "venant",
       "participe_passe": ["venu", "venue", "venus", "venues"]
+    },
+    {
+      "id": "prendre",
+      "infinitif": "prendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prends", "prends", "prend", "prenons", "prenez", "prennent"],
+        "ind.imp": ["prenais", "prenais", "prenait", "prenions", "preniez", "prenaient"],
+        "ind.ps": ["pris", "pris", "prit", "prîmes", "prîtes", "prirent"],
+        "ind.fut": ["prendrai", "prendras", "prendra", "prendrons", "prendrez", "prendront"],
+        "cond.pres": ["prendrais", "prendrais", "prendrait", "prendrions", "prendriez", "prendraient"],
+        "subj.pres": ["prenne", "prennes", "prenne", "prenions", "preniez", "prennent"],
+        "subj.imp": ["prisse", "prisses", "prît", "prissions", "prissiez", "prissent"],
+        "imper.pres": ["prends", "prenons", "prenez"]
+      },
+      "participe_present": "prenant",
+      "participe_passe": ["pris", "prise", "pris", "prises"]
     }
   ]
 }
