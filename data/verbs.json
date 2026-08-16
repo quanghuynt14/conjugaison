@@ -13555,6 +13555,24 @@
       },
       "participe_present": "bavardant",
       "participe_passe": ["bavardé", null, null, null]
+    },
+    {
+      "id": "étrangler",
+      "infinitif": "étrangler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["étrangle", "étrangles", "étrangle", "étranglons", "étranglez", "étranglent"],
+        "ind.imp": ["étranglais", "étranglais", "étranglait", "étranglions", "étrangliez", "étranglaient"],
+        "ind.ps": ["étranglai", "étranglas", "étrangla", "étranglâmes", "étranglâtes", "étranglèrent"],
+        "ind.fut": ["étranglerai", "étrangleras", "étranglera", "étranglerons", "étranglerez", "étrangleront"],
+        "cond.pres": ["étranglerais", "étranglerais", "étranglerait", "étranglerions", "étrangleriez", "étrangleraient"],
+        "subj.pres": ["étrangle", "étrangles", "étrangle", "étranglions", "étrangliez", "étranglent"],
+        "subj.imp": ["étranglasse", "étranglasses", "étranglât", "étranglassions", "étranglassiez", "étranglassent"],
+        "imper.pres": ["étrangle", "étranglons", "étranglez"]
+      },
+      "participe_present": "étranglant",
+      "participe_passe": ["étranglé", "étranglée", "étranglés", "étranglées"]
     }
   ]
 }
