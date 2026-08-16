@@ -3256,6 +3256,24 @@
       },
       "participe_present": "lançant",
       "participe_passe": ["lancé", "lancée", "lancés", "lancées"]
+    },
+    {
+      "id": "abandonner",
+      "infinitif": "abandonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["abandonne", "abandonnes", "abandonne", "abandonnons", "abandonnez", "abandonnent"],
+        "ind.imp": ["abandonnais", "abandonnais", "abandonnait", "abandonnions", "abandonniez", "abandonnaient"],
+        "ind.ps": ["abandonnai", "abandonnas", "abandonna", "abandonnâmes", "abandonnâtes", "abandonnèrent"],
+        "ind.fut": ["abandonnerai", "abandonneras", "abandonnera", "abandonnerons", "abandonnerez", "abandonneront"],
+        "cond.pres": ["abandonnerais", "abandonnerais", "abandonnerait", "abandonnerions", "abandonneriez", "abandonneraient"],
+        "subj.pres": ["abandonne", "abandonnes", "abandonne", "abandonnions", "abandonniez", "abandonnent"],
+        "subj.imp": ["abandonnasse", "abandonnasses", "abandonnât", "abandonnassions", "abandonnassiez", "abandonnassent"],
+        "imper.pres": ["abandonne", "abandonnons", "abandonnez"]
+      },
+      "participe_present": "abandonnant",
+      "participe_passe": ["abandonné", "abandonnée", "abandonnés", "abandonnées"]
     }
   ]
 }
