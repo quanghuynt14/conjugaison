@@ -13791,6 +13791,24 @@
       },
       "participe_present": "redescendant",
       "participe_passe": ["redescendu", "redescendue", "redescendus", "redescendues"]
+    },
+    {
+      "id": "recueillir",
+      "infinitif": "recueillir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recueille", "recueilles", "recueille", "recueillons", "recueillez", "recueillent"],
+        "ind.imp": ["recueillais", "recueillais", "recueillait", "recueillions", "recueilliez", "recueillaient"],
+        "ind.ps": ["recueillis", "recueillis", "recueillit", "recueillîmes", "recueillîtes", "recueillirent"],
+        "ind.fut": ["recueillerai", "recueilleras", "recueillera", "recueillerons", "recueillerez", "recueilleront"],
+        "cond.pres": ["recueillerais", "recueillerais", "recueillerait", "recueillerions", "recueilleriez", "recueilleraient"],
+        "subj.pres": ["recueille", "recueilles", "recueille", "recueillions", "recueilliez", "recueillent"],
+        "subj.imp": ["recueillisse", "recueillisses", "recueillît", "recueillissions", "recueillissiez", "recueillissent"],
+        "imper.pres": ["recueille", "recueillons", "recueillez"]
+      },
+      "participe_present": "recueillant",
+      "participe_passe": ["recueilli", "recueillie", "recueillis", "recueillies"]
     }
   ]
 }
