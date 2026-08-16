@@ -548,6 +548,24 @@
       },
       "participe_present": "appelant",
       "participe_passe": ["appelé", "appelée", "appelés", "appelées"]
+    },
+    {
+      "id": "partir",
+      "infinitif": "partir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["pars", "pars", "part", "partons", "partez", "partent"],
+        "ind.imp": ["partais", "partais", "partait", "partions", "partiez", "partaient"],
+        "ind.ps": ["partis", "partis", "partit", "partîmes", "partîtes", "partirent"],
+        "ind.fut": ["partirai", "partiras", "partira", "partirons", "partirez", "partiront"],
+        "cond.pres": ["partirais", "partirais", "partirait", "partirions", "partiriez", "partiraient"],
+        "subj.pres": ["parte", "partes", "parte", "partions", "partiez", "partent"],
+        "subj.imp": ["partisse", "partisses", "partît", "partissions", "partissiez", "partissent"],
+        "imper.pres": ["pars", "partons", "partez"]
+      },
+      "participe_present": "partant",
+      "participe_passe": ["parti", "partie", "partis", "parties"]
     }
   ]
 }
