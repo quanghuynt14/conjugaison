@@ -27448,6 +27448,24 @@
       },
       "participe_present": "grelottant",
       "participe_passe": ["grelotté", null, null, null]
+    },
+    {
+      "id": "trier",
+      "infinitif": "trier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trie", "tries", "trie", "trions", "triez", "trient"],
+        "ind.imp": ["triais", "triais", "triait", "triions", "triiez", "triaient"],
+        "ind.ps": ["triai", "trias", "tria", "triâmes", "triâtes", "trièrent"],
+        "ind.fut": ["trierai", "trieras", "triera", "trierons", "trierez", "trieront"],
+        "cond.pres": ["trierais", "trierais", "trierait", "trierions", "trieriez", "trieraient"],
+        "subj.pres": ["trie", "tries", "trie", "triions", "triiez", "trient"],
+        "subj.imp": ["triasse", "triasses", "triât", "triassions", "triassiez", "triassent"],
+        "imper.pres": ["trie", "trions", "triez"]
+      },
+      "participe_present": "triant",
+      "participe_passe": ["trié", "triée", "triés", "triées"]
     }
   ]
 }
