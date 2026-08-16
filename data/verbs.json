@@ -19160,6 +19160,24 @@
       },
       "participe_present": "repensant",
       "participe_passe": ["repensé", "repensée", "repensés", "repensées"]
+    },
+    {
+      "id": "inonder",
+      "infinitif": "inonder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["inonde", "inondes", "inonde", "inondons", "inondez", "inondent"],
+        "ind.imp": ["inondais", "inondais", "inondait", "inondions", "inondiez", "inondaient"],
+        "ind.ps": ["inondai", "inondas", "inonda", "inondâmes", "inondâtes", "inondèrent"],
+        "ind.fut": ["inonderai", "inonderas", "inondera", "inonderons", "inonderez", "inonderont"],
+        "cond.pres": ["inonderais", "inonderais", "inonderait", "inonderions", "inonderiez", "inonderaient"],
+        "subj.pres": ["inonde", "inondes", "inonde", "inondions", "inondiez", "inondent"],
+        "subj.imp": ["inondasse", "inondasses", "inondât", "inondassions", "inondassiez", "inondassent"],
+        "imper.pres": ["inonde", "inondons", "inondez"]
+      },
+      "participe_present": "inondant",
+      "participe_passe": ["inondé", "inondée", "inondés", "inondées"]
     }
   ]
 }
