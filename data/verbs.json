@@ -34853,6 +34853,25 @@
       },
       "participe_present": "mutilant",
       "participe_passe": ["mutilé", "mutilée", "mutilés", "mutilées"]
+    },
+    {
+      "id": "raffoler",
+      "infinitif": "raffoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « raffolé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["raffole", "raffoles", "raffole", "raffolons", "raffolez", "raffolent"],
+        "ind.imp": ["raffolais", "raffolais", "raffolait", "raffolions", "raffoliez", "raffolaient"],
+        "ind.ps": ["raffolai", "raffolas", "raffola", "raffolâmes", "raffolâtes", "raffolèrent"],
+        "ind.fut": ["raffolerai", "raffoleras", "raffolera", "raffolerons", "raffolerez", "raffoleront"],
+        "cond.pres": ["raffolerais", "raffolerais", "raffolerait", "raffolerions", "raffoleriez", "raffoleraient"],
+        "subj.pres": ["raffole", "raffoles", "raffole", "raffolions", "raffoliez", "raffolent"],
+        "subj.imp": ["raffolasse", "raffolasses", "raffolât", "raffolassions", "raffolassiez", "raffolassent"],
+        "imper.pres": ["raffole", "raffolons", "raffolez"]
+      },
+      "participe_present": "raffolant",
+      "participe_passe": ["raffolé", null, null, null]
     }
   ]
 }
