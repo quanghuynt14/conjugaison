@@ -14482,6 +14482,25 @@
       },
       "participe_present": "avisant",
       "participe_passe": ["avisé", "avisée", "avisés", "avisées"]
+    },
+    {
+      "id": "lécher",
+      "infinitif": "lécher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je lécherai » ou « je lècherai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["lèche", "lèches", "lèche", "léchons", "léchez", "lèchent"],
+        "ind.imp": ["léchais", "léchais", "léchait", "léchions", "léchiez", "léchaient"],
+        "ind.ps": ["léchai", "léchas", "lécha", "léchâmes", "léchâtes", "léchèrent"],
+        "ind.fut": [["lécherai", "lècherai"], ["lécheras", "lècheras"], ["léchera", "lèchera"], ["lécherons", "lècherons"], ["lécherez", "lècherez"], ["lécheront", "lècheront"]],
+        "cond.pres": [["lécherais", "lècherais"], ["lécherais", "lècherais"], ["lécherait", "lècherait"], ["lécherions", "lècherions"], ["lécheriez", "lècheriez"], ["lécheraient", "lècheraient"]],
+        "subj.pres": ["lèche", "lèches", "lèche", "léchions", "léchiez", "lèchent"],
+        "subj.imp": ["léchasse", "léchasses", "léchât", "léchassions", "léchassiez", "léchassent"],
+        "imper.pres": ["lèche", "léchons", "léchez"]
+      },
+      "participe_present": "léchant",
+      "participe_passe": ["léché", "léchée", "léchés", "léchées"]
     }
   ]
 }
