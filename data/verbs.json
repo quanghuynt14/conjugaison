@@ -30402,6 +30402,24 @@
       },
       "participe_present": "chinant",
       "participe_passe": ["chiné", "chinée", "chinés", "chinées"]
+    },
+    {
+      "id": "refouler",
+      "infinitif": "refouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["refoule", "refoules", "refoule", "refoulons", "refoulez", "refoulent"],
+        "ind.imp": ["refoulais", "refoulais", "refoulait", "refoulions", "refouliez", "refoulaient"],
+        "ind.ps": ["refoulai", "refoulas", "refoula", "refoulâmes", "refoulâtes", "refoulèrent"],
+        "ind.fut": ["refoulerai", "refouleras", "refoulera", "refoulerons", "refoulerez", "refouleront"],
+        "cond.pres": ["refoulerais", "refoulerais", "refoulerait", "refoulerions", "refouleriez", "refouleraient"],
+        "subj.pres": ["refoule", "refoules", "refoule", "refoulions", "refouliez", "refoulent"],
+        "subj.imp": ["refoulasse", "refoulasses", "refoulât", "refoulassions", "refoulassiez", "refoulassent"],
+        "imper.pres": ["refoule", "refoulons", "refoulez"]
+      },
+      "participe_present": "refoulant",
+      "participe_passe": ["refoulé", "refoulée", "refoulés", "refoulées"]
     }
   ]
 }
