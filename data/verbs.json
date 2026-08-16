@@ -31349,6 +31349,24 @@
       },
       "participe_present": "bluffant",
       "participe_passe": ["bluffé", "bluffée", "bluffés", "bluffées"]
+    },
+    {
+      "id": "muer",
+      "infinitif": "muer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mue", "mues", "mue", "muons", "muez", "muent"],
+        "ind.imp": ["muais", "muais", "muait", "muions", "muiez", "muaient"],
+        "ind.ps": ["muai", "muas", "mua", "muâmes", "muâtes", "muèrent"],
+        "ind.fut": ["muerai", "mueras", "muera", "muerons", "muerez", "mueront"],
+        "cond.pres": ["muerais", "muerais", "muerait", "muerions", "mueriez", "mueraient"],
+        "subj.pres": ["mue", "mues", "mue", "muions", "muiez", "muent"],
+        "subj.imp": ["muasse", "muasses", "muât", "muassions", "muassiez", "muassent"],
+        "imper.pres": ["mue", "muons", "muez"]
+      },
+      "participe_present": "muant",
+      "participe_passe": ["mué", "muée", "mués", "muées"]
     }
   ]
 }
