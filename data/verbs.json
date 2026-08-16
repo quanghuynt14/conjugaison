@@ -21584,6 +21584,24 @@
       },
       "participe_present": "suant",
       "participe_passe": ["sué", "suée", "sués", "suées"]
+    },
+    {
+      "id": "embrouiller",
+      "infinitif": "embrouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["embrouille", "embrouilles", "embrouille", "embrouillons", "embrouillez", "embrouillent"],
+        "ind.imp": ["embrouillais", "embrouillais", "embrouillait", "embrouillions", "embrouilliez", "embrouillaient"],
+        "ind.ps": ["embrouillai", "embrouillas", "embrouilla", "embrouillâmes", "embrouillâtes", "embrouillèrent"],
+        "ind.fut": ["embrouillerai", "embrouilleras", "embrouillera", "embrouillerons", "embrouillerez", "embrouilleront"],
+        "cond.pres": ["embrouillerais", "embrouillerais", "embrouillerait", "embrouillerions", "embrouilleriez", "embrouilleraient"],
+        "subj.pres": ["embrouille", "embrouilles", "embrouille", "embrouillions", "embrouilliez", "embrouillent"],
+        "subj.imp": ["embrouillasse", "embrouillasses", "embrouillât", "embrouillassions", "embrouillassiez", "embrouillassent"],
+        "imper.pres": ["embrouille", "embrouillons", "embrouillez"]
+      },
+      "participe_present": "embrouillant",
+      "participe_passe": ["embrouillé", "embrouillée", "embrouillés", "embrouillées"]
     }
   ]
 }
