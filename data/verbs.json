@@ -26425,6 +26425,24 @@
       },
       "participe_present": "initiant",
       "participe_passe": ["initié", "initiée", "initiés", "initiées"]
+    },
+    {
+      "id": "prodiguer",
+      "infinitif": "prodiguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prodigue", "prodigues", "prodigue", "prodiguons", "prodiguez", "prodiguent"],
+        "ind.imp": ["prodiguais", "prodiguais", "prodiguait", "prodiguions", "prodiguiez", "prodiguaient"],
+        "ind.ps": ["prodiguai", "prodiguas", "prodigua", "prodiguâmes", "prodiguâtes", "prodiguèrent"],
+        "ind.fut": ["prodiguerai", "prodigueras", "prodiguera", "prodiguerons", "prodiguerez", "prodigueront"],
+        "cond.pres": ["prodiguerais", "prodiguerais", "prodiguerait", "prodiguerions", "prodigueriez", "prodigueraient"],
+        "subj.pres": ["prodigue", "prodigues", "prodigue", "prodiguions", "prodiguiez", "prodiguent"],
+        "subj.imp": ["prodiguasse", "prodiguasses", "prodiguât", "prodiguassions", "prodiguassiez", "prodiguassent"],
+        "imper.pres": ["prodigue", "prodiguons", "prodiguez"]
+      },
+      "participe_present": "prodiguant",
+      "participe_passe": ["prodigué", "prodiguée", "prodigués", "prodiguées"]
     }
   ]
 }
