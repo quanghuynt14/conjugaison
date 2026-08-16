@@ -32957,6 +32957,24 @@
       },
       "participe_present": "enserrant",
       "participe_passe": ["enserré", "enserrée", "enserrés", "enserrées"]
+    },
+    {
+      "id": "motiver",
+      "infinitif": "motiver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["motive", "motives", "motive", "motivons", "motivez", "motivent"],
+        "ind.imp": ["motivais", "motivais", "motivait", "motivions", "motiviez", "motivaient"],
+        "ind.ps": ["motivai", "motivas", "motiva", "motivâmes", "motivâtes", "motivèrent"],
+        "ind.fut": ["motiverai", "motiveras", "motivera", "motiverons", "motiverez", "motiveront"],
+        "cond.pres": ["motiverais", "motiverais", "motiverait", "motiverions", "motiveriez", "motiveraient"],
+        "subj.pres": ["motive", "motives", "motive", "motivions", "motiviez", "motivent"],
+        "subj.imp": ["motivasse", "motivasses", "motivât", "motivassions", "motivassiez", "motivassent"],
+        "imper.pres": ["motive", "motivons", "motivez"]
+      },
+      "participe_present": "motivant",
+      "participe_passe": ["motivé", "motivée", "motivés", "motivées"]
     }
   ]
 }
