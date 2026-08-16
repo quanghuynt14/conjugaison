@@ -10630,6 +10630,24 @@
       },
       "participe_present": "usant",
       "participe_passe": ["usé", "usée", "usés", "usées"]
+    },
+    {
+      "id": "épuiser",
+      "infinitif": "épuiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["épuise", "épuises", "épuise", "épuisons", "épuisez", "épuisent"],
+        "ind.imp": ["épuisais", "épuisais", "épuisait", "épuisions", "épuisiez", "épuisaient"],
+        "ind.ps": ["épuisai", "épuisas", "épuisa", "épuisâmes", "épuisâtes", "épuisèrent"],
+        "ind.fut": ["épuiserai", "épuiseras", "épuisera", "épuiserons", "épuiserez", "épuiseront"],
+        "cond.pres": ["épuiserais", "épuiserais", "épuiserait", "épuiserions", "épuiseriez", "épuiseraient"],
+        "subj.pres": ["épuise", "épuises", "épuise", "épuisions", "épuisiez", "épuisent"],
+        "subj.imp": ["épuisasse", "épuisasses", "épuisât", "épuisassions", "épuisassiez", "épuisassent"],
+        "imper.pres": ["épuise", "épuisons", "épuisez"]
+      },
+      "participe_present": "épuisant",
+      "participe_passe": ["épuisé", "épuisée", "épuisés", "épuisées"]
     }
   ]
 }
