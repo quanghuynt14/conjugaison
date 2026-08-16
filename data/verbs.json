@@ -4378,6 +4378,24 @@
       },
       "participe_present": "poursuivant",
       "participe_passe": ["poursuivi", "poursuivie", "poursuivis", "poursuivies"]
+    },
+    {
+      "id": "allumer",
+      "infinitif": "allumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["allume", "allumes", "allume", "allumons", "allumez", "allument"],
+        "ind.imp": ["allumais", "allumais", "allumait", "allumions", "allumiez", "allumaient"],
+        "ind.ps": ["allumai", "allumas", "alluma", "allumâmes", "allumâtes", "allumèrent"],
+        "ind.fut": ["allumerai", "allumeras", "allumera", "allumerons", "allumerez", "allumeront"],
+        "cond.pres": ["allumerais", "allumerais", "allumerait", "allumerions", "allumeriez", "allumeraient"],
+        "subj.pres": ["allume", "allumes", "allume", "allumions", "allumiez", "allument"],
+        "subj.imp": ["allumasse", "allumasses", "allumât", "allumassions", "allumassiez", "allumassent"],
+        "imper.pres": ["allume", "allumons", "allumez"]
+      },
+      "participe_present": "allumant",
+      "participe_passe": ["allumé", "allumée", "allumés", "allumées"]
     }
   ]
 }
