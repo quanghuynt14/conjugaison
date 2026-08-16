@@ -7367,6 +7367,24 @@
       },
       "participe_present": "effaçant",
       "participe_passe": ["effacé", "effacée", "effacés", "effacées"]
+    },
+    {
+      "id": "respecter",
+      "infinitif": "respecter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["respecte", "respectes", "respecte", "respectons", "respectez", "respectent"],
+        "ind.imp": ["respectais", "respectais", "respectait", "respections", "respectiez", "respectaient"],
+        "ind.ps": ["respectai", "respectas", "respecta", "respectâmes", "respectâtes", "respectèrent"],
+        "ind.fut": ["respecterai", "respecteras", "respectera", "respecterons", "respecterez", "respecteront"],
+        "cond.pres": ["respecterais", "respecterais", "respecterait", "respecterions", "respecteriez", "respecteraient"],
+        "subj.pres": ["respecte", "respectes", "respecte", "respections", "respectiez", "respectent"],
+        "subj.imp": ["respectasse", "respectasses", "respectât", "respectassions", "respectassiez", "respectassent"],
+        "imper.pres": ["respecte", "respectons", "respectez"]
+      },
+      "participe_present": "respectant",
+      "participe_passe": ["respecté", "respectée", "respectés", "respectées"]
     }
   ]
 }
