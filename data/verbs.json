@@ -9520,6 +9520,24 @@
       },
       "participe_present": "inscrivant",
       "participe_passe": ["inscrit", "inscrite", "inscrits", "inscrites"]
+    },
+    {
+      "id": "gâcher",
+      "infinitif": "gâcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gâche", "gâches", "gâche", "gâchons", "gâchez", "gâchent"],
+        "ind.imp": ["gâchais", "gâchais", "gâchait", "gâchions", "gâchiez", "gâchaient"],
+        "ind.ps": ["gâchai", "gâchas", "gâcha", "gâchâmes", "gâchâtes", "gâchèrent"],
+        "ind.fut": ["gâcherai", "gâcheras", "gâchera", "gâcherons", "gâcherez", "gâcheront"],
+        "cond.pres": ["gâcherais", "gâcherais", "gâcherait", "gâcherions", "gâcheriez", "gâcheraient"],
+        "subj.pres": ["gâche", "gâches", "gâche", "gâchions", "gâchiez", "gâchent"],
+        "subj.imp": ["gâchasse", "gâchasses", "gâchât", "gâchassions", "gâchassiez", "gâchassent"],
+        "imper.pres": ["gâche", "gâchons", "gâchez"]
+      },
+      "participe_present": "gâchant",
+      "participe_passe": ["gâché", "gâchée", "gâchés", "gâchées"]
     }
   ]
 }
