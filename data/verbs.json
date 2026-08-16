@@ -2224,6 +2224,24 @@
       },
       "participe_present": "bougeant",
       "participe_passe": ["bougé", "bougée", "bougés", "bougées"]
+    },
+    {
+      "id": "permettre",
+      "infinitif": "permettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["permets", "permets", "permet", "permettons", "permettez", "permettent"],
+        "ind.imp": ["permettais", "permettais", "permettait", "permettions", "permettiez", "permettaient"],
+        "ind.ps": ["permis", "permis", "permit", "permîmes", "permîtes", "permirent"],
+        "ind.fut": ["permettrai", "permettras", "permettra", "permettrons", "permettrez", "permettront"],
+        "cond.pres": ["permettrais", "permettrais", "permettrait", "permettrions", "permettriez", "permettraient"],
+        "subj.pres": ["permette", "permettes", "permette", "permettions", "permettiez", "permettent"],
+        "subj.imp": ["permisse", "permisses", "permît", "permissions", "permissiez", "permissent"],
+        "imper.pres": ["permets", "permettons", "permettez"]
+      },
+      "participe_present": "permettant",
+      "participe_passe": ["permis", "permise", "permis", "permises"]
     }
   ]
 }
