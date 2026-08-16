@@ -24589,6 +24589,24 @@
       },
       "participe_present": "déversant",
       "participe_passe": ["déversé", "déversée", "déversés", "déversées"]
+    },
+    {
+      "id": "grommeler",
+      "infinitif": "grommeler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["grommelle", "grommelles", "grommelle", "grommelons", "grommelez", "grommellent"],
+        "ind.imp": ["grommelais", "grommelais", "grommelait", "grommelions", "grommeliez", "grommelaient"],
+        "ind.ps": ["grommelai", "grommelas", "grommela", "grommelâmes", "grommelâtes", "grommelèrent"],
+        "ind.fut": ["grommellerai", "grommelleras", "grommellera", "grommellerons", "grommellerez", "grommelleront"],
+        "cond.pres": ["grommellerais", "grommellerais", "grommellerait", "grommellerions", "grommelleriez", "grommelleraient"],
+        "subj.pres": ["grommelle", "grommelles", "grommelle", "grommelions", "grommeliez", "grommellent"],
+        "subj.imp": ["grommelasse", "grommelasses", "grommelât", "grommelassions", "grommelassiez", "grommelassent"],
+        "imper.pres": ["grommelle", "grommelons", "grommelez"]
+      },
+      "participe_present": "grommelant",
+      "participe_passe": ["grommelé", "grommelée", "grommelés", "grommelées"]
     }
   ]
 }
