@@ -8326,6 +8326,24 @@
       },
       "participe_present": "établissant",
       "participe_passe": ["établi", "établie", "établis", "établies"]
+    },
+    {
+      "id": "surgir",
+      "infinitif": "surgir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["surgis", "surgis", "surgit", "surgissons", "surgissez", "surgissent"],
+        "ind.imp": ["surgissais", "surgissais", "surgissait", "surgissions", "surgissiez", "surgissaient"],
+        "ind.ps": ["surgis", "surgis", "surgit", "surgîmes", "surgîtes", "surgirent"],
+        "ind.fut": ["surgirai", "surgiras", "surgira", "surgirons", "surgirez", "surgiront"],
+        "cond.pres": ["surgirais", "surgirais", "surgirait", "surgirions", "surgiriez", "surgiraient"],
+        "subj.pres": ["surgisse", "surgisses", "surgisse", "surgissions", "surgissiez", "surgissent"],
+        "subj.imp": ["surgisse", "surgisses", "surgît", "surgissions", "surgissiez", "surgissent"],
+        "imper.pres": ["surgis", "surgissons", "surgissez"]
+      },
+      "participe_present": "surgissant",
+      "participe_passe": ["surgi", "surgie", "surgis", "surgies"]
     }
   ]
 }
