@@ -35370,6 +35370,24 @@
       },
       "participe_present": "perpétuant",
       "participe_passe": ["perpétué", "perpétuée", "perpétués", "perpétuées"]
+    },
+    {
+      "id": "peler",
+      "infinitif": "peler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pèle", "pèles", "pèle", "pelons", "pelez", "pèlent"],
+        "ind.imp": ["pelais", "pelais", "pelait", "pelions", "peliez", "pelaient"],
+        "ind.ps": ["pelai", "pelas", "pela", "pelâmes", "pelâtes", "pelèrent"],
+        "ind.fut": ["pèlerai", "pèleras", "pèlera", "pèlerons", "pèlerez", "pèleront"],
+        "cond.pres": ["pèlerais", "pèlerais", "pèlerait", "pèlerions", "pèleriez", "pèleraient"],
+        "subj.pres": ["pèle", "pèles", "pèle", "pelions", "peliez", "pèlent"],
+        "subj.imp": ["pelasse", "pelasses", "pelât", "pelassions", "pelassiez", "pelassent"],
+        "imper.pres": ["pèle", "pelons", "pelez"]
+      },
+      "participe_present": "pelant",
+      "participe_passe": ["pelé", "pelée", "pelés", "pelées"]
     }
   ]
 }
