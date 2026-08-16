@@ -35822,6 +35822,26 @@
       },
       "participe_present": "effilochant",
       "participe_passe": ["effiloché", "effilochée", "effilochés", "effilochées"]
+    },
+    {
+      "id": "ensuivre",
+      "infinitif": "ensuivre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Troisième personne seulement, et toujours avec son pronom : « il s'ensuit que », « les conséquences qui s'en sont suivies ».",
+      "tenses": {
+        "ind.pres": [null, null, "ensuit", null, null, "ensuivent"],
+        "ind.imp": [null, null, "ensuivait", null, null, "ensuivaient"],
+        "ind.ps": [null, null, "ensuivit", null, null, "ensuivirent"],
+        "ind.fut": [null, null, "ensuivra", null, null, "ensuivront"],
+        "cond.pres": [null, null, "ensuivrait", null, null, "ensuivraient"],
+        "subj.pres": [null, null, "ensuive", null, null, "ensuivent"],
+        "subj.imp": [null, null, "ensuivît", null, null, "ensuivissent"],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": "ensuivant",
+      "participe_passe": ["ensuivi", "ensuivie", "ensuivis", "ensuivies"]
     }
   ]
 }
