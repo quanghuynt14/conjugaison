@@ -24461,6 +24461,24 @@
       },
       "participe_present": "déshonorant",
       "participe_passe": ["déshonoré", "déshonorée", "déshonorés", "déshonorées"]
+    },
+    {
+      "id": "illustrer",
+      "infinitif": "illustrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["illustre", "illustres", "illustre", "illustrons", "illustrez", "illustrent"],
+        "ind.imp": ["illustrais", "illustrais", "illustrait", "illustrions", "illustriez", "illustraient"],
+        "ind.ps": ["illustrai", "illustras", "illustra", "illustrâmes", "illustrâtes", "illustrèrent"],
+        "ind.fut": ["illustrerai", "illustreras", "illustrera", "illustrerons", "illustrerez", "illustreront"],
+        "cond.pres": ["illustrerais", "illustrerais", "illustrerait", "illustrerions", "illustreriez", "illustreraient"],
+        "subj.pres": ["illustre", "illustres", "illustre", "illustrions", "illustriez", "illustrent"],
+        "subj.imp": ["illustrasse", "illustrasses", "illustrât", "illustrassions", "illustrassiez", "illustrassent"],
+        "imper.pres": ["illustre", "illustrons", "illustrez"]
+      },
+      "participe_present": "illustrant",
+      "participe_passe": ["illustré", "illustrée", "illustrés", "illustrées"]
     }
   ]
 }
