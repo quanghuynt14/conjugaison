@@ -19634,6 +19634,24 @@
       },
       "participe_present": "redonnant",
       "participe_passe": ["redonné", "redonnée", "redonnés", "redonnées"]
+    },
+    {
+      "id": "forger",
+      "infinitif": "forger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["forge", "forges", "forge", "forgeons", "forgez", "forgent"],
+        "ind.imp": ["forgeais", "forgeais", "forgeait", "forgions", "forgiez", "forgeaient"],
+        "ind.ps": ["forgeai", "forgeas", "forgea", "forgeâmes", "forgeâtes", "forgèrent"],
+        "ind.fut": ["forgerai", "forgeras", "forgera", "forgerons", "forgerez", "forgeront"],
+        "cond.pres": ["forgerais", "forgerais", "forgerait", "forgerions", "forgeriez", "forgeraient"],
+        "subj.pres": ["forge", "forges", "forge", "forgions", "forgiez", "forgent"],
+        "subj.imp": ["forgeasse", "forgeasses", "forgeât", "forgeassions", "forgeassiez", "forgeassent"],
+        "imper.pres": ["forge", "forgeons", "forgez"]
+      },
+      "participe_present": "forgeant",
+      "participe_passe": ["forgé", "forgée", "forgés", "forgées"]
     }
   ]
 }
