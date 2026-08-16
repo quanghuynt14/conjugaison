@@ -6315,6 +6315,24 @@
       },
       "participe_present": "plongeant",
       "participe_passe": ["plongé", "plongée", "plongés", "plongées"]
+    },
+    {
+      "id": "interdire",
+      "infinitif": "interdire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["interdis", "interdis", "interdit", "interdisons", "interdisez", "interdisent"],
+        "ind.imp": ["interdisais", "interdisais", "interdisait", "interdisions", "interdisiez", "interdisaient"],
+        "ind.ps": ["interdis", "interdis", "interdit", "interdîmes", "interdîtes", "interdirent"],
+        "ind.fut": ["interdirai", "interdiras", "interdira", "interdirons", "interdirez", "interdiront"],
+        "cond.pres": ["interdirais", "interdirais", "interdirait", "interdirions", "interdiriez", "interdiraient"],
+        "subj.pres": ["interdise", "interdises", "interdise", "interdisions", "interdisiez", "interdisent"],
+        "subj.imp": ["interdisse", "interdisses", "interdît", "interdissions", "interdissiez", "interdissent"],
+        "imper.pres": ["interdis", "interdisons", "interdisez"]
+      },
+      "participe_present": "interdisant",
+      "participe_passe": ["interdit", "interdite", "interdits", "interdites"]
     }
   ]
 }
