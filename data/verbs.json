@@ -168,6 +168,24 @@
       },
       "participe_present": "voulant",
       "participe_passe": ["voulu", "voulue", "voulus", "voulues"]
+    },
+    {
+      "id": "savoir",
+      "infinitif": "savoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sais", "sais", "sait", "savons", "savez", "savent"],
+        "ind.imp": ["savais", "savais", "savait", "savions", "saviez", "savaient"],
+        "ind.ps": ["sus", "sus", "sut", "sûmes", "sûtes", "surent"],
+        "ind.fut": ["saurai", "sauras", "saura", "saurons", "saurez", "sauront"],
+        "cond.pres": ["saurais", "saurais", "saurait", "saurions", "sauriez", "sauraient"],
+        "subj.pres": ["sache", "saches", "sache", "sachions", "sachiez", "sachent"],
+        "subj.imp": ["susse", "susses", "sût", "sussions", "sussiez", "sussent"],
+        "imper.pres": ["sache", "sachons", "sachez"]
+      },
+      "participe_present": "sachant",
+      "participe_passe": ["su", "sue", "sus", "sues"]
     }
   ]
 }
