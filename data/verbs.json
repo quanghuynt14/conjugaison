@@ -31644,6 +31644,25 @@
       },
       "participe_present": "abrutissant",
       "participe_passe": ["abruti", "abrutie", "abrutis", "abruties"]
+    },
+    {
+      "id": "chanceler",
+      "infinitif": "chanceler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « chancelé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["chancelle", "chancelles", "chancelle", "chancelons", "chancelez", "chancellent"],
+        "ind.imp": ["chancelais", "chancelais", "chancelait", "chancelions", "chanceliez", "chancelaient"],
+        "ind.ps": ["chancelai", "chancelas", "chancela", "chancelâmes", "chancelâtes", "chancelèrent"],
+        "ind.fut": ["chancellerai", "chancelleras", "chancellera", "chancellerons", "chancellerez", "chancelleront"],
+        "cond.pres": ["chancellerais", "chancellerais", "chancellerait", "chancellerions", "chancelleriez", "chancelleraient"],
+        "subj.pres": ["chancelle", "chancelles", "chancelle", "chancelions", "chanceliez", "chancellent"],
+        "subj.imp": ["chancelasse", "chancelasses", "chancelât", "chancelassions", "chancelassiez", "chancelassent"],
+        "imper.pres": ["chancelle", "chancelons", "chancelez"]
+      },
+      "participe_present": "chancelant",
+      "participe_passe": ["chancelé", null, null, null]
     }
   ]
 }
