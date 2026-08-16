@@ -1680,6 +1680,24 @@
       },
       "participe_present": "rappelant",
       "participe_passe": ["rappelé", "rappelée", "rappelés", "rappelées"]
+    },
+    {
+      "id": "gagner",
+      "infinitif": "gagner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gagne", "gagnes", "gagne", "gagnons", "gagnez", "gagnent"],
+        "ind.imp": ["gagnais", "gagnais", "gagnait", "gagnions", "gagniez", "gagnaient"],
+        "ind.ps": ["gagnai", "gagnas", "gagna", "gagnâmes", "gagnâtes", "gagnèrent"],
+        "ind.fut": ["gagnerai", "gagneras", "gagnera", "gagnerons", "gagnerez", "gagneront"],
+        "cond.pres": ["gagnerais", "gagnerais", "gagnerait", "gagnerions", "gagneriez", "gagneraient"],
+        "subj.pres": ["gagne", "gagnes", "gagne", "gagnions", "gagniez", "gagnent"],
+        "subj.imp": ["gagnasse", "gagnasses", "gagnât", "gagnassions", "gagnassiez", "gagnassent"],
+        "imper.pres": ["gagne", "gagnons", "gagnez"]
+      },
+      "participe_present": "gagnant",
+      "participe_passe": ["gagné", "gagnée", "gagnés", "gagnées"]
     }
   ]
 }
