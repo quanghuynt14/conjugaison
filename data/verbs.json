@@ -5427,6 +5427,24 @@
       },
       "participe_present": "réglant",
       "participe_passe": ["réglé", "réglée", "réglés", "réglées"]
+    },
+    {
+      "id": "créer",
+      "infinitif": "créer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["crée", "crées", "crée", "créons", "créez", "créent"],
+        "ind.imp": ["créais", "créais", "créait", "créions", "créiez", "créaient"],
+        "ind.ps": ["créai", "créas", "créa", "créâmes", "créâtes", "créèrent"],
+        "ind.fut": ["créerai", "créeras", "créera", "créerons", "créerez", "créeront"],
+        "cond.pres": ["créerais", "créerais", "créerait", "créerions", "créeriez", "créeraient"],
+        "subj.pres": ["crée", "crées", "crée", "créions", "créiez", "créent"],
+        "subj.imp": ["créasse", "créasses", "créât", "créassions", "créassiez", "créassent"],
+        "imper.pres": ["crée", "créons", "créez"]
+      },
+      "participe_present": "créant",
+      "participe_passe": ["créé", "créée", "créés", "créées"]
     }
   ]
 }
