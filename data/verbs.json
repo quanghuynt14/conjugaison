@@ -8163,6 +8163,24 @@
       },
       "participe_present": "accueillant",
       "participe_passe": ["accueilli", "accueillie", "accueillis", "accueillies"]
+    },
+    {
+      "id": "repousser",
+      "infinitif": "repousser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["repousse", "repousses", "repousse", "repoussons", "repoussez", "repoussent"],
+        "ind.imp": ["repoussais", "repoussais", "repoussait", "repoussions", "repoussiez", "repoussaient"],
+        "ind.ps": ["repoussai", "repoussas", "repoussa", "repoussâmes", "repoussâtes", "repoussèrent"],
+        "ind.fut": ["repousserai", "repousseras", "repoussera", "repousserons", "repousserez", "repousseront"],
+        "cond.pres": ["repousserais", "repousserais", "repousserait", "repousserions", "repousseriez", "repousseraient"],
+        "subj.pres": ["repousse", "repousses", "repousse", "repoussions", "repoussiez", "repoussent"],
+        "subj.imp": ["repoussasse", "repoussasses", "repoussât", "repoussassions", "repoussassiez", "repoussassent"],
+        "imper.pres": ["repousse", "repoussons", "repoussez"]
+      },
+      "participe_present": "repoussant",
+      "participe_passe": ["repoussé", "repoussée", "repoussés", "repoussées"]
     }
   ]
 }
