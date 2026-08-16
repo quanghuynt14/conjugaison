@@ -13992,6 +13992,24 @@
       },
       "participe_present": "séduisant",
       "participe_passe": ["séduit", "séduite", "séduits", "séduites"]
+    },
+    {
+      "id": "apprêter",
+      "infinitif": "apprêter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["apprête", "apprêtes", "apprête", "apprêtons", "apprêtez", "apprêtent"],
+        "ind.imp": ["apprêtais", "apprêtais", "apprêtait", "apprêtions", "apprêtiez", "apprêtaient"],
+        "ind.ps": ["apprêtai", "apprêtas", "apprêta", "apprêtâmes", "apprêtâtes", "apprêtèrent"],
+        "ind.fut": ["apprêterai", "apprêteras", "apprêtera", "apprêterons", "apprêterez", "apprêteront"],
+        "cond.pres": ["apprêterais", "apprêterais", "apprêterait", "apprêterions", "apprêteriez", "apprêteraient"],
+        "subj.pres": ["apprête", "apprêtes", "apprête", "apprêtions", "apprêtiez", "apprêtent"],
+        "subj.imp": ["apprêtasse", "apprêtasses", "apprêtât", "apprêtassions", "apprêtassiez", "apprêtassent"],
+        "imper.pres": ["apprête", "apprêtons", "apprêtez"]
+      },
+      "participe_present": "apprêtant",
+      "participe_passe": ["apprêté", "apprêtée", "apprêtés", "apprêtées"]
     }
   ]
 }
