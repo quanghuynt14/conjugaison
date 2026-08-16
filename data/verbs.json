@@ -18249,6 +18249,24 @@
       },
       "participe_present": "intimidant",
       "participe_passe": ["intimidé", "intimidée", "intimidés", "intimidées"]
+    },
+    {
+      "id": "renouveler",
+      "infinitif": "renouveler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["renouvelle", "renouvelles", "renouvelle", "renouvelons", "renouvelez", "renouvellent"],
+        "ind.imp": ["renouvelais", "renouvelais", "renouvelait", "renouvelions", "renouveliez", "renouvelaient"],
+        "ind.ps": ["renouvelai", "renouvelas", "renouvela", "renouvelâmes", "renouvelâtes", "renouvelèrent"],
+        "ind.fut": ["renouvellerai", "renouvelleras", "renouvellera", "renouvellerons", "renouvellerez", "renouvelleront"],
+        "cond.pres": ["renouvellerais", "renouvellerais", "renouvellerait", "renouvellerions", "renouvelleriez", "renouvelleraient"],
+        "subj.pres": ["renouvelle", "renouvelles", "renouvelle", "renouvelions", "renouveliez", "renouvellent"],
+        "subj.imp": ["renouvelasse", "renouvelasses", "renouvelât", "renouvelassions", "renouvelassiez", "renouvelassent"],
+        "imper.pres": ["renouvelle", "renouvelons", "renouvelez"]
+      },
+      "participe_present": "renouvelant",
+      "participe_passe": ["renouvelé", "renouvelée", "renouvelés", "renouvelées"]
     }
   ]
 }
