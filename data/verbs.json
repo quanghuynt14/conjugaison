@@ -6099,6 +6099,24 @@
       },
       "participe_present": "hurlant",
       "participe_passe": ["hurlé", "hurlée", "hurlés", "hurlées"]
+    },
+    {
+      "id": "ennuyer",
+      "infinitif": "ennuyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ennuie", "ennuies", "ennuie", "ennuyons", "ennuyez", "ennuient"],
+        "ind.imp": ["ennuyais", "ennuyais", "ennuyait", "ennuyions", "ennuyiez", "ennuyaient"],
+        "ind.ps": ["ennuyai", "ennuyas", "ennuya", "ennuyâmes", "ennuyâtes", "ennuyèrent"],
+        "ind.fut": ["ennuierai", "ennuieras", "ennuiera", "ennuierons", "ennuierez", "ennuieront"],
+        "cond.pres": ["ennuierais", "ennuierais", "ennuierait", "ennuierions", "ennuieriez", "ennuieraient"],
+        "subj.pres": ["ennuie", "ennuies", "ennuie", "ennuyions", "ennuyiez", "ennuient"],
+        "subj.imp": ["ennuyasse", "ennuyasses", "ennuyât", "ennuyassions", "ennuyassiez", "ennuyassent"],
+        "imper.pres": ["ennuie", "ennuyons", "ennuyez"]
+      },
+      "participe_present": "ennuyant",
+      "participe_passe": ["ennuyé", "ennuyée", "ennuyés", "ennuyées"]
     }
   ]
 }
