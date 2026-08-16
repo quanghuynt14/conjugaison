@@ -7059,6 +7059,24 @@
       },
       "participe_present": "ratant",
       "participe_passe": ["raté", "ratée", "ratés", "ratées"]
+    },
+    {
+      "id": "convaincre",
+      "infinitif": "convaincre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["convaincs", "convaincs", "convainc", "convainquons", "convainquez", "convainquent"],
+        "ind.imp": ["convainquais", "convainquais", "convainquait", "convainquions", "convainquiez", "convainquaient"],
+        "ind.ps": ["convainquis", "convainquis", "convainquit", "convainquîmes", "convainquîtes", "convainquirent"],
+        "ind.fut": ["convaincrai", "convaincras", "convaincra", "convaincrons", "convaincrez", "convaincront"],
+        "cond.pres": ["convaincrais", "convaincrais", "convaincrait", "convaincrions", "convaincriez", "convaincraient"],
+        "subj.pres": ["convainque", "convainques", "convainque", "convainquions", "convainquiez", "convainquent"],
+        "subj.imp": ["convainquisse", "convainquisses", "convainquît", "convainquissions", "convainquissiez", "convainquissent"],
+        "imper.pres": ["convaincs", "convainquons", "convainquez"]
+      },
+      "participe_present": "convainquant",
+      "participe_passe": ["convaincu", "convaincue", "convaincus", "convaincues"]
     }
   ]
 }
