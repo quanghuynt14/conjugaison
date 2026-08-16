@@ -10992,6 +10992,24 @@
       },
       "participe_present": "imitant",
       "participe_passe": ["imité", "imitée", "imités", "imitées"]
+    },
+    {
+      "id": "nager",
+      "infinitif": "nager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["nage", "nages", "nage", "nageons", "nagez", "nagent"],
+        "ind.imp": ["nageais", "nageais", "nageait", "nagions", "nagiez", "nageaient"],
+        "ind.ps": ["nageai", "nageas", "nagea", "nageâmes", "nageâtes", "nagèrent"],
+        "ind.fut": ["nagerai", "nageras", "nagera", "nagerons", "nagerez", "nageront"],
+        "cond.pres": ["nagerais", "nagerais", "nagerait", "nagerions", "nageriez", "nageraient"],
+        "subj.pres": ["nage", "nages", "nage", "nagions", "nagiez", "nagent"],
+        "subj.imp": ["nageasse", "nageasses", "nageât", "nageassions", "nageassiez", "nageassent"],
+        "imper.pres": ["nage", "nageons", "nagez"]
+      },
+      "participe_present": "nageant",
+      "participe_passe": ["nagé", "nagée", "nagés", "nagées"]
     }
   ]
 }
