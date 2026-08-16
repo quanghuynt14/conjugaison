@@ -21386,6 +21386,24 @@
       },
       "participe_present": "croquant",
       "participe_passe": ["croqué", "croquée", "croqués", "croquées"]
+    },
+    {
+      "id": "scruter",
+      "infinitif": "scruter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["scrute", "scrutes", "scrute", "scrutons", "scrutez", "scrutent"],
+        "ind.imp": ["scrutais", "scrutais", "scrutait", "scrutions", "scrutiez", "scrutaient"],
+        "ind.ps": ["scrutai", "scrutas", "scruta", "scrutâmes", "scrutâtes", "scrutèrent"],
+        "ind.fut": ["scruterai", "scruteras", "scrutera", "scruterons", "scruterez", "scruteront"],
+        "cond.pres": ["scruterais", "scruterais", "scruterait", "scruterions", "scruteriez", "scruteraient"],
+        "subj.pres": ["scrute", "scrutes", "scrute", "scrutions", "scrutiez", "scrutent"],
+        "subj.imp": ["scrutasse", "scrutasses", "scrutât", "scrutassions", "scrutassiez", "scrutassent"],
+        "imper.pres": ["scrute", "scrutons", "scrutez"]
+      },
+      "participe_present": "scrutant",
+      "participe_passe": ["scruté", "scrutée", "scrutés", "scrutées"]
     }
   ]
 }
