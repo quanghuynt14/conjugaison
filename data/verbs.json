@@ -10865,6 +10865,24 @@
       },
       "participe_present": "unissant",
       "participe_passe": ["uni", "unie", "unis", "unies"]
+    },
+    {
+      "id": "saigner",
+      "infinitif": "saigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["saigne", "saignes", "saigne", "saignons", "saignez", "saignent"],
+        "ind.imp": ["saignais", "saignais", "saignait", "saignions", "saigniez", "saignaient"],
+        "ind.ps": ["saignai", "saignas", "saigna", "saignâmes", "saignâtes", "saignèrent"],
+        "ind.fut": ["saignerai", "saigneras", "saignera", "saignerons", "saignerez", "saigneront"],
+        "cond.pres": ["saignerais", "saignerais", "saignerait", "saignerions", "saigneriez", "saigneraient"],
+        "subj.pres": ["saigne", "saignes", "saigne", "saignions", "saigniez", "saignent"],
+        "subj.imp": ["saignasse", "saignasses", "saignât", "saignassions", "saignassiez", "saignassent"],
+        "imper.pres": ["saigne", "saignons", "saignez"]
+      },
+      "participe_present": "saignant",
+      "participe_passe": ["saigné", "saignée", "saignés", "saignées"]
     }
   ]
 }
