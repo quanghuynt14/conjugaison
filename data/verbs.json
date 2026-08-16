@@ -35551,6 +35551,24 @@
       },
       "participe_present": "peignant",
       "participe_passe": ["peigné", "peignée", "peignés", "peignées"]
+    },
+    {
+      "id": "sucrer",
+      "infinitif": "sucrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sucre", "sucres", "sucre", "sucrons", "sucrez", "sucrent"],
+        "ind.imp": ["sucrais", "sucrais", "sucrait", "sucrions", "sucriez", "sucraient"],
+        "ind.ps": ["sucrai", "sucras", "sucra", "sucrâmes", "sucrâtes", "sucrèrent"],
+        "ind.fut": ["sucrerai", "sucreras", "sucrera", "sucrerons", "sucrerez", "sucreront"],
+        "cond.pres": ["sucrerais", "sucrerais", "sucrerait", "sucrerions", "sucreriez", "sucreraient"],
+        "subj.pres": ["sucre", "sucres", "sucre", "sucrions", "sucriez", "sucrent"],
+        "subj.imp": ["sucrasse", "sucrasses", "sucrât", "sucrassions", "sucrassiez", "sucrassent"],
+        "imper.pres": ["sucre", "sucrons", "sucrez"]
+      },
+      "participe_present": "sucrant",
+      "participe_passe": ["sucré", "sucrée", "sucrés", "sucrées"]
     }
   ]
 }
