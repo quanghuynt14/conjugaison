@@ -6495,6 +6495,24 @@
       },
       "participe_present": "rangeant",
       "participe_passe": ["rangé", "rangée", "rangés", "rangées"]
+    },
+    {
+      "id": "signifier",
+      "infinitif": "signifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["signifie", "signifies", "signifie", "signifions", "signifiez", "signifient"],
+        "ind.imp": ["signifiais", "signifiais", "signifiait", "signifiions", "signifiiez", "signifiaient"],
+        "ind.ps": ["signifiai", "signifias", "signifia", "signifiâmes", "signifiâtes", "signifièrent"],
+        "ind.fut": ["signifierai", "signifieras", "signifiera", "signifierons", "signifierez", "signifieront"],
+        "cond.pres": ["signifierais", "signifierais", "signifierait", "signifierions", "signifieriez", "signifieraient"],
+        "subj.pres": ["signifie", "signifies", "signifie", "signifiions", "signifiiez", "signifient"],
+        "subj.imp": ["signifiasse", "signifiasses", "signifiât", "signifiassions", "signifiassiez", "signifiassent"],
+        "imper.pres": ["signifie", "signifions", "signifiez"]
+      },
+      "participe_present": "signifiant",
+      "participe_passe": ["signifié", "signifiée", "signifiés", "signifiées"]
     }
   ]
 }
