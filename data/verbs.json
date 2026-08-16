@@ -17040,6 +17040,24 @@
       },
       "participe_present": "feignant",
       "participe_passe": ["feint", "feinte", "feints", "feintes"]
+    },
+    {
+      "id": "flanquer",
+      "infinitif": "flanquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["flanque", "flanques", "flanque", "flanquons", "flanquez", "flanquent"],
+        "ind.imp": ["flanquais", "flanquais", "flanquait", "flanquions", "flanquiez", "flanquaient"],
+        "ind.ps": ["flanquai", "flanquas", "flanqua", "flanquâmes", "flanquâtes", "flanquèrent"],
+        "ind.fut": ["flanquerai", "flanqueras", "flanquera", "flanquerons", "flanquerez", "flanqueront"],
+        "cond.pres": ["flanquerais", "flanquerais", "flanquerait", "flanquerions", "flanqueriez", "flanqueraient"],
+        "subj.pres": ["flanque", "flanques", "flanque", "flanquions", "flanquiez", "flanquent"],
+        "subj.imp": ["flanquasse", "flanquasses", "flanquât", "flanquassions", "flanquassiez", "flanquassent"],
+        "imper.pres": ["flanque", "flanquons", "flanquez"]
+      },
+      "participe_present": "flanquant",
+      "participe_passe": ["flanqué", "flanquée", "flanqués", "flanquées"]
     }
   ]
 }
