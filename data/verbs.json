@@ -15606,6 +15606,24 @@
       },
       "participe_present": "matant",
       "participe_passe": ["maté", "matée", "matés", "matées"]
+    },
+    {
+      "id": "relire",
+      "infinitif": "relire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["relis", "relis", "relit", "relisons", "relisez", "relisent"],
+        "ind.imp": ["relisais", "relisais", "relisait", "relisions", "relisiez", "relisaient"],
+        "ind.ps": ["relus", "relus", "relut", "relûmes", "relûtes", "relurent"],
+        "ind.fut": ["relirai", "reliras", "relira", "relirons", "relirez", "reliront"],
+        "cond.pres": ["relirais", "relirais", "relirait", "relirions", "reliriez", "reliraient"],
+        "subj.pres": ["relise", "relises", "relise", "relisions", "relisiez", "relisent"],
+        "subj.imp": ["relusse", "relusses", "relût", "relussions", "relussiez", "relussent"],
+        "imper.pres": ["relis", "relisons", "relisez"]
+      },
+      "participe_present": "relisant",
+      "participe_passe": ["relu", "relue", "relus", "relues"]
     }
   ]
 }
