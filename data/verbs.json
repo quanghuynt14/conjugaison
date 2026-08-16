@@ -14356,6 +14356,24 @@
       },
       "participe_present": "célébrant",
       "participe_passe": ["célébré", "célébrée", "célébrés", "célébrées"]
+    },
+    {
+      "id": "isoler",
+      "infinitif": "isoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["isole", "isoles", "isole", "isolons", "isolez", "isolent"],
+        "ind.imp": ["isolais", "isolais", "isolait", "isolions", "isoliez", "isolaient"],
+        "ind.ps": ["isolai", "isolas", "isola", "isolâmes", "isolâtes", "isolèrent"],
+        "ind.fut": ["isolerai", "isoleras", "isolera", "isolerons", "isolerez", "isoleront"],
+        "cond.pres": ["isolerais", "isolerais", "isolerait", "isolerions", "isoleriez", "isoleraient"],
+        "subj.pres": ["isole", "isoles", "isole", "isolions", "isoliez", "isolent"],
+        "subj.imp": ["isolasse", "isolasses", "isolât", "isolassions", "isolassiez", "isolassent"],
+        "imper.pres": ["isole", "isolons", "isolez"]
+      },
+      "participe_present": "isolant",
+      "participe_passe": ["isolé", "isolée", "isolés", "isolées"]
     }
   ]
 }
