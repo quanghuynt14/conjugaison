@@ -404,6 +404,24 @@
       },
       "participe_present": "regardant",
       "participe_passe": ["regardé", "regardée", "regardés", "regardées"]
+    },
+    {
+      "id": "laisser",
+      "infinitif": "laisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["laisse", "laisses", "laisse", "laissons", "laissez", "laissent"],
+        "ind.imp": ["laissais", "laissais", "laissait", "laissions", "laissiez", "laissaient"],
+        "ind.ps": ["laissai", "laissas", "laissa", "laissâmes", "laissâtes", "laissèrent"],
+        "ind.fut": ["laisserai", "laisseras", "laissera", "laisserons", "laisserez", "laisseront"],
+        "cond.pres": ["laisserais", "laisserais", "laisserait", "laisserions", "laisseriez", "laisseraient"],
+        "subj.pres": ["laisse", "laisses", "laisse", "laissions", "laissiez", "laissent"],
+        "subj.imp": ["laissasse", "laissasses", "laissât", "laissassions", "laissassiez", "laissassent"],
+        "imper.pres": ["laisse", "laissons", "laissez"]
+      },
+      "participe_present": "laissant",
+      "participe_passe": ["laissé", "laissée", "laissés", "laissées"]
     }
   ]
 }
