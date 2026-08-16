@@ -8200,6 +8200,24 @@
       },
       "participe_present": "cédant",
       "participe_passe": ["cédé", "cédée", "cédés", "cédées"]
+    },
+    {
+      "id": "échanger",
+      "infinitif": "échanger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["échange", "échanges", "échange", "échangeons", "échangez", "échangent"],
+        "ind.imp": ["échangeais", "échangeais", "échangeait", "échangions", "échangiez", "échangeaient"],
+        "ind.ps": ["échangeai", "échangeas", "échangea", "échangeâmes", "échangeâtes", "échangèrent"],
+        "ind.fut": ["échangerai", "échangeras", "échangera", "échangerons", "échangerez", "échangeront"],
+        "cond.pres": ["échangerais", "échangerais", "échangerait", "échangerions", "échangeriez", "échangeraient"],
+        "subj.pres": ["échange", "échanges", "échange", "échangions", "échangiez", "échangent"],
+        "subj.imp": ["échangeasse", "échangeasses", "échangeât", "échangeassions", "échangeassiez", "échangeassent"],
+        "imper.pres": ["échange", "échangeons", "échangez"]
+      },
+      "participe_present": "échangeant",
+      "participe_passe": ["échangé", "échangée", "échangés", "échangées"]
     }
   ]
 }
