@@ -2842,6 +2842,24 @@
       },
       "participe_present": "inquiétant",
       "participe_passe": ["inquiété", "inquiétée", "inquiétés", "inquiétées"]
+    },
+    {
+      "id": "ramener",
+      "infinitif": "ramener",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ramène", "ramènes", "ramène", "ramenons", "ramenez", "ramènent"],
+        "ind.imp": ["ramenais", "ramenais", "ramenait", "ramenions", "rameniez", "ramenaient"],
+        "ind.ps": ["ramenai", "ramenas", "ramena", "ramenâmes", "ramenâtes", "ramenèrent"],
+        "ind.fut": ["ramènerai", "ramèneras", "ramènera", "ramènerons", "ramènerez", "ramèneront"],
+        "cond.pres": ["ramènerais", "ramènerais", "ramènerait", "ramènerions", "ramèneriez", "ramèneraient"],
+        "subj.pres": ["ramène", "ramènes", "ramène", "ramenions", "rameniez", "ramènent"],
+        "subj.imp": ["ramenasse", "ramenasses", "ramenât", "ramenassions", "ramenassiez", "ramenassent"],
+        "imper.pres": ["ramène", "ramenons", "ramenez"]
+      },
+      "participe_present": "ramenant",
+      "participe_passe": ["ramené", "ramenée", "ramenés", "ramenées"]
     }
   ]
 }
