@@ -5935,6 +5935,24 @@
       },
       "participe_present": "fatiguant",
       "participe_passe": ["fatigué", "fatiguée", "fatigués", "fatiguées"]
+    },
+    {
+      "id": "ficher",
+      "infinitif": "ficher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fiche", "fiches", "fiche", "fichons", "fichez", "fichent"],
+        "ind.imp": ["fichais", "fichais", "fichait", "fichions", "fichiez", "fichaient"],
+        "ind.ps": ["fichai", "fichas", "ficha", "fichâmes", "fichâtes", "fichèrent"],
+        "ind.fut": ["ficherai", "ficheras", "fichera", "ficherons", "ficherez", "ficheront"],
+        "cond.pres": ["ficherais", "ficherais", "ficherait", "ficherions", "ficheriez", "ficheraient"],
+        "subj.pres": ["fiche", "fiches", "fiche", "fichions", "fichiez", "fichent"],
+        "subj.imp": ["fichasse", "fichasses", "fichât", "fichassions", "fichassiez", "fichassent"],
+        "imper.pres": ["fiche", "fichons", "fichez"]
+      },
+      "participe_present": "fichant",
+      "participe_passe": ["fiché", "fichée", "fichés", "fichées"]
     }
   ]
 }
