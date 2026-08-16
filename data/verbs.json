@@ -34103,6 +34103,24 @@
       },
       "participe_present": "propulsant",
       "participe_passe": ["propulsé", "propulsée", "propulsés", "propulsées"]
+    },
+    {
+      "id": "repêcher",
+      "infinitif": "repêcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["repêche", "repêches", "repêche", "repêchons", "repêchez", "repêchent"],
+        "ind.imp": ["repêchais", "repêchais", "repêchait", "repêchions", "repêchiez", "repêchaient"],
+        "ind.ps": ["repêchai", "repêchas", "repêcha", "repêchâmes", "repêchâtes", "repêchèrent"],
+        "ind.fut": ["repêcherai", "repêcheras", "repêchera", "repêcherons", "repêcherez", "repêcheront"],
+        "cond.pres": ["repêcherais", "repêcherais", "repêcherait", "repêcherions", "repêcheriez", "repêcheraient"],
+        "subj.pres": ["repêche", "repêches", "repêche", "repêchions", "repêchiez", "repêchent"],
+        "subj.imp": ["repêchasse", "repêchasses", "repêchât", "repêchassions", "repêchassiez", "repêchassent"],
+        "imper.pres": ["repêche", "repêchons", "repêchez"]
+      },
+      "participe_present": "repêchant",
+      "participe_passe": ["repêché", "repêchée", "repêchés", "repêchées"]
     }
   ]
 }
