@@ -114,19 +114,36 @@ CORRECTIONS = {
 # ceux dont un dictionnaire donne un emploi transitif — hériter une maison, un
 # prix convenu, répondre une insolence, obéir, exploser —, parce qu'entre
 # afficher une forme de trop et en oublier une, la première se voit.
+#
+# Puis sept autres, que le croisement avec Lexique 3 a fait remonter : le
+# participe s'y accorde par un autre chemin que le complément d'objet, soit
+# qu'il se conjugue aussi avec être — « la revue est parue » —, soit qu'il
+# s'emploie comme adjectif — « les terres émergées », « un projet abouti »,
+# « une femme divorcée », « une civilisation disparue », « une silhouette
+# surgie », « une source jaillie de la roche ».
 INVARIABLES = {
-    "aboutir", "agir", "appartenir", "bavarder", "bondir", "briller",
+    "agir", "appartenir", "bavarder", "bondir", "briller",
     "circuler", "consister", "correspondre", "déconner", "déjeuner",
-    "déplaire", "dîner", "disparaître", "divorcer", "dormir", "douter",
-    "durer", "émerger", "errer", "être", "exister", "faillir", "fonctionner",
-    "frémir", "grouiller", "hésiter", "insister", "jaillir", "jouir", "luire",
-    "lutter", "marcher", "mentir", "nuire", "paraître", "participer", "plaire",
+    "déplaire", "dîner", "dormir", "douter",
+    "durer", "errer", "être", "exister", "faillir", "fonctionner",
+    "frémir", "grouiller", "hésiter", "insister", "jouir", "luire",
+    "lutter", "marcher", "mentir", "nuire", "participer", "plaire",
     "pleuvoir", "pouvoir", "procéder", "profiter", "progresser", "ramper",
     "réagir", "régner", "ressembler", "résister", "résonner", "retentir",
     "ricaner", "rigoler", "rire", "rôder", "ronfler", "sembler", "sombrer",
-    "songer", "sourire", "succéder", "suffire", "surgir", "sursauter",
+    "songer", "sourire", "succéder", "suffire", "sursauter",
     "survivre", "tarder", "tousser", "trembler", "tricher", "triompher",
     "voyager",
+}
+
+# Le futur et le conditionnel des verbes en é_er s'écrivent des deux façons :
+# « je céderai » comme « je cèderai ». Verbiste le note pour huit modèles sur
+# dix, et n'en garde qu'une pour les deux autres — la graphie de 1990 pour
+# abréger, l'ancienne pour sécher. Même règle, deux graphies : on rétablit la
+# manquante, et l'ancienne passe devant, comme dans les modèles voisins.
+DEUX_GRAPHIES = {
+    "abr:éger": ("è", "é", "devant"),   # protégerai / protègerai
+    "s:écher":  ("é", "è", "derrière"),  # sécherai / sècherai
 }
 
 # Les notes écrites à la main. Une note doit apprendre quelque chose : elles
@@ -307,6 +324,17 @@ def case(radical, formes):
     return [radical + f for f in formes]
 
 
+def autre_graphie(radical, cellule, depuis, vers, place):
+    """La case avec ses deux accents. L'échange porte sur la terminaison seule,
+    jamais sur le radical : « protéger » a son é dans la terminaison du modèle,
+    pas dans « prot »."""
+    formes = B.variants(cellule)
+    if not formes:
+        return cellule
+    autres = [radical + f[len(radical):].replace(depuis, vers, 1) for f in formes]
+    return autres + formes if place == "devant" else formes + autres
+
+
 def fabrique(infinitif, modele_nom, modeles_):
     """Le verbe au format de data/verbs.json."""
     modele = modeles_[modele_nom]
@@ -328,6 +356,14 @@ def fabrique(infinitif, modele_nom, modeles_):
     verbe["participe_passe"] = [pp[0], pp[2], pp[1], pp[3]]
     if infinitif in INVARIABLES:
         verbe["participe_passe"] = [pp[0], None, None, None]
+
+    if modele_nom in DEUX_GRAPHIES:
+        depuis, vers, place = DEUX_GRAPHIES[modele_nom]
+        for cle in ("ind.fut", "cond.pres"):
+            verbe["tenses"][cle] = [
+                autre_graphie(radical, cellule, depuis, vers, place)
+                for cellule in verbe["tenses"][cle]
+            ]
 
     verbe.update(CORRECTIONS.get(infinitif, {}))
 
