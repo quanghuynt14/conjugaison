@@ -20034,6 +20034,25 @@
       },
       "participe_present": "survenant",
       "participe_passe": ["survenu", "survenue", "survenus", "survenues"]
+    },
+    {
+      "id": "bâiller",
+      "infinitif": "bâiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « bâillé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["bâille", "bâilles", "bâille", "bâillons", "bâillez", "bâillent"],
+        "ind.imp": ["bâillais", "bâillais", "bâillait", "bâillions", "bâilliez", "bâillaient"],
+        "ind.ps": ["bâillai", "bâillas", "bâilla", "bâillâmes", "bâillâtes", "bâillèrent"],
+        "ind.fut": ["bâillerai", "bâilleras", "bâillera", "bâillerons", "bâillerez", "bâilleront"],
+        "cond.pres": ["bâillerais", "bâillerais", "bâillerait", "bâillerions", "bâilleriez", "bâilleraient"],
+        "subj.pres": ["bâille", "bâilles", "bâille", "bâillions", "bâilliez", "bâillent"],
+        "subj.imp": ["bâillasse", "bâillasses", "bâillât", "bâillassions", "bâillassiez", "bâillassent"],
+        "imper.pres": ["bâille", "bâillons", "bâillez"]
+      },
+      "participe_present": "bâillant",
+      "participe_passe": ["bâillé", null, null, null]
     }
   ]
 }
