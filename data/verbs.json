@@ -23435,6 +23435,24 @@
       },
       "participe_present": "damant",
       "participe_passe": ["damé", "damée", "damés", "damées"]
+    },
+    {
+      "id": "perturber",
+      "infinitif": "perturber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["perturbe", "perturbes", "perturbe", "perturbons", "perturbez", "perturbent"],
+        "ind.imp": ["perturbais", "perturbais", "perturbait", "perturbions", "perturbiez", "perturbaient"],
+        "ind.ps": ["perturbai", "perturbas", "perturba", "perturbâmes", "perturbâtes", "perturbèrent"],
+        "ind.fut": ["perturberai", "perturberas", "perturbera", "perturberons", "perturberez", "perturberont"],
+        "cond.pres": ["perturberais", "perturberais", "perturberait", "perturberions", "perturberiez", "perturberaient"],
+        "subj.pres": ["perturbe", "perturbes", "perturbe", "perturbions", "perturbiez", "perturbent"],
+        "subj.imp": ["perturbasse", "perturbasses", "perturbât", "perturbassions", "perturbassiez", "perturbassent"],
+        "imper.pres": ["perturbe", "perturbons", "perturbez"]
+      },
+      "participe_present": "perturbant",
+      "participe_passe": ["perturbé", "perturbée", "perturbés", "perturbées"]
     }
   ]
 }
