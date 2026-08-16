@@ -23562,6 +23562,24 @@
       },
       "participe_present": "marmonnant",
       "participe_passe": ["marmonné", "marmonnée", "marmonnés", "marmonnées"]
+    },
+    {
+      "id": "prêcher",
+      "infinitif": "prêcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prêche", "prêches", "prêche", "prêchons", "prêchez", "prêchent"],
+        "ind.imp": ["prêchais", "prêchais", "prêchait", "prêchions", "prêchiez", "prêchaient"],
+        "ind.ps": ["prêchai", "prêchas", "prêcha", "prêchâmes", "prêchâtes", "prêchèrent"],
+        "ind.fut": ["prêcherai", "prêcheras", "prêchera", "prêcherons", "prêcherez", "prêcheront"],
+        "cond.pres": ["prêcherais", "prêcherais", "prêcherait", "prêcherions", "prêcheriez", "prêcheraient"],
+        "subj.pres": ["prêche", "prêches", "prêche", "prêchions", "prêchiez", "prêchent"],
+        "subj.imp": ["prêchasse", "prêchasses", "prêchât", "prêchassions", "prêchassiez", "prêchassent"],
+        "imper.pres": ["prêche", "prêchons", "prêchez"]
+      },
+      "participe_present": "prêchant",
+      "participe_passe": ["prêché", "prêchée", "prêchés", "prêchées"]
     }
   ]
 }
