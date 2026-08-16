@@ -2079,6 +2079,25 @@
       },
       "participe_present": "offrant",
       "participe_passe": ["offert", "offerte", "offerts", "offertes"]
+    },
+    {
+      "id": "suffire",
+      "infinitif": "suffire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « suffi » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["suffis", "suffis", "suffit", "suffisons", "suffisez", "suffisent"],
+        "ind.imp": ["suffisais", "suffisais", "suffisait", "suffisions", "suffisiez", "suffisaient"],
+        "ind.ps": ["suffis", "suffis", "suffit", "suffîmes", "suffîtes", "suffirent"],
+        "ind.fut": ["suffirai", "suffiras", "suffira", "suffirons", "suffirez", "suffiront"],
+        "cond.pres": ["suffirais", "suffirais", "suffirait", "suffirions", "suffiriez", "suffiraient"],
+        "subj.pres": ["suffise", "suffises", "suffise", "suffisions", "suffisiez", "suffisent"],
+        "subj.imp": ["suffisse", "suffisses", "suffît", "suffissions", "suffissiez", "suffissent"],
+        "imper.pres": ["suffis", "suffisons", "suffisez"]
+      },
+      "participe_present": "suffisant",
+      "participe_passe": ["suffi", null, null, null]
     }
   ]
 }
