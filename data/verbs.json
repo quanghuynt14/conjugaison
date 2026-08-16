@@ -27122,6 +27122,24 @@
       },
       "participe_present": "bourdonnant",
       "participe_passe": ["bourdonné", null, null, null]
+    },
+    {
+      "id": "angoisser",
+      "infinitif": "angoisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["angoisse", "angoisses", "angoisse", "angoissons", "angoissez", "angoissent"],
+        "ind.imp": ["angoissais", "angoissais", "angoissait", "angoissions", "angoissiez", "angoissaient"],
+        "ind.ps": ["angoissai", "angoissas", "angoissa", "angoissâmes", "angoissâtes", "angoissèrent"],
+        "ind.fut": ["angoisserai", "angoisseras", "angoissera", "angoisserons", "angoisserez", "angoisseront"],
+        "cond.pres": ["angoisserais", "angoisserais", "angoisserait", "angoisserions", "angoisseriez", "angoisseraient"],
+        "subj.pres": ["angoisse", "angoisses", "angoisse", "angoissions", "angoissiez", "angoissent"],
+        "subj.imp": ["angoissasse", "angoissasses", "angoissât", "angoissassions", "angoissassiez", "angoissassent"],
+        "imper.pres": ["angoisse", "angoissons", "angoissez"]
+      },
+      "participe_present": "angoissant",
+      "participe_passe": ["angoissé", "angoissée", "angoissés", "angoissées"]
     }
   ]
 }
