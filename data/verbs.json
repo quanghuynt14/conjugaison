@@ -7133,6 +7133,24 @@
       },
       "participe_present": "enfuyant",
       "participe_passe": ["enfui", "enfuie", "enfuis", "enfuies"]
+    },
+    {
+      "id": "exprimer",
+      "infinitif": "exprimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exprime", "exprimes", "exprime", "exprimons", "exprimez", "expriment"],
+        "ind.imp": ["exprimais", "exprimais", "exprimait", "exprimions", "exprimiez", "exprimaient"],
+        "ind.ps": ["exprimai", "exprimas", "exprima", "exprimâmes", "exprimâtes", "exprimèrent"],
+        "ind.fut": ["exprimerai", "exprimeras", "exprimera", "exprimerons", "exprimerez", "exprimeront"],
+        "cond.pres": ["exprimerais", "exprimerais", "exprimerait", "exprimerions", "exprimeriez", "exprimeraient"],
+        "subj.pres": ["exprime", "exprimes", "exprime", "exprimions", "exprimiez", "expriment"],
+        "subj.imp": ["exprimasse", "exprimasses", "exprimât", "exprimassions", "exprimassiez", "exprimassent"],
+        "imper.pres": ["exprime", "exprimons", "exprimez"]
+      },
+      "participe_present": "exprimant",
+      "participe_passe": ["exprimé", "exprimée", "exprimés", "exprimées"]
     }
   ]
 }
