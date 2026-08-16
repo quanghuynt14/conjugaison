@@ -30111,6 +30111,24 @@
       },
       "participe_present": "embrasant",
       "participe_passe": ["embrasé", "embrasée", "embrasés", "embrasées"]
+    },
+    {
+      "id": "piler",
+      "infinitif": "piler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pile", "piles", "pile", "pilons", "pilez", "pilent"],
+        "ind.imp": ["pilais", "pilais", "pilait", "pilions", "piliez", "pilaient"],
+        "ind.ps": ["pilai", "pilas", "pila", "pilâmes", "pilâtes", "pilèrent"],
+        "ind.fut": ["pilerai", "pileras", "pilera", "pilerons", "pilerez", "pileront"],
+        "cond.pres": ["pilerais", "pilerais", "pilerait", "pilerions", "pileriez", "pileraient"],
+        "subj.pres": ["pile", "piles", "pile", "pilions", "piliez", "pilent"],
+        "subj.imp": ["pilasse", "pilasses", "pilât", "pilassions", "pilassiez", "pilassent"],
+        "imper.pres": ["pile", "pilons", "pilez"]
+      },
+      "participe_present": "pilant",
+      "participe_passe": ["pilé", "pilée", "pilés", "pilées"]
     }
   ]
 }
