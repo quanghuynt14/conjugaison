@@ -35334,6 +35334,24 @@
       },
       "participe_present": "paissant",
       "participe_passe": [null, null, null, null]
+    },
+    {
+      "id": "exiler",
+      "infinitif": "exiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exile", "exiles", "exile", "exilons", "exilez", "exilent"],
+        "ind.imp": ["exilais", "exilais", "exilait", "exilions", "exiliez", "exilaient"],
+        "ind.ps": ["exilai", "exilas", "exila", "exilâmes", "exilâtes", "exilèrent"],
+        "ind.fut": ["exilerai", "exileras", "exilera", "exilerons", "exilerez", "exileront"],
+        "cond.pres": ["exilerais", "exilerais", "exilerait", "exilerions", "exileriez", "exileraient"],
+        "subj.pres": ["exile", "exiles", "exile", "exilions", "exiliez", "exilent"],
+        "subj.imp": ["exilasse", "exilasses", "exilât", "exilassions", "exilassiez", "exilassent"],
+        "imper.pres": ["exile", "exilons", "exilez"]
+      },
+      "participe_present": "exilant",
+      "participe_passe": ["exilé", "exilée", "exilés", "exilées"]
     }
   ]
 }
