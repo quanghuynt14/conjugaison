@@ -29710,6 +29710,25 @@
       },
       "participe_present": "spécialisant",
       "participe_passe": ["spécialisé", "spécialisée", "spécialisés", "spécialisées"]
+    },
+    {
+      "id": "dégouliner",
+      "infinitif": "dégouliner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « dégouliné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["dégouline", "dégoulines", "dégouline", "dégoulinons", "dégoulinez", "dégoulinent"],
+        "ind.imp": ["dégoulinais", "dégoulinais", "dégoulinait", "dégoulinions", "dégouliniez", "dégoulinaient"],
+        "ind.ps": ["dégoulinai", "dégoulinas", "dégoulina", "dégoulinâmes", "dégoulinâtes", "dégoulinèrent"],
+        "ind.fut": ["dégoulinerai", "dégoulineras", "dégoulinera", "dégoulinerons", "dégoulinerez", "dégoulineront"],
+        "cond.pres": ["dégoulinerais", "dégoulinerais", "dégoulinerait", "dégoulinerions", "dégoulineriez", "dégoulineraient"],
+        "subj.pres": ["dégouline", "dégoulines", "dégouline", "dégoulinions", "dégouliniez", "dégoulinent"],
+        "subj.imp": ["dégoulinasse", "dégoulinasses", "dégoulinât", "dégoulinassions", "dégoulinassiez", "dégoulinassent"],
+        "imper.pres": ["dégouline", "dégoulinons", "dégoulinez"]
+      },
+      "participe_present": "dégoulinant",
+      "participe_passe": ["dégouliné", null, null, null]
     }
   ]
 }
