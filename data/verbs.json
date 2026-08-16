@@ -17331,6 +17331,24 @@
       },
       "participe_present": "cirant",
       "participe_passe": ["ciré", "cirée", "cirés", "cirées"]
+    },
+    {
+      "id": "émettre",
+      "infinitif": "émettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["émets", "émets", "émet", "émettons", "émettez", "émettent"],
+        "ind.imp": ["émettais", "émettais", "émettait", "émettions", "émettiez", "émettaient"],
+        "ind.ps": ["émis", "émis", "émit", "émîmes", "émîtes", "émirent"],
+        "ind.fut": ["émettrai", "émettras", "émettra", "émettrons", "émettrez", "émettront"],
+        "cond.pres": ["émettrais", "émettrais", "émettrait", "émettrions", "émettriez", "émettraient"],
+        "subj.pres": ["émette", "émettes", "émette", "émettions", "émettiez", "émettent"],
+        "subj.imp": ["émisse", "émisses", "émît", "émissions", "émissiez", "émissent"],
+        "imper.pres": ["émets", "émettons", "émettez"]
+      },
+      "participe_present": "émettant",
+      "participe_passe": ["émis", "émise", "émis", "émises"]
     }
   ]
 }
