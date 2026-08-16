@@ -4106,6 +4106,24 @@
       },
       "participe_present": "reposant",
       "participe_passe": ["reposé", "reposée", "reposés", "reposées"]
+    },
+    {
+      "id": "baisser",
+      "infinitif": "baisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["baisse", "baisses", "baisse", "baissons", "baissez", "baissent"],
+        "ind.imp": ["baissais", "baissais", "baissait", "baissions", "baissiez", "baissaient"],
+        "ind.ps": ["baissai", "baissas", "baissa", "baissâmes", "baissâtes", "baissèrent"],
+        "ind.fut": ["baisserai", "baisseras", "baissera", "baisserons", "baisserez", "baisseront"],
+        "cond.pres": ["baisserais", "baisserais", "baisserait", "baisserions", "baisseriez", "baisseraient"],
+        "subj.pres": ["baisse", "baisses", "baisse", "baissions", "baissiez", "baissent"],
+        "subj.imp": ["baissasse", "baissasses", "baissât", "baissassions", "baissassiez", "baissassent"],
+        "imper.pres": ["baisse", "baissons", "baissez"]
+      },
+      "participe_present": "baissant",
+      "participe_passe": ["baissé", "baissée", "baissés", "baissées"]
     }
   ]
 }
