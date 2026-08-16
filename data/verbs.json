@@ -31221,6 +31221,24 @@
       },
       "participe_present": "alarmant",
       "participe_passe": ["alarmé", "alarmée", "alarmés", "alarmées"]
+    },
+    {
+      "id": "ratisser",
+      "infinitif": "ratisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ratisse", "ratisses", "ratisse", "ratissons", "ratissez", "ratissent"],
+        "ind.imp": ["ratissais", "ratissais", "ratissait", "ratissions", "ratissiez", "ratissaient"],
+        "ind.ps": ["ratissai", "ratissas", "ratissa", "ratissâmes", "ratissâtes", "ratissèrent"],
+        "ind.fut": ["ratisserai", "ratisseras", "ratissera", "ratisserons", "ratisserez", "ratisseront"],
+        "cond.pres": ["ratisserais", "ratisserais", "ratisserait", "ratisserions", "ratisseriez", "ratisseraient"],
+        "subj.pres": ["ratisse", "ratisses", "ratisse", "ratissions", "ratissiez", "ratissent"],
+        "subj.imp": ["ratissasse", "ratissasses", "ratissât", "ratissassions", "ratissassiez", "ratissassent"],
+        "imper.pres": ["ratisse", "ratissons", "ratissez"]
+      },
+      "participe_present": "ratissant",
+      "participe_passe": ["ratissé", "ratissée", "ratissés", "ratissées"]
     }
   ]
 }
