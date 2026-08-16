@@ -729,6 +729,24 @@
       },
       "participe_present": "cherchant",
       "participe_passe": ["cherché", "cherchée", "cherchés", "cherchées"]
+    },
+    {
+      "id": "revenir",
+      "infinitif": "revenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["reviens", "reviens", "revient", "revenons", "revenez", "reviennent"],
+        "ind.imp": ["revenais", "revenais", "revenait", "revenions", "reveniez", "revenaient"],
+        "ind.ps": ["revins", "revins", "revint", "revînmes", "revîntes", "revinrent"],
+        "ind.fut": ["reviendrai", "reviendras", "reviendra", "reviendrons", "reviendrez", "reviendront"],
+        "cond.pres": ["reviendrais", "reviendrais", "reviendrait", "reviendrions", "reviendriez", "reviendraient"],
+        "subj.pres": ["revienne", "reviennes", "revienne", "revenions", "reveniez", "reviennent"],
+        "subj.imp": ["revinsse", "revinsses", "revînt", "revinssions", "revinssiez", "revinssent"],
+        "imper.pres": ["reviens", "revenons", "revenez"]
+      },
+      "participe_present": "revenant",
+      "participe_passe": ["revenu", "revenue", "revenus", "revenues"]
     }
   ]
 }
