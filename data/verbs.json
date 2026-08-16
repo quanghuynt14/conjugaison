@@ -12228,6 +12228,24 @@
       },
       "participe_present": "jaillissant",
       "participe_passe": ["jailli", "jaillie", "jaillis", "jaillies"]
+    },
+    {
+      "id": "impliquer",
+      "infinitif": "impliquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["implique", "impliques", "implique", "impliquons", "impliquez", "impliquent"],
+        "ind.imp": ["impliquais", "impliquais", "impliquait", "impliquions", "impliquiez", "impliquaient"],
+        "ind.ps": ["impliquai", "impliquas", "impliqua", "impliquâmes", "impliquâtes", "impliquèrent"],
+        "ind.fut": ["impliquerai", "impliqueras", "impliquera", "impliquerons", "impliquerez", "impliqueront"],
+        "cond.pres": ["impliquerais", "impliquerais", "impliquerait", "impliquerions", "impliqueriez", "impliqueraient"],
+        "subj.pres": ["implique", "impliques", "implique", "impliquions", "impliquiez", "impliquent"],
+        "subj.imp": ["impliquasse", "impliquasses", "impliquât", "impliquassions", "impliquassiez", "impliquassent"],
+        "imper.pres": ["implique", "impliquons", "impliquez"]
+      },
+      "participe_present": "impliquant",
+      "participe_passe": ["impliqué", "impliquée", "impliqués", "impliquées"]
     }
   ]
 }
