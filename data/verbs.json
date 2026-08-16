@@ -32737,6 +32737,24 @@
       },
       "participe_present": "frimant",
       "participe_passe": ["frimé", "frimée", "frimés", "frimées"]
+    },
+    {
+      "id": "bouillonner",
+      "infinitif": "bouillonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bouillonne", "bouillonnes", "bouillonne", "bouillonnons", "bouillonnez", "bouillonnent"],
+        "ind.imp": ["bouillonnais", "bouillonnais", "bouillonnait", "bouillonnions", "bouillonniez", "bouillonnaient"],
+        "ind.ps": ["bouillonnai", "bouillonnas", "bouillonna", "bouillonnâmes", "bouillonnâtes", "bouillonnèrent"],
+        "ind.fut": ["bouillonnerai", "bouillonneras", "bouillonnera", "bouillonnerons", "bouillonnerez", "bouillonneront"],
+        "cond.pres": ["bouillonnerais", "bouillonnerais", "bouillonnerait", "bouillonnerions", "bouillonneriez", "bouillonneraient"],
+        "subj.pres": ["bouillonne", "bouillonnes", "bouillonne", "bouillonnions", "bouillonniez", "bouillonnent"],
+        "subj.imp": ["bouillonnasse", "bouillonnasses", "bouillonnât", "bouillonnassions", "bouillonnassiez", "bouillonnassent"],
+        "imper.pres": ["bouillonne", "bouillonnons", "bouillonnez"]
+      },
+      "participe_present": "bouillonnant",
+      "participe_passe": ["bouillonné", "bouillonnée", "bouillonnés", "bouillonnées"]
     }
   ]
 }
