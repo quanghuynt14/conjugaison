@@ -8416,6 +8416,24 @@
       },
       "participe_present": "provoquant",
       "participe_passe": ["provoqué", "provoquée", "provoqués", "provoquées"]
+    },
+    {
+      "id": "contrôler",
+      "infinitif": "contrôler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contrôle", "contrôles", "contrôle", "contrôlons", "contrôlez", "contrôlent"],
+        "ind.imp": ["contrôlais", "contrôlais", "contrôlait", "contrôlions", "contrôliez", "contrôlaient"],
+        "ind.ps": ["contrôlai", "contrôlas", "contrôla", "contrôlâmes", "contrôlâtes", "contrôlèrent"],
+        "ind.fut": ["contrôlerai", "contrôleras", "contrôlera", "contrôlerons", "contrôlerez", "contrôleront"],
+        "cond.pres": ["contrôlerais", "contrôlerais", "contrôlerait", "contrôlerions", "contrôleriez", "contrôleraient"],
+        "subj.pres": ["contrôle", "contrôles", "contrôle", "contrôlions", "contrôliez", "contrôlent"],
+        "subj.imp": ["contrôlasse", "contrôlasses", "contrôlât", "contrôlassions", "contrôlassiez", "contrôlassent"],
+        "imper.pres": ["contrôle", "contrôlons", "contrôlez"]
+      },
+      "participe_present": "contrôlant",
+      "participe_passe": ["contrôlé", "contrôlée", "contrôlés", "contrôlées"]
     }
   ]
 }
