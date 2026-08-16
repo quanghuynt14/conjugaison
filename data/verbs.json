@@ -6153,6 +6153,24 @@
       },
       "participe_present": "dépassant",
       "participe_passe": ["dépassé", "dépassée", "dépassés", "dépassées"]
+    },
+    {
+      "id": "endormir",
+      "infinitif": "endormir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["endors", "endors", "endort", "endormons", "endormez", "endorment"],
+        "ind.imp": ["endormais", "endormais", "endormait", "endormions", "endormiez", "endormaient"],
+        "ind.ps": ["endormis", "endormis", "endormit", "endormîmes", "endormîtes", "endormirent"],
+        "ind.fut": ["endormirai", "endormiras", "endormira", "endormirons", "endormirez", "endormiront"],
+        "cond.pres": ["endormirais", "endormirais", "endormirait", "endormirions", "endormiriez", "endormiraient"],
+        "subj.pres": ["endorme", "endormes", "endorme", "endormions", "endormiez", "endorment"],
+        "subj.imp": ["endormisse", "endormisses", "endormît", "endormissions", "endormissiez", "endormissent"],
+        "imper.pres": ["endors", "endormons", "endormez"]
+      },
+      "participe_present": "endormant",
+      "participe_passe": ["endormi", "endormie", "endormis", "endormies"]
     }
   ]
 }
