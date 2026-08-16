@@ -8525,6 +8525,24 @@
       },
       "participe_present": "recouvrant",
       "participe_passe": ["recouvert", "recouverte", "recouverts", "recouvertes"]
+    },
+    {
+      "id": "accomplir",
+      "infinitif": "accomplir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accomplis", "accomplis", "accomplit", "accomplissons", "accomplissez", "accomplissent"],
+        "ind.imp": ["accomplissais", "accomplissais", "accomplissait", "accomplissions", "accomplissiez", "accomplissaient"],
+        "ind.ps": ["accomplis", "accomplis", "accomplit", "accomplîmes", "accomplîtes", "accomplirent"],
+        "ind.fut": ["accomplirai", "accompliras", "accomplira", "accomplirons", "accomplirez", "accompliront"],
+        "cond.pres": ["accomplirais", "accomplirais", "accomplirait", "accomplirions", "accompliriez", "accompliraient"],
+        "subj.pres": ["accomplisse", "accomplisses", "accomplisse", "accomplissions", "accomplissiez", "accomplissent"],
+        "subj.imp": ["accomplisse", "accomplisses", "accomplît", "accomplissions", "accomplissiez", "accomplissent"],
+        "imper.pres": ["accomplis", "accomplissons", "accomplissez"]
+      },
+      "participe_present": "accomplissant",
+      "participe_passe": ["accompli", "accomplie", "accomplis", "accomplies"]
     }
   ]
 }
