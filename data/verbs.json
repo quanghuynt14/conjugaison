@@ -675,6 +675,24 @@
       },
       "participe_present": "mourant",
       "participe_passe": ["mort", "morte", "morts", "mortes"]
+    },
+    {
+      "id": "sentir",
+      "infinitif": "sentir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sens", "sens", "sent", "sentons", "sentez", "sentent"],
+        "ind.imp": ["sentais", "sentais", "sentait", "sentions", "sentiez", "sentaient"],
+        "ind.ps": ["sentis", "sentis", "sentit", "sentîmes", "sentîtes", "sentirent"],
+        "ind.fut": ["sentirai", "sentiras", "sentira", "sentirons", "sentirez", "sentiront"],
+        "cond.pres": ["sentirais", "sentirais", "sentirait", "sentirions", "sentiriez", "sentiraient"],
+        "subj.pres": ["sente", "sentes", "sente", "sentions", "sentiez", "sentent"],
+        "subj.imp": ["sentisse", "sentisses", "sentît", "sentissions", "sentissiez", "sentissent"],
+        "imper.pres": ["sens", "sentons", "sentez"]
+      },
+      "participe_present": "sentant",
+      "participe_passe": ["senti", "sentie", "sentis", "senties"]
     }
   ]
 }
