@@ -20273,6 +20273,24 @@
       },
       "participe_present": "campant",
       "participe_passe": ["campé", "campée", "campés", "campées"]
+    },
+    {
+      "id": "peiner",
+      "infinitif": "peiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["peine", "peines", "peine", "peinons", "peinez", "peinent"],
+        "ind.imp": ["peinais", "peinais", "peinait", "peinions", "peiniez", "peinaient"],
+        "ind.ps": ["peinai", "peinas", "peina", "peinâmes", "peinâtes", "peinèrent"],
+        "ind.fut": ["peinerai", "peineras", "peinera", "peinerons", "peinerez", "peineront"],
+        "cond.pres": ["peinerais", "peinerais", "peinerait", "peinerions", "peineriez", "peineraient"],
+        "subj.pres": ["peine", "peines", "peine", "peinions", "peiniez", "peinent"],
+        "subj.imp": ["peinasse", "peinasses", "peinât", "peinassions", "peinassiez", "peinassent"],
+        "imper.pres": ["peine", "peinons", "peinez"]
+      },
+      "participe_present": "peinant",
+      "participe_passe": ["peiné", "peinée", "peinés", "peinées"]
     }
   ]
 }
