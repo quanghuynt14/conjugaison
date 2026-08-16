@@ -27230,6 +27230,25 @@
       },
       "participe_present": "simulant",
       "participe_passe": ["simulé", "simulée", "simulés", "simulées"]
+    },
+    {
+      "id": "gicler",
+      "infinitif": "gicler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « giclé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["gicle", "gicles", "gicle", "giclons", "giclez", "giclent"],
+        "ind.imp": ["giclais", "giclais", "giclait", "giclions", "gicliez", "giclaient"],
+        "ind.ps": ["giclai", "giclas", "gicla", "giclâmes", "giclâtes", "giclèrent"],
+        "ind.fut": ["giclerai", "gicleras", "giclera", "giclerons", "giclerez", "gicleront"],
+        "cond.pres": ["giclerais", "giclerais", "giclerait", "giclerions", "gicleriez", "gicleraient"],
+        "subj.pres": ["gicle", "gicles", "gicle", "giclions", "gicliez", "giclent"],
+        "subj.imp": ["giclasse", "giclasses", "giclât", "giclassions", "giclassiez", "giclassent"],
+        "imper.pres": ["gicle", "giclons", "giclez"]
+      },
+      "participe_present": "giclant",
+      "participe_passe": ["giclé", null, null, null]
     }
   ]
 }
