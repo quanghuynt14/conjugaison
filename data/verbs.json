@@ -24037,6 +24037,25 @@
       },
       "participe_present": "accroissant",
       "participe_passe": ["accru", "accrue", "accrus", "accrues"]
+    },
+    {
+      "id": "tituber",
+      "infinitif": "tituber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « titubé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["titube", "titubes", "titube", "titubons", "titubez", "titubent"],
+        "ind.imp": ["titubais", "titubais", "titubait", "titubions", "titubiez", "titubaient"],
+        "ind.ps": ["titubai", "titubas", "tituba", "titubâmes", "titubâtes", "titubèrent"],
+        "ind.fut": ["tituberai", "tituberas", "titubera", "tituberons", "tituberez", "tituberont"],
+        "cond.pres": ["tituberais", "tituberais", "tituberait", "tituberions", "tituberiez", "tituberaient"],
+        "subj.pres": ["titube", "titubes", "titube", "titubions", "titubiez", "titubent"],
+        "subj.imp": ["titubasse", "titubasses", "titubât", "titubassions", "titubassiez", "titubassent"],
+        "imper.pres": ["titube", "titubons", "titubez"]
+      },
+      "participe_present": "titubant",
+      "participe_passe": ["titubé", null, null, null]
     }
   ]
 }
