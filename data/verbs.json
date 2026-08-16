@@ -11862,6 +11862,24 @@
       },
       "participe_present": "soulageant",
       "participe_passe": ["soulagé", "soulagée", "soulagés", "soulagées"]
+    },
+    {
+      "id": "fonder",
+      "infinitif": "fonder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fonde", "fondes", "fonde", "fondons", "fondez", "fondent"],
+        "ind.imp": ["fondais", "fondais", "fondait", "fondions", "fondiez", "fondaient"],
+        "ind.ps": ["fondai", "fondas", "fonda", "fondâmes", "fondâtes", "fondèrent"],
+        "ind.fut": ["fonderai", "fonderas", "fondera", "fonderons", "fonderez", "fonderont"],
+        "cond.pres": ["fonderais", "fonderais", "fonderait", "fonderions", "fonderiez", "fonderaient"],
+        "subj.pres": ["fonde", "fondes", "fonde", "fondions", "fondiez", "fondent"],
+        "subj.imp": ["fondasse", "fondasses", "fondât", "fondassions", "fondassiez", "fondassent"],
+        "imper.pres": ["fonde", "fondons", "fondez"]
+      },
+      "participe_present": "fondant",
+      "participe_passe": ["fondé", "fondée", "fondés", "fondées"]
     }
   ]
 }
