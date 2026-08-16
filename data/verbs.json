@@ -22343,6 +22343,24 @@
       },
       "participe_present": "groupant",
       "participe_passe": ["groupé", "groupée", "groupés", "groupées"]
+    },
+    {
+      "id": "froncer",
+      "infinitif": "froncer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fronce", "fronces", "fronce", "fronçons", "froncez", "froncent"],
+        "ind.imp": ["fronçais", "fronçais", "fronçait", "froncions", "fronciez", "fronçaient"],
+        "ind.ps": ["fronçai", "fronças", "fronça", "fronçâmes", "fronçâtes", "froncèrent"],
+        "ind.fut": ["froncerai", "fronceras", "froncera", "froncerons", "froncerez", "fronceront"],
+        "cond.pres": ["froncerais", "froncerais", "froncerait", "froncerions", "fronceriez", "fronceraient"],
+        "subj.pres": ["fronce", "fronces", "fronce", "froncions", "fronciez", "froncent"],
+        "subj.imp": ["fronçasse", "fronçasses", "fronçât", "fronçassions", "fronçassiez", "fronçassent"],
+        "imper.pres": ["fronce", "fronçons", "froncez"]
+      },
+      "participe_present": "fronçant",
+      "participe_passe": ["froncé", "froncée", "froncés", "froncées"]
     }
   ]
 }
