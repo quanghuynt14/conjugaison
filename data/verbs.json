@@ -27375,6 +27375,24 @@
       },
       "participe_present": "gobant",
       "participe_passe": ["gobé", "gobée", "gobés", "gobées"]
+    },
+    {
+      "id": "administrer",
+      "infinitif": "administrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["administre", "administres", "administre", "administrons", "administrez", "administrent"],
+        "ind.imp": ["administrais", "administrais", "administrait", "administrions", "administriez", "administraient"],
+        "ind.ps": ["administrai", "administras", "administra", "administrâmes", "administrâtes", "administrèrent"],
+        "ind.fut": ["administrerai", "administreras", "administrera", "administrerons", "administrerez", "administreront"],
+        "cond.pres": ["administrerais", "administrerais", "administrerait", "administrerions", "administreriez", "administreraient"],
+        "subj.pres": ["administre", "administres", "administre", "administrions", "administriez", "administrent"],
+        "subj.imp": ["administrasse", "administrasses", "administrât", "administrassions", "administrassiez", "administrassent"],
+        "imper.pres": ["administre", "administrons", "administrez"]
+      },
+      "participe_present": "administrant",
+      "participe_passe": ["administré", "administrée", "administrés", "administrées"]
     }
   ]
 }
