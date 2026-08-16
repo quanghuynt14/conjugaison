@@ -15806,6 +15806,24 @@
       },
       "participe_present": "aboutissant",
       "participe_passe": ["abouti", "aboutie", "aboutis", "abouties"]
+    },
+    {
+      "id": "enfouir",
+      "infinitif": "enfouir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enfouis", "enfouis", "enfouit", "enfouissons", "enfouissez", "enfouissent"],
+        "ind.imp": ["enfouissais", "enfouissais", "enfouissait", "enfouissions", "enfouissiez", "enfouissaient"],
+        "ind.ps": ["enfouis", "enfouis", "enfouit", "enfouîmes", "enfouîtes", "enfouirent"],
+        "ind.fut": ["enfouirai", "enfouiras", "enfouira", "enfouirons", "enfouirez", "enfouiront"],
+        "cond.pres": ["enfouirais", "enfouirais", "enfouirait", "enfouirions", "enfouiriez", "enfouiraient"],
+        "subj.pres": ["enfouisse", "enfouisses", "enfouisse", "enfouissions", "enfouissiez", "enfouissent"],
+        "subj.imp": ["enfouisse", "enfouisses", "enfouît", "enfouissions", "enfouissiez", "enfouissent"],
+        "imper.pres": ["enfouis", "enfouissons", "enfouissez"]
+      },
+      "participe_present": "enfouissant",
+      "participe_passe": ["enfoui", "enfouie", "enfouis", "enfouies"]
     }
   ]
 }
