@@ -19706,6 +19706,24 @@
       },
       "participe_present": "dictant",
       "participe_passe": ["dicté", "dictée", "dictés", "dictées"]
+    },
+    {
+      "id": "enculer",
+      "infinitif": "enculer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["encule", "encules", "encule", "enculons", "enculez", "enculent"],
+        "ind.imp": ["enculais", "enculais", "enculait", "enculions", "enculiez", "enculaient"],
+        "ind.ps": ["enculai", "enculas", "encula", "enculâmes", "enculâtes", "enculèrent"],
+        "ind.fut": ["enculerai", "enculeras", "enculera", "enculerons", "enculerez", "enculeront"],
+        "cond.pres": ["enculerais", "enculerais", "enculerait", "enculerions", "enculeriez", "enculeraient"],
+        "subj.pres": ["encule", "encules", "encule", "enculions", "enculiez", "enculent"],
+        "subj.imp": ["enculasse", "enculasses", "enculât", "enculassions", "enculassiez", "enculassent"],
+        "imper.pres": ["encule", "enculons", "enculez"]
+      },
+      "participe_present": "enculant",
+      "participe_passe": ["enculé", "enculée", "enculés", "enculées"]
     }
   ]
 }
