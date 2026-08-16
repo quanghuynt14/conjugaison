@@ -5644,6 +5644,24 @@
       },
       "participe_present": "causant",
       "participe_passe": ["causé", "causée", "causés", "causées"]
+    },
+    {
+      "id": "coûter",
+      "infinitif": "coûter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["coûte", "coûtes", "coûte", "coûtons", "coûtez", "coûtent"],
+        "ind.imp": ["coûtais", "coûtais", "coûtait", "coûtions", "coûtiez", "coûtaient"],
+        "ind.ps": ["coûtai", "coûtas", "coûta", "coûtâmes", "coûtâtes", "coûtèrent"],
+        "ind.fut": ["coûterai", "coûteras", "coûtera", "coûterons", "coûterez", "coûteront"],
+        "cond.pres": ["coûterais", "coûterais", "coûterait", "coûterions", "coûteriez", "coûteraient"],
+        "subj.pres": ["coûte", "coûtes", "coûte", "coûtions", "coûtiez", "coûtent"],
+        "subj.imp": ["coûtasse", "coûtasses", "coûtât", "coûtassions", "coûtassiez", "coûtassent"],
+        "imper.pres": ["coûte", "coûtons", "coûtez"]
+      },
+      "participe_present": "coûtant",
+      "participe_passe": ["coûté", "coûtée", "coûtés", "coûtées"]
     }
   ]
 }
