@@ -25042,6 +25042,24 @@
       },
       "participe_present": "ressaisissant",
       "participe_passe": ["ressaisi", "ressaisie", "ressaisis", "ressaisies"]
+    },
+    {
+      "id": "revendre",
+      "infinitif": "revendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["revends", "revends", "revend", "revendons", "revendez", "revendent"],
+        "ind.imp": ["revendais", "revendais", "revendait", "revendions", "revendiez", "revendaient"],
+        "ind.ps": ["revendis", "revendis", "revendit", "revendîmes", "revendîtes", "revendirent"],
+        "ind.fut": ["revendrai", "revendras", "revendra", "revendrons", "revendrez", "revendront"],
+        "cond.pres": ["revendrais", "revendrais", "revendrait", "revendrions", "revendriez", "revendraient"],
+        "subj.pres": ["revende", "revendes", "revende", "revendions", "revendiez", "revendent"],
+        "subj.imp": ["revendisse", "revendisses", "revendît", "revendissions", "revendissiez", "revendissent"],
+        "imper.pres": ["revends", "revendons", "revendez"]
+      },
+      "participe_present": "revendant",
+      "participe_passe": ["revendu", "revendue", "revendus", "revendues"]
     }
   ]
 }
