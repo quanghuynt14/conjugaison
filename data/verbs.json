@@ -30547,6 +30547,24 @@
       },
       "participe_present": "promouvant",
       "participe_passe": ["promu", "promue", "promus", "promues"]
+    },
+    {
+      "id": "assigner",
+      "infinitif": "assigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assigne", "assignes", "assigne", "assignons", "assignez", "assignent"],
+        "ind.imp": ["assignais", "assignais", "assignait", "assignions", "assigniez", "assignaient"],
+        "ind.ps": ["assignai", "assignas", "assigna", "assignâmes", "assignâtes", "assignèrent"],
+        "ind.fut": ["assignerai", "assigneras", "assignera", "assignerons", "assignerez", "assigneront"],
+        "cond.pres": ["assignerais", "assignerais", "assignerait", "assignerions", "assigneriez", "assigneraient"],
+        "subj.pres": ["assigne", "assignes", "assigne", "assignions", "assigniez", "assignent"],
+        "subj.imp": ["assignasse", "assignasses", "assignât", "assignassions", "assignassiez", "assignassent"],
+        "imper.pres": ["assigne", "assignons", "assignez"]
+      },
+      "participe_present": "assignant",
+      "participe_passe": ["assigné", "assignée", "assignés", "assignées"]
     }
   ]
 }
