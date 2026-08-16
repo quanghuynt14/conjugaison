@@ -5299,6 +5299,24 @@
       },
       "participe_present": "commandant",
       "participe_passe": ["commandé", "commandée", "commandés", "commandées"]
+    },
+    {
+      "id": "remplir",
+      "infinitif": "remplir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["remplis", "remplis", "remplit", "remplissons", "remplissez", "remplissent"],
+        "ind.imp": ["remplissais", "remplissais", "remplissait", "remplissions", "remplissiez", "remplissaient"],
+        "ind.ps": ["remplis", "remplis", "remplit", "remplîmes", "remplîtes", "remplirent"],
+        "ind.fut": ["remplirai", "rempliras", "remplira", "remplirons", "remplirez", "rempliront"],
+        "cond.pres": ["remplirais", "remplirais", "remplirait", "remplirions", "rempliriez", "rempliraient"],
+        "subj.pres": ["remplisse", "remplisses", "remplisse", "remplissions", "remplissiez", "remplissent"],
+        "subj.imp": ["remplisse", "remplisses", "remplît", "remplissions", "remplissiez", "remplissent"],
+        "imper.pres": ["remplis", "remplissons", "remplissez"]
+      },
+      "participe_present": "remplissant",
+      "participe_passe": ["rempli", "remplie", "remplis", "remplies"]
     }
   ]
 }
