@@ -24661,6 +24661,24 @@
       },
       "participe_present": "salant",
       "participe_passe": ["salé", "salée", "salés", "salées"]
+    },
+    {
+      "id": "compenser",
+      "infinitif": "compenser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["compense", "compenses", "compense", "compensons", "compensez", "compensent"],
+        "ind.imp": ["compensais", "compensais", "compensait", "compensions", "compensiez", "compensaient"],
+        "ind.ps": ["compensai", "compensas", "compensa", "compensâmes", "compensâtes", "compensèrent"],
+        "ind.fut": ["compenserai", "compenseras", "compensera", "compenserons", "compenserez", "compenseront"],
+        "cond.pres": ["compenserais", "compenserais", "compenserait", "compenserions", "compenseriez", "compenseraient"],
+        "subj.pres": ["compense", "compenses", "compense", "compensions", "compensiez", "compensent"],
+        "subj.imp": ["compensasse", "compensasses", "compensât", "compensassions", "compensassiez", "compensassent"],
+        "imper.pres": ["compense", "compensons", "compensez"]
+      },
+      "participe_present": "compensant",
+      "participe_passe": ["compensé", "compensée", "compensés", "compensées"]
     }
   ]
 }
