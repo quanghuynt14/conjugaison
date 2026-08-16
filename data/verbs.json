@@ -11408,6 +11408,24 @@
       },
       "participe_present": "vainquant",
       "participe_passe": ["vaincu", "vaincue", "vaincus", "vaincues"]
+    },
+    {
+      "id": "buter",
+      "infinitif": "buter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bute", "butes", "bute", "butons", "butez", "butent"],
+        "ind.imp": ["butais", "butais", "butait", "butions", "butiez", "butaient"],
+        "ind.ps": ["butai", "butas", "buta", "butâmes", "butâtes", "butèrent"],
+        "ind.fut": ["buterai", "buteras", "butera", "buterons", "buterez", "buteront"],
+        "cond.pres": ["buterais", "buterais", "buterait", "buterions", "buteriez", "buteraient"],
+        "subj.pres": ["bute", "butes", "bute", "butions", "butiez", "butent"],
+        "subj.imp": ["butasse", "butasses", "butât", "butassions", "butassiez", "butassent"],
+        "imper.pres": ["bute", "butons", "butez"]
+      },
+      "participe_present": "butant",
+      "participe_passe": ["buté", "butée", "butés", "butées"]
     }
   ]
 }
