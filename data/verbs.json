@@ -35150,6 +35150,24 @@
       },
       "participe_present": "sécurisant",
       "participe_passe": ["sécurisé", "sécurisée", "sécurisés", "sécurisées"]
+    },
+    {
+      "id": "enliser",
+      "infinitif": "enliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enlise", "enlises", "enlise", "enlisons", "enlisez", "enlisent"],
+        "ind.imp": ["enlisais", "enlisais", "enlisait", "enlisions", "enlisiez", "enlisaient"],
+        "ind.ps": ["enlisai", "enlisas", "enlisa", "enlisâmes", "enlisâtes", "enlisèrent"],
+        "ind.fut": ["enliserai", "enliseras", "enlisera", "enliserons", "enliserez", "enliseront"],
+        "cond.pres": ["enliserais", "enliserais", "enliserait", "enliserions", "enliseriez", "enliseraient"],
+        "subj.pres": ["enlise", "enlises", "enlise", "enlisions", "enlisiez", "enlisent"],
+        "subj.imp": ["enlisasse", "enlisasses", "enlisât", "enlisassions", "enlisassiez", "enlisassent"],
+        "imper.pres": ["enlise", "enlisons", "enlisez"]
+      },
+      "participe_present": "enlisant",
+      "participe_passe": ["enlisé", "enlisée", "enlisés", "enlisées"]
     }
   ]
 }
