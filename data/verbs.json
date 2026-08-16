@@ -1970,6 +1970,24 @@
       },
       "participe_present": "priant",
       "participe_passe": ["prié", "priée", "priés", "priées"]
+    },
+    {
+      "id": "recevoir",
+      "infinitif": "recevoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reçois", "reçois", "reçoit", "recevons", "recevez", "reçoivent"],
+        "ind.imp": ["recevais", "recevais", "recevait", "recevions", "receviez", "recevaient"],
+        "ind.ps": ["reçus", "reçus", "reçut", "reçûmes", "reçûtes", "reçurent"],
+        "ind.fut": ["recevrai", "recevras", "recevra", "recevrons", "recevrez", "recevront"],
+        "cond.pres": ["recevrais", "recevrais", "recevrait", "recevrions", "recevriez", "recevraient"],
+        "subj.pres": ["reçoive", "reçoives", "reçoive", "recevions", "receviez", "reçoivent"],
+        "subj.imp": ["reçusse", "reçusses", "reçût", "reçussions", "reçussiez", "reçussent"],
+        "imper.pres": ["reçois", "recevons", "recevez"]
+      },
+      "participe_present": "recevant",
+      "participe_passe": ["reçu", "reçue", "reçus", "reçues"]
     }
   ]
 }
