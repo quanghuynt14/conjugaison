@@ -17259,6 +17259,24 @@
       },
       "participe_present": "ébranlant",
       "participe_passe": ["ébranlé", "ébranlée", "ébranlés", "ébranlées"]
+    },
+    {
+      "id": "dévisager",
+      "infinitif": "dévisager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dévisage", "dévisages", "dévisage", "dévisageons", "dévisagez", "dévisagent"],
+        "ind.imp": ["dévisageais", "dévisageais", "dévisageait", "dévisagions", "dévisagiez", "dévisageaient"],
+        "ind.ps": ["dévisageai", "dévisageas", "dévisagea", "dévisageâmes", "dévisageâtes", "dévisagèrent"],
+        "ind.fut": ["dévisagerai", "dévisageras", "dévisagera", "dévisagerons", "dévisagerez", "dévisageront"],
+        "cond.pres": ["dévisagerais", "dévisagerais", "dévisagerait", "dévisagerions", "dévisageriez", "dévisageraient"],
+        "subj.pres": ["dévisage", "dévisages", "dévisage", "dévisagions", "dévisagiez", "dévisagent"],
+        "subj.imp": ["dévisageasse", "dévisageasses", "dévisageât", "dévisageassions", "dévisageassiez", "dévisageassent"],
+        "imper.pres": ["dévisage", "dévisageons", "dévisagez"]
+      },
+      "participe_present": "dévisageant",
+      "participe_passe": ["dévisagé", "dévisagée", "dévisagés", "dévisagées"]
     }
   ]
 }
