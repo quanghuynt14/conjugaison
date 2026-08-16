@@ -6586,6 +6586,24 @@
       },
       "participe_present": "pleuvant",
       "participe_passe": ["plu", null, null, null]
+    },
+    {
+      "id": "planter",
+      "infinitif": "planter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["plante", "plantes", "plante", "plantons", "plantez", "plantent"],
+        "ind.imp": ["plantais", "plantais", "plantait", "plantions", "plantiez", "plantaient"],
+        "ind.ps": ["plantai", "plantas", "planta", "plantâmes", "plantâtes", "plantèrent"],
+        "ind.fut": ["planterai", "planteras", "plantera", "planterons", "planterez", "planteront"],
+        "cond.pres": ["planterais", "planterais", "planterait", "planterions", "planteriez", "planteraient"],
+        "subj.pres": ["plante", "plantes", "plante", "plantions", "plantiez", "plantent"],
+        "subj.imp": ["plantasse", "plantasses", "plantât", "plantassions", "plantassiez", "plantassent"],
+        "imper.pres": ["plante", "plantons", "plantez"]
+      },
+      "participe_present": "plantant",
+      "participe_passe": ["planté", "plantée", "plantés", "plantées"]
     }
   ]
 }
