@@ -9011,6 +9011,25 @@
       },
       "participe_present": "guérissant",
       "participe_passe": ["guéri", "guérie", "guéris", "guéries"]
+    },
+    {
+      "id": "lutter",
+      "infinitif": "lutter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « lutté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["lutte", "luttes", "lutte", "luttons", "luttez", "luttent"],
+        "ind.imp": ["luttais", "luttais", "luttait", "luttions", "luttiez", "luttaient"],
+        "ind.ps": ["luttai", "luttas", "lutta", "luttâmes", "luttâtes", "luttèrent"],
+        "ind.fut": ["lutterai", "lutteras", "luttera", "lutterons", "lutterez", "lutteront"],
+        "cond.pres": ["lutterais", "lutterais", "lutterait", "lutterions", "lutteriez", "lutteraient"],
+        "subj.pres": ["lutte", "luttes", "lutte", "luttions", "luttiez", "luttent"],
+        "subj.imp": ["luttasse", "luttasses", "luttât", "luttassions", "luttassiez", "luttassent"],
+        "imper.pres": ["lutte", "luttons", "luttez"]
+      },
+      "participe_present": "luttant",
+      "participe_passe": ["lutté", null, null, null]
     }
   ]
 }
