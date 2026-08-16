@@ -26570,6 +26570,24 @@
       },
       "participe_present": "rimant",
       "participe_passe": ["rimé", "rimée", "rimés", "rimées"]
+    },
+    {
+      "id": "absenter",
+      "infinitif": "absenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["absente", "absentes", "absente", "absentons", "absentez", "absentent"],
+        "ind.imp": ["absentais", "absentais", "absentait", "absentions", "absentiez", "absentaient"],
+        "ind.ps": ["absentai", "absentas", "absenta", "absentâmes", "absentâtes", "absentèrent"],
+        "ind.fut": ["absenterai", "absenteras", "absentera", "absenterons", "absenterez", "absenteront"],
+        "cond.pres": ["absenterais", "absenterais", "absenterait", "absenterions", "absenteriez", "absenteraient"],
+        "subj.pres": ["absente", "absentes", "absente", "absentions", "absentiez", "absentent"],
+        "subj.imp": ["absentasse", "absentasses", "absentât", "absentassions", "absentassiez", "absentassent"],
+        "imper.pres": ["absente", "absentons", "absentez"]
+      },
+      "participe_present": "absentant",
+      "participe_passe": ["absenté", "absentée", "absentés", "absentées"]
     }
   ]
 }
