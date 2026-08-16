@@ -23927,6 +23927,24 @@
       },
       "participe_present": "contredisant",
       "participe_passe": ["contredit", "contredite", "contredits", "contredites"]
+    },
+    {
+      "id": "décliner",
+      "infinitif": "décliner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décline", "déclines", "décline", "déclinons", "déclinez", "déclinent"],
+        "ind.imp": ["déclinais", "déclinais", "déclinait", "déclinions", "décliniez", "déclinaient"],
+        "ind.ps": ["déclinai", "déclinas", "déclina", "déclinâmes", "déclinâtes", "déclinèrent"],
+        "ind.fut": ["déclinerai", "déclineras", "déclinera", "déclinerons", "déclinerez", "déclineront"],
+        "cond.pres": ["déclinerais", "déclinerais", "déclinerait", "déclinerions", "déclineriez", "déclineraient"],
+        "subj.pres": ["décline", "déclines", "décline", "déclinions", "décliniez", "déclinent"],
+        "subj.imp": ["déclinasse", "déclinasses", "déclinât", "déclinassions", "déclinassiez", "déclinassent"],
+        "imper.pres": ["décline", "déclinons", "déclinez"]
+      },
+      "participe_present": "déclinant",
+      "participe_passe": ["décliné", "déclinée", "déclinés", "déclinées"]
     }
   ]
 }
