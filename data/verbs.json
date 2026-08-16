@@ -10775,6 +10775,24 @@
       },
       "participe_present": "intervenant",
       "participe_passe": ["intervenu", "intervenue", "intervenus", "intervenues"]
+    },
+    {
+      "id": "préciser",
+      "infinitif": "préciser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["précise", "précises", "précise", "précisons", "précisez", "précisent"],
+        "ind.imp": ["précisais", "précisais", "précisait", "précisions", "précisiez", "précisaient"],
+        "ind.ps": ["précisai", "précisas", "précisa", "précisâmes", "précisâtes", "précisèrent"],
+        "ind.fut": ["préciserai", "préciseras", "précisera", "préciserons", "préciserez", "préciseront"],
+        "cond.pres": ["préciserais", "préciserais", "préciserait", "préciserions", "préciseriez", "préciseraient"],
+        "subj.pres": ["précise", "précises", "précise", "précisions", "précisiez", "précisent"],
+        "subj.imp": ["précisasse", "précisasses", "précisât", "précisassions", "précisassiez", "précisassent"],
+        "imper.pres": ["précise", "précisons", "précisez"]
+      },
+      "participe_present": "précisant",
+      "participe_passe": ["précisé", "précisée", "précisés", "précisées"]
     }
   ]
 }
