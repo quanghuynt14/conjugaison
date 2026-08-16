@@ -36059,6 +36059,24 @@
       },
       "participe_present": "trimballant",
       "participe_passe": ["trimballé", "trimballée", "trimballés", "trimballées"]
+    },
+    {
+      "id": "dépeindre",
+      "infinitif": "dépeindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dépeins", "dépeins", "dépeint", "dépeignons", "dépeignez", "dépeignent"],
+        "ind.imp": ["dépeignais", "dépeignais", "dépeignait", "dépeignions", "dépeigniez", "dépeignaient"],
+        "ind.ps": ["dépeignis", "dépeignis", "dépeignit", "dépeignîmes", "dépeignîtes", "dépeignirent"],
+        "ind.fut": ["dépeindrai", "dépeindras", "dépeindra", "dépeindrons", "dépeindrez", "dépeindront"],
+        "cond.pres": ["dépeindrais", "dépeindrais", "dépeindrait", "dépeindrions", "dépeindriez", "dépeindraient"],
+        "subj.pres": ["dépeigne", "dépeignes", "dépeigne", "dépeignions", "dépeigniez", "dépeignent"],
+        "subj.imp": ["dépeignisse", "dépeignisses", "dépeignît", "dépeignissions", "dépeignissiez", "dépeignissent"],
+        "imper.pres": ["dépeins", "dépeignons", "dépeignez"]
+      },
+      "participe_present": "dépeignant",
+      "participe_passe": ["dépeint", "dépeinte", "dépeints", "dépeintes"]
     }
   ]
 }
