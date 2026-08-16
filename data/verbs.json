@@ -7583,6 +7583,25 @@
       },
       "participe_present": "mordant",
       "participe_passe": ["mordu", "mordue", "mordus", "mordues"]
+    },
+    {
+      "id": "révéler",
+      "infinitif": "révéler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je révélerai » ou « je révèlerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["révèle", "révèles", "révèle", "révélons", "révélez", "révèlent"],
+        "ind.imp": ["révélais", "révélais", "révélait", "révélions", "révéliez", "révélaient"],
+        "ind.ps": ["révélai", "révélas", "révéla", "révélâmes", "révélâtes", "révélèrent"],
+        "ind.fut": [["révélerai", "révèlerai"], ["révéleras", "révèleras"], ["révélera", "révèlera"], ["révélerons", "révèlerons"], ["révélerez", "révèlerez"], ["révéleront", "révèleront"]],
+        "cond.pres": [["révélerais", "révèlerais"], ["révélerais", "révèlerais"], ["révélerait", "révèlerait"], ["révélerions", "révèlerions"], ["révéleriez", "révèleriez"], ["révéleraient", "révèleraient"]],
+        "subj.pres": ["révèle", "révèles", "révèle", "révélions", "révéliez", "révèlent"],
+        "subj.imp": ["révélasse", "révélasses", "révélât", "révélassions", "révélassiez", "révélassent"],
+        "imper.pres": ["révèle", "révélons", "révélez"]
+      },
+      "participe_present": "révélant",
+      "participe_passe": ["révélé", "révélée", "révélés", "révélées"]
     }
   ]
 }
