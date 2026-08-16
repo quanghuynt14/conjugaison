@@ -17806,6 +17806,24 @@
       },
       "participe_present": "tâtant",
       "participe_passe": ["tâté", "tâtée", "tâtés", "tâtées"]
+    },
+    {
+      "id": "grossir",
+      "infinitif": "grossir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["grossis", "grossis", "grossit", "grossissons", "grossissez", "grossissent"],
+        "ind.imp": ["grossissais", "grossissais", "grossissait", "grossissions", "grossissiez", "grossissaient"],
+        "ind.ps": ["grossis", "grossis", "grossit", "grossîmes", "grossîtes", "grossirent"],
+        "ind.fut": ["grossirai", "grossiras", "grossira", "grossirons", "grossirez", "grossiront"],
+        "cond.pres": ["grossirais", "grossirais", "grossirait", "grossirions", "grossiriez", "grossiraient"],
+        "subj.pres": ["grossisse", "grossisses", "grossisse", "grossissions", "grossissiez", "grossissent"],
+        "subj.imp": ["grossisse", "grossisses", "grossît", "grossissions", "grossissiez", "grossissent"],
+        "imper.pres": ["grossis", "grossissons", "grossissez"]
+      },
+      "participe_present": "grossissant",
+      "participe_passe": ["grossi", "grossie", "grossis", "grossies"]
     }
   ]
 }
