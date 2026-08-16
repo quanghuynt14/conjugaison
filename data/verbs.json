@@ -33156,6 +33156,24 @@
       },
       "participe_present": "ployant",
       "participe_passe": ["ployé", "ployée", "ployés", "ployées"]
+    },
+    {
+      "id": "priser",
+      "infinitif": "priser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prise", "prises", "prise", "prisons", "prisez", "prisent"],
+        "ind.imp": ["prisais", "prisais", "prisait", "prisions", "prisiez", "prisaient"],
+        "ind.ps": ["prisai", "prisas", "prisa", "prisâmes", "prisâtes", "prisèrent"],
+        "ind.fut": ["priserai", "priseras", "prisera", "priserons", "priserez", "priseront"],
+        "cond.pres": ["priserais", "priserais", "priserait", "priserions", "priseriez", "priseraient"],
+        "subj.pres": ["prise", "prises", "prise", "prisions", "prisiez", "prisent"],
+        "subj.imp": ["prisasse", "prisasses", "prisât", "prisassions", "prisassiez", "prisassent"],
+        "imper.pres": ["prise", "prisons", "prisez"]
+      },
+      "participe_present": "prisant",
+      "participe_passe": ["prisé", "prisée", "prisés", "prisées"]
     }
   ]
 }
