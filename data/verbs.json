@@ -2496,6 +2496,24 @@
       },
       "participe_present": "désolant",
       "participe_passe": ["désolé", "désolée", "désolés", "désolées"]
+    },
+    {
+      "id": "accepter",
+      "infinitif": "accepter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accepte", "acceptes", "accepte", "acceptons", "acceptez", "acceptent"],
+        "ind.imp": ["acceptais", "acceptais", "acceptait", "acceptions", "acceptiez", "acceptaient"],
+        "ind.ps": ["acceptai", "acceptas", "accepta", "acceptâmes", "acceptâtes", "acceptèrent"],
+        "ind.fut": ["accepterai", "accepteras", "acceptera", "accepterons", "accepterez", "accepteront"],
+        "cond.pres": ["accepterais", "accepterais", "accepterait", "accepterions", "accepteriez", "accepteraient"],
+        "subj.pres": ["accepte", "acceptes", "accepte", "acceptions", "acceptiez", "acceptent"],
+        "subj.imp": ["acceptasse", "acceptasses", "acceptât", "acceptassions", "acceptassiez", "acceptassent"],
+        "imper.pres": ["accepte", "acceptons", "acceptez"]
+      },
+      "participe_present": "acceptant",
+      "participe_passe": ["accepté", "acceptée", "acceptés", "acceptées"]
     }
   ]
 }
