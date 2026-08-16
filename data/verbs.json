@@ -31239,6 +31239,24 @@
       },
       "participe_present": "ratissant",
       "participe_passe": ["ratissé", "ratissée", "ratissés", "ratissées"]
+    },
+    {
+      "id": "persécuter",
+      "infinitif": "persécuter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["persécute", "persécutes", "persécute", "persécutons", "persécutez", "persécutent"],
+        "ind.imp": ["persécutais", "persécutais", "persécutait", "persécutions", "persécutiez", "persécutaient"],
+        "ind.ps": ["persécutai", "persécutas", "persécuta", "persécutâmes", "persécutâtes", "persécutèrent"],
+        "ind.fut": ["persécuterai", "persécuteras", "persécutera", "persécuterons", "persécuterez", "persécuteront"],
+        "cond.pres": ["persécuterais", "persécuterais", "persécuterait", "persécuterions", "persécuteriez", "persécuteraient"],
+        "subj.pres": ["persécute", "persécutes", "persécute", "persécutions", "persécutiez", "persécutent"],
+        "subj.imp": ["persécutasse", "persécutasses", "persécutât", "persécutassions", "persécutassiez", "persécutassent"],
+        "imper.pres": ["persécute", "persécutons", "persécutez"]
+      },
+      "participe_present": "persécutant",
+      "participe_passe": ["persécuté", "persécutée", "persécutés", "persécutées"]
     }
   ]
 }
