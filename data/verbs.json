@@ -26844,6 +26844,25 @@
       },
       "participe_present": "révisant",
       "participe_passe": ["révisé", "révisée", "révisés", "révisées"]
+    },
+    {
+      "id": "clocher",
+      "infinitif": "clocher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « cloché » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["cloche", "cloches", "cloche", "clochons", "clochez", "clochent"],
+        "ind.imp": ["clochais", "clochais", "clochait", "clochions", "clochiez", "clochaient"],
+        "ind.ps": ["clochai", "clochas", "clocha", "clochâmes", "clochâtes", "clochèrent"],
+        "ind.fut": ["clocherai", "clocheras", "clochera", "clocherons", "clocherez", "clocheront"],
+        "cond.pres": ["clocherais", "clocherais", "clocherait", "clocherions", "clocheriez", "clocheraient"],
+        "subj.pres": ["cloche", "cloches", "cloche", "clochions", "clochiez", "clochent"],
+        "subj.imp": ["clochasse", "clochasses", "clochât", "clochassions", "clochassiez", "clochassent"],
+        "imper.pres": ["cloche", "clochons", "clochez"]
+      },
+      "participe_present": "clochant",
+      "participe_passe": ["cloché", null, null, null]
     }
   ]
 }
