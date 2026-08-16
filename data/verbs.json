@@ -20620,6 +20620,24 @@
       },
       "participe_present": "rafraîchissant",
       "participe_passe": ["rafraîchi", "rafraîchie", "rafraîchis", "rafraîchies"]
+    },
+    {
+      "id": "alerter",
+      "infinitif": "alerter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["alerte", "alertes", "alerte", "alertons", "alertez", "alertent"],
+        "ind.imp": ["alertais", "alertais", "alertait", "alertions", "alertiez", "alertaient"],
+        "ind.ps": ["alertai", "alertas", "alerta", "alertâmes", "alertâtes", "alertèrent"],
+        "ind.fut": ["alerterai", "alerteras", "alertera", "alerterons", "alerterez", "alerteront"],
+        "cond.pres": ["alerterais", "alerterais", "alerterait", "alerterions", "alerteriez", "alerteraient"],
+        "subj.pres": ["alerte", "alertes", "alerte", "alertions", "alertiez", "alertent"],
+        "subj.imp": ["alertasse", "alertasses", "alertât", "alertassions", "alertassiez", "alertassent"],
+        "imper.pres": ["alerte", "alertons", "alertez"]
+      },
+      "participe_present": "alertant",
+      "participe_passe": ["alerté", "alertée", "alertés", "alertées"]
     }
   ]
 }
