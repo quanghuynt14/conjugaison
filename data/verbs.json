@@ -29729,6 +29729,24 @@
       },
       "participe_present": "dégoulinant",
       "participe_passe": ["dégouliné", null, null, null]
+    },
+    {
+      "id": "recoudre",
+      "infinitif": "recoudre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recouds", "recouds", "recoud", "recousons", "recousez", "recousent"],
+        "ind.imp": ["recousais", "recousais", "recousait", "recousions", "recousiez", "recousaient"],
+        "ind.ps": ["recousis", "recousis", "recousit", "recousîmes", "recousîtes", "recousirent"],
+        "ind.fut": ["recoudrai", "recoudras", "recoudra", "recoudrons", "recoudrez", "recoudront"],
+        "cond.pres": ["recoudrais", "recoudrais", "recoudrait", "recoudrions", "recoudriez", "recoudraient"],
+        "subj.pres": ["recouse", "recouses", "recouse", "recousions", "recousiez", "recousent"],
+        "subj.imp": ["recousisse", "recousisses", "recousît", "recousissions", "recousissiez", "recousissent"],
+        "imper.pres": ["recouds", "recousons", "recousez"]
+      },
+      "participe_present": "recousant",
+      "participe_passe": ["recousu", "recousue", "recousus", "recousues"]
     }
   ]
 }
