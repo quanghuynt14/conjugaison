@@ -5735,6 +5735,25 @@
       },
       "participe_present": "attirant",
       "participe_passe": ["attiré", "attirée", "attirés", "attirées"]
+    },
+    {
+      "id": "songer",
+      "infinitif": "songer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « songé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["songe", "songes", "songe", "songeons", "songez", "songent"],
+        "ind.imp": ["songeais", "songeais", "songeait", "songions", "songiez", "songeaient"],
+        "ind.ps": ["songeai", "songeas", "songea", "songeâmes", "songeâtes", "songèrent"],
+        "ind.fut": ["songerai", "songeras", "songera", "songerons", "songerez", "songeront"],
+        "cond.pres": ["songerais", "songerais", "songerait", "songerions", "songeriez", "songeraient"],
+        "subj.pres": ["songe", "songes", "songe", "songions", "songiez", "songent"],
+        "subj.imp": ["songeasse", "songeasses", "songeât", "songeassions", "songeassiez", "songeassent"],
+        "imper.pres": ["songe", "songeons", "songez"]
+      },
+      "participe_present": "songeant",
+      "participe_passe": ["songé", null, null, null]
     }
   ]
 }
