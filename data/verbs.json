@@ -31257,6 +31257,24 @@
       },
       "participe_present": "persécutant",
       "participe_passe": ["persécuté", "persécutée", "persécutés", "persécutées"]
+    },
+    {
+      "id": "trimbaler",
+      "infinitif": "trimbaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trimbale", "trimbales", "trimbale", "trimbalons", "trimbalez", "trimbalent"],
+        "ind.imp": ["trimbalais", "trimbalais", "trimbalait", "trimbalions", "trimbaliez", "trimbalaient"],
+        "ind.ps": ["trimbalai", "trimbalas", "trimbala", "trimbalâmes", "trimbalâtes", "trimbalèrent"],
+        "ind.fut": ["trimbalerai", "trimbaleras", "trimbalera", "trimbalerons", "trimbalerez", "trimbaleront"],
+        "cond.pres": ["trimbalerais", "trimbalerais", "trimbalerait", "trimbalerions", "trimbaleriez", "trimbaleraient"],
+        "subj.pres": ["trimbale", "trimbales", "trimbale", "trimbalions", "trimbaliez", "trimbalent"],
+        "subj.imp": ["trimbalasse", "trimbalasses", "trimbalât", "trimbalassions", "trimbalassiez", "trimbalassent"],
+        "imper.pres": ["trimbale", "trimbalons", "trimbalez"]
+      },
+      "participe_present": "trimbalant",
+      "participe_passe": ["trimbalé", "trimbalée", "trimbalés", "trimbalées"]
     }
   ]
 }
