@@ -910,6 +910,24 @@
       },
       "participe_present": "commençant",
       "participe_passe": ["commencé", "commencée", "commencés", "commencées"]
+    },
+    {
+      "id": "tomber",
+      "infinitif": "tomber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["tombe", "tombes", "tombe", "tombons", "tombez", "tombent"],
+        "ind.imp": ["tombais", "tombais", "tombait", "tombions", "tombiez", "tombaient"],
+        "ind.ps": ["tombai", "tombas", "tomba", "tombâmes", "tombâtes", "tombèrent"],
+        "ind.fut": ["tomberai", "tomberas", "tombera", "tomberons", "tomberez", "tomberont"],
+        "cond.pres": ["tomberais", "tomberais", "tomberait", "tomberions", "tomberiez", "tomberaient"],
+        "subj.pres": ["tombe", "tombes", "tombe", "tombions", "tombiez", "tombent"],
+        "subj.imp": ["tombasse", "tombasses", "tombât", "tombassions", "tombassiez", "tombassent"],
+        "imper.pres": ["tombe", "tombons", "tombez"]
+      },
+      "participe_present": "tombant",
+      "participe_passe": ["tombé", "tombée", "tombés", "tombées"]
     }
   ]
 }
