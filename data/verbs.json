@@ -26207,6 +26207,26 @@
       },
       "participe_present": "requérant",
       "participe_passe": ["requis", "requise", "requis", "requises"]
+    },
+    {
+      "id": "haleter",
+      "infinitif": "haleter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "h_aspire": true,
+      "note": "Le participe passé « haleté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["halète", "halètes", "halète", "haletons", "haletez", "halètent"],
+        "ind.imp": ["haletais", "haletais", "haletait", "haletions", "haletiez", "haletaient"],
+        "ind.ps": ["haletai", "haletas", "haleta", "haletâmes", "haletâtes", "haletèrent"],
+        "ind.fut": ["halèterai", "halèteras", "halètera", "halèterons", "halèterez", "halèteront"],
+        "cond.pres": ["halèterais", "halèterais", "halèterait", "halèterions", "halèteriez", "halèteraient"],
+        "subj.pres": ["halète", "halètes", "halète", "haletions", "haletiez", "halètent"],
+        "subj.imp": ["haletasse", "haletasses", "haletât", "haletassions", "haletassiez", "haletassent"],
+        "imper.pres": ["halète", "haletons", "haletez"]
+      },
+      "participe_present": "haletant",
+      "participe_passe": ["haleté", null, null, null]
     }
   ]
 }
