@@ -23272,6 +23272,24 @@
       },
       "participe_present": "assombrissant",
       "participe_passe": ["assombri", "assombrie", "assombris", "assombries"]
+    },
+    {
+      "id": "rincer",
+      "infinitif": "rincer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rince", "rinces", "rince", "rinçons", "rincez", "rincent"],
+        "ind.imp": ["rinçais", "rinçais", "rinçait", "rincions", "rinciez", "rinçaient"],
+        "ind.ps": ["rinçai", "rinças", "rinça", "rinçâmes", "rinçâtes", "rincèrent"],
+        "ind.fut": ["rincerai", "rinceras", "rincera", "rincerons", "rincerez", "rinceront"],
+        "cond.pres": ["rincerais", "rincerais", "rincerait", "rincerions", "rinceriez", "rinceraient"],
+        "subj.pres": ["rince", "rinces", "rince", "rincions", "rinciez", "rincent"],
+        "subj.imp": ["rinçasse", "rinçasses", "rinçât", "rinçassions", "rinçassiez", "rinçassent"],
+        "imper.pres": ["rince", "rinçons", "rincez"]
+      },
+      "participe_present": "rinçant",
+      "participe_passe": ["rincé", "rincée", "rincés", "rincées"]
     }
   ]
 }
