@@ -12136,6 +12136,24 @@
       },
       "participe_present": "impressionnant",
       "participe_passe": ["impressionné", "impressionnée", "impressionnés", "impressionnées"]
+    },
+    {
+      "id": "déshabiller",
+      "infinitif": "déshabiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déshabille", "déshabilles", "déshabille", "déshabillons", "déshabillez", "déshabillent"],
+        "ind.imp": ["déshabillais", "déshabillais", "déshabillait", "déshabillions", "déshabilliez", "déshabillaient"],
+        "ind.ps": ["déshabillai", "déshabillas", "déshabilla", "déshabillâmes", "déshabillâtes", "déshabillèrent"],
+        "ind.fut": ["déshabillerai", "déshabilleras", "déshabillera", "déshabillerons", "déshabillerez", "déshabilleront"],
+        "cond.pres": ["déshabillerais", "déshabillerais", "déshabillerait", "déshabillerions", "déshabilleriez", "déshabilleraient"],
+        "subj.pres": ["déshabille", "déshabilles", "déshabille", "déshabillions", "déshabilliez", "déshabillent"],
+        "subj.imp": ["déshabillasse", "déshabillasses", "déshabillât", "déshabillassions", "déshabillassiez", "déshabillassent"],
+        "imper.pres": ["déshabille", "déshabillons", "déshabillez"]
+      },
+      "participe_present": "déshabillant",
+      "participe_passe": ["déshabillé", "déshabillée", "déshabillés", "déshabillées"]
     }
   ]
 }
