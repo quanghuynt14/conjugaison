@@ -1753,6 +1753,24 @@
       },
       "participe_present": "riant",
       "participe_passe": ["ri", null, null, null]
+    },
+    {
+      "id": "toucher",
+      "infinitif": "toucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["touche", "touches", "touche", "touchons", "touchez", "touchent"],
+        "ind.imp": ["touchais", "touchais", "touchait", "touchions", "touchiez", "touchaient"],
+        "ind.ps": ["touchai", "touchas", "toucha", "touchâmes", "touchâtes", "touchèrent"],
+        "ind.fut": ["toucherai", "toucheras", "touchera", "toucherons", "toucherez", "toucheront"],
+        "cond.pres": ["toucherais", "toucherais", "toucherait", "toucherions", "toucheriez", "toucheraient"],
+        "subj.pres": ["touche", "touches", "touche", "touchions", "touchiez", "touchent"],
+        "subj.imp": ["touchasse", "touchasses", "touchât", "touchassions", "touchassiez", "touchassent"],
+        "imper.pres": ["touche", "touchons", "touchez"]
+      },
+      "participe_present": "touchant",
+      "participe_passe": ["touché", "touchée", "touchés", "touchées"]
     }
   ]
 }
