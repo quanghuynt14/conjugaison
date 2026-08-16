@@ -30876,6 +30876,24 @@
       },
       "participe_present": "ripostant",
       "participe_passe": ["riposté", "ripostée", "ripostés", "ripostées"]
+    },
+    {
+      "id": "essouffler",
+      "infinitif": "essouffler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["essouffle", "essouffles", "essouffle", "essoufflons", "essoufflez", "essoufflent"],
+        "ind.imp": ["essoufflais", "essoufflais", "essoufflait", "essoufflions", "essouffliez", "essoufflaient"],
+        "ind.ps": ["essoufflai", "essoufflas", "essouffla", "essoufflâmes", "essoufflâtes", "essoufflèrent"],
+        "ind.fut": ["essoufflerai", "essouffleras", "essoufflera", "essoufflerons", "essoufflerez", "essouffleront"],
+        "cond.pres": ["essoufflerais", "essoufflerais", "essoufflerait", "essoufflerions", "essouffleriez", "essouffleraient"],
+        "subj.pres": ["essouffle", "essouffles", "essouffle", "essoufflions", "essouffliez", "essoufflent"],
+        "subj.imp": ["essoufflasse", "essoufflasses", "essoufflât", "essoufflassions", "essoufflassiez", "essoufflassent"],
+        "imper.pres": ["essouffle", "essoufflons", "essoufflez"]
+      },
+      "participe_present": "essoufflant",
+      "participe_passe": ["essoufflé", "essoufflée", "essoufflés", "essoufflées"]
     }
   ]
 }
