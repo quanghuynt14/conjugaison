@@ -12410,6 +12410,24 @@
       },
       "participe_present": "situant",
       "participe_passe": ["situé", "située", "situés", "situées"]
+    },
+    {
+      "id": "boucler",
+      "infinitif": "boucler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["boucle", "boucles", "boucle", "bouclons", "bouclez", "bouclent"],
+        "ind.imp": ["bouclais", "bouclais", "bouclait", "bouclions", "boucliez", "bouclaient"],
+        "ind.ps": ["bouclai", "bouclas", "boucla", "bouclâmes", "bouclâtes", "bouclèrent"],
+        "ind.fut": ["bouclerai", "boucleras", "bouclera", "bouclerons", "bouclerez", "boucleront"],
+        "cond.pres": ["bouclerais", "bouclerais", "bouclerait", "bouclerions", "boucleriez", "boucleraient"],
+        "subj.pres": ["boucle", "boucles", "boucle", "bouclions", "boucliez", "bouclent"],
+        "subj.imp": ["bouclasse", "bouclasses", "bouclât", "bouclassions", "bouclassiez", "bouclassent"],
+        "imper.pres": ["boucle", "bouclons", "bouclez"]
+      },
+      "participe_present": "bouclant",
+      "participe_passe": ["bouclé", "bouclée", "bouclés", "bouclées"]
     }
   ]
 }
