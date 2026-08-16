@@ -23110,6 +23110,24 @@
       },
       "participe_present": "équipant",
       "participe_passe": ["équipé", "équipée", "équipés", "équipées"]
+    },
+    {
+      "id": "localiser",
+      "infinitif": "localiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["localise", "localises", "localise", "localisons", "localisez", "localisent"],
+        "ind.imp": ["localisais", "localisais", "localisait", "localisions", "localisiez", "localisaient"],
+        "ind.ps": ["localisai", "localisas", "localisa", "localisâmes", "localisâtes", "localisèrent"],
+        "ind.fut": ["localiserai", "localiseras", "localisera", "localiserons", "localiserez", "localiseront"],
+        "cond.pres": ["localiserais", "localiserais", "localiserait", "localiserions", "localiseriez", "localiseraient"],
+        "subj.pres": ["localise", "localises", "localise", "localisions", "localisiez", "localisent"],
+        "subj.imp": ["localisasse", "localisasses", "localisât", "localisassions", "localisassiez", "localisassent"],
+        "imper.pres": ["localise", "localisons", "localisez"]
+      },
+      "participe_present": "localisant",
+      "participe_passe": ["localisé", "localisée", "localisés", "localisées"]
     }
   ]
 }
