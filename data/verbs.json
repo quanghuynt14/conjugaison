@@ -34524,6 +34524,24 @@
       },
       "participe_present": "capitulant",
       "participe_passe": ["capitulé", null, null, null]
+    },
+    {
+      "id": "endommager",
+      "infinitif": "endommager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["endommage", "endommages", "endommage", "endommageons", "endommagez", "endommagent"],
+        "ind.imp": ["endommageais", "endommageais", "endommageait", "endommagions", "endommagiez", "endommageaient"],
+        "ind.ps": ["endommageai", "endommageas", "endommagea", "endommageâmes", "endommageâtes", "endommagèrent"],
+        "ind.fut": ["endommagerai", "endommageras", "endommagera", "endommagerons", "endommagerez", "endommageront"],
+        "cond.pres": ["endommagerais", "endommagerais", "endommagerait", "endommagerions", "endommageriez", "endommageraient"],
+        "subj.pres": ["endommage", "endommages", "endommage", "endommagions", "endommagiez", "endommagent"],
+        "subj.imp": ["endommageasse", "endommageasses", "endommageât", "endommageassions", "endommageassiez", "endommageassent"],
+        "imper.pres": ["endommage", "endommageons", "endommagez"]
+      },
+      "participe_present": "endommageant",
+      "participe_passe": ["endommagé", "endommagée", "endommagés", "endommagées"]
     }
   ]
 }
