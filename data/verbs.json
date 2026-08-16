@@ -29947,6 +29947,24 @@
       },
       "participe_present": "appréhendant",
       "participe_passe": ["appréhendé", "appréhendée", "appréhendés", "appréhendées"]
+    },
+    {
+      "id": "gorger",
+      "infinitif": "gorger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gorge", "gorges", "gorge", "gorgeons", "gorgez", "gorgent"],
+        "ind.imp": ["gorgeais", "gorgeais", "gorgeait", "gorgions", "gorgiez", "gorgeaient"],
+        "ind.ps": ["gorgeai", "gorgeas", "gorgea", "gorgeâmes", "gorgeâtes", "gorgèrent"],
+        "ind.fut": ["gorgerai", "gorgeras", "gorgera", "gorgerons", "gorgerez", "gorgeront"],
+        "cond.pres": ["gorgerais", "gorgerais", "gorgerait", "gorgerions", "gorgeriez", "gorgeraient"],
+        "subj.pres": ["gorge", "gorges", "gorge", "gorgions", "gorgiez", "gorgent"],
+        "subj.imp": ["gorgeasse", "gorgeasses", "gorgeât", "gorgeassions", "gorgeassiez", "gorgeassent"],
+        "imper.pres": ["gorge", "gorgeons", "gorgez"]
+      },
+      "participe_present": "gorgeant",
+      "participe_passe": ["gorgé", "gorgée", "gorgés", "gorgées"]
     }
   ]
 }
