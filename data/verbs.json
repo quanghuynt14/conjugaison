@@ -5754,6 +5754,24 @@
       },
       "participe_present": "songeant",
       "participe_passe": ["songé", null, null, null]
+    },
+    {
+      "id": "plaindre",
+      "infinitif": "plaindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["plains", "plains", "plaint", "plaignons", "plaignez", "plaignent"],
+        "ind.imp": ["plaignais", "plaignais", "plaignait", "plaignions", "plaigniez", "plaignaient"],
+        "ind.ps": ["plaignis", "plaignis", "plaignit", "plaignîmes", "plaignîtes", "plaignirent"],
+        "ind.fut": ["plaindrai", "plaindras", "plaindra", "plaindrons", "plaindrez", "plaindront"],
+        "cond.pres": ["plaindrais", "plaindrais", "plaindrait", "plaindrions", "plaindriez", "plaindraient"],
+        "subj.pres": ["plaigne", "plaignes", "plaigne", "plaignions", "plaigniez", "plaignent"],
+        "subj.imp": ["plaignisse", "plaignisses", "plaignît", "plaignissions", "plaignissiez", "plaignissent"],
+        "imper.pres": ["plains", "plaignons", "plaignez"]
+      },
+      "participe_present": "plaignant",
+      "participe_passe": ["plaint", "plainte", "plaints", "plaintes"]
     }
   ]
 }
