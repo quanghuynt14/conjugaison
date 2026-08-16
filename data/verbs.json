@@ -21004,6 +21004,24 @@
       },
       "participe_present": "redisant",
       "participe_passe": ["redit", "redite", "redits", "redites"]
+    },
+    {
+      "id": "flamber",
+      "infinitif": "flamber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["flambe", "flambes", "flambe", "flambons", "flambez", "flambent"],
+        "ind.imp": ["flambais", "flambais", "flambait", "flambions", "flambiez", "flambaient"],
+        "ind.ps": ["flambai", "flambas", "flamba", "flambâmes", "flambâtes", "flambèrent"],
+        "ind.fut": ["flamberai", "flamberas", "flambera", "flamberons", "flamberez", "flamberont"],
+        "cond.pres": ["flamberais", "flamberais", "flamberait", "flamberions", "flamberiez", "flamberaient"],
+        "subj.pres": ["flambe", "flambes", "flambe", "flambions", "flambiez", "flambent"],
+        "subj.imp": ["flambasse", "flambasses", "flambât", "flambassions", "flambassiez", "flambassent"],
+        "imper.pres": ["flambe", "flambons", "flambez"]
+      },
+      "participe_present": "flambant",
+      "participe_passe": ["flambé", "flambée", "flambés", "flambées"]
     }
   ]
 }
