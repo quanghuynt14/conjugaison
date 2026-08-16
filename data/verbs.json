@@ -23381,6 +23381,24 @@
       },
       "participe_present": "flinguant",
       "participe_passe": ["flingué", "flinguée", "flingués", "flinguées"]
+    },
+    {
+      "id": "révolter",
+      "infinitif": "révolter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["révolte", "révoltes", "révolte", "révoltons", "révoltez", "révoltent"],
+        "ind.imp": ["révoltais", "révoltais", "révoltait", "révoltions", "révoltiez", "révoltaient"],
+        "ind.ps": ["révoltai", "révoltas", "révolta", "révoltâmes", "révoltâtes", "révoltèrent"],
+        "ind.fut": ["révolterai", "révolteras", "révoltera", "révolterons", "révolterez", "révolteront"],
+        "cond.pres": ["révolterais", "révolterais", "révolterait", "révolterions", "révolteriez", "révolteraient"],
+        "subj.pres": ["révolte", "révoltes", "révolte", "révoltions", "révoltiez", "révoltent"],
+        "subj.imp": ["révoltasse", "révoltasses", "révoltât", "révoltassions", "révoltassiez", "révoltassent"],
+        "imper.pres": ["révolte", "révoltons", "révoltez"]
+      },
+      "participe_present": "révoltant",
+      "participe_passe": ["révolté", "révoltée", "révoltés", "révoltées"]
     }
   ]
 }
