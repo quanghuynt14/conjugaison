@@ -17494,6 +17494,24 @@
       },
       "participe_present": "baptisant",
       "participe_passe": ["baptisé", "baptisée", "baptisés", "baptisées"]
+    },
+    {
+      "id": "confesser",
+      "infinitif": "confesser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["confesse", "confesses", "confesse", "confessons", "confessez", "confessent"],
+        "ind.imp": ["confessais", "confessais", "confessait", "confessions", "confessiez", "confessaient"],
+        "ind.ps": ["confessai", "confessas", "confessa", "confessâmes", "confessâtes", "confessèrent"],
+        "ind.fut": ["confesserai", "confesseras", "confessera", "confesserons", "confesserez", "confesseront"],
+        "cond.pres": ["confesserais", "confesserais", "confesserait", "confesserions", "confesseriez", "confesseraient"],
+        "subj.pres": ["confesse", "confesses", "confesse", "confessions", "confessiez", "confessent"],
+        "subj.imp": ["confessasse", "confessasses", "confessât", "confessassions", "confessassiez", "confessassent"],
+        "imper.pres": ["confesse", "confessons", "confessez"]
+      },
+      "participe_present": "confessant",
+      "participe_passe": ["confessé", "confessée", "confessés", "confessées"]
     }
   ]
 }
