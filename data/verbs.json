@@ -8543,6 +8543,24 @@
       },
       "participe_present": "accomplissant",
       "participe_passe": ["accompli", "accomplie", "accomplis", "accomplies"]
+    },
+    {
+      "id": "veiller",
+      "infinitif": "veiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["veille", "veilles", "veille", "veillons", "veillez", "veillent"],
+        "ind.imp": ["veillais", "veillais", "veillait", "veillions", "veilliez", "veillaient"],
+        "ind.ps": ["veillai", "veillas", "veilla", "veillâmes", "veillâtes", "veillèrent"],
+        "ind.fut": ["veillerai", "veilleras", "veillera", "veillerons", "veillerez", "veilleront"],
+        "cond.pres": ["veillerais", "veillerais", "veillerait", "veillerions", "veilleriez", "veilleraient"],
+        "subj.pres": ["veille", "veilles", "veille", "veillions", "veilliez", "veillent"],
+        "subj.imp": ["veillasse", "veillasses", "veillât", "veillassions", "veillassiez", "veillassent"],
+        "imper.pres": ["veille", "veillons", "veillez"]
+      },
+      "participe_present": "veillant",
+      "participe_passe": ["veillé", "veillée", "veillés", "veillées"]
     }
   ]
 }
