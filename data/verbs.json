@@ -17586,6 +17586,24 @@
       },
       "participe_present": "adaptant",
       "participe_passe": ["adapté", "adaptée", "adaptés", "adaptées"]
+    },
+    {
+      "id": "investir",
+      "infinitif": "investir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["investis", "investis", "investit", "investissons", "investissez", "investissent"],
+        "ind.imp": ["investissais", "investissais", "investissait", "investissions", "investissiez", "investissaient"],
+        "ind.ps": ["investis", "investis", "investit", "investîmes", "investîtes", "investirent"],
+        "ind.fut": ["investirai", "investiras", "investira", "investirons", "investirez", "investiront"],
+        "cond.pres": ["investirais", "investirais", "investirait", "investirions", "investiriez", "investiraient"],
+        "subj.pres": ["investisse", "investisses", "investisse", "investissions", "investissiez", "investissent"],
+        "subj.imp": ["investisse", "investisses", "investît", "investissions", "investissiez", "investissent"],
+        "imper.pres": ["investis", "investissons", "investissez"]
+      },
+      "participe_present": "investissant",
+      "participe_passe": ["investi", "investie", "investis", "investies"]
     }
   ]
 }
