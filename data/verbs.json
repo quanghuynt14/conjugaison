@@ -21837,6 +21837,24 @@
       },
       "participe_present": "pilotant",
       "participe_passe": ["piloté", "pilotée", "pilotés", "pilotées"]
+    },
+    {
+      "id": "débuter",
+      "infinitif": "débuter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["débute", "débutes", "débute", "débutons", "débutez", "débutent"],
+        "ind.imp": ["débutais", "débutais", "débutait", "débutions", "débutiez", "débutaient"],
+        "ind.ps": ["débutai", "débutas", "débuta", "débutâmes", "débutâtes", "débutèrent"],
+        "ind.fut": ["débuterai", "débuteras", "débutera", "débuterons", "débuterez", "débuteront"],
+        "cond.pres": ["débuterais", "débuterais", "débuterait", "débuterions", "débuteriez", "débuteraient"],
+        "subj.pres": ["débute", "débutes", "débute", "débutions", "débutiez", "débutent"],
+        "subj.imp": ["débutasse", "débutasses", "débutât", "débutassions", "débutassiez", "débutassent"],
+        "imper.pres": ["débute", "débutons", "débutez"]
+      },
+      "participe_present": "débutant",
+      "participe_passe": ["débuté", "débutée", "débutés", "débutées"]
     }
   ]
 }
