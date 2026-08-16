@@ -33030,6 +33030,24 @@
       },
       "participe_present": "redemandant",
       "participe_passe": ["redemandé", "redemandée", "redemandés", "redemandées"]
+    },
+    {
+      "id": "perfectionner",
+      "infinitif": "perfectionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["perfectionne", "perfectionnes", "perfectionne", "perfectionnons", "perfectionnez", "perfectionnent"],
+        "ind.imp": ["perfectionnais", "perfectionnais", "perfectionnait", "perfectionnions", "perfectionniez", "perfectionnaient"],
+        "ind.ps": ["perfectionnai", "perfectionnas", "perfectionna", "perfectionnâmes", "perfectionnâtes", "perfectionnèrent"],
+        "ind.fut": ["perfectionnerai", "perfectionneras", "perfectionnera", "perfectionnerons", "perfectionnerez", "perfectionneront"],
+        "cond.pres": ["perfectionnerais", "perfectionnerais", "perfectionnerait", "perfectionnerions", "perfectionneriez", "perfectionneraient"],
+        "subj.pres": ["perfectionne", "perfectionnes", "perfectionne", "perfectionnions", "perfectionniez", "perfectionnent"],
+        "subj.imp": ["perfectionnasse", "perfectionnasses", "perfectionnât", "perfectionnassions", "perfectionnassiez", "perfectionnassent"],
+        "imper.pres": ["perfectionne", "perfectionnons", "perfectionnez"]
+      },
+      "participe_present": "perfectionnant",
+      "participe_passe": ["perfectionné", "perfectionnée", "perfectionnés", "perfectionnées"]
     }
   ]
 }
