@@ -8777,6 +8777,24 @@
       },
       "participe_present": "habituant",
       "participe_passe": ["habitué", "habituée", "habitués", "habituées"]
+    },
+    {
+      "id": "résoudre",
+      "infinitif": "résoudre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["résous", "résous", "résout", "résolvons", "résolvez", "résolvent"],
+        "ind.imp": ["résolvais", "résolvais", "résolvait", "résolvions", "résolviez", "résolvaient"],
+        "ind.ps": ["résolus", "résolus", "résolut", "résolûmes", "résolûtes", "résolurent"],
+        "ind.fut": ["résoudrai", "résoudras", "résoudra", "résoudrons", "résoudrez", "résoudront"],
+        "cond.pres": ["résoudrais", "résoudrais", "résoudrait", "résoudrions", "résoudriez", "résoudraient"],
+        "subj.pres": ["résolve", "résolves", "résolve", "résolvions", "résolviez", "résolvent"],
+        "subj.imp": ["résolusse", "résolusses", "résolût", "résolussions", "résolussiez", "résolussent"],
+        "imper.pres": ["résous", "résolvons", "résolvez"]
+      },
+      "participe_present": "résolvant",
+      "participe_passe": ["résolu", "résolue", "résolus", "résolues"]
     }
   ]
 }
