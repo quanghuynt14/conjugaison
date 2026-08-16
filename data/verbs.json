@@ -6951,6 +6951,24 @@
       },
       "participe_present": "croisant",
       "participe_passe": ["croisé", "croisée", "croisés", "croisées"]
+    },
+    {
+      "id": "achever",
+      "infinitif": "achever",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["achève", "achèves", "achève", "achevons", "achevez", "achèvent"],
+        "ind.imp": ["achevais", "achevais", "achevait", "achevions", "acheviez", "achevaient"],
+        "ind.ps": ["achevai", "achevas", "acheva", "achevâmes", "achevâtes", "achevèrent"],
+        "ind.fut": ["achèverai", "achèveras", "achèvera", "achèverons", "achèverez", "achèveront"],
+        "cond.pres": ["achèverais", "achèverais", "achèverait", "achèverions", "achèveriez", "achèveraient"],
+        "subj.pres": ["achève", "achèves", "achève", "achevions", "acheviez", "achèvent"],
+        "subj.imp": ["achevasse", "achevasses", "achevât", "achevassions", "achevassiez", "achevassent"],
+        "imper.pres": ["achève", "achevons", "achevez"]
+      },
+      "participe_present": "achevant",
+      "participe_passe": ["achevé", "achevée", "achevés", "achevées"]
     }
   ]
 }
