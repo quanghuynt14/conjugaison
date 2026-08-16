@@ -8561,6 +8561,24 @@
       },
       "participe_present": "veillant",
       "participe_passe": ["veillé", "veillée", "veillés", "veillées"]
+    },
+    {
+      "id": "parfaire",
+      "infinitif": "parfaire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["parfais", "parfais", "parfait", "parfaisons", "parfaites", "parfont"],
+        "ind.imp": ["parfaisais", "parfaisais", "parfaisait", "parfaisions", "parfaisiez", "parfaisaient"],
+        "ind.ps": ["parfis", "parfis", "parfit", "parfîmes", "parfîtes", "parfirent"],
+        "ind.fut": ["parferai", "parferas", "parfera", "parferons", "parferez", "parferont"],
+        "cond.pres": ["parferais", "parferais", "parferait", "parferions", "parferiez", "parferaient"],
+        "subj.pres": ["parfasse", "parfasses", "parfasse", "parfassions", "parfassiez", "parfassent"],
+        "subj.imp": ["parfisse", "parfisses", "parfît", "parfissions", "parfissiez", "parfissent"],
+        "imper.pres": ["parfais", "parfaisons", "parfaites"]
+      },
+      "participe_present": "parfaisant",
+      "participe_passe": ["parfait", "parfaite", "parfaits", "parfaites"]
     }
   ]
 }
