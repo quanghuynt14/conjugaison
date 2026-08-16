@@ -9212,6 +9212,24 @@
       },
       "participe_present": "grimpant",
       "participe_passe": ["grimpé", "grimpée", "grimpés", "grimpées"]
+    },
+    {
+      "id": "foncer",
+      "infinitif": "foncer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fonce", "fonces", "fonce", "fonçons", "foncez", "foncent"],
+        "ind.imp": ["fonçais", "fonçais", "fonçait", "foncions", "fonciez", "fonçaient"],
+        "ind.ps": ["fonçai", "fonças", "fonça", "fonçâmes", "fonçâtes", "foncèrent"],
+        "ind.fut": ["foncerai", "fonceras", "foncera", "foncerons", "foncerez", "fonceront"],
+        "cond.pres": ["foncerais", "foncerais", "foncerait", "foncerions", "fonceriez", "fonceraient"],
+        "subj.pres": ["fonce", "fonces", "fonce", "foncions", "fonciez", "foncent"],
+        "subj.imp": ["fonçasse", "fonçasses", "fonçât", "fonçassions", "fonçassiez", "fonçassent"],
+        "imper.pres": ["fonce", "fonçons", "foncez"]
+      },
+      "participe_present": "fonçant",
+      "participe_passe": ["foncé", "foncée", "foncés", "foncées"]
     }
   ]
 }
