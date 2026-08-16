@@ -20804,6 +20804,24 @@
       },
       "participe_present": "subsistant",
       "participe_passe": ["subsisté", null, null, null]
+    },
+    {
+      "id": "épanouir",
+      "infinitif": "épanouir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["épanouis", "épanouis", "épanouit", "épanouissons", "épanouissez", "épanouissent"],
+        "ind.imp": ["épanouissais", "épanouissais", "épanouissait", "épanouissions", "épanouissiez", "épanouissaient"],
+        "ind.ps": ["épanouis", "épanouis", "épanouit", "épanouîmes", "épanouîtes", "épanouirent"],
+        "ind.fut": ["épanouirai", "épanouiras", "épanouira", "épanouirons", "épanouirez", "épanouiront"],
+        "cond.pres": ["épanouirais", "épanouirais", "épanouirait", "épanouirions", "épanouiriez", "épanouiraient"],
+        "subj.pres": ["épanouisse", "épanouisses", "épanouisse", "épanouissions", "épanouissiez", "épanouissent"],
+        "subj.imp": ["épanouisse", "épanouisses", "épanouît", "épanouissions", "épanouissiez", "épanouissent"],
+        "imper.pres": ["épanouis", "épanouissons", "épanouissez"]
+      },
+      "participe_present": "épanouissant",
+      "participe_passe": ["épanoui", "épanouie", "épanouis", "épanouies"]
     }
   ]
 }
