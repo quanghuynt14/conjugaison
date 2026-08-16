@@ -512,6 +512,24 @@
       },
       "participe_present": "demandant",
       "participe_passe": ["demandé", "demandée", "demandés", "demandées"]
+    },
+    {
+      "id": "rester",
+      "infinitif": "rester",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["reste", "restes", "reste", "restons", "restez", "restent"],
+        "ind.imp": ["restais", "restais", "restait", "restions", "restiez", "restaient"],
+        "ind.ps": ["restai", "restas", "resta", "restâmes", "restâtes", "restèrent"],
+        "ind.fut": ["resterai", "resteras", "restera", "resterons", "resterez", "resteront"],
+        "cond.pres": ["resterais", "resterais", "resterait", "resterions", "resteriez", "resteraient"],
+        "subj.pres": ["reste", "restes", "reste", "restions", "restiez", "restent"],
+        "subj.imp": ["restasse", "restasses", "restât", "restassions", "restassiez", "restassent"],
+        "imper.pres": ["reste", "restons", "restez"]
+      },
+      "participe_present": "restant",
+      "participe_passe": ["resté", "restée", "restés", "restées"]
     }
   ]
 }
