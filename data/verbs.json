@@ -3058,6 +3058,24 @@
       },
       "participe_present": "sautant",
       "participe_passe": ["sauté", "sautée", "sautés", "sautées"]
+    },
+    {
+      "id": "réussir",
+      "infinitif": "réussir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réussis", "réussis", "réussit", "réussissons", "réussissez", "réussissent"],
+        "ind.imp": ["réussissais", "réussissais", "réussissait", "réussissions", "réussissiez", "réussissaient"],
+        "ind.ps": ["réussis", "réussis", "réussit", "réussîmes", "réussîtes", "réussirent"],
+        "ind.fut": ["réussirai", "réussiras", "réussira", "réussirons", "réussirez", "réussiront"],
+        "cond.pres": ["réussirais", "réussirais", "réussirait", "réussirions", "réussiriez", "réussiraient"],
+        "subj.pres": ["réussisse", "réussisses", "réussisse", "réussissions", "réussissiez", "réussissent"],
+        "subj.imp": ["réussisse", "réussisses", "réussît", "réussissions", "réussissiez", "réussissent"],
+        "imper.pres": ["réussis", "réussissons", "réussissez"]
+      },
+      "participe_present": "réussissant",
+      "participe_passe": ["réussi", "réussie", "réussis", "réussies"]
     }
   ]
 }
