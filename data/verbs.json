@@ -3582,6 +3582,24 @@
       },
       "participe_present": "couvrant",
       "participe_passe": ["couvert", "couverte", "couverts", "couvertes"]
+    },
+    {
+      "id": "maintenir",
+      "infinitif": "maintenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["maintiens", "maintiens", "maintient", "maintenons", "maintenez", "maintiennent"],
+        "ind.imp": ["maintenais", "maintenais", "maintenait", "maintenions", "mainteniez", "maintenaient"],
+        "ind.ps": ["maintins", "maintins", "maintint", "maintînmes", "maintîntes", "maintinrent"],
+        "ind.fut": ["maintiendrai", "maintiendras", "maintiendra", "maintiendrons", "maintiendrez", "maintiendront"],
+        "cond.pres": ["maintiendrais", "maintiendrais", "maintiendrait", "maintiendrions", "maintiendriez", "maintiendraient"],
+        "subj.pres": ["maintienne", "maintiennes", "maintienne", "maintenions", "mainteniez", "maintiennent"],
+        "subj.imp": ["maintinsse", "maintinsses", "maintînt", "maintinssions", "maintinssiez", "maintinssent"],
+        "imper.pres": ["maintiens", "maintenons", "maintenez"]
+      },
+      "participe_present": "maintenant",
+      "participe_passe": ["maintenu", "maintenue", "maintenus", "maintenues"]
     }
   ]
 }
