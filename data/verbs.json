@@ -15952,6 +15952,24 @@
       },
       "participe_present": "limitant",
       "participe_passe": ["limité", "limitée", "limités", "limitées"]
+    },
+    {
+      "id": "hisser",
+      "infinitif": "hisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["hisse", "hisses", "hisse", "hissons", "hissez", "hissent"],
+        "ind.imp": ["hissais", "hissais", "hissait", "hissions", "hissiez", "hissaient"],
+        "ind.ps": ["hissai", "hissas", "hissa", "hissâmes", "hissâtes", "hissèrent"],
+        "ind.fut": ["hisserai", "hisseras", "hissera", "hisserons", "hisserez", "hisseront"],
+        "cond.pres": ["hisserais", "hisserais", "hisserait", "hisserions", "hisseriez", "hisseraient"],
+        "subj.pres": ["hisse", "hisses", "hisse", "hissions", "hissiez", "hissent"],
+        "subj.imp": ["hissasse", "hissasses", "hissât", "hissassions", "hissassiez", "hissassent"],
+        "imper.pres": ["hisse", "hissons", "hissez"]
+      },
+      "participe_present": "hissant",
+      "participe_passe": ["hissé", "hissée", "hissés", "hissées"]
     }
   ]
 }
