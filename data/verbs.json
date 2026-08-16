@@ -24625,6 +24625,24 @@
       },
       "participe_present": "amorçant",
       "participe_passe": ["amorcé", "amorcée", "amorcés", "amorcées"]
+    },
+    {
+      "id": "contaminer",
+      "infinitif": "contaminer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contamine", "contamines", "contamine", "contaminons", "contaminez", "contaminent"],
+        "ind.imp": ["contaminais", "contaminais", "contaminait", "contaminions", "contaminiez", "contaminaient"],
+        "ind.ps": ["contaminai", "contaminas", "contamina", "contaminâmes", "contaminâtes", "contaminèrent"],
+        "ind.fut": ["contaminerai", "contamineras", "contaminera", "contaminerons", "contaminerez", "contamineront"],
+        "cond.pres": ["contaminerais", "contaminerais", "contaminerait", "contaminerions", "contamineriez", "contamineraient"],
+        "subj.pres": ["contamine", "contamines", "contamine", "contaminions", "contaminiez", "contaminent"],
+        "subj.imp": ["contaminasse", "contaminasses", "contaminât", "contaminassions", "contaminassiez", "contaminassent"],
+        "imper.pres": ["contamine", "contaminons", "contaminez"]
+      },
+      "participe_present": "contaminant",
+      "participe_passe": ["contaminé", "contaminée", "contaminés", "contaminées"]
     }
   ]
 }
