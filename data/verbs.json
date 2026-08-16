@@ -18978,6 +18978,25 @@
       },
       "participe_present": "bavant",
       "participe_passe": ["bavé", null, null, null]
+    },
+    {
+      "id": "interpréter",
+      "infinitif": "interpréter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’interpréterai » ou « j’interprèterai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["interprète", "interprètes", "interprète", "interprétons", "interprétez", "interprètent"],
+        "ind.imp": ["interprétais", "interprétais", "interprétait", "interprétions", "interprétiez", "interprétaient"],
+        "ind.ps": ["interprétai", "interprétas", "interpréta", "interprétâmes", "interprétâtes", "interprétèrent"],
+        "ind.fut": [["interpréterai", "interprèterai"], ["interpréteras", "interprèteras"], ["interprétera", "interprètera"], ["interpréterons", "interprèterons"], ["interpréterez", "interprèterez"], ["interpréteront", "interprèteront"]],
+        "cond.pres": [["interpréterais", "interprèterais"], ["interpréterais", "interprèterais"], ["interpréterait", "interprèterait"], ["interpréterions", "interprèterions"], ["interpréteriez", "interprèteriez"], ["interpréteraient", "interprèteraient"]],
+        "subj.pres": ["interprète", "interprètes", "interprète", "interprétions", "interprétiez", "interprètent"],
+        "subj.imp": ["interprétasse", "interprétasses", "interprétât", "interprétassions", "interprétassiez", "interprétassent"],
+        "imper.pres": ["interprète", "interprétons", "interprétez"]
+      },
+      "participe_present": "interprétant",
+      "participe_passe": ["interprété", "interprétée", "interprétés", "interprétées"]
     }
   ]
 }
