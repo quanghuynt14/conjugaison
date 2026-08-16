@@ -1440,6 +1440,24 @@
       },
       "participe_present": "quittant",
       "participe_passe": ["quitté", "quittée", "quittés", "quittées"]
+    },
+    {
+      "id": "occuper",
+      "infinitif": "occuper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["occupe", "occupes", "occupe", "occupons", "occupez", "occupent"],
+        "ind.imp": ["occupais", "occupais", "occupait", "occupions", "occupiez", "occupaient"],
+        "ind.ps": ["occupai", "occupas", "occupa", "occupâmes", "occupâtes", "occupèrent"],
+        "ind.fut": ["occuperai", "occuperas", "occupera", "occuperons", "occuperez", "occuperont"],
+        "cond.pres": ["occuperais", "occuperais", "occuperait", "occuperions", "occuperiez", "occuperaient"],
+        "subj.pres": ["occupe", "occupes", "occupe", "occupions", "occupiez", "occupent"],
+        "subj.imp": ["occupasse", "occupasses", "occupât", "occupassions", "occupassiez", "occupassent"],
+        "imper.pres": ["occupe", "occupons", "occupez"]
+      },
+      "participe_present": "occupant",
+      "participe_passe": ["occupé", "occupée", "occupés", "occupées"]
     }
   ]
 }
