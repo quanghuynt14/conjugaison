@@ -18832,6 +18832,24 @@
       },
       "participe_present": "berçant",
       "participe_passe": ["bercé", "bercée", "bercés", "bercées"]
+    },
+    {
+      "id": "courber",
+      "infinitif": "courber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["courbe", "courbes", "courbe", "courbons", "courbez", "courbent"],
+        "ind.imp": ["courbais", "courbais", "courbait", "courbions", "courbiez", "courbaient"],
+        "ind.ps": ["courbai", "courbas", "courba", "courbâmes", "courbâtes", "courbèrent"],
+        "ind.fut": ["courberai", "courberas", "courbera", "courberons", "courberez", "courberont"],
+        "cond.pres": ["courberais", "courberais", "courberait", "courberions", "courberiez", "courberaient"],
+        "subj.pres": ["courbe", "courbes", "courbe", "courbions", "courbiez", "courbent"],
+        "subj.imp": ["courbasse", "courbasses", "courbât", "courbassions", "courbassiez", "courbassent"],
+        "imper.pres": ["courbe", "courbons", "courbez"]
+      },
+      "participe_present": "courbant",
+      "participe_passe": ["courbé", "courbée", "courbés", "courbées"]
     }
   ]
 }
