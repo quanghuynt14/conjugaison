@@ -27940,6 +27940,24 @@
       },
       "participe_present": "chavirant",
       "participe_passe": ["chaviré", "chavirée", "chavirés", "chavirées"]
+    },
+    {
+      "id": "exaucer",
+      "infinitif": "exaucer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exauce", "exauces", "exauce", "exauçons", "exaucez", "exaucent"],
+        "ind.imp": ["exauçais", "exauçais", "exauçait", "exaucions", "exauciez", "exauçaient"],
+        "ind.ps": ["exauçai", "exauças", "exauça", "exauçâmes", "exauçâtes", "exaucèrent"],
+        "ind.fut": ["exaucerai", "exauceras", "exaucera", "exaucerons", "exaucerez", "exauceront"],
+        "cond.pres": ["exaucerais", "exaucerais", "exaucerait", "exaucerions", "exauceriez", "exauceraient"],
+        "subj.pres": ["exauce", "exauces", "exauce", "exaucions", "exauciez", "exaucent"],
+        "subj.imp": ["exauçasse", "exauçasses", "exauçât", "exauçassions", "exauçassiez", "exauçassent"],
+        "imper.pres": ["exauce", "exauçons", "exaucez"]
+      },
+      "participe_present": "exauçant",
+      "participe_passe": ["exaucé", "exaucée", "exaucés", "exaucées"]
     }
   ]
 }
