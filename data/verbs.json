@@ -17660,6 +17660,24 @@
       },
       "participe_present": "trichant",
       "participe_passe": ["triché", null, null, null]
+    },
+    {
+      "id": "anéantir",
+      "infinitif": "anéantir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["anéantis", "anéantis", "anéantit", "anéantissons", "anéantissez", "anéantissent"],
+        "ind.imp": ["anéantissais", "anéantissais", "anéantissait", "anéantissions", "anéantissiez", "anéantissaient"],
+        "ind.ps": ["anéantis", "anéantis", "anéantit", "anéantîmes", "anéantîtes", "anéantirent"],
+        "ind.fut": ["anéantirai", "anéantiras", "anéantira", "anéantirons", "anéantirez", "anéantiront"],
+        "cond.pres": ["anéantirais", "anéantirais", "anéantirait", "anéantirions", "anéantiriez", "anéantiraient"],
+        "subj.pres": ["anéantisse", "anéantisses", "anéantisse", "anéantissions", "anéantissiez", "anéantissent"],
+        "subj.imp": ["anéantisse", "anéantisses", "anéantît", "anéantissions", "anéantissiez", "anéantissent"],
+        "imper.pres": ["anéantis", "anéantissons", "anéantissez"]
+      },
+      "participe_present": "anéantissant",
+      "participe_passe": ["anéanti", "anéantie", "anéantis", "anéanties"]
     }
   ]
 }
