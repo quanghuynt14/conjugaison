@@ -32975,6 +32975,25 @@
       },
       "participe_present": "motivant",
       "participe_passe": ["motivé", "motivée", "motivés", "motivées"]
+    },
+    {
+      "id": "dérailler",
+      "infinitif": "dérailler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « déraillé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["déraille", "dérailles", "déraille", "déraillons", "déraillez", "déraillent"],
+        "ind.imp": ["déraillais", "déraillais", "déraillait", "déraillions", "dérailliez", "déraillaient"],
+        "ind.ps": ["déraillai", "déraillas", "dérailla", "déraillâmes", "déraillâtes", "déraillèrent"],
+        "ind.fut": ["déraillerai", "dérailleras", "déraillera", "déraillerons", "déraillerez", "dérailleront"],
+        "cond.pres": ["déraillerais", "déraillerais", "déraillerait", "déraillerions", "dérailleriez", "dérailleraient"],
+        "subj.pres": ["déraille", "dérailles", "déraille", "déraillions", "dérailliez", "déraillent"],
+        "subj.imp": ["déraillasse", "déraillasses", "déraillât", "déraillassions", "déraillassiez", "déraillassent"],
+        "imper.pres": ["déraille", "déraillons", "déraillez"]
+      },
+      "participe_present": "déraillant",
+      "participe_passe": ["déraillé", null, null, null]
     }
   ]
 }
