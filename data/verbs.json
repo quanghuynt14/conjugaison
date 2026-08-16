@@ -18758,6 +18758,25 @@
       },
       "participe_present": "commentant",
       "participe_passe": ["commenté", "commentée", "commentés", "commentées"]
+    },
+    {
+      "id": "enquêter",
+      "infinitif": "enquêter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « enquêté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["enquête", "enquêtes", "enquête", "enquêtons", "enquêtez", "enquêtent"],
+        "ind.imp": ["enquêtais", "enquêtais", "enquêtait", "enquêtions", "enquêtiez", "enquêtaient"],
+        "ind.ps": ["enquêtai", "enquêtas", "enquêta", "enquêtâmes", "enquêtâtes", "enquêtèrent"],
+        "ind.fut": ["enquêterai", "enquêteras", "enquêtera", "enquêterons", "enquêterez", "enquêteront"],
+        "cond.pres": ["enquêterais", "enquêterais", "enquêterait", "enquêterions", "enquêteriez", "enquêteraient"],
+        "subj.pres": ["enquête", "enquêtes", "enquête", "enquêtions", "enquêtiez", "enquêtent"],
+        "subj.imp": ["enquêtasse", "enquêtasses", "enquêtât", "enquêtassions", "enquêtassiez", "enquêtassent"],
+        "imper.pres": ["enquête", "enquêtons", "enquêtez"]
+      },
+      "participe_present": "enquêtant",
+      "participe_passe": ["enquêté", null, null, null]
     }
   ]
 }
