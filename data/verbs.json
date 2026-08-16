@@ -10612,6 +10612,24 @@
       },
       "participe_present": "violant",
       "participe_passe": ["violé", "violée", "violés", "violées"]
+    },
+    {
+      "id": "user",
+      "infinitif": "user",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["use", "uses", "use", "usons", "usez", "usent"],
+        "ind.imp": ["usais", "usais", "usait", "usions", "usiez", "usaient"],
+        "ind.ps": ["usai", "usas", "usa", "usâmes", "usâtes", "usèrent"],
+        "ind.fut": ["userai", "useras", "usera", "userons", "userez", "useront"],
+        "cond.pres": ["userais", "userais", "userait", "userions", "useriez", "useraient"],
+        "subj.pres": ["use", "uses", "use", "usions", "usiez", "usent"],
+        "subj.imp": ["usasse", "usasses", "usât", "usassions", "usassiez", "usassent"],
+        "imper.pres": ["use", "usons", "usez"]
+      },
+      "participe_present": "usant",
+      "participe_passe": ["usé", "usée", "usés", "usées"]
     }
   ]
 }
