@@ -23182,6 +23182,24 @@
       },
       "participe_present": "éparpillant",
       "participe_passe": ["éparpillé", "éparpillée", "éparpillés", "éparpillées"]
+    },
+    {
+      "id": "enjamber",
+      "infinitif": "enjamber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enjambe", "enjambes", "enjambe", "enjambons", "enjambez", "enjambent"],
+        "ind.imp": ["enjambais", "enjambais", "enjambait", "enjambions", "enjambiez", "enjambaient"],
+        "ind.ps": ["enjambai", "enjambas", "enjamba", "enjambâmes", "enjambâtes", "enjambèrent"],
+        "ind.fut": ["enjamberai", "enjamberas", "enjambera", "enjamberons", "enjamberez", "enjamberont"],
+        "cond.pres": ["enjamberais", "enjamberais", "enjamberait", "enjamberions", "enjamberiez", "enjamberaient"],
+        "subj.pres": ["enjambe", "enjambes", "enjambe", "enjambions", "enjambiez", "enjambent"],
+        "subj.imp": ["enjambasse", "enjambasses", "enjambât", "enjambassions", "enjambassiez", "enjambassent"],
+        "imper.pres": ["enjambe", "enjambons", "enjambez"]
+      },
+      "participe_present": "enjambant",
+      "participe_passe": ["enjambé", "enjambée", "enjambés", "enjambées"]
     }
   ]
 }
