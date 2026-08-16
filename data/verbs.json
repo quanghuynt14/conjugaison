@@ -22271,6 +22271,24 @@
       },
       "participe_present": "galopant",
       "participe_passe": ["galopé", "galopée", "galopés", "galopées"]
+    },
+    {
+      "id": "accommoder",
+      "infinitif": "accommoder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accommode", "accommodes", "accommode", "accommodons", "accommodez", "accommodent"],
+        "ind.imp": ["accommodais", "accommodais", "accommodait", "accommodions", "accommodiez", "accommodaient"],
+        "ind.ps": ["accommodai", "accommodas", "accommoda", "accommodâmes", "accommodâtes", "accommodèrent"],
+        "ind.fut": ["accommoderai", "accommoderas", "accommodera", "accommoderons", "accommoderez", "accommoderont"],
+        "cond.pres": ["accommoderais", "accommoderais", "accommoderait", "accommoderions", "accommoderiez", "accommoderaient"],
+        "subj.pres": ["accommode", "accommodes", "accommode", "accommodions", "accommodiez", "accommodent"],
+        "subj.imp": ["accommodasse", "accommodasses", "accommodât", "accommodassions", "accommodassiez", "accommodassent"],
+        "imper.pres": ["accommode", "accommodons", "accommodez"]
+      },
+      "participe_present": "accommodant",
+      "participe_passe": ["accommodé", "accommodée", "accommodés", "accommodées"]
     }
   ]
 }
