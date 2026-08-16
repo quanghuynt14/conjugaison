@@ -35002,6 +35002,24 @@
       },
       "participe_present": "suintant",
       "participe_passe": ["suinté", "suintée", "suintés", "suintées"]
+    },
+    {
+      "id": "expérimenter",
+      "infinitif": "expérimenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["expérimente", "expérimentes", "expérimente", "expérimentons", "expérimentez", "expérimentent"],
+        "ind.imp": ["expérimentais", "expérimentais", "expérimentait", "expérimentions", "expérimentiez", "expérimentaient"],
+        "ind.ps": ["expérimentai", "expérimentas", "expérimenta", "expérimentâmes", "expérimentâtes", "expérimentèrent"],
+        "ind.fut": ["expérimenterai", "expérimenteras", "expérimentera", "expérimenterons", "expérimenterez", "expérimenteront"],
+        "cond.pres": ["expérimenterais", "expérimenterais", "expérimenterait", "expérimenterions", "expérimenteriez", "expérimenteraient"],
+        "subj.pres": ["expérimente", "expérimentes", "expérimente", "expérimentions", "expérimentiez", "expérimentent"],
+        "subj.imp": ["expérimentasse", "expérimentasses", "expérimentât", "expérimentassions", "expérimentassiez", "expérimentassent"],
+        "imper.pres": ["expérimente", "expérimentons", "expérimentez"]
+      },
+      "participe_present": "expérimentant",
+      "participe_passe": ["expérimenté", "expérimentée", "expérimentés", "expérimentées"]
     }
   ]
 }
