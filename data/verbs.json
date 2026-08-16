@@ -31919,6 +31919,24 @@
       },
       "participe_present": "bravant",
       "participe_passe": ["bravé", "bravée", "bravés", "bravées"]
+    },
+    {
+      "id": "boutonner",
+      "infinitif": "boutonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["boutonne", "boutonnes", "boutonne", "boutonnons", "boutonnez", "boutonnent"],
+        "ind.imp": ["boutonnais", "boutonnais", "boutonnait", "boutonnions", "boutonniez", "boutonnaient"],
+        "ind.ps": ["boutonnai", "boutonnas", "boutonna", "boutonnâmes", "boutonnâtes", "boutonnèrent"],
+        "ind.fut": ["boutonnerai", "boutonneras", "boutonnera", "boutonnerons", "boutonnerez", "boutonneront"],
+        "cond.pres": ["boutonnerais", "boutonnerais", "boutonnerait", "boutonnerions", "boutonneriez", "boutonneraient"],
+        "subj.pres": ["boutonne", "boutonnes", "boutonne", "boutonnions", "boutonniez", "boutonnent"],
+        "subj.imp": ["boutonnasse", "boutonnasses", "boutonnât", "boutonnassions", "boutonnassiez", "boutonnassent"],
+        "imper.pres": ["boutonne", "boutonnons", "boutonnez"]
+      },
+      "participe_present": "boutonnant",
+      "participe_passe": ["boutonné", "boutonnée", "boutonnés", "boutonnées"]
     }
   ]
 }
