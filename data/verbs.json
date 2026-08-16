@@ -7151,6 +7151,24 @@
       },
       "participe_present": "exprimant",
       "participe_passe": ["exprimé", "exprimée", "exprimés", "exprimées"]
+    },
+    {
+      "id": "menacer",
+      "infinitif": "menacer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["menace", "menaces", "menace", "menaçons", "menacez", "menacent"],
+        "ind.imp": ["menaçais", "menaçais", "menaçait", "menacions", "menaciez", "menaçaient"],
+        "ind.ps": ["menaçai", "menaças", "menaça", "menaçâmes", "menaçâtes", "menacèrent"],
+        "ind.fut": ["menacerai", "menaceras", "menacera", "menacerons", "menacerez", "menaceront"],
+        "cond.pres": ["menacerais", "menacerais", "menacerait", "menacerions", "menaceriez", "menaceraient"],
+        "subj.pres": ["menace", "menaces", "menace", "menacions", "menaciez", "menacent"],
+        "subj.imp": ["menaçasse", "menaçasses", "menaçât", "menaçassions", "menaçassiez", "menaçassent"],
+        "imper.pres": ["menace", "menaçons", "menacez"]
+      },
+      "participe_present": "menaçant",
+      "participe_passe": ["menacé", "menacée", "menacés", "menacées"]
     }
   ]
 }
