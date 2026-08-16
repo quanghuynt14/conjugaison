@@ -3800,6 +3800,24 @@
       },
       "participe_present": "risquant",
       "participe_passe": ["risqué", "risquée", "risqués", "risquées"]
+    },
+    {
+      "id": "obliger",
+      "infinitif": "obliger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["oblige", "obliges", "oblige", "obligeons", "obligez", "obligent"],
+        "ind.imp": ["obligeais", "obligeais", "obligeait", "obligions", "obligiez", "obligeaient"],
+        "ind.ps": ["obligeai", "obligeas", "obligea", "obligeâmes", "obligeâtes", "obligèrent"],
+        "ind.fut": ["obligerai", "obligeras", "obligera", "obligerons", "obligerez", "obligeront"],
+        "cond.pres": ["obligerais", "obligerais", "obligerait", "obligerions", "obligeriez", "obligeraient"],
+        "subj.pres": ["oblige", "obliges", "oblige", "obligions", "obligiez", "obligent"],
+        "subj.imp": ["obligeasse", "obligeasses", "obligeât", "obligeassions", "obligeassiez", "obligeassent"],
+        "imper.pres": ["oblige", "obligeons", "obligez"]
+      },
+      "participe_present": "obligeant",
+      "participe_passe": ["obligé", "obligée", "obligés", "obligées"]
     }
   ]
 }
