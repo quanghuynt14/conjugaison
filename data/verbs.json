@@ -22109,6 +22109,24 @@
       },
       "participe_present": "sculptant",
       "participe_passe": ["sculpté", "sculptée", "sculptés", "sculptées"]
+    },
+    {
+      "id": "charrier",
+      "infinitif": "charrier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["charrie", "charries", "charrie", "charrions", "charriez", "charrient"],
+        "ind.imp": ["charriais", "charriais", "charriait", "charriions", "charriiez", "charriaient"],
+        "ind.ps": ["charriai", "charrias", "charria", "charriâmes", "charriâtes", "charrièrent"],
+        "ind.fut": ["charrierai", "charrieras", "charriera", "charrierons", "charrierez", "charrieront"],
+        "cond.pres": ["charrierais", "charrierais", "charrierait", "charrierions", "charrieriez", "charrieraient"],
+        "subj.pres": ["charrie", "charries", "charrie", "charriions", "charriiez", "charrient"],
+        "subj.imp": ["charriasse", "charriasses", "charriât", "charriassions", "charriassiez", "charriassent"],
+        "imper.pres": ["charrie", "charrions", "charriez"]
+      },
+      "participe_present": "charriant",
+      "participe_passe": ["charrié", "charriée", "charriés", "charriées"]
     }
   ]
 }
