@@ -27212,6 +27212,24 @@
       },
       "participe_present": "ensevelissant",
       "participe_passe": ["enseveli", "ensevelie", "ensevelis", "ensevelies"]
+    },
+    {
+      "id": "simuler",
+      "infinitif": "simuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["simule", "simules", "simule", "simulons", "simulez", "simulent"],
+        "ind.imp": ["simulais", "simulais", "simulait", "simulions", "simuliez", "simulaient"],
+        "ind.ps": ["simulai", "simulas", "simula", "simulâmes", "simulâtes", "simulèrent"],
+        "ind.fut": ["simulerai", "simuleras", "simulera", "simulerons", "simulerez", "simuleront"],
+        "cond.pres": ["simulerais", "simulerais", "simulerait", "simulerions", "simuleriez", "simuleraient"],
+        "subj.pres": ["simule", "simules", "simule", "simulions", "simuliez", "simulent"],
+        "subj.imp": ["simulasse", "simulasses", "simulât", "simulassions", "simulassiez", "simulassent"],
+        "imper.pres": ["simule", "simulons", "simulez"]
+      },
+      "participe_present": "simulant",
+      "participe_passe": ["simulé", "simulée", "simulés", "simulées"]
     }
   ]
 }
