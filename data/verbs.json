@@ -276,6 +276,25 @@
       },
       "participe_present": "suivant",
       "participe_passe": ["suivi", "suivie", "suivis", "suivies"]
+    },
+    {
+      "id": "falloir",
+      "infinitif": "falloir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Verbe impersonnel. Il ne se conjugue qu'à la troisième personne du singulier, celle du « il » qui ne désigne personne, et il n'a ni impératif ni participe présent.",
+      "tenses": {
+        "ind.pres": [null, null, "faut", null, null, null],
+        "ind.imp": [null, null, "fallait", null, null, null],
+        "ind.ps": [null, null, "fallut", null, null, null],
+        "ind.fut": [null, null, "faudra", null, null, null],
+        "cond.pres": [null, null, "faudrait", null, null, null],
+        "subj.pres": [null, null, "faille", null, null, null],
+        "subj.imp": [null, null, "fallût", null, null, null],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": null,
+      "participe_passe": ["fallu", null, null, null]
     }
   ]
 }
