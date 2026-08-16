@@ -35677,6 +35677,24 @@
       },
       "participe_present": "recréant",
       "participe_passe": ["recréé", "recréée", "recréés", "recréées"]
+    },
+    {
+      "id": "démêler",
+      "infinitif": "démêler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["démêle", "démêles", "démêle", "démêlons", "démêlez", "démêlent"],
+        "ind.imp": ["démêlais", "démêlais", "démêlait", "démêlions", "démêliez", "démêlaient"],
+        "ind.ps": ["démêlai", "démêlas", "démêla", "démêlâmes", "démêlâtes", "démêlèrent"],
+        "ind.fut": ["démêlerai", "démêleras", "démêlera", "démêlerons", "démêlerez", "démêleront"],
+        "cond.pres": ["démêlerais", "démêlerais", "démêlerait", "démêlerions", "démêleriez", "démêleraient"],
+        "subj.pres": ["démêle", "démêles", "démêle", "démêlions", "démêliez", "démêlent"],
+        "subj.imp": ["démêlasse", "démêlasses", "démêlât", "démêlassions", "démêlassiez", "démêlassent"],
+        "imper.pres": ["démêle", "démêlons", "démêlez"]
+      },
+      "participe_present": "démêlant",
+      "participe_passe": ["démêlé", "démêlée", "démêlés", "démêlées"]
     }
   ]
 }
