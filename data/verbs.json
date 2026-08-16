@@ -12356,6 +12356,24 @@
       },
       "participe_present": "percevant",
       "participe_passe": ["perçu", "perçue", "perçus", "perçues"]
+    },
+    {
+      "id": "ralentir",
+      "infinitif": "ralentir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ralentis", "ralentis", "ralentit", "ralentissons", "ralentissez", "ralentissent"],
+        "ind.imp": ["ralentissais", "ralentissais", "ralentissait", "ralentissions", "ralentissiez", "ralentissaient"],
+        "ind.ps": ["ralentis", "ralentis", "ralentit", "ralentîmes", "ralentîtes", "ralentirent"],
+        "ind.fut": ["ralentirai", "ralentiras", "ralentira", "ralentirons", "ralentirez", "ralentiront"],
+        "cond.pres": ["ralentirais", "ralentirais", "ralentirait", "ralentirions", "ralentiriez", "ralentiraient"],
+        "subj.pres": ["ralentisse", "ralentisses", "ralentisse", "ralentissions", "ralentissiez", "ralentissent"],
+        "subj.imp": ["ralentisse", "ralentisses", "ralentît", "ralentissions", "ralentissiez", "ralentissent"],
+        "imper.pres": ["ralentis", "ralentissons", "ralentissez"]
+      },
+      "participe_present": "ralentissant",
+      "participe_passe": ["ralenti", "ralentie", "ralentis", "ralenties"]
     }
   ]
 }
