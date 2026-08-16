@@ -35623,6 +35623,24 @@
       },
       "participe_present": "dévastant",
       "participe_passe": ["dévasté", "dévastée", "dévastés", "dévastées"]
+    },
+    {
+      "id": "tarer",
+      "infinitif": "tarer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tare", "tares", "tare", "tarons", "tarez", "tarent"],
+        "ind.imp": ["tarais", "tarais", "tarait", "tarions", "tariez", "taraient"],
+        "ind.ps": ["tarai", "taras", "tara", "tarâmes", "tarâtes", "tarèrent"],
+        "ind.fut": ["tarerai", "tareras", "tarera", "tarerons", "tarerez", "tareront"],
+        "cond.pres": ["tarerais", "tarerais", "tarerait", "tarerions", "tareriez", "tareraient"],
+        "subj.pres": ["tare", "tares", "tare", "tarions", "tariez", "tarent"],
+        "subj.imp": ["tarasse", "tarasses", "tarât", "tarassions", "tarassiez", "tarassent"],
+        "imper.pres": ["tare", "tarons", "tarez"]
+      },
+      "participe_present": "tarant",
+      "participe_passe": ["taré", "tarée", "tarés", "tarées"]
     }
   ]
 }
