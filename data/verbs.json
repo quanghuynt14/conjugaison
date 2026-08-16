@@ -3818,6 +3818,24 @@
       },
       "participe_present": "obligeant",
       "participe_passe": ["obligé", "obligée", "obligés", "obligées"]
+    },
+    {
+      "id": "inviter",
+      "infinitif": "inviter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["invite", "invites", "invite", "invitons", "invitez", "invitent"],
+        "ind.imp": ["invitais", "invitais", "invitait", "invitions", "invitiez", "invitaient"],
+        "ind.ps": ["invitai", "invitas", "invita", "invitâmes", "invitâtes", "invitèrent"],
+        "ind.fut": ["inviterai", "inviteras", "invitera", "inviterons", "inviterez", "inviteront"],
+        "cond.pres": ["inviterais", "inviterais", "inviterait", "inviterions", "inviteriez", "inviteraient"],
+        "subj.pres": ["invite", "invites", "invite", "invitions", "invitiez", "invitent"],
+        "subj.imp": ["invitasse", "invitasses", "invitât", "invitassions", "invitassiez", "invitassent"],
+        "imper.pres": ["invite", "invitons", "invitez"]
+      },
+      "participe_present": "invitant",
+      "participe_passe": ["invité", "invitée", "invités", "invitées"]
     }
   ]
 }
