@@ -21222,6 +21222,24 @@
       },
       "participe_present": "basant",
       "participe_passe": ["basé", "basée", "basés", "basées"]
+    },
+    {
+      "id": "dévaler",
+      "infinitif": "dévaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dévale", "dévales", "dévale", "dévalons", "dévalez", "dévalent"],
+        "ind.imp": ["dévalais", "dévalais", "dévalait", "dévalions", "dévaliez", "dévalaient"],
+        "ind.ps": ["dévalai", "dévalas", "dévala", "dévalâmes", "dévalâtes", "dévalèrent"],
+        "ind.fut": ["dévalerai", "dévaleras", "dévalera", "dévalerons", "dévalerez", "dévaleront"],
+        "cond.pres": ["dévalerais", "dévalerais", "dévalerait", "dévalerions", "dévaleriez", "dévaleraient"],
+        "subj.pres": ["dévale", "dévales", "dévale", "dévalions", "dévaliez", "dévalent"],
+        "subj.imp": ["dévalasse", "dévalasses", "dévalât", "dévalassions", "dévalassiez", "dévalassent"],
+        "imper.pres": ["dévale", "dévalons", "dévalez"]
+      },
+      "participe_present": "dévalant",
+      "participe_passe": ["dévalé", "dévalée", "dévalés", "dévalées"]
     }
   ]
 }
