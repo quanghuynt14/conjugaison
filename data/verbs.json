@@ -20436,6 +20436,25 @@
       },
       "participe_present": "insinuant",
       "participe_passe": ["insinué", "insinuée", "insinués", "insinuées"]
+    },
+    {
+      "id": "démissionner",
+      "infinitif": "démissionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « démissionné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["démissionne", "démissionnes", "démissionne", "démissionnons", "démissionnez", "démissionnent"],
+        "ind.imp": ["démissionnais", "démissionnais", "démissionnait", "démissionnions", "démissionniez", "démissionnaient"],
+        "ind.ps": ["démissionnai", "démissionnas", "démissionna", "démissionnâmes", "démissionnâtes", "démissionnèrent"],
+        "ind.fut": ["démissionnerai", "démissionneras", "démissionnera", "démissionnerons", "démissionnerez", "démissionneront"],
+        "cond.pres": ["démissionnerais", "démissionnerais", "démissionnerait", "démissionnerions", "démissionneriez", "démissionneraient"],
+        "subj.pres": ["démissionne", "démissionnes", "démissionne", "démissionnions", "démissionniez", "démissionnent"],
+        "subj.imp": ["démissionnasse", "démissionnasses", "démissionnât", "démissionnassions", "démissionnassiez", "démissionnassent"],
+        "imper.pres": ["démissionne", "démissionnons", "démissionnez"]
+      },
+      "participe_present": "démissionnant",
+      "participe_passe": ["démissionné", null, null, null]
     }
   ]
 }
