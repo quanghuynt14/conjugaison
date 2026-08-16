@@ -19851,6 +19851,24 @@
       },
       "participe_present": "embarrassant",
       "participe_passe": ["embarrassé", "embarrassée", "embarrassés", "embarrassées"]
+    },
+    {
+      "id": "entrouvrir",
+      "infinitif": "entrouvrir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entrouvre", "entrouvres", "entrouvre", "entrouvrons", "entrouvrez", "entrouvrent"],
+        "ind.imp": ["entrouvrais", "entrouvrais", "entrouvrait", "entrouvrions", "entrouvriez", "entrouvraient"],
+        "ind.ps": ["entrouvris", "entrouvris", "entrouvrit", "entrouvrîmes", "entrouvrîtes", "entrouvrirent"],
+        "ind.fut": ["entrouvrirai", "entrouvriras", "entrouvrira", "entrouvrirons", "entrouvrirez", "entrouvriront"],
+        "cond.pres": ["entrouvrirais", "entrouvrirais", "entrouvrirait", "entrouvririons", "entrouvririez", "entrouvriraient"],
+        "subj.pres": ["entrouvre", "entrouvres", "entrouvre", "entrouvrions", "entrouvriez", "entrouvrent"],
+        "subj.imp": ["entrouvrisse", "entrouvrisses", "entrouvrît", "entrouvrissions", "entrouvrissiez", "entrouvrissent"],
+        "imper.pres": ["entrouvre", "entrouvrons", "entrouvrez"]
+      },
+      "participe_present": "entrouvrant",
+      "participe_passe": ["entrouvert", "entrouverte", "entrouverts", "entrouvertes"]
     }
   ]
 }
