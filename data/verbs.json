@@ -20841,6 +20841,24 @@
       },
       "participe_present": "desséchant",
       "participe_passe": ["desséché", "desséchée", "desséchés", "desséchées"]
+    },
+    {
+      "id": "refroidir",
+      "infinitif": "refroidir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["refroidis", "refroidis", "refroidit", "refroidissons", "refroidissez", "refroidissent"],
+        "ind.imp": ["refroidissais", "refroidissais", "refroidissait", "refroidissions", "refroidissiez", "refroidissaient"],
+        "ind.ps": ["refroidis", "refroidis", "refroidit", "refroidîmes", "refroidîtes", "refroidirent"],
+        "ind.fut": ["refroidirai", "refroidiras", "refroidira", "refroidirons", "refroidirez", "refroidiront"],
+        "cond.pres": ["refroidirais", "refroidirais", "refroidirait", "refroidirions", "refroidiriez", "refroidiraient"],
+        "subj.pres": ["refroidisse", "refroidisses", "refroidisse", "refroidissions", "refroidissiez", "refroidissent"],
+        "subj.imp": ["refroidisse", "refroidisses", "refroidît", "refroidissions", "refroidissiez", "refroidissent"],
+        "imper.pres": ["refroidis", "refroidissons", "refroidissez"]
+      },
+      "participe_present": "refroidissant",
+      "participe_passe": ["refroidi", "refroidie", "refroidis", "refroidies"]
     }
   ]
 }
