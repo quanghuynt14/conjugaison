@@ -29344,6 +29344,25 @@
       },
       "participe_present": "accoutumant",
       "participe_passe": ["accoutumé", "accoutumée", "accoutumés", "accoutumées"]
+    },
+    {
+      "id": "soustraire",
+      "infinitif": "soustraire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Comme tous les verbes en -traire : ni passé simple, ni subjonctif imparfait.",
+      "tenses": {
+        "ind.pres": ["soustrais", "soustrais", "soustrait", "soustrayons", "soustrayez", "soustraient"],
+        "ind.imp": ["soustrayais", "soustrayais", "soustrayait", "soustrayions", "soustrayiez", "soustrayaient"],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": ["soustrairai", "soustrairas", "soustraira", "soustrairons", "soustrairez", "soustrairont"],
+        "cond.pres": ["soustrairais", "soustrairais", "soustrairait", "soustrairions", "soustrairiez", "soustrairaient"],
+        "subj.pres": ["soustraie", "soustraies", "soustraie", "soustrayions", "soustrayiez", "soustraient"],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": ["soustrais", "soustrayons", "soustrayez"]
+      },
+      "participe_present": "soustrayant",
+      "participe_passe": ["soustrait", "soustraite", "soustraits", "soustraites"]
     }
   ]
 }
