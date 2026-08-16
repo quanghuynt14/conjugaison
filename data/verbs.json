@@ -16205,6 +16205,25 @@
       },
       "participe_present": "hâtant",
       "participe_passe": ["hâté", "hâtée", "hâtés", "hâtées"]
+    },
+    {
+      "id": "désespérer",
+      "infinitif": "désespérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je désespérerai » ou « je désespèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["désespère", "désespères", "désespère", "désespérons", "désespérez", "désespèrent"],
+        "ind.imp": ["désespérais", "désespérais", "désespérait", "désespérions", "désespériez", "désespéraient"],
+        "ind.ps": ["désespérai", "désespéras", "désespéra", "désespérâmes", "désespérâtes", "désespérèrent"],
+        "ind.fut": [["désespérerai", "désespèrerai"], ["désespéreras", "désespèreras"], ["désespérera", "désespèrera"], ["désespérerons", "désespèrerons"], ["désespérerez", "désespèrerez"], ["désespéreront", "désespèreront"]],
+        "cond.pres": [["désespérerais", "désespèrerais"], ["désespérerais", "désespèrerais"], ["désespérerait", "désespèrerait"], ["désespérerions", "désespèrerions"], ["désespéreriez", "désespèreriez"], ["désespéreraient", "désespèreraient"]],
+        "subj.pres": ["désespère", "désespères", "désespère", "désespérions", "désespériez", "désespèrent"],
+        "subj.imp": ["désespérasse", "désespérasses", "désespérât", "désespérassions", "désespérassiez", "désespérassent"],
+        "imper.pres": ["désespère", "désespérons", "désespérez"]
+      },
+      "participe_present": "désespérant",
+      "participe_passe": ["désespéré", "désespérée", "désespérés", "désespérées"]
     }
   ]
 }
