@@ -6009,6 +6009,24 @@
       },
       "participe_present": "libérant",
       "participe_passe": ["libéré", "libérée", "libérés", "libérées"]
+    },
+    {
+      "id": "virer",
+      "infinitif": "virer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vire", "vires", "vire", "virons", "virez", "virent"],
+        "ind.imp": ["virais", "virais", "virait", "virions", "viriez", "viraient"],
+        "ind.ps": ["virai", "viras", "vira", "virâmes", "virâtes", "virèrent"],
+        "ind.fut": ["virerai", "vireras", "virera", "virerons", "virerez", "vireront"],
+        "cond.pres": ["virerais", "virerais", "virerait", "virerions", "vireriez", "vireraient"],
+        "subj.pres": ["vire", "vires", "vire", "virions", "viriez", "virent"],
+        "subj.imp": ["virasse", "virasses", "virât", "virassions", "virassiez", "virassent"],
+        "imper.pres": ["vire", "virons", "virez"]
+      },
+      "participe_present": "virant",
+      "participe_passe": ["viré", "virée", "virés", "virées"]
     }
   ]
 }
