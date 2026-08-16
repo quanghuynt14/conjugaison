@@ -31167,6 +31167,24 @@
       },
       "participe_present": "fortifiant",
       "participe_passe": ["fortifié", "fortifiée", "fortifiés", "fortifiées"]
+    },
+    {
+      "id": "peloter",
+      "infinitif": "peloter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pelote", "pelotes", "pelote", "pelotons", "pelotez", "pelotent"],
+        "ind.imp": ["pelotais", "pelotais", "pelotait", "pelotions", "pelotiez", "pelotaient"],
+        "ind.ps": ["pelotai", "pelotas", "pelota", "pelotâmes", "pelotâtes", "pelotèrent"],
+        "ind.fut": ["peloterai", "peloteras", "pelotera", "peloterons", "peloterez", "peloteront"],
+        "cond.pres": ["peloterais", "peloterais", "peloterait", "peloterions", "peloteriez", "peloteraient"],
+        "subj.pres": ["pelote", "pelotes", "pelote", "pelotions", "pelotiez", "pelotent"],
+        "subj.imp": ["pelotasse", "pelotasses", "pelotât", "pelotassions", "pelotassiez", "pelotassent"],
+        "imper.pres": ["pelote", "pelotons", "pelotez"]
+      },
+      "participe_present": "pelotant",
+      "participe_passe": ["peloté", "pelotée", "pelotés", "pelotées"]
     }
   ]
 }
