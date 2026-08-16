@@ -11916,6 +11916,24 @@
       },
       "participe_present": "grattant",
       "participe_passe": ["gratté", "grattée", "grattés", "grattées"]
+    },
+    {
+      "id": "parer",
+      "infinitif": "parer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pare", "pares", "pare", "parons", "parez", "parent"],
+        "ind.imp": ["parais", "parais", "parait", "parions", "pariez", "paraient"],
+        "ind.ps": ["parai", "paras", "para", "parâmes", "parâtes", "parèrent"],
+        "ind.fut": ["parerai", "pareras", "parera", "parerons", "parerez", "pareront"],
+        "cond.pres": ["parerais", "parerais", "parerait", "parerions", "pareriez", "pareraient"],
+        "subj.pres": ["pare", "pares", "pare", "parions", "pariez", "parent"],
+        "subj.imp": ["parasse", "parasses", "parât", "parassions", "parassiez", "parassent"],
+        "imper.pres": ["pare", "parons", "parez"]
+      },
+      "participe_present": "parant",
+      "participe_passe": ["paré", "parée", "parés", "parées"]
     }
   ]
 }
