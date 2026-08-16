@@ -10337,6 +10337,26 @@
       },
       "participe_present": "exposant",
       "participe_passe": ["exposé", "exposée", "exposés", "exposées"]
+    },
+    {
+      "id": "efforcer",
+      "infinitif": "efforcer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’efforce » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["efforce", "efforces", "efforce", "efforçons", "efforcez", "efforcent"],
+        "ind.imp": ["efforçais", "efforçais", "efforçait", "efforcions", "efforciez", "efforçaient"],
+        "ind.ps": ["efforçai", "efforças", "efforça", "efforçâmes", "efforçâtes", "efforcèrent"],
+        "ind.fut": ["efforcerai", "efforceras", "efforcera", "efforcerons", "efforcerez", "efforceront"],
+        "cond.pres": ["efforcerais", "efforcerais", "efforcerait", "efforcerions", "efforceriez", "efforceraient"],
+        "subj.pres": ["efforce", "efforces", "efforce", "efforcions", "efforciez", "efforcent"],
+        "subj.imp": ["efforçasse", "efforçasses", "efforçât", "efforçassions", "efforçassiez", "efforçassent"],
+        "imper.pres": ["efforce", "efforçons", "efforcez"]
+      },
+      "participe_present": "efforçant",
+      "participe_passe": ["efforcé", "efforcée", "efforcés", "efforcées"]
     }
   ]
 }
