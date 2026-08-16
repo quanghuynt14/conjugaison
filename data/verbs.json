@@ -15150,6 +15150,24 @@
       },
       "participe_present": "vantant",
       "participe_passe": ["vanté", "vantée", "vantés", "vantées"]
+    },
+    {
+      "id": "émerger",
+      "infinitif": "émerger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["émerge", "émerges", "émerge", "émergeons", "émergez", "émergent"],
+        "ind.imp": ["émergeais", "émergeais", "émergeait", "émergions", "émergiez", "émergeaient"],
+        "ind.ps": ["émergeai", "émergeas", "émergea", "émergeâmes", "émergeâtes", "émergèrent"],
+        "ind.fut": ["émergerai", "émergeras", "émergera", "émergerons", "émergerez", "émergeront"],
+        "cond.pres": ["émergerais", "émergerais", "émergerait", "émergerions", "émergeriez", "émergeraient"],
+        "subj.pres": ["émerge", "émerges", "émerge", "émergions", "émergiez", "émergent"],
+        "subj.imp": ["émergeasse", "émergeasses", "émergeât", "émergeassions", "émergeassiez", "émergeassent"],
+        "imper.pres": ["émerge", "émergeons", "émergez"]
+      },
+      "participe_present": "émergeant",
+      "participe_passe": ["émergé", "émergée", "émergés", "émergées"]
     }
   ]
 }
