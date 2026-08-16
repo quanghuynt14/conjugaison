@@ -8236,6 +8236,24 @@
       },
       "participe_present": "déplaçant",
       "participe_passe": ["déplacé", "déplacée", "déplacés", "déplacées"]
+    },
+    {
+      "id": "verser",
+      "infinitif": "verser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["verse", "verses", "verse", "versons", "versez", "versent"],
+        "ind.imp": ["versais", "versais", "versait", "versions", "versiez", "versaient"],
+        "ind.ps": ["versai", "versas", "versa", "versâmes", "versâtes", "versèrent"],
+        "ind.fut": ["verserai", "verseras", "versera", "verserons", "verserez", "verseront"],
+        "cond.pres": ["verserais", "verserais", "verserait", "verserions", "verseriez", "verseraient"],
+        "subj.pres": ["verse", "verses", "verse", "versions", "versiez", "versent"],
+        "subj.imp": ["versasse", "versasses", "versât", "versassions", "versassiez", "versassent"],
+        "imper.pres": ["verse", "versons", "versez"]
+      },
+      "participe_present": "versant",
+      "participe_passe": ["versé", "versée", "versés", "versées"]
     }
   ]
 }
