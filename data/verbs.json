@@ -32812,6 +32812,24 @@
       },
       "participe_present": "déjouant",
       "participe_passe": ["déjoué", "déjouée", "déjoués", "déjouées"]
+    },
+    {
+      "id": "endosser",
+      "infinitif": "endosser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["endosse", "endosses", "endosse", "endossons", "endossez", "endossent"],
+        "ind.imp": ["endossais", "endossais", "endossait", "endossions", "endossiez", "endossaient"],
+        "ind.ps": ["endossai", "endossas", "endossa", "endossâmes", "endossâtes", "endossèrent"],
+        "ind.fut": ["endosserai", "endosseras", "endossera", "endosserons", "endosserez", "endosseront"],
+        "cond.pres": ["endosserais", "endosserais", "endosserait", "endosserions", "endosseriez", "endosseraient"],
+        "subj.pres": ["endosse", "endosses", "endosse", "endossions", "endossiez", "endossent"],
+        "subj.imp": ["endossasse", "endossasses", "endossât", "endossassions", "endossassiez", "endossassent"],
+        "imper.pres": ["endosse", "endossons", "endossez"]
+      },
+      "participe_present": "endossant",
+      "participe_passe": ["endossé", "endossée", "endossés", "endossées"]
     }
   ]
 }
