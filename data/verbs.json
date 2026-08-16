@@ -10739,6 +10739,24 @@
       },
       "participe_present": "armant",
       "participe_passe": ["armé", "armée", "armés", "armées"]
+    },
+    {
+      "id": "percer",
+      "infinitif": "percer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["perce", "perces", "perce", "perçons", "percez", "percent"],
+        "ind.imp": ["perçais", "perçais", "perçait", "percions", "perciez", "perçaient"],
+        "ind.ps": ["perçai", "perças", "perça", "perçâmes", "perçâtes", "percèrent"],
+        "ind.fut": ["percerai", "perceras", "percera", "percerons", "percerez", "perceront"],
+        "cond.pres": ["percerais", "percerais", "percerait", "percerions", "perceriez", "perceraient"],
+        "subj.pres": ["perce", "perces", "perce", "percions", "perciez", "percent"],
+        "subj.imp": ["perçasse", "perçasses", "perçât", "perçassions", "perçassiez", "perçassent"],
+        "imper.pres": ["perce", "perçons", "percez"]
+      },
+      "participe_present": "perçant",
+      "participe_passe": ["percé", "percée", "percés", "percées"]
     }
   ]
 }
