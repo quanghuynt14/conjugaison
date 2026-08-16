@@ -17641,6 +17641,25 @@
       },
       "participe_present": "paniquant",
       "participe_passe": ["paniqué", "paniquée", "paniqués", "paniquées"]
+    },
+    {
+      "id": "tricher",
+      "infinitif": "tricher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « triché » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["triche", "triches", "triche", "trichons", "trichez", "trichent"],
+        "ind.imp": ["trichais", "trichais", "trichait", "trichions", "trichiez", "trichaient"],
+        "ind.ps": ["trichai", "trichas", "tricha", "trichâmes", "trichâtes", "trichèrent"],
+        "ind.fut": ["tricherai", "tricheras", "trichera", "tricherons", "tricherez", "tricheront"],
+        "cond.pres": ["tricherais", "tricherais", "tricherait", "tricherions", "tricheriez", "tricheraient"],
+        "subj.pres": ["triche", "triches", "triche", "trichions", "trichiez", "trichent"],
+        "subj.imp": ["trichasse", "trichasses", "trichât", "trichassions", "trichassiez", "trichassent"],
+        "imper.pres": ["triche", "trichons", "trichez"]
+      },
+      "participe_present": "trichant",
+      "participe_passe": ["triché", null, null, null]
     }
   ]
 }
