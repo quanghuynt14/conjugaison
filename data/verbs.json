@@ -30728,6 +30728,25 @@
       },
       "participe_present": "mouchant",
       "participe_passe": ["mouché", "mouchée", "mouchés", "mouchées"]
+    },
+    {
+      "id": "abréger",
+      "infinitif": "abréger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’abrégerai » ou « j’abrègerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["abrège", "abrèges", "abrège", "abrégeons", "abrégez", "abrègent"],
+        "ind.imp": ["abrégeais", "abrégeais", "abrégeait", "abrégions", "abrégiez", "abrégeaient"],
+        "ind.ps": ["abrégeai", "abrégeas", "abrégea", "abrégeâmes", "abrégeâtes", "abrégèrent"],
+        "ind.fut": [["abrégerai", "abrègerai"], ["abrégeras", "abrègeras"], ["abrégera", "abrègera"], ["abrégerons", "abrègerons"], ["abrégerez", "abrègerez"], ["abrégeront", "abrègeront"]],
+        "cond.pres": [["abrégerais", "abrègerais"], ["abrégerais", "abrègerais"], ["abrégerait", "abrègerait"], ["abrégerions", "abrègerions"], ["abrégeriez", "abrègeriez"], ["abrégeraient", "abrègeraient"]],
+        "subj.pres": ["abrège", "abrèges", "abrège", "abrégions", "abrégiez", "abrègent"],
+        "subj.imp": ["abrégeasse", "abrégeasses", "abrégeât", "abrégeassions", "abrégeassiez", "abrégeassent"],
+        "imper.pres": ["abrège", "abrégeons", "abrégez"]
+      },
+      "participe_present": "abrégeant",
+      "participe_passe": ["abrégé", "abrégée", "abrégés", "abrégées"]
     }
   ]
 }
