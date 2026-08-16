@@ -20693,6 +20693,26 @@
       },
       "participe_present": "aboyant",
       "participe_passe": ["aboyé", "aboyée", "aboyés", "aboyées"]
+    },
+    {
+      "id": "exclamer",
+      "infinitif": "exclamer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’exclame » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["exclame", "exclames", "exclame", "exclamons", "exclamez", "exclament"],
+        "ind.imp": ["exclamais", "exclamais", "exclamait", "exclamions", "exclamiez", "exclamaient"],
+        "ind.ps": ["exclamai", "exclamas", "exclama", "exclamâmes", "exclamâtes", "exclamèrent"],
+        "ind.fut": ["exclamerai", "exclameras", "exclamera", "exclamerons", "exclamerez", "exclameront"],
+        "cond.pres": ["exclamerais", "exclamerais", "exclamerait", "exclamerions", "exclameriez", "exclameraient"],
+        "subj.pres": ["exclame", "exclames", "exclame", "exclamions", "exclamiez", "exclament"],
+        "subj.imp": ["exclamasse", "exclamasses", "exclamât", "exclamassions", "exclamassiez", "exclamassent"],
+        "imper.pres": ["exclame", "exclamons", "exclamez"]
+      },
+      "participe_present": "exclamant",
+      "participe_passe": ["exclamé", "exclamée", "exclamés", "exclamées"]
     }
   ]
 }
