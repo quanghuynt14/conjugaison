@@ -21150,6 +21150,24 @@
       },
       "participe_present": "maudissant",
       "participe_passe": ["maudit", "maudite", "maudits", "maudites"]
+    },
+    {
+      "id": "broder",
+      "infinitif": "broder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["brode", "brodes", "brode", "brodons", "brodez", "brodent"],
+        "ind.imp": ["brodais", "brodais", "brodait", "brodions", "brodiez", "brodaient"],
+        "ind.ps": ["brodai", "brodas", "broda", "brodâmes", "brodâtes", "brodèrent"],
+        "ind.fut": ["broderai", "broderas", "brodera", "broderons", "broderez", "broderont"],
+        "cond.pres": ["broderais", "broderais", "broderait", "broderions", "broderiez", "broderaient"],
+        "subj.pres": ["brode", "brodes", "brode", "brodions", "brodiez", "brodent"],
+        "subj.imp": ["brodasse", "brodasses", "brodât", "brodassions", "brodassiez", "brodassent"],
+        "imper.pres": ["brode", "brodons", "brodez"]
+      },
+      "participe_present": "brodant",
+      "participe_passe": ["brodé", "brodée", "brodés", "brodées"]
     }
   ]
 }
