@@ -28942,6 +28942,24 @@
       },
       "participe_present": "terrant",
       "participe_passe": ["terré", "terrée", "terrés", "terrées"]
+    },
+    {
+      "id": "barbouiller",
+      "infinitif": "barbouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["barbouille", "barbouilles", "barbouille", "barbouillons", "barbouillez", "barbouillent"],
+        "ind.imp": ["barbouillais", "barbouillais", "barbouillait", "barbouillions", "barbouilliez", "barbouillaient"],
+        "ind.ps": ["barbouillai", "barbouillas", "barbouilla", "barbouillâmes", "barbouillâtes", "barbouillèrent"],
+        "ind.fut": ["barbouillerai", "barbouilleras", "barbouillera", "barbouillerons", "barbouillerez", "barbouilleront"],
+        "cond.pres": ["barbouillerais", "barbouillerais", "barbouillerait", "barbouillerions", "barbouilleriez", "barbouilleraient"],
+        "subj.pres": ["barbouille", "barbouilles", "barbouille", "barbouillions", "barbouilliez", "barbouillent"],
+        "subj.imp": ["barbouillasse", "barbouillasses", "barbouillât", "barbouillassions", "barbouillassiez", "barbouillassent"],
+        "imper.pres": ["barbouille", "barbouillons", "barbouillez"]
+      },
+      "participe_present": "barbouillant",
+      "participe_passe": ["barbouillé", "barbouillée", "barbouillés", "barbouillées"]
     }
   ]
 }
