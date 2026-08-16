@@ -20364,6 +20364,24 @@
       },
       "participe_present": "remportant",
       "participe_passe": ["remporté", "remportée", "remportés", "remportées"]
+    },
+    {
+      "id": "gravir",
+      "infinitif": "gravir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gravis", "gravis", "gravit", "gravissons", "gravissez", "gravissent"],
+        "ind.imp": ["gravissais", "gravissais", "gravissait", "gravissions", "gravissiez", "gravissaient"],
+        "ind.ps": ["gravis", "gravis", "gravit", "gravîmes", "gravîtes", "gravirent"],
+        "ind.fut": ["gravirai", "graviras", "gravira", "gravirons", "gravirez", "graviront"],
+        "cond.pres": ["gravirais", "gravirais", "gravirait", "gravirions", "graviriez", "graviraient"],
+        "subj.pres": ["gravisse", "gravisses", "gravisse", "gravissions", "gravissiez", "gravissent"],
+        "subj.imp": ["gravisse", "gravisses", "gravît", "gravissions", "gravissiez", "gravissent"],
+        "imper.pres": ["gravis", "gravissons", "gravissez"]
+      },
+      "participe_present": "gravissant",
+      "participe_passe": ["gravi", "gravie", "gravis", "gravies"]
     }
   ]
 }
