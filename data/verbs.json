@@ -32338,6 +32338,24 @@
       },
       "participe_present": "déviant",
       "participe_passe": ["dévié", "déviée", "déviés", "déviées"]
+    },
+    {
+      "id": "déconcerter",
+      "infinitif": "déconcerter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déconcerte", "déconcertes", "déconcerte", "déconcertons", "déconcertez", "déconcertent"],
+        "ind.imp": ["déconcertais", "déconcertais", "déconcertait", "déconcertions", "déconcertiez", "déconcertaient"],
+        "ind.ps": ["déconcertai", "déconcertas", "déconcerta", "déconcertâmes", "déconcertâtes", "déconcertèrent"],
+        "ind.fut": ["déconcerterai", "déconcerteras", "déconcertera", "déconcerterons", "déconcerterez", "déconcerteront"],
+        "cond.pres": ["déconcerterais", "déconcerterais", "déconcerterait", "déconcerterions", "déconcerteriez", "déconcerteraient"],
+        "subj.pres": ["déconcerte", "déconcertes", "déconcerte", "déconcertions", "déconcertiez", "déconcertent"],
+        "subj.imp": ["déconcertasse", "déconcertasses", "déconcertât", "déconcertassions", "déconcertassiez", "déconcertassent"],
+        "imper.pres": ["déconcerte", "déconcertons", "déconcertez"]
+      },
+      "participe_present": "déconcertant",
+      "participe_passe": ["déconcerté", "déconcertée", "déconcertés", "déconcertées"]
     }
   ]
 }
