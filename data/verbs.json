@@ -29069,6 +29069,24 @@
       },
       "participe_present": "humant",
       "participe_passe": ["humé", "humée", "humés", "humées"]
+    },
+    {
+      "id": "friser",
+      "infinitif": "friser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["frise", "frises", "frise", "frisons", "frisez", "frisent"],
+        "ind.imp": ["frisais", "frisais", "frisait", "frisions", "frisiez", "frisaient"],
+        "ind.ps": ["frisai", "frisas", "frisa", "frisâmes", "frisâtes", "frisèrent"],
+        "ind.fut": ["friserai", "friseras", "frisera", "friserons", "friserez", "friseront"],
+        "cond.pres": ["friserais", "friserais", "friserait", "friserions", "friseriez", "friseraient"],
+        "subj.pres": ["frise", "frises", "frise", "frisions", "frisiez", "frisent"],
+        "subj.imp": ["frisasse", "frisasses", "frisât", "frisassions", "frisassiez", "frisassent"],
+        "imper.pres": ["frise", "frisons", "frisez"]
+      },
+      "participe_present": "frisant",
+      "participe_passe": ["frisé", "frisée", "frisés", "frisées"]
     }
   ]
 }
