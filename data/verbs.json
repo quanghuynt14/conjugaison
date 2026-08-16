@@ -13845,6 +13845,24 @@
       },
       "participe_present": "cueillant",
       "participe_passe": ["cueilli", "cueillie", "cueillis", "cueillies"]
+    },
+    {
+      "id": "distribuer",
+      "infinitif": "distribuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["distribue", "distribues", "distribue", "distribuons", "distribuez", "distribuent"],
+        "ind.imp": ["distribuais", "distribuais", "distribuait", "distribuions", "distribuiez", "distribuaient"],
+        "ind.ps": ["distribuai", "distribuas", "distribua", "distribuâmes", "distribuâtes", "distribuèrent"],
+        "ind.fut": ["distribuerai", "distribueras", "distribuera", "distribuerons", "distribuerez", "distribueront"],
+        "cond.pres": ["distribuerais", "distribuerais", "distribuerait", "distribuerions", "distribueriez", "distribueraient"],
+        "subj.pres": ["distribue", "distribues", "distribue", "distribuions", "distribuiez", "distribuent"],
+        "subj.imp": ["distribuasse", "distribuasses", "distribuât", "distribuassions", "distribuassiez", "distribuassent"],
+        "imper.pres": ["distribue", "distribuons", "distribuez"]
+      },
+      "participe_present": "distribuant",
+      "participe_passe": ["distribué", "distribuée", "distribués", "distribuées"]
     }
   ]
 }
