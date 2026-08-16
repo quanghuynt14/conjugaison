@@ -1057,6 +1057,24 @@
       },
       "participe_present": "écoutant",
       "participe_passe": ["écouté", "écoutée", "écoutés", "écoutées"]
+    },
+    {
+      "id": "oublier",
+      "infinitif": "oublier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["oublie", "oublies", "oublie", "oublions", "oubliez", "oublient"],
+        "ind.imp": ["oubliais", "oubliais", "oubliait", "oubliions", "oubliiez", "oubliaient"],
+        "ind.ps": ["oubliai", "oublias", "oublia", "oubliâmes", "oubliâtes", "oublièrent"],
+        "ind.fut": ["oublierai", "oublieras", "oubliera", "oublierons", "oublierez", "oublieront"],
+        "cond.pres": ["oublierais", "oublierais", "oublierait", "oublierions", "oublieriez", "oublieraient"],
+        "subj.pres": ["oublie", "oublies", "oublie", "oubliions", "oubliiez", "oublient"],
+        "subj.imp": ["oubliasse", "oubliasses", "oubliât", "oubliassions", "oubliassiez", "oubliassent"],
+        "imper.pres": ["oublie", "oublions", "oubliez"]
+      },
+      "participe_present": "oubliant",
+      "participe_passe": ["oublié", "oubliée", "oubliés", "oubliées"]
     }
   ]
 }
