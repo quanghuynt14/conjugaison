@@ -34450,6 +34450,24 @@
       },
       "participe_present": "meurtrissant",
       "participe_passe": ["meurtri", "meurtrie", "meurtris", "meurtries"]
+    },
+    {
+      "id": "nicher",
+      "infinitif": "nicher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["niche", "niches", "niche", "nichons", "nichez", "nichent"],
+        "ind.imp": ["nichais", "nichais", "nichait", "nichions", "nichiez", "nichaient"],
+        "ind.ps": ["nichai", "nichas", "nicha", "nichâmes", "nichâtes", "nichèrent"],
+        "ind.fut": ["nicherai", "nicheras", "nichera", "nicherons", "nicherez", "nicheront"],
+        "cond.pres": ["nicherais", "nicherais", "nicherait", "nicherions", "nicheriez", "nicheraient"],
+        "subj.pres": ["niche", "niches", "niche", "nichions", "nichiez", "nichent"],
+        "subj.imp": ["nichasse", "nichasses", "nichât", "nichassions", "nichassiez", "nichassent"],
+        "imper.pres": ["niche", "nichons", "nichez"]
+      },
+      "participe_present": "nichant",
+      "participe_passe": ["niché", "nichée", "nichés", "nichées"]
     }
   ]
 }
