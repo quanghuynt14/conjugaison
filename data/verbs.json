@@ -2623,6 +2623,25 @@
       },
       "participe_present": "vendant",
       "participe_passe": ["vendu", "vendue", "vendus", "vendues"]
+    },
+    {
+      "id": "répéter",
+      "infinitif": "répéter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je répéterai » ou « je répèterai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["répète", "répètes", "répète", "répétons", "répétez", "répètent"],
+        "ind.imp": ["répétais", "répétais", "répétait", "répétions", "répétiez", "répétaient"],
+        "ind.ps": ["répétai", "répétas", "répéta", "répétâmes", "répétâtes", "répétèrent"],
+        "ind.fut": [["répéterai", "répèterai"], ["répéteras", "répèteras"], ["répétera", "répètera"], ["répéterons", "répèterons"], ["répéterez", "répèterez"], ["répéteront", "répèteront"]],
+        "cond.pres": [["répéterais", "répèterais"], ["répéterais", "répèterais"], ["répéterait", "répèterait"], ["répéterions", "répèterions"], ["répéteriez", "répèteriez"], ["répéteraient", "répèteraient"]],
+        "subj.pres": ["répète", "répètes", "répète", "répétions", "répétiez", "répètent"],
+        "subj.imp": ["répétasse", "répétasses", "répétât", "répétassions", "répétassiez", "répétassent"],
+        "imper.pres": ["répète", "répétons", "répétez"]
+      },
+      "participe_present": "répétant",
+      "participe_passe": ["répété", "répétée", "répétés", "répétées"]
     }
   ]
 }
