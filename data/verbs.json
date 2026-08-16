@@ -11082,6 +11082,24 @@
       },
       "participe_present": "décrochant",
       "participe_passe": ["décroché", "décrochée", "décrochés", "décrochées"]
+    },
+    {
+      "id": "pourvoir",
+      "infinitif": "pourvoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pourvois", "pourvois", "pourvoit", "pourvoyons", "pourvoyez", "pourvoient"],
+        "ind.imp": ["pourvoyais", "pourvoyais", "pourvoyait", "pourvoyions", "pourvoyiez", "pourvoyaient"],
+        "ind.ps": ["pourvus", "pourvus", "pourvut", "pourvûmes", "pourvûtes", "pourvurent"],
+        "ind.fut": ["pourvoirai", "pourvoiras", "pourvoira", "pourvoirons", "pourvoirez", "pourvoiront"],
+        "cond.pres": ["pourvoirais", "pourvoirais", "pourvoirait", "pourvoirions", "pourvoiriez", "pourvoiraient"],
+        "subj.pres": ["pourvoie", "pourvoies", "pourvoie", "pourvoyions", "pourvoyiez", "pourvoient"],
+        "subj.imp": ["pourvusse", "pourvusses", "pourvût", "pourvussions", "pourvussiez", "pourvussent"],
+        "imper.pres": ["pourvois", "pourvoyons", "pourvoyez"]
+      },
+      "participe_present": "pourvoyant",
+      "participe_passe": ["pourvu", "pourvue", "pourvus", "pourvues"]
     }
   ]
 }
