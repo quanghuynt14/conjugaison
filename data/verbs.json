@@ -2678,6 +2678,24 @@
       },
       "participe_present": "coupant",
       "participe_passe": ["coupé", "coupée", "coupés", "coupées"]
+    },
+    {
+      "id": "taire",
+      "infinitif": "taire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tais", "tais", "tait", "taisons", "taisez", "taisent"],
+        "ind.imp": ["taisais", "taisais", "taisait", "taisions", "taisiez", "taisaient"],
+        "ind.ps": ["tus", "tus", "tut", "tûmes", "tûtes", "turent"],
+        "ind.fut": ["tairai", "tairas", "taira", "tairons", "tairez", "tairont"],
+        "cond.pres": ["tairais", "tairais", "tairait", "tairions", "tairiez", "tairaient"],
+        "subj.pres": ["taise", "taises", "taise", "taisions", "taisiez", "taisent"],
+        "subj.imp": ["tusse", "tusses", "tût", "tussions", "tussiez", "tussent"],
+        "imper.pres": ["tais", "taisons", "taisez"]
+      },
+      "participe_present": "taisant",
+      "participe_passe": ["tu", "tue", "tus", "tues"]
     }
   ]
 }
