@@ -27832,6 +27832,24 @@
       },
       "participe_present": "arborant",
       "participe_passe": ["arboré", "arborée", "arborés", "arborées"]
+    },
+    {
+      "id": "cavaler",
+      "infinitif": "cavaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cavale", "cavales", "cavale", "cavalons", "cavalez", "cavalent"],
+        "ind.imp": ["cavalais", "cavalais", "cavalait", "cavalions", "cavaliez", "cavalaient"],
+        "ind.ps": ["cavalai", "cavalas", "cavala", "cavalâmes", "cavalâtes", "cavalèrent"],
+        "ind.fut": ["cavalerai", "cavaleras", "cavalera", "cavalerons", "cavalerez", "cavaleront"],
+        "cond.pres": ["cavalerais", "cavalerais", "cavalerait", "cavalerions", "cavaleriez", "cavaleraient"],
+        "subj.pres": ["cavale", "cavales", "cavale", "cavalions", "cavaliez", "cavalent"],
+        "subj.imp": ["cavalasse", "cavalasses", "cavalât", "cavalassions", "cavalassiez", "cavalassent"],
+        "imper.pres": ["cavale", "cavalons", "cavalez"]
+      },
+      "participe_present": "cavalant",
+      "participe_passe": ["cavalé", "cavalée", "cavalés", "cavalées"]
     }
   ]
 }
