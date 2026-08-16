@@ -30329,6 +30329,25 @@
       },
       "participe_present": "douchant",
       "participe_passe": ["douché", "douchée", "douchés", "douchées"]
+    },
+    {
+      "id": "roupiller",
+      "infinitif": "roupiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « roupillé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["roupille", "roupilles", "roupille", "roupillons", "roupillez", "roupillent"],
+        "ind.imp": ["roupillais", "roupillais", "roupillait", "roupillions", "roupilliez", "roupillaient"],
+        "ind.ps": ["roupillai", "roupillas", "roupilla", "roupillâmes", "roupillâtes", "roupillèrent"],
+        "ind.fut": ["roupillerai", "roupilleras", "roupillera", "roupillerons", "roupillerez", "roupilleront"],
+        "cond.pres": ["roupillerais", "roupillerais", "roupillerait", "roupillerions", "roupilleriez", "roupilleraient"],
+        "subj.pres": ["roupille", "roupilles", "roupille", "roupillions", "roupilliez", "roupillent"],
+        "subj.imp": ["roupillasse", "roupillasses", "roupillât", "roupillassions", "roupillassiez", "roupillassent"],
+        "imper.pres": ["roupille", "roupillons", "roupillez"]
+      },
+      "participe_present": "roupillant",
+      "participe_passe": ["roupillé", null, null, null]
     }
   ]
 }
