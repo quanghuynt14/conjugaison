@@ -22217,6 +22217,24 @@
       },
       "participe_present": "submergeant",
       "participe_passe": ["submergé", "submergée", "submergés", "submergées"]
+    },
+    {
+      "id": "consumer",
+      "infinitif": "consumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["consume", "consumes", "consume", "consumons", "consumez", "consument"],
+        "ind.imp": ["consumais", "consumais", "consumait", "consumions", "consumiez", "consumaient"],
+        "ind.ps": ["consumai", "consumas", "consuma", "consumâmes", "consumâtes", "consumèrent"],
+        "ind.fut": ["consumerai", "consumeras", "consumera", "consumerons", "consumerez", "consumeront"],
+        "cond.pres": ["consumerais", "consumerais", "consumerait", "consumerions", "consumeriez", "consumeraient"],
+        "subj.pres": ["consume", "consumes", "consume", "consumions", "consumiez", "consument"],
+        "subj.imp": ["consumasse", "consumasses", "consumât", "consumassions", "consumassiez", "consumassent"],
+        "imper.pres": ["consume", "consumons", "consumez"]
+      },
+      "participe_present": "consumant",
+      "participe_passe": ["consumé", "consumée", "consumés", "consumées"]
     }
   ]
 }
