@@ -14136,6 +14136,24 @@
       },
       "participe_present": "fascinant",
       "participe_passe": ["fasciné", "fascinée", "fascinés", "fascinées"]
+    },
+    {
+      "id": "voter",
+      "infinitif": "voter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vote", "votes", "vote", "votons", "votez", "votent"],
+        "ind.imp": ["votais", "votais", "votait", "votions", "votiez", "votaient"],
+        "ind.ps": ["votai", "votas", "vota", "votâmes", "votâtes", "votèrent"],
+        "ind.fut": ["voterai", "voteras", "votera", "voterons", "voterez", "voteront"],
+        "cond.pres": ["voterais", "voterais", "voterait", "voterions", "voteriez", "voteraient"],
+        "subj.pres": ["vote", "votes", "vote", "votions", "votiez", "votent"],
+        "subj.imp": ["votasse", "votasses", "votât", "votassions", "votassiez", "votassent"],
+        "imper.pres": ["vote", "votons", "votez"]
+      },
+      "participe_present": "votant",
+      "participe_passe": ["voté", "votée", "votés", "votées"]
     }
   ]
 }
