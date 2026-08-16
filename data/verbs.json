@@ -1296,6 +1296,24 @@
       },
       "participe_present": "apprenant",
       "participe_passe": ["appris", "apprise", "appris", "apprises"]
+    },
+    {
+      "id": "poser",
+      "infinitif": "poser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pose", "poses", "pose", "posons", "posez", "posent"],
+        "ind.imp": ["posais", "posais", "posait", "posions", "posiez", "posaient"],
+        "ind.ps": ["posai", "posas", "posa", "posâmes", "posâtes", "posèrent"],
+        "ind.fut": ["poserai", "poseras", "posera", "poserons", "poserez", "poseront"],
+        "cond.pres": ["poserais", "poserais", "poserait", "poserions", "poseriez", "poseraient"],
+        "subj.pres": ["pose", "poses", "pose", "posions", "posiez", "posent"],
+        "subj.imp": ["posasse", "posasses", "posât", "posassions", "posassiez", "posassent"],
+        "imper.pres": ["pose", "posons", "posez"]
+      },
+      "participe_present": "posant",
+      "participe_passe": ["posé", "posée", "posés", "posées"]
     }
   ]
 }
