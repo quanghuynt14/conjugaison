@@ -25532,6 +25532,24 @@
       },
       "participe_present": "reconduisant",
       "participe_passe": ["reconduit", "reconduite", "reconduits", "reconduites"]
+    },
+    {
+      "id": "reporter",
+      "infinitif": "reporter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reporte", "reportes", "reporte", "reportons", "reportez", "reportent"],
+        "ind.imp": ["reportais", "reportais", "reportait", "reportions", "reportiez", "reportaient"],
+        "ind.ps": ["reportai", "reportas", "reporta", "reportâmes", "reportâtes", "reportèrent"],
+        "ind.fut": ["reporterai", "reporteras", "reportera", "reporterons", "reporterez", "reporteront"],
+        "cond.pres": ["reporterais", "reporterais", "reporterait", "reporterions", "reporteriez", "reporteraient"],
+        "subj.pres": ["reporte", "reportes", "reporte", "reportions", "reportiez", "reportent"],
+        "subj.imp": ["reportasse", "reportasses", "reportât", "reportassions", "reportassiez", "reportassent"],
+        "imper.pres": ["reporte", "reportons", "reportez"]
+      },
+      "participe_present": "reportant",
+      "participe_passe": ["reporté", "reportée", "reportés", "reportées"]
     }
   ]
 }
