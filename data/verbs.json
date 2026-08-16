@@ -24443,6 +24443,24 @@
       },
       "participe_present": "rattachant",
       "participe_passe": ["rattaché", "rattachée", "rattachés", "rattachées"]
+    },
+    {
+      "id": "déshonorer",
+      "infinitif": "déshonorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déshonore", "déshonores", "déshonore", "déshonorons", "déshonorez", "déshonorent"],
+        "ind.imp": ["déshonorais", "déshonorais", "déshonorait", "déshonorions", "déshonoriez", "déshonoraient"],
+        "ind.ps": ["déshonorai", "déshonoras", "déshonora", "déshonorâmes", "déshonorâtes", "déshonorèrent"],
+        "ind.fut": ["déshonorerai", "déshonoreras", "déshonorera", "déshonorerons", "déshonorerez", "déshonoreront"],
+        "cond.pres": ["déshonorerais", "déshonorerais", "déshonorerait", "déshonorerions", "déshonoreriez", "déshonoreraient"],
+        "subj.pres": ["déshonore", "déshonores", "déshonore", "déshonorions", "déshonoriez", "déshonorent"],
+        "subj.imp": ["déshonorasse", "déshonorasses", "déshonorât", "déshonorassions", "déshonorassiez", "déshonorassent"],
+        "imper.pres": ["déshonore", "déshonorons", "déshonorez"]
+      },
+      "participe_present": "déshonorant",
+      "participe_passe": ["déshonoré", "déshonorée", "déshonorés", "déshonorées"]
     }
   ]
 }
