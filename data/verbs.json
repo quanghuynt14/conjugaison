@@ -18286,6 +18286,24 @@
       },
       "participe_present": "ruant",
       "participe_passe": ["rué", null, null, null]
+    },
+    {
+      "id": "photographier",
+      "infinitif": "photographier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["photographie", "photographies", "photographie", "photographions", "photographiez", "photographient"],
+        "ind.imp": ["photographiais", "photographiais", "photographiait", "photographiions", "photographiiez", "photographiaient"],
+        "ind.ps": ["photographiai", "photographias", "photographia", "photographiâmes", "photographiâtes", "photographièrent"],
+        "ind.fut": ["photographierai", "photographieras", "photographiera", "photographierons", "photographierez", "photographieront"],
+        "cond.pres": ["photographierais", "photographierais", "photographierait", "photographierions", "photographieriez", "photographieraient"],
+        "subj.pres": ["photographie", "photographies", "photographie", "photographiions", "photographiiez", "photographient"],
+        "subj.imp": ["photographiasse", "photographiasses", "photographiât", "photographiassions", "photographiassiez", "photographiassent"],
+        "imper.pres": ["photographie", "photographions", "photographiez"]
+      },
+      "participe_present": "photographiant",
+      "participe_passe": ["photographié", "photographiée", "photographiés", "photographiées"]
     }
   ]
 }
