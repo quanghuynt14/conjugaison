@@ -25771,6 +25771,24 @@
       },
       "participe_present": "ravageant",
       "participe_passe": ["ravagé", "ravagée", "ravagés", "ravagées"]
+    },
+    {
+      "id": "détecter",
+      "infinitif": "détecter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["détecte", "détectes", "détecte", "détectons", "détectez", "détectent"],
+        "ind.imp": ["détectais", "détectais", "détectait", "détections", "détectiez", "détectaient"],
+        "ind.ps": ["détectai", "détectas", "détecta", "détectâmes", "détectâtes", "détectèrent"],
+        "ind.fut": ["détecterai", "détecteras", "détectera", "détecterons", "détecterez", "détecteront"],
+        "cond.pres": ["détecterais", "détecterais", "détecterait", "détecterions", "détecteriez", "détecteraient"],
+        "subj.pres": ["détecte", "détectes", "détecte", "détections", "détectiez", "détectent"],
+        "subj.imp": ["détectasse", "détectasses", "détectât", "détectassions", "détectassiez", "détectassent"],
+        "imper.pres": ["détecte", "détectons", "détectez"]
+      },
+      "participe_present": "détectant",
+      "participe_passe": ["détecté", "détectée", "détectés", "détectées"]
     }
   ]
 }
