@@ -4666,6 +4666,25 @@
       },
       "participe_present": "sonnant",
       "participe_passe": ["sonné", "sonnée", "sonnés", "sonnées"]
+    },
+    {
+      "id": "douter",
+      "infinitif": "douter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « douté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["doute", "doutes", "doute", "doutons", "doutez", "doutent"],
+        "ind.imp": ["doutais", "doutais", "doutait", "doutions", "doutiez", "doutaient"],
+        "ind.ps": ["doutai", "doutas", "douta", "doutâmes", "doutâtes", "doutèrent"],
+        "ind.fut": ["douterai", "douteras", "doutera", "douterons", "douterez", "douteront"],
+        "cond.pres": ["douterais", "douterais", "douterait", "douterions", "douteriez", "douteraient"],
+        "subj.pres": ["doute", "doutes", "doute", "doutions", "doutiez", "doutent"],
+        "subj.imp": ["doutasse", "doutasses", "doutât", "doutassions", "doutassiez", "doutassent"],
+        "imper.pres": ["doute", "doutons", "doutez"]
+      },
+      "participe_present": "doutant",
+      "participe_passe": ["douté", null, null, null]
     }
   ]
 }
