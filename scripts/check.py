@@ -57,18 +57,34 @@ def captions_of(entry):
             and t.find(f"{X}caption") is not None]
 
 
+def entries_of(xml):
+    """Les entrées, une par une, sans charger le document.
+
+    Le XML pèse un demi-gigaoctet pour mille verbes. `ET.parse` en fait un arbre
+    de plusieurs gigaoctets en mémoire, pour un contrôle qui ne regarde jamais
+    qu'une entrée à la fois. On la rend, puis on la vide.
+    """
+    for _, entry in ET.iterparse(xml, events=("end",)):
+        if entry.tag != f"{D}entry":
+            continue
+        yield entry
+        entry.clear()
+
+
 def main():
     if not XML.exists():
         sys.exit(f"{XML} absent. Lancez d'abord `make xml`.")
 
-    entries = ET.parse(XML).getroot().findall(f"{D}entry")
+    wanted = set(sys.argv[1:])
     problems = []
     seen_values = {}
     seen_ids = {}
     index = {}
     total_rows = 0
+    total_entries = 0
 
-    for entry in entries:
+    for entry in entries_of(XML):
+        total_entries += 1
         eid = entry.get("id")
         if eid in seen_ids:
             problems.append(f"id « {eid} » réutilisé — deux entrées se recouvrent")
@@ -92,7 +108,10 @@ def main():
 
         form = values[0] if values else eid
         rows = rows_of(entry)
-        index[form] = rows
+        # On ne garde que ce qu'on va imprimer : tout garder ferait rentrer par
+        # la fenêtre la mémoire que la lecture en flux fait sortir par la porte.
+        if form in wanted:
+            index[form] = rows
         total_rows += len(rows)
 
         if not rows:
@@ -164,7 +183,7 @@ def main():
                 f"« {form} » : {nf_hits} formes non conjuguées surlignées pour "
                 f"{len(nf_slots)} attendues")
 
-    print(f"{len(entries)} entrées, {len(seen_values)} clés, {total_rows} analyses")
+    print(f"{total_entries} entrées, {len(seen_values)} clés, {total_rows} analyses")
 
     for form in sys.argv[1:]:
         rows = index.get(form)

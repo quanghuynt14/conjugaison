@@ -428,17 +428,21 @@ def main():
     data = load()
     index, verbs, auxiliaries = build_index(data)
 
-    body = [render_entry(form, index[form], verbs, auxiliaries)
-            for form in sorted(index)]
-
+    # Écrit au fil de l'eau. Une entrée pèse une dizaine de kilo-octets et il y
+    # en a des dizaines de milliers : garder le document en mémoire pour le
+    # joindre à la fin coûte un demi-gigaoctet de chaîne, plus autant pour la
+    # liste qui la précède. Le fichier, lui, est de toute façon sur le disque.
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(
-        '<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<d:dictionary xmlns="http://www.w3.org/1999/xhtml"'
-        ' xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">\n'
-        + "\n".join(body) + "\n</d:dictionary>\n",
-        encoding="utf-8",
-    )
+    with OUT.open("w", encoding="utf-8") as out:
+        out.write(
+            '<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<d:dictionary xmlns="http://www.w3.org/1999/xhtml"'
+            ' xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">\n'
+        )
+        for form in sorted(index):
+            out.write(render_entry(form, index[form], verbs, auxiliaries))
+            out.write("\n")
+        out.write("</d:dictionary>\n")
 
     rows = sum(len(r) for r in index.values())
     print(f"{OUT.relative_to(ROOT)} : {len(data['verbs'])} verbes, "
