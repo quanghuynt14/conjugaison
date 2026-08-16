@@ -10574,6 +10574,26 @@
       },
       "participe_present": "exerçant",
       "participe_passe": ["exercé", "exercée", "exercés", "exercées"]
+    },
+    {
+      "id": "envoler",
+      "infinitif": "envoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’envole » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["envole", "envoles", "envole", "envolons", "envolez", "envolent"],
+        "ind.imp": ["envolais", "envolais", "envolait", "envolions", "envoliez", "envolaient"],
+        "ind.ps": ["envolai", "envolas", "envola", "envolâmes", "envolâtes", "envolèrent"],
+        "ind.fut": ["envolerai", "envoleras", "envolera", "envolerons", "envolerez", "envoleront"],
+        "cond.pres": ["envolerais", "envolerais", "envolerait", "envolerions", "envoleriez", "envoleraient"],
+        "subj.pres": ["envole", "envoles", "envole", "envolions", "envoliez", "envolent"],
+        "subj.imp": ["envolasse", "envolasses", "envolât", "envolassions", "envolassiez", "envolassent"],
+        "imper.pres": ["envole", "envolons", "envolez"]
+      },
+      "participe_present": "envolant",
+      "participe_passe": ["envolé", "envolée", "envolés", "envolées"]
     }
   ]
 }
