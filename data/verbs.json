@@ -29839,6 +29839,24 @@
       },
       "participe_present": "écarquillant",
       "participe_passe": ["écarquillé", "écarquillée", "écarquillés", "écarquillées"]
+    },
+    {
+      "id": "labourer",
+      "infinitif": "labourer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["laboure", "laboures", "laboure", "labourons", "labourez", "labourent"],
+        "ind.imp": ["labourais", "labourais", "labourait", "labourions", "labouriez", "labouraient"],
+        "ind.ps": ["labourai", "labouras", "laboura", "labourâmes", "labourâtes", "labourèrent"],
+        "ind.fut": ["labourerai", "laboureras", "labourera", "labourerons", "labourerez", "laboureront"],
+        "cond.pres": ["labourerais", "labourerais", "labourerait", "labourerions", "laboureriez", "laboureraient"],
+        "subj.pres": ["laboure", "laboures", "laboure", "labourions", "labouriez", "labourent"],
+        "subj.imp": ["labourasse", "labourasses", "labourât", "labourassions", "labourassiez", "labourassent"],
+        "imper.pres": ["laboure", "labourons", "labourez"]
+      },
+      "participe_present": "labourant",
+      "participe_passe": ["labouré", "labourée", "labourés", "labourées"]
     }
   ]
 }
