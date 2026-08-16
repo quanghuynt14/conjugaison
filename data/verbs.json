@@ -16750,6 +16750,24 @@
       },
       "participe_present": "retentissant",
       "participe_passe": ["retenti", null, null, null]
+    },
+    {
+      "id": "renforcer",
+      "infinitif": "renforcer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["renforce", "renforces", "renforce", "renforçons", "renforcez", "renforcent"],
+        "ind.imp": ["renforçais", "renforçais", "renforçait", "renforcions", "renforciez", "renforçaient"],
+        "ind.ps": ["renforçai", "renforças", "renforça", "renforçâmes", "renforçâtes", "renforcèrent"],
+        "ind.fut": ["renforcerai", "renforceras", "renforcera", "renforcerons", "renforcerez", "renforceront"],
+        "cond.pres": ["renforcerais", "renforcerais", "renforcerait", "renforcerions", "renforceriez", "renforceraient"],
+        "subj.pres": ["renforce", "renforces", "renforce", "renforcions", "renforciez", "renforcent"],
+        "subj.imp": ["renforçasse", "renforçasses", "renforçât", "renforçassions", "renforçassiez", "renforçassent"],
+        "imper.pres": ["renforce", "renforçons", "renforcez"]
+      },
+      "participe_present": "renforçant",
+      "participe_passe": ["renforcé", "renforcée", "renforcés", "renforcées"]
     }
   ]
 }
