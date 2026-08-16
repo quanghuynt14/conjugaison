@@ -16621,6 +16621,26 @@
       },
       "participe_present": "supprimant",
       "participe_passe": ["supprimé", "supprimée", "supprimés", "supprimées"]
+    },
+    {
+      "id": "agenouiller",
+      "infinitif": "agenouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’agenouille » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["agenouille", "agenouilles", "agenouille", "agenouillons", "agenouillez", "agenouillent"],
+        "ind.imp": ["agenouillais", "agenouillais", "agenouillait", "agenouillions", "agenouilliez", "agenouillaient"],
+        "ind.ps": ["agenouillai", "agenouillas", "agenouilla", "agenouillâmes", "agenouillâtes", "agenouillèrent"],
+        "ind.fut": ["agenouillerai", "agenouilleras", "agenouillera", "agenouillerons", "agenouillerez", "agenouilleront"],
+        "cond.pres": ["agenouillerais", "agenouillerais", "agenouillerait", "agenouillerions", "agenouilleriez", "agenouilleraient"],
+        "subj.pres": ["agenouille", "agenouilles", "agenouille", "agenouillions", "agenouilliez", "agenouillent"],
+        "subj.imp": ["agenouillasse", "agenouillasses", "agenouillât", "agenouillassions", "agenouillassiez", "agenouillassent"],
+        "imper.pres": ["agenouille", "agenouillons", "agenouillez"]
+      },
+      "participe_present": "agenouillant",
+      "participe_passe": ["agenouillé", "agenouillée", "agenouillés", "agenouillées"]
     }
   ]
 }
