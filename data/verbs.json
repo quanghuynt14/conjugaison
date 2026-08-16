@@ -24952,6 +24952,24 @@
       },
       "participe_present": "redoublant",
       "participe_passe": ["redoublé", "redoublée", "redoublés", "redoublées"]
+    },
+    {
+      "id": "épater",
+      "infinitif": "épater",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["épate", "épates", "épate", "épatons", "épatez", "épatent"],
+        "ind.imp": ["épatais", "épatais", "épatait", "épations", "épatiez", "épataient"],
+        "ind.ps": ["épatai", "épatas", "épata", "épatâmes", "épatâtes", "épatèrent"],
+        "ind.fut": ["épaterai", "épateras", "épatera", "épaterons", "épaterez", "épateront"],
+        "cond.pres": ["épaterais", "épaterais", "épaterait", "épaterions", "épateriez", "épateraient"],
+        "subj.pres": ["épate", "épates", "épate", "épations", "épatiez", "épatent"],
+        "subj.imp": ["épatasse", "épatasses", "épatât", "épatassions", "épatassiez", "épatassent"],
+        "imper.pres": ["épate", "épatons", "épatez"]
+      },
+      "participe_present": "épatant",
+      "participe_passe": ["épaté", "épatée", "épatés", "épatées"]
     }
   ]
 }
