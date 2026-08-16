@@ -14191,6 +14191,24 @@
       },
       "participe_present": "enchantant",
       "participe_passe": ["enchanté", "enchantée", "enchantés", "enchantées"]
+    },
+    {
+      "id": "acquérir",
+      "infinitif": "acquérir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["acquiers", "acquiers", "acquiert", "acquérons", "acquérez", "acquièrent"],
+        "ind.imp": ["acquérais", "acquérais", "acquérait", "acquérions", "acquériez", "acquéraient"],
+        "ind.ps": ["acquis", "acquis", "acquit", "acquîmes", "acquîtes", "acquirent"],
+        "ind.fut": ["acquerrai", "acquerras", "acquerra", "acquerrons", "acquerrez", "acquerront"],
+        "cond.pres": ["acquerrais", "acquerrais", "acquerrait", "acquerrions", "acquerriez", "acquerraient"],
+        "subj.pres": ["acquière", "acquières", "acquière", "acquérions", "acquériez", "acquièrent"],
+        "subj.imp": ["acquisse", "acquisses", "acquît", "acquissions", "acquissiez", "acquissent"],
+        "imper.pres": ["acquiers", "acquérons", "acquérez"]
+      },
+      "participe_present": "acquérant",
+      "participe_passe": ["acquis", "acquise", "acquis", "acquises"]
     }
   ]
 }
