@@ -14082,6 +14082,24 @@
       },
       "participe_present": "bordant",
       "participe_passe": ["bordé", "bordée", "bordés", "bordées"]
+    },
+    {
+      "id": "recommander",
+      "infinitif": "recommander",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recommande", "recommandes", "recommande", "recommandons", "recommandez", "recommandent"],
+        "ind.imp": ["recommandais", "recommandais", "recommandait", "recommandions", "recommandiez", "recommandaient"],
+        "ind.ps": ["recommandai", "recommandas", "recommanda", "recommandâmes", "recommandâtes", "recommandèrent"],
+        "ind.fut": ["recommanderai", "recommanderas", "recommandera", "recommanderons", "recommanderez", "recommanderont"],
+        "cond.pres": ["recommanderais", "recommanderais", "recommanderait", "recommanderions", "recommanderiez", "recommanderaient"],
+        "subj.pres": ["recommande", "recommandes", "recommande", "recommandions", "recommandiez", "recommandent"],
+        "subj.imp": ["recommandasse", "recommandasses", "recommandât", "recommandassions", "recommandassiez", "recommandassent"],
+        "imper.pres": ["recommande", "recommandons", "recommandez"]
+      },
+      "participe_present": "recommandant",
+      "participe_passe": ["recommandé", "recommandée", "recommandés", "recommandées"]
     }
   ]
 }
