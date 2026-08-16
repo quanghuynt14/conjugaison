@@ -1988,6 +1988,25 @@
       },
       "participe_present": "recevant",
       "participe_passe": ["reçu", "reçue", "reçus", "reçues"]
+    },
+    {
+      "id": "agir",
+      "infinitif": "agir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « agi » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["agis", "agis", "agit", "agissons", "agissez", "agissent"],
+        "ind.imp": ["agissais", "agissais", "agissait", "agissions", "agissiez", "agissaient"],
+        "ind.ps": ["agis", "agis", "agit", "agîmes", "agîtes", "agirent"],
+        "ind.fut": ["agirai", "agiras", "agira", "agirons", "agirez", "agiront"],
+        "cond.pres": ["agirais", "agirais", "agirait", "agirions", "agiriez", "agiraient"],
+        "subj.pres": ["agisse", "agisses", "agisse", "agissions", "agissiez", "agissent"],
+        "subj.imp": ["agisse", "agisses", "agît", "agissions", "agissiez", "agissent"],
+        "imper.pres": ["agis", "agissons", "agissez"]
+      },
+      "participe_present": "agissant",
+      "participe_passe": ["agi", null, null, null]
     }
   ]
 }
