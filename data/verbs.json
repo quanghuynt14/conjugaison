@@ -3238,6 +3238,24 @@
       },
       "participe_present": "habitant",
       "participe_passe": ["habité", "habitée", "habités", "habitées"]
+    },
+    {
+      "id": "lancer",
+      "infinitif": "lancer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["lance", "lances", "lance", "lançons", "lancez", "lancent"],
+        "ind.imp": ["lançais", "lançais", "lançait", "lancions", "lanciez", "lançaient"],
+        "ind.ps": ["lançai", "lanças", "lança", "lançâmes", "lançâtes", "lancèrent"],
+        "ind.fut": ["lancerai", "lanceras", "lancera", "lancerons", "lancerez", "lanceront"],
+        "cond.pres": ["lancerais", "lancerais", "lancerait", "lancerions", "lanceriez", "lanceraient"],
+        "subj.pres": ["lance", "lances", "lance", "lancions", "lanciez", "lancent"],
+        "subj.imp": ["lançasse", "lançasses", "lançât", "lançassions", "lançassiez", "lançassent"],
+        "imper.pres": ["lance", "lançons", "lancez"]
+      },
+      "participe_present": "lançant",
+      "participe_passe": ["lancé", "lancée", "lancés", "lancées"]
     }
   ]
 }
