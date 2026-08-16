@@ -17404,6 +17404,24 @@
       },
       "participe_present": "déterminant",
       "participe_passe": ["déterminé", "déterminée", "déterminés", "déterminées"]
+    },
+    {
+      "id": "affoler",
+      "infinitif": "affoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affole", "affoles", "affole", "affolons", "affolez", "affolent"],
+        "ind.imp": ["affolais", "affolais", "affolait", "affolions", "affoliez", "affolaient"],
+        "ind.ps": ["affolai", "affolas", "affola", "affolâmes", "affolâtes", "affolèrent"],
+        "ind.fut": ["affolerai", "affoleras", "affolera", "affolerons", "affolerez", "affoleront"],
+        "cond.pres": ["affolerais", "affolerais", "affolerait", "affolerions", "affoleriez", "affoleraient"],
+        "subj.pres": ["affole", "affoles", "affole", "affolions", "affoliez", "affolent"],
+        "subj.imp": ["affolasse", "affolasses", "affolât", "affolassions", "affolassiez", "affolassent"],
+        "imper.pres": ["affole", "affolons", "affolez"]
+      },
+      "participe_present": "affolant",
+      "participe_passe": ["affolé", "affolée", "affolés", "affolées"]
     }
   ]
 }
