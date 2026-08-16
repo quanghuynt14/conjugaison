@@ -23236,6 +23236,24 @@
       },
       "participe_present": "couvant",
       "participe_passe": ["couvé", "couvée", "couvés", "couvées"]
+    },
+    {
+      "id": "contracter",
+      "infinitif": "contracter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contracte", "contractes", "contracte", "contractons", "contractez", "contractent"],
+        "ind.imp": ["contractais", "contractais", "contractait", "contractions", "contractiez", "contractaient"],
+        "ind.ps": ["contractai", "contractas", "contracta", "contractâmes", "contractâtes", "contractèrent"],
+        "ind.fut": ["contracterai", "contracteras", "contractera", "contracterons", "contracterez", "contracteront"],
+        "cond.pres": ["contracterais", "contracterais", "contracterait", "contracterions", "contracteriez", "contracteraient"],
+        "subj.pres": ["contracte", "contractes", "contracte", "contractions", "contractiez", "contractent"],
+        "subj.imp": ["contractasse", "contractasses", "contractât", "contractassions", "contractassiez", "contractassent"],
+        "imper.pres": ["contracte", "contractons", "contractez"]
+      },
+      "participe_present": "contractant",
+      "participe_passe": ["contracté", "contractée", "contractés", "contractées"]
     }
   ]
 }
