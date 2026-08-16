@@ -11898,6 +11898,24 @@
       },
       "participe_present": "tordant",
       "participe_passe": ["tordu", "tordue", "tordus", "tordues"]
+    },
+    {
+      "id": "gratter",
+      "infinitif": "gratter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gratte", "grattes", "gratte", "grattons", "grattez", "grattent"],
+        "ind.imp": ["grattais", "grattais", "grattait", "grattions", "grattiez", "grattaient"],
+        "ind.ps": ["grattai", "grattas", "gratta", "grattâmes", "grattâtes", "grattèrent"],
+        "ind.fut": ["gratterai", "gratteras", "grattera", "gratterons", "gratterez", "gratteront"],
+        "cond.pres": ["gratterais", "gratterais", "gratterait", "gratterions", "gratteriez", "gratteraient"],
+        "subj.pres": ["gratte", "grattes", "gratte", "grattions", "grattiez", "grattent"],
+        "subj.imp": ["grattasse", "grattasses", "grattât", "grattassions", "grattassiez", "grattassent"],
+        "imper.pres": ["gratte", "grattons", "grattez"]
+      },
+      "participe_present": "grattant",
+      "participe_passe": ["gratté", "grattée", "grattés", "grattées"]
     }
   ]
 }
