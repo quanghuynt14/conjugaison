@@ -4540,6 +4540,24 @@
       },
       "participe_present": "recommençant",
       "participe_passe": ["recommencé", "recommencée", "recommencés", "recommencées"]
+    },
+    {
+      "id": "attraper",
+      "infinitif": "attraper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["attrape", "attrapes", "attrape", "attrapons", "attrapez", "attrapent"],
+        "ind.imp": ["attrapais", "attrapais", "attrapait", "attrapions", "attrapiez", "attrapaient"],
+        "ind.ps": ["attrapai", "attrapas", "attrapa", "attrapâmes", "attrapâtes", "attrapèrent"],
+        "ind.fut": ["attraperai", "attraperas", "attrapera", "attraperons", "attraperez", "attraperont"],
+        "cond.pres": ["attraperais", "attraperais", "attraperait", "attraperions", "attraperiez", "attraperaient"],
+        "subj.pres": ["attrape", "attrapes", "attrape", "attrapions", "attrapiez", "attrapent"],
+        "subj.imp": ["attrapasse", "attrapasses", "attrapât", "attrapassions", "attrapassiez", "attrapassent"],
+        "imper.pres": ["attrape", "attrapons", "attrapez"]
+      },
+      "participe_present": "attrapant",
+      "participe_passe": ["attrapé", "attrapée", "attrapés", "attrapées"]
     }
   ]
 }
