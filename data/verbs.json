@@ -14392,6 +14392,24 @@
       },
       "participe_present": "abîmant",
       "participe_passe": ["abîmé", "abîmée", "abîmés", "abîmées"]
+    },
+    {
+      "id": "boucher",
+      "infinitif": "boucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bouche", "bouches", "bouche", "bouchons", "bouchez", "bouchent"],
+        "ind.imp": ["bouchais", "bouchais", "bouchait", "bouchions", "bouchiez", "bouchaient"],
+        "ind.ps": ["bouchai", "bouchas", "boucha", "bouchâmes", "bouchâtes", "bouchèrent"],
+        "ind.fut": ["boucherai", "boucheras", "bouchera", "boucherons", "boucherez", "boucheront"],
+        "cond.pres": ["boucherais", "boucherais", "boucherait", "boucherions", "boucheriez", "boucheraient"],
+        "subj.pres": ["bouche", "bouches", "bouche", "bouchions", "bouchiez", "bouchent"],
+        "subj.imp": ["bouchasse", "bouchasses", "bouchât", "bouchassions", "bouchassiez", "bouchassent"],
+        "imper.pres": ["bouche", "bouchons", "bouchez"]
+      },
+      "participe_present": "bouchant",
+      "participe_passe": ["bouché", "bouchée", "bouchés", "bouchées"]
     }
   ]
 }
