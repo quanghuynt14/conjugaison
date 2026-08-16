@@ -24788,6 +24788,24 @@
       },
       "participe_present": "officiant",
       "participe_passe": ["officié", null, null, null]
+    },
+    {
+      "id": "rallumer",
+      "infinitif": "rallumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rallume", "rallumes", "rallume", "rallumons", "rallumez", "rallument"],
+        "ind.imp": ["rallumais", "rallumais", "rallumait", "rallumions", "rallumiez", "rallumaient"],
+        "ind.ps": ["rallumai", "rallumas", "ralluma", "rallumâmes", "rallumâtes", "rallumèrent"],
+        "ind.fut": ["rallumerai", "rallumeras", "rallumera", "rallumerons", "rallumerez", "rallumeront"],
+        "cond.pres": ["rallumerais", "rallumerais", "rallumerait", "rallumerions", "rallumeriez", "rallumeraient"],
+        "subj.pres": ["rallume", "rallumes", "rallume", "rallumions", "rallumiez", "rallument"],
+        "subj.imp": ["rallumasse", "rallumasses", "rallumât", "rallumassions", "rallumassiez", "rallumassent"],
+        "imper.pres": ["rallume", "rallumons", "rallumez"]
+      },
+      "participe_present": "rallumant",
+      "participe_passe": ["rallumé", "rallumée", "rallumés", "rallumées"]
     }
   ]
 }
