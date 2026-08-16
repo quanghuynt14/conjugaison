@@ -19724,6 +19724,24 @@
       },
       "participe_present": "enculant",
       "participe_passe": ["enculé", "enculée", "enculés", "enculées"]
+    },
+    {
+      "id": "déchiffrer",
+      "infinitif": "déchiffrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déchiffre", "déchiffres", "déchiffre", "déchiffrons", "déchiffrez", "déchiffrent"],
+        "ind.imp": ["déchiffrais", "déchiffrais", "déchiffrait", "déchiffrions", "déchiffriez", "déchiffraient"],
+        "ind.ps": ["déchiffrai", "déchiffras", "déchiffra", "déchiffrâmes", "déchiffrâtes", "déchiffrèrent"],
+        "ind.fut": ["déchiffrerai", "déchiffreras", "déchiffrera", "déchiffrerons", "déchiffrerez", "déchiffreront"],
+        "cond.pres": ["déchiffrerais", "déchiffrerais", "déchiffrerait", "déchiffrerions", "déchiffreriez", "déchiffreraient"],
+        "subj.pres": ["déchiffre", "déchiffres", "déchiffre", "déchiffrions", "déchiffriez", "déchiffrent"],
+        "subj.imp": ["déchiffrasse", "déchiffrasses", "déchiffrât", "déchiffrassions", "déchiffrassiez", "déchiffrassent"],
+        "imper.pres": ["déchiffre", "déchiffrons", "déchiffrez"]
+      },
+      "participe_present": "déchiffrant",
+      "participe_passe": ["déchiffré", "déchiffrée", "déchiffrés", "déchiffrées"]
     }
   ]
 }
