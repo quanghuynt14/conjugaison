@@ -22799,6 +22799,24 @@
       },
       "participe_present": "réconfortant",
       "participe_passe": ["réconforté", "réconfortée", "réconfortés", "réconfortées"]
+    },
+    {
+      "id": "piller",
+      "infinitif": "piller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pille", "pilles", "pille", "pillons", "pillez", "pillent"],
+        "ind.imp": ["pillais", "pillais", "pillait", "pillions", "pilliez", "pillaient"],
+        "ind.ps": ["pillai", "pillas", "pilla", "pillâmes", "pillâtes", "pillèrent"],
+        "ind.fut": ["pillerai", "pilleras", "pillera", "pillerons", "pillerez", "pilleront"],
+        "cond.pres": ["pillerais", "pillerais", "pillerait", "pillerions", "pilleriez", "pilleraient"],
+        "subj.pres": ["pille", "pilles", "pille", "pillions", "pilliez", "pillent"],
+        "subj.imp": ["pillasse", "pillasses", "pillât", "pillassions", "pillassiez", "pillassent"],
+        "imper.pres": ["pille", "pillons", "pillez"]
+      },
+      "participe_present": "pillant",
+      "participe_passe": ["pillé", "pillée", "pillés", "pillées"]
     }
   ]
 }
