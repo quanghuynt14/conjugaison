@@ -23908,6 +23908,25 @@
       },
       "participe_present": "palpant",
       "participe_passe": ["palpé", "palpée", "palpés", "palpées"]
+    },
+    {
+      "id": "contredire",
+      "infinitif": "contredire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « vous contredites » ou « vous contredisez ».",
+      "tenses": {
+        "ind.pres": ["contredis", "contredis", "contredit", "contredisons", ["contredites", "contredisez"], "contredisent"],
+        "ind.imp": ["contredisais", "contredisais", "contredisait", "contredisions", "contredisiez", "contredisaient"],
+        "ind.ps": ["contredis", "contredis", "contredit", "contredîmes", "contredîtes", "contredirent"],
+        "ind.fut": ["contredirai", "contrediras", "contredira", "contredirons", "contredirez", "contrediront"],
+        "cond.pres": ["contredirais", "contredirais", "contredirait", "contredirions", "contrediriez", "contrediraient"],
+        "subj.pres": ["contredise", "contredises", "contredise", "contredisions", "contredisiez", "contredisent"],
+        "subj.imp": ["contredisse", "contredisses", "contredît", "contredissions", "contredissiez", "contredissent"],
+        "imper.pres": ["contredis", "contredisons", ["contredites", "contredisez"]]
+      },
+      "participe_present": "contredisant",
+      "participe_passe": ["contredit", "contredite", "contredits", "contredites"]
     }
   ]
 }
