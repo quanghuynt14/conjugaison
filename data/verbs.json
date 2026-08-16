@@ -29160,6 +29160,25 @@
       },
       "participe_present": "incendiant",
       "participe_passe": ["incendié", "incendiée", "incendiés", "incendiées"]
+    },
+    {
+      "id": "altérer",
+      "infinitif": "altérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’altérerai » ou « j’altèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["altère", "altères", "altère", "altérons", "altérez", "altèrent"],
+        "ind.imp": ["altérais", "altérais", "altérait", "altérions", "altériez", "altéraient"],
+        "ind.ps": ["altérai", "altéras", "altéra", "altérâmes", "altérâtes", "altérèrent"],
+        "ind.fut": [["altérerai", "altèrerai"], ["altéreras", "altèreras"], ["altérera", "altèrera"], ["altérerons", "altèrerons"], ["altérerez", "altèrerez"], ["altéreront", "altèreront"]],
+        "cond.pres": [["altérerais", "altèrerais"], ["altérerais", "altèrerais"], ["altérerait", "altèrerait"], ["altérerions", "altèrerions"], ["altéreriez", "altèreriez"], ["altéreraient", "altèreraient"]],
+        "subj.pres": ["altère", "altères", "altère", "altérions", "altériez", "altèrent"],
+        "subj.imp": ["altérasse", "altérasses", "altérât", "altérassions", "altérassiez", "altérassent"],
+        "imper.pres": ["altère", "altérons", "altérez"]
+      },
+      "participe_present": "altérant",
+      "participe_passe": ["altéré", "altérée", "altérés", "altérées"]
     }
   ]
 }
