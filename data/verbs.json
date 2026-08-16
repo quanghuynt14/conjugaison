@@ -5065,6 +5065,24 @@
       },
       "participe_present": "méritant",
       "participe_passe": ["mérité", "méritée", "mérités", "méritées"]
+    },
+    {
+      "id": "accrocher",
+      "infinitif": "accrocher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accroche", "accroches", "accroche", "accrochons", "accrochez", "accrochent"],
+        "ind.imp": ["accrochais", "accrochais", "accrochait", "accrochions", "accrochiez", "accrochaient"],
+        "ind.ps": ["accrochai", "accrochas", "accrocha", "accrochâmes", "accrochâtes", "accrochèrent"],
+        "ind.fut": ["accrocherai", "accrocheras", "accrochera", "accrocherons", "accrocherez", "accrocheront"],
+        "cond.pres": ["accrocherais", "accrocherais", "accrocherait", "accrocherions", "accrocheriez", "accrocheraient"],
+        "subj.pres": ["accroche", "accroches", "accroche", "accrochions", "accrochiez", "accrochent"],
+        "subj.imp": ["accrochasse", "accrochasses", "accrochât", "accrochassions", "accrochassiez", "accrochassent"],
+        "imper.pres": ["accroche", "accrochons", "accrochez"]
+      },
+      "participe_present": "accrochant",
+      "participe_passe": ["accroché", "accrochée", "accrochés", "accrochées"]
     }
   ]
 }
