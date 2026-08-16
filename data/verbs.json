@@ -186,6 +186,24 @@
       },
       "participe_present": "sachant",
       "participe_passe": ["su", "sue", "sus", "sues"]
+    },
+    {
+      "id": "devoir",
+      "infinitif": "devoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dois", "dois", "doit", "devons", "devez", "doivent"],
+        "ind.imp": ["devais", "devais", "devait", "devions", "deviez", "devaient"],
+        "ind.ps": ["dus", "dus", "dut", "dûmes", "dûtes", "durent"],
+        "ind.fut": ["devrai", "devras", "devra", "devrons", "devrez", "devront"],
+        "cond.pres": ["devrais", "devrais", "devrait", "devrions", "devriez", "devraient"],
+        "subj.pres": ["doive", "doives", "doive", "devions", "deviez", "doivent"],
+        "subj.imp": ["dusse", "dusses", "dût", "dussions", "dussiez", "dussent"],
+        "imper.pres": ["dois", "devons", "devez"]
+      },
+      "participe_present": "devant",
+      "participe_passe": ["dû", "due", "dus", "dues"]
     }
   ]
 }
