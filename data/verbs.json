@@ -23327,6 +23327,24 @@
       },
       "participe_present": "misant",
       "participe_passe": ["misé", "misée", "misés", "misées"]
+    },
+    {
+      "id": "restaurer",
+      "infinitif": "restaurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["restaure", "restaures", "restaure", "restaurons", "restaurez", "restaurent"],
+        "ind.imp": ["restaurais", "restaurais", "restaurait", "restaurions", "restauriez", "restauraient"],
+        "ind.ps": ["restaurai", "restauras", "restaura", "restaurâmes", "restaurâtes", "restaurèrent"],
+        "ind.fut": ["restaurerai", "restaureras", "restaurera", "restaurerons", "restaurerez", "restaureront"],
+        "cond.pres": ["restaurerais", "restaurerais", "restaurerait", "restaurerions", "restaureriez", "restaureraient"],
+        "subj.pres": ["restaure", "restaures", "restaure", "restaurions", "restauriez", "restaurent"],
+        "subj.imp": ["restaurasse", "restaurasses", "restaurât", "restaurassions", "restaurassiez", "restaurassent"],
+        "imper.pres": ["restaure", "restaurons", "restaurez"]
+      },
+      "participe_present": "restaurant",
+      "participe_passe": ["restauré", "restaurée", "restaurés", "restaurées"]
     }
   ]
 }
