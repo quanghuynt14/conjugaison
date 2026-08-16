@@ -7113,6 +7113,26 @@
       },
       "participe_present": "transformant",
       "participe_passe": ["transformé", "transformée", "transformés", "transformées"]
+    },
+    {
+      "id": "enfuir",
+      "infinitif": "enfuir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’enfuis » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["enfuis", "enfuis", "enfuit", "enfuyons", "enfuyez", "enfuient"],
+        "ind.imp": ["enfuyais", "enfuyais", "enfuyait", "enfuyions", "enfuyiez", "enfuyaient"],
+        "ind.ps": ["enfuis", "enfuis", "enfuit", "enfuîmes", "enfuîtes", "enfuirent"],
+        "ind.fut": ["enfuirai", "enfuiras", "enfuira", "enfuirons", "enfuirez", "enfuiront"],
+        "cond.pres": ["enfuirais", "enfuirais", "enfuirait", "enfuirions", "enfuiriez", "enfuiraient"],
+        "subj.pres": ["enfuie", "enfuies", "enfuie", "enfuyions", "enfuyiez", "enfuient"],
+        "subj.imp": ["enfuisse", "enfuisses", "enfuît", "enfuissions", "enfuissiez", "enfuissent"],
+        "imper.pres": ["enfuis", "enfuyons", "enfuyez"]
+      },
+      "participe_present": "enfuyant",
+      "participe_passe": ["enfui", "enfuie", "enfuis", "enfuies"]
     }
   ]
 }
