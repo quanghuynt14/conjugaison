@@ -34414,6 +34414,24 @@
       },
       "participe_present": "rabaissant",
       "participe_passe": ["rabaissé", "rabaissée", "rabaissés", "rabaissées"]
+    },
+    {
+      "id": "décimer",
+      "infinitif": "décimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décime", "décimes", "décime", "décimons", "décimez", "déciment"],
+        "ind.imp": ["décimais", "décimais", "décimait", "décimions", "décimiez", "décimaient"],
+        "ind.ps": ["décimai", "décimas", "décima", "décimâmes", "décimâtes", "décimèrent"],
+        "ind.fut": ["décimerai", "décimeras", "décimera", "décimerons", "décimerez", "décimeront"],
+        "cond.pres": ["décimerais", "décimerais", "décimerait", "décimerions", "décimeriez", "décimeraient"],
+        "subj.pres": ["décime", "décimes", "décime", "décimions", "décimiez", "déciment"],
+        "subj.imp": ["décimasse", "décimasses", "décimât", "décimassions", "décimassiez", "décimassent"],
+        "imper.pres": ["décime", "décimons", "décimez"]
+      },
+      "participe_present": "décimant",
+      "participe_passe": ["décimé", "décimée", "décimés", "décimées"]
     }
   ]
 }
