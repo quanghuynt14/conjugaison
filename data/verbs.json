@@ -2914,6 +2914,24 @@
       },
       "participe_present": "apercevant",
       "participe_passe": ["aperçu", "aperçue", "aperçus", "aperçues"]
+    },
+    {
+      "id": "ignorer",
+      "infinitif": "ignorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ignore", "ignores", "ignore", "ignorons", "ignorez", "ignorent"],
+        "ind.imp": ["ignorais", "ignorais", "ignorait", "ignorions", "ignoriez", "ignoraient"],
+        "ind.ps": ["ignorai", "ignoras", "ignora", "ignorâmes", "ignorâtes", "ignorèrent"],
+        "ind.fut": ["ignorerai", "ignoreras", "ignorera", "ignorerons", "ignorerez", "ignoreront"],
+        "cond.pres": ["ignorerais", "ignorerais", "ignorerait", "ignorerions", "ignoreriez", "ignoreraient"],
+        "subj.pres": ["ignore", "ignores", "ignore", "ignorions", "ignoriez", "ignorent"],
+        "subj.imp": ["ignorasse", "ignorasses", "ignorât", "ignorassions", "ignorassiez", "ignorassent"],
+        "imper.pres": ["ignore", "ignorons", "ignorez"]
+      },
+      "participe_present": "ignorant",
+      "participe_passe": ["ignoré", "ignorée", "ignorés", "ignorées"]
     }
   ]
 }
