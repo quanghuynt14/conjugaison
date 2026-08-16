@@ -8362,6 +8362,24 @@
       },
       "participe_present": "subissant",
       "participe_passe": ["subi", "subie", "subis", "subies"]
+    },
+    {
+      "id": "franchir",
+      "infinitif": "franchir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["franchis", "franchis", "franchit", "franchissons", "franchissez", "franchissent"],
+        "ind.imp": ["franchissais", "franchissais", "franchissait", "franchissions", "franchissiez", "franchissaient"],
+        "ind.ps": ["franchis", "franchis", "franchit", "franchîmes", "franchîtes", "franchirent"],
+        "ind.fut": ["franchirai", "franchiras", "franchira", "franchirons", "franchirez", "franchiront"],
+        "cond.pres": ["franchirais", "franchirais", "franchirait", "franchirions", "franchiriez", "franchiraient"],
+        "subj.pres": ["franchisse", "franchisses", "franchisse", "franchissions", "franchissiez", "franchissent"],
+        "subj.imp": ["franchisse", "franchisses", "franchît", "franchissions", "franchissiez", "franchissent"],
+        "imper.pres": ["franchis", "franchissons", "franchissez"]
+      },
+      "participe_present": "franchissant",
+      "participe_passe": ["franchi", "franchie", "franchis", "franchies"]
     }
   ]
 }
