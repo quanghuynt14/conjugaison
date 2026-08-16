@@ -36005,6 +36005,24 @@
       },
       "participe_present": "prétextant",
       "participe_passe": ["prétexté", "prétextée", "prétextés", "prétextées"]
+    },
+    {
+      "id": "espacer",
+      "infinitif": "espacer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["espace", "espaces", "espace", "espaçons", "espacez", "espacent"],
+        "ind.imp": ["espaçais", "espaçais", "espaçait", "espacions", "espaciez", "espaçaient"],
+        "ind.ps": ["espaçai", "espaças", "espaça", "espaçâmes", "espaçâtes", "espacèrent"],
+        "ind.fut": ["espacerai", "espaceras", "espacera", "espacerons", "espacerez", "espaceront"],
+        "cond.pres": ["espacerais", "espacerais", "espacerait", "espacerions", "espaceriez", "espaceraient"],
+        "subj.pres": ["espace", "espaces", "espace", "espacions", "espaciez", "espacent"],
+        "subj.imp": ["espaçasse", "espaçasses", "espaçât", "espaçassions", "espaçassiez", "espaçassent"],
+        "imper.pres": ["espace", "espaçons", "espacez"]
+      },
+      "participe_present": "espaçant",
+      "participe_passe": ["espacé", "espacée", "espacés", "espacées"]
     }
   ]
 }
