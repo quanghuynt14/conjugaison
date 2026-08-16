@@ -8073,6 +8073,24 @@
       },
       "participe_present": "remuant",
       "participe_passe": ["remué", "remuée", "remués", "remuées"]
+    },
+    {
+      "id": "bosser",
+      "infinitif": "bosser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bosse", "bosses", "bosse", "bossons", "bossez", "bossent"],
+        "ind.imp": ["bossais", "bossais", "bossait", "bossions", "bossiez", "bossaient"],
+        "ind.ps": ["bossai", "bossas", "bossa", "bossâmes", "bossâtes", "bossèrent"],
+        "ind.fut": ["bosserai", "bosseras", "bossera", "bosserons", "bosserez", "bosseront"],
+        "cond.pres": ["bosserais", "bosserais", "bosserait", "bosserions", "bosseriez", "bosseraient"],
+        "subj.pres": ["bosse", "bosses", "bosse", "bossions", "bossiez", "bossent"],
+        "subj.imp": ["bossasse", "bossasses", "bossât", "bossassions", "bossassiez", "bossassent"],
+        "imper.pres": ["bosse", "bossons", "bossez"]
+      },
+      "participe_present": "bossant",
+      "participe_passe": ["bossé", "bossée", "bossés", "bossées"]
     }
   ]
 }
