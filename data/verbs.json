@@ -28395,6 +28395,24 @@
       },
       "participe_present": "pataugeant",
       "participe_passe": ["pataugé", null, null, null]
+    },
+    {
+      "id": "confectionner",
+      "infinitif": "confectionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["confectionne", "confectionnes", "confectionne", "confectionnons", "confectionnez", "confectionnent"],
+        "ind.imp": ["confectionnais", "confectionnais", "confectionnait", "confectionnions", "confectionniez", "confectionnaient"],
+        "ind.ps": ["confectionnai", "confectionnas", "confectionna", "confectionnâmes", "confectionnâtes", "confectionnèrent"],
+        "ind.fut": ["confectionnerai", "confectionneras", "confectionnera", "confectionnerons", "confectionnerez", "confectionneront"],
+        "cond.pres": ["confectionnerais", "confectionnerais", "confectionnerait", "confectionnerions", "confectionneriez", "confectionneraient"],
+        "subj.pres": ["confectionne", "confectionnes", "confectionne", "confectionnions", "confectionniez", "confectionnent"],
+        "subj.imp": ["confectionnasse", "confectionnasses", "confectionnât", "confectionnassions", "confectionnassiez", "confectionnassent"],
+        "imper.pres": ["confectionne", "confectionnons", "confectionnez"]
+      },
+      "participe_present": "confectionnant",
+      "participe_passe": ["confectionné", "confectionnée", "confectionnés", "confectionnées"]
     }
   ]
 }
