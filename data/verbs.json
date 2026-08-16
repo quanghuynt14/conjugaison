@@ -36077,6 +36077,24 @@
       },
       "participe_present": "dépeignant",
       "participe_passe": ["dépeint", "dépeinte", "dépeints", "dépeintes"]
+    },
+    {
+      "id": "sauvegarder",
+      "infinitif": "sauvegarder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sauvegarde", "sauvegardes", "sauvegarde", "sauvegardons", "sauvegardez", "sauvegardent"],
+        "ind.imp": ["sauvegardais", "sauvegardais", "sauvegardait", "sauvegardions", "sauvegardiez", "sauvegardaient"],
+        "ind.ps": ["sauvegardai", "sauvegardas", "sauvegarda", "sauvegardâmes", "sauvegardâtes", "sauvegardèrent"],
+        "ind.fut": ["sauvegarderai", "sauvegarderas", "sauvegardera", "sauvegarderons", "sauvegarderez", "sauvegarderont"],
+        "cond.pres": ["sauvegarderais", "sauvegarderais", "sauvegarderait", "sauvegarderions", "sauvegarderiez", "sauvegarderaient"],
+        "subj.pres": ["sauvegarde", "sauvegardes", "sauvegarde", "sauvegardions", "sauvegardiez", "sauvegardent"],
+        "subj.imp": ["sauvegardasse", "sauvegardasses", "sauvegardât", "sauvegardassions", "sauvegardassiez", "sauvegardassent"],
+        "imper.pres": ["sauvegarde", "sauvegardons", "sauvegardez"]
+      },
+      "participe_present": "sauvegardant",
+      "participe_passe": ["sauvegardé", "sauvegardée", "sauvegardés", "sauvegardées"]
     }
   ]
 }
