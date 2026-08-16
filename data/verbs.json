@@ -23309,6 +23309,24 @@
       },
       "participe_present": "décrétant",
       "participe_passe": ["décrété", "décrétée", "décrétés", "décrétées"]
+    },
+    {
+      "id": "miser",
+      "infinitif": "miser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mise", "mises", "mise", "misons", "misez", "misent"],
+        "ind.imp": ["misais", "misais", "misait", "misions", "misiez", "misaient"],
+        "ind.ps": ["misai", "misas", "misa", "misâmes", "misâtes", "misèrent"],
+        "ind.fut": ["miserai", "miseras", "misera", "miserons", "miserez", "miseront"],
+        "cond.pres": ["miserais", "miserais", "miserait", "miserions", "miseriez", "miseraient"],
+        "subj.pres": ["mise", "mises", "mise", "misions", "misiez", "misent"],
+        "subj.imp": ["misasse", "misasses", "misât", "misassions", "misassiez", "misassent"],
+        "imper.pres": ["mise", "misons", "misez"]
+      },
+      "participe_present": "misant",
+      "participe_passe": ["misé", "misée", "misés", "misées"]
     }
   ]
 }
