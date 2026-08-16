@@ -34927,6 +34927,26 @@
       },
       "participe_present": "remédiant",
       "participe_passe": ["remédié", null, null, null]
+    },
+    {
+      "id": "raviser",
+      "infinitif": "raviser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me ravise » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["ravise", "ravises", "ravise", "ravisons", "ravisez", "ravisent"],
+        "ind.imp": ["ravisais", "ravisais", "ravisait", "ravisions", "ravisiez", "ravisaient"],
+        "ind.ps": ["ravisai", "ravisas", "ravisa", "ravisâmes", "ravisâtes", "ravisèrent"],
+        "ind.fut": ["raviserai", "raviseras", "ravisera", "raviserons", "raviserez", "raviseront"],
+        "cond.pres": ["raviserais", "raviserais", "raviserait", "raviserions", "raviseriez", "raviseraient"],
+        "subj.pres": ["ravise", "ravises", "ravise", "ravisions", "ravisiez", "ravisent"],
+        "subj.imp": ["ravisasse", "ravisasses", "ravisât", "ravisassions", "ravisassiez", "ravisassent"],
+        "imper.pres": ["ravise", "ravisons", "ravisez"]
+      },
+      "participe_present": "ravisant",
+      "participe_passe": ["ravisé", "ravisée", "ravisés", "ravisées"]
     }
   ]
 }
