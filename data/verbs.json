@@ -3130,6 +3130,24 @@
       },
       "participe_present": "rêvant",
       "participe_passe": ["rêvé", "rêvée", "rêvés", "rêvées"]
+    },
+    {
+      "id": "tromper",
+      "infinitif": "tromper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trompe", "trompes", "trompe", "trompons", "trompez", "trompent"],
+        "ind.imp": ["trompais", "trompais", "trompait", "trompions", "trompiez", "trompaient"],
+        "ind.ps": ["trompai", "trompas", "trompa", "trompâmes", "trompâtes", "trompèrent"],
+        "ind.fut": ["tromperai", "tromperas", "trompera", "tromperons", "tromperez", "tromperont"],
+        "cond.pres": ["tromperais", "tromperais", "tromperait", "tromperions", "tromperiez", "tromperaient"],
+        "subj.pres": ["trompe", "trompes", "trompe", "trompions", "trompiez", "trompent"],
+        "subj.imp": ["trompasse", "trompasses", "trompât", "trompassions", "trompassiez", "trompassent"],
+        "imper.pres": ["trompe", "trompons", "trompez"]
+      },
+      "participe_present": "trompant",
+      "participe_passe": ["trompé", "trompée", "trompés", "trompées"]
     }
   ]
 }
