@@ -24842,6 +24842,24 @@
       },
       "participe_present": "daignant",
       "participe_passe": ["daigné", "daignée", "daignés", "daignées"]
+    },
+    {
+      "id": "réprimer",
+      "infinitif": "réprimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réprime", "réprimes", "réprime", "réprimons", "réprimez", "répriment"],
+        "ind.imp": ["réprimais", "réprimais", "réprimait", "réprimions", "réprimiez", "réprimaient"],
+        "ind.ps": ["réprimai", "réprimas", "réprima", "réprimâmes", "réprimâtes", "réprimèrent"],
+        "ind.fut": ["réprimerai", "réprimeras", "réprimera", "réprimerons", "réprimerez", "réprimeront"],
+        "cond.pres": ["réprimerais", "réprimerais", "réprimerait", "réprimerions", "réprimeriez", "réprimeraient"],
+        "subj.pres": ["réprime", "réprimes", "réprime", "réprimions", "réprimiez", "répriment"],
+        "subj.imp": ["réprimasse", "réprimasses", "réprimât", "réprimassions", "réprimassiez", "réprimassent"],
+        "imper.pres": ["réprime", "réprimons", "réprimez"]
+      },
+      "participe_present": "réprimant",
+      "participe_passe": ["réprimé", "réprimée", "réprimés", "réprimées"]
     }
   ]
 }
