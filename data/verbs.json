@@ -18132,6 +18132,24 @@
       },
       "participe_present": "peuplant",
       "participe_passe": ["peuplé", "peuplée", "peuplés", "peuplées"]
+    },
+    {
+      "id": "diminuer",
+      "infinitif": "diminuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["diminue", "diminues", "diminue", "diminuons", "diminuez", "diminuent"],
+        "ind.imp": ["diminuais", "diminuais", "diminuait", "diminuions", "diminuiez", "diminuaient"],
+        "ind.ps": ["diminuai", "diminuas", "diminua", "diminuâmes", "diminuâtes", "diminuèrent"],
+        "ind.fut": ["diminuerai", "diminueras", "diminuera", "diminuerons", "diminuerez", "diminueront"],
+        "cond.pres": ["diminuerais", "diminuerais", "diminuerait", "diminuerions", "diminueriez", "diminueraient"],
+        "subj.pres": ["diminue", "diminues", "diminue", "diminuions", "diminuiez", "diminuent"],
+        "subj.imp": ["diminuasse", "diminuasses", "diminuât", "diminuassions", "diminuassiez", "diminuassent"],
+        "imper.pres": ["diminue", "diminuons", "diminuez"]
+      },
+      "participe_present": "diminuant",
+      "participe_passe": ["diminué", "diminuée", "diminués", "diminuées"]
     }
   ]
 }
