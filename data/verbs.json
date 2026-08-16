@@ -5772,6 +5772,24 @@
       },
       "participe_present": "plaignant",
       "participe_passe": ["plaint", "plainte", "plaints", "plaintes"]
+    },
+    {
+      "id": "taper",
+      "infinitif": "taper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tape", "tapes", "tape", "tapons", "tapez", "tapent"],
+        "ind.imp": ["tapais", "tapais", "tapait", "tapions", "tapiez", "tapaient"],
+        "ind.ps": ["tapai", "tapas", "tapa", "tapâmes", "tapâtes", "tapèrent"],
+        "ind.fut": ["taperai", "taperas", "tapera", "taperons", "taperez", "taperont"],
+        "cond.pres": ["taperais", "taperais", "taperait", "taperions", "taperiez", "taperaient"],
+        "subj.pres": ["tape", "tapes", "tape", "tapions", "tapiez", "tapent"],
+        "subj.imp": ["tapasse", "tapasses", "tapât", "tapassions", "tapassiez", "tapassent"],
+        "imper.pres": ["tape", "tapons", "tapez"]
+      },
+      "participe_present": "tapant",
+      "participe_passe": ["tapé", "tapée", "tapés", "tapées"]
     }
   ]
 }
