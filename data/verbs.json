@@ -26534,6 +26534,24 @@
       },
       "participe_present": "dérapant",
       "participe_passe": ["dérapé", null, null, null]
+    },
+    {
+      "id": "parfumer",
+      "infinitif": "parfumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["parfume", "parfumes", "parfume", "parfumons", "parfumez", "parfument"],
+        "ind.imp": ["parfumais", "parfumais", "parfumait", "parfumions", "parfumiez", "parfumaient"],
+        "ind.ps": ["parfumai", "parfumas", "parfuma", "parfumâmes", "parfumâtes", "parfumèrent"],
+        "ind.fut": ["parfumerai", "parfumeras", "parfumera", "parfumerons", "parfumerez", "parfumeront"],
+        "cond.pres": ["parfumerais", "parfumerais", "parfumerait", "parfumerions", "parfumeriez", "parfumeraient"],
+        "subj.pres": ["parfume", "parfumes", "parfume", "parfumions", "parfumiez", "parfument"],
+        "subj.imp": ["parfumasse", "parfumasses", "parfumât", "parfumassions", "parfumassiez", "parfumassent"],
+        "imper.pres": ["parfume", "parfumons", "parfumez"]
+      },
+      "participe_present": "parfumant",
+      "participe_passe": ["parfumé", "parfumée", "parfumés", "parfumées"]
     }
   ]
 }
