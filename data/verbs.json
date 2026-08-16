@@ -29911,6 +29911,24 @@
       },
       "participe_present": "déboutonnant",
       "participe_passe": ["déboutonné", "déboutonnée", "déboutonnés", "déboutonnées"]
+    },
+    {
+      "id": "ligoter",
+      "infinitif": "ligoter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ligote", "ligotes", "ligote", "ligotons", "ligotez", "ligotent"],
+        "ind.imp": ["ligotais", "ligotais", "ligotait", "ligotions", "ligotiez", "ligotaient"],
+        "ind.ps": ["ligotai", "ligotas", "ligota", "ligotâmes", "ligotâtes", "ligotèrent"],
+        "ind.fut": ["ligoterai", "ligoteras", "ligotera", "ligoterons", "ligoterez", "ligoteront"],
+        "cond.pres": ["ligoterais", "ligoterais", "ligoterait", "ligoterions", "ligoteriez", "ligoteraient"],
+        "subj.pres": ["ligote", "ligotes", "ligote", "ligotions", "ligotiez", "ligotent"],
+        "subj.imp": ["ligotasse", "ligotasses", "ligotât", "ligotassions", "ligotassiez", "ligotassent"],
+        "imper.pres": ["ligote", "ligotons", "ligotez"]
+      },
+      "participe_present": "ligotant",
+      "participe_passe": ["ligoté", "ligotée", "ligotés", "ligotées"]
     }
   ]
 }
