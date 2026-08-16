@@ -33576,6 +33576,24 @@
       },
       "participe_present": "cramant",
       "participe_passe": ["cramé", "cramée", "cramés", "cramées"]
+    },
+    {
+      "id": "acclamer",
+      "infinitif": "acclamer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["acclame", "acclames", "acclame", "acclamons", "acclamez", "acclament"],
+        "ind.imp": ["acclamais", "acclamais", "acclamait", "acclamions", "acclamiez", "acclamaient"],
+        "ind.ps": ["acclamai", "acclamas", "acclama", "acclamâmes", "acclamâtes", "acclamèrent"],
+        "ind.fut": ["acclamerai", "acclameras", "acclamera", "acclamerons", "acclamerez", "acclameront"],
+        "cond.pres": ["acclamerais", "acclamerais", "acclamerait", "acclamerions", "acclameriez", "acclameraient"],
+        "subj.pres": ["acclame", "acclames", "acclame", "acclamions", "acclamiez", "acclament"],
+        "subj.imp": ["acclamasse", "acclamasses", "acclamât", "acclamassions", "acclamassiez", "acclamassent"],
+        "imper.pres": ["acclame", "acclamons", "acclamez"]
+      },
+      "participe_present": "acclamant",
+      "participe_passe": ["acclamé", "acclamée", "acclamés", "acclamées"]
     }
   ]
 }
