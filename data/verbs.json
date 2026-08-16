@@ -35861,6 +35861,24 @@
       },
       "participe_present": "décampant",
       "participe_passe": ["décampé", null, null, null]
+    },
+    {
+      "id": "oeuvrer",
+      "infinitif": "oeuvrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["oeuvre", "oeuvres", "oeuvre", "oeuvrons", "oeuvrez", "oeuvrent"],
+        "ind.imp": ["oeuvrais", "oeuvrais", "oeuvrait", "oeuvrions", "oeuvriez", "oeuvraient"],
+        "ind.ps": ["oeuvrai", "oeuvras", "oeuvra", "oeuvrâmes", "oeuvrâtes", "oeuvrèrent"],
+        "ind.fut": ["oeuvrerai", "oeuvreras", "oeuvrera", "oeuvrerons", "oeuvrerez", "oeuvreront"],
+        "cond.pres": ["oeuvrerais", "oeuvrerais", "oeuvrerait", "oeuvrerions", "oeuvreriez", "oeuvreraient"],
+        "subj.pres": ["oeuvre", "oeuvres", "oeuvre", "oeuvrions", "oeuvriez", "oeuvrent"],
+        "subj.imp": ["oeuvrasse", "oeuvrasses", "oeuvrât", "oeuvrassions", "oeuvrassiez", "oeuvrassent"],
+        "imper.pres": ["oeuvre", "oeuvrons", "oeuvrez"]
+      },
+      "participe_present": "oeuvrant",
+      "participe_passe": ["oeuvré", "oeuvrée", "oeuvrés", "oeuvrées"]
     }
   ]
 }
