@@ -4432,6 +4432,24 @@
       },
       "participe_present": "étonnant",
       "participe_passe": ["étonné", "étonnée", "étonnés", "étonnées"]
+    },
+    {
+      "id": "attaquer",
+      "infinitif": "attaquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["attaque", "attaques", "attaque", "attaquons", "attaquez", "attaquent"],
+        "ind.imp": ["attaquais", "attaquais", "attaquait", "attaquions", "attaquiez", "attaquaient"],
+        "ind.ps": ["attaquai", "attaquas", "attaqua", "attaquâmes", "attaquâtes", "attaquèrent"],
+        "ind.fut": ["attaquerai", "attaqueras", "attaquera", "attaquerons", "attaquerez", "attaqueront"],
+        "cond.pres": ["attaquerais", "attaquerais", "attaquerait", "attaquerions", "attaqueriez", "attaqueraient"],
+        "subj.pres": ["attaque", "attaques", "attaque", "attaquions", "attaquiez", "attaquent"],
+        "subj.imp": ["attaquasse", "attaquasses", "attaquât", "attaquassions", "attaquassiez", "attaquassent"],
+        "imper.pres": ["attaque", "attaquons", "attaquez"]
+      },
+      "participe_present": "attaquant",
+      "participe_passe": ["attaqué", "attaquée", "attaqués", "attaquées"]
     }
   ]
 }
