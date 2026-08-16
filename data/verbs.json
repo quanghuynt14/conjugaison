@@ -28085,6 +28085,24 @@
       },
       "participe_present": "somnolant",
       "participe_passe": ["somnolé", null, null, null]
+    },
+    {
+      "id": "exterminer",
+      "infinitif": "exterminer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["extermine", "extermines", "extermine", "exterminons", "exterminez", "exterminent"],
+        "ind.imp": ["exterminais", "exterminais", "exterminait", "exterminions", "exterminiez", "exterminaient"],
+        "ind.ps": ["exterminai", "exterminas", "extermina", "exterminâmes", "exterminâtes", "exterminèrent"],
+        "ind.fut": ["exterminerai", "extermineras", "exterminera", "exterminerons", "exterminerez", "extermineront"],
+        "cond.pres": ["exterminerais", "exterminerais", "exterminerait", "exterminerions", "extermineriez", "extermineraient"],
+        "subj.pres": ["extermine", "extermines", "extermine", "exterminions", "exterminiez", "exterminent"],
+        "subj.imp": ["exterminasse", "exterminasses", "exterminât", "exterminassions", "exterminassiez", "exterminassent"],
+        "imper.pres": ["extermine", "exterminons", "exterminez"]
+      },
+      "participe_present": "exterminant",
+      "participe_passe": ["exterminé", "exterminée", "exterminés", "exterminées"]
     }
   ]
 }
