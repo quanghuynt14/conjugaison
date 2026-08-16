@@ -19451,6 +19451,24 @@
       },
       "participe_present": "indignant",
       "participe_passe": ["indigné", "indignée", "indignés", "indignées"]
+    },
+    {
+      "id": "tasser",
+      "infinitif": "tasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tasse", "tasses", "tasse", "tassons", "tassez", "tassent"],
+        "ind.imp": ["tassais", "tassais", "tassait", "tassions", "tassiez", "tassaient"],
+        "ind.ps": ["tassai", "tassas", "tassa", "tassâmes", "tassâtes", "tassèrent"],
+        "ind.fut": ["tasserai", "tasseras", "tassera", "tasserons", "tasserez", "tasseront"],
+        "cond.pres": ["tasserais", "tasserais", "tasserait", "tasserions", "tasseriez", "tasseraient"],
+        "subj.pres": ["tasse", "tasses", "tasse", "tassions", "tassiez", "tassent"],
+        "subj.imp": ["tassasse", "tassasses", "tassât", "tassassions", "tassassiez", "tassassent"],
+        "imper.pres": ["tasse", "tassons", "tassez"]
+      },
+      "participe_present": "tassant",
+      "participe_passe": ["tassé", "tassée", "tassés", "tassées"]
     }
   ]
 }
