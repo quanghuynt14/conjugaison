@@ -32264,6 +32264,25 @@
       },
       "participe_present": "désobéissant",
       "participe_passe": ["désobéi", "désobéie", "désobéis", "désobéies"]
+    },
+    {
+      "id": "siéger",
+      "infinitif": "siéger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je siégerai » ou « je siègerai ». Les deux sont admises. Le participe passé « siégé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["siège", "sièges", "siège", "siégeons", "siégez", "siègent"],
+        "ind.imp": ["siégeais", "siégeais", "siégeait", "siégions", "siégiez", "siégeaient"],
+        "ind.ps": ["siégeai", "siégeas", "siégea", "siégeâmes", "siégeâtes", "siégèrent"],
+        "ind.fut": [["siégerai", "siègerai"], ["siégeras", "siègeras"], ["siégera", "siègera"], ["siégerons", "siègerons"], ["siégerez", "siègerez"], ["siégeront", "siègeront"]],
+        "cond.pres": [["siégerais", "siègerais"], ["siégerais", "siègerais"], ["siégerait", "siègerait"], ["siégerions", "siègerions"], ["siégeriez", "siègeriez"], ["siégeraient", "siègeraient"]],
+        "subj.pres": ["siège", "sièges", "siège", "siégions", "siégiez", "siègent"],
+        "subj.imp": ["siégeasse", "siégeasses", "siégeât", "siégeassions", "siégeassiez", "siégeassent"],
+        "imper.pres": ["siège", "siégeons", "siégez"]
+      },
+      "participe_present": "siégeant",
+      "participe_passe": ["siégé", null, null, null]
     }
   ]
 }
