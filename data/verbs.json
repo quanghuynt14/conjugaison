@@ -33630,6 +33630,24 @@
       },
       "participe_present": "hospitalisant",
       "participe_passe": ["hospitalisé", "hospitalisée", "hospitalisés", "hospitalisées"]
+    },
+    {
+      "id": "retaper",
+      "infinitif": "retaper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["retape", "retapes", "retape", "retapons", "retapez", "retapent"],
+        "ind.imp": ["retapais", "retapais", "retapait", "retapions", "retapiez", "retapaient"],
+        "ind.ps": ["retapai", "retapas", "retapa", "retapâmes", "retapâtes", "retapèrent"],
+        "ind.fut": ["retaperai", "retaperas", "retapera", "retaperons", "retaperez", "retaperont"],
+        "cond.pres": ["retaperais", "retaperais", "retaperait", "retaperions", "retaperiez", "retaperaient"],
+        "subj.pres": ["retape", "retapes", "retape", "retapions", "retapiez", "retapent"],
+        "subj.imp": ["retapasse", "retapasses", "retapât", "retapassions", "retapassiez", "retapassent"],
+        "imper.pres": ["retape", "retapons", "retapez"]
+      },
+      "participe_present": "retapant",
+      "participe_passe": ["retapé", "retapée", "retapés", "retapées"]
     }
   ]
 }
