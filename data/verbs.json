@@ -16513,6 +16513,24 @@
       },
       "participe_present": "ménageant",
       "participe_passe": ["ménagé", "ménagée", "ménagés", "ménagées"]
+    },
+    {
+      "id": "revêtir",
+      "infinitif": "revêtir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["revêts", "revêts", "revêt", "revêtons", "revêtez", "revêtent"],
+        "ind.imp": ["revêtais", "revêtais", "revêtait", "revêtions", "revêtiez", "revêtaient"],
+        "ind.ps": ["revêtis", "revêtis", "revêtit", "revêtîmes", "revêtîtes", "revêtirent"],
+        "ind.fut": ["revêtirai", "revêtiras", "revêtira", "revêtirons", "revêtirez", "revêtiront"],
+        "cond.pres": ["revêtirais", "revêtirais", "revêtirait", "revêtirions", "revêtiriez", "revêtiraient"],
+        "subj.pres": ["revête", "revêtes", "revête", "revêtions", "revêtiez", "revêtent"],
+        "subj.imp": ["revêtisse", "revêtisses", "revêtît", "revêtissions", "revêtissiez", "revêtissent"],
+        "imper.pres": ["revêts", "revêtons", "revêtez"]
+      },
+      "participe_present": "revêtant",
+      "participe_passe": ["revêtu", "revêtue", "revêtus", "revêtues"]
     }
   ]
 }
