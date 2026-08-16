@@ -25990,6 +25990,24 @@
       },
       "participe_present": "rectifiant",
       "participe_passe": ["rectifié", "rectifiée", "rectifiés", "rectifiées"]
+    },
+    {
+      "id": "tinter",
+      "infinitif": "tinter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tinte", "tintes", "tinte", "tintons", "tintez", "tintent"],
+        "ind.imp": ["tintais", "tintais", "tintait", "tintions", "tintiez", "tintaient"],
+        "ind.ps": ["tintai", "tintas", "tinta", "tintâmes", "tintâtes", "tintèrent"],
+        "ind.fut": ["tinterai", "tinteras", "tintera", "tinterons", "tinterez", "tinteront"],
+        "cond.pres": ["tinterais", "tinterais", "tinterait", "tinterions", "tinteriez", "tinteraient"],
+        "subj.pres": ["tinte", "tintes", "tinte", "tintions", "tintiez", "tintent"],
+        "subj.imp": ["tintasse", "tintasses", "tintât", "tintassions", "tintassiez", "tintassent"],
+        "imper.pres": ["tinte", "tintons", "tintez"]
+      },
+      "participe_present": "tintant",
+      "participe_passe": ["tinté", "tintée", "tintés", "tintées"]
     }
   ]
 }
