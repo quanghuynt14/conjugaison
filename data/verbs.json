@@ -11699,6 +11699,24 @@
       },
       "participe_present": "échouant",
       "participe_passe": ["échoué", "échouée", "échoués", "échouées"]
+    },
+    {
+      "id": "autoriser",
+      "infinitif": "autoriser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["autorise", "autorises", "autorise", "autorisons", "autorisez", "autorisent"],
+        "ind.imp": ["autorisais", "autorisais", "autorisait", "autorisions", "autorisiez", "autorisaient"],
+        "ind.ps": ["autorisai", "autorisas", "autorisa", "autorisâmes", "autorisâtes", "autorisèrent"],
+        "ind.fut": ["autoriserai", "autoriseras", "autorisera", "autoriserons", "autoriserez", "autoriseront"],
+        "cond.pres": ["autoriserais", "autoriserais", "autoriserait", "autoriserions", "autoriseriez", "autoriseraient"],
+        "subj.pres": ["autorise", "autorises", "autorise", "autorisions", "autorisiez", "autorisent"],
+        "subj.imp": ["autorisasse", "autorisasses", "autorisât", "autorisassions", "autorisassiez", "autorisassent"],
+        "imper.pres": ["autorise", "autorisons", "autorisez"]
+      },
+      "participe_present": "autorisant",
+      "participe_passe": ["autorisé", "autorisée", "autorisés", "autorisées"]
     }
   ]
 }
