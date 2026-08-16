@@ -6261,6 +6261,24 @@
       },
       "participe_present": "rapportant",
       "participe_passe": ["rapporté", "rapportée", "rapportés", "rapportées"]
+    },
+    {
+      "id": "produire",
+      "infinitif": "produire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["produis", "produis", "produit", "produisons", "produisez", "produisent"],
+        "ind.imp": ["produisais", "produisais", "produisait", "produisions", "produisiez", "produisaient"],
+        "ind.ps": ["produisis", "produisis", "produisit", "produisîmes", "produisîtes", "produisirent"],
+        "ind.fut": ["produirai", "produiras", "produira", "produirons", "produirez", "produiront"],
+        "cond.pres": ["produirais", "produirais", "produirait", "produirions", "produiriez", "produiraient"],
+        "subj.pres": ["produise", "produises", "produise", "produisions", "produisiez", "produisent"],
+        "subj.imp": ["produisisse", "produisisses", "produisît", "produisissions", "produisissiez", "produisissent"],
+        "imper.pres": ["produis", "produisons", "produisez"]
+      },
+      "participe_present": "produisant",
+      "participe_passe": ["produit", "produite", "produits", "produites"]
     }
   ]
 }
