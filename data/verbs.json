@@ -35297,6 +35297,24 @@
       },
       "participe_present": "secondant",
       "participe_passe": ["secondé", "secondée", "secondés", "secondées"]
+    },
+    {
+      "id": "tarir",
+      "infinitif": "tarir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["taris", "taris", "tarit", "tarissons", "tarissez", "tarissent"],
+        "ind.imp": ["tarissais", "tarissais", "tarissait", "tarissions", "tarissiez", "tarissaient"],
+        "ind.ps": ["taris", "taris", "tarit", "tarîmes", "tarîtes", "tarirent"],
+        "ind.fut": ["tarirai", "tariras", "tarira", "tarirons", "tarirez", "tariront"],
+        "cond.pres": ["tarirais", "tarirais", "tarirait", "taririons", "taririez", "tariraient"],
+        "subj.pres": ["tarisse", "tarisses", "tarisse", "tarissions", "tarissiez", "tarissent"],
+        "subj.imp": ["tarisse", "tarisses", "tarît", "tarissions", "tarissiez", "tarissent"],
+        "imper.pres": ["taris", "tarissons", "tarissez"]
+      },
+      "participe_present": "tarissant",
+      "participe_passe": ["tari", "tarie", "taris", "taries"]
     }
   ]
 }
