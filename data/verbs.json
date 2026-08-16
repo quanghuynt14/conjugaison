@@ -19469,6 +19469,25 @@
       },
       "participe_present": "tassant",
       "participe_passe": ["tassé", "tassée", "tassés", "tassées"]
+    },
+    {
+      "id": "trinquer",
+      "infinitif": "trinquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « trinqué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["trinque", "trinques", "trinque", "trinquons", "trinquez", "trinquent"],
+        "ind.imp": ["trinquais", "trinquais", "trinquait", "trinquions", "trinquiez", "trinquaient"],
+        "ind.ps": ["trinquai", "trinquas", "trinqua", "trinquâmes", "trinquâtes", "trinquèrent"],
+        "ind.fut": ["trinquerai", "trinqueras", "trinquera", "trinquerons", "trinquerez", "trinqueront"],
+        "cond.pres": ["trinquerais", "trinquerais", "trinquerait", "trinquerions", "trinqueriez", "trinqueraient"],
+        "subj.pres": ["trinque", "trinques", "trinque", "trinquions", "trinquiez", "trinquent"],
+        "subj.imp": ["trinquasse", "trinquasses", "trinquât", "trinquassions", "trinquassiez", "trinquassent"],
+        "imper.pres": ["trinque", "trinquons", "trinquez"]
+      },
+      "participe_present": "trinquant",
+      "participe_passe": ["trinqué", null, null, null]
     }
   ]
 }
