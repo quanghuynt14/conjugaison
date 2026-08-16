@@ -9592,6 +9592,24 @@
       },
       "participe_present": "recherchant",
       "participe_passe": ["recherché", "recherchée", "recherchés", "recherchées"]
+    },
+    {
+      "id": "baigner",
+      "infinitif": "baigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["baigne", "baignes", "baigne", "baignons", "baignez", "baignent"],
+        "ind.imp": ["baignais", "baignais", "baignait", "baignions", "baigniez", "baignaient"],
+        "ind.ps": ["baignai", "baignas", "baigna", "baignâmes", "baignâtes", "baignèrent"],
+        "ind.fut": ["baignerai", "baigneras", "baignera", "baignerons", "baignerez", "baigneront"],
+        "cond.pres": ["baignerais", "baignerais", "baignerait", "baignerions", "baigneriez", "baigneraient"],
+        "subj.pres": ["baigne", "baignes", "baigne", "baignions", "baigniez", "baignent"],
+        "subj.imp": ["baignasse", "baignasses", "baignât", "baignassions", "baignassiez", "baignassent"],
+        "imper.pres": ["baigne", "baignons", "baignez"]
+      },
+      "participe_present": "baignant",
+      "participe_passe": ["baigné", "baignée", "baignés", "baignées"]
     }
   ]
 }
