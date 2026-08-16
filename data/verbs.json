@@ -19233,6 +19233,24 @@
       },
       "participe_present": "refilant",
       "participe_passe": ["refilé", "refilée", "refilés", "refilées"]
+    },
+    {
+      "id": "définir",
+      "infinitif": "définir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["définis", "définis", "définit", "définissons", "définissez", "définissent"],
+        "ind.imp": ["définissais", "définissais", "définissait", "définissions", "définissiez", "définissaient"],
+        "ind.ps": ["définis", "définis", "définit", "définîmes", "définîtes", "définirent"],
+        "ind.fut": ["définirai", "définiras", "définira", "définirons", "définirez", "définiront"],
+        "cond.pres": ["définirais", "définirais", "définirait", "définirions", "définiriez", "définiraient"],
+        "subj.pres": ["définisse", "définisses", "définisse", "définissions", "définissiez", "définissent"],
+        "subj.imp": ["définisse", "définisses", "définît", "définissions", "définissiez", "définissent"],
+        "imper.pres": ["définis", "définissons", "définissez"]
+      },
+      "participe_present": "définissant",
+      "participe_passe": ["défini", "définie", "définis", "définies"]
     }
   ]
 }
