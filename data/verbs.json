@@ -28504,6 +28504,25 @@
       },
       "participe_present": "croulant",
       "participe_passe": ["croulé", null, null, null]
+    },
+    {
+      "id": "léguer",
+      "infinitif": "léguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je léguerai » ou « je lèguerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["lègue", "lègues", "lègue", "léguons", "léguez", "lèguent"],
+        "ind.imp": ["léguais", "léguais", "léguait", "léguions", "léguiez", "léguaient"],
+        "ind.ps": ["léguai", "léguas", "légua", "léguâmes", "léguâtes", "léguèrent"],
+        "ind.fut": [["léguerai", "lèguerai"], ["légueras", "lègueras"], ["léguera", "lèguera"], ["léguerons", "lèguerons"], ["léguerez", "lèguerez"], ["légueront", "lègueront"]],
+        "cond.pres": [["léguerais", "lèguerais"], ["léguerais", "lèguerais"], ["léguerait", "lèguerait"], ["léguerions", "lèguerions"], ["légueriez", "lègueriez"], ["légueraient", "lègueraient"]],
+        "subj.pres": ["lègue", "lègues", "lègue", "léguions", "léguiez", "lèguent"],
+        "subj.imp": ["léguasse", "léguasses", "léguât", "léguassions", "léguassiez", "léguassent"],
+        "imper.pres": ["lègue", "léguons", "léguez"]
+      },
+      "participe_present": "léguant",
+      "participe_passe": ["légué", "léguée", "légués", "léguées"]
     }
   ]
 }
