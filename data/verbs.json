@@ -35076,6 +35076,24 @@
       },
       "participe_present": "rétractant",
       "participe_passe": ["rétracté", "rétractée", "rétractés", "rétractées"]
+    },
+    {
+      "id": "dilater",
+      "infinitif": "dilater",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dilate", "dilates", "dilate", "dilatons", "dilatez", "dilatent"],
+        "ind.imp": ["dilatais", "dilatais", "dilatait", "dilations", "dilatiez", "dilataient"],
+        "ind.ps": ["dilatai", "dilatas", "dilata", "dilatâmes", "dilatâtes", "dilatèrent"],
+        "ind.fut": ["dilaterai", "dilateras", "dilatera", "dilaterons", "dilaterez", "dilateront"],
+        "cond.pres": ["dilaterais", "dilaterais", "dilaterait", "dilaterions", "dilateriez", "dilateraient"],
+        "subj.pres": ["dilate", "dilates", "dilate", "dilations", "dilatiez", "dilatent"],
+        "subj.imp": ["dilatasse", "dilatasses", "dilatât", "dilatassions", "dilatassiez", "dilatassent"],
+        "imper.pres": ["dilate", "dilatons", "dilatez"]
+      },
+      "participe_present": "dilatant",
+      "participe_passe": ["dilaté", "dilatée", "dilatés", "dilatées"]
     }
   ]
 }
