@@ -2242,6 +2242,24 @@
       },
       "participe_present": "permettant",
       "participe_passe": ["permis", "permise", "permis", "permises"]
+    },
+    {
+      "id": "crier",
+      "infinitif": "crier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["crie", "cries", "crie", "crions", "criez", "crient"],
+        "ind.imp": ["criais", "criais", "criait", "criions", "criiez", "criaient"],
+        "ind.ps": ["criai", "crias", "cria", "criâmes", "criâtes", "crièrent"],
+        "ind.fut": ["crierai", "crieras", "criera", "crierons", "crierez", "crieront"],
+        "cond.pres": ["crierais", "crierais", "crierait", "crierions", "crieriez", "crieraient"],
+        "subj.pres": ["crie", "cries", "crie", "criions", "criiez", "crient"],
+        "subj.imp": ["criasse", "criasses", "criât", "criassions", "criassiez", "criassent"],
+        "imper.pres": ["crie", "crions", "criez"]
+      },
+      "participe_present": "criant",
+      "participe_passe": ["crié", "criée", "criés", "criées"]
     }
   ]
 }
