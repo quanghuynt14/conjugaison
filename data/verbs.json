@@ -19106,6 +19106,24 @@
       },
       "participe_present": "exaspérant",
       "participe_passe": ["exaspéré", "exaspérée", "exaspérés", "exaspérées"]
+    },
+    {
+      "id": "caler",
+      "infinitif": "caler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cale", "cales", "cale", "calons", "calez", "calent"],
+        "ind.imp": ["calais", "calais", "calait", "calions", "caliez", "calaient"],
+        "ind.ps": ["calai", "calas", "cala", "calâmes", "calâtes", "calèrent"],
+        "ind.fut": ["calerai", "caleras", "calera", "calerons", "calerez", "caleront"],
+        "cond.pres": ["calerais", "calerais", "calerait", "calerions", "caleriez", "caleraient"],
+        "subj.pres": ["cale", "cales", "cale", "calions", "caliez", "calent"],
+        "subj.imp": ["calasse", "calasses", "calât", "calassions", "calassiez", "calassent"],
+        "imper.pres": ["cale", "calons", "calez"]
+      },
+      "participe_present": "calant",
+      "participe_passe": ["calé", "calée", "calés", "calées"]
     }
   ]
 }
