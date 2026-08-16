@@ -32575,6 +32575,24 @@
       },
       "participe_present": "rechargeant",
       "participe_passe": ["rechargé", "rechargée", "rechargés", "rechargées"]
+    },
+    {
+      "id": "superposer",
+      "infinitif": "superposer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["superpose", "superposes", "superpose", "superposons", "superposez", "superposent"],
+        "ind.imp": ["superposais", "superposais", "superposait", "superposions", "superposiez", "superposaient"],
+        "ind.ps": ["superposai", "superposas", "superposa", "superposâmes", "superposâtes", "superposèrent"],
+        "ind.fut": ["superposerai", "superposeras", "superposera", "superposerons", "superposerez", "superposeront"],
+        "cond.pres": ["superposerais", "superposerais", "superposerait", "superposerions", "superposeriez", "superposeraient"],
+        "subj.pres": ["superpose", "superposes", "superpose", "superposions", "superposiez", "superposent"],
+        "subj.imp": ["superposasse", "superposasses", "superposât", "superposassions", "superposassiez", "superposassent"],
+        "imper.pres": ["superpose", "superposons", "superposez"]
+      },
+      "participe_present": "superposant",
+      "participe_passe": ["superposé", "superposée", "superposés", "superposées"]
     }
   ]
 }
