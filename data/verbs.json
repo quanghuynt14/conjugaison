@@ -15222,6 +15222,25 @@
       },
       "participe_present": "applaudissant",
       "participe_passe": ["applaudi", "applaudie", "applaudis", "applaudies"]
+    },
+    {
+      "id": "accélérer",
+      "infinitif": "accélérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’accélérerai » ou « j’accélèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["accélère", "accélères", "accélère", "accélérons", "accélérez", "accélèrent"],
+        "ind.imp": ["accélérais", "accélérais", "accélérait", "accélérions", "accélériez", "accéléraient"],
+        "ind.ps": ["accélérai", "accéléras", "accéléra", "accélérâmes", "accélérâtes", "accélérèrent"],
+        "ind.fut": [["accélérerai", "accélèrerai"], ["accéléreras", "accélèreras"], ["accélérera", "accélèrera"], ["accélérerons", "accélèrerons"], ["accélérerez", "accélèrerez"], ["accéléreront", "accélèreront"]],
+        "cond.pres": [["accélérerais", "accélèrerais"], ["accélérerais", "accélèrerais"], ["accélérerait", "accélèrerait"], ["accélérerions", "accélèrerions"], ["accéléreriez", "accélèreriez"], ["accéléreraient", "accélèreraient"]],
+        "subj.pres": ["accélère", "accélères", "accélère", "accélérions", "accélériez", "accélèrent"],
+        "subj.imp": ["accélérasse", "accélérasses", "accélérât", "accélérassions", "accélérassiez", "accélérassent"],
+        "imper.pres": ["accélère", "accélérons", "accélérez"]
+      },
+      "participe_present": "accélérant",
+      "participe_passe": ["accéléré", "accélérée", "accélérés", "accélérées"]
     }
   ]
 }
