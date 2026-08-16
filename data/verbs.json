@@ -5971,6 +5971,25 @@
       },
       "participe_present": "habillant",
       "participe_passe": ["habillé", "habillée", "habillés", "habillées"]
+    },
+    {
+      "id": "posséder",
+      "infinitif": "posséder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je posséderai » ou « je possèderai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["possède", "possèdes", "possède", "possédons", "possédez", "possèdent"],
+        "ind.imp": ["possédais", "possédais", "possédait", "possédions", "possédiez", "possédaient"],
+        "ind.ps": ["possédai", "possédas", "posséda", "possédâmes", "possédâtes", "possédèrent"],
+        "ind.fut": [["posséderai", "possèderai"], ["posséderas", "possèderas"], ["possédera", "possèdera"], ["posséderons", "possèderons"], ["posséderez", "possèderez"], ["posséderont", "possèderont"]],
+        "cond.pres": [["posséderais", "possèderais"], ["posséderais", "possèderais"], ["posséderait", "possèderait"], ["posséderions", "possèderions"], ["posséderiez", "possèderiez"], ["posséderaient", "possèderaient"]],
+        "subj.pres": ["possède", "possèdes", "possède", "possédions", "possédiez", "possèdent"],
+        "subj.imp": ["possédasse", "possédasses", "possédât", "possédassions", "possédassiez", "possédassent"],
+        "imper.pres": ["possède", "possédons", "possédez"]
+      },
+      "participe_present": "possédant",
+      "participe_passe": ["possédé", "possédée", "possédés", "possédées"]
     }
   ]
 }
