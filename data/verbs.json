@@ -1075,6 +1075,24 @@
       },
       "participe_present": "oubliant",
       "participe_passe": ["oublié", "oubliée", "oubliés", "oubliées"]
+    },
+    {
+      "id": "manger",
+      "infinitif": "manger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mange", "manges", "mange", "mangeons", "mangez", "mangent"],
+        "ind.imp": ["mangeais", "mangeais", "mangeait", "mangions", "mangiez", "mangeaient"],
+        "ind.ps": ["mangeai", "mangeas", "mangea", "mangeâmes", "mangeâtes", "mangèrent"],
+        "ind.fut": ["mangerai", "mangeras", "mangera", "mangerons", "mangerez", "mangeront"],
+        "cond.pres": ["mangerais", "mangerais", "mangerait", "mangerions", "mangeriez", "mangeraient"],
+        "subj.pres": ["mange", "manges", "mange", "mangions", "mangiez", "mangent"],
+        "subj.imp": ["mangeasse", "mangeasses", "mangeât", "mangeassions", "mangeassiez", "mangeassent"],
+        "imper.pres": ["mange", "mangeons", "mangez"]
+      },
+      "participe_present": "mangeant",
+      "participe_passe": ["mangé", "mangée", "mangés", "mangées"]
     }
   ]
 }
