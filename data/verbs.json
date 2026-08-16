@@ -15788,6 +15788,24 @@
       },
       "participe_present": "braquant",
       "participe_passe": ["braqué", "braquée", "braqués", "braquées"]
+    },
+    {
+      "id": "aboutir",
+      "infinitif": "aboutir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aboutis", "aboutis", "aboutit", "aboutissons", "aboutissez", "aboutissent"],
+        "ind.imp": ["aboutissais", "aboutissais", "aboutissait", "aboutissions", "aboutissiez", "aboutissaient"],
+        "ind.ps": ["aboutis", "aboutis", "aboutit", "aboutîmes", "aboutîtes", "aboutirent"],
+        "ind.fut": ["aboutirai", "aboutiras", "aboutira", "aboutirons", "aboutirez", "aboutiront"],
+        "cond.pres": ["aboutirais", "aboutirais", "aboutirait", "aboutirions", "aboutiriez", "aboutiraient"],
+        "subj.pres": ["aboutisse", "aboutisses", "aboutisse", "aboutissions", "aboutissiez", "aboutissent"],
+        "subj.imp": ["aboutisse", "aboutisses", "aboutît", "aboutissions", "aboutissiez", "aboutissent"],
+        "imper.pres": ["aboutis", "aboutissons", "aboutissez"]
+      },
+      "participe_present": "aboutissant",
+      "participe_passe": ["abouti", "aboutie", "aboutis", "abouties"]
     }
   ]
 }
