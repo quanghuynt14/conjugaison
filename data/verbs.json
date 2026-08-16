@@ -23218,6 +23218,24 @@
       },
       "participe_present": "exaltant",
       "participe_passe": ["exalté", "exaltée", "exaltés", "exaltées"]
+    },
+    {
+      "id": "couver",
+      "infinitif": "couver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["couve", "couves", "couve", "couvons", "couvez", "couvent"],
+        "ind.imp": ["couvais", "couvais", "couvait", "couvions", "couviez", "couvaient"],
+        "ind.ps": ["couvai", "couvas", "couva", "couvâmes", "couvâtes", "couvèrent"],
+        "ind.fut": ["couverai", "couveras", "couvera", "couverons", "couverez", "couveront"],
+        "cond.pres": ["couverais", "couverais", "couverait", "couverions", "couveriez", "couveraient"],
+        "subj.pres": ["couve", "couves", "couve", "couvions", "couviez", "couvent"],
+        "subj.imp": ["couvasse", "couvasses", "couvât", "couvassions", "couvassiez", "couvassent"],
+        "imper.pres": ["couve", "couvons", "couvez"]
+      },
+      "participe_present": "couvant",
+      "participe_passe": ["couvé", "couvée", "couvés", "couvées"]
     }
   ]
 }
