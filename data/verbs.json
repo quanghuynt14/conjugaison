@@ -29472,6 +29472,24 @@
       },
       "participe_present": "clamant",
       "participe_passe": ["clamé", "clamée", "clamés", "clamées"]
+    },
+    {
+      "id": "jacter",
+      "infinitif": "jacter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["jacte", "jactes", "jacte", "jactons", "jactez", "jactent"],
+        "ind.imp": ["jactais", "jactais", "jactait", "jactions", "jactiez", "jactaient"],
+        "ind.ps": ["jactai", "jactas", "jacta", "jactâmes", "jactâtes", "jactèrent"],
+        "ind.fut": ["jacterai", "jacteras", "jactera", "jacterons", "jacterez", "jacteront"],
+        "cond.pres": ["jacterais", "jacterais", "jacterait", "jacterions", "jacteriez", "jacteraient"],
+        "subj.pres": ["jacte", "jactes", "jacte", "jactions", "jactiez", "jactent"],
+        "subj.imp": ["jactasse", "jactasses", "jactât", "jactassions", "jactassiez", "jactassent"],
+        "imper.pres": ["jacte", "jactons", "jactez"]
+      },
+      "participe_present": "jactant",
+      "participe_passe": ["jacté", "jactée", "jactés", "jactées"]
     }
   ]
 }
