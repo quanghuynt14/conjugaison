@@ -27994,6 +27994,24 @@
       },
       "participe_present": "trafiquant",
       "participe_passe": ["trafiqué", "trafiquée", "trafiqués", "trafiquées"]
+    },
+    {
+      "id": "coter",
+      "infinitif": "coter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cote", "cotes", "cote", "cotons", "cotez", "cotent"],
+        "ind.imp": ["cotais", "cotais", "cotait", "cotions", "cotiez", "cotaient"],
+        "ind.ps": ["cotai", "cotas", "cota", "cotâmes", "cotâtes", "cotèrent"],
+        "ind.fut": ["coterai", "coteras", "cotera", "coterons", "coterez", "coteront"],
+        "cond.pres": ["coterais", "coterais", "coterait", "coterions", "coteriez", "coteraient"],
+        "subj.pres": ["cote", "cotes", "cote", "cotions", "cotiez", "cotent"],
+        "subj.imp": ["cotasse", "cotasses", "cotât", "cotassions", "cotassiez", "cotassent"],
+        "imper.pres": ["cote", "cotons", "cotez"]
+      },
+      "participe_present": "cotant",
+      "participe_passe": ["coté", "cotée", "cotés", "cotées"]
     }
   ]
 }
