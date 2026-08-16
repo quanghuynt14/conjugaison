@@ -14844,6 +14844,24 @@
       },
       "participe_present": "divorçant",
       "participe_passe": ["divorcé", "divorcée", "divorcés", "divorcées"]
+    },
+    {
+      "id": "calculer",
+      "infinitif": "calculer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["calcule", "calcules", "calcule", "calculons", "calculez", "calculent"],
+        "ind.imp": ["calculais", "calculais", "calculait", "calculions", "calculiez", "calculaient"],
+        "ind.ps": ["calculai", "calculas", "calcula", "calculâmes", "calculâtes", "calculèrent"],
+        "ind.fut": ["calculerai", "calculeras", "calculera", "calculerons", "calculerez", "calculeront"],
+        "cond.pres": ["calculerais", "calculerais", "calculerait", "calculerions", "calculeriez", "calculeraient"],
+        "subj.pres": ["calcule", "calcules", "calcule", "calculions", "calculiez", "calculent"],
+        "subj.imp": ["calculasse", "calculasses", "calculât", "calculassions", "calculassiez", "calculassent"],
+        "imper.pres": ["calcule", "calculons", "calculez"]
+      },
+      "participe_present": "calculant",
+      "participe_passe": ["calculé", "calculée", "calculés", "calculées"]
     }
   ]
 }
