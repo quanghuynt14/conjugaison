@@ -17386,6 +17386,24 @@
       },
       "participe_present": "tolérant",
       "participe_passe": ["toléré", "tolérée", "tolérés", "tolérées"]
+    },
+    {
+      "id": "déterminer",
+      "infinitif": "déterminer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["détermine", "détermines", "détermine", "déterminons", "déterminez", "déterminent"],
+        "ind.imp": ["déterminais", "déterminais", "déterminait", "déterminions", "déterminiez", "déterminaient"],
+        "ind.ps": ["déterminai", "déterminas", "détermina", "déterminâmes", "déterminâtes", "déterminèrent"],
+        "ind.fut": ["déterminerai", "détermineras", "déterminera", "déterminerons", "déterminerez", "détermineront"],
+        "cond.pres": ["déterminerais", "déterminerais", "déterminerait", "déterminerions", "détermineriez", "détermineraient"],
+        "subj.pres": ["détermine", "détermines", "détermine", "déterminions", "déterminiez", "déterminent"],
+        "subj.imp": ["déterminasse", "déterminasses", "déterminât", "déterminassions", "déterminassiez", "déterminassent"],
+        "imper.pres": ["détermine", "déterminons", "déterminez"]
+      },
+      "participe_present": "déterminant",
+      "participe_passe": ["déterminé", "déterminée", "déterminés", "déterminées"]
     }
   ]
 }
