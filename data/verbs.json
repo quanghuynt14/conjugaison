@@ -5482,6 +5482,24 @@
       },
       "participe_present": "dînant",
       "participe_passe": ["dîné", null, null, null]
+    },
+    {
+      "id": "soulever",
+      "infinitif": "soulever",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["soulève", "soulèves", "soulève", "soulevons", "soulevez", "soulèvent"],
+        "ind.imp": ["soulevais", "soulevais", "soulevait", "soulevions", "souleviez", "soulevaient"],
+        "ind.ps": ["soulevai", "soulevas", "souleva", "soulevâmes", "soulevâtes", "soulevèrent"],
+        "ind.fut": ["soulèverai", "soulèveras", "soulèvera", "soulèverons", "soulèverez", "soulèveront"],
+        "cond.pres": ["soulèverais", "soulèverais", "soulèverait", "soulèverions", "soulèveriez", "soulèveraient"],
+        "subj.pres": ["soulève", "soulèves", "soulève", "soulevions", "souleviez", "soulèvent"],
+        "subj.imp": ["soulevasse", "soulevasses", "soulevât", "soulevassions", "soulevassiez", "soulevassent"],
+        "imper.pres": ["soulève", "soulevons", "soulevez"]
+      },
+      "participe_present": "soulevant",
+      "participe_passe": ["soulevé", "soulevée", "soulevés", "soulevées"]
     }
   ]
 }
