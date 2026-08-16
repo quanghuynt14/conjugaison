@@ -35315,6 +35315,25 @@
       },
       "participe_present": "tarissant",
       "participe_passe": ["tari", "tarie", "taris", "taries"]
+    },
+    {
+      "id": "paître",
+      "infinitif": "paître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Ni passé simple, ni participe passé : le verbe n'a pas de temps composés. « il a pu » appartient à pouvoir, et « repu » à repaître.",
+      "tenses": {
+        "ind.pres": ["pais", "pais", "paît", "paissons", "paissez", "paissent"],
+        "ind.imp": ["paissais", "paissais", "paissait", "paissions", "paissiez", "paissaient"],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": ["paîtrai", "paîtras", "paîtra", "paîtrons", "paîtrez", "paîtront"],
+        "cond.pres": ["paîtrais", "paîtrais", "paîtrait", "paîtrions", "paîtriez", "paîtraient"],
+        "subj.pres": ["paisse", "paisses", "paisse", "paissions", "paissiez", "paissent"],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": ["pais", null, "paissez"]
+      },
+      "participe_present": "paissant",
+      "participe_passe": [null, null, null, null]
     }
   ]
 }
