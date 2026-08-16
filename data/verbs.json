@@ -23254,6 +23254,24 @@
       },
       "participe_present": "contractant",
       "participe_passe": ["contracté", "contractée", "contractés", "contractées"]
+    },
+    {
+      "id": "assombrir",
+      "infinitif": "assombrir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assombris", "assombris", "assombrit", "assombrissons", "assombrissez", "assombrissent"],
+        "ind.imp": ["assombrissais", "assombrissais", "assombrissait", "assombrissions", "assombrissiez", "assombrissaient"],
+        "ind.ps": ["assombris", "assombris", "assombrit", "assombrîmes", "assombrîtes", "assombrirent"],
+        "ind.fut": ["assombrirai", "assombriras", "assombrira", "assombrirons", "assombrirez", "assombriront"],
+        "cond.pres": ["assombrirais", "assombrirais", "assombrirait", "assombririons", "assombririez", "assombriraient"],
+        "subj.pres": ["assombrisse", "assombrisses", "assombrisse", "assombrissions", "assombrissiez", "assombrissent"],
+        "subj.imp": ["assombrisse", "assombrisses", "assombrît", "assombrissions", "assombrissiez", "assombrissent"],
+        "imper.pres": ["assombris", "assombrissons", "assombrissez"]
+      },
+      "participe_present": "assombrissant",
+      "participe_passe": ["assombri", "assombrie", "assombris", "assombries"]
     }
   ]
 }
