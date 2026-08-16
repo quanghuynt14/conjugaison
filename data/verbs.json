@@ -2441,6 +2441,24 @@
       },
       "participe_present": "conduisant",
       "participe_passe": ["conduit", "conduite", "conduits", "conduites"]
+    },
+    {
+      "id": "approcher",
+      "infinitif": "approcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["approche", "approches", "approche", "approchons", "approchez", "approchent"],
+        "ind.imp": ["approchais", "approchais", "approchait", "approchions", "approchiez", "approchaient"],
+        "ind.ps": ["approchai", "approchas", "approcha", "approchâmes", "approchâtes", "approchèrent"],
+        "ind.fut": ["approcherai", "approcheras", "approchera", "approcherons", "approcherez", "approcheront"],
+        "cond.pres": ["approcherais", "approcherais", "approcherait", "approcherions", "approcheriez", "approcheraient"],
+        "subj.pres": ["approche", "approches", "approche", "approchions", "approchiez", "approchent"],
+        "subj.imp": ["approchasse", "approchasses", "approchât", "approchassions", "approchassiez", "approchassent"],
+        "imper.pres": ["approche", "approchons", "approchez"]
+      },
+      "participe_present": "approchant",
+      "participe_passe": ["approché", "approchée", "approchés", "approchées"]
     }
   ]
 }
