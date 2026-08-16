@@ -16768,6 +16768,25 @@
       },
       "participe_present": "renforçant",
       "participe_passe": ["renforcé", "renforcée", "renforcés", "renforcées"]
+    },
+    {
+      "id": "frémir",
+      "infinitif": "frémir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « frémi » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["frémis", "frémis", "frémit", "frémissons", "frémissez", "frémissent"],
+        "ind.imp": ["frémissais", "frémissais", "frémissait", "frémissions", "frémissiez", "frémissaient"],
+        "ind.ps": ["frémis", "frémis", "frémit", "frémîmes", "frémîtes", "frémirent"],
+        "ind.fut": ["frémirai", "frémiras", "frémira", "frémirons", "frémirez", "frémiront"],
+        "cond.pres": ["frémirais", "frémirais", "frémirait", "frémirions", "frémiriez", "frémiraient"],
+        "subj.pres": ["frémisse", "frémisses", "frémisse", "frémissions", "frémissiez", "frémissent"],
+        "subj.imp": ["frémisse", "frémisses", "frémît", "frémissions", "frémissiez", "frémissent"],
+        "imper.pres": ["frémis", "frémissons", "frémissez"]
+      },
+      "participe_present": "frémissant",
+      "participe_passe": ["frémi", null, null, null]
     }
   ]
 }
