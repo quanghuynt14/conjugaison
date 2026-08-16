@@ -32246,6 +32246,24 @@
       },
       "participe_present": "damnant",
       "participe_passe": ["damné", "damnée", "damnés", "damnées"]
+    },
+    {
+      "id": "désobéir",
+      "infinitif": "désobéir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["désobéis", "désobéis", "désobéit", "désobéissons", "désobéissez", "désobéissent"],
+        "ind.imp": ["désobéissais", "désobéissais", "désobéissait", "désobéissions", "désobéissiez", "désobéissaient"],
+        "ind.ps": ["désobéis", "désobéis", "désobéit", "désobéîmes", "désobéîtes", "désobéirent"],
+        "ind.fut": ["désobéirai", "désobéiras", "désobéira", "désobéirons", "désobéirez", "désobéiront"],
+        "cond.pres": ["désobéirais", "désobéirais", "désobéirait", "désobéirions", "désobéiriez", "désobéiraient"],
+        "subj.pres": ["désobéisse", "désobéisses", "désobéisse", "désobéissions", "désobéissiez", "désobéissent"],
+        "subj.imp": ["désobéisse", "désobéisses", "désobéît", "désobéissions", "désobéissiez", "désobéissent"],
+        "imper.pres": ["désobéis", "désobéissons", "désobéissez"]
+      },
+      "participe_present": "désobéissant",
+      "participe_passe": ["désobéi", "désobéie", "désobéis", "désobéies"]
     }
   ]
 }
