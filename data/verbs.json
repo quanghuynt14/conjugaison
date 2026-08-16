@@ -12501,6 +12501,24 @@
       },
       "participe_present": "consolant",
       "participe_passe": ["consolé", "consolée", "consolés", "consolées"]
+    },
+    {
+      "id": "annuler",
+      "infinitif": "annuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["annule", "annules", "annule", "annulons", "annulez", "annulent"],
+        "ind.imp": ["annulais", "annulais", "annulait", "annulions", "annuliez", "annulaient"],
+        "ind.ps": ["annulai", "annulas", "annula", "annulâmes", "annulâtes", "annulèrent"],
+        "ind.fut": ["annulerai", "annuleras", "annulera", "annulerons", "annulerez", "annuleront"],
+        "cond.pres": ["annulerais", "annulerais", "annulerait", "annulerions", "annuleriez", "annuleraient"],
+        "subj.pres": ["annule", "annules", "annule", "annulions", "annuliez", "annulent"],
+        "subj.imp": ["annulasse", "annulasses", "annulât", "annulassions", "annulassiez", "annulassent"],
+        "imper.pres": ["annule", "annulons", "annulez"]
+      },
+      "participe_present": "annulant",
+      "participe_passe": ["annulé", "annulée", "annulés", "annulées"]
     }
   ]
 }
