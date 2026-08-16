@@ -2278,6 +2278,24 @@
       },
       "participe_present": "pleurant",
       "participe_passe": ["pleuré", "pleurée", "pleurés", "pleurées"]
+    },
+    {
+      "id": "disparaître",
+      "infinitif": "disparaître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["disparais", "disparais", "disparaît", "disparaissons", "disparaissez", "disparaissent"],
+        "ind.imp": ["disparaissais", "disparaissais", "disparaissait", "disparaissions", "disparaissiez", "disparaissaient"],
+        "ind.ps": ["disparus", "disparus", "disparut", "disparûmes", "disparûtes", "disparurent"],
+        "ind.fut": ["disparaîtrai", "disparaîtras", "disparaîtra", "disparaîtrons", "disparaîtrez", "disparaîtront"],
+        "cond.pres": ["disparaîtrais", "disparaîtrais", "disparaîtrait", "disparaîtrions", "disparaîtriez", "disparaîtraient"],
+        "subj.pres": ["disparaisse", "disparaisses", "disparaisse", "disparaissions", "disparaissiez", "disparaissent"],
+        "subj.imp": ["disparusse", "disparusses", "disparût", "disparussions", "disparussiez", "disparussent"],
+        "imper.pres": ["disparais", "disparaissons", "disparaissez"]
+      },
+      "participe_present": "disparaissant",
+      "participe_passe": ["disparu", "disparue", "disparus", "disparues"]
     }
   ]
 }
