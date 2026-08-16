@@ -3274,6 +3274,24 @@
       },
       "participe_present": "abandonnant",
       "participe_passe": ["abandonné", "abandonnée", "abandonnés", "abandonnées"]
+    },
+    {
+      "id": "adorer",
+      "infinitif": "adorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["adore", "adores", "adore", "adorons", "adorez", "adorent"],
+        "ind.imp": ["adorais", "adorais", "adorait", "adorions", "adoriez", "adoraient"],
+        "ind.ps": ["adorai", "adoras", "adora", "adorâmes", "adorâtes", "adorèrent"],
+        "ind.fut": ["adorerai", "adoreras", "adorera", "adorerons", "adorerez", "adoreront"],
+        "cond.pres": ["adorerais", "adorerais", "adorerait", "adorerions", "adoreriez", "adoreraient"],
+        "subj.pres": ["adore", "adores", "adore", "adorions", "adoriez", "adorent"],
+        "subj.imp": ["adorasse", "adorasses", "adorât", "adorassions", "adorassiez", "adorassent"],
+        "imper.pres": ["adore", "adorons", "adorez"]
+      },
+      "participe_present": "adorant",
+      "participe_passe": ["adoré", "adorée", "adorés", "adorées"]
     }
   ]
 }
