@@ -35260,6 +35260,25 @@
       },
       "participe_present": "relatant",
       "participe_passe": ["relaté", "relatée", "relatés", "relatées"]
+    },
+    {
+      "id": "aérer",
+      "infinitif": "aérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’aérerai » ou « j’aèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["aère", "aères", "aère", "aérons", "aérez", "aèrent"],
+        "ind.imp": ["aérais", "aérais", "aérait", "aérions", "aériez", "aéraient"],
+        "ind.ps": ["aérai", "aéras", "aéra", "aérâmes", "aérâtes", "aérèrent"],
+        "ind.fut": [["aérerai", "aèrerai"], ["aéreras", "aèreras"], ["aérera", "aèrera"], ["aérerons", "aèrerons"], ["aérerez", "aèrerez"], ["aéreront", "aèreront"]],
+        "cond.pres": [["aérerais", "aèrerais"], ["aérerais", "aèrerais"], ["aérerait", "aèrerait"], ["aérerions", "aèrerions"], ["aéreriez", "aèreriez"], ["aéreraient", "aèreraient"]],
+        "subj.pres": ["aère", "aères", "aère", "aérions", "aériez", "aèrent"],
+        "subj.imp": ["aérasse", "aérasses", "aérât", "aérassions", "aérassiez", "aérassent"],
+        "imper.pres": ["aère", "aérons", "aérez"]
+      },
+      "participe_present": "aérant",
+      "participe_passe": ["aéré", "aérée", "aérés", "aérées"]
     }
   ]
 }
