@@ -12154,6 +12154,26 @@
       },
       "participe_present": "déshabillant",
       "participe_passe": ["déshabillé", "déshabillée", "déshabillés", "déshabillées"]
+    },
+    {
+      "id": "écrier",
+      "infinitif": "écrier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’écrie » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["écrie", "écries", "écrie", "écrions", "écriez", "écrient"],
+        "ind.imp": ["écriais", "écriais", "écriait", "écriions", "écriiez", "écriaient"],
+        "ind.ps": ["écriai", "écrias", "écria", "écriâmes", "écriâtes", "écrièrent"],
+        "ind.fut": ["écrierai", "écrieras", "écriera", "écrierons", "écrierez", "écrieront"],
+        "cond.pres": ["écrierais", "écrierais", "écrierait", "écrierions", "écrieriez", "écrieraient"],
+        "subj.pres": ["écrie", "écries", "écrie", "écriions", "écriiez", "écrient"],
+        "subj.imp": ["écriasse", "écriasses", "écriât", "écriassions", "écriassiez", "écriassent"],
+        "imper.pres": ["écrie", "écrions", "écriez"]
+      },
+      "participe_present": "écriant",
+      "participe_passe": ["écrié", "écriée", "écriés", "écriées"]
     }
   ]
 }
