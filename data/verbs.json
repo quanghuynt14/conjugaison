@@ -30420,6 +30420,24 @@
       },
       "participe_present": "refoulant",
       "participe_passe": ["refoulé", "refoulée", "refoulés", "refoulées"]
+    },
+    {
+      "id": "replacer",
+      "infinitif": "replacer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["replace", "replaces", "replace", "replaçons", "replacez", "replacent"],
+        "ind.imp": ["replaçais", "replaçais", "replaçait", "replacions", "replaciez", "replaçaient"],
+        "ind.ps": ["replaçai", "replaças", "replaça", "replaçâmes", "replaçâtes", "replacèrent"],
+        "ind.fut": ["replacerai", "replaceras", "replacera", "replacerons", "replacerez", "replaceront"],
+        "cond.pres": ["replacerais", "replacerais", "replacerait", "replacerions", "replaceriez", "replaceraient"],
+        "subj.pres": ["replace", "replaces", "replace", "replacions", "replaciez", "replacent"],
+        "subj.imp": ["replaçasse", "replaçasses", "replaçât", "replaçassions", "replaçassiez", "replaçassent"],
+        "imper.pres": ["replace", "replaçons", "replacez"]
+      },
+      "participe_present": "replaçant",
+      "participe_passe": ["replacé", "replacée", "replacés", "replacées"]
     }
   ]
 }
