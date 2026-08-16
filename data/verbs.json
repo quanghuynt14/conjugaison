@@ -6279,6 +6279,24 @@
       },
       "participe_present": "produisant",
       "participe_passe": ["produit", "produite", "produits", "produites"]
+    },
+    {
+      "id": "ramasser",
+      "infinitif": "ramasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ramasse", "ramasses", "ramasse", "ramassons", "ramassez", "ramassent"],
+        "ind.imp": ["ramassais", "ramassais", "ramassait", "ramassions", "ramassiez", "ramassaient"],
+        "ind.ps": ["ramassai", "ramassas", "ramassa", "ramassâmes", "ramassâtes", "ramassèrent"],
+        "ind.fut": ["ramasserai", "ramasseras", "ramassera", "ramasserons", "ramasserez", "ramasseront"],
+        "cond.pres": ["ramasserais", "ramasserais", "ramasserait", "ramasserions", "ramasseriez", "ramasseraient"],
+        "subj.pres": ["ramasse", "ramasses", "ramasse", "ramassions", "ramassiez", "ramassent"],
+        "subj.imp": ["ramassasse", "ramassasses", "ramassât", "ramassassions", "ramassassiez", "ramassassent"],
+        "imper.pres": ["ramasse", "ramassons", "ramassez"]
+      },
+      "participe_present": "ramassant",
+      "participe_passe": ["ramassé", "ramassée", "ramassés", "ramassées"]
     }
   ]
 }
