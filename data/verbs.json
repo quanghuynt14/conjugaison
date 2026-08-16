@@ -21674,6 +21674,24 @@
       },
       "participe_present": "esquissant",
       "participe_passe": ["esquissé", "esquissée", "esquissés", "esquissées"]
+    },
+    {
+      "id": "trébucher",
+      "infinitif": "trébucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trébuche", "trébuches", "trébuche", "trébuchons", "trébuchez", "trébuchent"],
+        "ind.imp": ["trébuchais", "trébuchais", "trébuchait", "trébuchions", "trébuchiez", "trébuchaient"],
+        "ind.ps": ["trébuchai", "trébuchas", "trébucha", "trébuchâmes", "trébuchâtes", "trébuchèrent"],
+        "ind.fut": ["trébucherai", "trébucheras", "trébuchera", "trébucherons", "trébucherez", "trébucheront"],
+        "cond.pres": ["trébucherais", "trébucherais", "trébucherait", "trébucherions", "trébucheriez", "trébucheraient"],
+        "subj.pres": ["trébuche", "trébuches", "trébuche", "trébuchions", "trébuchiez", "trébuchent"],
+        "subj.imp": ["trébuchasse", "trébuchasses", "trébuchât", "trébuchassions", "trébuchassiez", "trébuchassent"],
+        "imper.pres": ["trébuche", "trébuchons", "trébuchez"]
+      },
+      "participe_present": "trébuchant",
+      "participe_passe": ["trébuché", "trébuchée", "trébuchés", "trébuchées"]
     }
   ]
 }
