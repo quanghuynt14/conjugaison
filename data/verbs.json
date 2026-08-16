@@ -17277,6 +17277,24 @@
       },
       "participe_present": "dévisageant",
       "participe_passe": ["dévisagé", "dévisagée", "dévisagés", "dévisagées"]
+    },
+    {
+      "id": "tourmenter",
+      "infinitif": "tourmenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tourmente", "tourmentes", "tourmente", "tourmentons", "tourmentez", "tourmentent"],
+        "ind.imp": ["tourmentais", "tourmentais", "tourmentait", "tourmentions", "tourmentiez", "tourmentaient"],
+        "ind.ps": ["tourmentai", "tourmentas", "tourmenta", "tourmentâmes", "tourmentâtes", "tourmentèrent"],
+        "ind.fut": ["tourmenterai", "tourmenteras", "tourmentera", "tourmenterons", "tourmenterez", "tourmenteront"],
+        "cond.pres": ["tourmenterais", "tourmenterais", "tourmenterait", "tourmenterions", "tourmenteriez", "tourmenteraient"],
+        "subj.pres": ["tourmente", "tourmentes", "tourmente", "tourmentions", "tourmentiez", "tourmentent"],
+        "subj.imp": ["tourmentasse", "tourmentasses", "tourmentât", "tourmentassions", "tourmentassiez", "tourmentassent"],
+        "imper.pres": ["tourmente", "tourmentons", "tourmentez"]
+      },
+      "participe_present": "tourmentant",
+      "participe_passe": ["tourmenté", "tourmentée", "tourmentés", "tourmentées"]
     }
   ]
 }
