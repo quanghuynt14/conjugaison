@@ -9030,6 +9030,24 @@
       },
       "participe_present": "luttant",
       "participe_passe": ["lutté", null, null, null]
+    },
+    {
+      "id": "cracher",
+      "infinitif": "cracher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["crache", "craches", "crache", "crachons", "crachez", "crachent"],
+        "ind.imp": ["crachais", "crachais", "crachait", "crachions", "crachiez", "crachaient"],
+        "ind.ps": ["crachai", "crachas", "cracha", "crachâmes", "crachâtes", "crachèrent"],
+        "ind.fut": ["cracherai", "cracheras", "crachera", "cracherons", "cracherez", "cracheront"],
+        "cond.pres": ["cracherais", "cracherais", "cracherait", "cracherions", "cracheriez", "cracheraient"],
+        "subj.pres": ["crache", "craches", "crache", "crachions", "crachiez", "crachent"],
+        "subj.imp": ["crachasse", "crachasses", "crachât", "crachassions", "crachassiez", "crachassent"],
+        "imper.pres": ["crache", "crachons", "crachez"]
+      },
+      "participe_present": "crachant",
+      "participe_passe": ["craché", "crachée", "crachés", "crachées"]
     }
   ]
 }
