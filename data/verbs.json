@@ -11571,6 +11571,26 @@
       },
       "participe_present": "épargnant",
       "participe_passe": ["épargné", "épargnée", "épargnés", "épargnées"]
+    },
+    {
+      "id": "emparer",
+      "infinitif": "emparer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’empare » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["empare", "empares", "empare", "emparons", "emparez", "emparent"],
+        "ind.imp": ["emparais", "emparais", "emparait", "emparions", "empariez", "emparaient"],
+        "ind.ps": ["emparai", "emparas", "empara", "emparâmes", "emparâtes", "emparèrent"],
+        "ind.fut": ["emparerai", "empareras", "emparera", "emparerons", "emparerez", "empareront"],
+        "cond.pres": ["emparerais", "emparerais", "emparerait", "emparerions", "empareriez", "empareraient"],
+        "subj.pres": ["empare", "empares", "empare", "emparions", "empariez", "emparent"],
+        "subj.imp": ["emparasse", "emparasses", "emparât", "emparassions", "emparassiez", "emparassent"],
+        "imper.pres": ["empare", "emparons", "emparez"]
+      },
+      "participe_present": "emparant",
+      "participe_passe": ["emparé", "emparée", "emparés", "emparées"]
     }
   ]
 }
