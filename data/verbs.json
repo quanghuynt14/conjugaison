@@ -3438,6 +3438,24 @@
       },
       "participe_present": "remontant",
       "participe_passe": ["remonté", "remontée", "remontés", "remontées"]
+    },
+    {
+      "id": "jurer",
+      "infinitif": "jurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["jure", "jures", "jure", "jurons", "jurez", "jurent"],
+        "ind.imp": ["jurais", "jurais", "jurait", "jurions", "juriez", "juraient"],
+        "ind.ps": ["jurai", "juras", "jura", "jurâmes", "jurâtes", "jurèrent"],
+        "ind.fut": ["jurerai", "jureras", "jurera", "jurerons", "jurerez", "jureront"],
+        "cond.pres": ["jurerais", "jurerais", "jurerait", "jurerions", "jureriez", "jureraient"],
+        "subj.pres": ["jure", "jures", "jure", "jurions", "juriez", "jurent"],
+        "subj.imp": ["jurasse", "jurasses", "jurât", "jurassions", "jurassiez", "jurassent"],
+        "imper.pres": ["jure", "jurons", "jurez"]
+      },
+      "participe_present": "jurant",
+      "participe_passe": ["juré", "jurée", "jurés", "jurées"]
     }
   ]
 }
