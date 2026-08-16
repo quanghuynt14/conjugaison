@@ -4920,6 +4920,24 @@
       },
       "participe_present": "prévoyant",
       "participe_passe": ["prévu", "prévue", "prévus", "prévues"]
+    },
+    {
+      "id": "discuter",
+      "infinitif": "discuter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["discute", "discutes", "discute", "discutons", "discutez", "discutent"],
+        "ind.imp": ["discutais", "discutais", "discutait", "discutions", "discutiez", "discutaient"],
+        "ind.ps": ["discutai", "discutas", "discuta", "discutâmes", "discutâtes", "discutèrent"],
+        "ind.fut": ["discuterai", "discuteras", "discutera", "discuterons", "discuterez", "discuteront"],
+        "cond.pres": ["discuterais", "discuterais", "discuterait", "discuterions", "discuteriez", "discuteraient"],
+        "subj.pres": ["discute", "discutes", "discute", "discutions", "discutiez", "discutent"],
+        "subj.imp": ["discutasse", "discutasses", "discutât", "discutassions", "discutassiez", "discutassent"],
+        "imper.pres": ["discute", "discutons", "discutez"]
+      },
+      "participe_present": "discutant",
+      "participe_passe": ["discuté", "discutée", "discutés", "discutées"]
     }
   ]
 }
