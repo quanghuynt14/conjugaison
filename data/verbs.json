@@ -20382,6 +20382,24 @@
       },
       "participe_present": "gravissant",
       "participe_passe": ["gravi", "gravie", "gravis", "gravies"]
+    },
+    {
+      "id": "convertir",
+      "infinitif": "convertir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["convertis", "convertis", "convertit", "convertissons", "convertissez", "convertissent"],
+        "ind.imp": ["convertissais", "convertissais", "convertissait", "convertissions", "convertissiez", "convertissaient"],
+        "ind.ps": ["convertis", "convertis", "convertit", "convertîmes", "convertîtes", "convertirent"],
+        "ind.fut": ["convertirai", "convertiras", "convertira", "convertirons", "convertirez", "convertiront"],
+        "cond.pres": ["convertirais", "convertirais", "convertirait", "convertirions", "convertiriez", "convertiraient"],
+        "subj.pres": ["convertisse", "convertisses", "convertisse", "convertissions", "convertissiez", "convertissent"],
+        "subj.imp": ["convertisse", "convertisses", "convertît", "convertissions", "convertissiez", "convertissent"],
+        "imper.pres": ["convertis", "convertissons", "convertissez"]
+      },
+      "participe_present": "convertissant",
+      "participe_passe": ["converti", "convertie", "convertis", "converties"]
     }
   ]
 }
