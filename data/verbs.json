@@ -5281,6 +5281,24 @@
       },
       "participe_present": "lavant",
       "participe_passe": ["lavé", "lavée", "lavés", "lavées"]
+    },
+    {
+      "id": "commander",
+      "infinitif": "commander",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["commande", "commandes", "commande", "commandons", "commandez", "commandent"],
+        "ind.imp": ["commandais", "commandais", "commandait", "commandions", "commandiez", "commandaient"],
+        "ind.ps": ["commandai", "commandas", "commanda", "commandâmes", "commandâtes", "commandèrent"],
+        "ind.fut": ["commanderai", "commanderas", "commandera", "commanderons", "commanderez", "commanderont"],
+        "cond.pres": ["commanderais", "commanderais", "commanderait", "commanderions", "commanderiez", "commanderaient"],
+        "subj.pres": ["commande", "commandes", "commande", "commandions", "commandiez", "commandent"],
+        "subj.imp": ["commandasse", "commandasses", "commandât", "commandassions", "commandassiez", "commandassent"],
+        "imper.pres": ["commande", "commandons", "commandez"]
+      },
+      "participe_present": "commandant",
+      "participe_passe": ["commandé", "commandée", "commandés", "commandées"]
     }
   ]
 }
