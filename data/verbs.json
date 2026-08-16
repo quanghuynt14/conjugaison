@@ -25662,6 +25662,24 @@
       },
       "participe_present": "apprivoisant",
       "participe_passe": ["apprivoisé", "apprivoisée", "apprivoisés", "apprivoisées"]
+    },
+    {
+      "id": "gerber",
+      "infinitif": "gerber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gerbe", "gerbes", "gerbe", "gerbons", "gerbez", "gerbent"],
+        "ind.imp": ["gerbais", "gerbais", "gerbait", "gerbions", "gerbiez", "gerbaient"],
+        "ind.ps": ["gerbai", "gerbas", "gerba", "gerbâmes", "gerbâtes", "gerbèrent"],
+        "ind.fut": ["gerberai", "gerberas", "gerbera", "gerberons", "gerberez", "gerberont"],
+        "cond.pres": ["gerberais", "gerberais", "gerberait", "gerberions", "gerberiez", "gerberaient"],
+        "subj.pres": ["gerbe", "gerbes", "gerbe", "gerbions", "gerbiez", "gerbent"],
+        "subj.imp": ["gerbasse", "gerbasses", "gerbât", "gerbassions", "gerbassiez", "gerbassent"],
+        "imper.pres": ["gerbe", "gerbons", "gerbez"]
+      },
+      "participe_present": "gerbant",
+      "participe_passe": ["gerbé", "gerbée", "gerbés", "gerbées"]
     }
   ]
 }
