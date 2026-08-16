@@ -13536,6 +13536,25 @@
       },
       "participe_present": "procurant",
       "participe_passe": ["procuré", "procurée", "procurés", "procurées"]
+    },
+    {
+      "id": "bavarder",
+      "infinitif": "bavarder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « bavardé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["bavarde", "bavardes", "bavarde", "bavardons", "bavardez", "bavardent"],
+        "ind.imp": ["bavardais", "bavardais", "bavardait", "bavardions", "bavardiez", "bavardaient"],
+        "ind.ps": ["bavardai", "bavardas", "bavarda", "bavardâmes", "bavardâtes", "bavardèrent"],
+        "ind.fut": ["bavarderai", "bavarderas", "bavardera", "bavarderons", "bavarderez", "bavarderont"],
+        "cond.pres": ["bavarderais", "bavarderais", "bavarderait", "bavarderions", "bavarderiez", "bavarderaient"],
+        "subj.pres": ["bavarde", "bavardes", "bavarde", "bavardions", "bavardiez", "bavardent"],
+        "subj.imp": ["bavardasse", "bavardasses", "bavardât", "bavardassions", "bavardassiez", "bavardassent"],
+        "imper.pres": ["bavarde", "bavardons", "bavardez"]
+      },
+      "participe_present": "bavardant",
+      "participe_passe": ["bavardé", null, null, null]
     }
   ]
 }
