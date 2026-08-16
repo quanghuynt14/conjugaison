@@ -3564,6 +3564,24 @@
       },
       "participe_present": "remarquant",
       "participe_passe": ["remarqué", "remarquée", "remarqués", "remarquées"]
+    },
+    {
+      "id": "couvrir",
+      "infinitif": "couvrir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["couvre", "couvres", "couvre", "couvrons", "couvrez", "couvrent"],
+        "ind.imp": ["couvrais", "couvrais", "couvrait", "couvrions", "couvriez", "couvraient"],
+        "ind.ps": ["couvris", "couvris", "couvrit", "couvrîmes", "couvrîtes", "couvrirent"],
+        "ind.fut": ["couvrirai", "couvriras", "couvrira", "couvrirons", "couvrirez", "couvriront"],
+        "cond.pres": ["couvrirais", "couvrirais", "couvrirait", "couvririons", "couvririez", "couvriraient"],
+        "subj.pres": ["couvre", "couvres", "couvre", "couvrions", "couvriez", "couvrent"],
+        "subj.imp": ["couvrisse", "couvrisses", "couvrît", "couvrissions", "couvrissiez", "couvrissent"],
+        "imper.pres": ["couvre", "couvrons", "couvrez"]
+      },
+      "participe_present": "couvrant",
+      "participe_passe": ["couvert", "couverte", "couverts", "couvertes"]
     }
   ]
 }
