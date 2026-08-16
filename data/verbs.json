@@ -34468,6 +34468,25 @@
       },
       "participe_present": "nichant",
       "participe_passe": ["niché", "nichée", "nichés", "nichées"]
+    },
+    {
+      "id": "opter",
+      "infinitif": "opter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « opté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["opte", "optes", "opte", "optons", "optez", "optent"],
+        "ind.imp": ["optais", "optais", "optait", "options", "optiez", "optaient"],
+        "ind.ps": ["optai", "optas", "opta", "optâmes", "optâtes", "optèrent"],
+        "ind.fut": ["opterai", "opteras", "optera", "opterons", "opterez", "opteront"],
+        "cond.pres": ["opterais", "opterais", "opterait", "opterions", "opteriez", "opteraient"],
+        "subj.pres": ["opte", "optes", "opte", "options", "optiez", "optent"],
+        "subj.imp": ["optasse", "optasses", "optât", "optassions", "optassiez", "optassent"],
+        "imper.pres": ["opte", "optons", "optez"]
+      },
+      "participe_present": "optant",
+      "participe_passe": ["opté", null, null, null]
     }
   ]
 }
