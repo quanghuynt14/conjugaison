@@ -25316,6 +25316,24 @@
       },
       "participe_present": "affranchissant",
       "participe_passe": ["affranchi", "affranchie", "affranchis", "affranchies"]
+    },
+    {
+      "id": "impatienter",
+      "infinitif": "impatienter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["impatiente", "impatientes", "impatiente", "impatientons", "impatientez", "impatientent"],
+        "ind.imp": ["impatientais", "impatientais", "impatientait", "impatientions", "impatientiez", "impatientaient"],
+        "ind.ps": ["impatientai", "impatientas", "impatienta", "impatientâmes", "impatientâtes", "impatientèrent"],
+        "ind.fut": ["impatienterai", "impatienteras", "impatientera", "impatienterons", "impatienterez", "impatienteront"],
+        "cond.pres": ["impatienterais", "impatienterais", "impatienterait", "impatienterions", "impatienteriez", "impatienteraient"],
+        "subj.pres": ["impatiente", "impatientes", "impatiente", "impatientions", "impatientiez", "impatientent"],
+        "subj.imp": ["impatientasse", "impatientasses", "impatientât", "impatientassions", "impatientassiez", "impatientassent"],
+        "imper.pres": ["impatiente", "impatientons", "impatientez"]
+      },
+      "participe_present": "impatientant",
+      "participe_passe": ["impatienté", "impatientée", "impatientés", "impatientées"]
     }
   ]
 }
