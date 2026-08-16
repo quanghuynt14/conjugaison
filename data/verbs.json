@@ -15261,6 +15261,24 @@
       },
       "participe_present": "attardant",
       "participe_passe": ["attardé", "attardée", "attardés", "attardées"]
+    },
+    {
+      "id": "immobiliser",
+      "infinitif": "immobiliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["immobilise", "immobilises", "immobilise", "immobilisons", "immobilisez", "immobilisent"],
+        "ind.imp": ["immobilisais", "immobilisais", "immobilisait", "immobilisions", "immobilisiez", "immobilisaient"],
+        "ind.ps": ["immobilisai", "immobilisas", "immobilisa", "immobilisâmes", "immobilisâtes", "immobilisèrent"],
+        "ind.fut": ["immobiliserai", "immobiliseras", "immobilisera", "immobiliserons", "immobiliserez", "immobiliseront"],
+        "cond.pres": ["immobiliserais", "immobiliserais", "immobiliserait", "immobiliserions", "immobiliseriez", "immobiliseraient"],
+        "subj.pres": ["immobilise", "immobilises", "immobilise", "immobilisions", "immobilisiez", "immobilisent"],
+        "subj.imp": ["immobilisasse", "immobilisasses", "immobilisât", "immobilisassions", "immobilisassiez", "immobilisassent"],
+        "imper.pres": ["immobilise", "immobilisons", "immobilisez"]
+      },
+      "participe_present": "immobilisant",
+      "participe_passe": ["immobilisé", "immobilisée", "immobilisés", "immobilisées"]
     }
   ]
 }
