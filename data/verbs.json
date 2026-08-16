@@ -6333,6 +6333,24 @@
       },
       "participe_present": "interdisant",
       "participe_passe": ["interdit", "interdite", "interdits", "interdites"]
+    },
+    {
+      "id": "dresser",
+      "infinitif": "dresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dresse", "dresses", "dresse", "dressons", "dressez", "dressent"],
+        "ind.imp": ["dressais", "dressais", "dressait", "dressions", "dressiez", "dressaient"],
+        "ind.ps": ["dressai", "dressas", "dressa", "dressâmes", "dressâtes", "dressèrent"],
+        "ind.fut": ["dresserai", "dresseras", "dressera", "dresserons", "dresserez", "dresseront"],
+        "cond.pres": ["dresserais", "dresserais", "dresserait", "dresserions", "dresseriez", "dresseraient"],
+        "subj.pres": ["dresse", "dresses", "dresse", "dressions", "dressiez", "dressent"],
+        "subj.imp": ["dressasse", "dressasses", "dressât", "dressassions", "dressassiez", "dressassent"],
+        "imper.pres": ["dresse", "dressons", "dressez"]
+      },
+      "participe_present": "dressant",
+      "participe_passe": ["dressé", "dressée", "dressés", "dressées"]
     }
   ]
 }
