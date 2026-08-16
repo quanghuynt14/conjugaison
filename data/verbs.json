@@ -6189,6 +6189,24 @@
       },
       "participe_present": "appréciant",
       "participe_passe": ["apprécié", "appréciée", "appréciés", "appréciées"]
+    },
+    {
+      "id": "reculer",
+      "infinitif": "reculer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recule", "recules", "recule", "reculons", "reculez", "reculent"],
+        "ind.imp": ["reculais", "reculais", "reculait", "reculions", "reculiez", "reculaient"],
+        "ind.ps": ["reculai", "reculas", "recula", "reculâmes", "reculâtes", "reculèrent"],
+        "ind.fut": ["reculerai", "reculeras", "reculera", "reculerons", "reculerez", "reculeront"],
+        "cond.pres": ["reculerais", "reculerais", "reculerait", "reculerions", "reculeriez", "reculeraient"],
+        "subj.pres": ["recule", "recules", "recule", "reculions", "reculiez", "reculent"],
+        "subj.imp": ["reculasse", "reculasses", "reculât", "reculassions", "reculassiez", "reculassent"],
+        "imper.pres": ["recule", "reculons", "reculez"]
+      },
+      "participe_present": "reculant",
+      "participe_passe": ["reculé", "reculée", "reculés", "reculées"]
     }
   ]
 }
