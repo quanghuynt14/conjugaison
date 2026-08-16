@@ -3726,6 +3726,25 @@
       },
       "participe_present": "réfléchissant",
       "participe_passe": ["réfléchi", "réfléchie", "réfléchis", "réfléchies"]
+    },
+    {
+      "id": "apparaître",
+      "infinitif": "apparaître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "note": "Avec être dans l'usage courant : « il est apparu ». La langue littéraire garde avoir, qui insiste sur l'événement plutôt que sur l'état.",
+      "tenses": {
+        "ind.pres": ["apparais", "apparais", "apparaît", "apparaissons", "apparaissez", "apparaissent"],
+        "ind.imp": ["apparaissais", "apparaissais", "apparaissait", "apparaissions", "apparaissiez", "apparaissaient"],
+        "ind.ps": ["apparus", "apparus", "apparut", "apparûmes", "apparûtes", "apparurent"],
+        "ind.fut": ["apparaîtrai", "apparaîtras", "apparaîtra", "apparaîtrons", "apparaîtrez", "apparaîtront"],
+        "cond.pres": ["apparaîtrais", "apparaîtrais", "apparaîtrait", "apparaîtrions", "apparaîtriez", "apparaîtraient"],
+        "subj.pres": ["apparaisse", "apparaisses", "apparaisse", "apparaissions", "apparaissiez", "apparaissent"],
+        "subj.imp": ["apparusse", "apparusses", "apparût", "apparussions", "apparussiez", "apparussent"],
+        "imper.pres": ["apparais", "apparaissons", "apparaissez"]
+      },
+      "participe_present": "apparaissant",
+      "participe_passe": ["apparu", "apparue", "apparus", "apparues"]
     }
   ]
 }
