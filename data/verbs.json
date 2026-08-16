@@ -29014,6 +29014,24 @@
       },
       "participe_present": "amplifiant",
       "participe_passe": ["amplifié", "amplifiée", "amplifiés", "amplifiées"]
+    },
+    {
+      "id": "déballer",
+      "infinitif": "déballer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déballe", "déballes", "déballe", "déballons", "déballez", "déballent"],
+        "ind.imp": ["déballais", "déballais", "déballait", "déballions", "déballiez", "déballaient"],
+        "ind.ps": ["déballai", "déballas", "déballa", "déballâmes", "déballâtes", "déballèrent"],
+        "ind.fut": ["déballerai", "déballeras", "déballera", "déballerons", "déballerez", "déballeront"],
+        "cond.pres": ["déballerais", "déballerais", "déballerait", "déballerions", "déballeriez", "déballeraient"],
+        "subj.pres": ["déballe", "déballes", "déballe", "déballions", "déballiez", "déballent"],
+        "subj.imp": ["déballasse", "déballasses", "déballât", "déballassions", "déballassiez", "déballassent"],
+        "imper.pres": ["déballe", "déballons", "déballez"]
+      },
+      "participe_present": "déballant",
+      "participe_passe": ["déballé", "déballée", "déballés", "déballées"]
     }
   ]
 }
