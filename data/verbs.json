@@ -36442,6 +36442,24 @@
       },
       "participe_present": "stabilisant",
       "participe_passe": ["stabilisé", "stabilisée", "stabilisés", "stabilisées"]
+    },
+    {
+      "id": "relaxer",
+      "infinitif": "relaxer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["relaxe", "relaxes", "relaxe", "relaxons", "relaxez", "relaxent"],
+        "ind.imp": ["relaxais", "relaxais", "relaxait", "relaxions", "relaxiez", "relaxaient"],
+        "ind.ps": ["relaxai", "relaxas", "relaxa", "relaxâmes", "relaxâtes", "relaxèrent"],
+        "ind.fut": ["relaxerai", "relaxeras", "relaxera", "relaxerons", "relaxerez", "relaxeront"],
+        "cond.pres": ["relaxerais", "relaxerais", "relaxerait", "relaxerions", "relaxeriez", "relaxeraient"],
+        "subj.pres": ["relaxe", "relaxes", "relaxe", "relaxions", "relaxiez", "relaxent"],
+        "subj.imp": ["relaxasse", "relaxasses", "relaxât", "relaxassions", "relaxassiez", "relaxassent"],
+        "imper.pres": ["relaxe", "relaxons", "relaxez"]
+      },
+      "participe_present": "relaxant",
+      "participe_passe": ["relaxé", "relaxée", "relaxés", "relaxées"]
     }
   ]
 }
