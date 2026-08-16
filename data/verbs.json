@@ -32755,6 +32755,26 @@
       },
       "participe_present": "bouillonnant",
       "participe_passe": ["bouillonné", "bouillonnée", "bouillonnés", "bouillonnées"]
+    },
+    {
+      "id": "extasier",
+      "infinitif": "extasier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’extasie » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["extasie", "extasies", "extasie", "extasions", "extasiez", "extasient"],
+        "ind.imp": ["extasiais", "extasiais", "extasiait", "extasiions", "extasiiez", "extasiaient"],
+        "ind.ps": ["extasiai", "extasias", "extasia", "extasiâmes", "extasiâtes", "extasièrent"],
+        "ind.fut": ["extasierai", "extasieras", "extasiera", "extasierons", "extasierez", "extasieront"],
+        "cond.pres": ["extasierais", "extasierais", "extasierait", "extasierions", "extasieriez", "extasieraient"],
+        "subj.pres": ["extasie", "extasies", "extasie", "extasiions", "extasiiez", "extasient"],
+        "subj.imp": ["extasiasse", "extasiasses", "extasiât", "extasiassions", "extasiassiez", "extasiassent"],
+        "imper.pres": ["extasie", "extasions", "extasiez"]
+      },
+      "participe_present": "extasiant",
+      "participe_passe": ["extasié", "extasiée", "extasiés", "extasiées"]
     }
   ]
 }
