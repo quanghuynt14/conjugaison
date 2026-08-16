@@ -11444,6 +11444,24 @@
       },
       "participe_present": "suspendant",
       "participe_passe": ["suspendu", "suspendue", "suspendus", "suspendues"]
+    },
+    {
+      "id": "siffler",
+      "infinitif": "siffler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["siffle", "siffles", "siffle", "sifflons", "sifflez", "sifflent"],
+        "ind.imp": ["sifflais", "sifflais", "sifflait", "sifflions", "siffliez", "sifflaient"],
+        "ind.ps": ["sifflai", "sifflas", "siffla", "sifflâmes", "sifflâtes", "sifflèrent"],
+        "ind.fut": ["sifflerai", "siffleras", "sifflera", "sifflerons", "sifflerez", "siffleront"],
+        "cond.pres": ["sifflerais", "sifflerais", "sifflerait", "sifflerions", "siffleriez", "siffleraient"],
+        "subj.pres": ["siffle", "siffles", "siffle", "sifflions", "siffliez", "sifflent"],
+        "subj.imp": ["sifflasse", "sifflasses", "sifflât", "sifflassions", "sifflassiez", "sifflassent"],
+        "imper.pres": ["siffle", "sifflons", "sifflez"]
+      },
+      "participe_present": "sifflant",
+      "participe_passe": ["sifflé", "sifflée", "sifflés", "sifflées"]
     }
   ]
 }
