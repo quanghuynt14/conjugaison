@@ -33612,6 +33612,24 @@
       },
       "participe_present": "dandinant",
       "participe_passe": ["dandiné", "dandinée", "dandinés", "dandinées"]
+    },
+    {
+      "id": "hospitaliser",
+      "infinitif": "hospitaliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["hospitalise", "hospitalises", "hospitalise", "hospitalisons", "hospitalisez", "hospitalisent"],
+        "ind.imp": ["hospitalisais", "hospitalisais", "hospitalisait", "hospitalisions", "hospitalisiez", "hospitalisaient"],
+        "ind.ps": ["hospitalisai", "hospitalisas", "hospitalisa", "hospitalisâmes", "hospitalisâtes", "hospitalisèrent"],
+        "ind.fut": ["hospitaliserai", "hospitaliseras", "hospitalisera", "hospitaliserons", "hospitaliserez", "hospitaliseront"],
+        "cond.pres": ["hospitaliserais", "hospitaliserais", "hospitaliserait", "hospitaliserions", "hospitaliseriez", "hospitaliseraient"],
+        "subj.pres": ["hospitalise", "hospitalises", "hospitalise", "hospitalisions", "hospitalisiez", "hospitalisent"],
+        "subj.imp": ["hospitalisasse", "hospitalisasses", "hospitalisât", "hospitalisassions", "hospitalisassiez", "hospitalisassent"],
+        "imper.pres": ["hospitalise", "hospitalisons", "hospitalisez"]
+      },
+      "participe_present": "hospitalisant",
+      "participe_passe": ["hospitalisé", "hospitalisée", "hospitalisés", "hospitalisées"]
     }
   ]
 }
