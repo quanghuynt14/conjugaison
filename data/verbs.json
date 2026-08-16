@@ -30673,6 +30673,25 @@
       },
       "participe_present": "mutant",
       "participe_passe": ["muté", "mutée", "mutés", "mutées"]
+    },
+    {
+      "id": "proférer",
+      "infinitif": "proférer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je proférerai » ou « je profèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["profère", "profères", "profère", "proférons", "proférez", "profèrent"],
+        "ind.imp": ["proférais", "proférais", "proférait", "proférions", "profériez", "proféraient"],
+        "ind.ps": ["proférai", "proféras", "proféra", "proférâmes", "proférâtes", "proférèrent"],
+        "ind.fut": [["proférerai", "profèrerai"], ["proféreras", "profèreras"], ["proférera", "profèrera"], ["proférerons", "profèrerons"], ["proférerez", "profèrerez"], ["proféreront", "profèreront"]],
+        "cond.pres": [["proférerais", "profèrerais"], ["proférerais", "profèrerais"], ["proférerait", "profèrerait"], ["proférerions", "profèrerions"], ["proféreriez", "profèreriez"], ["proféreraient", "profèreraient"]],
+        "subj.pres": ["profère", "profères", "profère", "proférions", "profériez", "profèrent"],
+        "subj.imp": ["proférasse", "proférasses", "proférât", "proférassions", "proférassiez", "proférassent"],
+        "imper.pres": ["profère", "proférons", "proférez"]
+      },
+      "participe_present": "proférant",
+      "participe_passe": ["proféré", "proférée", "proférés", "proférées"]
     }
   ]
 }
