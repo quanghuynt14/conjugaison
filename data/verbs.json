@@ -21494,6 +21494,24 @@
       },
       "participe_present": "brossant",
       "participe_passe": ["brossé", "brossée", "brossés", "brossées"]
+    },
+    {
+      "id": "tapoter",
+      "infinitif": "tapoter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tapote", "tapotes", "tapote", "tapotons", "tapotez", "tapotent"],
+        "ind.imp": ["tapotais", "tapotais", "tapotait", "tapotions", "tapotiez", "tapotaient"],
+        "ind.ps": ["tapotai", "tapotas", "tapota", "tapotâmes", "tapotâtes", "tapotèrent"],
+        "ind.fut": ["tapoterai", "tapoteras", "tapotera", "tapoterons", "tapoterez", "tapoteront"],
+        "cond.pres": ["tapoterais", "tapoterais", "tapoterait", "tapoterions", "tapoteriez", "tapoteraient"],
+        "subj.pres": ["tapote", "tapotes", "tapote", "tapotions", "tapotiez", "tapotent"],
+        "subj.imp": ["tapotasse", "tapotasses", "tapotât", "tapotassions", "tapotassiez", "tapotassent"],
+        "imper.pres": ["tapote", "tapotons", "tapotez"]
+      },
+      "participe_present": "tapotant",
+      "participe_passe": ["tapoté", "tapotée", "tapotés", "tapotées"]
     }
   ]
 }
