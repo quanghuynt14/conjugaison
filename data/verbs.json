@@ -30147,6 +30147,25 @@
       },
       "participe_present": "renouant",
       "participe_passe": ["renoué", "renouée", "renoués", "renouées"]
+    },
+    {
+      "id": "sautiller",
+      "infinitif": "sautiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « sautillé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["sautille", "sautilles", "sautille", "sautillons", "sautillez", "sautillent"],
+        "ind.imp": ["sautillais", "sautillais", "sautillait", "sautillions", "sautilliez", "sautillaient"],
+        "ind.ps": ["sautillai", "sautillas", "sautilla", "sautillâmes", "sautillâtes", "sautillèrent"],
+        "ind.fut": ["sautillerai", "sautilleras", "sautillera", "sautillerons", "sautillerez", "sautilleront"],
+        "cond.pres": ["sautillerais", "sautillerais", "sautillerait", "sautillerions", "sautilleriez", "sautilleraient"],
+        "subj.pres": ["sautille", "sautilles", "sautille", "sautillions", "sautilliez", "sautillent"],
+        "subj.imp": ["sautillasse", "sautillasses", "sautillât", "sautillassions", "sautillassiez", "sautillassent"],
+        "imper.pres": ["sautille", "sautillons", "sautillez"]
+      },
+      "participe_present": "sautillant",
+      "participe_passe": ["sautillé", null, null, null]
     }
   ]
 }
