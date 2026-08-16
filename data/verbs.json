@@ -31901,6 +31901,24 @@
       },
       "participe_present": "raccourcissant",
       "participe_passe": ["raccourci", "raccourcie", "raccourcis", "raccourcies"]
+    },
+    {
+      "id": "braver",
+      "infinitif": "braver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["brave", "braves", "brave", "bravons", "bravez", "bravent"],
+        "ind.imp": ["bravais", "bravais", "bravait", "bravions", "braviez", "bravaient"],
+        "ind.ps": ["bravai", "bravas", "brava", "bravâmes", "bravâtes", "bravèrent"],
+        "ind.fut": ["braverai", "braveras", "bravera", "braverons", "braverez", "braveront"],
+        "cond.pres": ["braverais", "braverais", "braverait", "braverions", "braveriez", "braveraient"],
+        "subj.pres": ["brave", "braves", "brave", "bravions", "braviez", "bravent"],
+        "subj.imp": ["bravasse", "bravasses", "bravât", "bravassions", "bravassiez", "bravassent"],
+        "imper.pres": ["brave", "bravons", "bravez"]
+      },
+      "participe_present": "bravant",
+      "participe_passe": ["bravé", "bravée", "bravés", "bravées"]
     }
   ]
 }
