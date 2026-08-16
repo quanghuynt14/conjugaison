@@ -23580,6 +23580,24 @@
       },
       "participe_present": "prêchant",
       "participe_passe": ["prêché", "prêchée", "prêchés", "prêchées"]
+    },
+    {
+      "id": "saouler",
+      "infinitif": "saouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["saoule", "saoules", "saoule", "saoulons", "saoulez", "saoulent"],
+        "ind.imp": ["saoulais", "saoulais", "saoulait", "saoulions", "saouliez", "saoulaient"],
+        "ind.ps": ["saoulai", "saoulas", "saoula", "saoulâmes", "saoulâtes", "saoulèrent"],
+        "ind.fut": ["saoulerai", "saouleras", "saoulera", "saoulerons", "saoulerez", "saouleront"],
+        "cond.pres": ["saoulerais", "saoulerais", "saoulerait", "saoulerions", "saouleriez", "saouleraient"],
+        "subj.pres": ["saoule", "saoules", "saoule", "saoulions", "saouliez", "saoulent"],
+        "subj.imp": ["saoulasse", "saoulasses", "saoulât", "saoulassions", "saoulassiez", "saoulassent"],
+        "imper.pres": ["saoule", "saoulons", "saoulez"]
+      },
+      "participe_present": "saoulant",
+      "participe_passe": ["saoulé", "saoulée", "saoulés", "saoulées"]
     }
   ]
 }
