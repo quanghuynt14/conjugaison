@@ -29272,6 +29272,24 @@
       },
       "participe_present": "surpassant",
       "participe_passe": ["surpassé", "surpassée", "surpassés", "surpassées"]
+    },
+    {
+      "id": "délaisser",
+      "infinitif": "délaisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["délaisse", "délaisses", "délaisse", "délaissons", "délaissez", "délaissent"],
+        "ind.imp": ["délaissais", "délaissais", "délaissait", "délaissions", "délaissiez", "délaissaient"],
+        "ind.ps": ["délaissai", "délaissas", "délaissa", "délaissâmes", "délaissâtes", "délaissèrent"],
+        "ind.fut": ["délaisserai", "délaisseras", "délaissera", "délaisserons", "délaisserez", "délaisseront"],
+        "cond.pres": ["délaisserais", "délaisserais", "délaisserait", "délaisserions", "délaisseriez", "délaisseraient"],
+        "subj.pres": ["délaisse", "délaisses", "délaisse", "délaissions", "délaissiez", "délaissent"],
+        "subj.imp": ["délaissasse", "délaissasses", "délaissât", "délaissassions", "délaissassiez", "délaissassent"],
+        "imper.pres": ["délaisse", "délaissons", "délaissez"]
+      },
+      "participe_present": "délaissant",
+      "participe_passe": ["délaissé", "délaissée", "délaissés", "délaissées"]
     }
   ]
 }
