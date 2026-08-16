@@ -26661,6 +26661,24 @@
       },
       "participe_present": "tapissant",
       "participe_passe": ["tapissé", "tapissée", "tapissés", "tapissées"]
+    },
+    {
+      "id": "engourdir",
+      "infinitif": "engourdir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["engourdis", "engourdis", "engourdit", "engourdissons", "engourdissez", "engourdissent"],
+        "ind.imp": ["engourdissais", "engourdissais", "engourdissait", "engourdissions", "engourdissiez", "engourdissaient"],
+        "ind.ps": ["engourdis", "engourdis", "engourdit", "engourdîmes", "engourdîtes", "engourdirent"],
+        "ind.fut": ["engourdirai", "engourdiras", "engourdira", "engourdirons", "engourdirez", "engourdiront"],
+        "cond.pres": ["engourdirais", "engourdirais", "engourdirait", "engourdirions", "engourdiriez", "engourdiraient"],
+        "subj.pres": ["engourdisse", "engourdisses", "engourdisse", "engourdissions", "engourdissiez", "engourdissent"],
+        "subj.imp": ["engourdisse", "engourdisses", "engourdît", "engourdissions", "engourdissiez", "engourdissent"],
+        "imper.pres": ["engourdis", "engourdissons", "engourdissez"]
+      },
+      "participe_present": "engourdissant",
+      "participe_passe": ["engourdi", "engourdie", "engourdis", "engourdies"]
     }
   ]
 }
