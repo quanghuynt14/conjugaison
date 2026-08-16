@@ -35279,6 +35279,24 @@
       },
       "participe_present": "aérant",
       "participe_passe": ["aéré", "aérée", "aérés", "aérées"]
+    },
+    {
+      "id": "seconder",
+      "infinitif": "seconder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["seconde", "secondes", "seconde", "secondons", "secondez", "secondent"],
+        "ind.imp": ["secondais", "secondais", "secondait", "secondions", "secondiez", "secondaient"],
+        "ind.ps": ["secondai", "secondas", "seconda", "secondâmes", "secondâtes", "secondèrent"],
+        "ind.fut": ["seconderai", "seconderas", "secondera", "seconderons", "seconderez", "seconderont"],
+        "cond.pres": ["seconderais", "seconderais", "seconderait", "seconderions", "seconderiez", "seconderaient"],
+        "subj.pres": ["seconde", "secondes", "seconde", "secondions", "secondiez", "secondent"],
+        "subj.imp": ["secondasse", "secondasses", "secondât", "secondassions", "secondassiez", "secondassent"],
+        "imper.pres": ["seconde", "secondons", "secondez"]
+      },
+      "participe_present": "secondant",
+      "participe_passe": ["secondé", "secondée", "secondés", "secondées"]
     }
   ]
 }
