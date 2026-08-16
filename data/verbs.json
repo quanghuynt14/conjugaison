@@ -3492,6 +3492,24 @@
       },
       "participe_present": "échappant",
       "participe_passe": ["échappé", "échappée", "échappés", "échappées"]
+    },
+    {
+      "id": "utiliser",
+      "infinitif": "utiliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["utilise", "utilises", "utilise", "utilisons", "utilisez", "utilisent"],
+        "ind.imp": ["utilisais", "utilisais", "utilisait", "utilisions", "utilisiez", "utilisaient"],
+        "ind.ps": ["utilisai", "utilisas", "utilisa", "utilisâmes", "utilisâtes", "utilisèrent"],
+        "ind.fut": ["utiliserai", "utiliseras", "utilisera", "utiliserons", "utiliserez", "utiliseront"],
+        "cond.pres": ["utiliserais", "utiliserais", "utiliserait", "utiliserions", "utiliseriez", "utiliseraient"],
+        "subj.pres": ["utilise", "utilises", "utilise", "utilisions", "utilisiez", "utilisent"],
+        "subj.imp": ["utilisasse", "utilisasses", "utilisât", "utilisassions", "utilisassiez", "utilisassent"],
+        "imper.pres": ["utilise", "utilisons", "utilisez"]
+      },
+      "participe_present": "utilisant",
+      "participe_passe": ["utilisé", "utilisée", "utilisés", "utilisées"]
     }
   ]
 }
