@@ -16132,6 +16132,25 @@
       },
       "participe_present": "frôlant",
       "participe_passe": ["frôlé", "frôlée", "frôlés", "frôlées"]
+    },
+    {
+      "id": "sursauter",
+      "infinitif": "sursauter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « sursauté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["sursaute", "sursautes", "sursaute", "sursautons", "sursautez", "sursautent"],
+        "ind.imp": ["sursautais", "sursautais", "sursautait", "sursautions", "sursautiez", "sursautaient"],
+        "ind.ps": ["sursautai", "sursautas", "sursauta", "sursautâmes", "sursautâtes", "sursautèrent"],
+        "ind.fut": ["sursauterai", "sursauteras", "sursautera", "sursauterons", "sursauterez", "sursauteront"],
+        "cond.pres": ["sursauterais", "sursauterais", "sursauterait", "sursauterions", "sursauteriez", "sursauteraient"],
+        "subj.pres": ["sursaute", "sursautes", "sursaute", "sursautions", "sursautiez", "sursautent"],
+        "subj.imp": ["sursautasse", "sursautasses", "sursautât", "sursautassions", "sursautassiez", "sursautassent"],
+        "imper.pres": ["sursaute", "sursautons", "sursautez"]
+      },
+      "participe_present": "sursautant",
+      "participe_passe": ["sursauté", null, null, null]
     }
   ]
 }
