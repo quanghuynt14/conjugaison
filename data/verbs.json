@@ -28413,6 +28413,24 @@
       },
       "participe_present": "confectionnant",
       "participe_passe": ["confectionné", "confectionnée", "confectionnés", "confectionnées"]
+    },
+    {
+      "id": "modeler",
+      "infinitif": "modeler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["modèle", "modèles", "modèle", "modelons", "modelez", "modèlent"],
+        "ind.imp": ["modelais", "modelais", "modelait", "modelions", "modeliez", "modelaient"],
+        "ind.ps": ["modelai", "modelas", "modela", "modelâmes", "modelâtes", "modelèrent"],
+        "ind.fut": ["modèlerai", "modèleras", "modèlera", "modèlerons", "modèlerez", "modèleront"],
+        "cond.pres": ["modèlerais", "modèlerais", "modèlerait", "modèlerions", "modèleriez", "modèleraient"],
+        "subj.pres": ["modèle", "modèles", "modèle", "modelions", "modeliez", "modèlent"],
+        "subj.imp": ["modelasse", "modelasses", "modelât", "modelassions", "modelassiez", "modelassent"],
+        "imper.pres": ["modèle", "modelons", "modelez"]
+      },
+      "participe_present": "modelant",
+      "participe_passe": ["modelé", "modelée", "modelés", "modelées"]
     }
   ]
 }
