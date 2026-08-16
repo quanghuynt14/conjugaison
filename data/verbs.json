@@ -566,6 +566,24 @@
       },
       "participe_present": "partant",
       "participe_passe": ["parti", "partie", "partis", "parties"]
+    },
+    {
+      "id": "connaître",
+      "infinitif": "connaître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["connais", "connais", "connaît", "connaissons", "connaissez", "connaissent"],
+        "ind.imp": ["connaissais", "connaissais", "connaissait", "connaissions", "connaissiez", "connaissaient"],
+        "ind.ps": ["connus", "connus", "connut", "connûmes", "connûtes", "connurent"],
+        "ind.fut": ["connaîtrai", "connaîtras", "connaîtra", "connaîtrons", "connaîtrez", "connaîtront"],
+        "cond.pres": ["connaîtrais", "connaîtrais", "connaîtrait", "connaîtrions", "connaîtriez", "connaîtraient"],
+        "subj.pres": ["connaisse", "connaisses", "connaisse", "connaissions", "connaissiez", "connaissent"],
+        "subj.imp": ["connusse", "connusses", "connût", "connussions", "connussiez", "connussent"],
+        "imper.pres": ["connais", "connaissons", "connaissez"]
+      },
+      "participe_present": "connaissant",
+      "participe_passe": ["connu", "connue", "connus", "connues"]
     }
   ]
 }
