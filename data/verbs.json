@@ -8813,6 +8813,24 @@
       },
       "participe_present": "explosant",
       "participe_passe": ["explosé", "explosée", "explosés", "explosées"]
+    },
+    {
+      "id": "rattraper",
+      "infinitif": "rattraper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rattrape", "rattrapes", "rattrape", "rattrapons", "rattrapez", "rattrapent"],
+        "ind.imp": ["rattrapais", "rattrapais", "rattrapait", "rattrapions", "rattrapiez", "rattrapaient"],
+        "ind.ps": ["rattrapai", "rattrapas", "rattrapa", "rattrapâmes", "rattrapâtes", "rattrapèrent"],
+        "ind.fut": ["rattraperai", "rattraperas", "rattrapera", "rattraperons", "rattraperez", "rattraperont"],
+        "cond.pres": ["rattraperais", "rattraperais", "rattraperait", "rattraperions", "rattraperiez", "rattraperaient"],
+        "subj.pres": ["rattrape", "rattrapes", "rattrape", "rattrapions", "rattrapiez", "rattrapent"],
+        "subj.imp": ["rattrapasse", "rattrapasses", "rattrapât", "rattrapassions", "rattrapassiez", "rattrapassent"],
+        "imper.pres": ["rattrape", "rattrapons", "rattrapez"]
+      },
+      "participe_present": "rattrapant",
+      "participe_passe": ["rattrapé", "rattrapée", "rattrapés", "rattrapées"]
     }
   ]
 }
