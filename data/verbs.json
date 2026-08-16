@@ -10829,6 +10829,24 @@
       },
       "participe_present": "inclinant",
       "participe_passe": ["incliné", "inclinée", "inclinés", "inclinées"]
+    },
+    {
+      "id": "dévorer",
+      "infinitif": "dévorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dévore", "dévores", "dévore", "dévorons", "dévorez", "dévorent"],
+        "ind.imp": ["dévorais", "dévorais", "dévorait", "dévorions", "dévoriez", "dévoraient"],
+        "ind.ps": ["dévorai", "dévoras", "dévora", "dévorâmes", "dévorâtes", "dévorèrent"],
+        "ind.fut": ["dévorerai", "dévoreras", "dévorera", "dévorerons", "dévorerez", "dévoreront"],
+        "cond.pres": ["dévorerais", "dévorerais", "dévorerait", "dévorerions", "dévoreriez", "dévoreraient"],
+        "subj.pres": ["dévore", "dévores", "dévore", "dévorions", "dévoriez", "dévorent"],
+        "subj.imp": ["dévorasse", "dévorasses", "dévorât", "dévorassions", "dévorassiez", "dévorassent"],
+        "imper.pres": ["dévore", "dévorons", "dévorez"]
+      },
+      "participe_present": "dévorant",
+      "participe_passe": ["dévoré", "dévorée", "dévorés", "dévorées"]
     }
   ]
 }
