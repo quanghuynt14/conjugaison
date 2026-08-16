@@ -10448,6 +10448,24 @@
       },
       "participe_present": "guettant",
       "participe_passe": ["guetté", "guettée", "guettés", "guettées"]
+    },
+    {
+      "id": "regagner",
+      "infinitif": "regagner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["regagne", "regagnes", "regagne", "regagnons", "regagnez", "regagnent"],
+        "ind.imp": ["regagnais", "regagnais", "regagnait", "regagnions", "regagniez", "regagnaient"],
+        "ind.ps": ["regagnai", "regagnas", "regagna", "regagnâmes", "regagnâtes", "regagnèrent"],
+        "ind.fut": ["regagnerai", "regagneras", "regagnera", "regagnerons", "regagnerez", "regagneront"],
+        "cond.pres": ["regagnerais", "regagnerais", "regagnerait", "regagnerions", "regagneriez", "regagneraient"],
+        "subj.pres": ["regagne", "regagnes", "regagne", "regagnions", "regagniez", "regagnent"],
+        "subj.imp": ["regagnasse", "regagnasses", "regagnât", "regagnassions", "regagnassiez", "regagnassent"],
+        "imper.pres": ["regagne", "regagnons", "regagnez"]
+      },
+      "participe_present": "regagnant",
+      "participe_passe": ["regagné", "regagnée", "regagnés", "regagnées"]
     }
   ]
 }
