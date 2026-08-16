@@ -17697,6 +17697,24 @@
       },
       "participe_present": "rôdant",
       "participe_passe": ["rôdé", null, null, null]
+    },
+    {
+      "id": "vouer",
+      "infinitif": "vouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["voue", "voues", "voue", "vouons", "vouez", "vouent"],
+        "ind.imp": ["vouais", "vouais", "vouait", "vouions", "vouiez", "vouaient"],
+        "ind.ps": ["vouai", "vouas", "voua", "vouâmes", "vouâtes", "vouèrent"],
+        "ind.fut": ["vouerai", "voueras", "vouera", "vouerons", "vouerez", "voueront"],
+        "cond.pres": ["vouerais", "vouerais", "vouerait", "vouerions", "voueriez", "voueraient"],
+        "subj.pres": ["voue", "voues", "voue", "vouions", "vouiez", "vouent"],
+        "subj.imp": ["vouasse", "vouasses", "vouât", "vouassions", "vouassiez", "vouassent"],
+        "imper.pres": ["voue", "vouons", "vouez"]
+      },
+      "participe_present": "vouant",
+      "participe_passe": ["voué", "vouée", "voués", "vouées"]
     }
   ]
 }
