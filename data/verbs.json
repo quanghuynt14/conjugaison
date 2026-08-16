@@ -5518,6 +5518,24 @@
       },
       "participe_present": "entourant",
       "participe_passe": ["entouré", "entourée", "entourés", "entourées"]
+    },
+    {
+      "id": "promener",
+      "infinitif": "promener",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["promène", "promènes", "promène", "promenons", "promenez", "promènent"],
+        "ind.imp": ["promenais", "promenais", "promenait", "promenions", "promeniez", "promenaient"],
+        "ind.ps": ["promenai", "promenas", "promena", "promenâmes", "promenâtes", "promenèrent"],
+        "ind.fut": ["promènerai", "promèneras", "promènera", "promènerons", "promènerez", "promèneront"],
+        "cond.pres": ["promènerais", "promènerais", "promènerait", "promènerions", "promèneriez", "promèneraient"],
+        "subj.pres": ["promène", "promènes", "promène", "promenions", "promeniez", "promènent"],
+        "subj.imp": ["promenasse", "promenasses", "promenât", "promenassions", "promenassiez", "promenassent"],
+        "imper.pres": ["promène", "promenons", "promenez"]
+      },
+      "participe_present": "promenant",
+      "participe_passe": ["promené", "promenée", "promenés", "promenées"]
     }
   ]
 }
