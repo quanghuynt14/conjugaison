@@ -7421,6 +7421,24 @@
       },
       "participe_present": "pariant",
       "participe_passe": ["parié", "pariée", "pariés", "pariées"]
+    },
+    {
+      "id": "rassurer",
+      "infinitif": "rassurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rassure", "rassures", "rassure", "rassurons", "rassurez", "rassurent"],
+        "ind.imp": ["rassurais", "rassurais", "rassurait", "rassurions", "rassuriez", "rassuraient"],
+        "ind.ps": ["rassurai", "rassuras", "rassura", "rassurâmes", "rassurâtes", "rassurèrent"],
+        "ind.fut": ["rassurerai", "rassureras", "rassurera", "rassurerons", "rassurerez", "rassureront"],
+        "cond.pres": ["rassurerais", "rassurerais", "rassurerait", "rassurerions", "rassureriez", "rassureraient"],
+        "subj.pres": ["rassure", "rassures", "rassure", "rassurions", "rassuriez", "rassurent"],
+        "subj.imp": ["rassurasse", "rassurasses", "rassurât", "rassurassions", "rassurassiez", "rassurassent"],
+        "imper.pres": ["rassure", "rassurons", "rassurez"]
+      },
+      "participe_present": "rassurant",
+      "participe_passe": ["rassuré", "rassurée", "rassurés", "rassurées"]
     }
   ]
 }
