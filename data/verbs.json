@@ -10703,6 +10703,24 @@
       },
       "participe_present": "repérant",
       "participe_passe": ["repéré", "repérée", "repérés", "repérées"]
+    },
+    {
+      "id": "mouiller",
+      "infinitif": "mouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mouille", "mouilles", "mouille", "mouillons", "mouillez", "mouillent"],
+        "ind.imp": ["mouillais", "mouillais", "mouillait", "mouillions", "mouilliez", "mouillaient"],
+        "ind.ps": ["mouillai", "mouillas", "mouilla", "mouillâmes", "mouillâtes", "mouillèrent"],
+        "ind.fut": ["mouillerai", "mouilleras", "mouillera", "mouillerons", "mouillerez", "mouilleront"],
+        "cond.pres": ["mouillerais", "mouillerais", "mouillerait", "mouillerions", "mouilleriez", "mouilleraient"],
+        "subj.pres": ["mouille", "mouilles", "mouille", "mouillions", "mouilliez", "mouillent"],
+        "subj.imp": ["mouillasse", "mouillasses", "mouillât", "mouillassions", "mouillassiez", "mouillassent"],
+        "imper.pres": ["mouille", "mouillons", "mouillez"]
+      },
+      "participe_present": "mouillant",
+      "participe_passe": ["mouillé", "mouillée", "mouillés", "mouillées"]
     }
   ]
 }
