@@ -23092,6 +23092,24 @@
       },
       "participe_present": "tripotant",
       "participe_passe": ["tripoté", "tripotée", "tripotés", "tripotées"]
+    },
+    {
+      "id": "équiper",
+      "infinitif": "équiper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["équipe", "équipes", "équipe", "équipons", "équipez", "équipent"],
+        "ind.imp": ["équipais", "équipais", "équipait", "équipions", "équipiez", "équipaient"],
+        "ind.ps": ["équipai", "équipas", "équipa", "équipâmes", "équipâtes", "équipèrent"],
+        "ind.fut": ["équiperai", "équiperas", "équipera", "équiperons", "équiperez", "équiperont"],
+        "cond.pres": ["équiperais", "équiperais", "équiperait", "équiperions", "équiperiez", "équiperaient"],
+        "subj.pres": ["équipe", "équipes", "équipe", "équipions", "équipiez", "équipent"],
+        "subj.imp": ["équipasse", "équipasses", "équipât", "équipassions", "équipassiez", "équipassent"],
+        "imper.pres": ["équipe", "équipons", "équipez"]
+      },
+      "participe_present": "équipant",
+      "participe_passe": ["équipé", "équipée", "équipés", "équipées"]
     }
   ]
 }
