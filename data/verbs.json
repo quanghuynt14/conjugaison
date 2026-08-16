@@ -24516,6 +24516,24 @@
       },
       "participe_present": "tissant",
       "participe_passe": ["tissé", "tissée", "tissés", "tissées"]
+    },
+    {
+      "id": "bredouiller",
+      "infinitif": "bredouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bredouille", "bredouilles", "bredouille", "bredouillons", "bredouillez", "bredouillent"],
+        "ind.imp": ["bredouillais", "bredouillais", "bredouillait", "bredouillions", "bredouilliez", "bredouillaient"],
+        "ind.ps": ["bredouillai", "bredouillas", "bredouilla", "bredouillâmes", "bredouillâtes", "bredouillèrent"],
+        "ind.fut": ["bredouillerai", "bredouilleras", "bredouillera", "bredouillerons", "bredouillerez", "bredouilleront"],
+        "cond.pres": ["bredouillerais", "bredouillerais", "bredouillerait", "bredouillerions", "bredouilleriez", "bredouilleraient"],
+        "subj.pres": ["bredouille", "bredouilles", "bredouille", "bredouillions", "bredouilliez", "bredouillent"],
+        "subj.imp": ["bredouillasse", "bredouillasses", "bredouillât", "bredouillassions", "bredouillassiez", "bredouillassent"],
+        "imper.pres": ["bredouille", "bredouillons", "bredouillez"]
+      },
+      "participe_present": "bredouillant",
+      "participe_passe": ["bredouillé", "bredouillée", "bredouillés", "bredouillées"]
     }
   ]
 }
