@@ -9284,6 +9284,25 @@
       },
       "participe_present": "vêtant",
       "participe_passe": ["vêtu", "vêtue", "vêtus", "vêtues"]
+    },
+    {
+      "id": "déjeuner",
+      "infinitif": "déjeuner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « déjeuné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["déjeune", "déjeunes", "déjeune", "déjeunons", "déjeunez", "déjeunent"],
+        "ind.imp": ["déjeunais", "déjeunais", "déjeunait", "déjeunions", "déjeuniez", "déjeunaient"],
+        "ind.ps": ["déjeunai", "déjeunas", "déjeuna", "déjeunâmes", "déjeunâtes", "déjeunèrent"],
+        "ind.fut": ["déjeunerai", "déjeuneras", "déjeunera", "déjeunerons", "déjeunerez", "déjeuneront"],
+        "cond.pres": ["déjeunerais", "déjeunerais", "déjeunerait", "déjeunerions", "déjeuneriez", "déjeuneraient"],
+        "subj.pres": ["déjeune", "déjeunes", "déjeune", "déjeunions", "déjeuniez", "déjeunent"],
+        "subj.imp": ["déjeunasse", "déjeunasses", "déjeunât", "déjeunassions", "déjeunassiez", "déjeunassent"],
+        "imper.pres": ["déjeune", "déjeunons", "déjeunez"]
+      },
+      "participe_present": "déjeunant",
+      "participe_passe": ["déjeuné", null, null, null]
     }
   ]
 }
