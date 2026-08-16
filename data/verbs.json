@@ -19360,6 +19360,25 @@
       },
       "participe_present": "accédant",
       "participe_passe": ["accédé", null, null, null]
+    },
+    {
+      "id": "périr",
+      "infinitif": "périr",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « péri » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["péris", "péris", "périt", "périssons", "périssez", "périssent"],
+        "ind.imp": ["périssais", "périssais", "périssait", "périssions", "périssiez", "périssaient"],
+        "ind.ps": ["péris", "péris", "périt", "pérîmes", "pérîtes", "périrent"],
+        "ind.fut": ["périrai", "périras", "périra", "périrons", "périrez", "périront"],
+        "cond.pres": ["périrais", "périrais", "périrait", "péririons", "péririez", "périraient"],
+        "subj.pres": ["périsse", "périsses", "périsse", "périssions", "périssiez", "périssent"],
+        "subj.imp": ["périsse", "périsses", "pérît", "périssions", "périssiez", "périssent"],
+        "imper.pres": ["péris", "périssons", "périssez"]
+      },
+      "participe_present": "périssant",
+      "participe_passe": ["péri", null, null, null]
     }
   ]
 }
