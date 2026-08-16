@@ -9412,6 +9412,24 @@
       },
       "participe_present": "retombant",
       "participe_passe": ["retombé", "retombée", "retombés", "retombées"]
+    },
+    {
+      "id": "étaler",
+      "infinitif": "étaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["étale", "étales", "étale", "étalons", "étalez", "étalent"],
+        "ind.imp": ["étalais", "étalais", "étalait", "étalions", "étaliez", "étalaient"],
+        "ind.ps": ["étalai", "étalas", "étala", "étalâmes", "étalâtes", "étalèrent"],
+        "ind.fut": ["étalerai", "étaleras", "étalera", "étalerons", "étalerez", "étaleront"],
+        "cond.pres": ["étalerais", "étalerais", "étalerait", "étalerions", "étaleriez", "étaleraient"],
+        "subj.pres": ["étale", "étales", "étale", "étalions", "étaliez", "étalent"],
+        "subj.imp": ["étalasse", "étalasses", "étalât", "étalassions", "étalassiez", "étalassent"],
+        "imper.pres": ["étale", "étalons", "étalez"]
+      },
+      "participe_present": "étalant",
+      "participe_passe": ["étalé", "étalée", "étalés", "étalées"]
     }
   ]
 }
