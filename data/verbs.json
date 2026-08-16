@@ -14464,6 +14464,24 @@
       },
       "participe_present": "longeant",
       "participe_passe": ["longé", "longée", "longés", "longées"]
+    },
+    {
+      "id": "aviser",
+      "infinitif": "aviser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["avise", "avises", "avise", "avisons", "avisez", "avisent"],
+        "ind.imp": ["avisais", "avisais", "avisait", "avisions", "avisiez", "avisaient"],
+        "ind.ps": ["avisai", "avisas", "avisa", "avisâmes", "avisâtes", "avisèrent"],
+        "ind.fut": ["aviserai", "aviseras", "avisera", "aviserons", "aviserez", "aviseront"],
+        "cond.pres": ["aviserais", "aviserais", "aviserait", "aviserions", "aviseriez", "aviseraient"],
+        "subj.pres": ["avise", "avises", "avise", "avisions", "avisiez", "avisent"],
+        "subj.imp": ["avisasse", "avisasses", "avisât", "avisassions", "avisassiez", "avisassent"],
+        "imper.pres": ["avise", "avisons", "avisez"]
+      },
+      "participe_present": "avisant",
+      "participe_passe": ["avisé", "avisée", "avisés", "avisées"]
     }
   ]
 }
