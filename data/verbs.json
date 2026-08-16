@@ -20125,6 +20125,24 @@
       },
       "participe_present": "reconstituant",
       "participe_passe": ["reconstitué", "reconstituée", "reconstitués", "reconstituées"]
+    },
+    {
+      "id": "décourager",
+      "infinitif": "décourager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décourage", "décourages", "décourage", "décourageons", "découragez", "découragent"],
+        "ind.imp": ["décourageais", "décourageais", "décourageait", "découragions", "découragiez", "décourageaient"],
+        "ind.ps": ["décourageai", "décourageas", "découragea", "décourageâmes", "décourageâtes", "découragèrent"],
+        "ind.fut": ["découragerai", "décourageras", "découragera", "découragerons", "découragerez", "décourageront"],
+        "cond.pres": ["découragerais", "découragerais", "découragerait", "découragerions", "décourageriez", "décourageraient"],
+        "subj.pres": ["décourage", "décourages", "décourage", "découragions", "découragiez", "découragent"],
+        "subj.imp": ["décourageasse", "décourageasses", "décourageât", "décourageassions", "décourageassiez", "décourageassent"],
+        "imper.pres": ["décourage", "décourageons", "découragez"]
+      },
+      "participe_present": "décourageant",
+      "participe_passe": ["découragé", "découragée", "découragés", "découragées"]
     }
   ]
 }
