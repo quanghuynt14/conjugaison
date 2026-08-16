@@ -30020,6 +30020,24 @@
       },
       "participe_present": "rétorquant",
       "participe_passe": ["rétorqué", "rétorquée", "rétorqués", "rétorquées"]
+    },
+    {
+      "id": "regrouper",
+      "infinitif": "regrouper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["regroupe", "regroupes", "regroupe", "regroupons", "regroupez", "regroupent"],
+        "ind.imp": ["regroupais", "regroupais", "regroupait", "regroupions", "regroupiez", "regroupaient"],
+        "ind.ps": ["regroupai", "regroupas", "regroupa", "regroupâmes", "regroupâtes", "regroupèrent"],
+        "ind.fut": ["regrouperai", "regrouperas", "regroupera", "regrouperons", "regrouperez", "regrouperont"],
+        "cond.pres": ["regrouperais", "regrouperais", "regrouperait", "regrouperions", "regrouperiez", "regrouperaient"],
+        "subj.pres": ["regroupe", "regroupes", "regroupe", "regroupions", "regroupiez", "regroupent"],
+        "subj.imp": ["regroupasse", "regroupasses", "regroupât", "regroupassions", "regroupassiez", "regroupassent"],
+        "imper.pres": ["regroupe", "regroupons", "regroupez"]
+      },
+      "participe_present": "regroupant",
+      "participe_passe": ["regroupé", "regroupée", "regroupés", "regroupées"]
     }
   ]
 }
