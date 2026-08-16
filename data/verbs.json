@@ -34634,6 +34634,25 @@
       },
       "participe_present": "valsant",
       "participe_passe": ["valsé", "valsée", "valsés", "valsées"]
+    },
+    {
+      "id": "égayer",
+      "infinitif": "égayer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « j’égaie » ou « j’égaye ».",
+      "tenses": {
+        "ind.pres": [["égaie", "égaye"], ["égaies", "égayes"], ["égaie", "égaye"], "égayons", "égayez", ["égaient", "égayent"]],
+        "ind.imp": ["égayais", "égayais", "égayait", "égayions", "égayiez", "égayaient"],
+        "ind.ps": ["égayai", "égayas", "égaya", "égayâmes", "égayâtes", "égayèrent"],
+        "ind.fut": [["égaierai", "égayerai"], ["égaieras", "égayeras"], ["égaiera", "égayera"], ["égaierons", "égayerons"], ["égaierez", "égayerez"], ["égaieront", "égayeront"]],
+        "cond.pres": [["égaierais", "égayerais"], ["égaierais", "égayerais"], ["égaierait", "égayerait"], ["égaierions", "égayerions"], ["égaieriez", "égayeriez"], ["égaieraient", "égayeraient"]],
+        "subj.pres": [["égaie", "égaye"], ["égaies", "égayes"], ["égaie", "égaye"], "égayions", "égayiez", ["égaient", "égayent"]],
+        "subj.imp": ["égayasse", "égayasses", "égayât", "égayassions", "égayassiez", "égayassent"],
+        "imper.pres": [["égaie", "égaye"], "égayons", "égayez"]
+      },
+      "participe_present": "égayant",
+      "participe_passe": ["égayé", "égayée", "égayés", "égayées"]
     }
   ]
 }
