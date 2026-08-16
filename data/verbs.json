@@ -31185,6 +31185,24 @@
       },
       "participe_present": "pelotant",
       "participe_passe": ["peloté", "pelotée", "pelotés", "pelotées"]
+    },
+    {
+      "id": "torcher",
+      "infinitif": "torcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["torche", "torches", "torche", "torchons", "torchez", "torchent"],
+        "ind.imp": ["torchais", "torchais", "torchait", "torchions", "torchiez", "torchaient"],
+        "ind.ps": ["torchai", "torchas", "torcha", "torchâmes", "torchâtes", "torchèrent"],
+        "ind.fut": ["torcherai", "torcheras", "torchera", "torcherons", "torcherez", "torcheront"],
+        "cond.pres": ["torcherais", "torcherais", "torcherait", "torcherions", "torcheriez", "torcheraient"],
+        "subj.pres": ["torche", "torches", "torche", "torchions", "torchiez", "torchent"],
+        "subj.imp": ["torchasse", "torchasses", "torchât", "torchassions", "torchassiez", "torchassent"],
+        "imper.pres": ["torche", "torchons", "torchez"]
+      },
+      "participe_present": "torchant",
+      "participe_passe": ["torché", "torchée", "torchés", "torchées"]
     }
   ]
 }
