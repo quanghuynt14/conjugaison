@@ -9664,6 +9664,24 @@
       },
       "participe_present": "conseillant",
       "participe_passe": ["conseillé", "conseillée", "conseillés", "conseillées"]
+    },
+    {
+      "id": "mesurer",
+      "infinitif": "mesurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mesure", "mesures", "mesure", "mesurons", "mesurez", "mesurent"],
+        "ind.imp": ["mesurais", "mesurais", "mesurait", "mesurions", "mesuriez", "mesuraient"],
+        "ind.ps": ["mesurai", "mesuras", "mesura", "mesurâmes", "mesurâtes", "mesurèrent"],
+        "ind.fut": ["mesurerai", "mesureras", "mesurera", "mesurerons", "mesurerez", "mesureront"],
+        "cond.pres": ["mesurerais", "mesurerais", "mesurerait", "mesurerions", "mesureriez", "mesureraient"],
+        "subj.pres": ["mesure", "mesures", "mesure", "mesurions", "mesuriez", "mesurent"],
+        "subj.imp": ["mesurasse", "mesurasses", "mesurât", "mesurassions", "mesurassiez", "mesurassent"],
+        "imper.pres": ["mesure", "mesurons", "mesurez"]
+      },
+      "participe_present": "mesurant",
+      "participe_passe": ["mesuré", "mesurée", "mesurés", "mesurées"]
     }
   ]
 }
