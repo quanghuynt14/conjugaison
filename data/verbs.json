@@ -7784,6 +7784,24 @@
       },
       "participe_present": "soignant",
       "participe_passe": ["soigné", "soignée", "soignés", "soignées"]
+    },
+    {
+      "id": "indiquer",
+      "infinitif": "indiquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["indique", "indiques", "indique", "indiquons", "indiquez", "indiquent"],
+        "ind.imp": ["indiquais", "indiquais", "indiquait", "indiquions", "indiquiez", "indiquaient"],
+        "ind.ps": ["indiquai", "indiquas", "indiqua", "indiquâmes", "indiquâtes", "indiquèrent"],
+        "ind.fut": ["indiquerai", "indiqueras", "indiquera", "indiquerons", "indiquerez", "indiqueront"],
+        "cond.pres": ["indiquerais", "indiquerais", "indiquerait", "indiquerions", "indiqueriez", "indiqueraient"],
+        "subj.pres": ["indique", "indiques", "indique", "indiquions", "indiquiez", "indiquent"],
+        "subj.imp": ["indiquasse", "indiquasses", "indiquât", "indiquassions", "indiquassiez", "indiquassent"],
+        "imper.pres": ["indique", "indiquons", "indiquez"]
+      },
+      "participe_present": "indiquant",
+      "participe_passe": ["indiqué", "indiquée", "indiqués", "indiquées"]
     }
   ]
 }
