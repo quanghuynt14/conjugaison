@@ -13118,6 +13118,24 @@
       },
       "participe_present": "bâtissant",
       "participe_passe": ["bâti", "bâtie", "bâtis", "bâties"]
+    },
+    {
+      "id": "introduire",
+      "infinitif": "introduire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["introduis", "introduis", "introduit", "introduisons", "introduisez", "introduisent"],
+        "ind.imp": ["introduisais", "introduisais", "introduisait", "introduisions", "introduisiez", "introduisaient"],
+        "ind.ps": ["introduisis", "introduisis", "introduisit", "introduisîmes", "introduisîtes", "introduisirent"],
+        "ind.fut": ["introduirai", "introduiras", "introduira", "introduirons", "introduirez", "introduiront"],
+        "cond.pres": ["introduirais", "introduirais", "introduirait", "introduirions", "introduiriez", "introduiraient"],
+        "subj.pres": ["introduise", "introduises", "introduise", "introduisions", "introduisiez", "introduisent"],
+        "subj.imp": ["introduisisse", "introduisisses", "introduisît", "introduisissions", "introduisissiez", "introduisissent"],
+        "imper.pres": ["introduis", "introduisons", "introduisez"]
+      },
+      "participe_present": "introduisant",
+      "participe_passe": ["introduit", "introduite", "introduits", "introduites"]
     }
   ]
 }
