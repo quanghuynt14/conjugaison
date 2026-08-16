@@ -16187,6 +16187,24 @@
       },
       "participe_present": "chérissant",
       "participe_passe": ["chéri", "chérie", "chéris", "chéries"]
+    },
+    {
+      "id": "hâter",
+      "infinitif": "hâter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["hâte", "hâtes", "hâte", "hâtons", "hâtez", "hâtent"],
+        "ind.imp": ["hâtais", "hâtais", "hâtait", "hâtions", "hâtiez", "hâtaient"],
+        "ind.ps": ["hâtai", "hâtas", "hâta", "hâtâmes", "hâtâtes", "hâtèrent"],
+        "ind.fut": ["hâterai", "hâteras", "hâtera", "hâterons", "hâterez", "hâteront"],
+        "cond.pres": ["hâterais", "hâterais", "hâterait", "hâterions", "hâteriez", "hâteraient"],
+        "subj.pres": ["hâte", "hâtes", "hâte", "hâtions", "hâtiez", "hâtent"],
+        "subj.imp": ["hâtasse", "hâtasses", "hâtât", "hâtassions", "hâtassiez", "hâtassent"],
+        "imper.pres": ["hâte", "hâtons", "hâtez"]
+      },
+      "participe_present": "hâtant",
+      "participe_passe": ["hâté", "hâtée", "hâtés", "hâtées"]
     }
   ]
 }
