@@ -2732,6 +2732,24 @@
       },
       "participe_present": "chantant",
       "participe_passe": ["chanté", "chantée", "chantés", "chantées"]
+    },
+    {
+      "id": "avancer",
+      "infinitif": "avancer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["avance", "avances", "avance", "avançons", "avancez", "avancent"],
+        "ind.imp": ["avançais", "avançais", "avançait", "avancions", "avanciez", "avançaient"],
+        "ind.ps": ["avançai", "avanças", "avança", "avançâmes", "avançâtes", "avancèrent"],
+        "ind.fut": ["avancerai", "avanceras", "avancera", "avancerons", "avancerez", "avanceront"],
+        "cond.pres": ["avancerais", "avancerais", "avancerait", "avancerions", "avanceriez", "avanceraient"],
+        "subj.pres": ["avance", "avances", "avance", "avancions", "avanciez", "avancent"],
+        "subj.imp": ["avançasse", "avançasses", "avançât", "avançassions", "avançassiez", "avançassent"],
+        "imper.pres": ["avance", "avançons", "avancez"]
+      },
+      "participe_present": "avançant",
+      "participe_passe": ["avancé", "avancée", "avancés", "avancées"]
     }
   ]
 }
