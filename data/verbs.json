@@ -29050,6 +29050,25 @@
       },
       "participe_present": "vernissant",
       "participe_passe": ["verni", "vernie", "vernis", "vernies"]
+    },
+    {
+      "id": "humer",
+      "infinitif": "humer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "h_aspire": true,
+      "tenses": {
+        "ind.pres": ["hume", "humes", "hume", "humons", "humez", "hument"],
+        "ind.imp": ["humais", "humais", "humait", "humions", "humiez", "humaient"],
+        "ind.ps": ["humai", "humas", "huma", "humâmes", "humâtes", "humèrent"],
+        "ind.fut": ["humerai", "humeras", "humera", "humerons", "humerez", "humeront"],
+        "cond.pres": ["humerais", "humerais", "humerait", "humerions", "humeriez", "humeraient"],
+        "subj.pres": ["hume", "humes", "hume", "humions", "humiez", "hument"],
+        "subj.imp": ["humasse", "humasses", "humât", "humassions", "humassiez", "humassent"],
+        "imper.pres": ["hume", "humons", "humez"]
+      },
+      "participe_present": "humant",
+      "participe_passe": ["humé", "humée", "humés", "humées"]
     }
   ]
 }
