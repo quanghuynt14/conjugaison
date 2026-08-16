@@ -36424,6 +36424,24 @@
       },
       "participe_present": "geignant",
       "participe_passe": ["geint", "geinte", "geints", "geintes"]
+    },
+    {
+      "id": "stabiliser",
+      "infinitif": "stabiliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["stabilise", "stabilises", "stabilise", "stabilisons", "stabilisez", "stabilisent"],
+        "ind.imp": ["stabilisais", "stabilisais", "stabilisait", "stabilisions", "stabilisiez", "stabilisaient"],
+        "ind.ps": ["stabilisai", "stabilisas", "stabilisa", "stabilisâmes", "stabilisâtes", "stabilisèrent"],
+        "ind.fut": ["stabiliserai", "stabiliseras", "stabilisera", "stabiliserons", "stabiliserez", "stabiliseront"],
+        "cond.pres": ["stabiliserais", "stabiliserais", "stabiliserait", "stabiliserions", "stabiliseriez", "stabiliseraient"],
+        "subj.pres": ["stabilise", "stabilises", "stabilise", "stabilisions", "stabilisiez", "stabilisent"],
+        "subj.imp": ["stabilisasse", "stabilisasses", "stabilisât", "stabilisassions", "stabilisassiez", "stabilisassent"],
+        "imper.pres": ["stabilise", "stabilisons", "stabilisez"]
+      },
+      "participe_present": "stabilisant",
+      "participe_passe": ["stabilisé", "stabilisée", "stabilisés", "stabilisées"]
     }
   ]
 }
