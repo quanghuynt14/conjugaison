@@ -25916,6 +25916,24 @@
       },
       "participe_present": "purifiant",
       "participe_passe": ["purifié", "purifiée", "purifiés", "purifiées"]
+    },
+    {
+      "id": "esquiver",
+      "infinitif": "esquiver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["esquive", "esquives", "esquive", "esquivons", "esquivez", "esquivent"],
+        "ind.imp": ["esquivais", "esquivais", "esquivait", "esquivions", "esquiviez", "esquivaient"],
+        "ind.ps": ["esquivai", "esquivas", "esquiva", "esquivâmes", "esquivâtes", "esquivèrent"],
+        "ind.fut": ["esquiverai", "esquiveras", "esquivera", "esquiverons", "esquiverez", "esquiveront"],
+        "cond.pres": ["esquiverais", "esquiverais", "esquiverait", "esquiverions", "esquiveriez", "esquiveraient"],
+        "subj.pres": ["esquive", "esquives", "esquive", "esquivions", "esquiviez", "esquivent"],
+        "subj.imp": ["esquivasse", "esquivasses", "esquivât", "esquivassions", "esquivassiez", "esquivassent"],
+        "imper.pres": ["esquive", "esquivons", "esquivez"]
+      },
+      "participe_present": "esquivant",
+      "participe_passe": ["esquivé", "esquivée", "esquivés", "esquivées"]
     }
   ]
 }
