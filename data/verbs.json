@@ -28743,6 +28743,24 @@
       },
       "participe_present": "vénérant",
       "participe_passe": ["vénéré", "vénérée", "vénérés", "vénérées"]
+    },
+    {
+      "id": "ruminer",
+      "infinitif": "ruminer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rumine", "rumines", "rumine", "ruminons", "ruminez", "ruminent"],
+        "ind.imp": ["ruminais", "ruminais", "ruminait", "ruminions", "ruminiez", "ruminaient"],
+        "ind.ps": ["ruminai", "ruminas", "rumina", "ruminâmes", "ruminâtes", "ruminèrent"],
+        "ind.fut": ["ruminerai", "rumineras", "ruminera", "ruminerons", "ruminerez", "rumineront"],
+        "cond.pres": ["ruminerais", "ruminerais", "ruminerait", "ruminerions", "rumineriez", "rumineraient"],
+        "subj.pres": ["rumine", "rumines", "rumine", "ruminions", "ruminiez", "ruminent"],
+        "subj.imp": ["ruminasse", "ruminasses", "ruminât", "ruminassions", "ruminassiez", "ruminassent"],
+        "imper.pres": ["rumine", "ruminons", "ruminez"]
+      },
+      "participe_present": "ruminant",
+      "participe_passe": ["ruminé", "ruminée", "ruminés", "ruminées"]
     }
   ]
 }
