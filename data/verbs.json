@@ -24970,6 +24970,24 @@
       },
       "participe_present": "épatant",
       "participe_passe": ["épaté", "épatée", "épatés", "épatées"]
+    },
+    {
+      "id": "dénouer",
+      "infinitif": "dénouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dénoue", "dénoues", "dénoue", "dénouons", "dénouez", "dénouent"],
+        "ind.imp": ["dénouais", "dénouais", "dénouait", "dénouions", "dénouiez", "dénouaient"],
+        "ind.ps": ["dénouai", "dénouas", "dénoua", "dénouâmes", "dénouâtes", "dénouèrent"],
+        "ind.fut": ["dénouerai", "dénoueras", "dénouera", "dénouerons", "dénouerez", "dénoueront"],
+        "cond.pres": ["dénouerais", "dénouerais", "dénouerait", "dénouerions", "dénoueriez", "dénoueraient"],
+        "subj.pres": ["dénoue", "dénoues", "dénoue", "dénouions", "dénouiez", "dénouent"],
+        "subj.imp": ["dénouasse", "dénouasses", "dénouât", "dénouassions", "dénouassiez", "dénouassent"],
+        "imper.pres": ["dénoue", "dénouons", "dénouez"]
+      },
+      "participe_present": "dénouant",
+      "participe_passe": ["dénoué", "dénouée", "dénoués", "dénouées"]
     }
   ]
 }
