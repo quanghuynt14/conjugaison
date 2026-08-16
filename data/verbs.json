@@ -26624,6 +26624,25 @@
       },
       "participe_present": "ranimant",
       "participe_passe": ["ranimé", "ranimée", "ranimés", "ranimées"]
+    },
+    {
+      "id": "étinceler",
+      "infinitif": "étinceler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « étincelé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["étincelle", "étincelles", "étincelle", "étincelons", "étincelez", "étincellent"],
+        "ind.imp": ["étincelais", "étincelais", "étincelait", "étincelions", "étinceliez", "étincelaient"],
+        "ind.ps": ["étincelai", "étincelas", "étincela", "étincelâmes", "étincelâtes", "étincelèrent"],
+        "ind.fut": ["étincellerai", "étincelleras", "étincellera", "étincellerons", "étincellerez", "étincelleront"],
+        "cond.pres": ["étincellerais", "étincellerais", "étincellerait", "étincellerions", "étincelleriez", "étincelleraient"],
+        "subj.pres": ["étincelle", "étincelles", "étincelle", "étincelions", "étinceliez", "étincellent"],
+        "subj.imp": ["étincelasse", "étincelasses", "étincelât", "étincelassions", "étincelassiez", "étincelassent"],
+        "imper.pres": ["étincelle", "étincelons", "étincelez"]
+      },
+      "participe_present": "étincelant",
+      "participe_passe": ["étincelé", null, null, null]
     }
   ]
 }
