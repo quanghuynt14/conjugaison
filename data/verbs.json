@@ -17604,6 +17604,25 @@
       },
       "participe_present": "investissant",
       "participe_passe": ["investi", "investie", "investis", "investies"]
+    },
+    {
+      "id": "nuire",
+      "infinitif": "nuire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « nui » est invariable : nuire se construit avec à, et un verbe sans complément d'objet direct n'a rien avec quoi accorder son participe.",
+      "tenses": {
+        "ind.pres": ["nuis", "nuis", "nuit", "nuisons", "nuisez", "nuisent"],
+        "ind.imp": ["nuisais", "nuisais", "nuisait", "nuisions", "nuisiez", "nuisaient"],
+        "ind.ps": ["nuisis", "nuisis", "nuisit", "nuisîmes", "nuisîtes", "nuisirent"],
+        "ind.fut": ["nuirai", "nuiras", "nuira", "nuirons", "nuirez", "nuiront"],
+        "cond.pres": ["nuirais", "nuirais", "nuirait", "nuirions", "nuiriez", "nuiraient"],
+        "subj.pres": ["nuise", "nuises", "nuise", "nuisions", "nuisiez", "nuisent"],
+        "subj.imp": ["nuisisse", "nuisisses", "nuisît", "nuisissions", "nuisissiez", "nuisissent"],
+        "imper.pres": ["nuis", "nuisons", "nuisez"]
+      },
+      "participe_present": "nuisant",
+      "participe_passe": ["nui", null, null, null]
     }
   ]
 }
