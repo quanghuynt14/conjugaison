@@ -3636,6 +3636,24 @@
       },
       "participe_present": "chargeant",
       "participe_passe": ["chargé", "chargée", "chargés", "chargées"]
+    },
+    {
+      "id": "accompagner",
+      "infinitif": "accompagner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accompagne", "accompagnes", "accompagne", "accompagnons", "accompagnez", "accompagnent"],
+        "ind.imp": ["accompagnais", "accompagnais", "accompagnait", "accompagnions", "accompagniez", "accompagnaient"],
+        "ind.ps": ["accompagnai", "accompagnas", "accompagna", "accompagnâmes", "accompagnâtes", "accompagnèrent"],
+        "ind.fut": ["accompagnerai", "accompagneras", "accompagnera", "accompagnerons", "accompagnerez", "accompagneront"],
+        "cond.pres": ["accompagnerais", "accompagnerais", "accompagnerait", "accompagnerions", "accompagneriez", "accompagneraient"],
+        "subj.pres": ["accompagne", "accompagnes", "accompagne", "accompagnions", "accompagniez", "accompagnent"],
+        "subj.imp": ["accompagnasse", "accompagnasses", "accompagnât", "accompagnassions", "accompagnassiez", "accompagnassent"],
+        "imper.pres": ["accompagne", "accompagnons", "accompagnez"]
+      },
+      "participe_present": "accompagnant",
+      "participe_passe": ["accompagné", "accompagnée", "accompagnés", "accompagnées"]
     }
   ]
 }
