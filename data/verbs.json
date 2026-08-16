@@ -32611,6 +32611,24 @@
       },
       "participe_present": "attablant",
       "participe_passe": ["attablé", "attablée", "attablés", "attablées"]
+    },
+    {
+      "id": "importuner",
+      "infinitif": "importuner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["importune", "importunes", "importune", "importunons", "importunez", "importunent"],
+        "ind.imp": ["importunais", "importunais", "importunait", "importunions", "importuniez", "importunaient"],
+        "ind.ps": ["importunai", "importunas", "importuna", "importunâmes", "importunâtes", "importunèrent"],
+        "ind.fut": ["importunerai", "importuneras", "importunera", "importunerons", "importunerez", "importuneront"],
+        "cond.pres": ["importunerais", "importunerais", "importunerait", "importunerions", "importuneriez", "importuneraient"],
+        "subj.pres": ["importune", "importunes", "importune", "importunions", "importuniez", "importunent"],
+        "subj.imp": ["importunasse", "importunasses", "importunât", "importunassions", "importunassiez", "importunassent"],
+        "imper.pres": ["importune", "importunons", "importunez"]
+      },
+      "participe_present": "importunant",
+      "participe_passe": ["importuné", "importunée", "importunés", "importunées"]
     }
   ]
 }
