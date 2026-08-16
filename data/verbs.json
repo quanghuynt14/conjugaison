@@ -30056,6 +30056,24 @@
       },
       "participe_present": "suspectant",
       "participe_passe": ["suspecté", "suspectée", "suspectés", "suspectées"]
+    },
+    {
+      "id": "confisquer",
+      "infinitif": "confisquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["confisque", "confisques", "confisque", "confisquons", "confisquez", "confisquent"],
+        "ind.imp": ["confisquais", "confisquais", "confisquait", "confisquions", "confisquiez", "confisquaient"],
+        "ind.ps": ["confisquai", "confisquas", "confisqua", "confisquâmes", "confisquâtes", "confisquèrent"],
+        "ind.fut": ["confisquerai", "confisqueras", "confisquera", "confisquerons", "confisquerez", "confisqueront"],
+        "cond.pres": ["confisquerais", "confisquerais", "confisquerait", "confisquerions", "confisqueriez", "confisqueraient"],
+        "subj.pres": ["confisque", "confisques", "confisque", "confisquions", "confisquiez", "confisquent"],
+        "subj.imp": ["confisquasse", "confisquasses", "confisquât", "confisquassions", "confisquassiez", "confisquassent"],
+        "imper.pres": ["confisque", "confisquons", "confisquez"]
+      },
+      "participe_present": "confisquant",
+      "participe_passe": ["confisqué", "confisquée", "confisqués", "confisquées"]
     }
   ]
 }
