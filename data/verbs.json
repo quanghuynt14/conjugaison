@@ -6749,6 +6749,25 @@
       },
       "participe_present": "grandissant",
       "participe_passe": ["grandi", "grandie", "grandis", "grandies"]
+    },
+    {
+      "id": "briller",
+      "infinitif": "briller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « brillé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["brille", "brilles", "brille", "brillons", "brillez", "brillent"],
+        "ind.imp": ["brillais", "brillais", "brillait", "brillions", "brilliez", "brillaient"],
+        "ind.ps": ["brillai", "brillas", "brilla", "brillâmes", "brillâtes", "brillèrent"],
+        "ind.fut": ["brillerai", "brilleras", "brillera", "brillerons", "brillerez", "brilleront"],
+        "cond.pres": ["brillerais", "brillerais", "brillerait", "brillerions", "brilleriez", "brilleraient"],
+        "subj.pres": ["brille", "brilles", "brille", "brillions", "brilliez", "brillent"],
+        "subj.imp": ["brillasse", "brillasses", "brillât", "brillassions", "brillassiez", "brillassent"],
+        "imper.pres": ["brille", "brillons", "brillez"]
+      },
+      "participe_present": "brillant",
+      "participe_passe": ["brillé", null, null, null]
     }
   ]
 }
