@@ -27029,6 +27029,25 @@
       },
       "participe_present": "démerdant",
       "participe_passe": ["démerdé", "démerdée", "démerdés", "démerdées"]
+    },
+    {
+      "id": "neiger",
+      "infinitif": "neiger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Verbe impersonnel : « il neige », et rien d'autre. Pas d'impératif, et un participe passé qui ne s'accorde avec rien.",
+      "tenses": {
+        "ind.pres": [null, null, "neige", null, null, null],
+        "ind.imp": [null, null, "neigeait", null, null, null],
+        "ind.ps": [null, null, "neigea", null, null, null],
+        "ind.fut": [null, null, "neigera", null, null, null],
+        "cond.pres": [null, null, "neigerait", null, null, null],
+        "subj.pres": [null, null, "neige", null, null, null],
+        "subj.imp": [null, null, "neigeât", null, null, null],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": "neigeant",
+      "participe_passe": ["neigé", null, null, null]
     }
   ]
 }
