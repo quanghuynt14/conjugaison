@@ -3672,6 +3672,24 @@
       },
       "participe_present": "brûlant",
       "participe_passe": ["brûlé", "brûlée", "brûlés", "brûlées"]
+    },
+    {
+      "id": "calmer",
+      "infinitif": "calmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["calme", "calmes", "calme", "calmons", "calmez", "calment"],
+        "ind.imp": ["calmais", "calmais", "calmait", "calmions", "calmiez", "calmaient"],
+        "ind.ps": ["calmai", "calmas", "calma", "calmâmes", "calmâtes", "calmèrent"],
+        "ind.fut": ["calmerai", "calmeras", "calmera", "calmerons", "calmerez", "calmeront"],
+        "cond.pres": ["calmerais", "calmerais", "calmerait", "calmerions", "calmeriez", "calmeraient"],
+        "subj.pres": ["calme", "calmes", "calme", "calmions", "calmiez", "calment"],
+        "subj.imp": ["calmasse", "calmasses", "calmât", "calmassions", "calmassiez", "calmassent"],
+        "imper.pres": ["calme", "calmons", "calmez"]
+      },
+      "participe_present": "calmant",
+      "participe_passe": ["calmé", "calmée", "calmés", "calmées"]
     }
   ]
 }
