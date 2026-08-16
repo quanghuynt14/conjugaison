@@ -29179,6 +29179,24 @@
       },
       "participe_present": "altérant",
       "participe_passe": ["altéré", "altérée", "altérés", "altérées"]
+    },
+    {
+      "id": "convier",
+      "infinitif": "convier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["convie", "convies", "convie", "convions", "conviez", "convient"],
+        "ind.imp": ["conviais", "conviais", "conviait", "conviions", "conviiez", "conviaient"],
+        "ind.ps": ["conviai", "convias", "convia", "conviâmes", "conviâtes", "convièrent"],
+        "ind.fut": ["convierai", "convieras", "conviera", "convierons", "convierez", "convieront"],
+        "cond.pres": ["convierais", "convierais", "convierait", "convierions", "convieriez", "convieraient"],
+        "subj.pres": ["convie", "convies", "convie", "conviions", "conviiez", "convient"],
+        "subj.imp": ["conviasse", "conviasses", "conviât", "conviassions", "conviassiez", "conviassent"],
+        "imper.pres": ["convie", "convions", "conviez"]
+      },
+      "participe_present": "conviant",
+      "participe_passe": ["convié", "conviée", "conviés", "conviées"]
     }
   ]
 }
