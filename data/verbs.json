@@ -31569,6 +31569,25 @@
       },
       "participe_present": "pédalant",
       "participe_passe": ["pédalé", null, null, null]
+    },
+    {
+      "id": "tanguer",
+      "infinitif": "tanguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « tangué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["tangue", "tangues", "tangue", "tanguons", "tanguez", "tanguent"],
+        "ind.imp": ["tanguais", "tanguais", "tanguait", "tanguions", "tanguiez", "tanguaient"],
+        "ind.ps": ["tanguai", "tanguas", "tangua", "tanguâmes", "tanguâtes", "tanguèrent"],
+        "ind.fut": ["tanguerai", "tangueras", "tanguera", "tanguerons", "tanguerez", "tangueront"],
+        "cond.pres": ["tanguerais", "tanguerais", "tanguerait", "tanguerions", "tangueriez", "tangueraient"],
+        "subj.pres": ["tangue", "tangues", "tangue", "tanguions", "tanguiez", "tanguent"],
+        "subj.imp": ["tanguasse", "tanguasses", "tanguât", "tanguassions", "tanguassiez", "tanguassent"],
+        "imper.pres": ["tangue", "tanguons", "tanguez"]
+      },
+      "participe_present": "tanguant",
+      "participe_passe": ["tangué", null, null, null]
     }
   ]
 }
