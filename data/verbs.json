@@ -23835,6 +23835,24 @@
       },
       "participe_present": "dégustant",
       "participe_passe": ["dégusté", "dégustée", "dégustés", "dégustées"]
+    },
+    {
+      "id": "répugner",
+      "infinitif": "répugner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["répugne", "répugnes", "répugne", "répugnons", "répugnez", "répugnent"],
+        "ind.imp": ["répugnais", "répugnais", "répugnait", "répugnions", "répugniez", "répugnaient"],
+        "ind.ps": ["répugnai", "répugnas", "répugna", "répugnâmes", "répugnâtes", "répugnèrent"],
+        "ind.fut": ["répugnerai", "répugneras", "répugnera", "répugnerons", "répugnerez", "répugneront"],
+        "cond.pres": ["répugnerais", "répugnerais", "répugnerait", "répugnerions", "répugneriez", "répugneraient"],
+        "subj.pres": ["répugne", "répugnes", "répugne", "répugnions", "répugniez", "répugnent"],
+        "subj.imp": ["répugnasse", "répugnasses", "répugnât", "répugnassions", "répugnassiez", "répugnassent"],
+        "imper.pres": ["répugne", "répugnons", "répugnez"]
+      },
+      "participe_present": "répugnant",
+      "participe_passe": ["répugné", "répugnée", "répugnés", "répugnées"]
     }
   ]
 }
