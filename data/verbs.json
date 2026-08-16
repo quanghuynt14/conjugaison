@@ -15497,6 +15497,24 @@
       },
       "participe_present": "ruinant",
       "participe_passe": ["ruiné", "ruinée", "ruinés", "ruinées"]
+    },
+    {
+      "id": "expédier",
+      "infinitif": "expédier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["expédie", "expédies", "expédie", "expédions", "expédiez", "expédient"],
+        "ind.imp": ["expédiais", "expédiais", "expédiait", "expédiions", "expédiiez", "expédiaient"],
+        "ind.ps": ["expédiai", "expédias", "expédia", "expédiâmes", "expédiâtes", "expédièrent"],
+        "ind.fut": ["expédierai", "expédieras", "expédiera", "expédierons", "expédierez", "expédieront"],
+        "cond.pres": ["expédierais", "expédierais", "expédierait", "expédierions", "expédieriez", "expédieraient"],
+        "subj.pres": ["expédie", "expédies", "expédie", "expédiions", "expédiiez", "expédient"],
+        "subj.imp": ["expédiasse", "expédiasses", "expédiât", "expédiassions", "expédiassiez", "expédiassent"],
+        "imper.pres": ["expédie", "expédions", "expédiez"]
+      },
+      "participe_present": "expédiant",
+      "participe_passe": ["expédié", "expédiée", "expédiés", "expédiées"]
     }
   ]
 }
