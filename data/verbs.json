@@ -12446,6 +12446,25 @@
       },
       "participe_present": "trempant",
       "participe_passe": ["trempé", "trempée", "trempés", "trempées"]
+    },
+    {
+      "id": "péter",
+      "infinitif": "péter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je péterai » ou « je pèterai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["pète", "pètes", "pète", "pétons", "pétez", "pètent"],
+        "ind.imp": ["pétais", "pétais", "pétait", "pétions", "pétiez", "pétaient"],
+        "ind.ps": ["pétai", "pétas", "péta", "pétâmes", "pétâtes", "pétèrent"],
+        "ind.fut": [["péterai", "pèterai"], ["péteras", "pèteras"], ["pétera", "pètera"], ["péterons", "pèterons"], ["péterez", "pèterez"], ["péteront", "pèteront"]],
+        "cond.pres": [["péterais", "pèterais"], ["péterais", "pèterais"], ["péterait", "pèterait"], ["péterions", "pèterions"], ["péteriez", "pèteriez"], ["péteraient", "pèteraient"]],
+        "subj.pres": ["pète", "pètes", "pète", "pétions", "pétiez", "pètent"],
+        "subj.imp": ["pétasse", "pétasses", "pétât", "pétassions", "pétassiez", "pétassent"],
+        "imper.pres": ["pète", "pétons", "pétez"]
+      },
+      "participe_present": "pétant",
+      "participe_passe": ["pété", "pétée", "pétés", "pétées"]
     }
   ]
 }
