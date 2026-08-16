@@ -18632,6 +18632,24 @@
       },
       "participe_present": "abaissant",
       "participe_passe": ["abaissé", "abaissée", "abaissés", "abaissées"]
+    },
+    {
+      "id": "proclamer",
+      "infinitif": "proclamer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["proclame", "proclames", "proclame", "proclamons", "proclamez", "proclament"],
+        "ind.imp": ["proclamais", "proclamais", "proclamait", "proclamions", "proclamiez", "proclamaient"],
+        "ind.ps": ["proclamai", "proclamas", "proclama", "proclamâmes", "proclamâtes", "proclamèrent"],
+        "ind.fut": ["proclamerai", "proclameras", "proclamera", "proclamerons", "proclamerez", "proclameront"],
+        "cond.pres": ["proclamerais", "proclamerais", "proclamerait", "proclamerions", "proclameriez", "proclameraient"],
+        "subj.pres": ["proclame", "proclames", "proclame", "proclamions", "proclamiez", "proclament"],
+        "subj.imp": ["proclamasse", "proclamasses", "proclamât", "proclamassions", "proclamassiez", "proclamassent"],
+        "imper.pres": ["proclame", "proclamons", "proclamez"]
+      },
+      "participe_present": "proclamant",
+      "participe_passe": ["proclamé", "proclamée", "proclamés", "proclamées"]
     }
   ]
 }
