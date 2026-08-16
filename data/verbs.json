@@ -6896,6 +6896,25 @@
       },
       "participe_present": "réalisant",
       "participe_passe": ["réalisé", "réalisée", "réalisés", "réalisées"]
+    },
+    {
+      "id": "pénétrer",
+      "infinitif": "pénétrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je pénétrerai » ou « je pénètrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["pénètre", "pénètres", "pénètre", "pénétrons", "pénétrez", "pénètrent"],
+        "ind.imp": ["pénétrais", "pénétrais", "pénétrait", "pénétrions", "pénétriez", "pénétraient"],
+        "ind.ps": ["pénétrai", "pénétras", "pénétra", "pénétrâmes", "pénétrâtes", "pénétrèrent"],
+        "ind.fut": [["pénétrerai", "pénètrerai"], ["pénétreras", "pénètreras"], ["pénétrera", "pénètrera"], ["pénétrerons", "pénètrerons"], ["pénétrerez", "pénètrerez"], ["pénétreront", "pénètreront"]],
+        "cond.pres": [["pénétrerais", "pénètrerais"], ["pénétrerais", "pénètrerais"], ["pénétrerait", "pénètrerait"], ["pénétrerions", "pénètrerions"], ["pénétreriez", "pénètreriez"], ["pénétreraient", "pénètreraient"]],
+        "subj.pres": ["pénètre", "pénètres", "pénètre", "pénétrions", "pénétriez", "pénètrent"],
+        "subj.imp": ["pénétrasse", "pénétrasses", "pénétrât", "pénétrassions", "pénétrassiez", "pénétrassent"],
+        "imper.pres": ["pénètre", "pénétrons", "pénétrez"]
+      },
+      "participe_present": "pénétrant",
+      "participe_passe": ["pénétré", "pénétrée", "pénétrés", "pénétrées"]
     }
   ]
 }
