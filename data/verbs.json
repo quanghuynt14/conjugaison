@@ -27411,6 +27411,24 @@
       },
       "participe_present": "régissant",
       "participe_passe": ["régi", "régie", "régis", "régies"]
+    },
+    {
+      "id": "arpenter",
+      "infinitif": "arpenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["arpente", "arpentes", "arpente", "arpentons", "arpentez", "arpentent"],
+        "ind.imp": ["arpentais", "arpentais", "arpentait", "arpentions", "arpentiez", "arpentaient"],
+        "ind.ps": ["arpentai", "arpentas", "arpenta", "arpentâmes", "arpentâtes", "arpentèrent"],
+        "ind.fut": ["arpenterai", "arpenteras", "arpentera", "arpenterons", "arpenterez", "arpenteront"],
+        "cond.pres": ["arpenterais", "arpenterais", "arpenterait", "arpenterions", "arpenteriez", "arpenteraient"],
+        "subj.pres": ["arpente", "arpentes", "arpente", "arpentions", "arpentiez", "arpentent"],
+        "subj.imp": ["arpentasse", "arpentasses", "arpentât", "arpentassions", "arpentassiez", "arpentassent"],
+        "imper.pres": ["arpente", "arpentons", "arpentez"]
+      },
+      "participe_present": "arpentant",
+      "participe_passe": ["arpenté", "arpentée", "arpentés", "arpentées"]
     }
   ]
 }
