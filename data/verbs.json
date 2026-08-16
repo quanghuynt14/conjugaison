@@ -8000,6 +8000,24 @@
       },
       "participe_present": "étouffant",
       "participe_passe": ["étouffé", "étouffée", "étouffés", "étouffées"]
+    },
+    {
+      "id": "fabriquer",
+      "infinitif": "fabriquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fabrique", "fabriques", "fabrique", "fabriquons", "fabriquez", "fabriquent"],
+        "ind.imp": ["fabriquais", "fabriquais", "fabriquait", "fabriquions", "fabriquiez", "fabriquaient"],
+        "ind.ps": ["fabriquai", "fabriquas", "fabriqua", "fabriquâmes", "fabriquâtes", "fabriquèrent"],
+        "ind.fut": ["fabriquerai", "fabriqueras", "fabriquera", "fabriquerons", "fabriquerez", "fabriqueront"],
+        "cond.pres": ["fabriquerais", "fabriquerais", "fabriquerait", "fabriquerions", "fabriqueriez", "fabriqueraient"],
+        "subj.pres": ["fabrique", "fabriques", "fabrique", "fabriquions", "fabriquiez", "fabriquent"],
+        "subj.imp": ["fabriquasse", "fabriquasses", "fabriquât", "fabriquassions", "fabriquassiez", "fabriquassent"],
+        "imper.pres": ["fabrique", "fabriquons", "fabriquez"]
+      },
+      "participe_present": "fabriquant",
+      "participe_passe": ["fabriqué", "fabriquée", "fabriqués", "fabriquées"]
     }
   ]
 }
