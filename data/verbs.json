@@ -11990,6 +11990,24 @@
       },
       "participe_present": "fréquentant",
       "participe_passe": ["fréquenté", "fréquentée", "fréquentés", "fréquentées"]
+    },
+    {
+      "id": "traduire",
+      "infinitif": "traduire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["traduis", "traduis", "traduit", "traduisons", "traduisez", "traduisent"],
+        "ind.imp": ["traduisais", "traduisais", "traduisait", "traduisions", "traduisiez", "traduisaient"],
+        "ind.ps": ["traduisis", "traduisis", "traduisit", "traduisîmes", "traduisîtes", "traduisirent"],
+        "ind.fut": ["traduirai", "traduiras", "traduira", "traduirons", "traduirez", "traduiront"],
+        "cond.pres": ["traduirais", "traduirais", "traduirait", "traduirions", "traduiriez", "traduiraient"],
+        "subj.pres": ["traduise", "traduises", "traduise", "traduisions", "traduisiez", "traduisent"],
+        "subj.imp": ["traduisisse", "traduisisses", "traduisît", "traduisissions", "traduisissiez", "traduisissent"],
+        "imper.pres": ["traduis", "traduisons", "traduisez"]
+      },
+      "participe_present": "traduisant",
+      "participe_passe": ["traduit", "traduite", "traduits", "traduites"]
     }
   ]
 }
