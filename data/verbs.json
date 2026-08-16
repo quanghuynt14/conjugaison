@@ -34194,6 +34194,24 @@
       },
       "participe_present": "recouvrant",
       "participe_passe": ["recouvré", "recouvrée", "recouvrés", "recouvrées"]
+    },
+    {
+      "id": "élaborer",
+      "infinitif": "élaborer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["élabore", "élabores", "élabore", "élaborons", "élaborez", "élaborent"],
+        "ind.imp": ["élaborais", "élaborais", "élaborait", "élaborions", "élaboriez", "élaboraient"],
+        "ind.ps": ["élaborai", "élaboras", "élabora", "élaborâmes", "élaborâtes", "élaborèrent"],
+        "ind.fut": ["élaborerai", "élaboreras", "élaborera", "élaborerons", "élaborerez", "élaboreront"],
+        "cond.pres": ["élaborerais", "élaborerais", "élaborerait", "élaborerions", "élaboreriez", "élaboreraient"],
+        "subj.pres": ["élabore", "élabores", "élabore", "élaborions", "élaboriez", "élaborent"],
+        "subj.imp": ["élaborasse", "élaborasses", "élaborât", "élaborassions", "élaborassiez", "élaborassent"],
+        "imper.pres": ["élabore", "élaborons", "élaborez"]
+      },
+      "participe_present": "élaborant",
+      "participe_passe": ["élaboré", "élaborée", "élaborés", "élaborées"]
     }
   ]
 }
