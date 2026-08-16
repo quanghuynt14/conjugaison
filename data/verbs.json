@@ -23707,6 +23707,24 @@
       },
       "participe_present": "atténuant",
       "participe_passe": ["atténué", "atténuée", "atténués", "atténuées"]
+    },
+    {
+      "id": "reconstruire",
+      "infinitif": "reconstruire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reconstruis", "reconstruis", "reconstruit", "reconstruisons", "reconstruisez", "reconstruisent"],
+        "ind.imp": ["reconstruisais", "reconstruisais", "reconstruisait", "reconstruisions", "reconstruisiez", "reconstruisaient"],
+        "ind.ps": ["reconstruisis", "reconstruisis", "reconstruisit", "reconstruisîmes", "reconstruisîtes", "reconstruisirent"],
+        "ind.fut": ["reconstruirai", "reconstruiras", "reconstruira", "reconstruirons", "reconstruirez", "reconstruiront"],
+        "cond.pres": ["reconstruirais", "reconstruirais", "reconstruirait", "reconstruirions", "reconstruiriez", "reconstruiraient"],
+        "subj.pres": ["reconstruise", "reconstruises", "reconstruise", "reconstruisions", "reconstruisiez", "reconstruisent"],
+        "subj.imp": ["reconstruisisse", "reconstruisisses", "reconstruisît", "reconstruisissions", "reconstruisissiez", "reconstruisissent"],
+        "imper.pres": ["reconstruis", "reconstruisons", "reconstruisez"]
+      },
+      "participe_present": "reconstruisant",
+      "participe_passe": ["reconstruit", "reconstruite", "reconstruits", "reconstruites"]
     }
   ]
 }
