@@ -16731,6 +16731,25 @@
       },
       "participe_present": "fauchant",
       "participe_passe": ["fauché", "fauchée", "fauchés", "fauchées"]
+    },
+    {
+      "id": "retentir",
+      "infinitif": "retentir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « retenti » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["retentis", "retentis", "retentit", "retentissons", "retentissez", "retentissent"],
+        "ind.imp": ["retentissais", "retentissais", "retentissait", "retentissions", "retentissiez", "retentissaient"],
+        "ind.ps": ["retentis", "retentis", "retentit", "retentîmes", "retentîtes", "retentirent"],
+        "ind.fut": ["retentirai", "retentiras", "retentira", "retentirons", "retentirez", "retentiront"],
+        "cond.pres": ["retentirais", "retentirais", "retentirait", "retentirions", "retentiriez", "retentiraient"],
+        "subj.pres": ["retentisse", "retentisses", "retentisse", "retentissions", "retentissiez", "retentissent"],
+        "subj.imp": ["retentisse", "retentisses", "retentît", "retentissions", "retentissiez", "retentissent"],
+        "imper.pres": ["retentis", "retentissons", "retentissez"]
+      },
+      "participe_present": "retentissant",
+      "participe_passe": ["retenti", null, null, null]
     }
   ]
 }
