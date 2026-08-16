@@ -20107,6 +20107,24 @@
       },
       "participe_present": "méditant",
       "participe_passe": ["médité", "méditée", "médités", "méditées"]
+    },
+    {
+      "id": "reconstituer",
+      "infinitif": "reconstituer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reconstitue", "reconstitues", "reconstitue", "reconstituons", "reconstituez", "reconstituent"],
+        "ind.imp": ["reconstituais", "reconstituais", "reconstituait", "reconstituions", "reconstituiez", "reconstituaient"],
+        "ind.ps": ["reconstituai", "reconstituas", "reconstitua", "reconstituâmes", "reconstituâtes", "reconstituèrent"],
+        "ind.fut": ["reconstituerai", "reconstitueras", "reconstituera", "reconstituerons", "reconstituerez", "reconstitueront"],
+        "cond.pres": ["reconstituerais", "reconstituerais", "reconstituerait", "reconstituerions", "reconstitueriez", "reconstitueraient"],
+        "subj.pres": ["reconstitue", "reconstitues", "reconstitue", "reconstituions", "reconstituiez", "reconstituent"],
+        "subj.imp": ["reconstituasse", "reconstituasses", "reconstituât", "reconstituassions", "reconstituassiez", "reconstituassent"],
+        "imper.pres": ["reconstitue", "reconstituons", "reconstituez"]
+      },
+      "participe_present": "reconstituant",
+      "participe_passe": ["reconstitué", "reconstituée", "reconstitués", "reconstituées"]
     }
   ]
 }
