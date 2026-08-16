@@ -1404,6 +1404,24 @@
       },
       "participe_present": "servant",
       "participe_passe": ["servi", "servie", "servis", "servies"]
+    },
+    {
+      "id": "garder",
+      "infinitif": "garder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["garde", "gardes", "garde", "gardons", "gardez", "gardent"],
+        "ind.imp": ["gardais", "gardais", "gardait", "gardions", "gardiez", "gardaient"],
+        "ind.ps": ["gardai", "gardas", "garda", "gardâmes", "gardâtes", "gardèrent"],
+        "ind.fut": ["garderai", "garderas", "gardera", "garderons", "garderez", "garderont"],
+        "cond.pres": ["garderais", "garderais", "garderait", "garderions", "garderiez", "garderaient"],
+        "subj.pres": ["garde", "gardes", "garde", "gardions", "gardiez", "gardent"],
+        "subj.imp": ["gardasse", "gardasses", "gardât", "gardassions", "gardassiez", "gardassent"],
+        "imper.pres": ["garde", "gardons", "gardez"]
+      },
+      "participe_present": "gardant",
+      "participe_passe": ["gardé", "gardée", "gardés", "gardées"]
     }
   ]
 }
