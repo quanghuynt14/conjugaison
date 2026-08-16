@@ -34947,6 +34947,25 @@
       },
       "participe_present": "ravisant",
       "participe_passe": ["ravisé", "ravisée", "ravisés", "ravisées"]
+    },
+    {
+      "id": "rêvasser",
+      "infinitif": "rêvasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « rêvassé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["rêvasse", "rêvasses", "rêvasse", "rêvassons", "rêvassez", "rêvassent"],
+        "ind.imp": ["rêvassais", "rêvassais", "rêvassait", "rêvassions", "rêvassiez", "rêvassaient"],
+        "ind.ps": ["rêvassai", "rêvassas", "rêvassa", "rêvassâmes", "rêvassâtes", "rêvassèrent"],
+        "ind.fut": ["rêvasserai", "rêvasseras", "rêvassera", "rêvasserons", "rêvasserez", "rêvasseront"],
+        "cond.pres": ["rêvasserais", "rêvasserais", "rêvasserait", "rêvasserions", "rêvasseriez", "rêvasseraient"],
+        "subj.pres": ["rêvasse", "rêvasses", "rêvasse", "rêvassions", "rêvassiez", "rêvassent"],
+        "subj.imp": ["rêvassasse", "rêvassasses", "rêvassât", "rêvassassions", "rêvassassiez", "rêvassassent"],
+        "imper.pres": ["rêvasse", "rêvassons", "rêvassez"]
+      },
+      "participe_present": "rêvassant",
+      "participe_passe": ["rêvassé", null, null, null]
     }
   ]
 }
