@@ -13809,6 +13809,24 @@
       },
       "participe_present": "recueillant",
       "participe_passe": ["recueilli", "recueillie", "recueillis", "recueillies"]
+    },
+    {
+      "id": "replier",
+      "infinitif": "replier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["replie", "replies", "replie", "replions", "repliez", "replient"],
+        "ind.imp": ["repliais", "repliais", "repliait", "repliions", "repliiez", "repliaient"],
+        "ind.ps": ["repliai", "replias", "replia", "repliâmes", "repliâtes", "replièrent"],
+        "ind.fut": ["replierai", "replieras", "repliera", "replierons", "replierez", "replieront"],
+        "cond.pres": ["replierais", "replierais", "replierait", "replierions", "replieriez", "replieraient"],
+        "subj.pres": ["replie", "replies", "replie", "repliions", "repliiez", "replient"],
+        "subj.imp": ["repliasse", "repliasses", "repliât", "repliassions", "repliassiez", "repliassent"],
+        "imper.pres": ["replie", "replions", "repliez"]
+      },
+      "participe_present": "repliant",
+      "participe_passe": ["replié", "repliée", "repliés", "repliées"]
     }
   ]
 }
