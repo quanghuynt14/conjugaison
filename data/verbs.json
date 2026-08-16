@@ -4811,6 +4811,25 @@
       },
       "participe_present": "collant",
       "participe_passe": ["collé", "collée", "collés", "collées"]
+    },
+    {
+      "id": "profiter",
+      "infinitif": "profiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « profité » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["profite", "profites", "profite", "profitons", "profitez", "profitent"],
+        "ind.imp": ["profitais", "profitais", "profitait", "profitions", "profitiez", "profitaient"],
+        "ind.ps": ["profitai", "profitas", "profita", "profitâmes", "profitâtes", "profitèrent"],
+        "ind.fut": ["profiterai", "profiteras", "profitera", "profiterons", "profiterez", "profiteront"],
+        "cond.pres": ["profiterais", "profiterais", "profiterait", "profiterions", "profiteriez", "profiteraient"],
+        "subj.pres": ["profite", "profites", "profite", "profitions", "profitiez", "profitent"],
+        "subj.imp": ["profitasse", "profitasses", "profitât", "profitassions", "profitassiez", "profitassent"],
+        "imper.pres": ["profite", "profitons", "profitez"]
+      },
+      "participe_present": "profitant",
+      "participe_passe": ["profité", null, null, null]
     }
   ]
 }
