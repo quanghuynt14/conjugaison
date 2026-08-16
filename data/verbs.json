@@ -25206,6 +25206,24 @@
       },
       "participe_present": "lissant",
       "participe_passe": ["lissé", "lissée", "lissés", "lissées"]
+    },
+    {
+      "id": "mobiliser",
+      "infinitif": "mobiliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mobilise", "mobilises", "mobilise", "mobilisons", "mobilisez", "mobilisent"],
+        "ind.imp": ["mobilisais", "mobilisais", "mobilisait", "mobilisions", "mobilisiez", "mobilisaient"],
+        "ind.ps": ["mobilisai", "mobilisas", "mobilisa", "mobilisâmes", "mobilisâtes", "mobilisèrent"],
+        "ind.fut": ["mobiliserai", "mobiliseras", "mobilisera", "mobiliserons", "mobiliserez", "mobiliseront"],
+        "cond.pres": ["mobiliserais", "mobiliserais", "mobiliserait", "mobiliserions", "mobiliseriez", "mobiliseraient"],
+        "subj.pres": ["mobilise", "mobilises", "mobilise", "mobilisions", "mobilisiez", "mobilisent"],
+        "subj.imp": ["mobilisasse", "mobilisasses", "mobilisât", "mobilisassions", "mobilisassiez", "mobilisassent"],
+        "imper.pres": ["mobilise", "mobilisons", "mobilisez"]
+      },
+      "participe_present": "mobilisant",
+      "participe_passe": ["mobilisé", "mobilisée", "mobilisés", "mobilisées"]
     }
   ]
 }
