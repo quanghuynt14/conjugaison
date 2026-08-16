@@ -22163,6 +22163,24 @@
       },
       "participe_present": "arrondissant",
       "participe_passe": ["arrondi", "arrondie", "arrondis", "arrondies"]
+    },
+    {
+      "id": "copier",
+      "infinitif": "copier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["copie", "copies", "copie", "copions", "copiez", "copient"],
+        "ind.imp": ["copiais", "copiais", "copiait", "copiions", "copiiez", "copiaient"],
+        "ind.ps": ["copiai", "copias", "copia", "copiâmes", "copiâtes", "copièrent"],
+        "ind.fut": ["copierai", "copieras", "copiera", "copierons", "copierez", "copieront"],
+        "cond.pres": ["copierais", "copierais", "copierait", "copierions", "copieriez", "copieraient"],
+        "subj.pres": ["copie", "copies", "copie", "copiions", "copiiez", "copient"],
+        "subj.imp": ["copiasse", "copiasses", "copiât", "copiassions", "copiassiez", "copiassent"],
+        "imper.pres": ["copie", "copions", "copiez"]
+      },
+      "participe_present": "copiant",
+      "participe_passe": ["copié", "copiée", "copiés", "copiées"]
     }
   ]
 }
