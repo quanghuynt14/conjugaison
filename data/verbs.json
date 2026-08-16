@@ -27158,6 +27158,24 @@
       },
       "participe_present": "dégonflant",
       "participe_passe": ["dégonflé", "dégonflée", "dégonflés", "dégonflées"]
+    },
+    {
+      "id": "amasser",
+      "infinitif": "amasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["amasse", "amasses", "amasse", "amassons", "amassez", "amassent"],
+        "ind.imp": ["amassais", "amassais", "amassait", "amassions", "amassiez", "amassaient"],
+        "ind.ps": ["amassai", "amassas", "amassa", "amassâmes", "amassâtes", "amassèrent"],
+        "ind.fut": ["amasserai", "amasseras", "amassera", "amasserons", "amasserez", "amasseront"],
+        "cond.pres": ["amasserais", "amasserais", "amasserait", "amasserions", "amasseriez", "amasseraient"],
+        "subj.pres": ["amasse", "amasses", "amasse", "amassions", "amassiez", "amassent"],
+        "subj.imp": ["amassasse", "amassasses", "amassât", "amassassions", "amassassiez", "amassassent"],
+        "imper.pres": ["amasse", "amassons", "amassez"]
+      },
+      "participe_present": "amassant",
+      "participe_passe": ["amassé", "amassée", "amassés", "amassées"]
     }
   ]
 }
