@@ -10883,6 +10883,25 @@
       },
       "participe_present": "saignant",
       "participe_passe": ["saigné", "saignée", "saignés", "saignées"]
+    },
+    {
+      "id": "réagir",
+      "infinitif": "réagir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « réagi » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["réagis", "réagis", "réagit", "réagissons", "réagissez", "réagissent"],
+        "ind.imp": ["réagissais", "réagissais", "réagissait", "réagissions", "réagissiez", "réagissaient"],
+        "ind.ps": ["réagis", "réagis", "réagit", "réagîmes", "réagîtes", "réagirent"],
+        "ind.fut": ["réagirai", "réagiras", "réagira", "réagirons", "réagirez", "réagiront"],
+        "cond.pres": ["réagirais", "réagirais", "réagirait", "réagirions", "réagiriez", "réagiraient"],
+        "subj.pres": ["réagisse", "réagisses", "réagisse", "réagissions", "réagissiez", "réagissent"],
+        "subj.imp": ["réagisse", "réagisses", "réagît", "réagissions", "réagissiez", "réagissent"],
+        "imper.pres": ["réagis", "réagissons", "réagissez"]
+      },
+      "participe_present": "réagissant",
+      "participe_passe": ["réagi", null, null, null]
     }
   ]
 }
