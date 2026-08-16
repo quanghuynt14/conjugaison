@@ -32539,6 +32539,24 @@
       },
       "participe_present": "drapant",
       "participe_passe": ["drapé", "drapée", "drapés", "drapées"]
+    },
+    {
+      "id": "truquer",
+      "infinitif": "truquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["truque", "truques", "truque", "truquons", "truquez", "truquent"],
+        "ind.imp": ["truquais", "truquais", "truquait", "truquions", "truquiez", "truquaient"],
+        "ind.ps": ["truquai", "truquas", "truqua", "truquâmes", "truquâtes", "truquèrent"],
+        "ind.fut": ["truquerai", "truqueras", "truquera", "truquerons", "truquerez", "truqueront"],
+        "cond.pres": ["truquerais", "truquerais", "truquerait", "truquerions", "truqueriez", "truqueraient"],
+        "subj.pres": ["truque", "truques", "truque", "truquions", "truquiez", "truquent"],
+        "subj.imp": ["truquasse", "truquasses", "truquât", "truquassions", "truquassiez", "truquassent"],
+        "imper.pres": ["truque", "truquons", "truquez"]
+      },
+      "participe_present": "truquant",
+      "participe_passe": ["truqué", "truquée", "truqués", "truquées"]
     }
   ]
 }
