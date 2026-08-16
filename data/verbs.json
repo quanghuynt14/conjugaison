@@ -10556,6 +10556,24 @@
       },
       "participe_present": "ôtant",
       "participe_passe": ["ôté", "ôtée", "ôtés", "ôtées"]
+    },
+    {
+      "id": "exercer",
+      "infinitif": "exercer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exerce", "exerces", "exerce", "exerçons", "exercez", "exercent"],
+        "ind.imp": ["exerçais", "exerçais", "exerçait", "exercions", "exerciez", "exerçaient"],
+        "ind.ps": ["exerçai", "exerças", "exerça", "exerçâmes", "exerçâtes", "exercèrent"],
+        "ind.fut": ["exercerai", "exerceras", "exercera", "exercerons", "exercerez", "exerceront"],
+        "cond.pres": ["exercerais", "exercerais", "exercerait", "exercerions", "exerceriez", "exerceraient"],
+        "subj.pres": ["exerce", "exerces", "exerce", "exercions", "exerciez", "exercent"],
+        "subj.imp": ["exerçasse", "exerçasses", "exerçât", "exerçassions", "exerçassiez", "exerçassent"],
+        "imper.pres": ["exerce", "exerçons", "exercez"]
+      },
+      "participe_present": "exerçant",
+      "participe_passe": ["exercé", "exercée", "exercés", "exercées"]
     }
   ]
 }
