@@ -1093,6 +1093,25 @@
       },
       "participe_present": "mangeant",
       "participe_passe": ["mangé", "mangée", "mangés", "mangées"]
+    },
+    {
+      "id": "plaire",
+      "infinitif": "plaire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « plu » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["plais", "plais", "plaît", "plaisons", "plaisez", "plaisent"],
+        "ind.imp": ["plaisais", "plaisais", "plaisait", "plaisions", "plaisiez", "plaisaient"],
+        "ind.ps": ["plus", "plus", "plut", "plûmes", "plûtes", "plurent"],
+        "ind.fut": ["plairai", "plairas", "plaira", "plairons", "plairez", "plairont"],
+        "cond.pres": ["plairais", "plairais", "plairait", "plairions", "plairiez", "plairaient"],
+        "subj.pres": ["plaise", "plaises", "plaise", "plaisions", "plaisiez", "plaisent"],
+        "subj.imp": ["plusse", "plusses", "plût", "plussions", "plussiez", "plussent"],
+        "imper.pres": ["plais", "plaisons", "plaisez"]
+      },
+      "participe_present": "plaisant",
+      "participe_passe": ["plu", null, null, null]
     }
   ]
 }
