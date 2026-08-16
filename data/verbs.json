@@ -22469,6 +22469,24 @@
       },
       "participe_present": "kidnappant",
       "participe_passe": ["kidnappé", "kidnappée", "kidnappés", "kidnappées"]
+    },
+    {
+      "id": "solliciter",
+      "infinitif": "solliciter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sollicite", "sollicites", "sollicite", "sollicitons", "sollicitez", "sollicitent"],
+        "ind.imp": ["sollicitais", "sollicitais", "sollicitait", "sollicitions", "sollicitiez", "sollicitaient"],
+        "ind.ps": ["sollicitai", "sollicitas", "sollicita", "sollicitâmes", "sollicitâtes", "sollicitèrent"],
+        "ind.fut": ["solliciterai", "solliciteras", "sollicitera", "solliciterons", "solliciterez", "solliciteront"],
+        "cond.pres": ["solliciterais", "solliciterais", "solliciterait", "solliciterions", "solliciteriez", "solliciteraient"],
+        "subj.pres": ["sollicite", "sollicites", "sollicite", "sollicitions", "sollicitiez", "sollicitent"],
+        "subj.imp": ["sollicitasse", "sollicitasses", "sollicitât", "sollicitassions", "sollicitassiez", "sollicitassent"],
+        "imper.pres": ["sollicite", "sollicitons", "sollicitez"]
+      },
+      "participe_present": "sollicitant",
+      "participe_passe": ["sollicité", "sollicitée", "sollicités", "sollicitées"]
     }
   ]
 }
