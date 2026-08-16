@@ -14682,6 +14682,24 @@
       },
       "participe_present": "flattant",
       "participe_passe": ["flatté", "flattée", "flattés", "flattées"]
+    },
+    {
+      "id": "préoccuper",
+      "infinitif": "préoccuper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["préoccupe", "préoccupes", "préoccupe", "préoccupons", "préoccupez", "préoccupent"],
+        "ind.imp": ["préoccupais", "préoccupais", "préoccupait", "préoccupions", "préoccupiez", "préoccupaient"],
+        "ind.ps": ["préoccupai", "préoccupas", "préoccupa", "préoccupâmes", "préoccupâtes", "préoccupèrent"],
+        "ind.fut": ["préoccuperai", "préoccuperas", "préoccupera", "préoccuperons", "préoccuperez", "préoccuperont"],
+        "cond.pres": ["préoccuperais", "préoccuperais", "préoccuperait", "préoccuperions", "préoccuperiez", "préoccuperaient"],
+        "subj.pres": ["préoccupe", "préoccupes", "préoccupe", "préoccupions", "préoccupiez", "préoccupent"],
+        "subj.imp": ["préoccupasse", "préoccupasses", "préoccupât", "préoccupassions", "préoccupassiez", "préoccupassent"],
+        "imper.pres": ["préoccupe", "préoccupons", "préoccupez"]
+      },
+      "participe_present": "préoccupant",
+      "participe_passe": ["préoccupé", "préoccupée", "préoccupés", "préoccupées"]
     }
   ]
 }
