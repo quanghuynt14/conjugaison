@@ -33322,6 +33322,25 @@
       },
       "participe_present": "trimant",
       "participe_passe": ["trimé", null, null, null]
+    },
+    {
+      "id": "voleter",
+      "infinitif": "voleter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « voleté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["volette", "volettes", "volette", "voletons", "voletez", "volettent"],
+        "ind.imp": ["voletais", "voletais", "voletait", "voletions", "voletiez", "voletaient"],
+        "ind.ps": ["voletai", "voletas", "voleta", "voletâmes", "voletâtes", "voletèrent"],
+        "ind.fut": ["voletterai", "voletteras", "volettera", "voletterons", "voletterez", "voletteront"],
+        "cond.pres": ["voletterais", "voletterais", "voletterait", "voletterions", "voletteriez", "voletteraient"],
+        "subj.pres": ["volette", "volettes", "volette", "voletions", "voletiez", "volettent"],
+        "subj.imp": ["voletasse", "voletasses", "voletât", "voletassions", "voletassiez", "voletassent"],
+        "imper.pres": ["volette", "voletons", "voletez"]
+      },
+      "participe_present": "voletant",
+      "participe_passe": ["voleté", null, null, null]
     }
   ]
 }
