@@ -28467,6 +28467,24 @@
       },
       "participe_present": "expirant",
       "participe_passe": ["expiré", "expirée", "expirés", "expirées"]
+    },
+    {
+      "id": "simplifier",
+      "infinitif": "simplifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["simplifie", "simplifies", "simplifie", "simplifions", "simplifiez", "simplifient"],
+        "ind.imp": ["simplifiais", "simplifiais", "simplifiait", "simplifiions", "simplifiiez", "simplifiaient"],
+        "ind.ps": ["simplifiai", "simplifias", "simplifia", "simplifiâmes", "simplifiâtes", "simplifièrent"],
+        "ind.fut": ["simplifierai", "simplifieras", "simplifiera", "simplifierons", "simplifierez", "simplifieront"],
+        "cond.pres": ["simplifierais", "simplifierais", "simplifierait", "simplifierions", "simplifieriez", "simplifieraient"],
+        "subj.pres": ["simplifie", "simplifies", "simplifie", "simplifiions", "simplifiiez", "simplifient"],
+        "subj.imp": ["simplifiasse", "simplifiasses", "simplifiât", "simplifiassions", "simplifiassiez", "simplifiassent"],
+        "imper.pres": ["simplifie", "simplifions", "simplifiez"]
+      },
+      "participe_present": "simplifiant",
+      "participe_passe": ["simplifié", "simplifiée", "simplifiés", "simplifiées"]
     }
   ]
 }
