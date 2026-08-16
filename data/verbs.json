@@ -7439,6 +7439,24 @@
       },
       "participe_present": "rassurant",
       "participe_passe": ["rassuré", "rassurée", "rassurés", "rassurées"]
+    },
+    {
+      "id": "dépendre",
+      "infinitif": "dépendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dépends", "dépends", "dépend", "dépendons", "dépendez", "dépendent"],
+        "ind.imp": ["dépendais", "dépendais", "dépendait", "dépendions", "dépendiez", "dépendaient"],
+        "ind.ps": ["dépendis", "dépendis", "dépendit", "dépendîmes", "dépendîtes", "dépendirent"],
+        "ind.fut": ["dépendrai", "dépendras", "dépendra", "dépendrons", "dépendrez", "dépendront"],
+        "cond.pres": ["dépendrais", "dépendrais", "dépendrait", "dépendrions", "dépendriez", "dépendraient"],
+        "subj.pres": ["dépende", "dépendes", "dépende", "dépendions", "dépendiez", "dépendent"],
+        "subj.imp": ["dépendisse", "dépendisses", "dépendît", "dépendissions", "dépendissiez", "dépendissent"],
+        "imper.pres": ["dépends", "dépendons", "dépendez"]
+      },
+      "participe_present": "dépendant",
+      "participe_passe": ["dépendu", "dépendue", "dépendus", "dépendues"]
     }
   ]
 }
