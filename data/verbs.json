@@ -6549,6 +6549,24 @@
       },
       "participe_present": "déclarant",
       "participe_passe": ["déclaré", "déclarée", "déclarés", "déclarées"]
+    },
+    {
+      "id": "plaisanter",
+      "infinitif": "plaisanter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["plaisante", "plaisantes", "plaisante", "plaisantons", "plaisantez", "plaisantent"],
+        "ind.imp": ["plaisantais", "plaisantais", "plaisantait", "plaisantions", "plaisantiez", "plaisantaient"],
+        "ind.ps": ["plaisantai", "plaisantas", "plaisanta", "plaisantâmes", "plaisantâtes", "plaisantèrent"],
+        "ind.fut": ["plaisanterai", "plaisanteras", "plaisantera", "plaisanterons", "plaisanterez", "plaisanteront"],
+        "cond.pres": ["plaisanterais", "plaisanterais", "plaisanterait", "plaisanterions", "plaisanteriez", "plaisanteraient"],
+        "subj.pres": ["plaisante", "plaisantes", "plaisante", "plaisantions", "plaisantiez", "plaisantent"],
+        "subj.imp": ["plaisantasse", "plaisantasses", "plaisantât", "plaisantassions", "plaisantassiez", "plaisantassent"],
+        "imper.pres": ["plaisante", "plaisantons", "plaisantez"]
+      },
+      "participe_present": "plaisantant",
+      "participe_passe": ["plaisanté", "plaisantée", "plaisantés", "plaisantées"]
     }
   ]
 }
