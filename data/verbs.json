@@ -30840,6 +30840,24 @@
       },
       "participe_present": "corrompant",
       "participe_passe": ["corrompu", "corrompue", "corrompus", "corrompues"]
+    },
+    {
+      "id": "déterrer",
+      "infinitif": "déterrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déterre", "déterres", "déterre", "déterrons", "déterrez", "déterrent"],
+        "ind.imp": ["déterrais", "déterrais", "déterrait", "déterrions", "déterriez", "déterraient"],
+        "ind.ps": ["déterrai", "déterras", "déterra", "déterrâmes", "déterrâtes", "déterrèrent"],
+        "ind.fut": ["déterrerai", "déterreras", "déterrera", "déterrerons", "déterrerez", "déterreront"],
+        "cond.pres": ["déterrerais", "déterrerais", "déterrerait", "déterrerions", "déterreriez", "déterreraient"],
+        "subj.pres": ["déterre", "déterres", "déterre", "déterrions", "déterriez", "déterrent"],
+        "subj.imp": ["déterrasse", "déterrasses", "déterrât", "déterrassions", "déterrassiez", "déterrassent"],
+        "imper.pres": ["déterre", "déterrons", "déterrez"]
+      },
+      "participe_present": "déterrant",
+      "participe_passe": ["déterré", "déterrée", "déterrés", "déterrées"]
     }
   ]
 }
