@@ -530,6 +530,24 @@
       },
       "participe_present": "restant",
       "participe_passe": ["resté", "restée", "restés", "restées"]
+    },
+    {
+      "id": "appeler",
+      "infinitif": "appeler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["appelle", "appelles", "appelle", "appelons", "appelez", "appellent"],
+        "ind.imp": ["appelais", "appelais", "appelait", "appelions", "appeliez", "appelaient"],
+        "ind.ps": ["appelai", "appelas", "appela", "appelâmes", "appelâtes", "appelèrent"],
+        "ind.fut": ["appellerai", "appelleras", "appellera", "appellerons", "appellerez", "appelleront"],
+        "cond.pres": ["appellerais", "appellerais", "appellerait", "appellerions", "appelleriez", "appelleraient"],
+        "subj.pres": ["appelle", "appelles", "appelle", "appelions", "appeliez", "appellent"],
+        "subj.imp": ["appelasse", "appelasses", "appelât", "appelassions", "appelassiez", "appelassent"],
+        "imper.pres": ["appelle", "appelons", "appelez"]
+      },
+      "participe_present": "appelant",
+      "participe_passe": ["appelé", "appelée", "appelés", "appelées"]
     }
   ]
 }
