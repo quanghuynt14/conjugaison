@@ -7602,6 +7602,24 @@
       },
       "participe_present": "révélant",
       "participe_passe": ["révélé", "révélée", "révélés", "révélées"]
+    },
+    {
+      "id": "réparer",
+      "infinitif": "réparer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["répare", "répares", "répare", "réparons", "réparez", "réparent"],
+        "ind.imp": ["réparais", "réparais", "réparait", "réparions", "répariez", "réparaient"],
+        "ind.ps": ["réparai", "réparas", "répara", "réparâmes", "réparâtes", "réparèrent"],
+        "ind.fut": ["réparerai", "répareras", "réparera", "réparerons", "réparerez", "répareront"],
+        "cond.pres": ["réparerais", "réparerais", "réparerait", "réparerions", "répareriez", "répareraient"],
+        "subj.pres": ["répare", "répares", "répare", "réparions", "répariez", "réparent"],
+        "subj.imp": ["réparasse", "réparasses", "réparât", "réparassions", "réparassiez", "réparassent"],
+        "imper.pres": ["répare", "réparons", "réparez"]
+      },
+      "participe_present": "réparant",
+      "participe_passe": ["réparé", "réparée", "réparés", "réparées"]
     }
   ]
 }
