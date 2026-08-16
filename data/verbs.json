@@ -35425,6 +35425,24 @@
       },
       "participe_present": "agonisant",
       "participe_passe": ["agonisé", null, null, null]
+    },
+    {
+      "id": "culbuter",
+      "infinitif": "culbuter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["culbute", "culbutes", "culbute", "culbutons", "culbutez", "culbutent"],
+        "ind.imp": ["culbutais", "culbutais", "culbutait", "culbutions", "culbutiez", "culbutaient"],
+        "ind.ps": ["culbutai", "culbutas", "culbuta", "culbutâmes", "culbutâtes", "culbutèrent"],
+        "ind.fut": ["culbuterai", "culbuteras", "culbutera", "culbuterons", "culbuterez", "culbuteront"],
+        "cond.pres": ["culbuterais", "culbuterais", "culbuterait", "culbuterions", "culbuteriez", "culbuteraient"],
+        "subj.pres": ["culbute", "culbutes", "culbute", "culbutions", "culbutiez", "culbutent"],
+        "subj.imp": ["culbutasse", "culbutasses", "culbutât", "culbutassions", "culbutassiez", "culbutassent"],
+        "imper.pres": ["culbute", "culbutons", "culbutez"]
+      },
+      "participe_present": "culbutant",
+      "participe_passe": ["culbuté", "culbutée", "culbutés", "culbutées"]
     }
   ]
 }
