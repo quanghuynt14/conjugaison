@@ -16296,6 +16296,24 @@
       },
       "participe_present": "dispersant",
       "participe_passe": ["dispersé", "dispersée", "dispersés", "dispersées"]
+    },
+    {
+      "id": "pêcher",
+      "infinitif": "pêcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pêche", "pêches", "pêche", "pêchons", "pêchez", "pêchent"],
+        "ind.imp": ["pêchais", "pêchais", "pêchait", "pêchions", "pêchiez", "pêchaient"],
+        "ind.ps": ["pêchai", "pêchas", "pêcha", "pêchâmes", "pêchâtes", "pêchèrent"],
+        "ind.fut": ["pêcherai", "pêcheras", "pêchera", "pêcherons", "pêcherez", "pêcheront"],
+        "cond.pres": ["pêcherais", "pêcherais", "pêcherait", "pêcherions", "pêcheriez", "pêcheraient"],
+        "subj.pres": ["pêche", "pêches", "pêche", "pêchions", "pêchiez", "pêchent"],
+        "subj.imp": ["pêchasse", "pêchasses", "pêchât", "pêchassions", "pêchassiez", "pêchassent"],
+        "imper.pres": ["pêche", "pêchons", "pêchez"]
+      },
+      "participe_present": "pêchant",
+      "participe_passe": ["pêché", "pêchée", "pêchés", "pêchées"]
     }
   ]
 }
