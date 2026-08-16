@@ -29747,6 +29747,24 @@
       },
       "participe_present": "recousant",
       "participe_passe": ["recousu", "recousue", "recousus", "recousues"]
+    },
+    {
+      "id": "asperger",
+      "infinitif": "asperger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["asperge", "asperges", "asperge", "aspergeons", "aspergez", "aspergent"],
+        "ind.imp": ["aspergeais", "aspergeais", "aspergeait", "aspergions", "aspergiez", "aspergeaient"],
+        "ind.ps": ["aspergeai", "aspergeas", "aspergea", "aspergeâmes", "aspergeâtes", "aspergèrent"],
+        "ind.fut": ["aspergerai", "aspergeras", "aspergera", "aspergerons", "aspergerez", "aspergeront"],
+        "cond.pres": ["aspergerais", "aspergerais", "aspergerait", "aspergerions", "aspergeriez", "aspergeraient"],
+        "subj.pres": ["asperge", "asperges", "asperge", "aspergions", "aspergiez", "aspergent"],
+        "subj.imp": ["aspergeasse", "aspergeasses", "aspergeât", "aspergeassions", "aspergeassiez", "aspergeassent"],
+        "imper.pres": ["asperge", "aspergeons", "aspergez"]
+      },
+      "participe_present": "aspergeant",
+      "participe_passe": ["aspergé", "aspergée", "aspergés", "aspergées"]
     }
   ]
 }
