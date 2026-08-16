@@ -26299,6 +26299,24 @@
       },
       "participe_present": "verrouillant",
       "participe_passe": ["verrouillé", "verrouillée", "verrouillés", "verrouillées"]
+    },
+    {
+      "id": "caser",
+      "infinitif": "caser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["case", "cases", "case", "casons", "casez", "casent"],
+        "ind.imp": ["casais", "casais", "casait", "casions", "casiez", "casaient"],
+        "ind.ps": ["casai", "casas", "casa", "casâmes", "casâtes", "casèrent"],
+        "ind.fut": ["caserai", "caseras", "casera", "caserons", "caserez", "caseront"],
+        "cond.pres": ["caserais", "caserais", "caserait", "caserions", "caseriez", "caseraient"],
+        "subj.pres": ["case", "cases", "case", "casions", "casiez", "casent"],
+        "subj.imp": ["casasse", "casasses", "casât", "casassions", "casassiez", "casassent"],
+        "imper.pres": ["case", "casons", "casez"]
+      },
+      "participe_present": "casant",
+      "participe_passe": ["casé", "casée", "casés", "casées"]
     }
   ]
 }
