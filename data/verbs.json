@@ -26736,6 +26736,24 @@
       },
       "participe_present": "résultant",
       "participe_passe": ["résulté", null, null, null]
+    },
+    {
+      "id": "mûrir",
+      "infinitif": "mûrir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mûris", "mûris", "mûrit", "mûrissons", "mûrissez", "mûrissent"],
+        "ind.imp": ["mûrissais", "mûrissais", "mûrissait", "mûrissions", "mûrissiez", "mûrissaient"],
+        "ind.ps": ["mûris", "mûris", "mûrit", "mûrîmes", "mûrîtes", "mûrirent"],
+        "ind.fut": ["mûrirai", "mûriras", "mûrira", "mûrirons", "mûrirez", "mûriront"],
+        "cond.pres": ["mûrirais", "mûrirais", "mûrirait", "mûririons", "mûririez", "mûriraient"],
+        "subj.pres": ["mûrisse", "mûrisses", "mûrisse", "mûrissions", "mûrissiez", "mûrissent"],
+        "subj.imp": ["mûrisse", "mûrisses", "mûrît", "mûrissions", "mûrissiez", "mûrissent"],
+        "imper.pres": ["mûris", "mûrissons", "mûrissez"]
+      },
+      "participe_present": "mûrissant",
+      "participe_passe": ["mûri", "mûrie", "mûris", "mûries"]
     }
   ]
 }
