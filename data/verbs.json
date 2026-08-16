@@ -35587,6 +35587,24 @@
       },
       "participe_present": "ravivant",
       "participe_passe": ["ravivé", "ravivée", "ravivés", "ravivées"]
+    },
+    {
+      "id": "conformer",
+      "infinitif": "conformer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conforme", "conformes", "conforme", "conformons", "conformez", "conforment"],
+        "ind.imp": ["conformais", "conformais", "conformait", "conformions", "conformiez", "conformaient"],
+        "ind.ps": ["conformai", "conformas", "conforma", "conformâmes", "conformâtes", "conformèrent"],
+        "ind.fut": ["conformerai", "conformeras", "conformera", "conformerons", "conformerez", "conformeront"],
+        "cond.pres": ["conformerais", "conformerais", "conformerait", "conformerions", "conformeriez", "conformeraient"],
+        "subj.pres": ["conforme", "conformes", "conforme", "conformions", "conformiez", "conforment"],
+        "subj.imp": ["conformasse", "conformasses", "conformât", "conformassions", "conformassiez", "conformassent"],
+        "imper.pres": ["conforme", "conformons", "conformez"]
+      },
+      "participe_present": "conformant",
+      "participe_passe": ["conformé", "conformée", "conformés", "conformées"]
     }
   ]
 }
