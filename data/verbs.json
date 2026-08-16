@@ -9357,6 +9357,25 @@
       },
       "participe_present": "conservant",
       "participe_passe": ["conservé", "conservée", "conservés", "conservées"]
+    },
+    {
+      "id": "régner",
+      "infinitif": "régner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je régnerai » ou « je règnerai ». Les deux sont admises. Le participe passé « régné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["règne", "règnes", "règne", "régnons", "régnez", "règnent"],
+        "ind.imp": ["régnais", "régnais", "régnait", "régnions", "régniez", "régnaient"],
+        "ind.ps": ["régnai", "régnas", "régna", "régnâmes", "régnâtes", "régnèrent"],
+        "ind.fut": [["régnerai", "règnerai"], ["régneras", "règneras"], ["régnera", "règnera"], ["régnerons", "règnerons"], ["régnerez", "règnerez"], ["régneront", "règneront"]],
+        "cond.pres": [["régnerais", "règnerais"], ["régnerais", "règnerais"], ["régnerait", "règnerait"], ["régnerions", "règnerions"], ["régneriez", "règneriez"], ["régneraient", "règneraient"]],
+        "subj.pres": ["règne", "règnes", "règne", "régnions", "régniez", "règnent"],
+        "subj.imp": ["régnasse", "régnasses", "régnât", "régnassions", "régnassiez", "régnassent"],
+        "imper.pres": ["règne", "régnons", "régnez"]
+      },
+      "participe_present": "régnant",
+      "participe_passe": ["régné", null, null, null]
     }
   ]
 }
