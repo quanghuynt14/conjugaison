@@ -15879,6 +15879,25 @@
       },
       "participe_present": "rampant",
       "participe_passe": ["rampé", null, null, null]
+    },
+    {
+      "id": "gérer",
+      "infinitif": "gérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je gérerai » ou « je gèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["gère", "gères", "gère", "gérons", "gérez", "gèrent"],
+        "ind.imp": ["gérais", "gérais", "gérait", "gérions", "gériez", "géraient"],
+        "ind.ps": ["gérai", "géras", "géra", "gérâmes", "gérâtes", "gérèrent"],
+        "ind.fut": [["gérerai", "gèrerai"], ["géreras", "gèreras"], ["gérera", "gèrera"], ["gérerons", "gèrerons"], ["gérerez", "gèrerez"], ["géreront", "gèreront"]],
+        "cond.pres": [["gérerais", "gèrerais"], ["gérerais", "gèrerais"], ["gérerait", "gèrerait"], ["gérerions", "gèrerions"], ["géreriez", "gèreriez"], ["géreraient", "gèreraient"]],
+        "subj.pres": ["gère", "gères", "gère", "gérions", "gériez", "gèrent"],
+        "subj.imp": ["gérasse", "gérasses", "gérât", "gérassions", "gérassiez", "gérassent"],
+        "imper.pres": ["gère", "gérons", "gérez"]
+      },
+      "participe_present": "gérant",
+      "participe_passe": ["géré", "gérée", "gérés", "gérées"]
     }
   ]
 }
