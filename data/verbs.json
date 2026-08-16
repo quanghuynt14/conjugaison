@@ -2404,6 +2404,25 @@
       },
       "participe_present": "découvrant",
       "participe_passe": ["découvert", "découverte", "découverts", "découvertes"]
+    },
+    {
+      "id": "sourire",
+      "infinitif": "sourire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « souri » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["souris", "souris", "sourit", "sourions", "souriez", "sourient"],
+        "ind.imp": ["souriais", "souriais", "souriait", "souriions", "souriiez", "souriaient"],
+        "ind.ps": ["souris", "souris", "sourit", "sourîmes", "sourîtes", "sourirent"],
+        "ind.fut": ["sourirai", "souriras", "sourira", "sourirons", "sourirez", "souriront"],
+        "cond.pres": ["sourirais", "sourirais", "sourirait", "souririons", "souririez", "souriraient"],
+        "subj.pres": ["sourie", "souries", "sourie", "souriions", "souriiez", "sourient"],
+        "subj.imp": ["sourisse", "sourisses", "sourît", "sourissions", "sourissiez", "sourissent"],
+        "imper.pres": ["souris", "sourions", "souriez"]
+      },
+      "participe_present": "souriant",
+      "participe_passe": ["souri", null, null, null]
     }
   ]
 }
