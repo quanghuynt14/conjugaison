@@ -26227,6 +26227,24 @@
       },
       "participe_present": "haletant",
       "participe_passe": ["haleté", null, null, null]
+    },
+    {
+      "id": "noircir",
+      "infinitif": "noircir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["noircis", "noircis", "noircit", "noircissons", "noircissez", "noircissent"],
+        "ind.imp": ["noircissais", "noircissais", "noircissait", "noircissions", "noircissiez", "noircissaient"],
+        "ind.ps": ["noircis", "noircis", "noircit", "noircîmes", "noircîtes", "noircirent"],
+        "ind.fut": ["noircirai", "noirciras", "noircira", "noircirons", "noircirez", "noirciront"],
+        "cond.pres": ["noircirais", "noircirais", "noircirait", "noircirions", "noirciriez", "noirciraient"],
+        "subj.pres": ["noircisse", "noircisses", "noircisse", "noircissions", "noircissiez", "noircissent"],
+        "subj.imp": ["noircisse", "noircisses", "noircît", "noircissions", "noircissiez", "noircissent"],
+        "imper.pres": ["noircis", "noircissons", "noircissez"]
+      },
+      "participe_present": "noircissant",
+      "participe_passe": ["noirci", "noircie", "noircis", "noircies"]
     }
   ]
 }
