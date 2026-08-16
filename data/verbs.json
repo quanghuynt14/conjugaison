@@ -7077,6 +7077,24 @@
       },
       "participe_present": "convainquant",
       "participe_passe": ["convaincu", "convaincue", "convaincus", "convaincues"]
+    },
+    {
+      "id": "prétendre",
+      "infinitif": "prétendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prétends", "prétends", "prétend", "prétendons", "prétendez", "prétendent"],
+        "ind.imp": ["prétendais", "prétendais", "prétendait", "prétendions", "prétendiez", "prétendaient"],
+        "ind.ps": ["prétendis", "prétendis", "prétendit", "prétendîmes", "prétendîtes", "prétendirent"],
+        "ind.fut": ["prétendrai", "prétendras", "prétendra", "prétendrons", "prétendrez", "prétendront"],
+        "cond.pres": ["prétendrais", "prétendrais", "prétendrait", "prétendrions", "prétendriez", "prétendraient"],
+        "subj.pres": ["prétende", "prétendes", "prétende", "prétendions", "prétendiez", "prétendent"],
+        "subj.imp": ["prétendisse", "prétendisses", "prétendît", "prétendissions", "prétendissiez", "prétendissent"],
+        "imper.pres": ["prétends", "prétendons", "prétendez"]
+      },
+      "participe_present": "prétendant",
+      "participe_passe": ["prétendu", "prétendue", "prétendus", "prétendues"]
     }
   ]
 }
