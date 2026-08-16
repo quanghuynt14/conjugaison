@@ -30184,6 +30184,24 @@
       },
       "participe_present": "ponctuant",
       "participe_passe": ["ponctué", "ponctuée", "ponctués", "ponctuées"]
+    },
+    {
+      "id": "programmer",
+      "infinitif": "programmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["programme", "programmes", "programme", "programmons", "programmez", "programment"],
+        "ind.imp": ["programmais", "programmais", "programmait", "programmions", "programmiez", "programmaient"],
+        "ind.ps": ["programmai", "programmas", "programma", "programmâmes", "programmâtes", "programmèrent"],
+        "ind.fut": ["programmerai", "programmeras", "programmera", "programmerons", "programmerez", "programmeront"],
+        "cond.pres": ["programmerais", "programmerais", "programmerait", "programmerions", "programmeriez", "programmeraient"],
+        "subj.pres": ["programme", "programmes", "programme", "programmions", "programmiez", "programment"],
+        "subj.imp": ["programmasse", "programmasses", "programmât", "programmassions", "programmassiez", "programmassent"],
+        "imper.pres": ["programme", "programmons", "programmez"]
+      },
+      "participe_present": "programmant",
+      "participe_passe": ["programmé", "programmée", "programmés", "programmées"]
     }
   ]
 }
