@@ -25514,6 +25514,24 @@
       },
       "participe_present": "dotant",
       "participe_passe": ["doté", "dotée", "dotés", "dotées"]
+    },
+    {
+      "id": "reconduire",
+      "infinitif": "reconduire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reconduis", "reconduis", "reconduit", "reconduisons", "reconduisez", "reconduisent"],
+        "ind.imp": ["reconduisais", "reconduisais", "reconduisait", "reconduisions", "reconduisiez", "reconduisaient"],
+        "ind.ps": ["reconduisis", "reconduisis", "reconduisit", "reconduisîmes", "reconduisîtes", "reconduisirent"],
+        "ind.fut": ["reconduirai", "reconduiras", "reconduira", "reconduirons", "reconduirez", "reconduiront"],
+        "cond.pres": ["reconduirais", "reconduirais", "reconduirait", "reconduirions", "reconduiriez", "reconduiraient"],
+        "subj.pres": ["reconduise", "reconduises", "reconduise", "reconduisions", "reconduisiez", "reconduisent"],
+        "subj.imp": ["reconduisisse", "reconduisisses", "reconduisît", "reconduisissions", "reconduisissiez", "reconduisissent"],
+        "imper.pres": ["reconduis", "reconduisons", "reconduisez"]
+      },
+      "participe_present": "reconduisant",
+      "participe_passe": ["reconduit", "reconduite", "reconduits", "reconduites"]
     }
   ]
 }
