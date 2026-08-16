@@ -16986,6 +16986,24 @@
       },
       "participe_present": "soulignant",
       "participe_passe": ["souligné", "soulignée", "soulignés", "soulignées"]
+    },
+    {
+      "id": "susciter",
+      "infinitif": "susciter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["suscite", "suscites", "suscite", "suscitons", "suscitez", "suscitent"],
+        "ind.imp": ["suscitais", "suscitais", "suscitait", "suscitions", "suscitiez", "suscitaient"],
+        "ind.ps": ["suscitai", "suscitas", "suscita", "suscitâmes", "suscitâtes", "suscitèrent"],
+        "ind.fut": ["susciterai", "susciteras", "suscitera", "susciterons", "susciterez", "susciteront"],
+        "cond.pres": ["susciterais", "susciterais", "susciterait", "susciterions", "susciteriez", "susciteraient"],
+        "subj.pres": ["suscite", "suscites", "suscite", "suscitions", "suscitiez", "suscitent"],
+        "subj.imp": ["suscitasse", "suscitasses", "suscitât", "suscitassions", "suscitassiez", "suscitassent"],
+        "imper.pres": ["suscite", "suscitons", "suscitez"]
+      },
+      "participe_present": "suscitant",
+      "participe_passe": ["suscité", "suscitée", "suscités", "suscitées"]
     }
   ]
 }
