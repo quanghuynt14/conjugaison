@@ -33922,6 +33922,24 @@
       },
       "participe_present": "incombant",
       "participe_passe": ["incombé", null, null, null]
+    },
+    {
+      "id": "objecter",
+      "infinitif": "objecter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["objecte", "objectes", "objecte", "objectons", "objectez", "objectent"],
+        "ind.imp": ["objectais", "objectais", "objectait", "objections", "objectiez", "objectaient"],
+        "ind.ps": ["objectai", "objectas", "objecta", "objectâmes", "objectâtes", "objectèrent"],
+        "ind.fut": ["objecterai", "objecteras", "objectera", "objecterons", "objecterez", "objecteront"],
+        "cond.pres": ["objecterais", "objecterais", "objecterait", "objecterions", "objecteriez", "objecteraient"],
+        "subj.pres": ["objecte", "objectes", "objecte", "objections", "objectiez", "objectent"],
+        "subj.imp": ["objectasse", "objectasses", "objectât", "objectassions", "objectassiez", "objectassent"],
+        "imper.pres": ["objecte", "objectons", "objectez"]
+      },
+      "participe_present": "objectant",
+      "participe_passe": ["objecté", "objectée", "objectés", "objectées"]
     }
   ]
 }
