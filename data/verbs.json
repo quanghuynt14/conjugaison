@@ -6987,6 +6987,24 @@
       },
       "participe_present": "disposant",
       "participe_passe": ["disposé", "disposée", "disposés", "disposées"]
+    },
+    {
+      "id": "éclairer",
+      "infinitif": "éclairer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éclaire", "éclaires", "éclaire", "éclairons", "éclairez", "éclairent"],
+        "ind.imp": ["éclairais", "éclairais", "éclairait", "éclairions", "éclairiez", "éclairaient"],
+        "ind.ps": ["éclairai", "éclairas", "éclaira", "éclairâmes", "éclairâtes", "éclairèrent"],
+        "ind.fut": ["éclairerai", "éclaireras", "éclairera", "éclairerons", "éclairerez", "éclaireront"],
+        "cond.pres": ["éclairerais", "éclairerais", "éclairerait", "éclairerions", "éclaireriez", "éclaireraient"],
+        "subj.pres": ["éclaire", "éclaires", "éclaire", "éclairions", "éclairiez", "éclairent"],
+        "subj.imp": ["éclairasse", "éclairasses", "éclairât", "éclairassions", "éclairassiez", "éclairassent"],
+        "imper.pres": ["éclaire", "éclairons", "éclairez"]
+      },
+      "participe_present": "éclairant",
+      "participe_passe": ["éclairé", "éclairée", "éclairés", "éclairées"]
     }
   ]
 }
