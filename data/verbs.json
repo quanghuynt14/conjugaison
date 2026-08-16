@@ -32465,6 +32465,24 @@
       },
       "participe_present": "réintégrant",
       "participe_passe": ["réintégré", "réintégrée", "réintégrés", "réintégrées"]
+    },
+    {
+      "id": "amarrer",
+      "infinitif": "amarrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["amarre", "amarres", "amarre", "amarrons", "amarrez", "amarrent"],
+        "ind.imp": ["amarrais", "amarrais", "amarrait", "amarrions", "amarriez", "amarraient"],
+        "ind.ps": ["amarrai", "amarras", "amarra", "amarrâmes", "amarrâtes", "amarrèrent"],
+        "ind.fut": ["amarrerai", "amarreras", "amarrera", "amarrerons", "amarrerez", "amarreront"],
+        "cond.pres": ["amarrerais", "amarrerais", "amarrerait", "amarrerions", "amarreriez", "amarreraient"],
+        "subj.pres": ["amarre", "amarres", "amarre", "amarrions", "amarriez", "amarrent"],
+        "subj.imp": ["amarrasse", "amarrasses", "amarrât", "amarrassions", "amarrassiez", "amarrassent"],
+        "imper.pres": ["amarre", "amarrons", "amarrez"]
+      },
+      "participe_present": "amarrant",
+      "participe_passe": ["amarré", "amarrée", "amarrés", "amarrées"]
     }
   ]
 }
