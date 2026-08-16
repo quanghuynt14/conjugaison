@@ -31992,6 +31992,24 @@
       },
       "participe_present": "communiant",
       "participe_passe": ["communié", null, null, null]
+    },
+    {
+      "id": "injurier",
+      "infinitif": "injurier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["injurie", "injuries", "injurie", "injurions", "injuriez", "injurient"],
+        "ind.imp": ["injuriais", "injuriais", "injuriait", "injuriions", "injuriiez", "injuriaient"],
+        "ind.ps": ["injuriai", "injurias", "injuria", "injuriâmes", "injuriâtes", "injurièrent"],
+        "ind.fut": ["injurierai", "injurieras", "injuriera", "injurierons", "injurierez", "injurieront"],
+        "cond.pres": ["injurierais", "injurierais", "injurierait", "injurierions", "injurieriez", "injurieraient"],
+        "subj.pres": ["injurie", "injuries", "injurie", "injuriions", "injuriiez", "injurient"],
+        "subj.imp": ["injuriasse", "injuriasses", "injuriât", "injuriassions", "injuriassiez", "injuriassent"],
+        "imper.pres": ["injurie", "injurions", "injuriez"]
+      },
+      "participe_present": "injuriant",
+      "participe_passe": ["injurié", "injuriée", "injuriés", "injuriées"]
     }
   ]
 }
