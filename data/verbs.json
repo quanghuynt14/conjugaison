@@ -2932,6 +2932,24 @@
       },
       "participe_present": "ignorant",
       "participe_passe": ["ignoré", "ignorée", "ignorés", "ignorées"]
+    },
+    {
+      "id": "glisser",
+      "infinitif": "glisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["glisse", "glisses", "glisse", "glissons", "glissez", "glissent"],
+        "ind.imp": ["glissais", "glissais", "glissait", "glissions", "glissiez", "glissaient"],
+        "ind.ps": ["glissai", "glissas", "glissa", "glissâmes", "glissâtes", "glissèrent"],
+        "ind.fut": ["glisserai", "glisseras", "glissera", "glisserons", "glisserez", "glisseront"],
+        "cond.pres": ["glisserais", "glisserais", "glisserait", "glisserions", "glisseriez", "glisseraient"],
+        "subj.pres": ["glisse", "glisses", "glisse", "glissions", "glissiez", "glissent"],
+        "subj.imp": ["glissasse", "glissasses", "glissât", "glissassions", "glissassiez", "glissassent"],
+        "imper.pres": ["glisse", "glissons", "glissez"]
+      },
+      "participe_present": "glissant",
+      "participe_passe": ["glissé", "glissée", "glissés", "glissées"]
     }
   ]
 }
