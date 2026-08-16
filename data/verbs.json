@@ -7457,6 +7457,24 @@
       },
       "participe_present": "dépendant",
       "participe_passe": ["dépendu", "dépendue", "dépendus", "dépendues"]
+    },
+    {
+      "id": "soutenir",
+      "infinitif": "soutenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["soutiens", "soutiens", "soutient", "soutenons", "soutenez", "soutiennent"],
+        "ind.imp": ["soutenais", "soutenais", "soutenait", "soutenions", "souteniez", "soutenaient"],
+        "ind.ps": ["soutins", "soutins", "soutint", "soutînmes", "soutîntes", "soutinrent"],
+        "ind.fut": ["soutiendrai", "soutiendras", "soutiendra", "soutiendrons", "soutiendrez", "soutiendront"],
+        "cond.pres": ["soutiendrais", "soutiendrais", "soutiendrait", "soutiendrions", "soutiendriez", "soutiendraient"],
+        "subj.pres": ["soutienne", "soutiennes", "soutienne", "soutenions", "souteniez", "soutiennent"],
+        "subj.imp": ["soutinsse", "soutinsses", "soutînt", "soutinssions", "soutinssiez", "soutinssent"],
+        "imper.pres": ["soutiens", "soutenons", "soutenez"]
+      },
+      "participe_present": "soutenant",
+      "participe_passe": ["soutenu", "soutenue", "soutenus", "soutenues"]
     }
   ]
 }
