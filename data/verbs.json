@@ -25844,6 +25844,24 @@
       },
       "participe_present": "influençant",
       "participe_passe": ["influencé", "influencée", "influencés", "influencées"]
+    },
+    {
+      "id": "griffer",
+      "infinitif": "griffer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["griffe", "griffes", "griffe", "griffons", "griffez", "griffent"],
+        "ind.imp": ["griffais", "griffais", "griffait", "griffions", "griffiez", "griffaient"],
+        "ind.ps": ["griffai", "griffas", "griffa", "griffâmes", "griffâtes", "griffèrent"],
+        "ind.fut": ["grifferai", "grifferas", "griffera", "grifferons", "grifferez", "grifferont"],
+        "cond.pres": ["grifferais", "grifferais", "grifferait", "grifferions", "grifferiez", "grifferaient"],
+        "subj.pres": ["griffe", "griffes", "griffe", "griffions", "griffiez", "griffent"],
+        "subj.imp": ["griffasse", "griffasses", "griffât", "griffassions", "griffassiez", "griffassent"],
+        "imper.pres": ["griffe", "griffons", "griffez"]
+      },
+      "participe_present": "griffant",
+      "participe_passe": ["griffé", "griffée", "griffés", "griffées"]
     }
   ]
 }
