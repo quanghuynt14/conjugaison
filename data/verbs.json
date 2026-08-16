@@ -24205,6 +24205,25 @@
       },
       "participe_present": "déprimant",
       "participe_passe": ["déprimé", "déprimée", "déprimés", "déprimées"]
+    },
+    {
+      "id": "pécher",
+      "infinitif": "pécher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je pécherai » ou « je pècherai ». Les deux sont admises. Le participe passé « péché » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["pèche", "pèches", "pèche", "péchons", "péchez", "pèchent"],
+        "ind.imp": ["péchais", "péchais", "péchait", "péchions", "péchiez", "péchaient"],
+        "ind.ps": ["péchai", "péchas", "pécha", "péchâmes", "péchâtes", "péchèrent"],
+        "ind.fut": [["pécherai", "pècherai"], ["pécheras", "pècheras"], ["péchera", "pèchera"], ["pécherons", "pècherons"], ["pécherez", "pècherez"], ["pécheront", "pècheront"]],
+        "cond.pres": [["pécherais", "pècherais"], ["pécherais", "pècherais"], ["pécherait", "pècherait"], ["pécherions", "pècherions"], ["pécheriez", "pècheriez"], ["pécheraient", "pècheraient"]],
+        "subj.pres": ["pèche", "pèches", "pèche", "péchions", "péchiez", "pèchent"],
+        "subj.imp": ["péchasse", "péchasses", "péchât", "péchassions", "péchassiez", "péchassent"],
+        "imper.pres": ["pèche", "péchons", "péchez"]
+      },
+      "participe_present": "péchant",
+      "participe_passe": ["péché", null, null, null]
     }
   ]
 }
