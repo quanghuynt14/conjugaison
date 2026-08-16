@@ -21022,6 +21022,24 @@
       },
       "participe_present": "flambant",
       "participe_passe": ["flambé", "flambée", "flambés", "flambées"]
+    },
+    {
+      "id": "égorger",
+      "infinitif": "égorger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["égorge", "égorges", "égorge", "égorgeons", "égorgez", "égorgent"],
+        "ind.imp": ["égorgeais", "égorgeais", "égorgeait", "égorgions", "égorgiez", "égorgeaient"],
+        "ind.ps": ["égorgeai", "égorgeas", "égorgea", "égorgeâmes", "égorgeâtes", "égorgèrent"],
+        "ind.fut": ["égorgerai", "égorgeras", "égorgera", "égorgerons", "égorgerez", "égorgeront"],
+        "cond.pres": ["égorgerais", "égorgerais", "égorgerait", "égorgerions", "égorgeriez", "égorgeraient"],
+        "subj.pres": ["égorge", "égorges", "égorge", "égorgions", "égorgiez", "égorgent"],
+        "subj.imp": ["égorgeasse", "égorgeasses", "égorgeât", "égorgeassions", "égorgeassiez", "égorgeassent"],
+        "imper.pres": ["égorge", "égorgeons", "égorgez"]
+      },
+      "participe_present": "égorgeant",
+      "participe_passe": ["égorgé", "égorgée", "égorgés", "égorgées"]
     }
   ]
 }
