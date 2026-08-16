@@ -18722,6 +18722,24 @@
       },
       "participe_present": "branlant",
       "participe_passe": ["branlé", "branlée", "branlés", "branlées"]
+    },
+    {
+      "id": "gifler",
+      "infinitif": "gifler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gifle", "gifles", "gifle", "giflons", "giflez", "giflent"],
+        "ind.imp": ["giflais", "giflais", "giflait", "giflions", "gifliez", "giflaient"],
+        "ind.ps": ["giflai", "giflas", "gifla", "giflâmes", "giflâtes", "giflèrent"],
+        "ind.fut": ["giflerai", "gifleras", "giflera", "giflerons", "giflerez", "gifleront"],
+        "cond.pres": ["giflerais", "giflerais", "giflerait", "giflerions", "gifleriez", "gifleraient"],
+        "subj.pres": ["gifle", "gifles", "gifle", "giflions", "gifliez", "giflent"],
+        "subj.imp": ["giflasse", "giflasses", "giflât", "giflassions", "giflassiez", "giflassent"],
+        "imper.pres": ["gifle", "giflons", "giflez"]
+      },
+      "participe_present": "giflant",
+      "participe_passe": ["giflé", "giflée", "giflés", "giflées"]
     }
   ]
 }
