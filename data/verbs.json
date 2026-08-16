@@ -1916,6 +1916,24 @@
       },
       "participe_present": "comptant",
       "participe_passe": ["compté", "comptée", "comptés", "comptées"]
+    },
+    {
+      "id": "rencontrer",
+      "infinitif": "rencontrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rencontre", "rencontres", "rencontre", "rencontrons", "rencontrez", "rencontrent"],
+        "ind.imp": ["rencontrais", "rencontrais", "rencontrait", "rencontrions", "rencontriez", "rencontraient"],
+        "ind.ps": ["rencontrai", "rencontras", "rencontra", "rencontrâmes", "rencontrâtes", "rencontrèrent"],
+        "ind.fut": ["rencontrerai", "rencontreras", "rencontrera", "rencontrerons", "rencontrerez", "rencontreront"],
+        "cond.pres": ["rencontrerais", "rencontrerais", "rencontrerait", "rencontrerions", "rencontreriez", "rencontreraient"],
+        "subj.pres": ["rencontre", "rencontres", "rencontre", "rencontrions", "rencontriez", "rencontrent"],
+        "subj.imp": ["rencontrasse", "rencontrasses", "rencontrât", "rencontrassions", "rencontrassiez", "rencontrassent"],
+        "imper.pres": ["rencontre", "rencontrons", "rencontrez"]
+      },
+      "participe_present": "rencontrant",
+      "participe_passe": ["rencontré", "rencontrée", "rencontrés", "rencontrées"]
     }
   ]
 }
