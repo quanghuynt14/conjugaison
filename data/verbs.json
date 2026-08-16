@@ -5083,6 +5083,24 @@
       },
       "participe_present": "accrochant",
       "participe_passe": ["accroché", "accrochée", "accrochés", "accrochées"]
+    },
+    {
+      "id": "vérifier",
+      "infinitif": "vérifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vérifie", "vérifies", "vérifie", "vérifions", "vérifiez", "vérifient"],
+        "ind.imp": ["vérifiais", "vérifiais", "vérifiait", "vérifiions", "vérifiiez", "vérifiaient"],
+        "ind.ps": ["vérifiai", "vérifias", "vérifia", "vérifiâmes", "vérifiâtes", "vérifièrent"],
+        "ind.fut": ["vérifierai", "vérifieras", "vérifiera", "vérifierons", "vérifierez", "vérifieront"],
+        "cond.pres": ["vérifierais", "vérifierais", "vérifierait", "vérifierions", "vérifieriez", "vérifieraient"],
+        "subj.pres": ["vérifie", "vérifies", "vérifie", "vérifiions", "vérifiiez", "vérifient"],
+        "subj.imp": ["vérifiasse", "vérifiasses", "vérifiât", "vérifiassions", "vérifiassiez", "vérifiassent"],
+        "imper.pres": ["vérifie", "vérifions", "vérifiez"]
+      },
+      "participe_present": "vérifiant",
+      "participe_passe": ["vérifié", "vérifiée", "vérifiés", "vérifiées"]
     }
   ]
 }
