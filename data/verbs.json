@@ -36279,6 +36279,24 @@
       },
       "participe_present": "troquant",
       "participe_passe": ["troqué", "troquée", "troqués", "troquées"]
+    },
+    {
+      "id": "évaporer",
+      "infinitif": "évaporer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["évapore", "évapores", "évapore", "évaporons", "évaporez", "évaporent"],
+        "ind.imp": ["évaporais", "évaporais", "évaporait", "évaporions", "évaporiez", "évaporaient"],
+        "ind.ps": ["évaporai", "évaporas", "évapora", "évaporâmes", "évaporâtes", "évaporèrent"],
+        "ind.fut": ["évaporerai", "évaporeras", "évaporera", "évaporerons", "évaporerez", "évaporeront"],
+        "cond.pres": ["évaporerais", "évaporerais", "évaporerait", "évaporerions", "évaporeriez", "évaporeraient"],
+        "subj.pres": ["évapore", "évapores", "évapore", "évaporions", "évaporiez", "évaporent"],
+        "subj.imp": ["évaporasse", "évaporasses", "évaporât", "évaporassions", "évaporassiez", "évaporassent"],
+        "imper.pres": ["évapore", "évaporons", "évaporez"]
+      },
+      "participe_present": "évaporant",
+      "participe_passe": ["évaporé", "évaporée", "évaporés", "évaporées"]
     }
   ]
 }
