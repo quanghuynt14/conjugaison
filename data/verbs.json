@@ -13718,6 +13718,24 @@
       },
       "participe_present": "prolongeant",
       "participe_passe": ["prolongé", "prolongée", "prolongés", "prolongées"]
+    },
+    {
+      "id": "plaquer",
+      "infinitif": "plaquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["plaque", "plaques", "plaque", "plaquons", "plaquez", "plaquent"],
+        "ind.imp": ["plaquais", "plaquais", "plaquait", "plaquions", "plaquiez", "plaquaient"],
+        "ind.ps": ["plaquai", "plaquas", "plaqua", "plaquâmes", "plaquâtes", "plaquèrent"],
+        "ind.fut": ["plaquerai", "plaqueras", "plaquera", "plaquerons", "plaquerez", "plaqueront"],
+        "cond.pres": ["plaquerais", "plaquerais", "plaquerait", "plaquerions", "plaqueriez", "plaqueraient"],
+        "subj.pres": ["plaque", "plaques", "plaque", "plaquions", "plaquiez", "plaquent"],
+        "subj.imp": ["plaquasse", "plaquasses", "plaquât", "plaquassions", "plaquassiez", "plaquassent"],
+        "imper.pres": ["plaque", "plaquons", "plaquez"]
+      },
+      "participe_present": "plaquant",
+      "participe_passe": ["plaqué", "plaquée", "plaqués", "plaquées"]
     }
   ]
 }
