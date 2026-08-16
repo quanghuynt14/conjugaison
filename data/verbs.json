@@ -11426,6 +11426,24 @@
       },
       "participe_present": "butant",
       "participe_passe": ["buté", "butée", "butés", "butées"]
+    },
+    {
+      "id": "suspendre",
+      "infinitif": "suspendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["suspends", "suspends", "suspend", "suspendons", "suspendez", "suspendent"],
+        "ind.imp": ["suspendais", "suspendais", "suspendait", "suspendions", "suspendiez", "suspendaient"],
+        "ind.ps": ["suspendis", "suspendis", "suspendit", "suspendîmes", "suspendîtes", "suspendirent"],
+        "ind.fut": ["suspendrai", "suspendras", "suspendra", "suspendrons", "suspendrez", "suspendront"],
+        "cond.pres": ["suspendrais", "suspendrais", "suspendrait", "suspendrions", "suspendriez", "suspendraient"],
+        "subj.pres": ["suspende", "suspendes", "suspende", "suspendions", "suspendiez", "suspendent"],
+        "subj.imp": ["suspendisse", "suspendisses", "suspendît", "suspendissions", "suspendissiez", "suspendissent"],
+        "imper.pres": ["suspends", "suspendons", "suspendez"]
+      },
+      "participe_present": "suspendant",
+      "participe_passe": ["suspendu", "suspendue", "suspendus", "suspendues"]
     }
   ]
 }
