@@ -639,6 +639,24 @@
       },
       "participe_present": "arrêtant",
       "participe_passe": ["arrêté", "arrêtée", "arrêtés", "arrêtées"]
+    },
+    {
+      "id": "entendre",
+      "infinitif": "entendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entends", "entends", "entend", "entendons", "entendez", "entendent"],
+        "ind.imp": ["entendais", "entendais", "entendait", "entendions", "entendiez", "entendaient"],
+        "ind.ps": ["entendis", "entendis", "entendit", "entendîmes", "entendîtes", "entendirent"],
+        "ind.fut": ["entendrai", "entendras", "entendra", "entendrons", "entendrez", "entendront"],
+        "cond.pres": ["entendrais", "entendrais", "entendrait", "entendrions", "entendriez", "entendraient"],
+        "subj.pres": ["entende", "entendes", "entende", "entendions", "entendiez", "entendent"],
+        "subj.imp": ["entendisse", "entendisses", "entendît", "entendissions", "entendissiez", "entendissent"],
+        "imper.pres": ["entends", "entendons", "entendez"]
+      },
+      "participe_present": "entendant",
+      "participe_passe": ["entendu", "entendue", "entendus", "entendues"]
     }
   ]
 }
