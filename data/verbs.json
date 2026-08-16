@@ -30969,6 +30969,24 @@
       },
       "participe_present": "louchant",
       "participe_passe": ["louché", null, null, null]
+    },
+    {
+      "id": "moisir",
+      "infinitif": "moisir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["moisis", "moisis", "moisit", "moisissons", "moisissez", "moisissent"],
+        "ind.imp": ["moisissais", "moisissais", "moisissait", "moisissions", "moisissiez", "moisissaient"],
+        "ind.ps": ["moisis", "moisis", "moisit", "moisîmes", "moisîtes", "moisirent"],
+        "ind.fut": ["moisirai", "moisiras", "moisira", "moisirons", "moisirez", "moisiront"],
+        "cond.pres": ["moisirais", "moisirais", "moisirait", "moisirions", "moisiriez", "moisiraient"],
+        "subj.pres": ["moisisse", "moisisses", "moisisse", "moisissions", "moisissiez", "moisissent"],
+        "subj.imp": ["moisisse", "moisisses", "moisît", "moisissions", "moisissiez", "moisissent"],
+        "imper.pres": ["moisis", "moisissons", "moisissez"]
+      },
+      "participe_present": "moisissant",
+      "participe_passe": ["moisi", "moisie", "moisis", "moisies"]
     }
   ]
 }
