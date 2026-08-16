@@ -5881,6 +5881,24 @@
       },
       "participe_present": "enfonçant",
       "participe_passe": ["enfoncé", "enfoncée", "enfoncés", "enfoncées"]
+    },
+    {
+      "id": "téléphoner",
+      "infinitif": "téléphoner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["téléphone", "téléphones", "téléphone", "téléphonons", "téléphonez", "téléphonent"],
+        "ind.imp": ["téléphonais", "téléphonais", "téléphonait", "téléphonions", "téléphoniez", "téléphonaient"],
+        "ind.ps": ["téléphonai", "téléphonas", "téléphona", "téléphonâmes", "téléphonâtes", "téléphonèrent"],
+        "ind.fut": ["téléphonerai", "téléphoneras", "téléphonera", "téléphonerons", "téléphonerez", "téléphoneront"],
+        "cond.pres": ["téléphonerais", "téléphonerais", "téléphonerait", "téléphonerions", "téléphoneriez", "téléphoneraient"],
+        "subj.pres": ["téléphone", "téléphones", "téléphone", "téléphonions", "téléphoniez", "téléphonent"],
+        "subj.imp": ["téléphonasse", "téléphonasses", "téléphonât", "téléphonassions", "téléphonassiez", "téléphonassent"],
+        "imper.pres": ["téléphone", "téléphonons", "téléphonez"]
+      },
+      "participe_present": "téléphonant",
+      "participe_passe": ["téléphoné", "téléphonée", "téléphonés", "téléphonées"]
     }
   ]
 }
