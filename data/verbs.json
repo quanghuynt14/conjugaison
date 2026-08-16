@@ -7023,6 +7023,24 @@
       },
       "participe_present": "agitant",
       "participe_passe": ["agité", "agitée", "agités", "agitées"]
+    },
+    {
+      "id": "refermer",
+      "infinitif": "refermer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["referme", "refermes", "referme", "refermons", "refermez", "referment"],
+        "ind.imp": ["refermais", "refermais", "refermait", "refermions", "refermiez", "refermaient"],
+        "ind.ps": ["refermai", "refermas", "referma", "refermâmes", "refermâtes", "refermèrent"],
+        "ind.fut": ["refermerai", "refermeras", "refermera", "refermerons", "refermerez", "refermeront"],
+        "cond.pres": ["refermerais", "refermerais", "refermerait", "refermerions", "refermeriez", "refermeraient"],
+        "subj.pres": ["referme", "refermes", "referme", "refermions", "refermiez", "referment"],
+        "subj.imp": ["refermasse", "refermasses", "refermât", "refermassions", "refermassiez", "refermassent"],
+        "imper.pres": ["referme", "refermons", "refermez"]
+      },
+      "participe_present": "refermant",
+      "participe_passe": ["refermé", "refermée", "refermés", "refermées"]
     }
   ]
 }
