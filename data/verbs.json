@@ -18796,6 +18796,24 @@
       },
       "participe_present": "frissonnant",
       "participe_passe": ["frissonné", null, null, null]
+    },
+    {
+      "id": "élancer",
+      "infinitif": "élancer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["élance", "élances", "élance", "élançons", "élancez", "élancent"],
+        "ind.imp": ["élançais", "élançais", "élançait", "élancions", "élanciez", "élançaient"],
+        "ind.ps": ["élançai", "élanças", "élança", "élançâmes", "élançâtes", "élancèrent"],
+        "ind.fut": ["élancerai", "élanceras", "élancera", "élancerons", "élancerez", "élanceront"],
+        "cond.pres": ["élancerais", "élancerais", "élancerait", "élancerions", "élanceriez", "élanceraient"],
+        "subj.pres": ["élance", "élances", "élance", "élancions", "élanciez", "élancent"],
+        "subj.imp": ["élançasse", "élançasses", "élançât", "élançassions", "élançassiez", "élançassent"],
+        "imper.pres": ["élance", "élançons", "élancez"]
+      },
+      "participe_present": "élançant",
+      "participe_passe": ["élancé", "élancée", "élancés", "élancées"]
     }
   ]
 }
