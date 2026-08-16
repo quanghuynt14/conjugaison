@@ -19797,6 +19797,24 @@
       },
       "participe_present": "exploitant",
       "participe_passe": ["exploité", "exploitée", "exploités", "exploitées"]
+    },
+    {
+      "id": "encaisser",
+      "infinitif": "encaisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["encaisse", "encaisses", "encaisse", "encaissons", "encaissez", "encaissent"],
+        "ind.imp": ["encaissais", "encaissais", "encaissait", "encaissions", "encaissiez", "encaissaient"],
+        "ind.ps": ["encaissai", "encaissas", "encaissa", "encaissâmes", "encaissâtes", "encaissèrent"],
+        "ind.fut": ["encaisserai", "encaisseras", "encaissera", "encaisserons", "encaisserez", "encaisseront"],
+        "cond.pres": ["encaisserais", "encaisserais", "encaisserait", "encaisserions", "encaisseriez", "encaisseraient"],
+        "subj.pres": ["encaisse", "encaisses", "encaisse", "encaissions", "encaissiez", "encaissent"],
+        "subj.imp": ["encaissasse", "encaissasses", "encaissât", "encaissassions", "encaissassiez", "encaissassent"],
+        "imper.pres": ["encaisse", "encaissons", "encaissez"]
+      },
+      "participe_present": "encaissant",
+      "participe_passe": ["encaissé", "encaissée", "encaissés", "encaissées"]
     }
   ]
 }
