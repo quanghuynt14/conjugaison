@@ -27850,6 +27850,24 @@
       },
       "participe_present": "cavalant",
       "participe_passe": ["cavalé", "cavalée", "cavalés", "cavalées"]
+    },
+    {
+      "id": "siffloter",
+      "infinitif": "siffloter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sifflote", "sifflotes", "sifflote", "sifflotons", "sifflotez", "sifflotent"],
+        "ind.imp": ["sifflotais", "sifflotais", "sifflotait", "sifflotions", "sifflotiez", "sifflotaient"],
+        "ind.ps": ["sifflotai", "sifflotas", "sifflota", "sifflotâmes", "sifflotâtes", "sifflotèrent"],
+        "ind.fut": ["siffloterai", "siffloteras", "sifflotera", "siffloterons", "siffloterez", "siffloteront"],
+        "cond.pres": ["siffloterais", "siffloterais", "siffloterait", "siffloterions", "siffloteriez", "siffloteraient"],
+        "subj.pres": ["sifflote", "sifflotes", "sifflote", "sifflotions", "sifflotiez", "sifflotent"],
+        "subj.imp": ["sifflotasse", "sifflotasses", "sifflotât", "sifflotassions", "sifflotassiez", "sifflotassent"],
+        "imper.pres": ["sifflote", "sifflotons", "sifflotez"]
+      },
+      "participe_present": "sifflotant",
+      "participe_passe": ["siffloté", "sifflotée", "sifflotés", "sifflotées"]
     }
   ]
 }
