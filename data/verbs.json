@@ -21258,6 +21258,24 @@
       },
       "participe_present": "aggravant",
       "participe_passe": ["aggravé", "aggravée", "aggravés", "aggravées"]
+    },
+    {
+      "id": "fiancer",
+      "infinitif": "fiancer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fiance", "fiances", "fiance", "fiançons", "fiancez", "fiancent"],
+        "ind.imp": ["fiançais", "fiançais", "fiançait", "fiancions", "fianciez", "fiançaient"],
+        "ind.ps": ["fiançai", "fianças", "fiança", "fiançâmes", "fiançâtes", "fiancèrent"],
+        "ind.fut": ["fiancerai", "fianceras", "fiancera", "fiancerons", "fiancerez", "fianceront"],
+        "cond.pres": ["fiancerais", "fiancerais", "fiancerait", "fiancerions", "fianceriez", "fianceraient"],
+        "subj.pres": ["fiance", "fiances", "fiance", "fiancions", "fianciez", "fiancent"],
+        "subj.imp": ["fiançasse", "fiançasses", "fiançât", "fiançassions", "fiançassiez", "fiançassent"],
+        "imper.pres": ["fiance", "fiançons", "fiancez"]
+      },
+      "participe_present": "fiançant",
+      "participe_passe": ["fiancé", "fiancée", "fiancés", "fiancées"]
     }
   ]
 }
