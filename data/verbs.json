@@ -3872,6 +3872,24 @@
       },
       "participe_present": "arrangeant",
       "participe_passe": ["arrangé", "arrangée", "arrangés", "arrangées"]
+    },
+    {
+      "id": "emporter",
+      "infinitif": "emporter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emporte", "emportes", "emporte", "emportons", "emportez", "emportent"],
+        "ind.imp": ["emportais", "emportais", "emportait", "emportions", "emportiez", "emportaient"],
+        "ind.ps": ["emportai", "emportas", "emporta", "emportâmes", "emportâtes", "emportèrent"],
+        "ind.fut": ["emporterai", "emporteras", "emportera", "emporterons", "emporterez", "emporteront"],
+        "cond.pres": ["emporterais", "emporterais", "emporterait", "emporterions", "emporteriez", "emporteraient"],
+        "subj.pres": ["emporte", "emportes", "emporte", "emportions", "emportiez", "emportent"],
+        "subj.imp": ["emportasse", "emportasses", "emportât", "emportassions", "emportassiez", "emportassent"],
+        "imper.pres": ["emporte", "emportons", "emportez"]
+      },
+      "participe_present": "emportant",
+      "participe_passe": ["emporté", "emportée", "emportés", "emportées"]
     }
   ]
 }
