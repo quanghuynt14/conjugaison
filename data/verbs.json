@@ -2514,6 +2514,25 @@
       },
       "participe_present": "acceptant",
       "participe_passe": ["accepté", "acceptée", "acceptés", "acceptées"]
+    },
+    {
+      "id": "ressembler",
+      "infinitif": "ressembler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « ressemblé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["ressemble", "ressembles", "ressemble", "ressemblons", "ressemblez", "ressemblent"],
+        "ind.imp": ["ressemblais", "ressemblais", "ressemblait", "ressemblions", "ressembliez", "ressemblaient"],
+        "ind.ps": ["ressemblai", "ressemblas", "ressembla", "ressemblâmes", "ressemblâtes", "ressemblèrent"],
+        "ind.fut": ["ressemblerai", "ressembleras", "ressemblera", "ressemblerons", "ressemblerez", "ressembleront"],
+        "cond.pres": ["ressemblerais", "ressemblerais", "ressemblerait", "ressemblerions", "ressembleriez", "ressembleraient"],
+        "subj.pres": ["ressemble", "ressembles", "ressemble", "ressemblions", "ressembliez", "ressemblent"],
+        "subj.imp": ["ressemblasse", "ressemblasses", "ressemblât", "ressemblassions", "ressemblassiez", "ressemblassent"],
+        "imper.pres": ["ressemble", "ressemblons", "ressemblez"]
+      },
+      "participe_present": "ressemblant",
+      "participe_passe": ["ressemblé", null, null, null]
     }
   ]
 }
