@@ -9738,6 +9738,24 @@
       },
       "participe_present": "essuyant",
       "participe_passe": ["essuyé", "essuyée", "essuyés", "essuyées"]
+    },
+    {
+      "id": "priver",
+      "infinitif": "priver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prive", "prives", "prive", "privons", "privez", "privent"],
+        "ind.imp": ["privais", "privais", "privait", "privions", "priviez", "privaient"],
+        "ind.ps": ["privai", "privas", "priva", "privâmes", "privâtes", "privèrent"],
+        "ind.fut": ["priverai", "priveras", "privera", "priverons", "priverez", "priveront"],
+        "cond.pres": ["priverais", "priverais", "priverait", "priverions", "priveriez", "priveraient"],
+        "subj.pres": ["prive", "prives", "prive", "privions", "priviez", "privent"],
+        "subj.imp": ["privasse", "privasses", "privât", "privassions", "privassiez", "privassent"],
+        "imper.pres": ["prive", "privons", "privez"]
+      },
+      "participe_present": "privant",
+      "participe_passe": ["privé", "privée", "privés", "privées"]
     }
   ]
 }
