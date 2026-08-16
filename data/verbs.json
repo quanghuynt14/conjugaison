@@ -18395,6 +18395,24 @@
       },
       "participe_present": "contribuant",
       "participe_passe": ["contribué", null, null, null]
+    },
+    {
+      "id": "feuilleter",
+      "infinitif": "feuilleter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["feuillette", "feuillettes", "feuillette", "feuilletons", "feuilletez", "feuillettent"],
+        "ind.imp": ["feuilletais", "feuilletais", "feuilletait", "feuilletions", "feuilletiez", "feuilletaient"],
+        "ind.ps": ["feuilletai", "feuilletas", "feuilleta", "feuilletâmes", "feuilletâtes", "feuilletèrent"],
+        "ind.fut": ["feuilletterai", "feuilletteras", "feuillettera", "feuilletterons", "feuilletterez", "feuilletteront"],
+        "cond.pres": ["feuilletterais", "feuilletterais", "feuilletterait", "feuilletterions", "feuilletteriez", "feuilletteraient"],
+        "subj.pres": ["feuillette", "feuillettes", "feuillette", "feuilletions", "feuilletiez", "feuillettent"],
+        "subj.imp": ["feuilletasse", "feuilletasses", "feuilletât", "feuilletassions", "feuilletassiez", "feuilletassent"],
+        "imper.pres": ["feuillette", "feuilletons", "feuilletez"]
+      },
+      "participe_present": "feuilletant",
+      "participe_passe": ["feuilleté", "feuilletée", "feuilletés", "feuilletées"]
     }
   ]
 }
