@@ -15241,6 +15241,26 @@
       },
       "participe_present": "accélérant",
       "participe_passe": ["accéléré", "accélérée", "accélérés", "accélérées"]
+    },
+    {
+      "id": "attarder",
+      "infinitif": "attarder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’attarde » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["attarde", "attardes", "attarde", "attardons", "attardez", "attardent"],
+        "ind.imp": ["attardais", "attardais", "attardait", "attardions", "attardiez", "attardaient"],
+        "ind.ps": ["attardai", "attardas", "attarda", "attardâmes", "attardâtes", "attardèrent"],
+        "ind.fut": ["attarderai", "attarderas", "attardera", "attarderons", "attarderez", "attarderont"],
+        "cond.pres": ["attarderais", "attarderais", "attarderait", "attarderions", "attarderiez", "attarderaient"],
+        "subj.pres": ["attarde", "attardes", "attarde", "attardions", "attardiez", "attardent"],
+        "subj.imp": ["attardasse", "attardasses", "attardât", "attardassions", "attardassiez", "attardassent"],
+        "imper.pres": ["attarde", "attardons", "attardez"]
+      },
+      "participe_present": "attardant",
+      "participe_passe": ["attardé", "attardée", "attardés", "attardées"]
     }
   ]
 }
