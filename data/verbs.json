@@ -10062,6 +10062,25 @@
       },
       "participe_present": "transportant",
       "participe_passe": ["transporté", "transportée", "transportés", "transportées"]
+    },
+    {
+      "id": "tarder",
+      "infinitif": "tarder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « tardé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["tarde", "tardes", "tarde", "tardons", "tardez", "tardent"],
+        "ind.imp": ["tardais", "tardais", "tardait", "tardions", "tardiez", "tardaient"],
+        "ind.ps": ["tardai", "tardas", "tarda", "tardâmes", "tardâtes", "tardèrent"],
+        "ind.fut": ["tarderai", "tarderas", "tardera", "tarderons", "tarderez", "tarderont"],
+        "cond.pres": ["tarderais", "tarderais", "tarderait", "tarderions", "tarderiez", "tarderaient"],
+        "subj.pres": ["tarde", "tardes", "tarde", "tardions", "tardiez", "tardent"],
+        "subj.imp": ["tardasse", "tardasses", "tardât", "tardassions", "tardassiez", "tardassent"],
+        "imper.pres": ["tarde", "tardons", "tardez"]
+      },
+      "participe_present": "tardant",
+      "participe_passe": ["tardé", null, null, null]
     }
   ]
 }
