@@ -31772,6 +31772,25 @@
       },
       "participe_present": "toisant",
       "participe_passe": ["toisé", "toisée", "toisés", "toisées"]
+    },
+    {
+      "id": "déléguer",
+      "infinitif": "déléguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je déléguerai » ou « je délèguerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["délègue", "délègues", "délègue", "déléguons", "déléguez", "délèguent"],
+        "ind.imp": ["déléguais", "déléguais", "déléguait", "déléguions", "déléguiez", "déléguaient"],
+        "ind.ps": ["déléguai", "déléguas", "délégua", "déléguâmes", "déléguâtes", "déléguèrent"],
+        "ind.fut": [["déléguerai", "délèguerai"], ["délégueras", "délègueras"], ["déléguera", "délèguera"], ["déléguerons", "délèguerons"], ["déléguerez", "délèguerez"], ["délégueront", "délègueront"]],
+        "cond.pres": [["déléguerais", "délèguerais"], ["déléguerais", "délèguerais"], ["déléguerait", "délèguerait"], ["déléguerions", "délèguerions"], ["délégueriez", "délègueriez"], ["délégueraient", "délègueraient"]],
+        "subj.pres": ["délègue", "délègues", "délègue", "déléguions", "déléguiez", "délèguent"],
+        "subj.imp": ["déléguasse", "déléguasses", "déléguât", "déléguassions", "déléguassiez", "déléguassent"],
+        "imper.pres": ["délègue", "déléguons", "déléguez"]
+      },
+      "participe_present": "déléguant",
+      "participe_passe": ["délégué", "déléguée", "délégués", "déléguées"]
     }
   ]
 }
