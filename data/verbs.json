@@ -31827,6 +31827,25 @@
       },
       "participe_present": "interposant",
       "participe_passe": ["interposé", "interposée", "interposés", "interposées"]
+    },
+    {
+      "id": "refluer",
+      "infinitif": "refluer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « reflué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["reflue", "reflues", "reflue", "refluons", "refluez", "refluent"],
+        "ind.imp": ["refluais", "refluais", "refluait", "refluions", "refluiez", "refluaient"],
+        "ind.ps": ["refluai", "refluas", "reflua", "refluâmes", "refluâtes", "refluèrent"],
+        "ind.fut": ["refluerai", "reflueras", "refluera", "refluerons", "refluerez", "reflueront"],
+        "cond.pres": ["refluerais", "refluerais", "refluerait", "refluerions", "reflueriez", "reflueraient"],
+        "subj.pres": ["reflue", "reflues", "reflue", "refluions", "refluiez", "refluent"],
+        "subj.imp": ["refluasse", "refluasses", "refluât", "refluassions", "refluassiez", "refluassent"],
+        "imper.pres": ["reflue", "refluons", "refluez"]
+      },
+      "participe_present": "refluant",
+      "participe_passe": ["reflué", null, null, null]
     }
   ]
 }
