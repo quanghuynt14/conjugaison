@@ -24297,6 +24297,24 @@
       },
       "participe_present": "chatouillant",
       "participe_passe": ["chatouillé", "chatouillée", "chatouillés", "chatouillées"]
+    },
+    {
+      "id": "river",
+      "infinitif": "river",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rive", "rives", "rive", "rivons", "rivez", "rivent"],
+        "ind.imp": ["rivais", "rivais", "rivait", "rivions", "riviez", "rivaient"],
+        "ind.ps": ["rivai", "rivas", "riva", "rivâmes", "rivâtes", "rivèrent"],
+        "ind.fut": ["riverai", "riveras", "rivera", "riverons", "riverez", "riveront"],
+        "cond.pres": ["riverais", "riverais", "riverait", "riverions", "riveriez", "riveraient"],
+        "subj.pres": ["rive", "rives", "rive", "rivions", "riviez", "rivent"],
+        "subj.imp": ["rivasse", "rivasses", "rivât", "rivassions", "rivassiez", "rivassent"],
+        "imper.pres": ["rive", "rivons", "rivez"]
+      },
+      "participe_present": "rivant",
+      "participe_passe": ["rivé", "rivée", "rivés", "rivées"]
     }
   ]
 }
