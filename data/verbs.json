@@ -5662,6 +5662,24 @@
       },
       "participe_present": "coûtant",
       "participe_passe": ["coûté", "coûtée", "coûtés", "coûtées"]
+    },
+    {
+      "id": "murmurer",
+      "infinitif": "murmurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["murmure", "murmures", "murmure", "murmurons", "murmurez", "murmurent"],
+        "ind.imp": ["murmurais", "murmurais", "murmurait", "murmurions", "murmuriez", "murmuraient"],
+        "ind.ps": ["murmurai", "murmuras", "murmura", "murmurâmes", "murmurâtes", "murmurèrent"],
+        "ind.fut": ["murmurerai", "murmureras", "murmurera", "murmurerons", "murmurerez", "murmureront"],
+        "cond.pres": ["murmurerais", "murmurerais", "murmurerait", "murmurerions", "murmureriez", "murmureraient"],
+        "subj.pres": ["murmure", "murmures", "murmure", "murmurions", "murmuriez", "murmurent"],
+        "subj.imp": ["murmurasse", "murmurasses", "murmurât", "murmurassions", "murmurassiez", "murmurassent"],
+        "imper.pres": ["murmure", "murmurons", "murmurez"]
+      },
+      "participe_present": "murmurant",
+      "participe_passe": ["murmuré", "murmurée", "murmurés", "murmurées"]
     }
   ]
 }
