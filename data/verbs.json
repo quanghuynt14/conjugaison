@@ -1368,6 +1368,24 @@
       },
       "participe_present": "lisant",
       "participe_passe": ["lu", "lue", "lus", "lues"]
+    },
+    {
+      "id": "montrer",
+      "infinitif": "montrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["montre", "montres", "montre", "montrons", "montrez", "montrent"],
+        "ind.imp": ["montrais", "montrais", "montrait", "montrions", "montriez", "montraient"],
+        "ind.ps": ["montrai", "montras", "montra", "montrâmes", "montrâtes", "montrèrent"],
+        "ind.fut": ["montrerai", "montreras", "montrera", "montrerons", "montrerez", "montreront"],
+        "cond.pres": ["montrerais", "montrerais", "montrerait", "montrerions", "montreriez", "montreraient"],
+        "subj.pres": ["montre", "montres", "montre", "montrions", "montriez", "montrent"],
+        "subj.imp": ["montrasse", "montrasses", "montrât", "montrassions", "montrassiez", "montrassent"],
+        "imper.pres": ["montre", "montrons", "montrez"]
+      },
+      "participe_present": "montrant",
+      "participe_passe": ["montré", "montrée", "montrés", "montrées"]
     }
   ]
 }
