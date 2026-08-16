@@ -16585,6 +16585,24 @@
       },
       "participe_present": "gravant",
       "participe_passe": ["gravé", "gravée", "gravés", "gravées"]
+    },
+    {
+      "id": "reparler",
+      "infinitif": "reparler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reparle", "reparles", "reparle", "reparlons", "reparlez", "reparlent"],
+        "ind.imp": ["reparlais", "reparlais", "reparlait", "reparlions", "reparliez", "reparlaient"],
+        "ind.ps": ["reparlai", "reparlas", "reparla", "reparlâmes", "reparlâtes", "reparlèrent"],
+        "ind.fut": ["reparlerai", "reparleras", "reparlera", "reparlerons", "reparlerez", "reparleront"],
+        "cond.pres": ["reparlerais", "reparlerais", "reparlerait", "reparlerions", "reparleriez", "reparleraient"],
+        "subj.pres": ["reparle", "reparles", "reparle", "reparlions", "reparliez", "reparlent"],
+        "subj.imp": ["reparlasse", "reparlasses", "reparlât", "reparlassions", "reparlassiez", "reparlassent"],
+        "imper.pres": ["reparle", "reparlons", "reparlez"]
+      },
+      "participe_present": "reparlant",
+      "participe_passe": ["reparlé", "reparlée", "reparlés", "reparlées"]
     }
   ]
 }
