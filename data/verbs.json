@@ -5863,6 +5863,24 @@
       },
       "participe_present": "tremblant",
       "participe_passe": ["tremblé", null, null, null]
+    },
+    {
+      "id": "enfoncer",
+      "infinitif": "enfoncer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enfonce", "enfonces", "enfonce", "enfonçons", "enfoncez", "enfoncent"],
+        "ind.imp": ["enfonçais", "enfonçais", "enfonçait", "enfoncions", "enfonciez", "enfonçaient"],
+        "ind.ps": ["enfonçai", "enfonças", "enfonça", "enfonçâmes", "enfonçâtes", "enfoncèrent"],
+        "ind.fut": ["enfoncerai", "enfonceras", "enfoncera", "enfoncerons", "enfoncerez", "enfonceront"],
+        "cond.pres": ["enfoncerais", "enfoncerais", "enfoncerait", "enfoncerions", "enfonceriez", "enfonceraient"],
+        "subj.pres": ["enfonce", "enfonces", "enfonce", "enfoncions", "enfonciez", "enfoncent"],
+        "subj.imp": ["enfonçasse", "enfonçasses", "enfonçât", "enfonçassions", "enfonçassiez", "enfonçassent"],
+        "imper.pres": ["enfonce", "enfonçons", "enfoncez"]
+      },
+      "participe_present": "enfonçant",
+      "participe_passe": ["enfoncé", "enfoncée", "enfoncés", "enfoncées"]
     }
   ]
 }
