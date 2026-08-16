@@ -14501,6 +14501,24 @@
       },
       "participe_present": "léchant",
       "participe_passe": ["léché", "léchée", "léchés", "léchées"]
+    },
+    {
+      "id": "mélanger",
+      "infinitif": "mélanger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mélange", "mélanges", "mélange", "mélangeons", "mélangez", "mélangent"],
+        "ind.imp": ["mélangeais", "mélangeais", "mélangeait", "mélangions", "mélangiez", "mélangeaient"],
+        "ind.ps": ["mélangeai", "mélangeas", "mélangea", "mélangeâmes", "mélangeâtes", "mélangèrent"],
+        "ind.fut": ["mélangerai", "mélangeras", "mélangera", "mélangerons", "mélangerez", "mélangeront"],
+        "cond.pres": ["mélangerais", "mélangerais", "mélangerait", "mélangerions", "mélangeriez", "mélangeraient"],
+        "subj.pres": ["mélange", "mélanges", "mélange", "mélangions", "mélangiez", "mélangent"],
+        "subj.imp": ["mélangeasse", "mélangeasses", "mélangeât", "mélangeassions", "mélangeassiez", "mélangeassent"],
+        "imper.pres": ["mélange", "mélangeons", "mélangez"]
+      },
+      "participe_present": "mélangeant",
+      "participe_passe": ["mélangé", "mélangée", "mélangés", "mélangées"]
     }
   ]
 }
