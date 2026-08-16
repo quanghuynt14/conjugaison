@@ -3040,6 +3040,24 @@
       },
       "participe_present": "intéressant",
       "participe_passe": ["intéressé", "intéressée", "intéressés", "intéressées"]
+    },
+    {
+      "id": "sauter",
+      "infinitif": "sauter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["saute", "sautes", "saute", "sautons", "sautez", "sautent"],
+        "ind.imp": ["sautais", "sautais", "sautait", "sautions", "sautiez", "sautaient"],
+        "ind.ps": ["sautai", "sautas", "sauta", "sautâmes", "sautâtes", "sautèrent"],
+        "ind.fut": ["sauterai", "sauteras", "sautera", "sauterons", "sauterez", "sauteront"],
+        "cond.pres": ["sauterais", "sauterais", "sauterait", "sauterions", "sauteriez", "sauteraient"],
+        "subj.pres": ["saute", "sautes", "saute", "sautions", "sautiez", "sautent"],
+        "subj.imp": ["sautasse", "sautasses", "sautât", "sautassions", "sautassiez", "sautassent"],
+        "imper.pres": ["saute", "sautons", "sautez"]
+      },
+      "participe_present": "sautant",
+      "participe_passe": ["sauté", "sautée", "sautés", "sautées"]
     }
   ]
 }
