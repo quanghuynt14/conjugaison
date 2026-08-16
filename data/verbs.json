@@ -2569,6 +2569,24 @@
       },
       "participe_present": "revoyant",
       "participe_passe": ["revu", "revue", "revus", "revues"]
+    },
+    {
+      "id": "réveiller",
+      "infinitif": "réveiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réveille", "réveilles", "réveille", "réveillons", "réveillez", "réveillent"],
+        "ind.imp": ["réveillais", "réveillais", "réveillait", "réveillions", "réveilliez", "réveillaient"],
+        "ind.ps": ["réveillai", "réveillas", "réveilla", "réveillâmes", "réveillâtes", "réveillèrent"],
+        "ind.fut": ["réveillerai", "réveilleras", "réveillera", "réveillerons", "réveillerez", "réveilleront"],
+        "cond.pres": ["réveillerais", "réveillerais", "réveillerait", "réveillerions", "réveilleriez", "réveilleraient"],
+        "subj.pres": ["réveille", "réveilles", "réveille", "réveillions", "réveilliez", "réveillent"],
+        "subj.imp": ["réveillasse", "réveillasses", "réveillât", "réveillassions", "réveillassiez", "réveillassent"],
+        "imper.pres": ["réveille", "réveillons", "réveillez"]
+      },
+      "participe_present": "réveillant",
+      "participe_passe": ["réveillé", "réveillée", "réveillés", "réveillées"]
     }
   ]
 }
