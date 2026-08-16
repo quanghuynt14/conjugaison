@@ -19305,6 +19305,24 @@
       },
       "participe_present": "faufilant",
       "participe_passe": ["faufilé", "faufilée", "faufilés", "faufilées"]
+    },
+    {
+      "id": "éclaircir",
+      "infinitif": "éclaircir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éclaircis", "éclaircis", "éclaircit", "éclaircissons", "éclaircissez", "éclaircissent"],
+        "ind.imp": ["éclaircissais", "éclaircissais", "éclaircissait", "éclaircissions", "éclaircissiez", "éclaircissaient"],
+        "ind.ps": ["éclaircis", "éclaircis", "éclaircit", "éclaircîmes", "éclaircîtes", "éclaircirent"],
+        "ind.fut": ["éclaircirai", "éclairciras", "éclaircira", "éclaircirons", "éclaircirez", "éclairciront"],
+        "cond.pres": ["éclaircirais", "éclaircirais", "éclaircirait", "éclaircirions", "éclairciriez", "éclairciraient"],
+        "subj.pres": ["éclaircisse", "éclaircisses", "éclaircisse", "éclaircissions", "éclaircissiez", "éclaircissent"],
+        "subj.imp": ["éclaircisse", "éclaircisses", "éclaircît", "éclaircissions", "éclaircissiez", "éclaircissent"],
+        "imper.pres": ["éclaircis", "éclaircissons", "éclaircissez"]
+      },
+      "participe_present": "éclaircissant",
+      "participe_passe": ["éclairci", "éclaircie", "éclaircis", "éclaircies"]
     }
   ]
 }
