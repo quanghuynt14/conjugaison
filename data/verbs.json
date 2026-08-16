@@ -33485,6 +33485,24 @@
       },
       "participe_present": "ficelant",
       "participe_passe": ["ficelé", "ficelée", "ficelés", "ficelées"]
+    },
+    {
+      "id": "ternir",
+      "infinitif": "ternir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ternis", "ternis", "ternit", "ternissons", "ternissez", "ternissent"],
+        "ind.imp": ["ternissais", "ternissais", "ternissait", "ternissions", "ternissiez", "ternissaient"],
+        "ind.ps": ["ternis", "ternis", "ternit", "ternîmes", "ternîtes", "ternirent"],
+        "ind.fut": ["ternirai", "terniras", "ternira", "ternirons", "ternirez", "terniront"],
+        "cond.pres": ["ternirais", "ternirais", "ternirait", "ternirions", "terniriez", "terniraient"],
+        "subj.pres": ["ternisse", "ternisses", "ternisse", "ternissions", "ternissiez", "ternissent"],
+        "subj.imp": ["ternisse", "ternisses", "ternît", "ternissions", "ternissiez", "ternissent"],
+        "imper.pres": ["ternis", "ternissons", "ternissez"]
+      },
+      "participe_present": "ternissant",
+      "participe_passe": ["terni", "ternie", "ternis", "ternies"]
     }
   ]
 }
