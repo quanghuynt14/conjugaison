@@ -4160,6 +4160,24 @@
       },
       "participe_present": "respirant",
       "participe_passe": ["respiré", "respirée", "respirés", "respirées"]
+    },
+    {
+      "id": "détruire",
+      "infinitif": "détruire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["détruis", "détruis", "détruit", "détruisons", "détruisez", "détruisent"],
+        "ind.imp": ["détruisais", "détruisais", "détruisait", "détruisions", "détruisiez", "détruisaient"],
+        "ind.ps": ["détruisis", "détruisis", "détruisit", "détruisîmes", "détruisîtes", "détruisirent"],
+        "ind.fut": ["détruirai", "détruiras", "détruira", "détruirons", "détruirez", "détruiront"],
+        "cond.pres": ["détruirais", "détruirais", "détruirait", "détruirions", "détruiriez", "détruiraient"],
+        "subj.pres": ["détruise", "détruises", "détruise", "détruisions", "détruisiez", "détruisent"],
+        "subj.imp": ["détruisisse", "détruisisses", "détruisît", "détruisissions", "détruisissiez", "détruisissent"],
+        "imper.pres": ["détruis", "détruisons", "détruisez"]
+      },
+      "participe_present": "détruisant",
+      "participe_passe": ["détruit", "détruite", "détruits", "détruites"]
     }
   ]
 }
