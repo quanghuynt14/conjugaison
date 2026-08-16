@@ -21059,6 +21059,25 @@
       },
       "participe_present": "rayant",
       "participe_passe": ["rayé", "rayée", "rayés", "rayées"]
+    },
+    {
+      "id": "patienter",
+      "infinitif": "patienter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « patienté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["patiente", "patientes", "patiente", "patientons", "patientez", "patientent"],
+        "ind.imp": ["patientais", "patientais", "patientait", "patientions", "patientiez", "patientaient"],
+        "ind.ps": ["patientai", "patientas", "patienta", "patientâmes", "patientâtes", "patientèrent"],
+        "ind.fut": ["patienterai", "patienteras", "patientera", "patienterons", "patienterez", "patienteront"],
+        "cond.pres": ["patienterais", "patienterais", "patienterait", "patienterions", "patienteriez", "patienteraient"],
+        "subj.pres": ["patiente", "patientes", "patiente", "patientions", "patientiez", "patientent"],
+        "subj.imp": ["patientasse", "patientasses", "patientât", "patientassions", "patientassiez", "patientassent"],
+        "imper.pres": ["patiente", "patientons", "patientez"]
+      },
+      "participe_present": "patientant",
+      "participe_passe": ["patienté", null, null, null]
     }
   ]
 }
