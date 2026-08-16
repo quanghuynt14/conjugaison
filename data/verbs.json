@@ -8885,6 +8885,24 @@
       },
       "participe_present": "parcourant",
       "participe_passe": ["parcouru", "parcourue", "parcourus", "parcourues"]
+    },
+    {
+      "id": "désigner",
+      "infinitif": "désigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["désigne", "désignes", "désigne", "désignons", "désignez", "désignent"],
+        "ind.imp": ["désignais", "désignais", "désignait", "désignions", "désigniez", "désignaient"],
+        "ind.ps": ["désignai", "désignas", "désigna", "désignâmes", "désignâtes", "désignèrent"],
+        "ind.fut": ["désignerai", "désigneras", "désignera", "désignerons", "désignerez", "désigneront"],
+        "cond.pres": ["désignerais", "désignerais", "désignerait", "désignerions", "désigneriez", "désigneraient"],
+        "subj.pres": ["désigne", "désignes", "désigne", "désignions", "désigniez", "désignent"],
+        "subj.imp": ["désignasse", "désignasses", "désignât", "désignassions", "désignassiez", "désignassent"],
+        "imper.pres": ["désigne", "désignons", "désignez"]
+      },
+      "participe_present": "désignant",
+      "participe_passe": ["désigné", "désignée", "désignés", "désignées"]
     }
   ]
 }
