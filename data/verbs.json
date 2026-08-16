@@ -22908,6 +22908,24 @@
       },
       "participe_present": "farcissant",
       "participe_passe": ["farci", "farcie", "farcis", "farcies"]
+    },
+    {
+      "id": "lover",
+      "infinitif": "lover",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["love", "loves", "love", "lovons", "lovez", "lovent"],
+        "ind.imp": ["lovais", "lovais", "lovait", "lovions", "loviez", "lovaient"],
+        "ind.ps": ["lovai", "lovas", "lova", "lovâmes", "lovâtes", "lovèrent"],
+        "ind.fut": ["loverai", "loveras", "lovera", "loverons", "loverez", "loveront"],
+        "cond.pres": ["loverais", "loverais", "loverait", "loverions", "loveriez", "loveraient"],
+        "subj.pres": ["love", "loves", "love", "lovions", "loviez", "lovent"],
+        "subj.imp": ["lovasse", "lovasses", "lovât", "lovassions", "lovassiez", "lovassent"],
+        "imper.pres": ["love", "lovons", "lovez"]
+      },
+      "participe_present": "lovant",
+      "participe_passe": ["lové", "lovée", "lovés", "lovées"]
     }
   ]
 }
