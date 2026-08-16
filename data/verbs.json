@@ -19924,6 +19924,24 @@
       },
       "participe_present": "renaissant",
       "participe_passe": [null, null, null, null]
+    },
+    {
+      "id": "freiner",
+      "infinitif": "freiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["freine", "freines", "freine", "freinons", "freinez", "freinent"],
+        "ind.imp": ["freinais", "freinais", "freinait", "freinions", "freiniez", "freinaient"],
+        "ind.ps": ["freinai", "freinas", "freina", "freinâmes", "freinâtes", "freinèrent"],
+        "ind.fut": ["freinerai", "freineras", "freinera", "freinerons", "freinerez", "freineront"],
+        "cond.pres": ["freinerais", "freinerais", "freinerait", "freinerions", "freineriez", "freineraient"],
+        "subj.pres": ["freine", "freines", "freine", "freinions", "freiniez", "freinent"],
+        "subj.imp": ["freinasse", "freinasses", "freinât", "freinassions", "freinassiez", "freinassent"],
+        "imper.pres": ["freine", "freinons", "freinez"]
+      },
+      "participe_present": "freinant",
+      "participe_passe": ["freiné", "freinée", "freinés", "freinées"]
     }
   ]
 }
