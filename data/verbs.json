@@ -33210,6 +33210,25 @@
       },
       "participe_present": "rusant",
       "participe_passe": ["rusé", "rusée", "rusés", "rusées"]
+    },
+    {
+      "id": "adhérer",
+      "infinitif": "adhérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’adhérerai » ou « j’adhèrerai ». Les deux sont admises. Le participe passé « adhéré » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["adhère", "adhères", "adhère", "adhérons", "adhérez", "adhèrent"],
+        "ind.imp": ["adhérais", "adhérais", "adhérait", "adhérions", "adhériez", "adhéraient"],
+        "ind.ps": ["adhérai", "adhéras", "adhéra", "adhérâmes", "adhérâtes", "adhérèrent"],
+        "ind.fut": [["adhérerai", "adhèrerai"], ["adhéreras", "adhèreras"], ["adhérera", "adhèrera"], ["adhérerons", "adhèrerons"], ["adhérerez", "adhèrerez"], ["adhéreront", "adhèreront"]],
+        "cond.pres": [["adhérerais", "adhèrerais"], ["adhérerais", "adhèrerais"], ["adhérerait", "adhèrerait"], ["adhérerions", "adhèrerions"], ["adhéreriez", "adhèreriez"], ["adhéreraient", "adhèreraient"]],
+        "subj.pres": ["adhère", "adhères", "adhère", "adhérions", "adhériez", "adhèrent"],
+        "subj.imp": ["adhérasse", "adhérasses", "adhérât", "adhérassions", "adhérassiez", "adhérassent"],
+        "imper.pres": ["adhère", "adhérons", "adhérez"]
+      },
+      "participe_present": "adhérant",
+      "participe_passe": ["adhéré", null, null, null]
     }
   ]
 }
