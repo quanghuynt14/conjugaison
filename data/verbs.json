@@ -17458,6 +17458,24 @@
       },
       "participe_present": "retardant",
       "participe_passe": ["retardé", "retardée", "retardés", "retardées"]
+    },
+    {
+      "id": "contourner",
+      "infinitif": "contourner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contourne", "contournes", "contourne", "contournons", "contournez", "contournent"],
+        "ind.imp": ["contournais", "contournais", "contournait", "contournions", "contourniez", "contournaient"],
+        "ind.ps": ["contournai", "contournas", "contourna", "contournâmes", "contournâtes", "contournèrent"],
+        "ind.fut": ["contournerai", "contourneras", "contournera", "contournerons", "contournerez", "contourneront"],
+        "cond.pres": ["contournerais", "contournerais", "contournerait", "contournerions", "contourneriez", "contourneraient"],
+        "subj.pres": ["contourne", "contournes", "contourne", "contournions", "contourniez", "contournent"],
+        "subj.imp": ["contournasse", "contournasses", "contournât", "contournassions", "contournassiez", "contournassent"],
+        "imper.pres": ["contourne", "contournons", "contournez"]
+      },
+      "participe_present": "contournant",
+      "participe_passe": ["contourné", "contournée", "contournés", "contournées"]
     }
   ]
 }
