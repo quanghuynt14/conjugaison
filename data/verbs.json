@@ -15988,6 +15988,24 @@
       },
       "participe_present": "assommant",
       "participe_passe": ["assommé", "assommée", "assommés", "assommées"]
+    },
+    {
+      "id": "humilier",
+      "infinitif": "humilier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["humilie", "humilies", "humilie", "humilions", "humiliez", "humilient"],
+        "ind.imp": ["humiliais", "humiliais", "humiliait", "humiliions", "humiliiez", "humiliaient"],
+        "ind.ps": ["humiliai", "humilias", "humilia", "humiliâmes", "humiliâtes", "humilièrent"],
+        "ind.fut": ["humilierai", "humilieras", "humiliera", "humilierons", "humilierez", "humilieront"],
+        "cond.pres": ["humilierais", "humilierais", "humilierait", "humilierions", "humilieriez", "humilieraient"],
+        "subj.pres": ["humilie", "humilies", "humilie", "humiliions", "humiliiez", "humilient"],
+        "subj.imp": ["humiliasse", "humiliasses", "humiliât", "humiliassions", "humiliassiez", "humiliassent"],
+        "imper.pres": ["humilie", "humilions", "humiliez"]
+      },
+      "participe_present": "humiliant",
+      "participe_passe": ["humilié", "humiliée", "humiliés", "humiliées"]
     }
   ]
 }
