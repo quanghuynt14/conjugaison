@@ -27176,6 +27176,24 @@
       },
       "participe_present": "amassant",
       "participe_passe": ["amassé", "amassée", "amassés", "amassées"]
+    },
+    {
+      "id": "fracasser",
+      "infinitif": "fracasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fracasse", "fracasses", "fracasse", "fracassons", "fracassez", "fracassent"],
+        "ind.imp": ["fracassais", "fracassais", "fracassait", "fracassions", "fracassiez", "fracassaient"],
+        "ind.ps": ["fracassai", "fracassas", "fracassa", "fracassâmes", "fracassâtes", "fracassèrent"],
+        "ind.fut": ["fracasserai", "fracasseras", "fracassera", "fracasserons", "fracasserez", "fracasseront"],
+        "cond.pres": ["fracasserais", "fracasserais", "fracasserait", "fracasserions", "fracasseriez", "fracasseraient"],
+        "subj.pres": ["fracasse", "fracasses", "fracasse", "fracassions", "fracassiez", "fracassent"],
+        "subj.imp": ["fracassasse", "fracassasses", "fracassât", "fracassassions", "fracassassiez", "fracassassent"],
+        "imper.pres": ["fracasse", "fracassons", "fracassez"]
+      },
+      "participe_present": "fracassant",
+      "participe_passe": ["fracassé", "fracassée", "fracassés", "fracassées"]
     }
   ]
 }
