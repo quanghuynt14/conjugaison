@@ -16914,6 +16914,24 @@
       },
       "participe_present": "brandissant",
       "participe_passe": ["brandi", "brandie", "brandis", "brandies"]
+    },
+    {
+      "id": "évacuer",
+      "infinitif": "évacuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["évacue", "évacues", "évacue", "évacuons", "évacuez", "évacuent"],
+        "ind.imp": ["évacuais", "évacuais", "évacuait", "évacuions", "évacuiez", "évacuaient"],
+        "ind.ps": ["évacuai", "évacuas", "évacua", "évacuâmes", "évacuâtes", "évacuèrent"],
+        "ind.fut": ["évacuerai", "évacueras", "évacuera", "évacuerons", "évacuerez", "évacueront"],
+        "cond.pres": ["évacuerais", "évacuerais", "évacuerait", "évacuerions", "évacueriez", "évacueraient"],
+        "subj.pres": ["évacue", "évacues", "évacue", "évacuions", "évacuiez", "évacuent"],
+        "subj.imp": ["évacuasse", "évacuasses", "évacuât", "évacuassions", "évacuassiez", "évacuassent"],
+        "imper.pres": ["évacue", "évacuons", "évacuez"]
+      },
+      "participe_present": "évacuant",
+      "participe_passe": ["évacué", "évacuée", "évacués", "évacuées"]
     }
   ]
 }
