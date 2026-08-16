@@ -332,6 +332,24 @@
       },
       "participe_present": "croyant",
       "participe_passe": ["cru", "crue", "crus", "crues"]
+    },
+    {
+      "id": "aimer",
+      "infinitif": "aimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aime", "aimes", "aime", "aimons", "aimez", "aiment"],
+        "ind.imp": ["aimais", "aimais", "aimait", "aimions", "aimiez", "aimaient"],
+        "ind.ps": ["aimai", "aimas", "aima", "aimâmes", "aimâtes", "aimèrent"],
+        "ind.fut": ["aimerai", "aimeras", "aimera", "aimerons", "aimerez", "aimeront"],
+        "cond.pres": ["aimerais", "aimerais", "aimerait", "aimerions", "aimeriez", "aimeraient"],
+        "subj.pres": ["aime", "aimes", "aime", "aimions", "aimiez", "aiment"],
+        "subj.imp": ["aimasse", "aimasses", "aimât", "aimassions", "aimassiez", "aimassent"],
+        "imper.pres": ["aime", "aimons", "aimez"]
+      },
+      "participe_present": "aimant",
+      "participe_passe": ["aimé", "aimée", "aimés", "aimées"]
     }
   ]
 }
