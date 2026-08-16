@@ -8037,6 +8037,24 @@
       },
       "participe_present": "faillant",
       "participe_passe": ["failli", null, null, null]
+    },
+    {
+      "id": "coincer",
+      "infinitif": "coincer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["coince", "coinces", "coince", "coinçons", "coincez", "coincent"],
+        "ind.imp": ["coinçais", "coinçais", "coinçait", "coincions", "coinciez", "coinçaient"],
+        "ind.ps": ["coinçai", "coinças", "coinça", "coinçâmes", "coinçâtes", "coincèrent"],
+        "ind.fut": ["coincerai", "coinceras", "coincera", "coincerons", "coincerez", "coinceront"],
+        "cond.pres": ["coincerais", "coincerais", "coincerait", "coincerions", "coinceriez", "coinceraient"],
+        "subj.pres": ["coince", "coinces", "coince", "coincions", "coinciez", "coincent"],
+        "subj.imp": ["coinçasse", "coinçasses", "coinçât", "coinçassions", "coinçassiez", "coinçassent"],
+        "imper.pres": ["coince", "coinçons", "coincez"]
+      },
+      "participe_present": "coinçant",
+      "participe_passe": ["coincé", "coincée", "coincés", "coincées"]
     }
   ]
 }
