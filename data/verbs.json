@@ -32356,6 +32356,24 @@
       },
       "participe_present": "déconcertant",
       "participe_passe": ["déconcerté", "déconcertée", "déconcertés", "déconcertées"]
+    },
+    {
+      "id": "rôtir",
+      "infinitif": "rôtir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rôtis", "rôtis", "rôtit", "rôtissons", "rôtissez", "rôtissent"],
+        "ind.imp": ["rôtissais", "rôtissais", "rôtissait", "rôtissions", "rôtissiez", "rôtissaient"],
+        "ind.ps": ["rôtis", "rôtis", "rôtit", "rôtîmes", "rôtîtes", "rôtirent"],
+        "ind.fut": ["rôtirai", "rôtiras", "rôtira", "rôtirons", "rôtirez", "rôtiront"],
+        "cond.pres": ["rôtirais", "rôtirais", "rôtirait", "rôtirions", "rôtiriez", "rôtiraient"],
+        "subj.pres": ["rôtisse", "rôtisses", "rôtisse", "rôtissions", "rôtissiez", "rôtissent"],
+        "subj.imp": ["rôtisse", "rôtisses", "rôtît", "rôtissions", "rôtissiez", "rôtissent"],
+        "imper.pres": ["rôtis", "rôtissons", "rôtissez"]
+      },
+      "participe_present": "rôtissant",
+      "participe_passe": ["rôti", "rôtie", "rôtis", "rôties"]
     }
   ]
 }
