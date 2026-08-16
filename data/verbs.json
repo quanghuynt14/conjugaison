@@ -584,6 +584,25 @@
       },
       "participe_present": "connaissant",
       "participe_passe": ["connu", "connue", "connus", "connues"]
+    },
+    {
+      "id": "sortir",
+      "infinitif": "sortir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis sorti ». Avec un complément d'objet direct, avoir : « j'ai sorti la poubelle ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["sors", "sors", "sort", "sortons", "sortez", "sortent"],
+        "ind.imp": ["sortais", "sortais", "sortait", "sortions", "sortiez", "sortaient"],
+        "ind.ps": ["sortis", "sortis", "sortit", "sortîmes", "sortîtes", "sortirent"],
+        "ind.fut": ["sortirai", "sortiras", "sortira", "sortirons", "sortirez", "sortiront"],
+        "cond.pres": ["sortirais", "sortirais", "sortirait", "sortirions", "sortiriez", "sortiraient"],
+        "subj.pres": ["sorte", "sortes", "sorte", "sortions", "sortiez", "sortent"],
+        "subj.imp": ["sortisse", "sortisses", "sortît", "sortissions", "sortissiez", "sortissent"],
+        "imper.pres": ["sors", "sortons", "sortez"]
+      },
+      "participe_present": "sortant",
+      "participe_passe": ["sorti", "sortie", "sortis", "sorties"]
     }
   ]
 }
