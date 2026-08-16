@@ -1789,6 +1789,24 @@
       },
       "participe_present": "manquant",
       "participe_passe": ["manqué", "manquée", "manqués", "manquées"]
+    },
+    {
+      "id": "acheter",
+      "infinitif": "acheter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["achète", "achètes", "achète", "achetons", "achetez", "achètent"],
+        "ind.imp": ["achetais", "achetais", "achetait", "achetions", "achetiez", "achetaient"],
+        "ind.ps": ["achetai", "achetas", "acheta", "achetâmes", "achetâtes", "achetèrent"],
+        "ind.fut": ["achèterai", "achèteras", "achètera", "achèterons", "achèterez", "achèteront"],
+        "cond.pres": ["achèterais", "achèterais", "achèterait", "achèterions", "achèteriez", "achèteraient"],
+        "subj.pres": ["achète", "achètes", "achète", "achetions", "achetiez", "achètent"],
+        "subj.imp": ["achetasse", "achetasses", "achetât", "achetassions", "achetassiez", "achetassent"],
+        "imper.pres": ["achète", "achetons", "achetez"]
+      },
+      "participe_present": "achetant",
+      "participe_passe": ["acheté", "achetée", "achetés", "achetées"]
     }
   ]
 }
