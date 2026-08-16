@@ -4956,6 +4956,24 @@
       },
       "participe_present": "plaçant",
       "participe_passe": ["placé", "placée", "placés", "placées"]
+    },
+    {
+      "id": "signer",
+      "infinitif": "signer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["signe", "signes", "signe", "signons", "signez", "signent"],
+        "ind.imp": ["signais", "signais", "signait", "signions", "signiez", "signaient"],
+        "ind.ps": ["signai", "signas", "signa", "signâmes", "signâtes", "signèrent"],
+        "ind.fut": ["signerai", "signeras", "signera", "signerons", "signerez", "signeront"],
+        "cond.pres": ["signerais", "signerais", "signerait", "signerions", "signeriez", "signeraient"],
+        "subj.pres": ["signe", "signes", "signe", "signions", "signiez", "signent"],
+        "subj.imp": ["signasse", "signasses", "signât", "signassions", "signassiez", "signassent"],
+        "imper.pres": ["signe", "signons", "signez"]
+      },
+      "participe_present": "signant",
+      "participe_passe": ["signé", "signée", "signés", "signées"]
     }
   ]
 }
