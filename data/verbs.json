@@ -33413,6 +33413,24 @@
       },
       "participe_present": "scandant",
       "participe_passe": ["scandé", "scandée", "scandés", "scandées"]
+    },
+    {
+      "id": "éjecter",
+      "infinitif": "éjecter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éjecte", "éjectes", "éjecte", "éjectons", "éjectez", "éjectent"],
+        "ind.imp": ["éjectais", "éjectais", "éjectait", "éjections", "éjectiez", "éjectaient"],
+        "ind.ps": ["éjectai", "éjectas", "éjecta", "éjectâmes", "éjectâtes", "éjectèrent"],
+        "ind.fut": ["éjecterai", "éjecteras", "éjectera", "éjecterons", "éjecterez", "éjecteront"],
+        "cond.pres": ["éjecterais", "éjecterais", "éjecterait", "éjecterions", "éjecteriez", "éjecteraient"],
+        "subj.pres": ["éjecte", "éjectes", "éjecte", "éjections", "éjectiez", "éjectent"],
+        "subj.imp": ["éjectasse", "éjectasses", "éjectât", "éjectassions", "éjectassiez", "éjectassent"],
+        "imper.pres": ["éjecte", "éjectons", "éjectez"]
+      },
+      "participe_present": "éjectant",
+      "participe_passe": ["éjecté", "éjectée", "éjectés", "éjectées"]
     }
   ]
 }
