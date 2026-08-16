@@ -22523,6 +22523,25 @@
       },
       "participe_present": "tracassant",
       "participe_passe": ["tracassé", "tracassée", "tracassés", "tracassées"]
+    },
+    {
+      "id": "dissoudre",
+      "infinitif": "dissoudre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Ni passé simple, ni subjonctif imparfait. Le participe passé est « dissous, dissoute » ; « dissolu » est l'adjectif — des mœurs dissolues —, que les dictionnaires donnent à part.",
+      "tenses": {
+        "ind.pres": ["dissous", "dissous", "dissout", "dissolvons", "dissolvez", "dissolvent"],
+        "ind.imp": ["dissolvais", "dissolvais", "dissolvait", "dissolvions", "dissolviez", "dissolvaient"],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": ["dissoudrai", "dissoudras", "dissoudra", "dissoudrons", "dissoudrez", "dissoudront"],
+        "cond.pres": ["dissoudrais", "dissoudrais", "dissoudrait", "dissoudrions", "dissoudriez", "dissoudraient"],
+        "subj.pres": ["dissolve", "dissolves", "dissolve", "dissolvions", "dissolviez", "dissolvent"],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": ["dissous", "dissolvons", "dissolvez"]
+      },
+      "participe_present": "dissolvant",
+      "participe_passe": ["dissous", "dissoute", "dissous", "dissoutes"]
     }
   ]
 }
