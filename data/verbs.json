@@ -11972,6 +11972,24 @@
       },
       "participe_present": "témoignant",
       "participe_passe": ["témoigné", "témoignée", "témoignés", "témoignées"]
+    },
+    {
+      "id": "fréquenter",
+      "infinitif": "fréquenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fréquente", "fréquentes", "fréquente", "fréquentons", "fréquentez", "fréquentent"],
+        "ind.imp": ["fréquentais", "fréquentais", "fréquentait", "fréquentions", "fréquentiez", "fréquentaient"],
+        "ind.ps": ["fréquentai", "fréquentas", "fréquenta", "fréquentâmes", "fréquentâtes", "fréquentèrent"],
+        "ind.fut": ["fréquenterai", "fréquenteras", "fréquentera", "fréquenterons", "fréquenterez", "fréquenteront"],
+        "cond.pres": ["fréquenterais", "fréquenterais", "fréquenterait", "fréquenterions", "fréquenteriez", "fréquenteraient"],
+        "subj.pres": ["fréquente", "fréquentes", "fréquente", "fréquentions", "fréquentiez", "fréquentent"],
+        "subj.imp": ["fréquentasse", "fréquentasses", "fréquentât", "fréquentassions", "fréquentassiez", "fréquentassent"],
+        "imper.pres": ["fréquente", "fréquentons", "fréquentez"]
+      },
+      "participe_present": "fréquentant",
+      "participe_passe": ["fréquenté", "fréquentée", "fréquentés", "fréquentées"]
     }
   ]
 }
