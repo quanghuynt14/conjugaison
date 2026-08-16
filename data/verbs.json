@@ -20932,6 +20932,24 @@
       },
       "participe_present": "embauchant",
       "participe_passe": ["embauché", "embauchée", "embauchés", "embauchées"]
+    },
+    {
+      "id": "formuler",
+      "infinitif": "formuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["formule", "formules", "formule", "formulons", "formulez", "formulent"],
+        "ind.imp": ["formulais", "formulais", "formulait", "formulions", "formuliez", "formulaient"],
+        "ind.ps": ["formulai", "formulas", "formula", "formulâmes", "formulâtes", "formulèrent"],
+        "ind.fut": ["formulerai", "formuleras", "formulera", "formulerons", "formulerez", "formuleront"],
+        "cond.pres": ["formulerais", "formulerais", "formulerait", "formulerions", "formuleriez", "formuleraient"],
+        "subj.pres": ["formule", "formules", "formule", "formulions", "formuliez", "formulent"],
+        "subj.imp": ["formulasse", "formulasses", "formulât", "formulassions", "formulassiez", "formulassent"],
+        "imper.pres": ["formule", "formulons", "formulez"]
+      },
+      "participe_present": "formulant",
+      "participe_passe": ["formulé", "formulée", "formulés", "formulées"]
     }
   ]
 }
