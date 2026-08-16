@@ -15770,6 +15770,24 @@
       },
       "participe_present": "contraignant",
       "participe_passe": ["contraint", "contrainte", "contraints", "contraintes"]
+    },
+    {
+      "id": "braquer",
+      "infinitif": "braquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["braque", "braques", "braque", "braquons", "braquez", "braquent"],
+        "ind.imp": ["braquais", "braquais", "braquait", "braquions", "braquiez", "braquaient"],
+        "ind.ps": ["braquai", "braquas", "braqua", "braquâmes", "braquâtes", "braquèrent"],
+        "ind.fut": ["braquerai", "braqueras", "braquera", "braquerons", "braquerez", "braqueront"],
+        "cond.pres": ["braquerais", "braquerais", "braquerait", "braquerions", "braqueriez", "braqueraient"],
+        "subj.pres": ["braque", "braques", "braque", "braquions", "braquiez", "braquent"],
+        "subj.imp": ["braquasse", "braquasses", "braquât", "braquassions", "braquassiez", "braquassent"],
+        "imper.pres": ["braque", "braquons", "braquez"]
+      },
+      "participe_present": "braquant",
+      "participe_passe": ["braqué", "braquée", "braqués", "braquées"]
     }
   ]
 }
