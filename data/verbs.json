@@ -12647,6 +12647,24 @@
       },
       "participe_present": "concevant",
       "participe_passe": ["conçu", "conçue", "conçus", "conçues"]
+    },
+    {
+      "id": "dépenser",
+      "infinitif": "dépenser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dépense", "dépenses", "dépense", "dépensons", "dépensez", "dépensent"],
+        "ind.imp": ["dépensais", "dépensais", "dépensait", "dépensions", "dépensiez", "dépensaient"],
+        "ind.ps": ["dépensai", "dépensas", "dépensa", "dépensâmes", "dépensâtes", "dépensèrent"],
+        "ind.fut": ["dépenserai", "dépenseras", "dépensera", "dépenserons", "dépenserez", "dépenseront"],
+        "cond.pres": ["dépenserais", "dépenserais", "dépenserait", "dépenserions", "dépenseriez", "dépenseraient"],
+        "subj.pres": ["dépense", "dépenses", "dépense", "dépensions", "dépensiez", "dépensent"],
+        "subj.imp": ["dépensasse", "dépensasses", "dépensât", "dépensassions", "dépensassiez", "dépensassent"],
+        "imper.pres": ["dépense", "dépensons", "dépensez"]
+      },
+      "participe_present": "dépensant",
+      "participe_passe": ["dépensé", "dépensée", "dépensés", "dépensées"]
     }
   ]
 }
