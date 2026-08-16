@@ -24896,6 +24896,25 @@
       },
       "participe_present": "grignotant",
       "participe_passe": ["grignoté", "grignotée", "grignotés", "grignotées"]
+    },
+    {
+      "id": "différer",
+      "infinitif": "différer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je différerai » ou « je diffèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["diffère", "diffères", "diffère", "différons", "différez", "diffèrent"],
+        "ind.imp": ["différais", "différais", "différait", "différions", "différiez", "différaient"],
+        "ind.ps": ["différai", "différas", "différa", "différâmes", "différâtes", "différèrent"],
+        "ind.fut": [["différerai", "diffèrerai"], ["différeras", "diffèreras"], ["différera", "diffèrera"], ["différerons", "diffèrerons"], ["différerez", "diffèrerez"], ["différeront", "diffèreront"]],
+        "cond.pres": [["différerais", "diffèrerais"], ["différerais", "diffèrerais"], ["différerait", "diffèrerait"], ["différerions", "diffèrerions"], ["différeriez", "diffèreriez"], ["différeraient", "diffèreraient"]],
+        "subj.pres": ["diffère", "diffères", "diffère", "différions", "différiez", "diffèrent"],
+        "subj.imp": ["différasse", "différasses", "différât", "différassions", "différassiez", "différassent"],
+        "imper.pres": ["diffère", "différons", "différez"]
+      },
+      "participe_present": "différant",
+      "participe_passe": ["différé", "différée", "différés", "différées"]
     }
   ]
 }
