@@ -3745,6 +3745,24 @@
       },
       "participe_present": "apparaissant",
       "participe_passe": ["apparu", "apparue", "apparus", "apparues"]
+    },
+    {
+      "id": "prévenir",
+      "infinitif": "prévenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["préviens", "préviens", "prévient", "prévenons", "prévenez", "préviennent"],
+        "ind.imp": ["prévenais", "prévenais", "prévenait", "prévenions", "préveniez", "prévenaient"],
+        "ind.ps": ["prévins", "prévins", "prévint", "prévînmes", "prévîntes", "prévinrent"],
+        "ind.fut": ["préviendrai", "préviendras", "préviendra", "préviendrons", "préviendrez", "préviendront"],
+        "cond.pres": ["préviendrais", "préviendrais", "préviendrait", "préviendrions", "préviendriez", "préviendraient"],
+        "subj.pres": ["prévienne", "préviennes", "prévienne", "prévenions", "préveniez", "préviennent"],
+        "subj.imp": ["prévinsse", "prévinsses", "prévînt", "prévinssions", "prévinssiez", "prévinssent"],
+        "imper.pres": ["préviens", "prévenons", "prévenez"]
+      },
+      "participe_present": "prévenant",
+      "participe_passe": ["prévenu", "prévenue", "prévenus", "prévenues"]
     }
   ]
 }
