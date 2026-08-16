@@ -314,6 +314,24 @@
       },
       "participe_present": "passant",
       "participe_passe": ["passé", "passée", "passés", "passées"]
+    },
+    {
+      "id": "croire",
+      "infinitif": "croire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["crois", "crois", "croit", "croyons", "croyez", "croient"],
+        "ind.imp": ["croyais", "croyais", "croyait", "croyions", "croyiez", "croyaient"],
+        "ind.ps": ["crus", "crus", "crut", "crûmes", "crûtes", "crurent"],
+        "ind.fut": ["croirai", "croiras", "croira", "croirons", "croirez", "croiront"],
+        "cond.pres": ["croirais", "croirais", "croirait", "croirions", "croiriez", "croiraient"],
+        "subj.pres": ["croie", "croies", "croie", "croyions", "croyiez", "croient"],
+        "subj.imp": ["crusse", "crusses", "crût", "crussions", "crussiez", "crussent"],
+        "imper.pres": ["crois", "croyons", "croyez"]
+      },
+      "participe_present": "croyant",
+      "participe_passe": ["cru", "crue", "crus", "crues"]
     }
   ]
 }
