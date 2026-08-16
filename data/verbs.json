@@ -33594,6 +33594,24 @@
       },
       "participe_present": "acclamant",
       "participe_passe": ["acclamé", "acclamée", "acclamés", "acclamées"]
+    },
+    {
+      "id": "dandiner",
+      "infinitif": "dandiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dandine", "dandines", "dandine", "dandinons", "dandinez", "dandinent"],
+        "ind.imp": ["dandinais", "dandinais", "dandinait", "dandinions", "dandiniez", "dandinaient"],
+        "ind.ps": ["dandinai", "dandinas", "dandina", "dandinâmes", "dandinâtes", "dandinèrent"],
+        "ind.fut": ["dandinerai", "dandineras", "dandinera", "dandinerons", "dandinerez", "dandineront"],
+        "cond.pres": ["dandinerais", "dandinerais", "dandinerait", "dandinerions", "dandineriez", "dandineraient"],
+        "subj.pres": ["dandine", "dandines", "dandine", "dandinions", "dandiniez", "dandinent"],
+        "subj.imp": ["dandinasse", "dandinasses", "dandinât", "dandinassions", "dandinassiez", "dandinassent"],
+        "imper.pres": ["dandine", "dandinons", "dandinez"]
+      },
+      "participe_present": "dandinant",
+      "participe_passe": ["dandiné", "dandinée", "dandinés", "dandinées"]
     }
   ]
 }
