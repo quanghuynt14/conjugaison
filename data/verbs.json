@@ -3004,6 +3004,24 @@
       },
       "participe_present": "lâchant",
       "participe_passe": ["lâché", "lâchée", "lâchés", "lâchées"]
+    },
+    {
+      "id": "serrer",
+      "infinitif": "serrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["serre", "serres", "serre", "serrons", "serrez", "serrent"],
+        "ind.imp": ["serrais", "serrais", "serrait", "serrions", "serriez", "serraient"],
+        "ind.ps": ["serrai", "serras", "serra", "serrâmes", "serrâtes", "serrèrent"],
+        "ind.fut": ["serrerai", "serreras", "serrera", "serrerons", "serrerez", "serreront"],
+        "cond.pres": ["serrerais", "serrerais", "serrerait", "serrerions", "serreriez", "serreraient"],
+        "subj.pres": ["serre", "serres", "serre", "serrions", "serriez", "serrent"],
+        "subj.imp": ["serrasse", "serrasses", "serrât", "serrassions", "serrassiez", "serrassent"],
+        "imper.pres": ["serre", "serrons", "serrez"]
+      },
+      "participe_present": "serrant",
+      "participe_passe": ["serré", "serrée", "serrés", "serrées"]
     }
   ]
 }
