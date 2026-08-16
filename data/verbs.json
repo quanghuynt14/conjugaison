@@ -34817,6 +34817,24 @@
       },
       "participe_present": "déportant",
       "participe_passe": ["déporté", "déportée", "déportés", "déportées"]
+    },
+    {
+      "id": "graisser",
+      "infinitif": "graisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["graisse", "graisses", "graisse", "graissons", "graissez", "graissent"],
+        "ind.imp": ["graissais", "graissais", "graissait", "graissions", "graissiez", "graissaient"],
+        "ind.ps": ["graissai", "graissas", "graissa", "graissâmes", "graissâtes", "graissèrent"],
+        "ind.fut": ["graisserai", "graisseras", "graissera", "graisserons", "graisserez", "graisseront"],
+        "cond.pres": ["graisserais", "graisserais", "graisserait", "graisserions", "graisseriez", "graisseraient"],
+        "subj.pres": ["graisse", "graisses", "graisse", "graissions", "graissiez", "graissent"],
+        "subj.imp": ["graissasse", "graissasses", "graissât", "graissassions", "graissassiez", "graissassent"],
+        "imper.pres": ["graisse", "graissons", "graissez"]
+      },
+      "participe_present": "graissant",
+      "participe_passe": ["graissé", "graissée", "graissés", "graissées"]
     }
   ]
 }
