@@ -16242,6 +16242,24 @@
       },
       "participe_present": "négociant",
       "participe_passe": ["négocié", "négociée", "négociés", "négociées"]
+    },
+    {
+      "id": "coudre",
+      "infinitif": "coudre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["couds", "couds", "coud", "cousons", "cousez", "cousent"],
+        "ind.imp": ["cousais", "cousais", "cousait", "cousions", "cousiez", "cousaient"],
+        "ind.ps": ["cousis", "cousis", "cousit", "cousîmes", "cousîtes", "cousirent"],
+        "ind.fut": ["coudrai", "coudras", "coudra", "coudrons", "coudrez", "coudront"],
+        "cond.pres": ["coudrais", "coudrais", "coudrait", "coudrions", "coudriez", "coudraient"],
+        "subj.pres": ["couse", "couses", "couse", "cousions", "cousiez", "cousent"],
+        "subj.imp": ["cousisse", "cousisses", "cousît", "cousissions", "cousissiez", "cousissent"],
+        "imper.pres": ["couds", "cousons", "cousez"]
+      },
+      "participe_present": "cousant",
+      "participe_passe": ["cousu", "cousue", "cousus", "cousues"]
     }
   ]
 }
