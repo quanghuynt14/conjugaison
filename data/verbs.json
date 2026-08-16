@@ -25478,6 +25478,24 @@
       },
       "participe_present": "rajeunissant",
       "participe_passe": ["rajeuni", "rajeunie", "rajeunis", "rajeunies"]
+    },
+    {
+      "id": "déduire",
+      "infinitif": "déduire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déduis", "déduis", "déduit", "déduisons", "déduisez", "déduisent"],
+        "ind.imp": ["déduisais", "déduisais", "déduisait", "déduisions", "déduisiez", "déduisaient"],
+        "ind.ps": ["déduisis", "déduisis", "déduisit", "déduisîmes", "déduisîtes", "déduisirent"],
+        "ind.fut": ["déduirai", "déduiras", "déduira", "déduirons", "déduirez", "déduiront"],
+        "cond.pres": ["déduirais", "déduirais", "déduirait", "déduirions", "déduiriez", "déduiraient"],
+        "subj.pres": ["déduise", "déduises", "déduise", "déduisions", "déduisiez", "déduisent"],
+        "subj.imp": ["déduisisse", "déduisisses", "déduisît", "déduisissions", "déduisissiez", "déduisissent"],
+        "imper.pres": ["déduis", "déduisons", "déduisez"]
+      },
+      "participe_present": "déduisant",
+      "participe_passe": ["déduit", "déduite", "déduits", "déduites"]
     }
   ]
 }
