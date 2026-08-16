@@ -8921,6 +8921,24 @@
       },
       "participe_present": "flottant",
       "participe_passe": ["flotté", "flottée", "flottés", "flottées"]
+    },
+    {
+      "id": "noter",
+      "infinitif": "noter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["note", "notes", "note", "notons", "notez", "notent"],
+        "ind.imp": ["notais", "notais", "notait", "notions", "notiez", "notaient"],
+        "ind.ps": ["notai", "notas", "nota", "notâmes", "notâtes", "notèrent"],
+        "ind.fut": ["noterai", "noteras", "notera", "noterons", "noterez", "noteront"],
+        "cond.pres": ["noterais", "noterais", "noterait", "noterions", "noteriez", "noteraient"],
+        "subj.pres": ["note", "notes", "note", "notions", "notiez", "notent"],
+        "subj.imp": ["notasse", "notasses", "notât", "notassions", "notassiez", "notassent"],
+        "imper.pres": ["note", "notons", "notez"]
+      },
+      "participe_present": "notant",
+      "participe_passe": ["noté", "notée", "notés", "notées"]
     }
   ]
 }
