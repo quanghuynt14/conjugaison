@@ -7964,6 +7964,24 @@
       },
       "participe_present": "trahissant",
       "participe_passe": ["trahi", "trahie", "trahis", "trahies"]
+    },
+    {
+      "id": "supplier",
+      "infinitif": "supplier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["supplie", "supplies", "supplie", "supplions", "suppliez", "supplient"],
+        "ind.imp": ["suppliais", "suppliais", "suppliait", "suppliions", "suppliiez", "suppliaient"],
+        "ind.ps": ["suppliai", "supplias", "supplia", "suppliâmes", "suppliâtes", "supplièrent"],
+        "ind.fut": ["supplierai", "supplieras", "suppliera", "supplierons", "supplierez", "supplieront"],
+        "cond.pres": ["supplierais", "supplierais", "supplierait", "supplierions", "supplieriez", "supplieraient"],
+        "subj.pres": ["supplie", "supplies", "supplie", "suppliions", "suppliiez", "supplient"],
+        "subj.imp": ["suppliasse", "suppliasses", "suppliât", "suppliassions", "suppliassiez", "suppliassent"],
+        "imper.pres": ["supplie", "supplions", "suppliez"]
+      },
+      "participe_present": "suppliant",
+      "participe_passe": ["supplié", "suppliée", "suppliés", "suppliées"]
     }
   ]
 }
