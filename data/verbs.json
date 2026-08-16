@@ -17132,6 +17132,24 @@
       },
       "participe_present": "compromettant",
       "participe_passe": ["compromis", "compromise", "compromis", "compromises"]
+    },
+    {
+      "id": "engueuler",
+      "infinitif": "engueuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["engueule", "engueules", "engueule", "engueulons", "engueulez", "engueulent"],
+        "ind.imp": ["engueulais", "engueulais", "engueulait", "engueulions", "engueuliez", "engueulaient"],
+        "ind.ps": ["engueulai", "engueulas", "engueula", "engueulâmes", "engueulâtes", "engueulèrent"],
+        "ind.fut": ["engueulerai", "engueuleras", "engueulera", "engueulerons", "engueulerez", "engueuleront"],
+        "cond.pres": ["engueulerais", "engueulerais", "engueulerait", "engueulerions", "engueuleriez", "engueuleraient"],
+        "subj.pres": ["engueule", "engueules", "engueule", "engueulions", "engueuliez", "engueulent"],
+        "subj.imp": ["engueulasse", "engueulasses", "engueulât", "engueulassions", "engueulassiez", "engueulassent"],
+        "imper.pres": ["engueule", "engueulons", "engueulez"]
+      },
+      "participe_present": "engueulant",
+      "participe_passe": ["engueulé", "engueulée", "engueulés", "engueulées"]
     }
   ]
 }
