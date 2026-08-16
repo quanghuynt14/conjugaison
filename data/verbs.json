@@ -15387,6 +15387,24 @@
       },
       "participe_present": "entassant",
       "participe_passe": ["entassé", "entassée", "entassés", "entassées"]
+    },
+    {
+      "id": "glacer",
+      "infinitif": "glacer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["glace", "glaces", "glace", "glaçons", "glacez", "glacent"],
+        "ind.imp": ["glaçais", "glaçais", "glaçait", "glacions", "glaciez", "glaçaient"],
+        "ind.ps": ["glaçai", "glaças", "glaça", "glaçâmes", "glaçâtes", "glacèrent"],
+        "ind.fut": ["glacerai", "glaceras", "glacera", "glacerons", "glacerez", "glaceront"],
+        "cond.pres": ["glacerais", "glacerais", "glacerait", "glacerions", "glaceriez", "glaceraient"],
+        "subj.pres": ["glace", "glaces", "glace", "glacions", "glaciez", "glacent"],
+        "subj.imp": ["glaçasse", "glaçasses", "glaçât", "glaçassions", "glaçassiez", "glaçassent"],
+        "imper.pres": ["glace", "glaçons", "glacez"]
+      },
+      "participe_present": "glaçant",
+      "participe_passe": ["glacé", "glacée", "glacés", "glacées"]
     }
   ]
 }
