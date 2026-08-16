@@ -28250,6 +28250,24 @@
       },
       "participe_present": "camouflant",
       "participe_passe": ["camouflé", "camouflée", "camouflés", "camouflées"]
+    },
+    {
+      "id": "collectionner",
+      "infinitif": "collectionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["collectionne", "collectionnes", "collectionne", "collectionnons", "collectionnez", "collectionnent"],
+        "ind.imp": ["collectionnais", "collectionnais", "collectionnait", "collectionnions", "collectionniez", "collectionnaient"],
+        "ind.ps": ["collectionnai", "collectionnas", "collectionna", "collectionnâmes", "collectionnâtes", "collectionnèrent"],
+        "ind.fut": ["collectionnerai", "collectionneras", "collectionnera", "collectionnerons", "collectionnerez", "collectionneront"],
+        "cond.pres": ["collectionnerais", "collectionnerais", "collectionnerait", "collectionnerions", "collectionneriez", "collectionneraient"],
+        "subj.pres": ["collectionne", "collectionnes", "collectionne", "collectionnions", "collectionniez", "collectionnent"],
+        "subj.imp": ["collectionnasse", "collectionnasses", "collectionnât", "collectionnassions", "collectionnassiez", "collectionnassent"],
+        "imper.pres": ["collectionne", "collectionnons", "collectionnez"]
+      },
+      "participe_present": "collectionnant",
+      "participe_passe": ["collectionné", "collectionnée", "collectionnés", "collectionnées"]
     }
   ]
 }
