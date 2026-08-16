@@ -15315,6 +15315,24 @@
       },
       "participe_present": "salissant",
       "participe_passe": ["sali", "salie", "salis", "salies"]
+    },
+    {
+      "id": "égarer",
+      "infinitif": "égarer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["égare", "égares", "égare", "égarons", "égarez", "égarent"],
+        "ind.imp": ["égarais", "égarais", "égarait", "égarions", "égariez", "égaraient"],
+        "ind.ps": ["égarai", "égaras", "égara", "égarâmes", "égarâtes", "égarèrent"],
+        "ind.fut": ["égarerai", "égareras", "égarera", "égarerons", "égarerez", "égareront"],
+        "cond.pres": ["égarerais", "égarerais", "égarerait", "égarerions", "égareriez", "égareraient"],
+        "subj.pres": ["égare", "égares", "égare", "égarions", "égariez", "égarent"],
+        "subj.imp": ["égarasse", "égarasses", "égarât", "égarassions", "égarassiez", "égarassent"],
+        "imper.pres": ["égare", "égarons", "égarez"]
+      },
+      "participe_present": "égarant",
+      "participe_passe": ["égaré", "égarée", "égarés", "égarées"]
     }
   ]
 }
