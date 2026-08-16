@@ -11535,6 +11535,24 @@
       },
       "participe_present": "traçant",
       "participe_passe": ["tracé", "tracée", "tracés", "tracées"]
+    },
+    {
+      "id": "vieillir",
+      "infinitif": "vieillir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vieillis", "vieillis", "vieillit", "vieillissons", "vieillissez", "vieillissent"],
+        "ind.imp": ["vieillissais", "vieillissais", "vieillissait", "vieillissions", "vieillissiez", "vieillissaient"],
+        "ind.ps": ["vieillis", "vieillis", "vieillit", "vieillîmes", "vieillîtes", "vieillirent"],
+        "ind.fut": ["vieillirai", "vieilliras", "vieillira", "vieillirons", "vieillirez", "vieilliront"],
+        "cond.pres": ["vieillirais", "vieillirais", "vieillirait", "vieillirions", "vieilliriez", "vieilliraient"],
+        "subj.pres": ["vieillisse", "vieillisses", "vieillisse", "vieillissions", "vieillissiez", "vieillissent"],
+        "subj.imp": ["vieillisse", "vieillisses", "vieillît", "vieillissions", "vieillissiez", "vieillissent"],
+        "imper.pres": ["vieillis", "vieillissons", "vieillissez"]
+      },
+      "participe_present": "vieillissant",
+      "participe_passe": ["vieilli", "vieillie", "vieillis", "vieillies"]
     }
   ]
 }
