@@ -5536,6 +5536,24 @@
       },
       "participe_present": "promenant",
       "participe_passe": ["promené", "promenée", "promenés", "promenées"]
+    },
+    {
+      "id": "secouer",
+      "infinitif": "secouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["secoue", "secoues", "secoue", "secouons", "secouez", "secouent"],
+        "ind.imp": ["secouais", "secouais", "secouait", "secouions", "secouiez", "secouaient"],
+        "ind.ps": ["secouai", "secouas", "secoua", "secouâmes", "secouâtes", "secouèrent"],
+        "ind.fut": ["secouerai", "secoueras", "secouera", "secouerons", "secouerez", "secoueront"],
+        "cond.pres": ["secouerais", "secouerais", "secouerait", "secouerions", "secoueriez", "secoueraient"],
+        "subj.pres": ["secoue", "secoues", "secoue", "secouions", "secouiez", "secouent"],
+        "subj.imp": ["secouasse", "secouasses", "secouât", "secouassions", "secouassiez", "secouassent"],
+        "imper.pres": ["secoue", "secouons", "secouez"]
+      },
+      "participe_present": "secouant",
+      "participe_passe": ["secoué", "secouée", "secoués", "secouées"]
     }
   ]
 }
