@@ -4196,6 +4196,24 @@
       },
       "participe_present": "épousant",
       "participe_passe": ["épousé", "épousée", "épousés", "épousées"]
+    },
+    {
+      "id": "séparer",
+      "infinitif": "séparer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sépare", "sépares", "sépare", "séparons", "séparez", "séparent"],
+        "ind.imp": ["séparais", "séparais", "séparait", "séparions", "sépariez", "séparaient"],
+        "ind.ps": ["séparai", "séparas", "sépara", "séparâmes", "séparâtes", "séparèrent"],
+        "ind.fut": ["séparerai", "sépareras", "séparera", "séparerons", "séparerez", "sépareront"],
+        "cond.pres": ["séparerais", "séparerais", "séparerait", "séparerions", "sépareriez", "sépareraient"],
+        "subj.pres": ["sépare", "sépares", "sépare", "séparions", "sépariez", "séparent"],
+        "subj.imp": ["séparasse", "séparasses", "séparât", "séparassions", "séparassiez", "séparassent"],
+        "imper.pres": ["sépare", "séparons", "séparez"]
+      },
+      "participe_present": "séparant",
+      "participe_passe": ["séparé", "séparée", "séparés", "séparées"]
     }
   ]
 }
