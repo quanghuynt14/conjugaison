@@ -20749,6 +20749,24 @@
       },
       "participe_present": "activant",
       "participe_passe": ["activé", "activée", "activés", "activées"]
+    },
+    {
+      "id": "flairer",
+      "infinitif": "flairer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["flaire", "flaires", "flaire", "flairons", "flairez", "flairent"],
+        "ind.imp": ["flairais", "flairais", "flairait", "flairions", "flairiez", "flairaient"],
+        "ind.ps": ["flairai", "flairas", "flaira", "flairâmes", "flairâtes", "flairèrent"],
+        "ind.fut": ["flairerai", "flaireras", "flairera", "flairerons", "flairerez", "flaireront"],
+        "cond.pres": ["flairerais", "flairerais", "flairerait", "flairerions", "flaireriez", "flaireraient"],
+        "subj.pres": ["flaire", "flaires", "flaire", "flairions", "flairiez", "flairent"],
+        "subj.imp": ["flairasse", "flairasses", "flairât", "flairassions", "flairassiez", "flairassent"],
+        "imper.pres": ["flaire", "flairons", "flairez"]
+      },
+      "participe_present": "flairant",
+      "participe_passe": ["flairé", "flairée", "flairés", "flairées"]
     }
   ]
 }
