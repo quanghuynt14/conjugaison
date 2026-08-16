@@ -24243,6 +24243,24 @@
       },
       "participe_present": "succombant",
       "participe_passe": ["succombé", null, null, null]
+    },
+    {
+      "id": "espionner",
+      "infinitif": "espionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["espionne", "espionnes", "espionne", "espionnons", "espionnez", "espionnent"],
+        "ind.imp": ["espionnais", "espionnais", "espionnait", "espionnions", "espionniez", "espionnaient"],
+        "ind.ps": ["espionnai", "espionnas", "espionna", "espionnâmes", "espionnâtes", "espionnèrent"],
+        "ind.fut": ["espionnerai", "espionneras", "espionnera", "espionnerons", "espionnerez", "espionneront"],
+        "cond.pres": ["espionnerais", "espionnerais", "espionnerait", "espionnerions", "espionneriez", "espionneraient"],
+        "subj.pres": ["espionne", "espionnes", "espionne", "espionnions", "espionniez", "espionnent"],
+        "subj.imp": ["espionnasse", "espionnasses", "espionnât", "espionnassions", "espionnassiez", "espionnassent"],
+        "imper.pres": ["espionne", "espionnons", "espionnez"]
+      },
+      "participe_present": "espionnant",
+      "participe_passe": ["espionné", "espionnée", "espionnés", "espionnées"]
     }
   ]
 }
