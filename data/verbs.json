@@ -4052,6 +4052,24 @@
       },
       "participe_present": "fumant",
       "participe_passe": ["fumé", "fumée", "fumés", "fumées"]
+    },
+    {
+      "id": "supposer",
+      "infinitif": "supposer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["suppose", "supposes", "suppose", "supposons", "supposez", "supposent"],
+        "ind.imp": ["supposais", "supposais", "supposait", "supposions", "supposiez", "supposaient"],
+        "ind.ps": ["supposai", "supposas", "supposa", "supposâmes", "supposâtes", "supposèrent"],
+        "ind.fut": ["supposerai", "supposeras", "supposera", "supposerons", "supposerez", "supposeront"],
+        "cond.pres": ["supposerais", "supposerais", "supposerait", "supposerions", "supposeriez", "supposeraient"],
+        "subj.pres": ["suppose", "supposes", "suppose", "supposions", "supposiez", "supposent"],
+        "subj.imp": ["supposasse", "supposasses", "supposât", "supposassions", "supposassiez", "supposassent"],
+        "imper.pres": ["suppose", "supposons", "supposez"]
+      },
+      "participe_present": "supposant",
+      "participe_passe": ["supposé", "supposée", "supposés", "supposées"]
     }
   ]
 }
