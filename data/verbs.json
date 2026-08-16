@@ -7547,6 +7547,24 @@
       },
       "participe_present": "abattant",
       "participe_passe": ["abattu", "abattue", "abattus", "abattues"]
+    },
+    {
+      "id": "rompre",
+      "infinitif": "rompre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["romps", "romps", "rompt", "rompons", "rompez", "rompent"],
+        "ind.imp": ["rompais", "rompais", "rompait", "rompions", "rompiez", "rompaient"],
+        "ind.ps": ["rompis", "rompis", "rompit", "rompîmes", "rompîtes", "rompirent"],
+        "ind.fut": ["romprai", "rompras", "rompra", "romprons", "romprez", "rompront"],
+        "cond.pres": ["romprais", "romprais", "romprait", "romprions", "rompriez", "rompraient"],
+        "subj.pres": ["rompe", "rompes", "rompe", "rompions", "rompiez", "rompent"],
+        "subj.imp": ["rompisse", "rompisses", "rompît", "rompissions", "rompissiez", "rompissent"],
+        "imper.pres": ["romps", "rompons", "rompez"]
+      },
+      "participe_present": "rompant",
+      "participe_passe": ["rompu", "rompue", "rompus", "rompues"]
     }
   ]
 }
