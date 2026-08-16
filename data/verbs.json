@@ -21332,6 +21332,24 @@
       },
       "participe_present": "engendrant",
       "participe_passe": ["engendré", "engendrée", "engendrés", "engendrées"]
+    },
+    {
+      "id": "flipper",
+      "infinitif": "flipper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["flippe", "flippes", "flippe", "flippons", "flippez", "flippent"],
+        "ind.imp": ["flippais", "flippais", "flippait", "flippions", "flippiez", "flippaient"],
+        "ind.ps": ["flippai", "flippas", "flippa", "flippâmes", "flippâtes", "flippèrent"],
+        "ind.fut": ["flipperai", "flipperas", "flippera", "flipperons", "flipperez", "flipperont"],
+        "cond.pres": ["flipperais", "flipperais", "flipperait", "flipperions", "flipperiez", "flipperaient"],
+        "subj.pres": ["flippe", "flippes", "flippe", "flippions", "flippiez", "flippent"],
+        "subj.imp": ["flippasse", "flippasses", "flippât", "flippassions", "flippassiez", "flippassent"],
+        "imper.pres": ["flippe", "flippons", "flippez"]
+      },
+      "participe_present": "flippant",
+      "participe_passe": ["flippé", "flippée", "flippés", "flippées"]
     }
   ]
 }
