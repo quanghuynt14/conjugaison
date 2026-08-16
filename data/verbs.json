@@ -35731,6 +35731,25 @@
       },
       "participe_present": "empestant",
       "participe_passe": ["empesté", "empestée", "empestés", "empestées"]
+    },
+    {
+      "id": "glousser",
+      "infinitif": "glousser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « gloussé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["glousse", "glousses", "glousse", "gloussons", "gloussez", "gloussent"],
+        "ind.imp": ["gloussais", "gloussais", "gloussait", "gloussions", "gloussiez", "gloussaient"],
+        "ind.ps": ["gloussai", "gloussas", "gloussa", "gloussâmes", "gloussâtes", "gloussèrent"],
+        "ind.fut": ["glousserai", "glousseras", "gloussera", "glousserons", "glousserez", "glousseront"],
+        "cond.pres": ["glousserais", "glousserais", "glousserait", "glousserions", "glousseriez", "glousseraient"],
+        "subj.pres": ["glousse", "glousses", "glousse", "gloussions", "gloussiez", "gloussent"],
+        "subj.imp": ["gloussasse", "gloussasses", "gloussât", "gloussassions", "gloussassiez", "gloussassent"],
+        "imper.pres": ["glousse", "gloussons", "gloussez"]
+      },
+      "participe_present": "gloussant",
+      "participe_passe": ["gloussé", null, null, null]
     }
   ]
 }
