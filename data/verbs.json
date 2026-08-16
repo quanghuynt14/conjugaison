@@ -30655,6 +30655,24 @@
       },
       "participe_present": "bardant",
       "participe_passe": ["bardé", "bardée", "bardés", "bardées"]
+    },
+    {
+      "id": "muter",
+      "infinitif": "muter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mute", "mutes", "mute", "mutons", "mutez", "mutent"],
+        "ind.imp": ["mutais", "mutais", "mutait", "mutions", "mutiez", "mutaient"],
+        "ind.ps": ["mutai", "mutas", "muta", "mutâmes", "mutâtes", "mutèrent"],
+        "ind.fut": ["muterai", "muteras", "mutera", "muterons", "muterez", "muteront"],
+        "cond.pres": ["muterais", "muterais", "muterait", "muterions", "muteriez", "muteraient"],
+        "subj.pres": ["mute", "mutes", "mute", "mutions", "mutiez", "mutent"],
+        "subj.imp": ["mutasse", "mutasses", "mutât", "mutassions", "mutassiez", "mutassent"],
+        "imper.pres": ["mute", "mutons", "mutez"]
+      },
+      "participe_present": "mutant",
+      "participe_passe": ["muté", "mutée", "mutés", "mutées"]
     }
   ]
 }
