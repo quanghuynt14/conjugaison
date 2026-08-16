@@ -34212,6 +34212,25 @@
       },
       "participe_present": "élaborant",
       "participe_passe": ["élaboré", "élaborée", "élaborés", "élaborées"]
+    },
+    {
+      "id": "clignoter",
+      "infinitif": "clignoter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « clignoté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["clignote", "clignotes", "clignote", "clignotons", "clignotez", "clignotent"],
+        "ind.imp": ["clignotais", "clignotais", "clignotait", "clignotions", "clignotiez", "clignotaient"],
+        "ind.ps": ["clignotai", "clignotas", "clignota", "clignotâmes", "clignotâtes", "clignotèrent"],
+        "ind.fut": ["clignoterai", "clignoteras", "clignotera", "clignoterons", "clignoterez", "clignoteront"],
+        "cond.pres": ["clignoterais", "clignoterais", "clignoterait", "clignoterions", "clignoteriez", "clignoteraient"],
+        "subj.pres": ["clignote", "clignotes", "clignote", "clignotions", "clignotiez", "clignotent"],
+        "subj.imp": ["clignotasse", "clignotasses", "clignotât", "clignotassions", "clignotassiez", "clignotassent"],
+        "imper.pres": ["clignote", "clignotons", "clignotez"]
+      },
+      "participe_present": "clignotant",
+      "participe_passe": ["clignoté", null, null, null]
     }
   ]
 }
