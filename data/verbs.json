@@ -33558,6 +33558,24 @@
       },
       "participe_present": "assouvissant",
       "participe_passe": ["assouvi", "assouvie", "assouvis", "assouvies"]
+    },
+    {
+      "id": "cramer",
+      "infinitif": "cramer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["crame", "crames", "crame", "cramons", "cramez", "crament"],
+        "ind.imp": ["cramais", "cramais", "cramait", "cramions", "cramiez", "cramaient"],
+        "ind.ps": ["cramai", "cramas", "crama", "cramâmes", "cramâtes", "cramèrent"],
+        "ind.fut": ["cramerai", "crameras", "cramera", "cramerons", "cramerez", "crameront"],
+        "cond.pres": ["cramerais", "cramerais", "cramerait", "cramerions", "crameriez", "crameraient"],
+        "subj.pres": ["crame", "crames", "crame", "cramions", "cramiez", "crament"],
+        "subj.imp": ["cramasse", "cramasses", "cramât", "cramassions", "cramassiez", "cramassent"],
+        "imper.pres": ["crame", "cramons", "cramez"]
+      },
+      "participe_present": "cramant",
+      "participe_passe": ["cramé", "cramée", "cramés", "cramées"]
     }
   ]
 }
