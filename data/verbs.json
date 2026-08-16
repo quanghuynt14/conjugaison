@@ -25352,6 +25352,24 @@
       },
       "participe_present": "infiltrant",
       "participe_passe": ["infiltré", "infiltrée", "infiltrés", "infiltrées"]
+    },
+    {
+      "id": "replonger",
+      "infinitif": "replonger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["replonge", "replonges", "replonge", "replongeons", "replongez", "replongent"],
+        "ind.imp": ["replongeais", "replongeais", "replongeait", "replongions", "replongiez", "replongeaient"],
+        "ind.ps": ["replongeai", "replongeas", "replongea", "replongeâmes", "replongeâtes", "replongèrent"],
+        "ind.fut": ["replongerai", "replongeras", "replongera", "replongerons", "replongerez", "replongeront"],
+        "cond.pres": ["replongerais", "replongerais", "replongerait", "replongerions", "replongeriez", "replongeraient"],
+        "subj.pres": ["replonge", "replonges", "replonge", "replongions", "replongiez", "replongent"],
+        "subj.imp": ["replongeasse", "replongeasses", "replongeât", "replongeassions", "replongeassiez", "replongeassent"],
+        "imper.pres": ["replonge", "replongeons", "replongez"]
+      },
+      "participe_present": "replongeant",
+      "participe_passe": ["replongé", "replongée", "replongés", "replongées"]
     }
   ]
 }
