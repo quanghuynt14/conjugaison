@@ -20950,6 +20950,24 @@
       },
       "participe_present": "formulant",
       "participe_passe": ["formulé", "formulée", "formulés", "formulées"]
+    },
+    {
+      "id": "raisonner",
+      "infinitif": "raisonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["raisonne", "raisonnes", "raisonne", "raisonnons", "raisonnez", "raisonnent"],
+        "ind.imp": ["raisonnais", "raisonnais", "raisonnait", "raisonnions", "raisonniez", "raisonnaient"],
+        "ind.ps": ["raisonnai", "raisonnas", "raisonna", "raisonnâmes", "raisonnâtes", "raisonnèrent"],
+        "ind.fut": ["raisonnerai", "raisonneras", "raisonnera", "raisonnerons", "raisonnerez", "raisonneront"],
+        "cond.pres": ["raisonnerais", "raisonnerais", "raisonnerait", "raisonnerions", "raisonneriez", "raisonneraient"],
+        "subj.pres": ["raisonne", "raisonnes", "raisonne", "raisonnions", "raisonniez", "raisonnent"],
+        "subj.imp": ["raisonnasse", "raisonnasses", "raisonnât", "raisonnassions", "raisonnassiez", "raisonnassent"],
+        "imper.pres": ["raisonne", "raisonnons", "raisonnez"]
+      },
+      "participe_present": "raisonnant",
+      "participe_passe": ["raisonné", "raisonnée", "raisonnés", "raisonnées"]
     }
   ]
 }
