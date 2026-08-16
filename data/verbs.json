@@ -21855,6 +21855,24 @@
       },
       "participe_present": "débutant",
       "participe_passe": ["débuté", "débutée", "débutés", "débutées"]
+    },
+    {
+      "id": "endurer",
+      "infinitif": "endurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["endure", "endures", "endure", "endurons", "endurez", "endurent"],
+        "ind.imp": ["endurais", "endurais", "endurait", "endurions", "enduriez", "enduraient"],
+        "ind.ps": ["endurai", "enduras", "endura", "endurâmes", "endurâtes", "endurèrent"],
+        "ind.fut": ["endurerai", "endureras", "endurera", "endurerons", "endurerez", "endureront"],
+        "cond.pres": ["endurerais", "endurerais", "endurerait", "endurerions", "endureriez", "endureraient"],
+        "subj.pres": ["endure", "endures", "endure", "endurions", "enduriez", "endurent"],
+        "subj.imp": ["endurasse", "endurasses", "endurât", "endurassions", "endurassiez", "endurassent"],
+        "imper.pres": ["endure", "endurons", "endurez"]
+      },
+      "participe_present": "endurant",
+      "participe_passe": ["enduré", "endurée", "endurés", "endurées"]
     }
   ]
 }
