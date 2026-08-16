@@ -19979,6 +19979,25 @@
       },
       "participe_present": "gisant",
       "participe_passe": [null, null, null, null]
+    },
+    {
+      "id": "fleurir",
+      "infinitif": "fleurir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux imparfaits et deux participes présents, et ils ne disent pas la même chose : « fleurissait » pour la plante, « florissait » pour ce qui prospère — un commerce florissant.",
+      "tenses": {
+        "ind.pres": ["fleuris", "fleuris", "fleurit", "fleurissons", "fleurissez", "fleurissent"],
+        "ind.imp": [["fleurissais", "florissais"], ["fleurissais", "florissais"], ["fleurissait", "florissait"], ["fleurissions", "florissions"], ["fleurissiez", "florissiez"], ["fleurissaient", "florissaient"]],
+        "ind.ps": ["fleuris", "fleuris", "fleurit", "fleurîmes", "fleurîtes", "fleurirent"],
+        "ind.fut": ["fleurirai", "fleuriras", "fleurira", "fleurirons", "fleurirez", "fleuriront"],
+        "cond.pres": ["fleurirais", "fleurirais", "fleurirait", "fleuririons", "fleuririez", "fleuriraient"],
+        "subj.pres": ["fleurisse", "fleurisses", "fleurisse", "fleurissions", "fleurissiez", "fleurissent"],
+        "subj.imp": ["fleurisse", "fleurisses", "fleurît", "fleurissions", "fleurissiez", "fleurissent"],
+        "imper.pres": ["fleuris", "fleurissons", "fleurissez"]
+      },
+      "participe_present": ["fleurissant", "florissant"],
+      "participe_passe": ["fleuri", "fleurie", "fleuris", "fleuries"]
     }
   ]
 }
