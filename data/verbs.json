@@ -33138,6 +33138,24 @@
       },
       "participe_present": "patinant",
       "participe_passe": ["patiné", "patinée", "patinés", "patinées"]
+    },
+    {
+      "id": "ployer",
+      "infinitif": "ployer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ploie", "ploies", "ploie", "ployons", "ployez", "ploient"],
+        "ind.imp": ["ployais", "ployais", "ployait", "ployions", "ployiez", "ployaient"],
+        "ind.ps": ["ployai", "ployas", "ploya", "ployâmes", "ployâtes", "ployèrent"],
+        "ind.fut": ["ploierai", "ploieras", "ploiera", "ploierons", "ploierez", "ploieront"],
+        "cond.pres": ["ploierais", "ploierais", "ploierait", "ploierions", "ploieriez", "ploieraient"],
+        "subj.pres": ["ploie", "ploies", "ploie", "ployions", "ployiez", "ploient"],
+        "subj.imp": ["ployasse", "ployasses", "ployât", "ployassions", "ployassiez", "ployassent"],
+        "imper.pres": ["ploie", "ployons", "ployez"]
+      },
+      "participe_present": "ployant",
+      "participe_passe": ["ployé", "ployée", "ployés", "ployées"]
     }
   ]
 }
