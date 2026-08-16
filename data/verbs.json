@@ -8018,6 +8018,25 @@
       },
       "participe_present": "fabriquant",
       "participe_passe": ["fabriqué", "fabriquée", "fabriqués", "fabriquées"]
+    },
+    {
+      "id": "faillir",
+      "infinitif": "faillir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Pas d'impératif. Le verbe dit ce qui a failli arriver ; on ne l'ordonne pas.",
+      "tenses": {
+        "ind.pres": ["faux", "faux", "faut", "faillons", "faillez", "faillent"],
+        "ind.imp": ["faillais", "faillais", "faillait", "faillions", "failliez", "faillaient"],
+        "ind.ps": ["faillis", "faillis", "faillit", "faillîmes", "faillîtes", "faillirent"],
+        "ind.fut": ["faillirai", "failliras", "faillira", "faillirons", "faillirez", "failliront"],
+        "cond.pres": ["faillirais", "faillirais", "faillirait", "faillirions", "failliriez", "failliraient"],
+        "subj.pres": ["faillisse", "faillisses", "faillisse", "faillissions", "faillissiez", "faillissent"],
+        "subj.imp": ["faillisse", "faillisses", "faillît", "faillissions", "faillissiez", "faillissent"],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": "faillant",
+      "participe_passe": ["failli", null, null, null]
     }
   ]
 }
