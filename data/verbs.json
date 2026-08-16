@@ -23017,6 +23017,24 @@
       },
       "participe_present": "durcissant",
       "participe_passe": ["durci", "durcie", "durcis", "durcies"]
+    },
+    {
+      "id": "escorter",
+      "infinitif": "escorter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["escorte", "escortes", "escorte", "escortons", "escortez", "escortent"],
+        "ind.imp": ["escortais", "escortais", "escortait", "escortions", "escortiez", "escortaient"],
+        "ind.ps": ["escortai", "escortas", "escorta", "escortâmes", "escortâtes", "escortèrent"],
+        "ind.fut": ["escorterai", "escorteras", "escortera", "escorterons", "escorterez", "escorteront"],
+        "cond.pres": ["escorterais", "escorterais", "escorterait", "escorterions", "escorteriez", "escorteraient"],
+        "subj.pres": ["escorte", "escortes", "escorte", "escortions", "escortiez", "escortent"],
+        "subj.imp": ["escortasse", "escortasses", "escortât", "escortassions", "escortassiez", "escortassent"],
+        "imper.pres": ["escorte", "escortons", "escortez"]
+      },
+      "participe_present": "escortant",
+      "participe_passe": ["escorté", "escortée", "escortés", "escortées"]
     }
   ]
 }
