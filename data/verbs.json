@@ -12282,6 +12282,26 @@
       },
       "participe_present": "protestant",
       "participe_passe": ["protesté", "protestée", "protestés", "protestées"]
+    },
+    {
+      "id": "marrer",
+      "infinitif": "marrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me marre » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["marre", "marres", "marre", "marrons", "marrez", "marrent"],
+        "ind.imp": ["marrais", "marrais", "marrait", "marrions", "marriez", "marraient"],
+        "ind.ps": ["marrai", "marras", "marra", "marrâmes", "marrâtes", "marrèrent"],
+        "ind.fut": ["marrerai", "marreras", "marrera", "marrerons", "marrerez", "marreront"],
+        "cond.pres": ["marrerais", "marrerais", "marrerait", "marrerions", "marreriez", "marreraient"],
+        "subj.pres": ["marre", "marres", "marre", "marrions", "marriez", "marrent"],
+        "subj.imp": ["marrasse", "marrasses", "marrât", "marrassions", "marrassiez", "marrassent"],
+        "imper.pres": ["marre", "marrons", "marrez"]
+      },
+      "participe_present": "marrant",
+      "participe_passe": ["marré", "marrée", "marrés", "marrées"]
     }
   ]
 }
