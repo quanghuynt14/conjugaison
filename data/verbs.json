@@ -28688,6 +28688,24 @@
       },
       "participe_present": "trônant",
       "participe_passe": ["trôné", null, null, null]
+    },
+    {
+      "id": "dévouer",
+      "infinitif": "dévouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dévoue", "dévoues", "dévoue", "dévouons", "dévouez", "dévouent"],
+        "ind.imp": ["dévouais", "dévouais", "dévouait", "dévouions", "dévouiez", "dévouaient"],
+        "ind.ps": ["dévouai", "dévouas", "dévoua", "dévouâmes", "dévouâtes", "dévouèrent"],
+        "ind.fut": ["dévouerai", "dévoueras", "dévouera", "dévouerons", "dévouerez", "dévoueront"],
+        "cond.pres": ["dévouerais", "dévouerais", "dévouerait", "dévouerions", "dévoueriez", "dévoueraient"],
+        "subj.pres": ["dévoue", "dévoues", "dévoue", "dévouions", "dévouiez", "dévouent"],
+        "subj.imp": ["dévouasse", "dévouasses", "dévouât", "dévouassions", "dévouassiez", "dévouassent"],
+        "imper.pres": ["dévoue", "dévouons", "dévouez"]
+      },
+      "participe_present": "dévouant",
+      "participe_passe": ["dévoué", "dévouée", "dévoués", "dévouées"]
     }
   ]
 }
