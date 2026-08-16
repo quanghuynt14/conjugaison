@@ -27706,6 +27706,24 @@
       },
       "participe_present": "tâtonnant",
       "participe_passe": ["tâtonné", null, null, null]
+    },
+    {
+      "id": "écoeurer",
+      "infinitif": "écoeurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["écoeure", "écoeures", "écoeure", "écoeurons", "écoeurez", "écoeurent"],
+        "ind.imp": ["écoeurais", "écoeurais", "écoeurait", "écoeurions", "écoeuriez", "écoeuraient"],
+        "ind.ps": ["écoeurai", "écoeuras", "écoeura", "écoeurâmes", "écoeurâtes", "écoeurèrent"],
+        "ind.fut": ["écoeurerai", "écoeureras", "écoeurera", "écoeurerons", "écoeurerez", "écoeureront"],
+        "cond.pres": ["écoeurerais", "écoeurerais", "écoeurerait", "écoeurerions", "écoeureriez", "écoeureraient"],
+        "subj.pres": ["écoeure", "écoeures", "écoeure", "écoeurions", "écoeuriez", "écoeurent"],
+        "subj.imp": ["écoeurasse", "écoeurasses", "écoeurât", "écoeurassions", "écoeurassiez", "écoeurassent"],
+        "imper.pres": ["écoeure", "écoeurons", "écoeurez"]
+      },
+      "participe_present": "écoeurant",
+      "participe_passe": ["écoeuré", "écoeurée", "écoeurés", "écoeurées"]
     }
   ]
 }
