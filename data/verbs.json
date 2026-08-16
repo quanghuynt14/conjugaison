@@ -12827,6 +12827,24 @@
       },
       "participe_present": "semant",
       "participe_passe": ["semé", "semée", "semés", "semées"]
+    },
+    {
+      "id": "garer",
+      "infinitif": "garer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gare", "gares", "gare", "garons", "garez", "garent"],
+        "ind.imp": ["garais", "garais", "garait", "garions", "gariez", "garaient"],
+        "ind.ps": ["garai", "garas", "gara", "garâmes", "garâtes", "garèrent"],
+        "ind.fut": ["garerai", "gareras", "garera", "garerons", "garerez", "gareront"],
+        "cond.pres": ["garerais", "garerais", "garerait", "garerions", "gareriez", "gareraient"],
+        "subj.pres": ["gare", "gares", "gare", "garions", "gariez", "garent"],
+        "subj.imp": ["garasse", "garasses", "garât", "garassions", "garassiez", "garassent"],
+        "imper.pres": ["gare", "garons", "garez"]
+      },
+      "participe_present": "garant",
+      "participe_passe": ["garé", "garée", "garés", "garées"]
     }
   ]
 }
