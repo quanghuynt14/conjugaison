@@ -28614,6 +28614,24 @@
       },
       "participe_present": "mendiant",
       "participe_passe": ["mendié", "mendiée", "mendiés", "mendiées"]
+    },
+    {
+      "id": "picoler",
+      "infinitif": "picoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["picole", "picoles", "picole", "picolons", "picolez", "picolent"],
+        "ind.imp": ["picolais", "picolais", "picolait", "picolions", "picoliez", "picolaient"],
+        "ind.ps": ["picolai", "picolas", "picola", "picolâmes", "picolâtes", "picolèrent"],
+        "ind.fut": ["picolerai", "picoleras", "picolera", "picolerons", "picolerez", "picoleront"],
+        "cond.pres": ["picolerais", "picolerais", "picolerait", "picolerions", "picoleriez", "picoleraient"],
+        "subj.pres": ["picole", "picoles", "picole", "picolions", "picoliez", "picolent"],
+        "subj.imp": ["picolasse", "picolasses", "picolât", "picolassions", "picolassiez", "picolassent"],
+        "imper.pres": ["picole", "picolons", "picolez"]
+      },
+      "participe_present": "picolant",
+      "participe_passe": ["picolé", "picolée", "picolés", "picolées"]
     }
   ]
 }
