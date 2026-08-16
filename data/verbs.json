@@ -29290,6 +29290,24 @@
       },
       "participe_present": "délaissant",
       "participe_passe": ["délaissé", "délaissée", "délaissés", "délaissées"]
+    },
+    {
+      "id": "joncher",
+      "infinitif": "joncher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["jonche", "jonches", "jonche", "jonchons", "jonchez", "jonchent"],
+        "ind.imp": ["jonchais", "jonchais", "jonchait", "jonchions", "jonchiez", "jonchaient"],
+        "ind.ps": ["jonchai", "jonchas", "joncha", "jonchâmes", "jonchâtes", "jonchèrent"],
+        "ind.fut": ["joncherai", "joncheras", "jonchera", "joncherons", "joncherez", "joncheront"],
+        "cond.pres": ["joncherais", "joncherais", "joncherait", "joncherions", "joncheriez", "joncheraient"],
+        "subj.pres": ["jonche", "jonches", "jonche", "jonchions", "jonchiez", "jonchent"],
+        "subj.imp": ["jonchasse", "jonchasses", "jonchât", "jonchassions", "jonchassiez", "jonchassent"],
+        "imper.pres": ["jonche", "jonchons", "jonchez"]
+      },
+      "participe_present": "jonchant",
+      "participe_passe": ["jonché", "jonchée", "jonchés", "jonchées"]
     }
   ]
 }
