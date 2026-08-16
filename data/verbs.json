@@ -23471,6 +23471,25 @@
       },
       "participe_present": "perchant",
       "participe_passe": ["perché", "perchée", "perchés", "perchées"]
+    },
+    {
+      "id": "digérer",
+      "infinitif": "digérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je digérerai » ou « je digèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["digère", "digères", "digère", "digérons", "digérez", "digèrent"],
+        "ind.imp": ["digérais", "digérais", "digérait", "digérions", "digériez", "digéraient"],
+        "ind.ps": ["digérai", "digéras", "digéra", "digérâmes", "digérâtes", "digérèrent"],
+        "ind.fut": [["digérerai", "digèrerai"], ["digéreras", "digèreras"], ["digérera", "digèrera"], ["digérerons", "digèrerons"], ["digérerez", "digèrerez"], ["digéreront", "digèreront"]],
+        "cond.pres": [["digérerais", "digèrerais"], ["digérerais", "digèrerais"], ["digérerait", "digèrerait"], ["digérerions", "digèrerions"], ["digéreriez", "digèreriez"], ["digéreraient", "digèreraient"]],
+        "subj.pres": ["digère", "digères", "digère", "digérions", "digériez", "digèrent"],
+        "subj.imp": ["digérasse", "digérasses", "digérât", "digérassions", "digérassiez", "digérassent"],
+        "imper.pres": ["digère", "digérons", "digérez"]
+      },
+      "participe_present": "digérant",
+      "participe_passe": ["digéré", "digérée", "digérés", "digérées"]
     }
   ]
 }
