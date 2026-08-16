@@ -1771,6 +1771,24 @@
       },
       "participe_present": "touchant",
       "participe_passe": ["touché", "touchée", "touchés", "touchées"]
+    },
+    {
+      "id": "manquer",
+      "infinitif": "manquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["manque", "manques", "manque", "manquons", "manquez", "manquent"],
+        "ind.imp": ["manquais", "manquais", "manquait", "manquions", "manquiez", "manquaient"],
+        "ind.ps": ["manquai", "manquas", "manqua", "manquâmes", "manquâtes", "manquèrent"],
+        "ind.fut": ["manquerai", "manqueras", "manquera", "manquerons", "manquerez", "manqueront"],
+        "cond.pres": ["manquerais", "manquerais", "manquerait", "manquerions", "manqueriez", "manqueraient"],
+        "subj.pres": ["manque", "manques", "manque", "manquions", "manquiez", "manquent"],
+        "subj.imp": ["manquasse", "manquasses", "manquât", "manquassions", "manquassiez", "manquassent"],
+        "imper.pres": ["manque", "manquons", "manquez"]
+      },
+      "participe_present": "manquant",
+      "participe_passe": ["manqué", "manquée", "manqués", "manquées"]
     }
   ]
 }
