@@ -14410,6 +14410,24 @@
       },
       "participe_present": "bouchant",
       "participe_passe": ["bouché", "bouchée", "bouchés", "bouchées"]
+    },
+    {
+      "id": "surmonter",
+      "infinitif": "surmonter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["surmonte", "surmontes", "surmonte", "surmontons", "surmontez", "surmontent"],
+        "ind.imp": ["surmontais", "surmontais", "surmontait", "surmontions", "surmontiez", "surmontaient"],
+        "ind.ps": ["surmontai", "surmontas", "surmonta", "surmontâmes", "surmontâtes", "surmontèrent"],
+        "ind.fut": ["surmonterai", "surmonteras", "surmontera", "surmonterons", "surmonterez", "surmonteront"],
+        "cond.pres": ["surmonterais", "surmonterais", "surmonterait", "surmonterions", "surmonteriez", "surmonteraient"],
+        "subj.pres": ["surmonte", "surmontes", "surmonte", "surmontions", "surmontiez", "surmontent"],
+        "subj.imp": ["surmontasse", "surmontasses", "surmontât", "surmontassions", "surmontassiez", "surmontassent"],
+        "imper.pres": ["surmonte", "surmontons", "surmontez"]
+      },
+      "participe_present": "surmontant",
+      "participe_passe": ["surmonté", "surmontée", "surmontés", "surmontées"]
     }
   ]
 }
