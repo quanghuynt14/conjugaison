@@ -18578,6 +18578,24 @@
       },
       "participe_present": "pipant",
       "participe_passe": ["pipé", "pipée", "pipés", "pipées"]
+    },
+    {
+      "id": "tester",
+      "infinitif": "tester",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["teste", "testes", "teste", "testons", "testez", "testent"],
+        "ind.imp": ["testais", "testais", "testait", "testions", "testiez", "testaient"],
+        "ind.ps": ["testai", "testas", "testa", "testâmes", "testâtes", "testèrent"],
+        "ind.fut": ["testerai", "testeras", "testera", "testerons", "testerez", "testeront"],
+        "cond.pres": ["testerais", "testerais", "testerait", "testerions", "testeriez", "testeraient"],
+        "subj.pres": ["teste", "testes", "teste", "testions", "testiez", "testent"],
+        "subj.imp": ["testasse", "testasses", "testât", "testassions", "testassiez", "testassent"],
+        "imper.pres": ["teste", "testons", "testez"]
+      },
+      "participe_present": "testant",
+      "participe_passe": ["testé", "testée", "testés", "testées"]
     }
   ]
 }
