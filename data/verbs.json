@@ -19887,6 +19887,24 @@
       },
       "participe_present": "diffusant",
       "participe_passe": ["diffusé", "diffusée", "diffusés", "diffusées"]
+    },
+    {
+      "id": "liquider",
+      "infinitif": "liquider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["liquide", "liquides", "liquide", "liquidons", "liquidez", "liquident"],
+        "ind.imp": ["liquidais", "liquidais", "liquidait", "liquidions", "liquidiez", "liquidaient"],
+        "ind.ps": ["liquidai", "liquidas", "liquida", "liquidâmes", "liquidâtes", "liquidèrent"],
+        "ind.fut": ["liquiderai", "liquideras", "liquidera", "liquiderons", "liquiderez", "liquideront"],
+        "cond.pres": ["liquiderais", "liquiderais", "liquiderait", "liquiderions", "liquideriez", "liquideraient"],
+        "subj.pres": ["liquide", "liquides", "liquide", "liquidions", "liquidiez", "liquident"],
+        "subj.imp": ["liquidasse", "liquidasses", "liquidât", "liquidassions", "liquidassiez", "liquidassent"],
+        "imper.pres": ["liquide", "liquidons", "liquidez"]
+      },
+      "participe_present": "liquidant",
+      "participe_passe": ["liquidé", "liquidée", "liquidés", "liquidées"]
     }
   ]
 }
