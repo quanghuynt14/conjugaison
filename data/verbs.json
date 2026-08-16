@@ -25607,6 +25607,25 @@
       },
       "participe_present": "éclipsant",
       "participe_passe": ["éclipsé", "éclipsée", "éclipsés", "éclipsées"]
+    },
+    {
+      "id": "crisser",
+      "infinitif": "crisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « crissé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["crisse", "crisses", "crisse", "crissons", "crissez", "crissent"],
+        "ind.imp": ["crissais", "crissais", "crissait", "crissions", "crissiez", "crissaient"],
+        "ind.ps": ["crissai", "crissas", "crissa", "crissâmes", "crissâtes", "crissèrent"],
+        "ind.fut": ["crisserai", "crisseras", "crissera", "crisserons", "crisserez", "crisseront"],
+        "cond.pres": ["crisserais", "crisserais", "crisserait", "crisserions", "crisseriez", "crisseraient"],
+        "subj.pres": ["crisse", "crisses", "crisse", "crissions", "crissiez", "crissent"],
+        "subj.imp": ["crissasse", "crissasses", "crissât", "crissassions", "crissassiez", "crissassent"],
+        "imper.pres": ["crisse", "crissons", "crissez"]
+      },
+      "participe_present": "crissant",
+      "participe_passe": ["crissé", null, null, null]
     }
   ]
 }
