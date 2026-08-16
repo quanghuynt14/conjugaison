@@ -22726,6 +22726,24 @@
       },
       "participe_present": "ralliant",
       "participe_passe": ["rallié", "ralliée", "ralliés", "ralliées"]
+    },
+    {
+      "id": "encercler",
+      "infinitif": "encercler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["encercle", "encercles", "encercle", "encerclons", "encerclez", "encerclent"],
+        "ind.imp": ["encerclais", "encerclais", "encerclait", "encerclions", "encercliez", "encerclaient"],
+        "ind.ps": ["encerclai", "encerclas", "encercla", "encerclâmes", "encerclâtes", "encerclèrent"],
+        "ind.fut": ["encerclerai", "encercleras", "encerclera", "encerclerons", "encerclerez", "encercleront"],
+        "cond.pres": ["encerclerais", "encerclerais", "encerclerait", "encerclerions", "encercleriez", "encercleraient"],
+        "subj.pres": ["encercle", "encercles", "encercle", "encerclions", "encercliez", "encerclent"],
+        "subj.imp": ["encerclasse", "encerclasses", "encerclât", "encerclassions", "encerclassiez", "encerclassent"],
+        "imper.pres": ["encercle", "encerclons", "encerclez"]
+      },
+      "participe_present": "encerclant",
+      "participe_passe": ["encerclé", "encerclée", "encerclés", "encerclées"]
     }
   ]
 }
