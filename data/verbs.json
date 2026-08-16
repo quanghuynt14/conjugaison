@@ -26754,6 +26754,24 @@
       },
       "participe_present": "mûrissant",
       "participe_passe": ["mûri", "mûrie", "mûris", "mûries"]
+    },
+    {
+      "id": "repeindre",
+      "infinitif": "repeindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["repeins", "repeins", "repeint", "repeignons", "repeignez", "repeignent"],
+        "ind.imp": ["repeignais", "repeignais", "repeignait", "repeignions", "repeigniez", "repeignaient"],
+        "ind.ps": ["repeignis", "repeignis", "repeignit", "repeignîmes", "repeignîtes", "repeignirent"],
+        "ind.fut": ["repeindrai", "repeindras", "repeindra", "repeindrons", "repeindrez", "repeindront"],
+        "cond.pres": ["repeindrais", "repeindrais", "repeindrait", "repeindrions", "repeindriez", "repeindraient"],
+        "subj.pres": ["repeigne", "repeignes", "repeigne", "repeignions", "repeigniez", "repeignent"],
+        "subj.imp": ["repeignisse", "repeignisses", "repeignît", "repeignissions", "repeignissiez", "repeignissent"],
+        "imper.pres": ["repeins", "repeignons", "repeignez"]
+      },
+      "participe_present": "repeignant",
+      "participe_passe": ["repeint", "repeinte", "repeints", "repeintes"]
     }
   ]
 }
