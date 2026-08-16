@@ -5155,6 +5155,24 @@
       },
       "participe_present": "prêtant",
       "participe_passe": ["prêté", "prêtée", "prêtés", "prêtées"]
+    },
+    {
+      "id": "ressentir",
+      "infinitif": "ressentir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ressens", "ressens", "ressent", "ressentons", "ressentez", "ressentent"],
+        "ind.imp": ["ressentais", "ressentais", "ressentait", "ressentions", "ressentiez", "ressentaient"],
+        "ind.ps": ["ressentis", "ressentis", "ressentit", "ressentîmes", "ressentîtes", "ressentirent"],
+        "ind.fut": ["ressentirai", "ressentiras", "ressentira", "ressentirons", "ressentirez", "ressentiront"],
+        "cond.pres": ["ressentirais", "ressentirais", "ressentirait", "ressentirions", "ressentiriez", "ressentiraient"],
+        "subj.pres": ["ressente", "ressentes", "ressente", "ressentions", "ressentiez", "ressentent"],
+        "subj.imp": ["ressentisse", "ressentisses", "ressentît", "ressentissions", "ressentissiez", "ressentissent"],
+        "imper.pres": ["ressens", "ressentons", "ressentez"]
+      },
+      "participe_present": "ressentant",
+      "participe_passe": ["ressenti", "ressentie", "ressentis", "ressenties"]
     }
   ]
 }
