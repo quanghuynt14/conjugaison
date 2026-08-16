@@ -30348,6 +30348,24 @@
       },
       "participe_present": "roupillant",
       "participe_passe": ["roupillé", null, null, null]
+    },
+    {
+      "id": "faner",
+      "infinitif": "faner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fane", "fanes", "fane", "fanons", "fanez", "fanent"],
+        "ind.imp": ["fanais", "fanais", "fanait", "fanions", "faniez", "fanaient"],
+        "ind.ps": ["fanai", "fanas", "fana", "fanâmes", "fanâtes", "fanèrent"],
+        "ind.fut": ["fanerai", "faneras", "fanera", "fanerons", "fanerez", "faneront"],
+        "cond.pres": ["fanerais", "fanerais", "fanerait", "fanerions", "faneriez", "faneraient"],
+        "subj.pres": ["fane", "fanes", "fane", "fanions", "faniez", "fanent"],
+        "subj.imp": ["fanasse", "fanasses", "fanât", "fanassions", "fanassiez", "fanassent"],
+        "imper.pres": ["fane", "fanons", "fanez"]
+      },
+      "participe_present": "fanant",
+      "participe_passe": ["fané", "fanée", "fanés", "fanées"]
     }
   ]
 }
