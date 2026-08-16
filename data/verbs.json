@@ -12574,6 +12574,25 @@
       },
       "participe_present": "précédant",
       "participe_passe": ["précédé", "précédée", "précédés", "précédées"]
+    },
+    {
+      "id": "ressortir",
+      "infinitif": "ressortir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis ressorti ». Avec un complément d'objet direct, avoir : « j'ai ressorti le dossier ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["ressors", "ressors", "ressort", "ressortons", "ressortez", "ressortent"],
+        "ind.imp": ["ressortais", "ressortais", "ressortait", "ressortions", "ressortiez", "ressortaient"],
+        "ind.ps": ["ressortis", "ressortis", "ressortit", "ressortîmes", "ressortîtes", "ressortirent"],
+        "ind.fut": ["ressortirai", "ressortiras", "ressortira", "ressortirons", "ressortirez", "ressortiront"],
+        "cond.pres": ["ressortirais", "ressortirais", "ressortirait", "ressortirions", "ressortiriez", "ressortiraient"],
+        "subj.pres": ["ressorte", "ressortes", "ressorte", "ressortions", "ressortiez", "ressortent"],
+        "subj.imp": ["ressortisse", "ressortisses", "ressortît", "ressortissions", "ressortissiez", "ressortissent"],
+        "imper.pres": ["ressors", "ressortons", "ressortez"]
+      },
+      "participe_present": "ressortant",
+      "participe_passe": ["ressorti", "ressortie", "ressortis", "ressorties"]
     }
   ]
 }
