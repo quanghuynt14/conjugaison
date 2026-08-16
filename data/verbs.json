@@ -27886,6 +27886,24 @@
       },
       "participe_present": "gaffant",
       "participe_passe": ["gaffé", "gaffée", "gaffés", "gaffées"]
+    },
+    {
+      "id": "rétrécir",
+      "infinitif": "rétrécir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rétrécis", "rétrécis", "rétrécit", "rétrécissons", "rétrécissez", "rétrécissent"],
+        "ind.imp": ["rétrécissais", "rétrécissais", "rétrécissait", "rétrécissions", "rétrécissiez", "rétrécissaient"],
+        "ind.ps": ["rétrécis", "rétrécis", "rétrécit", "rétrécîmes", "rétrécîtes", "rétrécirent"],
+        "ind.fut": ["rétrécirai", "rétréciras", "rétrécira", "rétrécirons", "rétrécirez", "rétréciront"],
+        "cond.pres": ["rétrécirais", "rétrécirais", "rétrécirait", "rétrécirions", "rétréciriez", "rétréciraient"],
+        "subj.pres": ["rétrécisse", "rétrécisses", "rétrécisse", "rétrécissions", "rétrécissiez", "rétrécissent"],
+        "subj.imp": ["rétrécisse", "rétrécisses", "rétrécît", "rétrécissions", "rétrécissiez", "rétrécissent"],
+        "imper.pres": ["rétrécis", "rétrécissons", "rétrécissez"]
+      },
+      "participe_present": "rétrécissant",
+      "participe_passe": ["rétréci", "rétrécie", "rétrécis", "rétrécies"]
     }
   ]
 }
