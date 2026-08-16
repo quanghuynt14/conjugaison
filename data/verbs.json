@@ -31846,6 +31846,25 @@
       },
       "participe_present": "refluant",
       "participe_passe": ["reflué", null, null, null]
+    },
+    {
+      "id": "relayer",
+      "infinitif": "relayer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « je relaie » ou « je relaye ».",
+      "tenses": {
+        "ind.pres": [["relaie", "relaye"], ["relaies", "relayes"], ["relaie", "relaye"], "relayons", "relayez", ["relaient", "relayent"]],
+        "ind.imp": ["relayais", "relayais", "relayait", "relayions", "relayiez", "relayaient"],
+        "ind.ps": ["relayai", "relayas", "relaya", "relayâmes", "relayâtes", "relayèrent"],
+        "ind.fut": [["relaierai", "relayerai"], ["relaieras", "relayeras"], ["relaiera", "relayera"], ["relaierons", "relayerons"], ["relaierez", "relayerez"], ["relaieront", "relayeront"]],
+        "cond.pres": [["relaierais", "relayerais"], ["relaierais", "relayerais"], ["relaierait", "relayerait"], ["relaierions", "relayerions"], ["relaieriez", "relayeriez"], ["relaieraient", "relayeraient"]],
+        "subj.pres": [["relaie", "relaye"], ["relaies", "relayes"], ["relaie", "relaye"], "relayions", "relayiez", ["relaient", "relayent"]],
+        "subj.imp": ["relayasse", "relayasses", "relayât", "relayassions", "relayassiez", "relayassent"],
+        "imper.pres": [["relaie", "relaye"], "relayons", "relayez"]
+      },
+      "participe_present": "relayant",
+      "participe_passe": ["relayé", "relayée", "relayés", "relayées"]
     }
   ]
 }
