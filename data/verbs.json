@@ -14880,6 +14880,24 @@
       },
       "participe_present": "absorbant",
       "participe_passe": ["absorbé", "absorbée", "absorbés", "absorbées"]
+    },
+    {
+      "id": "entamer",
+      "infinitif": "entamer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entame", "entames", "entame", "entamons", "entamez", "entament"],
+        "ind.imp": ["entamais", "entamais", "entamait", "entamions", "entamiez", "entamaient"],
+        "ind.ps": ["entamai", "entamas", "entama", "entamâmes", "entamâtes", "entamèrent"],
+        "ind.fut": ["entamerai", "entameras", "entamera", "entamerons", "entamerez", "entameront"],
+        "cond.pres": ["entamerais", "entamerais", "entamerait", "entamerions", "entameriez", "entameraient"],
+        "subj.pres": ["entame", "entames", "entame", "entamions", "entamiez", "entament"],
+        "subj.imp": ["entamasse", "entamasses", "entamât", "entamassions", "entamassiez", "entamassent"],
+        "imper.pres": ["entame", "entamons", "entamez"]
+      },
+      "participe_present": "entamant",
+      "participe_passe": ["entamé", "entamée", "entamés", "entamées"]
     }
   ]
 }
