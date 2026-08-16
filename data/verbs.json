@@ -32521,6 +32521,24 @@
       },
       "participe_present": "obscurcissant",
       "participe_passe": ["obscurci", "obscurcie", "obscurcis", "obscurcies"]
+    },
+    {
+      "id": "draper",
+      "infinitif": "draper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["drape", "drapes", "drape", "drapons", "drapez", "drapent"],
+        "ind.imp": ["drapais", "drapais", "drapait", "drapions", "drapiez", "drapaient"],
+        "ind.ps": ["drapai", "drapas", "drapa", "drapâmes", "drapâtes", "drapèrent"],
+        "ind.fut": ["draperai", "draperas", "drapera", "draperons", "draperez", "draperont"],
+        "cond.pres": ["draperais", "draperais", "draperait", "draperions", "draperiez", "draperaient"],
+        "subj.pres": ["drape", "drapes", "drape", "drapions", "drapiez", "drapent"],
+        "subj.imp": ["drapasse", "drapasses", "drapât", "drapassions", "drapassiez", "drapassent"],
+        "imper.pres": ["drape", "drapons", "drapez"]
+      },
+      "participe_present": "drapant",
+      "participe_passe": ["drapé", "drapée", "drapés", "drapées"]
     }
   ]
 }
