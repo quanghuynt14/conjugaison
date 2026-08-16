@@ -13263,6 +13263,24 @@
       },
       "participe_present": "projetant",
       "participe_passe": ["projeté", "projetée", "projetés", "projetées"]
+    },
+    {
+      "id": "déclencher",
+      "infinitif": "déclencher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déclenche", "déclenches", "déclenche", "déclenchons", "déclenchez", "déclenchent"],
+        "ind.imp": ["déclenchais", "déclenchais", "déclenchait", "déclenchions", "déclenchiez", "déclenchaient"],
+        "ind.ps": ["déclenchai", "déclenchas", "déclencha", "déclenchâmes", "déclenchâtes", "déclenchèrent"],
+        "ind.fut": ["déclencherai", "déclencheras", "déclenchera", "déclencherons", "déclencherez", "déclencheront"],
+        "cond.pres": ["déclencherais", "déclencherais", "déclencherait", "déclencherions", "déclencheriez", "déclencheraient"],
+        "subj.pres": ["déclenche", "déclenches", "déclenche", "déclenchions", "déclenchiez", "déclenchent"],
+        "subj.imp": ["déclenchasse", "déclenchasses", "déclenchât", "déclenchassions", "déclenchassiez", "déclenchassent"],
+        "imper.pres": ["déclenche", "déclenchons", "déclenchez"]
+      },
+      "participe_present": "déclenchant",
+      "participe_passe": ["déclenché", "déclenchée", "déclenchés", "déclenchées"]
     }
   ]
 }
