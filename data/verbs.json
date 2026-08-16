@@ -18322,6 +18322,24 @@
       },
       "participe_present": "rabattant",
       "participe_passe": ["rabattu", "rabattue", "rabattus", "rabattues"]
+    },
+    {
+      "id": "accoucher",
+      "infinitif": "accoucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accouche", "accouches", "accouche", "accouchons", "accouchez", "accouchent"],
+        "ind.imp": ["accouchais", "accouchais", "accouchait", "accouchions", "accouchiez", "accouchaient"],
+        "ind.ps": ["accouchai", "accouchas", "accoucha", "accouchâmes", "accouchâtes", "accouchèrent"],
+        "ind.fut": ["accoucherai", "accoucheras", "accouchera", "accoucherons", "accoucherez", "accoucheront"],
+        "cond.pres": ["accoucherais", "accoucherais", "accoucherait", "accoucherions", "accoucheriez", "accoucheraient"],
+        "subj.pres": ["accouche", "accouches", "accouche", "accouchions", "accouchiez", "accouchent"],
+        "subj.imp": ["accouchasse", "accouchasses", "accouchât", "accouchassions", "accouchassiez", "accouchassent"],
+        "imper.pres": ["accouche", "accouchons", "accouchez"]
+      },
+      "participe_present": "accouchant",
+      "participe_passe": ["accouché", "accouchée", "accouchés", "accouchées"]
     }
   ]
 }
