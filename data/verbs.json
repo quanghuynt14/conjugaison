@@ -19761,6 +19761,24 @@
       },
       "participe_present": "obsédant",
       "participe_passe": ["obsédé", "obsédée", "obsédés", "obsédées"]
+    },
+    {
+      "id": "enrouler",
+      "infinitif": "enrouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enroule", "enroules", "enroule", "enroulons", "enroulez", "enroulent"],
+        "ind.imp": ["enroulais", "enroulais", "enroulait", "enroulions", "enrouliez", "enroulaient"],
+        "ind.ps": ["enroulai", "enroulas", "enroula", "enroulâmes", "enroulâtes", "enroulèrent"],
+        "ind.fut": ["enroulerai", "enrouleras", "enroulera", "enroulerons", "enroulerez", "enrouleront"],
+        "cond.pres": ["enroulerais", "enroulerais", "enroulerait", "enroulerions", "enrouleriez", "enrouleraient"],
+        "subj.pres": ["enroule", "enroules", "enroule", "enroulions", "enrouliez", "enroulent"],
+        "subj.imp": ["enroulasse", "enroulasses", "enroulât", "enroulassions", "enroulassiez", "enroulassent"],
+        "imper.pres": ["enroule", "enroulons", "enroulez"]
+      },
+      "participe_present": "enroulant",
+      "participe_passe": ["enroulé", "enroulée", "enroulés", "enroulées"]
     }
   ]
 }
