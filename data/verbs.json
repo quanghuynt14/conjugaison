@@ -2170,6 +2170,24 @@
       },
       "participe_present": "emmenant",
       "participe_passe": ["emmené", "emmenée", "emmenés", "emmenées"]
+    },
+    {
+      "id": "reconnaître",
+      "infinitif": "reconnaître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reconnais", "reconnais", "reconnaît", "reconnaissons", "reconnaissez", "reconnaissent"],
+        "ind.imp": ["reconnaissais", "reconnaissais", "reconnaissait", "reconnaissions", "reconnaissiez", "reconnaissaient"],
+        "ind.ps": ["reconnus", "reconnus", "reconnut", "reconnûmes", "reconnûtes", "reconnurent"],
+        "ind.fut": ["reconnaîtrai", "reconnaîtras", "reconnaîtra", "reconnaîtrons", "reconnaîtrez", "reconnaîtront"],
+        "cond.pres": ["reconnaîtrais", "reconnaîtrais", "reconnaîtrait", "reconnaîtrions", "reconnaîtriez", "reconnaîtraient"],
+        "subj.pres": ["reconnaisse", "reconnaisses", "reconnaisse", "reconnaissions", "reconnaissiez", "reconnaissent"],
+        "subj.imp": ["reconnusse", "reconnusses", "reconnût", "reconnussions", "reconnussiez", "reconnussent"],
+        "imper.pres": ["reconnais", "reconnaissons", "reconnaissez"]
+      },
+      "participe_present": "reconnaissant",
+      "participe_passe": ["reconnu", "reconnue", "reconnus", "reconnues"]
     }
   ]
 }
