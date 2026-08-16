@@ -29032,6 +29032,24 @@
       },
       "participe_present": "déballant",
       "participe_passe": ["déballé", "déballée", "déballés", "déballées"]
+    },
+    {
+      "id": "vernir",
+      "infinitif": "vernir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vernis", "vernis", "vernit", "vernissons", "vernissez", "vernissent"],
+        "ind.imp": ["vernissais", "vernissais", "vernissait", "vernissions", "vernissiez", "vernissaient"],
+        "ind.ps": ["vernis", "vernis", "vernit", "vernîmes", "vernîtes", "vernirent"],
+        "ind.fut": ["vernirai", "verniras", "vernira", "vernirons", "vernirez", "verniront"],
+        "cond.pres": ["vernirais", "vernirais", "vernirait", "vernirions", "verniriez", "verniraient"],
+        "subj.pres": ["vernisse", "vernisses", "vernisse", "vernissions", "vernissiez", "vernissent"],
+        "subj.imp": ["vernisse", "vernisses", "vernît", "vernissions", "vernissiez", "vernissent"],
+        "imper.pres": ["vernis", "vernissons", "vernissez"]
+      },
+      "participe_present": "vernissant",
+      "participe_passe": ["verni", "vernie", "vernis", "vernies"]
     }
   ]
 }
