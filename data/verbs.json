@@ -21620,6 +21620,24 @@
       },
       "participe_present": "empilant",
       "participe_passe": ["empilé", "empilée", "empilés", "empilées"]
+    },
+    {
+      "id": "gaspiller",
+      "infinitif": "gaspiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gaspille", "gaspilles", "gaspille", "gaspillons", "gaspillez", "gaspillent"],
+        "ind.imp": ["gaspillais", "gaspillais", "gaspillait", "gaspillions", "gaspilliez", "gaspillaient"],
+        "ind.ps": ["gaspillai", "gaspillas", "gaspilla", "gaspillâmes", "gaspillâtes", "gaspillèrent"],
+        "ind.fut": ["gaspillerai", "gaspilleras", "gaspillera", "gaspillerons", "gaspillerez", "gaspilleront"],
+        "cond.pres": ["gaspillerais", "gaspillerais", "gaspillerait", "gaspillerions", "gaspilleriez", "gaspilleraient"],
+        "subj.pres": ["gaspille", "gaspilles", "gaspille", "gaspillions", "gaspilliez", "gaspillent"],
+        "subj.imp": ["gaspillasse", "gaspillasses", "gaspillât", "gaspillassions", "gaspillassiez", "gaspillassent"],
+        "imper.pres": ["gaspille", "gaspillons", "gaspillez"]
+      },
+      "participe_present": "gaspillant",
+      "participe_passe": ["gaspillé", "gaspillée", "gaspillés", "gaspillées"]
     }
   ]
 }
