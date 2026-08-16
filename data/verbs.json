@@ -34616,6 +34616,24 @@
       },
       "participe_present": "tonnant",
       "participe_passe": ["tonné", null, null, null]
+    },
+    {
+      "id": "valser",
+      "infinitif": "valser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["valse", "valses", "valse", "valsons", "valsez", "valsent"],
+        "ind.imp": ["valsais", "valsais", "valsait", "valsions", "valsiez", "valsaient"],
+        "ind.ps": ["valsai", "valsas", "valsa", "valsâmes", "valsâtes", "valsèrent"],
+        "ind.fut": ["valserai", "valseras", "valsera", "valserons", "valserez", "valseront"],
+        "cond.pres": ["valserais", "valserais", "valserait", "valserions", "valseriez", "valseraient"],
+        "subj.pres": ["valse", "valses", "valse", "valsions", "valsiez", "valsent"],
+        "subj.imp": ["valsasse", "valsasses", "valsât", "valsassions", "valsassiez", "valsassent"],
+        "imper.pres": ["valse", "valsons", "valsez"]
+      },
+      "participe_present": "valsant",
+      "participe_passe": ["valsé", "valsée", "valsés", "valsées"]
     }
   ]
 }
