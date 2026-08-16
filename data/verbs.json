@@ -34359,6 +34359,24 @@
       },
       "participe_present": "assiégeant",
       "participe_passe": ["assiégé", "assiégée", "assiégés", "assiégées"]
+    },
+    {
+      "id": "confiner",
+      "infinitif": "confiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["confine", "confines", "confine", "confinons", "confinez", "confinent"],
+        "ind.imp": ["confinais", "confinais", "confinait", "confinions", "confiniez", "confinaient"],
+        "ind.ps": ["confinai", "confinas", "confina", "confinâmes", "confinâtes", "confinèrent"],
+        "ind.fut": ["confinerai", "confineras", "confinera", "confinerons", "confinerez", "confineront"],
+        "cond.pres": ["confinerais", "confinerais", "confinerait", "confinerions", "confineriez", "confineraient"],
+        "subj.pres": ["confine", "confines", "confine", "confinions", "confiniez", "confinent"],
+        "subj.imp": ["confinasse", "confinasses", "confinât", "confinassions", "confinassiez", "confinassent"],
+        "imper.pres": ["confine", "confinons", "confinez"]
+      },
+      "participe_present": "confinant",
+      "participe_passe": ["confiné", "confinée", "confinés", "confinées"]
     }
   ]
 }
