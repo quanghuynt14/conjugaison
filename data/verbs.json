@@ -36315,6 +36315,24 @@
       },
       "participe_present": "ceinturant",
       "participe_passe": ["ceinturé", "ceinturée", "ceinturés", "ceinturées"]
+    },
+    {
+      "id": "conjuguer",
+      "infinitif": "conjuguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conjugue", "conjugues", "conjugue", "conjuguons", "conjuguez", "conjuguent"],
+        "ind.imp": ["conjuguais", "conjuguais", "conjuguait", "conjuguions", "conjuguiez", "conjuguaient"],
+        "ind.ps": ["conjuguai", "conjuguas", "conjugua", "conjuguâmes", "conjuguâtes", "conjuguèrent"],
+        "ind.fut": ["conjuguerai", "conjugueras", "conjuguera", "conjuguerons", "conjuguerez", "conjugueront"],
+        "cond.pres": ["conjuguerais", "conjuguerais", "conjuguerait", "conjuguerions", "conjugueriez", "conjugueraient"],
+        "subj.pres": ["conjugue", "conjugues", "conjugue", "conjuguions", "conjuguiez", "conjuguent"],
+        "subj.imp": ["conjuguasse", "conjuguasses", "conjuguât", "conjuguassions", "conjuguassiez", "conjuguassent"],
+        "imper.pres": ["conjugue", "conjuguons", "conjuguez"]
+      },
+      "participe_present": "conjuguant",
+      "participe_passe": ["conjugué", "conjuguée", "conjugués", "conjuguées"]
     }
   ]
 }
