@@ -4504,6 +4504,24 @@
       },
       "participe_present": "coulant",
       "participe_passe": ["coulé", "coulée", "coulés", "coulées"]
+    },
+    {
+      "id": "remercier",
+      "infinitif": "remercier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["remercie", "remercies", "remercie", "remercions", "remerciez", "remercient"],
+        "ind.imp": ["remerciais", "remerciais", "remerciait", "remerciions", "remerciiez", "remerciaient"],
+        "ind.ps": ["remerciai", "remercias", "remercia", "remerciâmes", "remerciâtes", "remercièrent"],
+        "ind.fut": ["remercierai", "remercieras", "remerciera", "remercierons", "remercierez", "remercieront"],
+        "cond.pres": ["remercierais", "remercierais", "remercierait", "remercierions", "remercieriez", "remercieraient"],
+        "subj.pres": ["remercie", "remercies", "remercie", "remerciions", "remerciiez", "remercient"],
+        "subj.imp": ["remerciasse", "remerciasses", "remerciât", "remerciassions", "remerciassiez", "remerciassent"],
+        "imper.pres": ["remercie", "remercions", "remerciez"]
+      },
+      "participe_present": "remerciant",
+      "participe_passe": ["remercié", "remerciée", "remerciés", "remerciées"]
     }
   ]
 }
