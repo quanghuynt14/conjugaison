@@ -31718,6 +31718,24 @@
       },
       "participe_present": "criblant",
       "participe_passe": ["criblé", "criblée", "criblés", "criblées"]
+    },
+    {
+      "id": "embellir",
+      "infinitif": "embellir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["embellis", "embellis", "embellit", "embellissons", "embellissez", "embellissent"],
+        "ind.imp": ["embellissais", "embellissais", "embellissait", "embellissions", "embellissiez", "embellissaient"],
+        "ind.ps": ["embellis", "embellis", "embellit", "embellîmes", "embellîtes", "embellirent"],
+        "ind.fut": ["embellirai", "embelliras", "embellira", "embellirons", "embellirez", "embelliront"],
+        "cond.pres": ["embellirais", "embellirais", "embellirait", "embellirions", "embelliriez", "embelliraient"],
+        "subj.pres": ["embellisse", "embellisses", "embellisse", "embellissions", "embellissiez", "embellissent"],
+        "subj.imp": ["embellisse", "embellisses", "embellît", "embellissions", "embellissiez", "embellissent"],
+        "imper.pres": ["embellis", "embellissons", "embellissez"]
+      },
+      "participe_present": "embellissant",
+      "participe_passe": ["embelli", "embellie", "embellis", "embellies"]
     }
   ]
 }
