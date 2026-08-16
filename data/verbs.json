@@ -22597,6 +22597,24 @@
       },
       "participe_present": "avérant",
       "participe_passe": ["avéré", "avérée", "avérés", "avérées"]
+    },
+    {
+      "id": "déserter",
+      "infinitif": "déserter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déserte", "désertes", "déserte", "désertons", "désertez", "désertent"],
+        "ind.imp": ["désertais", "désertais", "désertait", "désertions", "désertiez", "désertaient"],
+        "ind.ps": ["désertai", "désertas", "déserta", "désertâmes", "désertâtes", "désertèrent"],
+        "ind.fut": ["déserterai", "déserteras", "désertera", "déserterons", "déserterez", "déserteront"],
+        "cond.pres": ["déserterais", "déserterais", "déserterait", "déserterions", "déserteriez", "déserteraient"],
+        "subj.pres": ["déserte", "désertes", "déserte", "désertions", "désertiez", "désertent"],
+        "subj.imp": ["désertasse", "désertasses", "désertât", "désertassions", "désertassiez", "désertassent"],
+        "imper.pres": ["déserte", "désertons", "désertez"]
+      },
+      "participe_present": "désertant",
+      "participe_passe": ["déserté", "désertée", "désertés", "désertées"]
     }
   ]
 }
