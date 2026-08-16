@@ -17440,6 +17440,24 @@
       },
       "participe_present": "illuminant",
       "participe_passe": ["illuminé", "illuminée", "illuminés", "illuminées"]
+    },
+    {
+      "id": "retarder",
+      "infinitif": "retarder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["retarde", "retardes", "retarde", "retardons", "retardez", "retardent"],
+        "ind.imp": ["retardais", "retardais", "retardait", "retardions", "retardiez", "retardaient"],
+        "ind.ps": ["retardai", "retardas", "retarda", "retardâmes", "retardâtes", "retardèrent"],
+        "ind.fut": ["retarderai", "retarderas", "retardera", "retarderons", "retarderez", "retarderont"],
+        "cond.pres": ["retarderais", "retarderais", "retarderait", "retarderions", "retarderiez", "retarderaient"],
+        "subj.pres": ["retarde", "retardes", "retarde", "retardions", "retardiez", "retardent"],
+        "subj.imp": ["retardasse", "retardasses", "retardât", "retardassions", "retardassiez", "retardassent"],
+        "imper.pres": ["retarde", "retardons", "retardez"]
+      },
+      "participe_present": "retardant",
+      "participe_passe": ["retardé", "retardée", "retardés", "retardées"]
     }
   ]
 }
