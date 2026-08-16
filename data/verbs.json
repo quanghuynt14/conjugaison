@@ -5209,6 +5209,24 @@
       },
       "participe_present": "crevant",
       "participe_passe": ["crevé", "crevée", "crevés", "crevées"]
+    },
+    {
+      "id": "repartir",
+      "infinitif": "repartir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["repars", "repars", "repart", "repartons", "repartez", "repartent"],
+        "ind.imp": ["repartais", "repartais", "repartait", "repartions", "repartiez", "repartaient"],
+        "ind.ps": ["repartis", "repartis", "repartit", "repartîmes", "repartîtes", "repartirent"],
+        "ind.fut": ["repartirai", "repartiras", "repartira", "repartirons", "repartirez", "repartiront"],
+        "cond.pres": ["repartirais", "repartirais", "repartirait", "repartirions", "repartiriez", "repartiraient"],
+        "subj.pres": ["reparte", "repartes", "reparte", "repartions", "repartiez", "repartent"],
+        "subj.imp": ["repartisse", "repartisses", "repartît", "repartissions", "repartissiez", "repartissent"],
+        "imper.pres": ["repars", "repartons", "repartez"]
+      },
+      "participe_present": "repartant",
+      "participe_passe": ["reparti", "repartie", "repartis", "reparties"]
     }
   ]
 }
