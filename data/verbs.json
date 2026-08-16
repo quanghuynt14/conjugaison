@@ -24425,6 +24425,24 @@
       },
       "participe_present": "articulant",
       "participe_passe": ["articulé", "articulée", "articulés", "articulées"]
+    },
+    {
+      "id": "rattacher",
+      "infinitif": "rattacher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rattache", "rattaches", "rattache", "rattachons", "rattachez", "rattachent"],
+        "ind.imp": ["rattachais", "rattachais", "rattachait", "rattachions", "rattachiez", "rattachaient"],
+        "ind.ps": ["rattachai", "rattachas", "rattacha", "rattachâmes", "rattachâtes", "rattachèrent"],
+        "ind.fut": ["rattacherai", "rattacheras", "rattachera", "rattacherons", "rattacherez", "rattacheront"],
+        "cond.pres": ["rattacherais", "rattacherais", "rattacherait", "rattacherions", "rattacheriez", "rattacheraient"],
+        "subj.pres": ["rattache", "rattaches", "rattache", "rattachions", "rattachiez", "rattachent"],
+        "subj.imp": ["rattachasse", "rattachasses", "rattachât", "rattachassions", "rattachassiez", "rattachassent"],
+        "imper.pres": ["rattache", "rattachons", "rattachez"]
+      },
+      "participe_present": "rattachant",
+      "participe_passe": ["rattaché", "rattachée", "rattachés", "rattachées"]
     }
   ]
 }
