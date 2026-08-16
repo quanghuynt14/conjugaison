@@ -9122,6 +9122,24 @@
       },
       "participe_present": "voyageant",
       "participe_passe": ["voyagé", null, null, null]
+    },
+    {
+      "id": "contempler",
+      "infinitif": "contempler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contemple", "contemples", "contemple", "contemplons", "contemplez", "contemplent"],
+        "ind.imp": ["contemplais", "contemplais", "contemplait", "contemplions", "contempliez", "contemplaient"],
+        "ind.ps": ["contemplai", "contemplas", "contempla", "contemplâmes", "contemplâtes", "contemplèrent"],
+        "ind.fut": ["contemplerai", "contempleras", "contemplera", "contemplerons", "contemplerez", "contempleront"],
+        "cond.pres": ["contemplerais", "contemplerais", "contemplerait", "contemplerions", "contempleriez", "contempleraient"],
+        "subj.pres": ["contemple", "contemples", "contemple", "contemplions", "contempliez", "contemplent"],
+        "subj.imp": ["contemplasse", "contemplasses", "contemplât", "contemplassions", "contemplassiez", "contemplassent"],
+        "imper.pres": ["contemple", "contemplons", "contemplez"]
+      },
+      "participe_present": "contemplant",
+      "participe_passe": ["contemplé", "contemplée", "contemplés", "contemplées"]
     }
   ]
 }
