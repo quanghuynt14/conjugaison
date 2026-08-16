@@ -20346,6 +20346,24 @@
       },
       "participe_present": "ruisselant",
       "participe_passe": ["ruisselé", null, null, null]
+    },
+    {
+      "id": "remporter",
+      "infinitif": "remporter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["remporte", "remportes", "remporte", "remportons", "remportez", "remportent"],
+        "ind.imp": ["remportais", "remportais", "remportait", "remportions", "remportiez", "remportaient"],
+        "ind.ps": ["remportai", "remportas", "remporta", "remportâmes", "remportâtes", "remportèrent"],
+        "ind.fut": ["remporterai", "remporteras", "remportera", "remporterons", "remporterez", "remporteront"],
+        "cond.pres": ["remporterais", "remporterais", "remporterait", "remporterions", "remporteriez", "remporteraient"],
+        "subj.pres": ["remporte", "remportes", "remporte", "remportions", "remportiez", "remportent"],
+        "subj.imp": ["remportasse", "remportasses", "remportât", "remportassions", "remportassiez", "remportassent"],
+        "imper.pres": ["remporte", "remportons", "remportez"]
+      },
+      "participe_present": "remportant",
+      "participe_passe": ["remporté", "remportée", "remportés", "remportées"]
     }
   ]
 }
