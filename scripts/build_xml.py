@@ -102,6 +102,10 @@ NONFINITE = [
     ("part.passe", "Participe passé"),
 ]
 
+# Ce qu'on écrit là où la langue n'a rien. Une case blanche se lit comme un
+# oubli ; ces deux mots-là disent que la case a été regardée.
+ABSENT = "n’existe pas"
+
 # Les colonnes du tableau inversé. Le verbe n'y est pas : il est en légende,
 # une fois par tableau. verify_lookup.py s'en sert pour reconnaître un tableau
 # dans le texte brut que rend Dictionary.app.
@@ -139,7 +143,13 @@ def tense_label(key):
 # --- élision ----------------------------------------------------------------
 
 VOWELS = "aeiouàâäéèêëîïôöùûüy"
-ELIDABLE = {"je", "que"}
+ELIDABLE = {"je", "que", "me", "te", "se"}
+
+# Le pronom réfléchi d'un verbe essentiellement pronominal. Il se place devant
+# le verbe, sauf à l'impératif où il passe derrière et change de forme :
+# « je me souviens », mais « souviens-toi ».
+PRONOUNS = ["me", "te", "se", "nous", "vous", "se"]
+PRONOUNS_IMPER = ["toi", "nous", "vous"]
 
 
 def elide(left, right):
@@ -161,13 +171,17 @@ def subject_for(tense_key, i):
     return SUBJECTS[i]
 
 
-def with_subject(tense_key, i, form):
+def with_subject(verb, tense_key, i, form):
     """« aie vécu » -> « que j’aie vécu ».
 
-    L'élision se fait de droite à gauche : « je » se colle d'abord au verbe,
-    « que » se colle ensuite au résultat. Dans l'autre sens on obtient
+    L'élision se fait de droite à gauche : le pronom réfléchi se colle d'abord
+    au verbe, « je » au résultat, « que » au tout. Dans l'autre sens on obtient
     « que je aie vécu », parce que « que je » n'est plus un mot élidable.
     """
+    if verb.get("pronominal"):
+        if tense_key.startswith("imper."):
+            return f"{form}-{PRONOUNS_IMPER[i]}"
+        form = elide(PRONOUNS[i], form)
     subject = subject_for(tense_key, i)
     if subject is None:
         return form
@@ -175,17 +189,116 @@ def with_subject(tense_key, i, form):
     return elide("que", cell) if tense_key.startswith("subj.") else cell
 
 
+# --- ce que contient une case -----------------------------------------------
+
+
+def variants(cell):
+    """Les formes d'une case : aucune, une, ou deux.
+
+    verbs.json écrit une chaîne quand la case n'a qu'une forme, une liste quand
+    la langue en admet plusieurs — « je paie » ou « je paye », les deux
+    correctes — et null quand la case n'existe pas. Un verbe défectif n'a pas
+    de forme approchée à mettre à la place : « je faux » n'est pas du français,
+    falloir ne se conjugue qu'à la troisième personne du singulier.
+    """
+    if cell is None:
+        return []
+    if isinstance(cell, str):
+        return [cell]
+    return list(cell)
+
+
+def lemma(verb):
+    """Le verbe tel qu'il se nomme : « vivre », mais « se souvenir ».
+
+    Un verbe essentiellement pronominal ne s'énonce pas sans son pronom. La
+    clé cherchable, elle, reste « souvenir » : c'est le mot qu'on sélectionne
+    dans une page, le pronom étant deux mots plus loin.
+    """
+    if verb.get("pronominal"):
+        return elide("se", verb["infinitif"])
+    return verb["infinitif"]
+
+
+def lemma_sort_key(name):
+    """« se souvenir » se range à souvenir, comme dans tout dictionnaire."""
+    return re.sub(r"^s(?:e |’)", "", name)
+
+
 # --- conjugaison ------------------------------------------------------------
 
 
-def cells_for(verb, aux, key, kind, source):
-    """Les six (ou trois) cases d'un temps, sujet attaché."""
-    if kind == "simple":
-        raw = verb["tenses"][source]
-    else:
-        raw = [f"{a} {verb['participe_passe'][0]}" for a in aux["tenses"][source]]
+def participes_accordes(verb, key):
+    """Le participe passé d'un temps composé, personne par personne.
 
-    return [with_subject(key, i, form) for i, form in enumerate(raw)]
+    Avec être, il s'accorde avec le sujet : « je suis monté », mais « nous
+    sommes montés ». Avec avoir il ne s'accorde pas ici — il ne s'accorderait
+    qu'avec un complément d'objet direct placé devant lui, et un tableau de
+    conjugaison n'en a aucun à montrer.
+
+    L'impératif n'a pas les mêmes personnes que les autres temps : « sois
+    monté » s'adresse à un seul, « soyons montés » et « soyez montés » à
+    plusieurs.
+    """
+    singulier = variants(verb["participe_passe"][0])
+    if verb["auxiliaire"] != "être":
+        return [singulier] * 6
+    pluriel = variants(verb["participe_passe"][2]) or singulier
+    au_pluriel = ([False, True, True] if key.startswith("imper.")
+                  else [False, False, False, True, True, True])
+    return [pluriel if p else singulier for p in au_pluriel]
+
+
+def cells_for(verb, aux, key, kind, source):
+    """Les six (ou trois) cases d'un temps, sujet attaché. Une case vide est [].
+
+    Un temps composé n'existe que là où le verbe existe. L'auxiliaire, lui, se
+    conjugue partout : construire le passé composé de falloir sur les six
+    personnes d'avoir donnerait « j'ai fallu ». C'est le verbe qui décide des
+    cases — « il faut » au présent, donc « il a fallu » et rien d'autre.
+
+    L'impératif passé d'un pronominal ne se construit pas non plus : « sois-toi
+    souvenu » ne se dit pas, et c'est la seule case composée que la langue
+    refuse alors qu'elle a la case simple.
+    """
+    if kind == "simple":
+        raw = [variants(cell) for cell in verb["tenses"][source]]
+    elif key.startswith("imper.") and verb.get("pronominal"):
+        raw = [[] for _ in verb["tenses"][source]]
+    else:
+        participes = participes_accordes(verb, key)
+        raw = [
+            [f"{a} {p}" for a in variants(aux["tenses"][source][i])
+             for p in participes[i]]
+            if variants(cell) else []
+            for i, cell in enumerate(verb["tenses"][source])
+        ]
+
+    return [[with_subject(verb, key, i, form) for form in forms]
+            for i, forms in enumerate(raw)]
+
+
+def show(forms):
+    """Ce qu'affiche une case. « je paie ou je paye » ; rien si elle est vide."""
+    return " ou ".join(forms)
+
+
+def nonfinite_cells(verb, key):
+    """Les cases d'une forme non conjuguée, dans le même format qu'un temps.
+
+    L'infinitif et le participe présent en ont une, le participe passé quatre.
+    Le pronom du pronominal les accompagne comme il accompagne le reste :
+    « se souvenir », « se souvenant ». Le participe passé le perd — il s'accorde
+    seul, et c'est lui qu'on lit dans « elle s'est souvenue ».
+    """
+    if key == "inf":
+        return [[lemma(verb)]]
+    if key == "part.pres":
+        forms = variants(verb["participe_present"])
+        if verb.get("pronominal"):
+            forms = [elide("se", form) for form in forms]
+        return [forms]
+    return [variants(cell) for cell in verb["participe_passe"]]
 
 
 Analysis = collections.namedtuple(
@@ -209,14 +322,28 @@ def analyses_of(verb, aux):
             if kind != "simple":
                 continue
             accords = ACCORDS_IMPER if key.startswith("imper.") else ACCORDS_FINITE
-            conjugated = cells_for(verb, aux, key, kind, source)
-            for i, form in enumerate(verb["tenses"][source]):
-                record(form, key, i, conjugated[i], accords[i])
+            cells = cells_for(verb, aux, key, kind, source)
+            for i, cell in enumerate(verb["tenses"][source]):
+                # Une case qui admet deux formes reste une case : « paie » et
+                # « paye » sont deux clés, une seule ligne, une seule surbrillance.
+                for form in variants(cell):
+                    record(form, key, i, show(cells[i]), accords[i])
 
-    record(verb["infinitif"], "inf", 0, verb["infinitif"], "")
-    record(verb["participe_present"], "part.pres", 0, verb["participe_present"], "")
-    for i, form in enumerate(verb["participe_passe"]):
-        record(form, "part.passe", i, form, ACCORDS_PARTICIPE[i])
+    record(verb["infinitif"], "inf", 0, lemma(verb), "")
+    for form in variants(verb["participe_present"]):
+        record(form, "part.pres", 0, show(nonfinite_cells(verb, "part.pres")[0]), "")
+    # « pris » est le masculin singulier et le masculin pluriel de prendre : la
+    # même forme dans deux cases. Deux lignes en sortiraient, identiques, dans
+    # un tableau qui ne montre plus l'accord — la même chose écrite deux fois
+    # n'apprend rien. Une ligne, donc, mais les deux cases surlignées : c'est
+    # `render_entry` qui les retrouve, par la forme.
+    vues = set()
+    for i, cell in enumerate(verb["participe_passe"]):
+        for form in variants(cell):
+            if form in vues:
+                continue
+            vues.add(form)
+            record(form, "part.passe", i, show(variants(cell)), ACCORDS_PARTICIPE[i])
 
     return found
 
@@ -237,7 +364,10 @@ def occurrences_of(verb, aux, keys):
             if kind != "compose":
                 continue
             accords = ACCORDS_IMPER if key.startswith("imper.") else ACCORDS_FINITE
-            for i, cell in enumerate(cells_for(verb, aux, key, kind, source)):
+            for i, forms in enumerate(cells_for(verb, aux, key, kind, source)):
+                if not forms:
+                    continue
+                cell = show(forms)
                 for form in sorted(set(re.findall(r"\w+", cell)) & keys):
                     found[form].append(Analysis(verb, key, i, cell, accords[i]))
     return found
@@ -270,7 +400,7 @@ def render_table(verb, aux, matches):
     """La conjugaison complète d'un verbe. `matches` = {(clé, index)} à surligner."""
     vid = verb["id"]
     out = [f'    <div class="verb" id="{anchor_id(vid, "table")}">']
-    out.append(f'      <h2 class="lemma">{esc(verb["infinitif"])}</h2>')
+    out.append(f'      <h2 class="lemma">{esc(lemma(verb))}</h2>')
     out.append(
         f'      <div class="meta">{esc(verb["groupe"])} · auxiliaire '
         f'<i>{esc(verb["auxiliaire"])}</i></div>'
@@ -278,24 +408,19 @@ def render_table(verb, aux, matches):
 
     out.append('      <div class="nonfinite">')
     for key, label in NONFINITE:
-        if key == "inf":
-            forms = [verb["infinitif"]]
-        elif key == "part.pres":
-            forms = [verb["participe_present"]]
-        else:
-            forms = verb["participe_passe"]
         # Le participe passé a quatre cases comme un temps en a six, et
         # `matches` les distingue déjà. Surligner la ligne entière dirait que
         # « vécu » est aussi « vécue » : on marque la case, pas la ligne.
         cells = ", ".join(
             f'<span class="nf-cell'
-            f'{" cell-match" if (key, i) in matches else ""}">{esc(form)}</span>'
-            for i, form in enumerate(forms)
+            f'{" cell-match" if (key, i) in matches else ""}">{esc(show(forms))}</span>'
+            for i, forms in enumerate(nonfinite_cells(verb, key)) if forms
         )
+        missing = f'<span class="nf-cell absent">{ABSENT}</span>'
         out.append(
             f'        <div class="nf-row" id="{anchor_id(vid, key)}">'
             f'<span class="nf-label">{esc(label.lower())}</span>'
-            f'<span class="form">{cells}</span></div>'
+            f'<span class="form">{cells or missing}</span></div>'
         )
     out.append("      </div>")
 
@@ -306,9 +431,19 @@ def render_table(verb, aux, matches):
             out.append(f'        <div class="tense" id="{anchor_id(vid, key)}">')
             out.append(f'          <h4>{esc(label)}</h4>')
             out.append('          <ul class="cells">')
-            for i, cell in enumerate(cells_for(verb, aux, key, kind, source)):
+            written = 0
+            for i, forms in enumerate(cells_for(verb, aux, key, kind, source)):
+                if not forms:
+                    continue
                 cls = ' class="cell-match"' if (key, i) in matches else ""
-                out.append(f'            <li{cls}>{esc(cell)}</li>')
+                out.append(f'            <li{cls}>{esc(show(forms))}</li>')
+                written += 1
+            # Un temps que le verbe n'a pas garde son titre. Le sauter le
+            # rendrait indistinguable d'un temps qu'on aurait oublié de sortir,
+            # et l'absence est justement ce qu'il y a à lire : pouvoir n'a pas
+            # d'impératif, on ne commande pas de pouvoir.
+            if not written:
+                out.append(f'            <li class="absent">{ABSENT}</li>')
             out.append("          </ul>")
             out.append("        </div>")
         out.append("      </div>")
@@ -337,7 +472,7 @@ def render_reverse(verb, records):
     """
     out = [
         '    <table class="reverse">',
-        f'      <caption>{esc(verb["infinitif"])}</caption>',
+        f'      <caption>{esc(lemma(verb))}</caption>',
         "      <tr>" + "".join(f"<th>{c}</th>" for c in REVERSE_COLUMNS) + "</tr>",
     ]
     # Dans le tableau, l'ordre des temps de PLAN. Les lignes qui disent ce que
@@ -371,6 +506,14 @@ def render_entry(form, records, verbs, auxiliaries):
         out += render_reverse(verb, rows)
     for verb, rows in groups:
         matches = {(r.slot, r.slot_index) for r in rows}
+        # Toute case non conjuguée qui montre la forme est surlignée, y compris
+        # celle dont la ligne a été fondue avec une autre : chercher « pris »
+        # doit marquer le masculin singulier *et* le pluriel, qui s'écrivent
+        # pareil. Une case qui montre le mot cherché sans être marquée se lit
+        # comme un oubli.
+        matches |= {(key, i) for key, _ in NONFINITE
+                    for i, cell in enumerate(nonfinite_cells(verb, key))
+                    if form in cell}
         out += render_table(verb, auxiliaries[verb["id"]], matches)
 
     out.append("  </div>")

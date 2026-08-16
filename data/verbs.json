@@ -1,5 +1,5 @@
 {
-  "_comment": "Une entrée par verbe. Les six formes sont dans l'ordre je / tu / il / nous / vous / ils. L'impératif n'en a que trois : tu / nous / vous.",
+  "_comment": "Une entrée par verbe. Les six formes sont dans l'ordre je / tu / il / nous / vous / ils. L'impératif n'en a que trois : tu / nous / vous. Une case porte une chaîne, ou une liste quand la langue admet deux formes — « paie » ou « paye » —, ou null quand la forme n'existe pas : falloir ne se conjugue qu'à il. « pronominal »: true marque les verbes qui ne s'emploient qu'avec un pronom réfléchi, comme se souvenir.",
   "verbs": [
     {
       "id": "faire",

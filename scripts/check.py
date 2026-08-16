@@ -144,7 +144,8 @@ def main():
         # L'ordre annoncé : verbe alphabétique, puis temps dans l'ordre de PLAN
         # — mode, puis temps dans le mode. Le verbe découpe la page en tableaux,
         # le temps ordonne chaque tableau.
-        keys = [(v, RANK_OF_LABEL.get(t, 99)) for v, _, t in rows]
+        keys = [(B.lemma_sort_key(v), RANK_OF_LABEL.get(t, 99))
+                for v, _, t in rows]
         if keys != sorted(keys):
             problems.append(f"« {form} » : lignes hors de l'ordre annoncé")
 
@@ -157,7 +158,9 @@ def main():
         if len(captions) != len(set(captions)):
             problems.append(
                 f"« {form} » : deux tableaux pour le même verbe — {captions}")
-        if captions != sorted(captions):
+        # « se souvenir » se range à souvenir : le pronom fait partie du nom du
+        # verbe, pas de sa place dans l'alphabet.
+        if captions != sorted(captions, key=B.lemma_sort_key):
             problems.append(f"« {form} » : tableaux hors de l'ordre alphabétique")
 
         # Une clé est d'abord une forme. Une entrée qui ne dirait que des cases
@@ -172,16 +175,23 @@ def main():
         finite = sum(1 for _, _, t in rows if t not in NONFINITE_LABELS)
         li_hits = sum(1 for li in entry.iter(f"{X}li")
                       if "cell-match" in (li.get("class") or ""))
-        nf_slots = {(v, t) for v, _, t in rows if t in NONFINITE_LABELS}
-        nf_hits = sum(1 for s in entry.iter(f"{X}span")
-                      if "cell-match" in (s.get("class") or ""))
         if li_hits != finite:
             problems.append(
                 f"« {form} » : {li_hits} cases surlignées pour {finite} analyses conjuguées")
-        if nf_hits != len(nf_slots):
+
+        # Les cases non conjuguées ne se comptent pas par les lignes : « pris »
+        # occupe deux cases de prendre et n'a qu'une ligne. On demande donc
+        # directement ce qu'on veut voir — toute case qui montre la forme est
+        # marquée, aucune autre ne l'est.
+        nf_cells = [s for s in entry.iter(f"{X}span")
+                    if "nf-cell" in (s.get("class") or "")]
+        montrent = [s for s in nf_cells if re.search(
+            rf"(?<!\w){re.escape(form)}(?!\w)", s.text or "")]
+        marquees = [s for s in nf_cells if "cell-match" in (s.get("class") or "")]
+        if len(marquees) != len(montrent):
             problems.append(
-                f"« {form} » : {nf_hits} formes non conjuguées surlignées pour "
-                f"{len(nf_slots)} attendues")
+                f"« {form} » : {len(marquees)} formes non conjuguées surlignées "
+                f"pour {len(montrent)} qui montrent le mot")
 
     print(f"{total_entries} entrées, {len(seen_values)} clés, {total_rows} analyses")
 
