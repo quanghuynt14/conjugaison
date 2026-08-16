@@ -27904,6 +27904,24 @@
       },
       "participe_present": "rétrécissant",
       "participe_passe": ["rétréci", "rétrécie", "rétrécis", "rétrécies"]
+    },
+    {
+      "id": "démasquer",
+      "infinitif": "démasquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["démasque", "démasques", "démasque", "démasquons", "démasquez", "démasquent"],
+        "ind.imp": ["démasquais", "démasquais", "démasquait", "démasquions", "démasquiez", "démasquaient"],
+        "ind.ps": ["démasquai", "démasquas", "démasqua", "démasquâmes", "démasquâtes", "démasquèrent"],
+        "ind.fut": ["démasquerai", "démasqueras", "démasquera", "démasquerons", "démasquerez", "démasqueront"],
+        "cond.pres": ["démasquerais", "démasquerais", "démasquerait", "démasquerions", "démasqueriez", "démasqueraient"],
+        "subj.pres": ["démasque", "démasques", "démasque", "démasquions", "démasquiez", "démasquent"],
+        "subj.imp": ["démasquasse", "démasquasses", "démasquât", "démasquassions", "démasquassiez", "démasquassent"],
+        "imper.pres": ["démasque", "démasquons", "démasquez"]
+      },
+      "participe_present": "démasquant",
+      "participe_passe": ["démasqué", "démasquée", "démasqués", "démasquées"]
     }
   ]
 }
