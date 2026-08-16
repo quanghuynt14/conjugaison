@@ -10793,6 +10793,24 @@
       },
       "participe_present": "précisant",
       "participe_passe": ["précisé", "précisée", "précisés", "précisées"]
+    },
+    {
+      "id": "identifier",
+      "infinitif": "identifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["identifie", "identifies", "identifie", "identifions", "identifiez", "identifient"],
+        "ind.imp": ["identifiais", "identifiais", "identifiait", "identifiions", "identifiiez", "identifiaient"],
+        "ind.ps": ["identifiai", "identifias", "identifia", "identifiâmes", "identifiâtes", "identifièrent"],
+        "ind.fut": ["identifierai", "identifieras", "identifiera", "identifierons", "identifierez", "identifieront"],
+        "cond.pres": ["identifierais", "identifierais", "identifierait", "identifierions", "identifieriez", "identifieraient"],
+        "subj.pres": ["identifie", "identifies", "identifie", "identifiions", "identifiiez", "identifient"],
+        "subj.imp": ["identifiasse", "identifiasses", "identifiât", "identifiassions", "identifiassiez", "identifiassent"],
+        "imper.pres": ["identifie", "identifions", "identifiez"]
+      },
+      "participe_present": "identifiant",
+      "participe_passe": ["identifié", "identifiée", "identifiés", "identifiées"]
     }
   ]
 }
