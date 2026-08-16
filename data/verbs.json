@@ -20237,6 +20237,24 @@
       },
       "participe_present": "merdant",
       "participe_passe": ["merdé", null, null, null]
+    },
+    {
+      "id": "étreindre",
+      "infinitif": "étreindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["étreins", "étreins", "étreint", "étreignons", "étreignez", "étreignent"],
+        "ind.imp": ["étreignais", "étreignais", "étreignait", "étreignions", "étreigniez", "étreignaient"],
+        "ind.ps": ["étreignis", "étreignis", "étreignit", "étreignîmes", "étreignîtes", "étreignirent"],
+        "ind.fut": ["étreindrai", "étreindras", "étreindra", "étreindrons", "étreindrez", "étreindront"],
+        "cond.pres": ["étreindrais", "étreindrais", "étreindrait", "étreindrions", "étreindriez", "étreindraient"],
+        "subj.pres": ["étreigne", "étreignes", "étreigne", "étreignions", "étreigniez", "étreignent"],
+        "subj.imp": ["étreignisse", "étreignisses", "étreignît", "étreignissions", "étreignissiez", "étreignissent"],
+        "imper.pres": ["étreins", "étreignons", "étreignez"]
+      },
+      "participe_present": "étreignant",
+      "participe_passe": ["étreint", "étreinte", "étreints", "étreintes"]
     }
   ]
 }
