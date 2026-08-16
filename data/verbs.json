@@ -19069,6 +19069,24 @@
       },
       "participe_present": "résumant",
       "participe_passe": ["résumé", "résumée", "résumés", "résumées"]
+    },
+    {
+      "id": "aveugler",
+      "infinitif": "aveugler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aveugle", "aveugles", "aveugle", "aveuglons", "aveuglez", "aveuglent"],
+        "ind.imp": ["aveuglais", "aveuglais", "aveuglait", "aveuglions", "aveugliez", "aveuglaient"],
+        "ind.ps": ["aveuglai", "aveuglas", "aveugla", "aveuglâmes", "aveuglâtes", "aveuglèrent"],
+        "ind.fut": ["aveuglerai", "aveugleras", "aveuglera", "aveuglerons", "aveuglerez", "aveugleront"],
+        "cond.pres": ["aveuglerais", "aveuglerais", "aveuglerait", "aveuglerions", "aveugleriez", "aveugleraient"],
+        "subj.pres": ["aveugle", "aveugles", "aveugle", "aveuglions", "aveugliez", "aveuglent"],
+        "subj.imp": ["aveuglasse", "aveuglasses", "aveuglât", "aveuglassions", "aveuglassiez", "aveuglassent"],
+        "imper.pres": ["aveugle", "aveuglons", "aveuglez"]
+      },
+      "participe_present": "aveuglant",
+      "participe_passe": ["aveuglé", "aveuglée", "aveuglés", "aveuglées"]
     }
   ]
 }
