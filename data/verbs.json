@@ -29326,6 +29326,24 @@
       },
       "participe_present": "échauffant",
       "participe_passe": ["échauffé", "échauffée", "échauffés", "échauffées"]
+    },
+    {
+      "id": "accoutumer",
+      "infinitif": "accoutumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accoutume", "accoutumes", "accoutume", "accoutumons", "accoutumez", "accoutument"],
+        "ind.imp": ["accoutumais", "accoutumais", "accoutumait", "accoutumions", "accoutumiez", "accoutumaient"],
+        "ind.ps": ["accoutumai", "accoutumas", "accoutuma", "accoutumâmes", "accoutumâtes", "accoutumèrent"],
+        "ind.fut": ["accoutumerai", "accoutumeras", "accoutumera", "accoutumerons", "accoutumerez", "accoutumeront"],
+        "cond.pres": ["accoutumerais", "accoutumerais", "accoutumerait", "accoutumerions", "accoutumeriez", "accoutumeraient"],
+        "subj.pres": ["accoutume", "accoutumes", "accoutume", "accoutumions", "accoutumiez", "accoutument"],
+        "subj.imp": ["accoutumasse", "accoutumasses", "accoutumât", "accoutumassions", "accoutumassiez", "accoutumassent"],
+        "imper.pres": ["accoutume", "accoutumons", "accoutumez"]
+      },
+      "participe_present": "accoutumant",
+      "participe_passe": ["accoutumé", "accoutumée", "accoutumés", "accoutumées"]
     }
   ]
 }
