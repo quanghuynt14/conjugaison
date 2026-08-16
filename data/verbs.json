@@ -11553,6 +11553,24 @@
       },
       "participe_present": "vieillissant",
       "participe_passe": ["vieilli", "vieillie", "vieillis", "vieillies"]
+    },
+    {
+      "id": "épargner",
+      "infinitif": "épargner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["épargne", "épargnes", "épargne", "épargnons", "épargnez", "épargnent"],
+        "ind.imp": ["épargnais", "épargnais", "épargnait", "épargnions", "épargniez", "épargnaient"],
+        "ind.ps": ["épargnai", "épargnas", "épargna", "épargnâmes", "épargnâtes", "épargnèrent"],
+        "ind.fut": ["épargnerai", "épargneras", "épargnera", "épargnerons", "épargnerez", "épargneront"],
+        "cond.pres": ["épargnerais", "épargnerais", "épargnerait", "épargnerions", "épargneriez", "épargneraient"],
+        "subj.pres": ["épargne", "épargnes", "épargne", "épargnions", "épargniez", "épargnent"],
+        "subj.imp": ["épargnasse", "épargnasses", "épargnât", "épargnassions", "épargnassiez", "épargnassent"],
+        "imper.pres": ["épargne", "épargnons", "épargnez"]
+      },
+      "participe_present": "épargnant",
+      "participe_passe": ["épargné", "épargnée", "épargnés", "épargnées"]
     }
   ]
 }
