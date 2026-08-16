@@ -2386,6 +2386,24 @@
       },
       "participe_present": "volant",
       "participe_passe": ["volé", "volée", "volés", "volées"]
+    },
+    {
+      "id": "découvrir",
+      "infinitif": "découvrir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["découvre", "découvres", "découvre", "découvrons", "découvrez", "découvrent"],
+        "ind.imp": ["découvrais", "découvrais", "découvrait", "découvrions", "découvriez", "découvraient"],
+        "ind.ps": ["découvris", "découvris", "découvrit", "découvrîmes", "découvrîtes", "découvrirent"],
+        "ind.fut": ["découvrirai", "découvriras", "découvrira", "découvrirons", "découvrirez", "découvriront"],
+        "cond.pres": ["découvrirais", "découvrirais", "découvrirait", "découvririons", "découvririez", "découvriraient"],
+        "subj.pres": ["découvre", "découvres", "découvre", "découvrions", "découvriez", "découvrent"],
+        "subj.imp": ["découvrisse", "découvrisses", "découvrît", "découvrissions", "découvrissiez", "découvrissent"],
+        "imper.pres": ["découvre", "découvrons", "découvrez"]
+      },
+      "participe_present": "découvrant",
+      "participe_passe": ["découvert", "découverte", "découverts", "découvertes"]
     }
   ]
 }
