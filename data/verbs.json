@@ -22415,6 +22415,24 @@
       },
       "participe_present": "débitant",
       "participe_passe": ["débité", "débitée", "débités", "débitées"]
+    },
+    {
+      "id": "pâlir",
+      "infinitif": "pâlir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pâlis", "pâlis", "pâlit", "pâlissons", "pâlissez", "pâlissent"],
+        "ind.imp": ["pâlissais", "pâlissais", "pâlissait", "pâlissions", "pâlissiez", "pâlissaient"],
+        "ind.ps": ["pâlis", "pâlis", "pâlit", "pâlîmes", "pâlîtes", "pâlirent"],
+        "ind.fut": ["pâlirai", "pâliras", "pâlira", "pâlirons", "pâlirez", "pâliront"],
+        "cond.pres": ["pâlirais", "pâlirais", "pâlirait", "pâlirions", "pâliriez", "pâliraient"],
+        "subj.pres": ["pâlisse", "pâlisses", "pâlisse", "pâlissions", "pâlissiez", "pâlissent"],
+        "subj.imp": ["pâlisse", "pâlisses", "pâlît", "pâlissions", "pâlissiez", "pâlissent"],
+        "imper.pres": ["pâlis", "pâlissons", "pâlissez"]
+      },
+      "participe_present": "pâlissant",
+      "participe_passe": ["pâli", "pâlie", "pâlis", "pâlies"]
     }
   ]
 }
