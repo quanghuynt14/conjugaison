@@ -29216,6 +29216,25 @@
       },
       "participe_present": "bégayant",
       "participe_passe": ["bégayé", "bégayée", "bégayés", "bégayées"]
+    },
+    {
+      "id": "flirter",
+      "infinitif": "flirter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « flirté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["flirte", "flirtes", "flirte", "flirtons", "flirtez", "flirtent"],
+        "ind.imp": ["flirtais", "flirtais", "flirtait", "flirtions", "flirtiez", "flirtaient"],
+        "ind.ps": ["flirtai", "flirtas", "flirta", "flirtâmes", "flirtâtes", "flirtèrent"],
+        "ind.fut": ["flirterai", "flirteras", "flirtera", "flirterons", "flirterez", "flirteront"],
+        "cond.pres": ["flirterais", "flirterais", "flirterait", "flirterions", "flirteriez", "flirteraient"],
+        "subj.pres": ["flirte", "flirtes", "flirte", "flirtions", "flirtiez", "flirtent"],
+        "subj.imp": ["flirtasse", "flirtasses", "flirtât", "flirtassions", "flirtassiez", "flirtassent"],
+        "imper.pres": ["flirte", "flirtons", "flirtez"]
+      },
+      "participe_present": "flirtant",
+      "participe_passe": ["flirté", null, null, null]
     }
   ]
 }
