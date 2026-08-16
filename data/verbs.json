@@ -23544,6 +23544,24 @@
       },
       "participe_present": "ajustant",
       "participe_passe": ["ajusté", "ajustée", "ajustés", "ajustées"]
+    },
+    {
+      "id": "marmonner",
+      "infinitif": "marmonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["marmonne", "marmonnes", "marmonne", "marmonnons", "marmonnez", "marmonnent"],
+        "ind.imp": ["marmonnais", "marmonnais", "marmonnait", "marmonnions", "marmonniez", "marmonnaient"],
+        "ind.ps": ["marmonnai", "marmonnas", "marmonna", "marmonnâmes", "marmonnâtes", "marmonnèrent"],
+        "ind.fut": ["marmonnerai", "marmonneras", "marmonnera", "marmonnerons", "marmonnerez", "marmonneront"],
+        "cond.pres": ["marmonnerais", "marmonnerais", "marmonnerait", "marmonnerions", "marmonneriez", "marmonneraient"],
+        "subj.pres": ["marmonne", "marmonnes", "marmonne", "marmonnions", "marmonniez", "marmonnent"],
+        "subj.imp": ["marmonnasse", "marmonnasses", "marmonnât", "marmonnassions", "marmonnassiez", "marmonnassent"],
+        "imper.pres": ["marmonne", "marmonnons", "marmonnez"]
+      },
+      "participe_present": "marmonnant",
+      "participe_passe": ["marmonné", "marmonnée", "marmonnés", "marmonnées"]
     }
   ]
 }
