@@ -16458,6 +16458,24 @@
       },
       "participe_present": "choquant",
       "participe_passe": ["choqué", "choquée", "choqués", "choquées"]
+    },
+    {
+      "id": "effleurer",
+      "infinitif": "effleurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["effleure", "effleures", "effleure", "effleurons", "effleurez", "effleurent"],
+        "ind.imp": ["effleurais", "effleurais", "effleurait", "effleurions", "effleuriez", "effleuraient"],
+        "ind.ps": ["effleurai", "effleuras", "effleura", "effleurâmes", "effleurâtes", "effleurèrent"],
+        "ind.fut": ["effleurerai", "effleureras", "effleurera", "effleurerons", "effleurerez", "effleureront"],
+        "cond.pres": ["effleurerais", "effleurerais", "effleurerait", "effleurerions", "effleureriez", "effleureraient"],
+        "subj.pres": ["effleure", "effleures", "effleure", "effleurions", "effleuriez", "effleurent"],
+        "subj.imp": ["effleurasse", "effleurasses", "effleurât", "effleurassions", "effleurassiez", "effleurassent"],
+        "imper.pres": ["effleure", "effleurons", "effleurez"]
+      },
+      "participe_present": "effleurant",
+      "participe_passe": ["effleuré", "effleurée", "effleurés", "effleurées"]
     }
   ]
 }
