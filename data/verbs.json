@@ -10520,6 +10520,24 @@
       },
       "participe_present": "barrant",
       "participe_passe": ["barré", "barrée", "barrés", "barrées"]
+    },
+    {
+      "id": "estimer",
+      "infinitif": "estimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["estime", "estimes", "estime", "estimons", "estimez", "estiment"],
+        "ind.imp": ["estimais", "estimais", "estimait", "estimions", "estimiez", "estimaient"],
+        "ind.ps": ["estimai", "estimas", "estima", "estimâmes", "estimâtes", "estimèrent"],
+        "ind.fut": ["estimerai", "estimeras", "estimera", "estimerons", "estimerez", "estimeront"],
+        "cond.pres": ["estimerais", "estimerais", "estimerait", "estimerions", "estimeriez", "estimeraient"],
+        "subj.pres": ["estime", "estimes", "estime", "estimions", "estimiez", "estiment"],
+        "subj.imp": ["estimasse", "estimasses", "estimât", "estimassions", "estimassiez", "estimassent"],
+        "imper.pres": ["estime", "estimons", "estimez"]
+      },
+      "participe_present": "estimant",
+      "participe_passe": ["estimé", "estimée", "estimés", "estimées"]
     }
   ]
 }
