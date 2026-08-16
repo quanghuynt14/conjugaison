@@ -21891,6 +21891,24 @@
       },
       "participe_present": "incrustant",
       "participe_passe": ["incrusté", "incrustée", "incrustés", "incrustées"]
+    },
+    {
+      "id": "plisser",
+      "infinitif": "plisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["plisse", "plisses", "plisse", "plissons", "plissez", "plissent"],
+        "ind.imp": ["plissais", "plissais", "plissait", "plissions", "plissiez", "plissaient"],
+        "ind.ps": ["plissai", "plissas", "plissa", "plissâmes", "plissâtes", "plissèrent"],
+        "ind.fut": ["plisserai", "plisseras", "plissera", "plisserons", "plisserez", "plisseront"],
+        "cond.pres": ["plisserais", "plisserais", "plisserait", "plisserions", "plisseriez", "plisseraient"],
+        "subj.pres": ["plisse", "plisses", "plisse", "plissions", "plissiez", "plissent"],
+        "subj.imp": ["plissasse", "plissasses", "plissât", "plissassions", "plissassiez", "plissassent"],
+        "imper.pres": ["plisse", "plissons", "plissez"]
+      },
+      "participe_present": "plissant",
+      "participe_passe": ["plissé", "plissée", "plissés", "plissées"]
     }
   ]
 }
