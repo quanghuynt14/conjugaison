@@ -7874,6 +7874,24 @@
       },
       "participe_present": "fouillant",
       "participe_passe": ["fouillé", "fouillée", "fouillés", "fouillées"]
+    },
+    {
+      "id": "claquer",
+      "infinitif": "claquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["claque", "claques", "claque", "claquons", "claquez", "claquent"],
+        "ind.imp": ["claquais", "claquais", "claquait", "claquions", "claquiez", "claquaient"],
+        "ind.ps": ["claquai", "claquas", "claqua", "claquâmes", "claquâtes", "claquèrent"],
+        "ind.fut": ["claquerai", "claqueras", "claquera", "claquerons", "claquerez", "claqueront"],
+        "cond.pres": ["claquerais", "claquerais", "claquerait", "claquerions", "claqueriez", "claqueraient"],
+        "subj.pres": ["claque", "claques", "claque", "claquions", "claquiez", "claquent"],
+        "subj.imp": ["claquasse", "claquasses", "claquât", "claquassions", "claquassiez", "claquassent"],
+        "imper.pres": ["claque", "claquons", "claquez"]
+      },
+      "participe_present": "claquant",
+      "participe_passe": ["claqué", "claquée", "claqués", "claquées"]
     }
   ]
 }
