@@ -31973,6 +31973,25 @@
       },
       "participe_present": "sondant",
       "participe_passe": ["sondé", "sondée", "sondés", "sondées"]
+    },
+    {
+      "id": "communier",
+      "infinitif": "communier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « communié » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["communie", "communies", "communie", "communions", "communiez", "communient"],
+        "ind.imp": ["communiais", "communiais", "communiait", "communiions", "communiiez", "communiaient"],
+        "ind.ps": ["communiai", "communias", "communia", "communiâmes", "communiâtes", "communièrent"],
+        "ind.fut": ["communierai", "communieras", "communiera", "communierons", "communierez", "communieront"],
+        "cond.pres": ["communierais", "communierais", "communierait", "communierions", "communieriez", "communieraient"],
+        "subj.pres": ["communie", "communies", "communie", "communiions", "communiiez", "communient"],
+        "subj.imp": ["communiasse", "communiasses", "communiât", "communiassions", "communiassiez", "communiassent"],
+        "imper.pres": ["communie", "communions", "communiez"]
+      },
+      "participe_present": "communiant",
+      "participe_passe": ["communié", null, null, null]
     }
   ]
 }
