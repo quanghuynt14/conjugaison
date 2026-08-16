@@ -16968,6 +16968,24 @@
       },
       "participe_present": "vexant",
       "participe_passe": ["vexé", "vexée", "vexés", "vexées"]
+    },
+    {
+      "id": "souligner",
+      "infinitif": "souligner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["souligne", "soulignes", "souligne", "soulignons", "soulignez", "soulignent"],
+        "ind.imp": ["soulignais", "soulignais", "soulignait", "soulignions", "souligniez", "soulignaient"],
+        "ind.ps": ["soulignai", "soulignas", "souligna", "soulignâmes", "soulignâtes", "soulignèrent"],
+        "ind.fut": ["soulignerai", "souligneras", "soulignera", "soulignerons", "soulignerez", "souligneront"],
+        "cond.pres": ["soulignerais", "soulignerais", "soulignerait", "soulignerions", "souligneriez", "souligneraient"],
+        "subj.pres": ["souligne", "soulignes", "souligne", "soulignions", "souligniez", "soulignent"],
+        "subj.imp": ["soulignasse", "soulignasses", "soulignât", "soulignassions", "soulignassiez", "soulignassent"],
+        "imper.pres": ["souligne", "soulignons", "soulignez"]
+      },
+      "participe_present": "soulignant",
+      "participe_passe": ["souligné", "soulignée", "soulignés", "soulignées"]
     }
   ]
 }
