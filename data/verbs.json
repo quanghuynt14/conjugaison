@@ -15898,6 +15898,24 @@
       },
       "participe_present": "gérant",
       "participe_passe": ["géré", "gérée", "gérés", "gérées"]
+    },
+    {
+      "id": "rédiger",
+      "infinitif": "rédiger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rédige", "rédiges", "rédige", "rédigeons", "rédigez", "rédigent"],
+        "ind.imp": ["rédigeais", "rédigeais", "rédigeait", "rédigions", "rédigiez", "rédigeaient"],
+        "ind.ps": ["rédigeai", "rédigeas", "rédigea", "rédigeâmes", "rédigeâtes", "rédigèrent"],
+        "ind.fut": ["rédigerai", "rédigeras", "rédigera", "rédigerons", "rédigerez", "rédigeront"],
+        "cond.pres": ["rédigerais", "rédigerais", "rédigerait", "rédigerions", "rédigeriez", "rédigeraient"],
+        "subj.pres": ["rédige", "rédiges", "rédige", "rédigions", "rédigiez", "rédigent"],
+        "subj.imp": ["rédigeasse", "rédigeasses", "rédigeât", "rédigeassions", "rédigeassiez", "rédigeassent"],
+        "imper.pres": ["rédige", "rédigeons", "rédigez"]
+      },
+      "participe_present": "rédigeant",
+      "participe_passe": ["rédigé", "rédigée", "rédigés", "rédigées"]
     }
   ]
 }
