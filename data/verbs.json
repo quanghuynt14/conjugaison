@@ -9430,6 +9430,24 @@
       },
       "participe_present": "étalant",
       "participe_passe": ["étalé", "étalée", "étalés", "étalées"]
+    },
+    {
+      "id": "détourner",
+      "infinitif": "détourner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["détourne", "détournes", "détourne", "détournons", "détournez", "détournent"],
+        "ind.imp": ["détournais", "détournais", "détournait", "détournions", "détourniez", "détournaient"],
+        "ind.ps": ["détournai", "détournas", "détourna", "détournâmes", "détournâtes", "détournèrent"],
+        "ind.fut": ["détournerai", "détourneras", "détournera", "détournerons", "détournerez", "détourneront"],
+        "cond.pres": ["détournerais", "détournerais", "détournerait", "détournerions", "détourneriez", "détourneraient"],
+        "subj.pres": ["détourne", "détournes", "détourne", "détournions", "détourniez", "détournent"],
+        "subj.imp": ["détournasse", "détournasses", "détournât", "détournassions", "détournassiez", "détournassent"],
+        "imper.pres": ["détourne", "détournons", "détournez"]
+      },
+      "participe_present": "détournant",
+      "participe_passe": ["détourné", "détournée", "détournés", "détournées"]
     }
   ]
 }
