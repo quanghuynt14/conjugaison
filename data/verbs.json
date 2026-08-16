@@ -5680,6 +5680,24 @@
       },
       "participe_present": "murmurant",
       "participe_passe": ["murmuré", "murmurée", "murmurés", "murmurées"]
+    },
+    {
+      "id": "allonger",
+      "infinitif": "allonger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["allonge", "allonges", "allonge", "allongeons", "allongez", "allongent"],
+        "ind.imp": ["allongeais", "allongeais", "allongeait", "allongions", "allongiez", "allongeaient"],
+        "ind.ps": ["allongeai", "allongeas", "allongea", "allongeâmes", "allongeâtes", "allongèrent"],
+        "ind.fut": ["allongerai", "allongeras", "allongera", "allongerons", "allongerez", "allongeront"],
+        "cond.pres": ["allongerais", "allongerais", "allongerait", "allongerions", "allongeriez", "allongeraient"],
+        "subj.pres": ["allonge", "allonges", "allonge", "allongions", "allongiez", "allongent"],
+        "subj.imp": ["allongeasse", "allongeasses", "allongeât", "allongeassions", "allongeassiez", "allongeassent"],
+        "imper.pres": ["allonge", "allongeons", "allongez"]
+      },
+      "participe_present": "allongeant",
+      "participe_passe": ["allongé", "allongée", "allongés", "allongées"]
     }
   ]
 }
