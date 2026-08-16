@@ -95,6 +95,24 @@
       },
       "participe_present": "étant",
       "participe_passe": ["été", null, null, null]
+    },
+    {
+      "id": "aller",
+      "infinitif": "aller",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["vais", "vas", "va", "allons", "allez", "vont"],
+        "ind.imp": ["allais", "allais", "allait", "allions", "alliez", "allaient"],
+        "ind.ps": ["allai", "allas", "alla", "allâmes", "allâtes", "allèrent"],
+        "ind.fut": ["irai", "iras", "ira", "irons", "irez", "iront"],
+        "cond.pres": ["irais", "irais", "irait", "irions", "iriez", "iraient"],
+        "subj.pres": ["aille", "ailles", "aille", "allions", "alliez", "aillent"],
+        "subj.imp": ["allasse", "allasses", "allât", "allassions", "allassiez", "allassent"],
+        "imper.pres": ["va", "allons", "allez"]
+      },
+      "participe_present": "allant",
+      "participe_passe": ["allé", "allée", "allés", "allées"]
     }
   ]
 }
