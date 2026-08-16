@@ -30894,6 +30894,24 @@
       },
       "participe_present": "essoufflant",
       "participe_passe": ["essoufflé", "essoufflée", "essoufflés", "essoufflées"]
+    },
+    {
+      "id": "consigner",
+      "infinitif": "consigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["consigne", "consignes", "consigne", "consignons", "consignez", "consignent"],
+        "ind.imp": ["consignais", "consignais", "consignait", "consignions", "consigniez", "consignaient"],
+        "ind.ps": ["consignai", "consignas", "consigna", "consignâmes", "consignâtes", "consignèrent"],
+        "ind.fut": ["consignerai", "consigneras", "consignera", "consignerons", "consignerez", "consigneront"],
+        "cond.pres": ["consignerais", "consignerais", "consignerait", "consignerions", "consigneriez", "consigneraient"],
+        "subj.pres": ["consigne", "consignes", "consigne", "consignions", "consigniez", "consignent"],
+        "subj.imp": ["consignasse", "consignasses", "consignât", "consignassions", "consignassiez", "consignassent"],
+        "imper.pres": ["consigne", "consignons", "consignez"]
+      },
+      "participe_present": "consignant",
+      "participe_passe": ["consigné", "consignée", "consignés", "consignées"]
     }
   ]
 }
