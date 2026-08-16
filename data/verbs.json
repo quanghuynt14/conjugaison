@@ -2478,6 +2478,24 @@
       },
       "participe_present": "préférant",
       "participe_passe": ["préféré", "préférée", "préférés", "préférées"]
+    },
+    {
+      "id": "désoler",
+      "infinitif": "désoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["désole", "désoles", "désole", "désolons", "désolez", "désolent"],
+        "ind.imp": ["désolais", "désolais", "désolait", "désolions", "désoliez", "désolaient"],
+        "ind.ps": ["désolai", "désolas", "désola", "désolâmes", "désolâtes", "désolèrent"],
+        "ind.fut": ["désolerai", "désoleras", "désolera", "désolerons", "désolerez", "désoleront"],
+        "cond.pres": ["désolerais", "désolerais", "désolerait", "désolerions", "désoleriez", "désoleraient"],
+        "subj.pres": ["désole", "désoles", "désole", "désolions", "désoliez", "désolent"],
+        "subj.imp": ["désolasse", "désolasses", "désolât", "désolassions", "désolassiez", "désolassent"],
+        "imper.pres": ["désole", "désolons", "désolez"]
+      },
+      "participe_present": "désolant",
+      "participe_passe": ["désolé", "désolée", "désolés", "désolées"]
     }
   ]
 }
