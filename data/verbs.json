@@ -22235,6 +22235,24 @@
       },
       "participe_present": "consumant",
       "participe_passe": ["consumé", "consumée", "consumés", "consumées"]
+    },
+    {
+      "id": "dédier",
+      "infinitif": "dédier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dédie", "dédies", "dédie", "dédions", "dédiez", "dédient"],
+        "ind.imp": ["dédiais", "dédiais", "dédiait", "dédiions", "dédiiez", "dédiaient"],
+        "ind.ps": ["dédiai", "dédias", "dédia", "dédiâmes", "dédiâtes", "dédièrent"],
+        "ind.fut": ["dédierai", "dédieras", "dédiera", "dédierons", "dédierez", "dédieront"],
+        "cond.pres": ["dédierais", "dédierais", "dédierait", "dédierions", "dédieriez", "dédieraient"],
+        "subj.pres": ["dédie", "dédies", "dédie", "dédiions", "dédiiez", "dédient"],
+        "subj.imp": ["dédiasse", "dédiasses", "dédiât", "dédiassions", "dédiassiez", "dédiassent"],
+        "imper.pres": ["dédie", "dédions", "dédiez"]
+      },
+      "participe_present": "dédiant",
+      "participe_passe": ["dédié", "dédiée", "dédiés", "dédiées"]
     }
   ]
 }
