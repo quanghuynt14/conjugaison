@@ -8507,6 +8507,24 @@
       },
       "participe_present": "rigolant",
       "participe_passe": ["rigolé", null, null, null]
+    },
+    {
+      "id": "recouvrir",
+      "infinitif": "recouvrir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recouvre", "recouvres", "recouvre", "recouvrons", "recouvrez", "recouvrent"],
+        "ind.imp": ["recouvrais", "recouvrais", "recouvrait", "recouvrions", "recouvriez", "recouvraient"],
+        "ind.ps": ["recouvris", "recouvris", "recouvrit", "recouvrîmes", "recouvrîtes", "recouvrirent"],
+        "ind.fut": ["recouvrirai", "recouvriras", "recouvrira", "recouvrirons", "recouvrirez", "recouvriront"],
+        "cond.pres": ["recouvrirais", "recouvrirais", "recouvrirait", "recouvririons", "recouvririez", "recouvriraient"],
+        "subj.pres": ["recouvre", "recouvres", "recouvre", "recouvrions", "recouvriez", "recouvrent"],
+        "subj.imp": ["recouvrisse", "recouvrisses", "recouvrît", "recouvrissions", "recouvrissiez", "recouvrissent"],
+        "imper.pres": ["recouvre", "recouvrons", "recouvrez"]
+      },
+      "participe_present": "recouvrant",
+      "participe_passe": ["recouvert", "recouverte", "recouverts", "recouvertes"]
     }
   ]
 }
