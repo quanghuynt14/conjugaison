@@ -29692,6 +29692,24 @@
       },
       "participe_present": "surfant",
       "participe_passe": ["surfé", null, null, null]
+    },
+    {
+      "id": "spécialiser",
+      "infinitif": "spécialiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["spécialise", "spécialises", "spécialise", "spécialisons", "spécialisez", "spécialisent"],
+        "ind.imp": ["spécialisais", "spécialisais", "spécialisait", "spécialisions", "spécialisiez", "spécialisaient"],
+        "ind.ps": ["spécialisai", "spécialisas", "spécialisa", "spécialisâmes", "spécialisâtes", "spécialisèrent"],
+        "ind.fut": ["spécialiserai", "spécialiseras", "spécialisera", "spécialiserons", "spécialiserez", "spécialiseront"],
+        "cond.pres": ["spécialiserais", "spécialiserais", "spécialiserait", "spécialiserions", "spécialiseriez", "spécialiseraient"],
+        "subj.pres": ["spécialise", "spécialises", "spécialise", "spécialisions", "spécialisiez", "spécialisent"],
+        "subj.imp": ["spécialisasse", "spécialisasses", "spécialisât", "spécialisassions", "spécialisassiez", "spécialisassent"],
+        "imper.pres": ["spécialise", "spécialisons", "spécialisez"]
+      },
+      "participe_present": "spécialisant",
+      "participe_passe": ["spécialisé", "spécialisée", "spécialisés", "spécialisées"]
     }
   ]
 }
