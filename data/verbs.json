@@ -31663,6 +31663,24 @@
       },
       "participe_present": "chancelant",
       "participe_passe": ["chancelé", null, null, null]
+    },
+    {
+      "id": "soûler",
+      "infinitif": "soûler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["soûle", "soûles", "soûle", "soûlons", "soûlez", "soûlent"],
+        "ind.imp": ["soûlais", "soûlais", "soûlait", "soûlions", "soûliez", "soûlaient"],
+        "ind.ps": ["soûlai", "soûlas", "soûla", "soûlâmes", "soûlâtes", "soûlèrent"],
+        "ind.fut": ["soûlerai", "soûleras", "soûlera", "soûlerons", "soûlerez", "soûleront"],
+        "cond.pres": ["soûlerais", "soûlerais", "soûlerait", "soûlerions", "soûleriez", "soûleraient"],
+        "subj.pres": ["soûle", "soûles", "soûle", "soûlions", "soûliez", "soûlent"],
+        "subj.imp": ["soûlasse", "soûlasses", "soûlât", "soûlassions", "soûlassiez", "soûlassent"],
+        "imper.pres": ["soûle", "soûlons", "soûlez"]
+      },
+      "participe_present": "soûlant",
+      "participe_passe": ["soûlé", "soûlée", "soûlés", "soûlées"]
     }
   ]
 }
