@@ -27742,6 +27742,24 @@
       },
       "participe_present": "appropriant",
       "participe_passe": ["approprié", "appropriée", "appropriés", "appropriées"]
+    },
+    {
+      "id": "éponger",
+      "infinitif": "éponger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éponge", "éponges", "éponge", "épongeons", "épongez", "épongent"],
+        "ind.imp": ["épongeais", "épongeais", "épongeait", "épongions", "épongiez", "épongeaient"],
+        "ind.ps": ["épongeai", "épongeas", "épongea", "épongeâmes", "épongeâtes", "épongèrent"],
+        "ind.fut": ["épongerai", "épongeras", "épongera", "épongerons", "épongerez", "épongeront"],
+        "cond.pres": ["épongerais", "épongerais", "épongerait", "épongerions", "épongeriez", "épongeraient"],
+        "subj.pres": ["éponge", "éponges", "éponge", "épongions", "épongiez", "épongent"],
+        "subj.imp": ["épongeasse", "épongeasses", "épongeât", "épongeassions", "épongeassiez", "épongeassent"],
+        "imper.pres": ["éponge", "épongeons", "épongez"]
+      },
+      "participe_present": "épongeant",
+      "participe_passe": ["épongé", "épongée", "épongés", "épongées"]
     }
   ]
 }
