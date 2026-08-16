@@ -34708,6 +34708,25 @@
       },
       "participe_present": "décroissant",
       "participe_passe": ["décru", null, null, null]
+    },
+    {
+      "id": "tourbillonner",
+      "infinitif": "tourbillonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « tourbillonné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["tourbillonne", "tourbillonnes", "tourbillonne", "tourbillonnons", "tourbillonnez", "tourbillonnent"],
+        "ind.imp": ["tourbillonnais", "tourbillonnais", "tourbillonnait", "tourbillonnions", "tourbillonniez", "tourbillonnaient"],
+        "ind.ps": ["tourbillonnai", "tourbillonnas", "tourbillonna", "tourbillonnâmes", "tourbillonnâtes", "tourbillonnèrent"],
+        "ind.fut": ["tourbillonnerai", "tourbillonneras", "tourbillonnera", "tourbillonnerons", "tourbillonnerez", "tourbillonneront"],
+        "cond.pres": ["tourbillonnerais", "tourbillonnerais", "tourbillonnerait", "tourbillonnerions", "tourbillonneriez", "tourbillonneraient"],
+        "subj.pres": ["tourbillonne", "tourbillonnes", "tourbillonne", "tourbillonnions", "tourbillonniez", "tourbillonnent"],
+        "subj.imp": ["tourbillonnasse", "tourbillonnasses", "tourbillonnât", "tourbillonnassions", "tourbillonnassiez", "tourbillonnassent"],
+        "imper.pres": ["tourbillonne", "tourbillonnons", "tourbillonnez"]
+      },
+      "participe_present": "tourbillonnant",
+      "participe_passe": ["tourbillonné", null, null, null]
     }
   ]
 }
