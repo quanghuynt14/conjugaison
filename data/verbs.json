@@ -33449,6 +33449,24 @@
       },
       "participe_present": "reluquant",
       "participe_passe": ["reluqué", "reluquée", "reluqués", "reluquées"]
+    },
+    {
+      "id": "actionner",
+      "infinitif": "actionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["actionne", "actionnes", "actionne", "actionnons", "actionnez", "actionnent"],
+        "ind.imp": ["actionnais", "actionnais", "actionnait", "actionnions", "actionniez", "actionnaient"],
+        "ind.ps": ["actionnai", "actionnas", "actionna", "actionnâmes", "actionnâtes", "actionnèrent"],
+        "ind.fut": ["actionnerai", "actionneras", "actionnera", "actionnerons", "actionnerez", "actionneront"],
+        "cond.pres": ["actionnerais", "actionnerais", "actionnerait", "actionnerions", "actionneriez", "actionneraient"],
+        "subj.pres": ["actionne", "actionnes", "actionne", "actionnions", "actionniez", "actionnent"],
+        "subj.imp": ["actionnasse", "actionnasses", "actionnât", "actionnassions", "actionnassiez", "actionnassent"],
+        "imper.pres": ["actionne", "actionnons", "actionnez"]
+      },
+      "participe_present": "actionnant",
+      "participe_passe": ["actionné", "actionnée", "actionnés", "actionnées"]
     }
   ]
 }
