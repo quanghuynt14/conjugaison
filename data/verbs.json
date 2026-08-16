@@ -2025,6 +2025,24 @@
       },
       "participe_present": "poussant",
       "participe_passe": ["poussé", "poussée", "poussés", "poussées"]
+    },
+    {
+      "id": "valoir",
+      "infinitif": "valoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vaux", "vaux", "vaut", "valons", "valez", "valent"],
+        "ind.imp": ["valais", "valais", "valait", "valions", "valiez", "valaient"],
+        "ind.ps": ["valus", "valus", "valut", "valûmes", "valûtes", "valurent"],
+        "ind.fut": ["vaudrai", "vaudras", "vaudra", "vaudrons", "vaudrez", "vaudront"],
+        "cond.pres": ["vaudrais", "vaudrais", "vaudrait", "vaudrions", "vaudriez", "vaudraient"],
+        "subj.pres": ["vaille", "vailles", "vaille", "valions", "valiez", "vaillent"],
+        "subj.imp": ["valusse", "valusses", "valût", "valussions", "valussiez", "valussent"],
+        "imper.pres": ["vaux", "valons", "valez"]
+      },
+      "participe_present": "valant",
+      "participe_passe": ["valu", "value", "valus", "values"]
     }
   ]
 }
