@@ -22835,6 +22835,25 @@
       },
       "participe_present": "trouant",
       "participe_passe": ["troué", "trouée", "troués", "trouées"]
+    },
+    {
+      "id": "rasseoir",
+      "infinitif": "rasseoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Trois conjugaisons coexistent, comme pour asseoir : « je rassieds » et « je rassois » au présent, « je rassiérai », « je rasseyerai » ou « je rassoirai » au futur.",
+      "tenses": {
+        "ind.pres": [["rassieds", "rassois"], ["rassieds", "rassois"], ["rassied", "rassoit"], ["rasseyons", "rassoyons"], ["rasseyez", "rassoyez"], ["rasseyent", "rassoient"]],
+        "ind.imp": [["rasseyais", "rassoyais"], ["rasseyais", "rassoyais"], ["rasseyait", "rassoyait"], ["rasseyions", "rassoyions"], ["rasseyiez", "rassoyiez"], ["rasseyaient", "rassoyaient"]],
+        "ind.ps": ["rassis", "rassis", "rassit", "rassîmes", "rassîtes", "rassirent"],
+        "ind.fut": [["rassiérai", "rasseyerai", "rassoirai"], ["rassiéras", "rasseyeras", "rassoiras"], ["rassiéra", "rasseyera", "rassoira"], ["rassiérons", "rasseyerons", "rassoirons"], ["rassiérez", "rasseyerez", "rassoirez"], ["rassiéront", "rasseyeront", "rassoiront"]],
+        "cond.pres": [["rassiérais", "rasseyerais", "rassoirais"], ["rassiérais", "rasseyerais", "rassoirais"], ["rassiérait", "rasseyerait", "rassoirait"], ["rassiérions", "rasseyerions", "rassoirions"], ["rassiériez", "rasseyeriez", "rassoiriez"], ["rassiéraient", "rasseyeraient", "rassoiraient"]],
+        "subj.pres": [["rasseye", "rassoie"], ["rasseyes", "rassoies"], ["rasseye", "rassoie"], ["rasseyions", "rassoyions"], ["rasseyiez", "rassoyiez"], ["rasseyent", "rassoient"]],
+        "subj.imp": ["rassisse", "rassisses", "rassît", "rassissions", "rassissiez", "rassissent"],
+        "imper.pres": [["rassieds", "rassois"], ["rasseyons", "rassoyons"], ["rasseyez", "rassoyez"]]
+      },
+      "participe_present": ["rasseyant", "rassoyant"],
+      "participe_passe": ["rassis", "rassise", "rassis", "rassises"]
     }
   ]
 }
