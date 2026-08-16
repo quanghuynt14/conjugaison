@@ -29655,6 +29655,24 @@
       },
       "participe_present": "avortant",
       "participe_passe": ["avorté", "avortée", "avortés", "avortées"]
+    },
+    {
+      "id": "assimiler",
+      "infinitif": "assimiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assimile", "assimiles", "assimile", "assimilons", "assimilez", "assimilent"],
+        "ind.imp": ["assimilais", "assimilais", "assimilait", "assimilions", "assimiliez", "assimilaient"],
+        "ind.ps": ["assimilai", "assimilas", "assimila", "assimilâmes", "assimilâtes", "assimilèrent"],
+        "ind.fut": ["assimilerai", "assimileras", "assimilera", "assimilerons", "assimilerez", "assimileront"],
+        "cond.pres": ["assimilerais", "assimilerais", "assimilerait", "assimilerions", "assimileriez", "assimileraient"],
+        "subj.pres": ["assimile", "assimiles", "assimile", "assimilions", "assimiliez", "assimilent"],
+        "subj.imp": ["assimilasse", "assimilasses", "assimilât", "assimilassions", "assimilassiez", "assimilassent"],
+        "imper.pres": ["assimile", "assimilons", "assimilez"]
+      },
+      "participe_present": "assimilant",
+      "participe_passe": ["assimilé", "assimilée", "assimilés", "assimilées"]
     }
   ]
 }
