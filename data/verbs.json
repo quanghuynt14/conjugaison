@@ -22578,6 +22578,25 @@
       },
       "participe_present": "tricotant",
       "participe_passe": ["tricoté", "tricotée", "tricotés", "tricotées"]
+    },
+    {
+      "id": "avérer",
+      "infinitif": "avérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’avérerai » ou « j’avèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["avère", "avères", "avère", "avérons", "avérez", "avèrent"],
+        "ind.imp": ["avérais", "avérais", "avérait", "avérions", "avériez", "avéraient"],
+        "ind.ps": ["avérai", "avéras", "avéra", "avérâmes", "avérâtes", "avérèrent"],
+        "ind.fut": [["avérerai", "avèrerai"], ["avéreras", "avèreras"], ["avérera", "avèrera"], ["avérerons", "avèrerons"], ["avérerez", "avèrerez"], ["avéreront", "avèreront"]],
+        "cond.pres": [["avérerais", "avèrerais"], ["avérerais", "avèrerais"], ["avérerait", "avèrerait"], ["avérerions", "avèrerions"], ["avéreriez", "avèreriez"], ["avéreraient", "avèreraient"]],
+        "subj.pres": ["avère", "avères", "avère", "avérions", "avériez", "avèrent"],
+        "subj.imp": ["avérasse", "avérasses", "avérât", "avérassions", "avérassiez", "avérassent"],
+        "imper.pres": ["avère", "avérons", "avérez"]
+      },
+      "participe_present": "avérant",
+      "participe_passe": ["avéré", "avérée", "avérés", "avérées"]
     }
   ]
 }
