@@ -9701,6 +9701,25 @@
       },
       "participe_present": "effrayant",
       "participe_passe": ["effrayé", "effrayée", "effrayés", "effrayées"]
+    },
+    {
+      "id": "fonctionner",
+      "infinitif": "fonctionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « fonctionné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["fonctionne", "fonctionnes", "fonctionne", "fonctionnons", "fonctionnez", "fonctionnent"],
+        "ind.imp": ["fonctionnais", "fonctionnais", "fonctionnait", "fonctionnions", "fonctionniez", "fonctionnaient"],
+        "ind.ps": ["fonctionnai", "fonctionnas", "fonctionna", "fonctionnâmes", "fonctionnâtes", "fonctionnèrent"],
+        "ind.fut": ["fonctionnerai", "fonctionneras", "fonctionnera", "fonctionnerons", "fonctionnerez", "fonctionneront"],
+        "cond.pres": ["fonctionnerais", "fonctionnerais", "fonctionnerait", "fonctionnerions", "fonctionneriez", "fonctionneraient"],
+        "subj.pres": ["fonctionne", "fonctionnes", "fonctionne", "fonctionnions", "fonctionniez", "fonctionnent"],
+        "subj.imp": ["fonctionnasse", "fonctionnasses", "fonctionnât", "fonctionnassions", "fonctionnassiez", "fonctionnassent"],
+        "imper.pres": ["fonctionne", "fonctionnons", "fonctionnez"]
+      },
+      "participe_present": "fonctionnant",
+      "participe_passe": ["fonctionné", null, null, null]
     }
   ]
 }
