@@ -1698,6 +1698,24 @@
       },
       "participe_present": "gagnant",
       "participe_passe": ["gagné", "gagnée", "gagnés", "gagnées"]
+    },
+    {
+      "id": "reprendre",
+      "infinitif": "reprendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reprends", "reprends", "reprend", "reprenons", "reprenez", "reprennent"],
+        "ind.imp": ["reprenais", "reprenais", "reprenait", "reprenions", "repreniez", "reprenaient"],
+        "ind.ps": ["repris", "repris", "reprit", "reprîmes", "reprîtes", "reprirent"],
+        "ind.fut": ["reprendrai", "reprendras", "reprendra", "reprendrons", "reprendrez", "reprendront"],
+        "cond.pres": ["reprendrais", "reprendrais", "reprendrait", "reprendrions", "reprendriez", "reprendraient"],
+        "subj.pres": ["reprenne", "reprennes", "reprenne", "reprenions", "repreniez", "reprennent"],
+        "subj.imp": ["reprisse", "reprisses", "reprît", "reprissions", "reprissiez", "reprissent"],
+        "imper.pres": ["reprends", "reprenons", "reprenez"]
+      },
+      "participe_present": "reprenant",
+      "participe_passe": ["repris", "reprise", "repris", "reprises"]
     }
   ]
 }
