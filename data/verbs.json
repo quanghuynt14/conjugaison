@@ -7095,6 +7095,24 @@
       },
       "participe_present": "prétendant",
       "participe_passe": ["prétendu", "prétendue", "prétendus", "prétendues"]
+    },
+    {
+      "id": "transformer",
+      "infinitif": "transformer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["transforme", "transformes", "transforme", "transformons", "transformez", "transforment"],
+        "ind.imp": ["transformais", "transformais", "transformait", "transformions", "transformiez", "transformaient"],
+        "ind.ps": ["transformai", "transformas", "transforma", "transformâmes", "transformâtes", "transformèrent"],
+        "ind.fut": ["transformerai", "transformeras", "transformera", "transformerons", "transformerez", "transformeront"],
+        "cond.pres": ["transformerais", "transformerais", "transformerait", "transformerions", "transformeriez", "transformeraient"],
+        "subj.pres": ["transforme", "transformes", "transforme", "transformions", "transformiez", "transforment"],
+        "subj.imp": ["transformasse", "transformasses", "transformât", "transformassions", "transformassiez", "transformassent"],
+        "imper.pres": ["transforme", "transformons", "transformez"]
+      },
+      "participe_present": "transformant",
+      "participe_passe": ["transformé", "transformée", "transformés", "transformées"]
     }
   ]
 }
