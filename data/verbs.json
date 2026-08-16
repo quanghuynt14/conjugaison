@@ -35038,6 +35038,26 @@
       },
       "participe_present": "cabrant",
       "participe_passe": ["cabré", "cabrée", "cabrés", "cabrées"]
+    },
+    {
+      "id": "dénuer",
+      "infinitif": "dénuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me dénue » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["dénue", "dénues", "dénue", "dénuons", "dénuez", "dénuent"],
+        "ind.imp": ["dénuais", "dénuais", "dénuait", "dénuions", "dénuiez", "dénuaient"],
+        "ind.ps": ["dénuai", "dénuas", "dénua", "dénuâmes", "dénuâtes", "dénuèrent"],
+        "ind.fut": ["dénuerai", "dénueras", "dénuera", "dénuerons", "dénuerez", "dénueront"],
+        "cond.pres": ["dénuerais", "dénuerais", "dénuerait", "dénuerions", "dénueriez", "dénueraient"],
+        "subj.pres": ["dénue", "dénues", "dénue", "dénuions", "dénuiez", "dénuent"],
+        "subj.imp": ["dénuasse", "dénuasses", "dénuât", "dénuassions", "dénuassiez", "dénuassent"],
+        "imper.pres": ["dénue", "dénuons", "dénuez"]
+      },
+      "participe_present": "dénuant",
+      "participe_passe": ["dénué", "dénuée", "dénués", "dénuées"]
     }
   ]
 }
