@@ -22451,6 +22451,24 @@
       },
       "participe_present": "tutoyant",
       "participe_passe": ["tutoyé", "tutoyée", "tutoyés", "tutoyées"]
+    },
+    {
+      "id": "kidnapper",
+      "infinitif": "kidnapper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["kidnappe", "kidnappes", "kidnappe", "kidnappons", "kidnappez", "kidnappent"],
+        "ind.imp": ["kidnappais", "kidnappais", "kidnappait", "kidnappions", "kidnappiez", "kidnappaient"],
+        "ind.ps": ["kidnappai", "kidnappas", "kidnappa", "kidnappâmes", "kidnappâtes", "kidnappèrent"],
+        "ind.fut": ["kidnapperai", "kidnapperas", "kidnappera", "kidnapperons", "kidnapperez", "kidnapperont"],
+        "cond.pres": ["kidnapperais", "kidnapperais", "kidnapperait", "kidnapperions", "kidnapperiez", "kidnapperaient"],
+        "subj.pres": ["kidnappe", "kidnappes", "kidnappe", "kidnappions", "kidnappiez", "kidnappent"],
+        "subj.imp": ["kidnappasse", "kidnappasses", "kidnappât", "kidnappassions", "kidnappassiez", "kidnappassent"],
+        "imper.pres": ["kidnappe", "kidnappons", "kidnappez"]
+      },
+      "participe_present": "kidnappant",
+      "participe_passe": ["kidnappé", "kidnappée", "kidnappés", "kidnappées"]
     }
   ]
 }
