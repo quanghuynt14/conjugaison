@@ -28158,6 +28158,26 @@
       },
       "participe_present": "fléchissant",
       "participe_passe": ["fléchi", "fléchie", "fléchis", "fléchies"]
+    },
+    {
+      "id": "méprendre",
+      "infinitif": "méprendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me méprends » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["méprends", "méprends", "méprend", "méprenons", "méprenez", "méprennent"],
+        "ind.imp": ["méprenais", "méprenais", "méprenait", "méprenions", "mépreniez", "méprenaient"],
+        "ind.ps": ["mépris", "mépris", "méprit", "méprîmes", "méprîtes", "méprirent"],
+        "ind.fut": ["méprendrai", "méprendras", "méprendra", "méprendrons", "méprendrez", "méprendront"],
+        "cond.pres": ["méprendrais", "méprendrais", "méprendrait", "méprendrions", "méprendriez", "méprendraient"],
+        "subj.pres": ["méprenne", "méprennes", "méprenne", "méprenions", "mépreniez", "méprennent"],
+        "subj.imp": ["méprisse", "méprisses", "méprît", "méprissions", "méprissiez", "méprissent"],
+        "imper.pres": ["méprends", "méprenons", "méprenez"]
+      },
+      "participe_present": "méprenant",
+      "participe_passe": ["mépris", "méprise", "mépris", "méprises"]
     }
   ]
 }
