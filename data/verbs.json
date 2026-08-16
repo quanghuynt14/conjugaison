@@ -150,6 +150,24 @@
       },
       "participe_present": "pouvant",
       "participe_passe": ["pu", null, null, null]
+    },
+    {
+      "id": "vouloir",
+      "infinitif": "vouloir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["veux", "veux", "veut", "voulons", "voulez", "veulent"],
+        "ind.imp": ["voulais", "voulais", "voulait", "voulions", "vouliez", "voulaient"],
+        "ind.ps": ["voulus", "voulus", "voulut", "voulûmes", "voulûtes", "voulurent"],
+        "ind.fut": ["voudrai", "voudras", "voudra", "voudrons", "voudrez", "voudront"],
+        "cond.pres": ["voudrais", "voudrais", "voudrait", "voudrions", "voudriez", "voudraient"],
+        "subj.pres": ["veuille", "veuilles", "veuille", "voulions", "vouliez", "veuillent"],
+        "subj.imp": ["voulusse", "voulusses", "voulût", "voulussions", "voulussiez", "voulussent"],
+        "imper.pres": ["veuille", "veuillons", "veuillez"]
+      },
+      "participe_present": "voulant",
+      "participe_passe": ["voulu", "voulue", "voulus", "voulues"]
     }
   ]
 }
