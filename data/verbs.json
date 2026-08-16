@@ -12989,6 +12989,26 @@
       },
       "participe_present": "défaisant",
       "participe_passe": ["défait", "défaite", "défaits", "défaites"]
+    },
+    {
+      "id": "évanouir",
+      "infinitif": "évanouir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’évanouis » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["évanouis", "évanouis", "évanouit", "évanouissons", "évanouissez", "évanouissent"],
+        "ind.imp": ["évanouissais", "évanouissais", "évanouissait", "évanouissions", "évanouissiez", "évanouissaient"],
+        "ind.ps": ["évanouis", "évanouis", "évanouit", "évanouîmes", "évanouîtes", "évanouirent"],
+        "ind.fut": ["évanouirai", "évanouiras", "évanouira", "évanouirons", "évanouirez", "évanouiront"],
+        "cond.pres": ["évanouirais", "évanouirais", "évanouirait", "évanouirions", "évanouiriez", "évanouiraient"],
+        "subj.pres": ["évanouisse", "évanouisses", "évanouisse", "évanouissions", "évanouissiez", "évanouissent"],
+        "subj.imp": ["évanouisse", "évanouisses", "évanouît", "évanouissions", "évanouissiez", "évanouissent"],
+        "imper.pres": ["évanouis", "évanouissons", "évanouissez"]
+      },
+      "participe_present": "évanouissant",
+      "participe_passe": ["évanoui", "évanouie", "évanouis", "évanouies"]
     }
   ]
 }
