@@ -6823,6 +6823,24 @@
       },
       "participe_present": "insistant",
       "participe_passe": ["insisté", null, null, null]
+    },
+    {
+      "id": "nommer",
+      "infinitif": "nommer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["nomme", "nommes", "nomme", "nommons", "nommez", "nomment"],
+        "ind.imp": ["nommais", "nommais", "nommait", "nommions", "nommiez", "nommaient"],
+        "ind.ps": ["nommai", "nommas", "nomma", "nommâmes", "nommâtes", "nommèrent"],
+        "ind.fut": ["nommerai", "nommeras", "nommera", "nommerons", "nommerez", "nommeront"],
+        "cond.pres": ["nommerais", "nommerais", "nommerait", "nommerions", "nommeriez", "nommeraient"],
+        "subj.pres": ["nomme", "nommes", "nomme", "nommions", "nommiez", "nomment"],
+        "subj.imp": ["nommasse", "nommasses", "nommât", "nommassions", "nommassiez", "nommassent"],
+        "imper.pres": ["nomme", "nommons", "nommez"]
+      },
+      "participe_present": "nommant",
+      "participe_passe": ["nommé", "nommée", "nommés", "nommées"]
     }
   ]
 }
