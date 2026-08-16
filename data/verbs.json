@@ -8272,6 +8272,24 @@
       },
       "participe_present": "détachant",
       "participe_passe": ["détaché", "détachée", "détachés", "détachées"]
+    },
+    {
+      "id": "évoquer",
+      "infinitif": "évoquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["évoque", "évoques", "évoque", "évoquons", "évoquez", "évoquent"],
+        "ind.imp": ["évoquais", "évoquais", "évoquait", "évoquions", "évoquiez", "évoquaient"],
+        "ind.ps": ["évoquai", "évoquas", "évoqua", "évoquâmes", "évoquâtes", "évoquèrent"],
+        "ind.fut": ["évoquerai", "évoqueras", "évoquera", "évoquerons", "évoquerez", "évoqueront"],
+        "cond.pres": ["évoquerais", "évoquerais", "évoquerait", "évoquerions", "évoqueriez", "évoqueraient"],
+        "subj.pres": ["évoque", "évoques", "évoque", "évoquions", "évoquiez", "évoquent"],
+        "subj.imp": ["évoquasse", "évoquasses", "évoquât", "évoquassions", "évoquassiez", "évoquassent"],
+        "imper.pres": ["évoque", "évoquons", "évoquez"]
+      },
+      "participe_present": "évoquant",
+      "participe_passe": ["évoqué", "évoquée", "évoqués", "évoquées"]
     }
   ]
 }
