@@ -1587,6 +1587,25 @@
       },
       "participe_present": "descendant",
       "participe_passe": ["descendu", "descendue", "descendus", "descendues"]
+    },
+    {
+      "id": "retourner",
+      "infinitif": "retourner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis retourné ». Avec un complément d'objet direct, avoir : « j'ai retourné la crêpe ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["retourne", "retournes", "retourne", "retournons", "retournez", "retournent"],
+        "ind.imp": ["retournais", "retournais", "retournait", "retournions", "retourniez", "retournaient"],
+        "ind.ps": ["retournai", "retournas", "retourna", "retournâmes", "retournâtes", "retournèrent"],
+        "ind.fut": ["retournerai", "retourneras", "retournera", "retournerons", "retournerez", "retourneront"],
+        "cond.pres": ["retournerais", "retournerais", "retournerait", "retournerions", "retourneriez", "retourneraient"],
+        "subj.pres": ["retourne", "retournes", "retourne", "retournions", "retourniez", "retournent"],
+        "subj.imp": ["retournasse", "retournasses", "retournât", "retournassions", "retournassiez", "retournassent"],
+        "imper.pres": ["retourne", "retournons", "retournez"]
+      },
+      "participe_present": "retournant",
+      "participe_passe": ["retourné", "retournée", "retournés", "retournées"]
     }
   ]
 }
