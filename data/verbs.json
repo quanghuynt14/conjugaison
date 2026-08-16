@@ -9538,6 +9538,24 @@
       },
       "participe_present": "gâchant",
       "participe_passe": ["gâché", "gâchée", "gâchés", "gâchées"]
+    },
+    {
+      "id": "constater",
+      "infinitif": "constater",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["constate", "constates", "constate", "constatons", "constatez", "constatent"],
+        "ind.imp": ["constatais", "constatais", "constatait", "constations", "constatiez", "constataient"],
+        "ind.ps": ["constatai", "constatas", "constata", "constatâmes", "constatâtes", "constatèrent"],
+        "ind.fut": ["constaterai", "constateras", "constatera", "constaterons", "constaterez", "constateront"],
+        "cond.pres": ["constaterais", "constaterais", "constaterait", "constaterions", "constateriez", "constateraient"],
+        "subj.pres": ["constate", "constates", "constate", "constations", "constatiez", "constatent"],
+        "subj.imp": ["constatasse", "constatasses", "constatât", "constatassions", "constatassiez", "constatassent"],
+        "imper.pres": ["constate", "constatons", "constatez"]
+      },
+      "participe_present": "constatant",
+      "participe_passe": ["constaté", "constatée", "constatés", "constatées"]
     }
   ]
 }
