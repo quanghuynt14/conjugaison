@@ -274,16 +274,38 @@ def cells_for(verb, aux, key, kind, source):
             for i, forms in enumerate(raw)]
 
 
+def personnes_du_verbe(verb):
+    """Les personnes que le verbe connaît, tous temps simples confondus.
+
+    Un temps composé se construit sur l'auxiliaire, pas sur le temps simple qui
+    lui correspond : « nous avons frit » se dit, alors que « nous frisons » ne
+    se dit pas, et « j'eus extrait » se dit alors qu'extraire n'a pas de passé
+    simple. La bonne question n'est donc pas « cette case simple existe-t-elle »
+    mais « le verbe se conjugue-t-il à cette personne » — falloir non, frire oui.
+    """
+    simples = [source for _, tenses in PLAN for key, _, kind, source in tenses
+               if kind == "simple" and not key.startswith("imper.")]
+    return {i for i in range(6)
+            if any(variants(verb["tenses"][s][i]) for s in simples)}
+
+
 def raw_cells_for(verb, aux, key, source):
     """Les cases composées avant le sujet : « ai vécu », « sommes montés »."""
-    if key.startswith("imper.") and verb.get("pronominal"):
-        return [[] for _ in verb["tenses"][source]]
+    if key.startswith("imper."):
+        if verb.get("pronominal"):
+            return [[] for _ in verb["tenses"][source]]
+        # L'impératif passé suit l'impératif présent case par case : sans
+        # « closons », pas d'« ayons clos ».
+        possible = [bool(variants(c)) for c in verb["tenses"][source]]
+    else:
+        connues = personnes_du_verbe(verb)
+        possible = [i in connues for i in range(6)]
+
     participes = participes_accordes(verb, key)
     return [
         [f"{a} {p}" for a in variants(aux["tenses"][source][i])
-         for p in participes[i]]
-        if variants(cell) else []
-        for i, cell in enumerate(verb["tenses"][source])
+         for p in participes[i]] if possible[i] else []
+        for i in range(len(verb["tenses"][source]))
     ]
 
 
