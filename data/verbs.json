@@ -32082,6 +32082,24 @@
       },
       "participe_present": "maculant",
       "participe_passe": ["maculé", "maculée", "maculés", "maculées"]
+    },
+    {
+      "id": "profiler",
+      "infinitif": "profiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["profile", "profiles", "profile", "profilons", "profilez", "profilent"],
+        "ind.imp": ["profilais", "profilais", "profilait", "profilions", "profiliez", "profilaient"],
+        "ind.ps": ["profilai", "profilas", "profila", "profilâmes", "profilâtes", "profilèrent"],
+        "ind.fut": ["profilerai", "profileras", "profilera", "profilerons", "profilerez", "profileront"],
+        "cond.pres": ["profilerais", "profilerais", "profilerait", "profilerions", "profileriez", "profileraient"],
+        "subj.pres": ["profile", "profiles", "profile", "profilions", "profiliez", "profilent"],
+        "subj.imp": ["profilasse", "profilasses", "profilât", "profilassions", "profilassiez", "profilassent"],
+        "imper.pres": ["profile", "profilons", "profilez"]
+      },
+      "participe_present": "profilant",
+      "participe_passe": ["profilé", "profilée", "profilés", "profilées"]
     }
   ]
 }
