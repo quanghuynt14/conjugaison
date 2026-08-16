@@ -13827,6 +13827,24 @@
       },
       "participe_present": "repliant",
       "participe_passe": ["replié", "repliée", "repliés", "repliées"]
+    },
+    {
+      "id": "cueillir",
+      "infinitif": "cueillir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cueille", "cueilles", "cueille", "cueillons", "cueillez", "cueillent"],
+        "ind.imp": ["cueillais", "cueillais", "cueillait", "cueillions", "cueilliez", "cueillaient"],
+        "ind.ps": ["cueillis", "cueillis", "cueillit", "cueillîmes", "cueillîtes", "cueillirent"],
+        "ind.fut": ["cueillerai", "cueilleras", "cueillera", "cueillerons", "cueillerez", "cueilleront"],
+        "cond.pres": ["cueillerais", "cueillerais", "cueillerait", "cueillerions", "cueilleriez", "cueilleraient"],
+        "subj.pres": ["cueille", "cueilles", "cueille", "cueillions", "cueilliez", "cueillent"],
+        "subj.imp": ["cueillisse", "cueillisses", "cueillît", "cueillissions", "cueillissiez", "cueillissent"],
+        "imper.pres": ["cueille", "cueillons", "cueillez"]
+      },
+      "participe_present": "cueillant",
+      "participe_passe": ["cueilli", "cueillie", "cueillis", "cueillies"]
     }
   ]
 }
