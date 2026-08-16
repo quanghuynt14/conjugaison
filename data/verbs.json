@@ -21240,6 +21240,24 @@
       },
       "participe_present": "dévalant",
       "participe_passe": ["dévalé", "dévalée", "dévalés", "dévalées"]
+    },
+    {
+      "id": "aggraver",
+      "infinitif": "aggraver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aggrave", "aggraves", "aggrave", "aggravons", "aggravez", "aggravent"],
+        "ind.imp": ["aggravais", "aggravais", "aggravait", "aggravions", "aggraviez", "aggravaient"],
+        "ind.ps": ["aggravai", "aggravas", "aggrava", "aggravâmes", "aggravâtes", "aggravèrent"],
+        "ind.fut": ["aggraverai", "aggraveras", "aggravera", "aggraverons", "aggraverez", "aggraveront"],
+        "cond.pres": ["aggraverais", "aggraverais", "aggraverait", "aggraverions", "aggraveriez", "aggraveraient"],
+        "subj.pres": ["aggrave", "aggraves", "aggrave", "aggravions", "aggraviez", "aggravent"],
+        "subj.imp": ["aggravasse", "aggravasses", "aggravât", "aggravassions", "aggravassiez", "aggravassent"],
+        "imper.pres": ["aggrave", "aggravons", "aggravez"]
+      },
+      "participe_present": "aggravant",
+      "participe_passe": ["aggravé", "aggravée", "aggravés", "aggravées"]
     }
   ]
 }
