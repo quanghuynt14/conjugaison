@@ -21710,6 +21710,24 @@
       },
       "participe_present": "expulsant",
       "participe_passe": ["expulsé", "expulsée", "expulsés", "expulsées"]
+    },
+    {
+      "id": "garnir",
+      "infinitif": "garnir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["garnis", "garnis", "garnit", "garnissons", "garnissez", "garnissent"],
+        "ind.imp": ["garnissais", "garnissais", "garnissait", "garnissions", "garnissiez", "garnissaient"],
+        "ind.ps": ["garnis", "garnis", "garnit", "garnîmes", "garnîtes", "garnirent"],
+        "ind.fut": ["garnirai", "garniras", "garnira", "garnirons", "garnirez", "garniront"],
+        "cond.pres": ["garnirais", "garnirais", "garnirait", "garnirions", "garniriez", "garniraient"],
+        "subj.pres": ["garnisse", "garnisses", "garnisse", "garnissions", "garnissiez", "garnissent"],
+        "subj.imp": ["garnisse", "garnisses", "garnît", "garnissions", "garnissiez", "garnissent"],
+        "imper.pres": ["garnis", "garnissons", "garnissez"]
+      },
+      "participe_present": "garnissant",
+      "participe_passe": ["garni", "garnie", "garnis", "garnies"]
     }
   ]
 }
