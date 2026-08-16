@@ -23490,6 +23490,24 @@
       },
       "participe_present": "digérant",
       "participe_passe": ["digéré", "digérée", "digérés", "digérées"]
+    },
+    {
+      "id": "présider",
+      "infinitif": "présider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["préside", "présides", "préside", "présidons", "présidez", "président"],
+        "ind.imp": ["présidais", "présidais", "présidait", "présidions", "présidiez", "présidaient"],
+        "ind.ps": ["présidai", "présidas", "présida", "présidâmes", "présidâtes", "présidèrent"],
+        "ind.fut": ["présiderai", "présideras", "présidera", "présiderons", "présiderez", "présideront"],
+        "cond.pres": ["présiderais", "présiderais", "présiderait", "présiderions", "présideriez", "présideraient"],
+        "subj.pres": ["préside", "présides", "préside", "présidions", "présidiez", "président"],
+        "subj.imp": ["présidasse", "présidasses", "présidât", "présidassions", "présidassiez", "présidassent"],
+        "imper.pres": ["préside", "présidons", "présidez"]
+      },
+      "participe_present": "présidant",
+      "participe_passe": ["présidé", "présidée", "présidés", "présidées"]
     }
   ]
 }
