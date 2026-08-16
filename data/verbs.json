@@ -33120,6 +33120,24 @@
       },
       "participe_present": "renfermant",
       "participe_passe": ["renfermé", "renfermée", "renfermés", "renfermées"]
+    },
+    {
+      "id": "patiner",
+      "infinitif": "patiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["patine", "patines", "patine", "patinons", "patinez", "patinent"],
+        "ind.imp": ["patinais", "patinais", "patinait", "patinions", "patiniez", "patinaient"],
+        "ind.ps": ["patinai", "patinas", "patina", "patinâmes", "patinâtes", "patinèrent"],
+        "ind.fut": ["patinerai", "patineras", "patinera", "patinerons", "patinerez", "patineront"],
+        "cond.pres": ["patinerais", "patinerais", "patinerait", "patinerions", "patineriez", "patineraient"],
+        "subj.pres": ["patine", "patines", "patine", "patinions", "patiniez", "patinent"],
+        "subj.imp": ["patinasse", "patinasses", "patinât", "patinassions", "patinassiez", "patinassent"],
+        "imper.pres": ["patine", "patinons", "patinez"]
+      },
+      "participe_present": "patinant",
+      "participe_passe": ["patiné", "patinée", "patinés", "patinées"]
     }
   ]
 }
