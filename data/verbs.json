@@ -10081,6 +10081,24 @@
       },
       "participe_present": "tardant",
       "participe_passe": ["tardé", null, null, null]
+    },
+    {
+      "id": "exécuter",
+      "infinitif": "exécuter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exécute", "exécutes", "exécute", "exécutons", "exécutez", "exécutent"],
+        "ind.imp": ["exécutais", "exécutais", "exécutait", "exécutions", "exécutiez", "exécutaient"],
+        "ind.ps": ["exécutai", "exécutas", "exécuta", "exécutâmes", "exécutâtes", "exécutèrent"],
+        "ind.fut": ["exécuterai", "exécuteras", "exécutera", "exécuterons", "exécuterez", "exécuteront"],
+        "cond.pres": ["exécuterais", "exécuterais", "exécuterait", "exécuterions", "exécuteriez", "exécuteraient"],
+        "subj.pres": ["exécute", "exécutes", "exécute", "exécutions", "exécutiez", "exécutent"],
+        "subj.imp": ["exécutasse", "exécutasses", "exécutât", "exécutassions", "exécutassiez", "exécutassent"],
+        "imper.pres": ["exécute", "exécutons", "exécutez"]
+      },
+      "participe_present": "exécutant",
+      "participe_passe": ["exécuté", "exécutée", "exécutés", "exécutées"]
     }
   ]
 }
