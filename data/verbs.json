@@ -26698,6 +26698,25 @@
       },
       "participe_present": null,
       "participe_passe": ["chu", "chue", "chus", "chues"]
+    },
+    {
+      "id": "palpiter",
+      "infinitif": "palpiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « palpité » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["palpite", "palpites", "palpite", "palpitons", "palpitez", "palpitent"],
+        "ind.imp": ["palpitais", "palpitais", "palpitait", "palpitions", "palpitiez", "palpitaient"],
+        "ind.ps": ["palpitai", "palpitas", "palpita", "palpitâmes", "palpitâtes", "palpitèrent"],
+        "ind.fut": ["palpiterai", "palpiteras", "palpitera", "palpiterons", "palpiterez", "palpiteront"],
+        "cond.pres": ["palpiterais", "palpiterais", "palpiterait", "palpiterions", "palpiteriez", "palpiteraient"],
+        "subj.pres": ["palpite", "palpites", "palpite", "palpitions", "palpitiez", "palpitent"],
+        "subj.imp": ["palpitasse", "palpitasses", "palpitât", "palpitassions", "palpitassiez", "palpitassent"],
+        "imper.pres": ["palpite", "palpitons", "palpitez"]
+      },
+      "participe_present": "palpitant",
+      "participe_passe": ["palpité", null, null, null]
     }
   ]
 }
