@@ -34487,6 +34487,24 @@
       },
       "participe_present": "optant",
       "participe_passe": ["opté", null, null, null]
+    },
+    {
+      "id": "ériger",
+      "infinitif": "ériger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["érige", "ériges", "érige", "érigeons", "érigez", "érigent"],
+        "ind.imp": ["érigeais", "érigeais", "érigeait", "érigions", "érigiez", "érigeaient"],
+        "ind.ps": ["érigeai", "érigeas", "érigea", "érigeâmes", "érigeâtes", "érigèrent"],
+        "ind.fut": ["érigerai", "érigeras", "érigera", "érigerons", "érigerez", "érigeront"],
+        "cond.pres": ["érigerais", "érigerais", "érigerait", "érigerions", "érigeriez", "érigeraient"],
+        "subj.pres": ["érige", "ériges", "érige", "érigions", "érigiez", "érigent"],
+        "subj.imp": ["érigeasse", "érigeasses", "érigeât", "érigeassions", "érigeassiez", "érigeassent"],
+        "imper.pres": ["érige", "érigeons", "érigez"]
+      },
+      "participe_present": "érigeant",
+      "participe_passe": ["érigé", "érigée", "érigés", "érigées"]
     }
   ]
 }
