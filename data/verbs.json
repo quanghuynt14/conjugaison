@@ -9882,6 +9882,24 @@
       },
       "participe_present": "démarrant",
       "participe_passe": ["démarré", "démarrée", "démarrés", "démarrées"]
+    },
+    {
+      "id": "répandre",
+      "infinitif": "répandre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["répands", "répands", "répand", "répandons", "répandez", "répandent"],
+        "ind.imp": ["répandais", "répandais", "répandait", "répandions", "répandiez", "répandaient"],
+        "ind.ps": ["répandis", "répandis", "répandit", "répandîmes", "répandîtes", "répandirent"],
+        "ind.fut": ["répandrai", "répandras", "répandra", "répandrons", "répandrez", "répandront"],
+        "cond.pres": ["répandrais", "répandrais", "répandrait", "répandrions", "répandriez", "répandraient"],
+        "subj.pres": ["répande", "répandes", "répande", "répandions", "répandiez", "répandent"],
+        "subj.imp": ["répandisse", "répandisses", "répandît", "répandissions", "répandissiez", "répandissent"],
+        "imper.pres": ["répands", "répandons", "répandez"]
+      },
+      "participe_present": "répandant",
+      "participe_passe": ["répandu", "répandue", "répandus", "répandues"]
     }
   ]
 }
