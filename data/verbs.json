@@ -1826,6 +1826,24 @@
       },
       "participe_present": "espérant",
       "participe_passe": ["espéré", "espérée", "espérés", "espérées"]
+    },
+    {
+      "id": "fermer",
+      "infinitif": "fermer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ferme", "fermes", "ferme", "fermons", "fermez", "ferment"],
+        "ind.imp": ["fermais", "fermais", "fermait", "fermions", "fermiez", "fermaient"],
+        "ind.ps": ["fermai", "fermas", "ferma", "fermâmes", "fermâtes", "fermèrent"],
+        "ind.fut": ["fermerai", "fermeras", "fermera", "fermerons", "fermerez", "fermeront"],
+        "cond.pres": ["fermerais", "fermerais", "fermerait", "fermerions", "fermeriez", "fermeraient"],
+        "subj.pres": ["ferme", "fermes", "ferme", "fermions", "fermiez", "ferment"],
+        "subj.imp": ["fermasse", "fermasses", "fermât", "fermassions", "fermassiez", "fermassent"],
+        "imper.pres": ["ferme", "fermons", "fermez"]
+      },
+      "participe_present": "fermant",
+      "participe_passe": ["fermé", "fermée", "fermés", "fermées"]
     }
   ]
 }
