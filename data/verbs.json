@@ -3383,6 +3383,24 @@
       },
       "participe_present": "souffrant",
       "participe_passe": ["souffert", "soufferte", "soufferts", "souffertes"]
+    },
+    {
+      "id": "installer",
+      "infinitif": "installer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["installe", "installes", "installe", "installons", "installez", "installent"],
+        "ind.imp": ["installais", "installais", "installait", "installions", "installiez", "installaient"],
+        "ind.ps": ["installai", "installas", "installa", "installâmes", "installâtes", "installèrent"],
+        "ind.fut": ["installerai", "installeras", "installera", "installerons", "installerez", "installeront"],
+        "cond.pres": ["installerais", "installerais", "installerait", "installerions", "installeriez", "installeraient"],
+        "subj.pres": ["installe", "installes", "installe", "installions", "installiez", "installent"],
+        "subj.imp": ["installasse", "installasses", "installât", "installassions", "installassiez", "installassent"],
+        "imper.pres": ["installe", "installons", "installez"]
+      },
+      "participe_present": "installant",
+      "participe_passe": ["installé", "installée", "installés", "installées"]
     }
   ]
 }
