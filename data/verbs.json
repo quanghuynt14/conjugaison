@@ -76,6 +76,25 @@
       },
       "participe_present": "voyant",
       "participe_passe": ["vu", "vue", "vus", "vues"]
+    },
+    {
+      "id": "être",
+      "infinitif": "être",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "L'autre auxiliaire. Il sert aux temps composés des verbes de mouvement et de tous les pronominaux, et à toute la voix passive. Son participe passé « été » est invariable : rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["suis", "es", "est", "sommes", "êtes", "sont"],
+        "ind.imp": ["étais", "étais", "était", "étions", "étiez", "étaient"],
+        "ind.ps": ["fus", "fus", "fut", "fûmes", "fûtes", "furent"],
+        "ind.fut": ["serai", "seras", "sera", "serons", "serez", "seront"],
+        "cond.pres": ["serais", "serais", "serait", "serions", "seriez", "seraient"],
+        "subj.pres": ["sois", "sois", "soit", "soyons", "soyez", "soient"],
+        "subj.imp": ["fusse", "fusses", "fût", "fussions", "fussiez", "fussent"],
+        "imper.pres": ["sois", "soyons", "soyez"]
+      },
+      "participe_present": "étant",
+      "participe_passe": ["été", null, null, null]
     }
   ]
 }
