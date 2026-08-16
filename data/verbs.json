@@ -3890,6 +3890,24 @@
       },
       "participe_present": "emportant",
       "participe_passe": ["emporté", "emportée", "emportés", "emportées"]
+    },
+    {
+      "id": "proposer",
+      "infinitif": "proposer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["propose", "proposes", "propose", "proposons", "proposez", "proposent"],
+        "ind.imp": ["proposais", "proposais", "proposait", "proposions", "proposiez", "proposaient"],
+        "ind.ps": ["proposai", "proposas", "proposa", "proposâmes", "proposâtes", "proposèrent"],
+        "ind.fut": ["proposerai", "proposeras", "proposera", "proposerons", "proposerez", "proposeront"],
+        "cond.pres": ["proposerais", "proposerais", "proposerait", "proposerions", "proposeriez", "proposeraient"],
+        "subj.pres": ["propose", "proposes", "propose", "proposions", "proposiez", "proposent"],
+        "subj.imp": ["proposasse", "proposasses", "proposât", "proposassions", "proposassiez", "proposassent"],
+        "imper.pres": ["propose", "proposons", "proposez"]
+      },
+      "participe_present": "proposant",
+      "participe_passe": ["proposé", "proposée", "proposés", "proposées"]
     }
   ]
 }
