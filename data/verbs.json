@@ -26407,6 +26407,24 @@
       },
       "participe_present": "relançant",
       "participe_passe": ["relancé", "relancée", "relancés", "relancées"]
+    },
+    {
+      "id": "initier",
+      "infinitif": "initier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["initie", "inities", "initie", "initions", "initiez", "initient"],
+        "ind.imp": ["initiais", "initiais", "initiait", "initiions", "initiiez", "initiaient"],
+        "ind.ps": ["initiai", "initias", "initia", "initiâmes", "initiâtes", "initièrent"],
+        "ind.fut": ["initierai", "initieras", "initiera", "initierons", "initierez", "initieront"],
+        "cond.pres": ["initierais", "initierais", "initierait", "initierions", "initieriez", "initieraient"],
+        "subj.pres": ["initie", "inities", "initie", "initiions", "initiiez", "initient"],
+        "subj.imp": ["initiasse", "initiasses", "initiât", "initiassions", "initiassiez", "initiassent"],
+        "imper.pres": ["initie", "initions", "initiez"]
+      },
+      "participe_present": "initiant",
+      "participe_passe": ["initié", "initiée", "initiés", "initiées"]
     }
   ]
 }
