@@ -31113,6 +31113,24 @@
       },
       "participe_present": "divertissant",
       "participe_passe": ["diverti", "divertie", "divertis", "diverties"]
+    },
+    {
+      "id": "enduire",
+      "infinitif": "enduire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enduis", "enduis", "enduit", "enduisons", "enduisez", "enduisent"],
+        "ind.imp": ["enduisais", "enduisais", "enduisait", "enduisions", "enduisiez", "enduisaient"],
+        "ind.ps": ["enduisis", "enduisis", "enduisit", "enduisîmes", "enduisîtes", "enduisirent"],
+        "ind.fut": ["enduirai", "enduiras", "enduira", "enduirons", "enduirez", "enduiront"],
+        "cond.pres": ["enduirais", "enduirais", "enduirait", "enduirions", "enduiriez", "enduiraient"],
+        "subj.pres": ["enduise", "enduises", "enduise", "enduisions", "enduisiez", "enduisent"],
+        "subj.imp": ["enduisisse", "enduisisses", "enduisît", "enduisissions", "enduisissiez", "enduisissent"],
+        "imper.pres": ["enduis", "enduisons", "enduisez"]
+      },
+      "participe_present": "enduisant",
+      "participe_passe": ["enduit", "enduite", "enduits", "enduites"]
     }
   ]
 }
