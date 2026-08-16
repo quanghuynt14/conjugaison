@@ -32173,6 +32173,25 @@
       },
       "participe_present": "trayant",
       "participe_passe": ["trait", "traite", "traits", "traites"]
+    },
+    {
+      "id": "chuter",
+      "infinitif": "chuter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « chuté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["chute", "chutes", "chute", "chutons", "chutez", "chutent"],
+        "ind.imp": ["chutais", "chutais", "chutait", "chutions", "chutiez", "chutaient"],
+        "ind.ps": ["chutai", "chutas", "chuta", "chutâmes", "chutâtes", "chutèrent"],
+        "ind.fut": ["chuterai", "chuteras", "chutera", "chuterons", "chuterez", "chuteront"],
+        "cond.pres": ["chuterais", "chuterais", "chuterait", "chuterions", "chuteriez", "chuteraient"],
+        "subj.pres": ["chute", "chutes", "chute", "chutions", "chutiez", "chutent"],
+        "subj.imp": ["chutasse", "chutasses", "chutât", "chutassions", "chutassiez", "chutassent"],
+        "imper.pres": ["chute", "chutons", "chutez"]
+      },
+      "participe_present": "chutant",
+      "participe_passe": ["chuté", null, null, null]
     }
   ]
 }
