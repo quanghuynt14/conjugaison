@@ -20473,6 +20473,24 @@
       },
       "participe_present": "incarnant",
       "participe_passe": ["incarné", "incarnée", "incarnés", "incarnées"]
+    },
+    {
+      "id": "déchaîner",
+      "infinitif": "déchaîner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déchaîne", "déchaînes", "déchaîne", "déchaînons", "déchaînez", "déchaînent"],
+        "ind.imp": ["déchaînais", "déchaînais", "déchaînait", "déchaînions", "déchaîniez", "déchaînaient"],
+        "ind.ps": ["déchaînai", "déchaînas", "déchaîna", "déchaînâmes", "déchaînâtes", "déchaînèrent"],
+        "ind.fut": ["déchaînerai", "déchaîneras", "déchaînera", "déchaînerons", "déchaînerez", "déchaîneront"],
+        "cond.pres": ["déchaînerais", "déchaînerais", "déchaînerait", "déchaînerions", "déchaîneriez", "déchaîneraient"],
+        "subj.pres": ["déchaîne", "déchaînes", "déchaîne", "déchaînions", "déchaîniez", "déchaînent"],
+        "subj.imp": ["déchaînasse", "déchaînasses", "déchaînât", "déchaînassions", "déchaînassiez", "déchaînassent"],
+        "imper.pres": ["déchaîne", "déchaînons", "déchaînez"]
+      },
+      "participe_present": "déchaînant",
+      "participe_passe": ["déchaîné", "déchaînée", "déchaînés", "déchaînées"]
     }
   ]
 }
