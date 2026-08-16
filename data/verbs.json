@@ -13353,6 +13353,24 @@
       },
       "participe_present": "développant",
       "participe_passe": ["développé", "développée", "développés", "développées"]
+    },
+    {
+      "id": "affecter",
+      "infinitif": "affecter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affecte", "affectes", "affecte", "affectons", "affectez", "affectent"],
+        "ind.imp": ["affectais", "affectais", "affectait", "affections", "affectiez", "affectaient"],
+        "ind.ps": ["affectai", "affectas", "affecta", "affectâmes", "affectâtes", "affectèrent"],
+        "ind.fut": ["affecterai", "affecteras", "affectera", "affecterons", "affecterez", "affecteront"],
+        "cond.pres": ["affecterais", "affecterais", "affecterait", "affecterions", "affecteriez", "affecteraient"],
+        "subj.pres": ["affecte", "affectes", "affecte", "affections", "affectiez", "affectent"],
+        "subj.imp": ["affectasse", "affectasses", "affectât", "affectassions", "affectassiez", "affectassent"],
+        "imper.pres": ["affecte", "affectons", "affectez"]
+      },
+      "participe_present": "affectant",
+      "participe_passe": ["affecté", "affectée", "affectés", "affectées"]
     }
   ]
 }
