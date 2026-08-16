@@ -10173,6 +10173,24 @@
       },
       "participe_present": "vengeant",
       "participe_passe": ["vengé", "vengée", "vengés", "vengées"]
+    },
+    {
+      "id": "punir",
+      "infinitif": "punir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["punis", "punis", "punit", "punissons", "punissez", "punissent"],
+        "ind.imp": ["punissais", "punissais", "punissait", "punissions", "punissiez", "punissaient"],
+        "ind.ps": ["punis", "punis", "punit", "punîmes", "punîtes", "punirent"],
+        "ind.fut": ["punirai", "puniras", "punira", "punirons", "punirez", "puniront"],
+        "cond.pres": ["punirais", "punirais", "punirait", "punirions", "puniriez", "puniraient"],
+        "subj.pres": ["punisse", "punisses", "punisse", "punissions", "punissiez", "punissent"],
+        "subj.imp": ["punisse", "punisses", "punît", "punissions", "punissiez", "punissent"],
+        "imper.pres": ["punis", "punissons", "punissez"]
+      },
+      "participe_present": "punissant",
+      "participe_passe": ["puni", "punie", "punis", "punies"]
     }
   ]
 }
