@@ -7277,6 +7277,24 @@
       },
       "participe_present": "pendant",
       "participe_passe": ["pendu", "pendue", "pendus", "pendues"]
+    },
+    {
+      "id": "ravir",
+      "infinitif": "ravir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ravis", "ravis", "ravit", "ravissons", "ravissez", "ravissent"],
+        "ind.imp": ["ravissais", "ravissais", "ravissait", "ravissions", "ravissiez", "ravissaient"],
+        "ind.ps": ["ravis", "ravis", "ravit", "ravîmes", "ravîtes", "ravirent"],
+        "ind.fut": ["ravirai", "raviras", "ravira", "ravirons", "ravirez", "raviront"],
+        "cond.pres": ["ravirais", "ravirais", "ravirait", "ravirions", "raviriez", "raviraient"],
+        "subj.pres": ["ravisse", "ravisses", "ravisse", "ravissions", "ravissiez", "ravissent"],
+        "subj.imp": ["ravisse", "ravisses", "ravît", "ravissions", "ravissiez", "ravissent"],
+        "imper.pres": ["ravis", "ravissons", "ravissez"]
+      },
+      "participe_present": "ravissant",
+      "participe_passe": ["ravi", "ravie", "ravis", "ravies"]
     }
   ]
 }
