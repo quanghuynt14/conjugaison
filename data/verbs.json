@@ -7241,6 +7241,24 @@
       },
       "participe_present": "étudiant",
       "participe_passe": ["étudié", "étudiée", "étudiés", "étudiées"]
+    },
+    {
+      "id": "avaler",
+      "infinitif": "avaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["avale", "avales", "avale", "avalons", "avalez", "avalent"],
+        "ind.imp": ["avalais", "avalais", "avalait", "avalions", "avaliez", "avalaient"],
+        "ind.ps": ["avalai", "avalas", "avala", "avalâmes", "avalâtes", "avalèrent"],
+        "ind.fut": ["avalerai", "avaleras", "avalera", "avalerons", "avalerez", "avaleront"],
+        "cond.pres": ["avalerais", "avalerais", "avalerait", "avalerions", "avaleriez", "avaleraient"],
+        "subj.pres": ["avale", "avales", "avale", "avalions", "avaliez", "avalent"],
+        "subj.imp": ["avalasse", "avalasses", "avalât", "avalassions", "avalassiez", "avalassent"],
+        "imper.pres": ["avale", "avalons", "avalez"]
+      },
+      "participe_present": "avalant",
+      "participe_passe": ["avalé", "avalée", "avalés", "avalées"]
     }
   ]
 }
