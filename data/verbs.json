@@ -25060,6 +25060,24 @@
       },
       "participe_present": "revendant",
       "participe_passe": ["revendu", "revendue", "revendus", "revendues"]
+    },
+    {
+      "id": "recruter",
+      "infinitif": "recruter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recrute", "recrutes", "recrute", "recrutons", "recrutez", "recrutent"],
+        "ind.imp": ["recrutais", "recrutais", "recrutait", "recrutions", "recrutiez", "recrutaient"],
+        "ind.ps": ["recrutai", "recrutas", "recruta", "recrutâmes", "recrutâtes", "recrutèrent"],
+        "ind.fut": ["recruterai", "recruteras", "recrutera", "recruterons", "recruterez", "recruteront"],
+        "cond.pres": ["recruterais", "recruterais", "recruterait", "recruterions", "recruteriez", "recruteraient"],
+        "subj.pres": ["recrute", "recrutes", "recrute", "recrutions", "recrutiez", "recrutent"],
+        "subj.imp": ["recrutasse", "recrutasses", "recrutât", "recrutassions", "recrutassiez", "recrutassent"],
+        "imper.pres": ["recrute", "recrutons", "recrutez"]
+      },
+      "participe_present": "recrutant",
+      "participe_passe": ["recruté", "recrutée", "recrutés", "recrutées"]
     }
   ]
 }
