@@ -10209,6 +10209,24 @@
       },
       "participe_present": "bloquant",
       "participe_passe": ["bloqué", "bloquée", "bloqués", "bloquées"]
+    },
+    {
+      "id": "composer",
+      "infinitif": "composer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["compose", "composes", "compose", "composons", "composez", "composent"],
+        "ind.imp": ["composais", "composais", "composait", "composions", "composiez", "composaient"],
+        "ind.ps": ["composai", "composas", "composa", "composâmes", "composâtes", "composèrent"],
+        "ind.fut": ["composerai", "composeras", "composera", "composerons", "composerez", "composeront"],
+        "cond.pres": ["composerais", "composerais", "composerait", "composerions", "composeriez", "composeraient"],
+        "subj.pres": ["compose", "composes", "compose", "composions", "composiez", "composent"],
+        "subj.imp": ["composasse", "composasses", "composât", "composassions", "composassiez", "composassent"],
+        "imper.pres": ["compose", "composons", "composez"]
+      },
+      "participe_present": "composant",
+      "participe_passe": ["composé", "composée", "composés", "composées"]
     }
   ]
 }
