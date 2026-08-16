@@ -34560,6 +34560,24 @@
       },
       "participe_present": "enfourchant",
       "participe_passe": ["enfourché", "enfourchée", "enfourchés", "enfourchées"]
+    },
+    {
+      "id": "bomber",
+      "infinitif": "bomber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bombe", "bombes", "bombe", "bombons", "bombez", "bombent"],
+        "ind.imp": ["bombais", "bombais", "bombait", "bombions", "bombiez", "bombaient"],
+        "ind.ps": ["bombai", "bombas", "bomba", "bombâmes", "bombâtes", "bombèrent"],
+        "ind.fut": ["bomberai", "bomberas", "bombera", "bomberons", "bomberez", "bomberont"],
+        "cond.pres": ["bomberais", "bomberais", "bomberait", "bomberions", "bomberiez", "bomberaient"],
+        "subj.pres": ["bombe", "bombes", "bombe", "bombions", "bombiez", "bombent"],
+        "subj.imp": ["bombasse", "bombasses", "bombât", "bombassions", "bombassiez", "bombassent"],
+        "imper.pres": ["bombe", "bombons", "bombez"]
+      },
+      "participe_present": "bombant",
+      "participe_passe": ["bombé", "bombée", "bombés", "bombées"]
     }
   ]
 }
