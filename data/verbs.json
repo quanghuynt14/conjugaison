@@ -28761,6 +28761,24 @@
       },
       "participe_present": "ruminant",
       "participe_passe": ["ruminé", "ruminée", "ruminés", "ruminées"]
+    },
+    {
+      "id": "colorer",
+      "infinitif": "colorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["colore", "colores", "colore", "colorons", "colorez", "colorent"],
+        "ind.imp": ["colorais", "colorais", "colorait", "colorions", "coloriez", "coloraient"],
+        "ind.ps": ["colorai", "coloras", "colora", "colorâmes", "colorâtes", "colorèrent"],
+        "ind.fut": ["colorerai", "coloreras", "colorera", "colorerons", "colorerez", "coloreront"],
+        "cond.pres": ["colorerais", "colorerais", "colorerait", "colorerions", "coloreriez", "coloreraient"],
+        "subj.pres": ["colore", "colores", "colore", "colorions", "coloriez", "colorent"],
+        "subj.imp": ["colorasse", "colorasses", "colorât", "colorassions", "colorassiez", "colorassent"],
+        "imper.pres": ["colore", "colorons", "colorez"]
+      },
+      "participe_present": "colorant",
+      "participe_passe": ["coloré", "colorée", "colorés", "colorées"]
     }
   ]
 }
