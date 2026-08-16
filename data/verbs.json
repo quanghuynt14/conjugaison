@@ -29583,6 +29583,24 @@
       },
       "participe_present": "pompant",
       "participe_passe": ["pompé", "pompée", "pompés", "pompées"]
+    },
+    {
+      "id": "surcharger",
+      "infinitif": "surcharger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["surcharge", "surcharges", "surcharge", "surchargeons", "surchargez", "surchargent"],
+        "ind.imp": ["surchargeais", "surchargeais", "surchargeait", "surchargions", "surchargiez", "surchargeaient"],
+        "ind.ps": ["surchargeai", "surchargeas", "surchargea", "surchargeâmes", "surchargeâtes", "surchargèrent"],
+        "ind.fut": ["surchargerai", "surchargeras", "surchargera", "surchargerons", "surchargerez", "surchargeront"],
+        "cond.pres": ["surchargerais", "surchargerais", "surchargerait", "surchargerions", "surchargeriez", "surchargeraient"],
+        "subj.pres": ["surcharge", "surcharges", "surcharge", "surchargions", "surchargiez", "surchargent"],
+        "subj.imp": ["surchargeasse", "surchargeasses", "surchargeât", "surchargeassions", "surchargeassiez", "surchargeassent"],
+        "imper.pres": ["surcharge", "surchargeons", "surchargez"]
+      },
+      "participe_present": "surchargeant",
+      "participe_passe": ["surchargé", "surchargée", "surchargés", "surchargées"]
     }
   ]
 }
