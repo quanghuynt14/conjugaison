@@ -26281,6 +26281,24 @@
       },
       "participe_present": "pétrissant",
       "participe_passe": ["pétri", "pétrie", "pétris", "pétries"]
+    },
+    {
+      "id": "verrouiller",
+      "infinitif": "verrouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["verrouille", "verrouilles", "verrouille", "verrouillons", "verrouillez", "verrouillent"],
+        "ind.imp": ["verrouillais", "verrouillais", "verrouillait", "verrouillions", "verrouilliez", "verrouillaient"],
+        "ind.ps": ["verrouillai", "verrouillas", "verrouilla", "verrouillâmes", "verrouillâtes", "verrouillèrent"],
+        "ind.fut": ["verrouillerai", "verrouilleras", "verrouillera", "verrouillerons", "verrouillerez", "verrouilleront"],
+        "cond.pres": ["verrouillerais", "verrouillerais", "verrouillerait", "verrouillerions", "verrouilleriez", "verrouilleraient"],
+        "subj.pres": ["verrouille", "verrouilles", "verrouille", "verrouillions", "verrouilliez", "verrouillent"],
+        "subj.imp": ["verrouillasse", "verrouillasses", "verrouillât", "verrouillassions", "verrouillassiez", "verrouillassent"],
+        "imper.pres": ["verrouille", "verrouillons", "verrouillez"]
+      },
+      "participe_present": "verrouillant",
+      "participe_passe": ["verrouillé", "verrouillée", "verrouillés", "verrouillées"]
     }
   ]
 }
