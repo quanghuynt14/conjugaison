@@ -22127,6 +22127,24 @@
       },
       "participe_present": "charriant",
       "participe_passe": ["charrié", "charriée", "charriés", "charriées"]
+    },
+    {
+      "id": "munir",
+      "infinitif": "munir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["munis", "munis", "munit", "munissons", "munissez", "munissent"],
+        "ind.imp": ["munissais", "munissais", "munissait", "munissions", "munissiez", "munissaient"],
+        "ind.ps": ["munis", "munis", "munit", "munîmes", "munîtes", "munirent"],
+        "ind.fut": ["munirai", "muniras", "munira", "munirons", "munirez", "muniront"],
+        "cond.pres": ["munirais", "munirais", "munirait", "munirions", "muniriez", "muniraient"],
+        "subj.pres": ["munisse", "munisses", "munisse", "munissions", "munissiez", "munissent"],
+        "subj.imp": ["munisse", "munisses", "munît", "munissions", "munissiez", "munissent"],
+        "imper.pres": ["munis", "munissons", "munissez"]
+      },
+      "participe_present": "munissant",
+      "participe_passe": ["muni", "munie", "munis", "munies"]
     }
   ]
 }
