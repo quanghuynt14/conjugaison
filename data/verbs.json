@@ -33940,6 +33940,24 @@
       },
       "participe_present": "objectant",
       "participe_passe": ["objecté", "objectée", "objectés", "objectées"]
+    },
+    {
+      "id": "sangler",
+      "infinitif": "sangler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sangle", "sangles", "sangle", "sanglons", "sanglez", "sanglent"],
+        "ind.imp": ["sanglais", "sanglais", "sanglait", "sanglions", "sangliez", "sanglaient"],
+        "ind.ps": ["sanglai", "sanglas", "sangla", "sanglâmes", "sanglâtes", "sanglèrent"],
+        "ind.fut": ["sanglerai", "sangleras", "sanglera", "sanglerons", "sanglerez", "sangleront"],
+        "cond.pres": ["sanglerais", "sanglerais", "sanglerait", "sanglerions", "sangleriez", "sangleraient"],
+        "subj.pres": ["sangle", "sangles", "sangle", "sanglions", "sangliez", "sanglent"],
+        "subj.imp": ["sanglasse", "sanglasses", "sanglât", "sanglassions", "sanglassiez", "sanglassent"],
+        "imper.pres": ["sangle", "sanglons", "sanglez"]
+      },
+      "participe_present": "sanglant",
+      "participe_passe": ["sanglé", "sanglée", "sanglés", "sanglées"]
     }
   ]
 }
