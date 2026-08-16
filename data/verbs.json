@@ -18959,6 +18959,25 @@
       },
       "participe_present": "questionnant",
       "participe_passe": ["questionné", "questionnée", "questionnés", "questionnées"]
+    },
+    {
+      "id": "baver",
+      "infinitif": "baver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « bavé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["bave", "baves", "bave", "bavons", "bavez", "bavent"],
+        "ind.imp": ["bavais", "bavais", "bavait", "bavions", "baviez", "bavaient"],
+        "ind.ps": ["bavai", "bavas", "bava", "bavâmes", "bavâtes", "bavèrent"],
+        "ind.fut": ["baverai", "baveras", "bavera", "baverons", "baverez", "baveront"],
+        "cond.pres": ["baverais", "baverais", "baverait", "baverions", "baveriez", "baveraient"],
+        "subj.pres": ["bave", "baves", "bave", "bavions", "baviez", "bavent"],
+        "subj.imp": ["bavasse", "bavasses", "bavât", "bavassions", "bavassiez", "bavassent"],
+        "imper.pres": ["bave", "bavons", "bavez"]
+      },
+      "participe_present": "bavant",
+      "participe_passe": ["bavé", null, null, null]
     }
   ]
 }
