@@ -33703,6 +33703,24 @@
       },
       "participe_present": "klaxonnant",
       "participe_passe": ["klaxonné", "klaxonnée", "klaxonnés", "klaxonnées"]
+    },
+    {
+      "id": "diluer",
+      "infinitif": "diluer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dilue", "dilues", "dilue", "diluons", "diluez", "diluent"],
+        "ind.imp": ["diluais", "diluais", "diluait", "diluions", "diluiez", "diluaient"],
+        "ind.ps": ["diluai", "diluas", "dilua", "diluâmes", "diluâtes", "diluèrent"],
+        "ind.fut": ["diluerai", "dilueras", "diluera", "diluerons", "diluerez", "dilueront"],
+        "cond.pres": ["diluerais", "diluerais", "diluerait", "diluerions", "dilueriez", "dilueraient"],
+        "subj.pres": ["dilue", "dilues", "dilue", "diluions", "diluiez", "diluent"],
+        "subj.imp": ["diluasse", "diluasses", "diluât", "diluassions", "diluassiez", "diluassent"],
+        "imper.pres": ["dilue", "diluons", "diluez"]
+      },
+      "participe_present": "diluant",
+      "participe_passe": ["dilué", "diluée", "dilués", "diluées"]
     }
   ]
 }
