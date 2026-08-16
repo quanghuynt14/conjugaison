@@ -24733,6 +24733,24 @@
       },
       "participe_present": "inversant",
       "participe_passe": ["inversé", "inversée", "inversés", "inversées"]
+    },
+    {
+      "id": "racler",
+      "infinitif": "racler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["racle", "racles", "racle", "raclons", "raclez", "raclent"],
+        "ind.imp": ["raclais", "raclais", "raclait", "raclions", "racliez", "raclaient"],
+        "ind.ps": ["raclai", "raclas", "racla", "raclâmes", "raclâtes", "raclèrent"],
+        "ind.fut": ["raclerai", "racleras", "raclera", "raclerons", "raclerez", "racleront"],
+        "cond.pres": ["raclerais", "raclerais", "raclerait", "raclerions", "racleriez", "racleraient"],
+        "subj.pres": ["racle", "racles", "racle", "raclions", "racliez", "raclent"],
+        "subj.imp": ["raclasse", "raclasses", "raclât", "raclassions", "raclassiez", "raclassent"],
+        "imper.pres": ["racle", "raclons", "raclez"]
+      },
+      "participe_present": "raclant",
+      "participe_passe": ["raclé", "raclée", "raclés", "raclées"]
     }
   ]
 }
