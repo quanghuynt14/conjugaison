@@ -19397,6 +19397,24 @@
       },
       "participe_present": "inspectant",
       "participe_passe": ["inspecté", "inspectée", "inspectés", "inspectées"]
+    },
+    {
+      "id": "louper",
+      "infinitif": "louper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["loupe", "loupes", "loupe", "loupons", "loupez", "loupent"],
+        "ind.imp": ["loupais", "loupais", "loupait", "loupions", "loupiez", "loupaient"],
+        "ind.ps": ["loupai", "loupas", "loupa", "loupâmes", "loupâtes", "loupèrent"],
+        "ind.fut": ["louperai", "louperas", "loupera", "louperons", "louperez", "louperont"],
+        "cond.pres": ["louperais", "louperais", "louperait", "louperions", "louperiez", "louperaient"],
+        "subj.pres": ["loupe", "loupes", "loupe", "loupions", "loupiez", "loupent"],
+        "subj.imp": ["loupasse", "loupasses", "loupât", "loupassions", "loupassiez", "loupassent"],
+        "imper.pres": ["loupe", "loupons", "loupez"]
+      },
+      "participe_present": "loupant",
+      "participe_passe": ["loupé", "loupée", "loupés", "loupées"]
     }
   ]
 }
