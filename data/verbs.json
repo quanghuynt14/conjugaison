@@ -8055,6 +8055,24 @@
       },
       "participe_present": "coinçant",
       "participe_passe": ["coincé", "coincée", "coincés", "coincées"]
+    },
+    {
+      "id": "remuer",
+      "infinitif": "remuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["remue", "remues", "remue", "remuons", "remuez", "remuent"],
+        "ind.imp": ["remuais", "remuais", "remuait", "remuions", "remuiez", "remuaient"],
+        "ind.ps": ["remuai", "remuas", "remua", "remuâmes", "remuâtes", "remuèrent"],
+        "ind.fut": ["remuerai", "remueras", "remuera", "remuerons", "remuerez", "remueront"],
+        "cond.pres": ["remuerais", "remuerais", "remuerait", "remuerions", "remueriez", "remueraient"],
+        "subj.pres": ["remue", "remues", "remue", "remuions", "remuiez", "remuent"],
+        "subj.imp": ["remuasse", "remuasses", "remuât", "remuassions", "remuassiez", "remuassent"],
+        "imper.pres": ["remue", "remuons", "remuez"]
+      },
+      "participe_present": "remuant",
+      "participe_passe": ["remué", "remuée", "remués", "remuées"]
     }
   ]
 }
