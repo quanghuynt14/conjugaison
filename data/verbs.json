@@ -34158,6 +34158,24 @@
       },
       "participe_present": "miaulant",
       "participe_passe": ["miaulé", null, null, null]
+    },
+    {
+      "id": "instaurer",
+      "infinitif": "instaurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["instaure", "instaures", "instaure", "instaurons", "instaurez", "instaurent"],
+        "ind.imp": ["instaurais", "instaurais", "instaurait", "instaurions", "instauriez", "instauraient"],
+        "ind.ps": ["instaurai", "instauras", "instaura", "instaurâmes", "instaurâtes", "instaurèrent"],
+        "ind.fut": ["instaurerai", "instaureras", "instaurera", "instaurerons", "instaurerez", "instaureront"],
+        "cond.pres": ["instaurerais", "instaurerais", "instaurerait", "instaurerions", "instaureriez", "instaureraient"],
+        "subj.pres": ["instaure", "instaures", "instaure", "instaurions", "instauriez", "instaurent"],
+        "subj.imp": ["instaurasse", "instaurasses", "instaurât", "instaurassions", "instaurassiez", "instaurassent"],
+        "imper.pres": ["instaure", "instaurons", "instaurez"]
+      },
+      "participe_present": "instaurant",
+      "participe_passe": ["instauré", "instaurée", "instaurés", "instaurées"]
     }
   ]
 }
