@@ -19560,6 +19560,25 @@
       },
       "participe_present": "bottant",
       "participe_passe": ["botté", "bottée", "bottés", "bottées"]
+    },
+    {
+      "id": "chialer",
+      "infinitif": "chialer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « chialé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["chiale", "chiales", "chiale", "chialons", "chialez", "chialent"],
+        "ind.imp": ["chialais", "chialais", "chialait", "chialions", "chialiez", "chialaient"],
+        "ind.ps": ["chialai", "chialas", "chiala", "chialâmes", "chialâtes", "chialèrent"],
+        "ind.fut": ["chialerai", "chialeras", "chialera", "chialerons", "chialerez", "chialeront"],
+        "cond.pres": ["chialerais", "chialerais", "chialerait", "chialerions", "chialeriez", "chialeraient"],
+        "subj.pres": ["chiale", "chiales", "chiale", "chialions", "chialiez", "chialent"],
+        "subj.imp": ["chialasse", "chialasses", "chialât", "chialassions", "chialassiez", "chialassent"],
+        "imper.pres": ["chiale", "chialons", "chialez"]
+      },
+      "participe_present": "chialant",
+      "participe_passe": ["chialé", null, null, null]
     }
   ]
 }
