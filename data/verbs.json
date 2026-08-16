@@ -20731,6 +20731,24 @@
       },
       "participe_present": "démontrant",
       "participe_passe": ["démontré", "démontrée", "démontrés", "démontrées"]
+    },
+    {
+      "id": "activer",
+      "infinitif": "activer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["active", "actives", "active", "activons", "activez", "activent"],
+        "ind.imp": ["activais", "activais", "activait", "activions", "activiez", "activaient"],
+        "ind.ps": ["activai", "activas", "activa", "activâmes", "activâtes", "activèrent"],
+        "ind.fut": ["activerai", "activeras", "activera", "activerons", "activerez", "activeront"],
+        "cond.pres": ["activerais", "activerais", "activerait", "activerions", "activeriez", "activeraient"],
+        "subj.pres": ["active", "actives", "active", "activions", "activiez", "activent"],
+        "subj.imp": ["activasse", "activasses", "activât", "activassions", "activassiez", "activassent"],
+        "imper.pres": ["active", "activons", "activez"]
+      },
+      "participe_present": "activant",
+      "participe_passe": ["activé", "activée", "activés", "activées"]
     }
   ]
 }
