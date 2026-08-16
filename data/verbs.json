@@ -35461,6 +35461,24 @@
       },
       "participe_present": "croupissant",
       "participe_passe": ["croupi", "croupie", "croupis", "croupies"]
+    },
+    {
+      "id": "recourir",
+      "infinitif": "recourir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recours", "recours", "recourt", "recourons", "recourez", "recourent"],
+        "ind.imp": ["recourais", "recourais", "recourait", "recourions", "recouriez", "recouraient"],
+        "ind.ps": ["recourus", "recourus", "recourut", "recourûmes", "recourûtes", "recoururent"],
+        "ind.fut": ["recourrai", "recourras", "recourra", "recourrons", "recourrez", "recourront"],
+        "cond.pres": ["recourrais", "recourrais", "recourrait", "recourrions", "recourriez", "recourraient"],
+        "subj.pres": ["recoure", "recoures", "recoure", "recourions", "recouriez", "recourent"],
+        "subj.imp": ["recourusse", "recourusses", "recourût", "recourussions", "recourussiez", "recourussent"],
+        "imper.pres": ["recours", "recourons", "recourez"]
+      },
+      "participe_present": "recourant",
+      "participe_passe": ["recouru", "recourue", "recourus", "recourues"]
     }
   ]
 }
