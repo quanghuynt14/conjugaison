@@ -31700,6 +31700,24 @@
       },
       "participe_present": "sommeillant",
       "participe_passe": ["sommeillé", null, null, null]
+    },
+    {
+      "id": "cribler",
+      "infinitif": "cribler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["crible", "cribles", "crible", "criblons", "criblez", "criblent"],
+        "ind.imp": ["criblais", "criblais", "criblait", "criblions", "cribliez", "criblaient"],
+        "ind.ps": ["criblai", "criblas", "cribla", "criblâmes", "criblâtes", "criblèrent"],
+        "ind.fut": ["criblerai", "cribleras", "criblera", "criblerons", "criblerez", "cribleront"],
+        "cond.pres": ["criblerais", "criblerais", "criblerait", "criblerions", "cribleriez", "cribleraient"],
+        "subj.pres": ["crible", "cribles", "crible", "criblions", "cribliez", "criblent"],
+        "subj.imp": ["criblasse", "criblasses", "criblât", "criblassions", "criblassiez", "criblassent"],
+        "imper.pres": ["crible", "criblons", "criblez"]
+      },
+      "participe_present": "criblant",
+      "participe_passe": ["criblé", "criblée", "criblés", "criblées"]
     }
   ]
 }
