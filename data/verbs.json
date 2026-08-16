@@ -1495,6 +1495,24 @@
       },
       "participe_present": "foutant",
       "participe_passe": ["foutu", "foutue", "foutus", "foutues"]
+    },
+    {
+      "id": "paraître",
+      "infinitif": "paraître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["parais", "parais", "paraît", "paraissons", "paraissez", "paraissent"],
+        "ind.imp": ["paraissais", "paraissais", "paraissait", "paraissions", "paraissiez", "paraissaient"],
+        "ind.ps": ["parus", "parus", "parut", "parûmes", "parûtes", "parurent"],
+        "ind.fut": ["paraîtrai", "paraîtras", "paraîtra", "paraîtrons", "paraîtrez", "paraîtront"],
+        "cond.pres": ["paraîtrais", "paraîtrais", "paraîtrait", "paraîtrions", "paraîtriez", "paraîtraient"],
+        "subj.pres": ["paraisse", "paraisses", "paraisse", "paraissions", "paraissiez", "paraissent"],
+        "subj.imp": ["parusse", "parusses", "parût", "parussions", "parussiez", "parussent"],
+        "imper.pres": ["parais", "paraissons", "paraissez"]
+      },
+      "participe_present": "paraissant",
+      "participe_passe": ["paru", "parue", "parus", "parues"]
     }
   ]
 }
