@@ -14264,6 +14264,25 @@
       },
       "participe_present": "baladant",
       "participe_passe": ["baladé", "baladée", "baladés", "baladées"]
+    },
+    {
+      "id": "errer",
+      "infinitif": "errer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « erré » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["erre", "erres", "erre", "errons", "errez", "errent"],
+        "ind.imp": ["errais", "errais", "errait", "errions", "erriez", "erraient"],
+        "ind.ps": ["errai", "erras", "erra", "errâmes", "errâtes", "errèrent"],
+        "ind.fut": ["errerai", "erreras", "errera", "errerons", "errerez", "erreront"],
+        "cond.pres": ["errerais", "errerais", "errerait", "errerions", "erreriez", "erreraient"],
+        "subj.pres": ["erre", "erres", "erre", "errions", "erriez", "errent"],
+        "subj.imp": ["errasse", "errasses", "errât", "errassions", "errassiez", "errassent"],
+        "imper.pres": ["erre", "errons", "errez"]
+      },
+      "participe_present": "errant",
+      "participe_passe": ["erré", null, null, null]
     }
   ]
 }
