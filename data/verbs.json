@@ -27687,6 +27687,25 @@
       },
       "participe_present": "soudant",
       "participe_passe": ["soudé", "soudée", "soudés", "soudées"]
+    },
+    {
+      "id": "tâtonner",
+      "infinitif": "tâtonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « tâtonné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["tâtonne", "tâtonnes", "tâtonne", "tâtonnons", "tâtonnez", "tâtonnent"],
+        "ind.imp": ["tâtonnais", "tâtonnais", "tâtonnait", "tâtonnions", "tâtonniez", "tâtonnaient"],
+        "ind.ps": ["tâtonnai", "tâtonnas", "tâtonna", "tâtonnâmes", "tâtonnâtes", "tâtonnèrent"],
+        "ind.fut": ["tâtonnerai", "tâtonneras", "tâtonnera", "tâtonnerons", "tâtonnerez", "tâtonneront"],
+        "cond.pres": ["tâtonnerais", "tâtonnerais", "tâtonnerait", "tâtonnerions", "tâtonneriez", "tâtonneraient"],
+        "subj.pres": ["tâtonne", "tâtonnes", "tâtonne", "tâtonnions", "tâtonniez", "tâtonnent"],
+        "subj.imp": ["tâtonnasse", "tâtonnasses", "tâtonnât", "tâtonnassions", "tâtonnassiez", "tâtonnassent"],
+        "imper.pres": ["tâtonne", "tâtonnons", "tâtonnez"]
+      },
+      "participe_present": "tâtonnant",
+      "participe_passe": ["tâtonné", null, null, null]
     }
   ]
 }
