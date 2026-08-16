@@ -5029,6 +5029,24 @@
       },
       "participe_present": "hésitant",
       "participe_passe": ["hésité", null, null, null]
+    },
+    {
+      "id": "entraîner",
+      "infinitif": "entraîner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entraîne", "entraînes", "entraîne", "entraînons", "entraînez", "entraînent"],
+        "ind.imp": ["entraînais", "entraînais", "entraînait", "entraînions", "entraîniez", "entraînaient"],
+        "ind.ps": ["entraînai", "entraînas", "entraîna", "entraînâmes", "entraînâtes", "entraînèrent"],
+        "ind.fut": ["entraînerai", "entraîneras", "entraînera", "entraînerons", "entraînerez", "entraîneront"],
+        "cond.pres": ["entraînerais", "entraînerais", "entraînerait", "entraînerions", "entraîneriez", "entraîneraient"],
+        "subj.pres": ["entraîne", "entraînes", "entraîne", "entraînions", "entraîniez", "entraînent"],
+        "subj.imp": ["entraînasse", "entraînasses", "entraînât", "entraînassions", "entraînassiez", "entraînassent"],
+        "imper.pres": ["entraîne", "entraînons", "entraînez"]
+      },
+      "participe_present": "entraînant",
+      "participe_passe": ["entraîné", "entraînée", "entraînés", "entraînées"]
     }
   ]
 }
