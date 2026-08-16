@@ -12320,6 +12320,24 @@
       },
       "participe_present": "dénonçant",
       "participe_passe": ["dénoncé", "dénoncée", "dénoncés", "dénoncées"]
+    },
+    {
+      "id": "nier",
+      "infinitif": "nier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["nie", "nies", "nie", "nions", "niez", "nient"],
+        "ind.imp": ["niais", "niais", "niait", "niions", "niiez", "niaient"],
+        "ind.ps": ["niai", "nias", "nia", "niâmes", "niâtes", "nièrent"],
+        "ind.fut": ["nierai", "nieras", "niera", "nierons", "nierez", "nieront"],
+        "cond.pres": ["nierais", "nierais", "nierait", "nierions", "nieriez", "nieraient"],
+        "subj.pres": ["nie", "nies", "nie", "niions", "niiez", "nient"],
+        "subj.imp": ["niasse", "niasses", "niât", "niassions", "niassiez", "niassent"],
+        "imper.pres": ["nie", "nions", "niez"]
+      },
+      "participe_present": "niant",
+      "participe_passe": ["nié", "niée", "niés", "niées"]
     }
   ]
 }
