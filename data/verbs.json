@@ -28449,6 +28449,24 @@
       },
       "participe_present": "épaississant",
       "participe_passe": ["épaissi", "épaissie", "épaissis", "épaissies"]
+    },
+    {
+      "id": "expirer",
+      "infinitif": "expirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["expire", "expires", "expire", "expirons", "expirez", "expirent"],
+        "ind.imp": ["expirais", "expirais", "expirait", "expirions", "expiriez", "expiraient"],
+        "ind.ps": ["expirai", "expiras", "expira", "expirâmes", "expirâtes", "expirèrent"],
+        "ind.fut": ["expirerai", "expireras", "expirera", "expirerons", "expirerez", "expireront"],
+        "cond.pres": ["expirerais", "expirerais", "expirerait", "expirerions", "expireriez", "expireraient"],
+        "subj.pres": ["expire", "expires", "expire", "expirions", "expiriez", "expirent"],
+        "subj.imp": ["expirasse", "expirasses", "expirât", "expirassions", "expirassiez", "expirassent"],
+        "imper.pres": ["expire", "expirons", "expirez"]
+      },
+      "participe_present": "expirant",
+      "participe_passe": ["expiré", "expirée", "expirés", "expirées"]
     }
   ]
 }
