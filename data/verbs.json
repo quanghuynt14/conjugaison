@@ -11663,6 +11663,24 @@
       },
       "participe_present": "chauffant",
       "participe_passe": ["chauffé", "chauffée", "chauffés", "chauffées"]
+    },
+    {
+      "id": "approuver",
+      "infinitif": "approuver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["approuve", "approuves", "approuve", "approuvons", "approuvez", "approuvent"],
+        "ind.imp": ["approuvais", "approuvais", "approuvait", "approuvions", "approuviez", "approuvaient"],
+        "ind.ps": ["approuvai", "approuvas", "approuva", "approuvâmes", "approuvâtes", "approuvèrent"],
+        "ind.fut": ["approuverai", "approuveras", "approuvera", "approuverons", "approuverez", "approuveront"],
+        "cond.pres": ["approuverais", "approuverais", "approuverait", "approuverions", "approuveriez", "approuveraient"],
+        "subj.pres": ["approuve", "approuves", "approuve", "approuvions", "approuviez", "approuvent"],
+        "subj.imp": ["approuvasse", "approuvasses", "approuvât", "approuvassions", "approuvassiez", "approuvassent"],
+        "imper.pres": ["approuve", "approuvons", "approuvez"]
+      },
+      "participe_present": "approuvant",
+      "participe_passe": ["approuvé", "approuvée", "approuvés", "approuvées"]
     }
   ]
 }
