@@ -29802,6 +29802,25 @@
       },
       "participe_present": "recopiant",
       "participe_passe": ["recopié", "recopiée", "recopiés", "recopiées"]
+    },
+    {
+      "id": "faiblir",
+      "infinitif": "faiblir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « faibli » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["faiblis", "faiblis", "faiblit", "faiblissons", "faiblissez", "faiblissent"],
+        "ind.imp": ["faiblissais", "faiblissais", "faiblissait", "faiblissions", "faiblissiez", "faiblissaient"],
+        "ind.ps": ["faiblis", "faiblis", "faiblit", "faiblîmes", "faiblîtes", "faiblirent"],
+        "ind.fut": ["faiblirai", "faibliras", "faiblira", "faiblirons", "faiblirez", "faibliront"],
+        "cond.pres": ["faiblirais", "faiblirais", "faiblirait", "faiblirions", "faibliriez", "faibliraient"],
+        "subj.pres": ["faiblisse", "faiblisses", "faiblisse", "faiblissions", "faiblissiez", "faiblissent"],
+        "subj.imp": ["faiblisse", "faiblisses", "faiblît", "faiblissions", "faiblissiez", "faiblissent"],
+        "imper.pres": ["faiblis", "faiblissons", "faiblissez"]
+      },
+      "participe_present": "faiblissant",
+      "participe_passe": ["faibli", null, null, null]
     }
   ]
 }
