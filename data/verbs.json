@@ -19196,6 +19196,25 @@
       },
       "participe_present": "paralysant",
       "participe_passe": ["paralysé", "paralysée", "paralysés", "paralysées"]
+    },
+    {
+      "id": "extraire",
+      "infinitif": "extraire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Comme tous les verbes en -traire : ni passé simple, ni subjonctif imparfait.",
+      "tenses": {
+        "ind.pres": ["extrais", "extrais", "extrait", "extrayons", "extrayez", "extraient"],
+        "ind.imp": ["extrayais", "extrayais", "extrayait", "extrayions", "extrayiez", "extrayaient"],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": ["extrairai", "extrairas", "extraira", "extrairons", "extrairez", "extrairont"],
+        "cond.pres": ["extrairais", "extrairais", "extrairait", "extrairions", "extrairiez", "extrairaient"],
+        "subj.pres": ["extraie", "extraies", "extraie", "extrayions", "extrayiez", "extraient"],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": ["extrais", "extrayons", "extrayez"]
+      },
+      "participe_present": "extrayant",
+      "participe_passe": ["extrait", "extraite", "extraits", "extraites"]
     }
   ]
 }
