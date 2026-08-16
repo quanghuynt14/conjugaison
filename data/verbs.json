@@ -13900,6 +13900,24 @@
       },
       "participe_present": "closant",
       "participe_passe": ["clos", "close", "clos", "closes"]
+    },
+    {
+      "id": "effondrer",
+      "infinitif": "effondrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["effondre", "effondres", "effondre", "effondrons", "effondrez", "effondrent"],
+        "ind.imp": ["effondrais", "effondrais", "effondrait", "effondrions", "effondriez", "effondraient"],
+        "ind.ps": ["effondrai", "effondras", "effondra", "effondrâmes", "effondrâtes", "effondrèrent"],
+        "ind.fut": ["effondrerai", "effondreras", "effondrera", "effondrerons", "effondrerez", "effondreront"],
+        "cond.pres": ["effondrerais", "effondrerais", "effondrerait", "effondrerions", "effondreriez", "effondreraient"],
+        "subj.pres": ["effondre", "effondres", "effondre", "effondrions", "effondriez", "effondrent"],
+        "subj.imp": ["effondrasse", "effondrasses", "effondrât", "effondrassions", "effondrassiez", "effondrassent"],
+        "imper.pres": ["effondre", "effondrons", "effondrez"]
+      },
+      "participe_present": "effondrant",
+      "participe_passe": ["effondré", "effondrée", "effondrés", "effondrées"]
     }
   ]
 }
