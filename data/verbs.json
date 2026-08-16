@@ -34121,6 +34121,24 @@
       },
       "participe_present": "repêchant",
       "participe_passe": ["repêché", "repêchée", "repêchés", "repêchées"]
+    },
+    {
+      "id": "équilibrer",
+      "infinitif": "équilibrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["équilibre", "équilibres", "équilibre", "équilibrons", "équilibrez", "équilibrent"],
+        "ind.imp": ["équilibrais", "équilibrais", "équilibrait", "équilibrions", "équilibriez", "équilibraient"],
+        "ind.ps": ["équilibrai", "équilibras", "équilibra", "équilibrâmes", "équilibrâtes", "équilibrèrent"],
+        "ind.fut": ["équilibrerai", "équilibreras", "équilibrera", "équilibrerons", "équilibrerez", "équilibreront"],
+        "cond.pres": ["équilibrerais", "équilibrerais", "équilibrerait", "équilibrerions", "équilibreriez", "équilibreraient"],
+        "subj.pres": ["équilibre", "équilibres", "équilibre", "équilibrions", "équilibriez", "équilibrent"],
+        "subj.imp": ["équilibrasse", "équilibrasses", "équilibrât", "équilibrassions", "équilibrassiez", "équilibrassent"],
+        "imper.pres": ["équilibre", "équilibrons", "équilibrez"]
+      },
+      "participe_present": "équilibrant",
+      "participe_passe": ["équilibré", "équilibrée", "équilibrés", "équilibrées"]
     }
   ]
 }
