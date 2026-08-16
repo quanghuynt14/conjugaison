@@ -33812,6 +33812,24 @@
       },
       "participe_present": "licenciant",
       "participe_passe": ["licencié", "licenciée", "licenciés", "licenciées"]
+    },
+    {
+      "id": "délier",
+      "infinitif": "délier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["délie", "délies", "délie", "délions", "déliez", "délient"],
+        "ind.imp": ["déliais", "déliais", "déliait", "déliions", "déliiez", "déliaient"],
+        "ind.ps": ["déliai", "délias", "délia", "déliâmes", "déliâtes", "délièrent"],
+        "ind.fut": ["délierai", "délieras", "déliera", "délierons", "délierez", "délieront"],
+        "cond.pres": ["délierais", "délierais", "délierait", "délierions", "délieriez", "délieraient"],
+        "subj.pres": ["délie", "délies", "délie", "déliions", "déliiez", "délient"],
+        "subj.imp": ["déliasse", "déliasses", "déliât", "déliassions", "déliassiez", "déliassent"],
+        "imper.pres": ["délie", "délions", "déliez"]
+      },
+      "participe_present": "déliant",
+      "participe_passe": ["délié", "déliée", "déliés", "déliées"]
     }
   ]
 }
