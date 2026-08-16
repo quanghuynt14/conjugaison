@@ -12082,6 +12082,24 @@
       },
       "participe_present": "transmettant",
       "participe_passe": ["transmis", "transmise", "transmis", "transmises"]
+    },
+    {
+      "id": "bourrer",
+      "infinitif": "bourrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bourre", "bourres", "bourre", "bourrons", "bourrez", "bourrent"],
+        "ind.imp": ["bourrais", "bourrais", "bourrait", "bourrions", "bourriez", "bourraient"],
+        "ind.ps": ["bourrai", "bourras", "bourra", "bourrâmes", "bourrâtes", "bourrèrent"],
+        "ind.fut": ["bourrerai", "bourreras", "bourrera", "bourrerons", "bourrerez", "bourreront"],
+        "cond.pres": ["bourrerais", "bourrerais", "bourrerait", "bourrerions", "bourreriez", "bourreraient"],
+        "subj.pres": ["bourre", "bourres", "bourre", "bourrions", "bourriez", "bourrent"],
+        "subj.imp": ["bourrasse", "bourrasses", "bourrât", "bourrassions", "bourrassiez", "bourrassent"],
+        "imper.pres": ["bourre", "bourrons", "bourrez"]
+      },
+      "participe_present": "bourrant",
+      "participe_passe": ["bourré", "bourrée", "bourrés", "bourrées"]
     }
   ]
 }
