@@ -22505,6 +22505,24 @@
       },
       "participe_present": "discernant",
       "participe_passe": ["discerné", "discernée", "discernés", "discernées"]
+    },
+    {
+      "id": "tracasser",
+      "infinitif": "tracasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tracasse", "tracasses", "tracasse", "tracassons", "tracassez", "tracassent"],
+        "ind.imp": ["tracassais", "tracassais", "tracassait", "tracassions", "tracassiez", "tracassaient"],
+        "ind.ps": ["tracassai", "tracassas", "tracassa", "tracassâmes", "tracassâtes", "tracassèrent"],
+        "ind.fut": ["tracasserai", "tracasseras", "tracassera", "tracasserons", "tracasserez", "tracasseront"],
+        "cond.pres": ["tracasserais", "tracasserais", "tracasserait", "tracasserions", "tracasseriez", "tracasseraient"],
+        "subj.pres": ["tracasse", "tracasses", "tracasse", "tracassions", "tracassiez", "tracassent"],
+        "subj.imp": ["tracassasse", "tracassasses", "tracassât", "tracassassions", "tracassassiez", "tracassassent"],
+        "imper.pres": ["tracasse", "tracassons", "tracassez"]
+      },
+      "participe_present": "tracassant",
+      "participe_passe": ["tracassé", "tracassée", "tracassés", "tracassées"]
     }
   ]
 }
