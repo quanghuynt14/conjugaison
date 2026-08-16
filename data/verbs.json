@@ -2152,6 +2152,24 @@
       },
       "participe_present": "couchant",
       "participe_passe": ["couché", "couchée", "couchés", "couchées"]
+    },
+    {
+      "id": "emmener",
+      "infinitif": "emmener",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emmène", "emmènes", "emmène", "emmenons", "emmenez", "emmènent"],
+        "ind.imp": ["emmenais", "emmenais", "emmenait", "emmenions", "emmeniez", "emmenaient"],
+        "ind.ps": ["emmenai", "emmenas", "emmena", "emmenâmes", "emmenâtes", "emmenèrent"],
+        "ind.fut": ["emmènerai", "emmèneras", "emmènera", "emmènerons", "emmènerez", "emmèneront"],
+        "cond.pres": ["emmènerais", "emmènerais", "emmènerait", "emmènerions", "emmèneriez", "emmèneraient"],
+        "subj.pres": ["emmène", "emmènes", "emmène", "emmenions", "emmeniez", "emmènent"],
+        "subj.imp": ["emmenasse", "emmenasses", "emmenât", "emmenassions", "emmenassiez", "emmenassent"],
+        "imper.pres": ["emmène", "emmenons", "emmenez"]
+      },
+      "participe_present": "emmenant",
+      "participe_passe": ["emmené", "emmenée", "emmenés", "emmenées"]
     }
   ]
 }
