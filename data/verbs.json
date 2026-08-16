@@ -20713,6 +20713,24 @@
       },
       "participe_present": "exclamant",
       "participe_passe": ["exclamé", "exclamée", "exclamés", "exclamées"]
+    },
+    {
+      "id": "démontrer",
+      "infinitif": "démontrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["démontre", "démontres", "démontre", "démontrons", "démontrez", "démontrent"],
+        "ind.imp": ["démontrais", "démontrais", "démontrait", "démontrions", "démontriez", "démontraient"],
+        "ind.ps": ["démontrai", "démontras", "démontra", "démontrâmes", "démontrâtes", "démontrèrent"],
+        "ind.fut": ["démontrerai", "démontreras", "démontrera", "démontrerons", "démontrerez", "démontreront"],
+        "cond.pres": ["démontrerais", "démontrerais", "démontrerait", "démontrerions", "démontreriez", "démontreraient"],
+        "subj.pres": ["démontre", "démontres", "démontre", "démontrions", "démontriez", "démontrent"],
+        "subj.imp": ["démontrasse", "démontrasses", "démontrât", "démontrassions", "démontrassiez", "démontrassent"],
+        "imper.pres": ["démontre", "démontrons", "démontrez"]
+      },
+      "participe_present": "démontrant",
+      "participe_passe": ["démontré", "démontrée", "démontrés", "démontrées"]
     }
   ]
 }
