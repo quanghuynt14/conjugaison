@@ -30275,6 +30275,24 @@
       },
       "participe_present": "débranchant",
       "participe_passe": ["débranché", "débranchée", "débranchés", "débranchées"]
+    },
+    {
+      "id": "égaler",
+      "infinitif": "égaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["égale", "égales", "égale", "égalons", "égalez", "égalent"],
+        "ind.imp": ["égalais", "égalais", "égalait", "égalions", "égaliez", "égalaient"],
+        "ind.ps": ["égalai", "égalas", "égala", "égalâmes", "égalâtes", "égalèrent"],
+        "ind.fut": ["égalerai", "égaleras", "égalera", "égalerons", "égalerez", "égaleront"],
+        "cond.pres": ["égalerais", "égalerais", "égalerait", "égalerions", "égaleriez", "égaleraient"],
+        "subj.pres": ["égale", "égales", "égale", "égalions", "égaliez", "égalent"],
+        "subj.imp": ["égalasse", "égalasses", "égalât", "égalassions", "égalassiez", "égalassent"],
+        "imper.pres": ["égale", "égalons", "égalez"]
+      },
+      "participe_present": "égalant",
+      "participe_passe": ["égalé", "égalée", "égalés", "égalées"]
     }
   ]
 }
