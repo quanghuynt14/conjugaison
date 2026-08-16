@@ -10245,6 +10245,24 @@
       },
       "participe_present": "disputant",
       "participe_passe": ["disputé", "disputée", "disputés", "disputées"]
+    },
+    {
+      "id": "confirmer",
+      "infinitif": "confirmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["confirme", "confirmes", "confirme", "confirmons", "confirmez", "confirment"],
+        "ind.imp": ["confirmais", "confirmais", "confirmait", "confirmions", "confirmiez", "confirmaient"],
+        "ind.ps": ["confirmai", "confirmas", "confirma", "confirmâmes", "confirmâtes", "confirmèrent"],
+        "ind.fut": ["confirmerai", "confirmeras", "confirmera", "confirmerons", "confirmerez", "confirmeront"],
+        "cond.pres": ["confirmerais", "confirmerais", "confirmerait", "confirmerions", "confirmeriez", "confirmeraient"],
+        "subj.pres": ["confirme", "confirmes", "confirme", "confirmions", "confirmiez", "confirment"],
+        "subj.imp": ["confirmasse", "confirmasses", "confirmât", "confirmassions", "confirmassiez", "confirmassent"],
+        "imper.pres": ["confirme", "confirmons", "confirmez"]
+      },
+      "participe_present": "confirmant",
+      "participe_passe": ["confirmé", "confirmée", "confirmés", "confirmées"]
     }
   ]
 }
