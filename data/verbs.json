@@ -12374,6 +12374,24 @@
       },
       "participe_present": "ralentissant",
       "participe_passe": ["ralenti", "ralentie", "ralentis", "ralenties"]
+    },
+    {
+      "id": "manifester",
+      "infinitif": "manifester",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["manifeste", "manifestes", "manifeste", "manifestons", "manifestez", "manifestent"],
+        "ind.imp": ["manifestais", "manifestais", "manifestait", "manifestions", "manifestiez", "manifestaient"],
+        "ind.ps": ["manifestai", "manifestas", "manifesta", "manifestâmes", "manifestâtes", "manifestèrent"],
+        "ind.fut": ["manifesterai", "manifesteras", "manifestera", "manifesterons", "manifesterez", "manifesteront"],
+        "cond.pres": ["manifesterais", "manifesterais", "manifesterait", "manifesterions", "manifesteriez", "manifesteraient"],
+        "subj.pres": ["manifeste", "manifestes", "manifeste", "manifestions", "manifestiez", "manifestent"],
+        "subj.imp": ["manifestasse", "manifestasses", "manifestât", "manifestassions", "manifestassiez", "manifestassent"],
+        "imper.pres": ["manifeste", "manifestons", "manifestez"]
+      },
+      "participe_present": "manifestant",
+      "participe_passe": ["manifesté", "manifestée", "manifestés", "manifestées"]
     }
   ]
 }
