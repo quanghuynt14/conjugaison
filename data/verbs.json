@@ -12629,6 +12629,24 @@
       },
       "participe_present": "réjouissant",
       "participe_passe": ["réjoui", "réjouie", "réjouis", "réjouies"]
+    },
+    {
+      "id": "concevoir",
+      "infinitif": "concevoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conçois", "conçois", "conçoit", "concevons", "concevez", "conçoivent"],
+        "ind.imp": ["concevais", "concevais", "concevait", "concevions", "conceviez", "concevaient"],
+        "ind.ps": ["conçus", "conçus", "conçut", "conçûmes", "conçûtes", "conçurent"],
+        "ind.fut": ["concevrai", "concevras", "concevra", "concevrons", "concevrez", "concevront"],
+        "cond.pres": ["concevrais", "concevrais", "concevrait", "concevrions", "concevriez", "concevraient"],
+        "subj.pres": ["conçoive", "conçoives", "conçoive", "concevions", "conceviez", "conçoivent"],
+        "subj.imp": ["conçusse", "conçusses", "conçût", "conçussions", "conçussiez", "conçussent"],
+        "imper.pres": ["conçois", "concevons", "concevez"]
+      },
+      "participe_present": "concevant",
+      "participe_passe": ["conçu", "conçue", "conçus", "conçues"]
     }
   ]
 }
