@@ -22325,6 +22325,24 @@
       },
       "participe_present": "chevauchant",
       "participe_passe": ["chevauché", "chevauchée", "chevauchés", "chevauchées"]
+    },
+    {
+      "id": "grouper",
+      "infinitif": "grouper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["groupe", "groupes", "groupe", "groupons", "groupez", "groupent"],
+        "ind.imp": ["groupais", "groupais", "groupait", "groupions", "groupiez", "groupaient"],
+        "ind.ps": ["groupai", "groupas", "groupa", "groupâmes", "groupâtes", "groupèrent"],
+        "ind.fut": ["grouperai", "grouperas", "groupera", "grouperons", "grouperez", "grouperont"],
+        "cond.pres": ["grouperais", "grouperais", "grouperait", "grouperions", "grouperiez", "grouperaient"],
+        "subj.pres": ["groupe", "groupes", "groupe", "groupions", "groupiez", "groupent"],
+        "subj.imp": ["groupasse", "groupasses", "groupât", "groupassions", "groupassiez", "groupassent"],
+        "imper.pres": ["groupe", "groupons", "groupez"]
+      },
+      "participe_present": "groupant",
+      "participe_passe": ["groupé", "groupée", "groupés", "groupées"]
     }
   ]
 }
