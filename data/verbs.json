@@ -34249,6 +34249,24 @@
       },
       "participe_present": "engraissant",
       "participe_passe": ["engraissé", "engraissée", "engraissés", "engraissées"]
+    },
+    {
+      "id": "dévêtir",
+      "infinitif": "dévêtir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dévêts", "dévêts", "dévêt", "dévêtons", "dévêtez", "dévêtent"],
+        "ind.imp": ["dévêtais", "dévêtais", "dévêtait", "dévêtions", "dévêtiez", "dévêtaient"],
+        "ind.ps": ["dévêtis", "dévêtis", "dévêtit", "dévêtîmes", "dévêtîtes", "dévêtirent"],
+        "ind.fut": ["dévêtirai", "dévêtiras", "dévêtira", "dévêtirons", "dévêtirez", "dévêtiront"],
+        "cond.pres": ["dévêtirais", "dévêtirais", "dévêtirait", "dévêtirions", "dévêtiriez", "dévêtiraient"],
+        "subj.pres": ["dévête", "dévêtes", "dévête", "dévêtions", "dévêtiez", "dévêtent"],
+        "subj.imp": ["dévêtisse", "dévêtisses", "dévêtît", "dévêtissions", "dévêtissiez", "dévêtissent"],
+        "imper.pres": ["dévêts", "dévêtons", "dévêtez"]
+      },
+      "participe_present": "dévêtant",
+      "participe_passe": ["dévêtu", "dévêtue", "dévêtus", "dévêtues"]
     }
   ]
 }
