@@ -13046,6 +13046,24 @@
       },
       "participe_present": "étirant",
       "participe_passe": ["étiré", "étirée", "étirés", "étirées"]
+    },
+    {
+      "id": "filmer",
+      "infinitif": "filmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["filme", "filmes", "filme", "filmons", "filmez", "filment"],
+        "ind.imp": ["filmais", "filmais", "filmait", "filmions", "filmiez", "filmaient"],
+        "ind.ps": ["filmai", "filmas", "filma", "filmâmes", "filmâtes", "filmèrent"],
+        "ind.fut": ["filmerai", "filmeras", "filmera", "filmerons", "filmerez", "filmeront"],
+        "cond.pres": ["filmerais", "filmerais", "filmerait", "filmerions", "filmeriez", "filmeraient"],
+        "subj.pres": ["filme", "filmes", "filme", "filmions", "filmiez", "filment"],
+        "subj.imp": ["filmasse", "filmasses", "filmât", "filmassions", "filmassiez", "filmassent"],
+        "imper.pres": ["filme", "filmons", "filmez"]
+      },
+      "participe_present": "filmant",
+      "participe_passe": ["filmé", "filmée", "filmés", "filmées"]
     }
   ]
 }
