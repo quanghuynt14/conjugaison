@@ -11335,6 +11335,24 @@
       },
       "participe_present": "troublant",
       "participe_passe": ["troublé", "troublée", "troublés", "troublées"]
+    },
+    {
+      "id": "raccrocher",
+      "infinitif": "raccrocher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["raccroche", "raccroches", "raccroche", "raccrochons", "raccrochez", "raccrochent"],
+        "ind.imp": ["raccrochais", "raccrochais", "raccrochait", "raccrochions", "raccrochiez", "raccrochaient"],
+        "ind.ps": ["raccrochai", "raccrochas", "raccrocha", "raccrochâmes", "raccrochâtes", "raccrochèrent"],
+        "ind.fut": ["raccrocherai", "raccrocheras", "raccrochera", "raccrocherons", "raccrocherez", "raccrocheront"],
+        "cond.pres": ["raccrocherais", "raccrocherais", "raccrocherait", "raccrocherions", "raccrocheriez", "raccrocheraient"],
+        "subj.pres": ["raccroche", "raccroches", "raccroche", "raccrochions", "raccrochiez", "raccrochent"],
+        "subj.imp": ["raccrochasse", "raccrochasses", "raccrochât", "raccrochassions", "raccrochassiez", "raccrochassent"],
+        "imper.pres": ["raccroche", "raccrochons", "raccrochez"]
+      },
+      "participe_present": "raccrochant",
+      "participe_passe": ["raccroché", "raccrochée", "raccrochés", "raccrochées"]
     }
   ]
 }
