@@ -15716,6 +15716,24 @@
       },
       "participe_present": "irritant",
       "participe_passe": ["irrité", "irritée", "irrités", "irritées"]
+    },
+    {
+      "id": "massacrer",
+      "infinitif": "massacrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["massacre", "massacres", "massacre", "massacrons", "massacrez", "massacrent"],
+        "ind.imp": ["massacrais", "massacrais", "massacrait", "massacrions", "massacriez", "massacraient"],
+        "ind.ps": ["massacrai", "massacras", "massacra", "massacrâmes", "massacrâtes", "massacrèrent"],
+        "ind.fut": ["massacrerai", "massacreras", "massacrera", "massacrerons", "massacrerez", "massacreront"],
+        "cond.pres": ["massacrerais", "massacrerais", "massacrerait", "massacrerions", "massacreriez", "massacreraient"],
+        "subj.pres": ["massacre", "massacres", "massacre", "massacrions", "massacriez", "massacrent"],
+        "subj.imp": ["massacrasse", "massacrasses", "massacrât", "massacrassions", "massacrassiez", "massacrassent"],
+        "imper.pres": ["massacre", "massacrons", "massacrez"]
+      },
+      "participe_present": "massacrant",
+      "participe_passe": ["massacré", "massacrée", "massacrés", "massacrées"]
     }
   ]
 }
