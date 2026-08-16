@@ -14790,6 +14790,24 @@
       },
       "participe_present": "honorant",
       "participe_passe": ["honoré", "honorée", "honorés", "honorées"]
+    },
+    {
+      "id": "préserver",
+      "infinitif": "préserver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["préserve", "préserves", "préserve", "préservons", "préservez", "préservent"],
+        "ind.imp": ["préservais", "préservais", "préservait", "préservions", "préserviez", "préservaient"],
+        "ind.ps": ["préservai", "préservas", "préserva", "préservâmes", "préservâtes", "préservèrent"],
+        "ind.fut": ["préserverai", "préserveras", "préservera", "préserverons", "préserverez", "préserveront"],
+        "cond.pres": ["préserverais", "préserverais", "préserverait", "préserverions", "préserveriez", "préserveraient"],
+        "subj.pres": ["préserve", "préserves", "préserve", "préservions", "préserviez", "préservent"],
+        "subj.imp": ["préservasse", "préservasses", "préservât", "préservassions", "préservassiez", "préservassent"],
+        "imper.pres": ["préserve", "préservons", "préservez"]
+      },
+      "participe_present": "préservant",
+      "participe_passe": ["préservé", "préservée", "préservés", "préservées"]
     }
   ]
 }
