@@ -8903,6 +8903,24 @@
       },
       "participe_present": "désignant",
       "participe_passe": ["désigné", "désignée", "désignés", "désignées"]
+    },
+    {
+      "id": "flotter",
+      "infinitif": "flotter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["flotte", "flottes", "flotte", "flottons", "flottez", "flottent"],
+        "ind.imp": ["flottais", "flottais", "flottait", "flottions", "flottiez", "flottaient"],
+        "ind.ps": ["flottai", "flottas", "flotta", "flottâmes", "flottâtes", "flottèrent"],
+        "ind.fut": ["flotterai", "flotteras", "flottera", "flotterons", "flotterez", "flotteront"],
+        "cond.pres": ["flotterais", "flotterais", "flotterait", "flotterions", "flotteriez", "flotteraient"],
+        "subj.pres": ["flotte", "flottes", "flotte", "flottions", "flottiez", "flottent"],
+        "subj.imp": ["flottasse", "flottasses", "flottât", "flottassions", "flottassiez", "flottassent"],
+        "imper.pres": ["flotte", "flottons", "flottez"]
+      },
+      "participe_present": "flottant",
+      "participe_passe": ["flotté", "flottée", "flottés", "flottées"]
     }
   ]
 }
