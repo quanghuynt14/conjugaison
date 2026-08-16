@@ -15333,6 +15333,24 @@
       },
       "participe_present": "égarant",
       "participe_passe": ["égaré", "égarée", "égarés", "égarées"]
+    },
+    {
+      "id": "relier",
+      "infinitif": "relier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["relie", "relies", "relie", "relions", "reliez", "relient"],
+        "ind.imp": ["reliais", "reliais", "reliait", "reliions", "reliiez", "reliaient"],
+        "ind.ps": ["reliai", "relias", "relia", "reliâmes", "reliâtes", "relièrent"],
+        "ind.fut": ["relierai", "relieras", "reliera", "relierons", "relierez", "relieront"],
+        "cond.pres": ["relierais", "relierais", "relierait", "relierions", "relieriez", "relieraient"],
+        "subj.pres": ["relie", "relies", "relie", "reliions", "reliiez", "relient"],
+        "subj.imp": ["reliasse", "reliasses", "reliât", "reliassions", "reliassiez", "reliassent"],
+        "imper.pres": ["relie", "relions", "reliez"]
+      },
+      "participe_present": "reliant",
+      "participe_passe": ["relié", "reliée", "reliés", "reliées"]
     }
   ]
 }
