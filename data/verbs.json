@@ -18614,6 +18614,24 @@
       },
       "participe_present": "tachant",
       "participe_passe": ["taché", "tachée", "tachés", "tachées"]
+    },
+    {
+      "id": "abaisser",
+      "infinitif": "abaisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["abaisse", "abaisses", "abaisse", "abaissons", "abaissez", "abaissent"],
+        "ind.imp": ["abaissais", "abaissais", "abaissait", "abaissions", "abaissiez", "abaissaient"],
+        "ind.ps": ["abaissai", "abaissas", "abaissa", "abaissâmes", "abaissâtes", "abaissèrent"],
+        "ind.fut": ["abaisserai", "abaisseras", "abaissera", "abaisserons", "abaisserez", "abaisseront"],
+        "cond.pres": ["abaisserais", "abaisserais", "abaisserait", "abaisserions", "abaisseriez", "abaisseraient"],
+        "subj.pres": ["abaisse", "abaisses", "abaisse", "abaissions", "abaissiez", "abaissent"],
+        "subj.imp": ["abaissasse", "abaissasses", "abaissât", "abaissassions", "abaissassiez", "abaissassent"],
+        "imper.pres": ["abaisse", "abaissons", "abaissez"]
+      },
+      "participe_present": "abaissant",
+      "participe_passe": ["abaissé", "abaissée", "abaissés", "abaissées"]
     }
   ]
 }
