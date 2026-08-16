@@ -28232,6 +28232,24 @@
       },
       "participe_present": "bronzant",
       "participe_passe": ["bronzé", "bronzée", "bronzés", "bronzées"]
+    },
+    {
+      "id": "camoufler",
+      "infinitif": "camoufler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["camoufle", "camoufles", "camoufle", "camouflons", "camouflez", "camouflent"],
+        "ind.imp": ["camouflais", "camouflais", "camouflait", "camouflions", "camoufliez", "camouflaient"],
+        "ind.ps": ["camouflai", "camouflas", "camoufla", "camouflâmes", "camouflâtes", "camouflèrent"],
+        "ind.fut": ["camouflerai", "camoufleras", "camouflera", "camouflerons", "camouflerez", "camoufleront"],
+        "cond.pres": ["camouflerais", "camouflerais", "camouflerait", "camouflerions", "camoufleriez", "camoufleraient"],
+        "subj.pres": ["camoufle", "camoufles", "camoufle", "camouflions", "camoufliez", "camouflent"],
+        "subj.imp": ["camouflasse", "camouflasses", "camouflât", "camouflassions", "camouflassiez", "camouflassent"],
+        "imper.pres": ["camoufle", "camouflons", "camouflez"]
+      },
+      "participe_present": "camouflant",
+      "participe_passe": ["camouflé", "camouflée", "camouflés", "camouflées"]
     }
   ]
 }
