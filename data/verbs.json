@@ -20767,6 +20767,24 @@
       },
       "participe_present": "flairant",
       "participe_passe": ["flairé", "flairée", "flairés", "flairées"]
+    },
+    {
+      "id": "engouffrer",
+      "infinitif": "engouffrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["engouffre", "engouffres", "engouffre", "engouffrons", "engouffrez", "engouffrent"],
+        "ind.imp": ["engouffrais", "engouffrais", "engouffrait", "engouffrions", "engouffriez", "engouffraient"],
+        "ind.ps": ["engouffrai", "engouffras", "engouffra", "engouffrâmes", "engouffrâtes", "engouffrèrent"],
+        "ind.fut": ["engouffrerai", "engouffreras", "engouffrera", "engouffrerons", "engouffrerez", "engouffreront"],
+        "cond.pres": ["engouffrerais", "engouffrerais", "engouffrerait", "engouffrerions", "engouffreriez", "engouffreraient"],
+        "subj.pres": ["engouffre", "engouffres", "engouffre", "engouffrions", "engouffriez", "engouffrent"],
+        "subj.imp": ["engouffrasse", "engouffrasses", "engouffrât", "engouffrassions", "engouffrassiez", "engouffrassent"],
+        "imper.pres": ["engouffre", "engouffrons", "engouffrez"]
+      },
+      "participe_present": "engouffrant",
+      "participe_passe": ["engouffré", "engouffrée", "engouffrés", "engouffrées"]
     }
   ]
 }
