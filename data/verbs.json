@@ -11100,6 +11100,24 @@
       },
       "participe_present": "pourvoyant",
       "participe_passe": ["pourvu", "pourvue", "pourvus", "pourvues"]
+    },
+    {
+      "id": "comporter",
+      "infinitif": "comporter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["comporte", "comportes", "comporte", "comportons", "comportez", "comportent"],
+        "ind.imp": ["comportais", "comportais", "comportait", "comportions", "comportiez", "comportaient"],
+        "ind.ps": ["comportai", "comportas", "comporta", "comportâmes", "comportâtes", "comportèrent"],
+        "ind.fut": ["comporterai", "comporteras", "comportera", "comporterons", "comporterez", "comporteront"],
+        "cond.pres": ["comporterais", "comporterais", "comporterait", "comporterions", "comporteriez", "comporteraient"],
+        "subj.pres": ["comporte", "comportes", "comporte", "comportions", "comportiez", "comportent"],
+        "subj.imp": ["comportasse", "comportasses", "comportât", "comportassions", "comportassiez", "comportassent"],
+        "imper.pres": ["comporte", "comportons", "comportez"]
+      },
+      "participe_present": "comportant",
+      "participe_passe": ["comporté", "comportée", "comportés", "comportées"]
     }
   ]
 }
