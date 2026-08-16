@@ -3998,6 +3998,24 @@
       },
       "participe_present": "détestant",
       "participe_passe": ["détesté", "détestée", "détestés", "détestées"]
+    },
+    {
+      "id": "deviner",
+      "infinitif": "deviner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["devine", "devines", "devine", "devinons", "devinez", "devinent"],
+        "ind.imp": ["devinais", "devinais", "devinait", "devinions", "deviniez", "devinaient"],
+        "ind.ps": ["devinai", "devinas", "devina", "devinâmes", "devinâtes", "devinèrent"],
+        "ind.fut": ["devinerai", "devineras", "devinera", "devinerons", "devinerez", "devineront"],
+        "cond.pres": ["devinerais", "devinerais", "devinerait", "devinerions", "devineriez", "devineraient"],
+        "subj.pres": ["devine", "devines", "devine", "devinions", "deviniez", "devinent"],
+        "subj.imp": ["devinasse", "devinasses", "devinât", "devinassions", "devinassiez", "devinassent"],
+        "imper.pres": ["devine", "devinons", "devinez"]
+      },
+      "participe_present": "devinant",
+      "participe_passe": ["deviné", "devinée", "devinés", "devinées"]
     }
   ]
 }
