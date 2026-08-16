@@ -31681,6 +31681,25 @@
       },
       "participe_present": "soûlant",
       "participe_passe": ["soûlé", "soûlée", "soûlés", "soûlées"]
+    },
+    {
+      "id": "sommeiller",
+      "infinitif": "sommeiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « sommeillé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["sommeille", "sommeilles", "sommeille", "sommeillons", "sommeillez", "sommeillent"],
+        "ind.imp": ["sommeillais", "sommeillais", "sommeillait", "sommeillions", "sommeilliez", "sommeillaient"],
+        "ind.ps": ["sommeillai", "sommeillas", "sommeilla", "sommeillâmes", "sommeillâtes", "sommeillèrent"],
+        "ind.fut": ["sommeillerai", "sommeilleras", "sommeillera", "sommeillerons", "sommeillerez", "sommeilleront"],
+        "cond.pres": ["sommeillerais", "sommeillerais", "sommeillerait", "sommeillerions", "sommeilleriez", "sommeilleraient"],
+        "subj.pres": ["sommeille", "sommeilles", "sommeille", "sommeillions", "sommeilliez", "sommeillent"],
+        "subj.imp": ["sommeillasse", "sommeillasses", "sommeillât", "sommeillassions", "sommeillassiez", "sommeillassent"],
+        "imper.pres": ["sommeille", "sommeillons", "sommeillez"]
+      },
+      "participe_present": "sommeillant",
+      "participe_passe": ["sommeillé", null, null, null]
     }
   ]
 }
