@@ -25496,6 +25496,24 @@
       },
       "participe_present": "déduisant",
       "participe_passe": ["déduit", "déduite", "déduits", "déduites"]
+    },
+    {
+      "id": "doter",
+      "infinitif": "doter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dote", "dotes", "dote", "dotons", "dotez", "dotent"],
+        "ind.imp": ["dotais", "dotais", "dotait", "dotions", "dotiez", "dotaient"],
+        "ind.ps": ["dotai", "dotas", "dota", "dotâmes", "dotâtes", "dotèrent"],
+        "ind.fut": ["doterai", "doteras", "dotera", "doterons", "doterez", "doteront"],
+        "cond.pres": ["doterais", "doterais", "doterait", "doterions", "doteriez", "doteraient"],
+        "subj.pres": ["dote", "dotes", "dote", "dotions", "dotiez", "dotent"],
+        "subj.imp": ["dotasse", "dotasses", "dotât", "dotassions", "dotassiez", "dotassent"],
+        "imper.pres": ["dote", "dotons", "dotez"]
+      },
+      "participe_present": "dotant",
+      "participe_passe": ["doté", "dotée", "dotés", "dotées"]
     }
   ]
 }
