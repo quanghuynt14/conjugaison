@@ -10847,6 +10847,24 @@
       },
       "participe_present": "dévorant",
       "participe_passe": ["dévoré", "dévorée", "dévorés", "dévorées"]
+    },
+    {
+      "id": "unir",
+      "infinitif": "unir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["unis", "unis", "unit", "unissons", "unissez", "unissent"],
+        "ind.imp": ["unissais", "unissais", "unissait", "unissions", "unissiez", "unissaient"],
+        "ind.ps": ["unis", "unis", "unit", "unîmes", "unîtes", "unirent"],
+        "ind.fut": ["unirai", "uniras", "unira", "unirons", "unirez", "uniront"],
+        "cond.pres": ["unirais", "unirais", "unirait", "unirions", "uniriez", "uniraient"],
+        "subj.pres": ["unisse", "unisses", "unisse", "unissions", "unissiez", "unissent"],
+        "subj.imp": ["unisse", "unisses", "unît", "unissions", "unissiez", "unissent"],
+        "imper.pres": ["unis", "unissons", "unissez"]
+      },
+      "participe_present": "unissant",
+      "participe_passe": ["uni", "unie", "unis", "unies"]
     }
   ]
 }
