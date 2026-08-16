@@ -18024,6 +18024,24 @@
       },
       "participe_present": "classant",
       "participe_passe": ["classé", "classée", "classés", "classées"]
+    },
+    {
+      "id": "hériter",
+      "infinitif": "hériter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["hérite", "hérites", "hérite", "héritons", "héritez", "héritent"],
+        "ind.imp": ["héritais", "héritais", "héritait", "héritions", "héritiez", "héritaient"],
+        "ind.ps": ["héritai", "héritas", "hérita", "héritâmes", "héritâtes", "héritèrent"],
+        "ind.fut": ["hériterai", "hériteras", "héritera", "hériterons", "hériterez", "hériteront"],
+        "cond.pres": ["hériterais", "hériterais", "hériterait", "hériterions", "hériteriez", "hériteraient"],
+        "subj.pres": ["hérite", "hérites", "hérite", "héritions", "héritiez", "héritent"],
+        "subj.imp": ["héritasse", "héritasses", "héritât", "héritassions", "héritassiez", "héritassent"],
+        "imper.pres": ["hérite", "héritons", "héritez"]
+      },
+      "participe_present": "héritant",
+      "participe_passe": ["hérité", "héritée", "hérités", "héritées"]
     }
   ]
 }
