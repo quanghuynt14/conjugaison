@@ -4830,6 +4830,24 @@
       },
       "participe_present": "profitant",
       "participe_passe": ["profité", null, null, null]
+    },
+    {
+      "id": "partager",
+      "infinitif": "partager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["partage", "partages", "partage", "partageons", "partagez", "partagent"],
+        "ind.imp": ["partageais", "partageais", "partageait", "partagions", "partagiez", "partageaient"],
+        "ind.ps": ["partageai", "partageas", "partagea", "partageâmes", "partageâtes", "partagèrent"],
+        "ind.fut": ["partagerai", "partageras", "partagera", "partagerons", "partagerez", "partageront"],
+        "cond.pres": ["partagerais", "partagerais", "partagerait", "partagerions", "partageriez", "partageraient"],
+        "subj.pres": ["partage", "partages", "partage", "partagions", "partagiez", "partagent"],
+        "subj.imp": ["partageasse", "partageasses", "partageât", "partageassions", "partageassiez", "partageassent"],
+        "imper.pres": ["partage", "partageons", "partagez"]
+      },
+      "participe_present": "partageant",
+      "participe_passe": ["partagé", "partagée", "partagés", "partagées"]
     }
   ]
 }
