@@ -4630,6 +4630,24 @@
       },
       "participe_present": "appuyant",
       "participe_passe": ["appuyé", "appuyée", "appuyés", "appuyées"]
+    },
+    {
+      "id": "mêler",
+      "infinitif": "mêler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mêle", "mêles", "mêle", "mêlons", "mêlez", "mêlent"],
+        "ind.imp": ["mêlais", "mêlais", "mêlait", "mêlions", "mêliez", "mêlaient"],
+        "ind.ps": ["mêlai", "mêlas", "mêla", "mêlâmes", "mêlâtes", "mêlèrent"],
+        "ind.fut": ["mêlerai", "mêleras", "mêlera", "mêlerons", "mêlerez", "mêleront"],
+        "cond.pres": ["mêlerais", "mêlerais", "mêlerait", "mêlerions", "mêleriez", "mêleraient"],
+        "subj.pres": ["mêle", "mêles", "mêle", "mêlions", "mêliez", "mêlent"],
+        "subj.imp": ["mêlasse", "mêlasses", "mêlât", "mêlassions", "mêlassiez", "mêlassent"],
+        "imper.pres": ["mêle", "mêlons", "mêlez"]
+      },
+      "participe_present": "mêlant",
+      "participe_passe": ["mêlé", "mêlée", "mêlés", "mêlées"]
     }
   ]
 }
