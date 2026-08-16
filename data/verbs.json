@@ -28632,6 +28632,24 @@
       },
       "participe_present": "picolant",
       "participe_passe": ["picolé", "picolée", "picolés", "picolées"]
+    },
+    {
+      "id": "pétrifier",
+      "infinitif": "pétrifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pétrifie", "pétrifies", "pétrifie", "pétrifions", "pétrifiez", "pétrifient"],
+        "ind.imp": ["pétrifiais", "pétrifiais", "pétrifiait", "pétrifiions", "pétrifiiez", "pétrifiaient"],
+        "ind.ps": ["pétrifiai", "pétrifias", "pétrifia", "pétrifiâmes", "pétrifiâtes", "pétrifièrent"],
+        "ind.fut": ["pétrifierai", "pétrifieras", "pétrifiera", "pétrifierons", "pétrifierez", "pétrifieront"],
+        "cond.pres": ["pétrifierais", "pétrifierais", "pétrifierait", "pétrifierions", "pétrifieriez", "pétrifieraient"],
+        "subj.pres": ["pétrifie", "pétrifies", "pétrifie", "pétrifiions", "pétrifiiez", "pétrifient"],
+        "subj.imp": ["pétrifiasse", "pétrifiasses", "pétrifiât", "pétrifiassions", "pétrifiassiez", "pétrifiassent"],
+        "imper.pres": ["pétrifie", "pétrifions", "pétrifiez"]
+      },
+      "participe_present": "pétrifiant",
+      "participe_passe": ["pétrifié", "pétrifiée", "pétrifiés", "pétrifiées"]
     }
   ]
 }
