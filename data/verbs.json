@@ -32557,6 +32557,24 @@
       },
       "participe_present": "truquant",
       "participe_passe": ["truqué", "truquée", "truqués", "truquées"]
+    },
+    {
+      "id": "recharger",
+      "infinitif": "recharger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recharge", "recharges", "recharge", "rechargeons", "rechargez", "rechargent"],
+        "ind.imp": ["rechargeais", "rechargeais", "rechargeait", "rechargions", "rechargiez", "rechargeaient"],
+        "ind.ps": ["rechargeai", "rechargeas", "rechargea", "rechargeâmes", "rechargeâtes", "rechargèrent"],
+        "ind.fut": ["rechargerai", "rechargeras", "rechargera", "rechargerons", "rechargerez", "rechargeront"],
+        "cond.pres": ["rechargerais", "rechargerais", "rechargerait", "rechargerions", "rechargeriez", "rechargeraient"],
+        "subj.pres": ["recharge", "recharges", "recharge", "rechargions", "rechargiez", "rechargent"],
+        "subj.imp": ["rechargeasse", "rechargeasses", "rechargeât", "rechargeassions", "rechargeassiez", "rechargeassent"],
+        "imper.pres": ["recharge", "rechargeons", "rechargez"]
+      },
+      "participe_present": "rechargeant",
+      "participe_passe": ["rechargé", "rechargée", "rechargés", "rechargées"]
     }
   ]
 }
