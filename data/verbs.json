@@ -17770,6 +17770,24 @@
       },
       "participe_present": "effectuant",
       "participe_passe": ["effectué", "effectuée", "effectués", "effectuées"]
+    },
+    {
+      "id": "acharner",
+      "infinitif": "acharner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["acharne", "acharnes", "acharne", "acharnons", "acharnez", "acharnent"],
+        "ind.imp": ["acharnais", "acharnais", "acharnait", "acharnions", "acharniez", "acharnaient"],
+        "ind.ps": ["acharnai", "acharnas", "acharna", "acharnâmes", "acharnâtes", "acharnèrent"],
+        "ind.fut": ["acharnerai", "acharneras", "acharnera", "acharnerons", "acharnerez", "acharneront"],
+        "cond.pres": ["acharnerais", "acharnerais", "acharnerait", "acharnerions", "acharneriez", "acharneraient"],
+        "subj.pres": ["acharne", "acharnes", "acharne", "acharnions", "acharniez", "acharnent"],
+        "subj.imp": ["acharnasse", "acharnasses", "acharnât", "acharnassions", "acharnassiez", "acharnassent"],
+        "imper.pres": ["acharne", "acharnons", "acharnez"]
+      },
+      "participe_present": "acharnant",
+      "participe_passe": ["acharné", "acharnée", "acharnés", "acharnées"]
     }
   ]
 }
