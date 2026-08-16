@@ -12465,6 +12465,24 @@
       },
       "participe_present": "pétant",
       "participe_passe": ["pété", "pétée", "pétés", "pétées"]
+    },
+    {
+      "id": "enregistrer",
+      "infinitif": "enregistrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enregistre", "enregistres", "enregistre", "enregistrons", "enregistrez", "enregistrent"],
+        "ind.imp": ["enregistrais", "enregistrais", "enregistrait", "enregistrions", "enregistriez", "enregistraient"],
+        "ind.ps": ["enregistrai", "enregistras", "enregistra", "enregistrâmes", "enregistrâtes", "enregistrèrent"],
+        "ind.fut": ["enregistrerai", "enregistreras", "enregistrera", "enregistrerons", "enregistrerez", "enregistreront"],
+        "cond.pres": ["enregistrerais", "enregistrerais", "enregistrerait", "enregistrerions", "enregistreriez", "enregistreraient"],
+        "subj.pres": ["enregistre", "enregistres", "enregistre", "enregistrions", "enregistriez", "enregistrent"],
+        "subj.imp": ["enregistrasse", "enregistrasses", "enregistrât", "enregistrassions", "enregistrassiez", "enregistrassent"],
+        "imper.pres": ["enregistre", "enregistrons", "enregistrez"]
+      },
+      "participe_present": "enregistrant",
+      "participe_passe": ["enregistré", "enregistrée", "enregistrés", "enregistrées"]
     }
   ]
 }
