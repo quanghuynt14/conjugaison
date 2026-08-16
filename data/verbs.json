@@ -19905,6 +19905,25 @@
       },
       "participe_present": "liquidant",
       "participe_passe": ["liquidé", "liquidée", "liquidés", "liquidées"]
+    },
+    {
+      "id": "renaître",
+      "infinitif": "renaître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "note": "Pas de participe passé, donc pas un seul temps composé : on ne dit ni « il a rené », ni « il est rené ». La langue passe par un autre verbe.",
+      "tenses": {
+        "ind.pres": ["renais", "renais", "renaît", "renaissons", "renaissez", "renaissent"],
+        "ind.imp": ["renaissais", "renaissais", "renaissait", "renaissions", "renaissiez", "renaissaient"],
+        "ind.ps": ["renaquis", "renaquis", "renaquit", "renaquîmes", "renaquîtes", "renaquirent"],
+        "ind.fut": ["renaîtrai", "renaîtras", "renaîtra", "renaîtrons", "renaîtrez", "renaîtront"],
+        "cond.pres": ["renaîtrais", "renaîtrais", "renaîtrait", "renaîtrions", "renaîtriez", "renaîtraient"],
+        "subj.pres": ["renaisse", "renaisses", "renaisse", "renaissions", "renaissiez", "renaissent"],
+        "subj.imp": ["renaquisse", "renaquisses", "renaquît", "renaquissions", "renaquissiez", "renaquissent"],
+        "imper.pres": ["renais", "renaissons", "renaissez"]
+      },
+      "participe_present": "renaissant",
+      "participe_passe": [null, null, null, null]
     }
   ]
 }
