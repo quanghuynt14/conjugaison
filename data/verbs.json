@@ -25789,6 +25789,24 @@
       },
       "participe_present": "détectant",
       "participe_passe": ["détecté", "détectée", "détectés", "détectées"]
+    },
+    {
+      "id": "édifier",
+      "infinitif": "édifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["édifie", "édifies", "édifie", "édifions", "édifiez", "édifient"],
+        "ind.imp": ["édifiais", "édifiais", "édifiait", "édifiions", "édifiiez", "édifiaient"],
+        "ind.ps": ["édifiai", "édifias", "édifia", "édifiâmes", "édifiâtes", "édifièrent"],
+        "ind.fut": ["édifierai", "édifieras", "édifiera", "édifierons", "édifierez", "édifieront"],
+        "cond.pres": ["édifierais", "édifierais", "édifierait", "édifierions", "édifieriez", "édifieraient"],
+        "subj.pres": ["édifie", "édifies", "édifie", "édifiions", "édifiiez", "édifient"],
+        "subj.imp": ["édifiasse", "édifiasses", "édifiât", "édifiassions", "édifiassiez", "édifiassent"],
+        "imper.pres": ["édifie", "édifions", "édifiez"]
+      },
+      "participe_present": "édifiant",
+      "participe_passe": ["édifié", "édifiée", "édifiés", "édifiées"]
     }
   ]
 }
