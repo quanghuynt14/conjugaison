@@ -8849,6 +8849,24 @@
       },
       "participe_present": "énervant",
       "participe_passe": ["énervé", "énervée", "énervés", "énervées"]
+    },
+    {
+      "id": "louer",
+      "infinitif": "louer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["loue", "loues", "loue", "louons", "louez", "louent"],
+        "ind.imp": ["louais", "louais", "louait", "louions", "louiez", "louaient"],
+        "ind.ps": ["louai", "louas", "loua", "louâmes", "louâtes", "louèrent"],
+        "ind.fut": ["louerai", "loueras", "louera", "louerons", "louerez", "loueront"],
+        "cond.pres": ["louerais", "louerais", "louerait", "louerions", "loueriez", "loueraient"],
+        "subj.pres": ["loue", "loues", "loue", "louions", "louiez", "louent"],
+        "subj.imp": ["louasse", "louasses", "louât", "louassions", "louassiez", "louassent"],
+        "imper.pres": ["loue", "louons", "louez"]
+      },
+      "participe_present": "louant",
+      "participe_passe": ["loué", "louée", "loués", "louées"]
     }
   ]
 }
