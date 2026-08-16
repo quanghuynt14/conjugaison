@@ -27651,6 +27651,24 @@
       },
       "participe_present": "fredonnant",
       "participe_passe": ["fredonné", "fredonnée", "fredonnés", "fredonnées"]
+    },
+    {
+      "id": "griser",
+      "infinitif": "griser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["grise", "grises", "grise", "grisons", "grisez", "grisent"],
+        "ind.imp": ["grisais", "grisais", "grisait", "grisions", "grisiez", "grisaient"],
+        "ind.ps": ["grisai", "grisas", "grisa", "grisâmes", "grisâtes", "grisèrent"],
+        "ind.fut": ["griserai", "griseras", "grisera", "griserons", "griserez", "griseront"],
+        "cond.pres": ["griserais", "griserais", "griserait", "griserions", "griseriez", "griseraient"],
+        "subj.pres": ["grise", "grises", "grise", "grisions", "grisiez", "grisent"],
+        "subj.imp": ["grisasse", "grisasses", "grisât", "grisassions", "grisassiez", "grisassent"],
+        "imper.pres": ["grise", "grisons", "grisez"]
+      },
+      "participe_present": "grisant",
+      "participe_passe": ["grisé", "grisée", "grisés", "grisées"]
     }
   ]
 }
