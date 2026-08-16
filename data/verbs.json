@@ -8488,6 +8488,25 @@
       },
       "participe_present": "réservant",
       "participe_passe": ["réservé", "réservée", "réservés", "réservées"]
+    },
+    {
+      "id": "rigoler",
+      "infinitif": "rigoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « rigolé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["rigole", "rigoles", "rigole", "rigolons", "rigolez", "rigolent"],
+        "ind.imp": ["rigolais", "rigolais", "rigolait", "rigolions", "rigoliez", "rigolaient"],
+        "ind.ps": ["rigolai", "rigolas", "rigola", "rigolâmes", "rigolâtes", "rigolèrent"],
+        "ind.fut": ["rigolerai", "rigoleras", "rigolera", "rigolerons", "rigolerez", "rigoleront"],
+        "cond.pres": ["rigolerais", "rigolerais", "rigolerait", "rigolerions", "rigoleriez", "rigoleraient"],
+        "subj.pres": ["rigole", "rigoles", "rigole", "rigolions", "rigoliez", "rigolent"],
+        "subj.imp": ["rigolasse", "rigolasses", "rigolât", "rigolassions", "rigolassiez", "rigolassent"],
+        "imper.pres": ["rigole", "rigolons", "rigolez"]
+      },
+      "participe_present": "rigolant",
+      "participe_passe": ["rigolé", null, null, null]
     }
   ]
 }
