@@ -27249,6 +27249,24 @@
       },
       "participe_present": "giclant",
       "participe_passe": ["giclé", null, null, null]
+    },
+    {
+      "id": "enivrer",
+      "infinitif": "enivrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enivre", "enivres", "enivre", "enivrons", "enivrez", "enivrent"],
+        "ind.imp": ["enivrais", "enivrais", "enivrait", "enivrions", "enivriez", "enivraient"],
+        "ind.ps": ["enivrai", "enivras", "enivra", "enivrâmes", "enivrâtes", "enivrèrent"],
+        "ind.fut": ["enivrerai", "enivreras", "enivrera", "enivrerons", "enivrerez", "enivreront"],
+        "cond.pres": ["enivrerais", "enivrerais", "enivrerait", "enivrerions", "enivreriez", "enivreraient"],
+        "subj.pres": ["enivre", "enivres", "enivre", "enivrions", "enivriez", "enivrent"],
+        "subj.imp": ["enivrasse", "enivrasses", "enivrât", "enivrassions", "enivrassiez", "enivrassent"],
+        "imper.pres": ["enivre", "enivrons", "enivrez"]
+      },
+      "participe_present": "enivrant",
+      "participe_passe": ["enivré", "enivrée", "enivrés", "enivrées"]
     }
   ]
 }
