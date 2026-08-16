@@ -1167,6 +1167,25 @@
       },
       "participe_present": "retrouvant",
       "participe_passe": ["retrouvé", "retrouvée", "retrouvés", "retrouvées"]
+    },
+    {
+      "id": "marcher",
+      "infinitif": "marcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « marché » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["marche", "marches", "marche", "marchons", "marchez", "marchent"],
+        "ind.imp": ["marchais", "marchais", "marchait", "marchions", "marchiez", "marchaient"],
+        "ind.ps": ["marchai", "marchas", "marcha", "marchâmes", "marchâtes", "marchèrent"],
+        "ind.fut": ["marcherai", "marcheras", "marchera", "marcherons", "marcherez", "marcheront"],
+        "cond.pres": ["marcherais", "marcherais", "marcherait", "marcherions", "marcheriez", "marcheraient"],
+        "subj.pres": ["marche", "marches", "marche", "marchions", "marchiez", "marchent"],
+        "subj.imp": ["marchasse", "marchasses", "marchât", "marchassions", "marchassiez", "marchassent"],
+        "imper.pres": ["marche", "marchons", "marchez"]
+      },
+      "participe_present": "marchant",
+      "participe_passe": ["marché", null, null, null]
     }
   ]
 }
