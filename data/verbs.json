@@ -8109,6 +8109,24 @@
       },
       "participe_present": "visitant",
       "participe_passe": ["visité", "visitée", "visités", "visitées"]
+    },
+    {
+      "id": "examiner",
+      "infinitif": "examiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["examine", "examines", "examine", "examinons", "examinez", "examinent"],
+        "ind.imp": ["examinais", "examinais", "examinait", "examinions", "examiniez", "examinaient"],
+        "ind.ps": ["examinai", "examinas", "examina", "examinâmes", "examinâtes", "examinèrent"],
+        "ind.fut": ["examinerai", "examineras", "examinera", "examinerons", "examinerez", "examineront"],
+        "cond.pres": ["examinerais", "examinerais", "examinerait", "examinerions", "examineriez", "examineraient"],
+        "subj.pres": ["examine", "examines", "examine", "examinions", "examiniez", "examinent"],
+        "subj.imp": ["examinasse", "examinasses", "examinât", "examinassions", "examinassiez", "examinassent"],
+        "imper.pres": ["examine", "examinons", "examinez"]
+      },
+      "participe_present": "examinant",
+      "participe_passe": ["examiné", "examinée", "examinés", "examinées"]
     }
   ]
 }
