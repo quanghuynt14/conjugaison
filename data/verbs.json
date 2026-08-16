@@ -18905,6 +18905,24 @@
       },
       "participe_present": "souillant",
       "participe_passe": ["souillé", "souillée", "souillés", "souillées"]
+    },
+    {
+      "id": "évoluer",
+      "infinitif": "évoluer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["évolue", "évolues", "évolue", "évoluons", "évoluez", "évoluent"],
+        "ind.imp": ["évoluais", "évoluais", "évoluait", "évoluions", "évoluiez", "évoluaient"],
+        "ind.ps": ["évoluai", "évoluas", "évolua", "évoluâmes", "évoluâtes", "évoluèrent"],
+        "ind.fut": ["évoluerai", "évolueras", "évoluera", "évoluerons", "évoluerez", "évolueront"],
+        "cond.pres": ["évoluerais", "évoluerais", "évoluerait", "évoluerions", "évolueriez", "évolueraient"],
+        "subj.pres": ["évolue", "évolues", "évolue", "évoluions", "évoluiez", "évoluent"],
+        "subj.imp": ["évoluasse", "évoluasses", "évoluât", "évoluassions", "évoluassiez", "évoluassent"],
+        "imper.pres": ["évolue", "évoluons", "évoluez"]
+      },
+      "participe_present": "évoluant",
+      "participe_passe": ["évolué", "évoluée", "évolués", "évoluées"]
     }
   ]
 }
