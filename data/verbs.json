@@ -16805,6 +16805,24 @@
       },
       "participe_present": "associant",
       "participe_passe": ["associé", "associée", "associés", "associées"]
+    },
+    {
+      "id": "empoigner",
+      "infinitif": "empoigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["empoigne", "empoignes", "empoigne", "empoignons", "empoignez", "empoignent"],
+        "ind.imp": ["empoignais", "empoignais", "empoignait", "empoignions", "empoigniez", "empoignaient"],
+        "ind.ps": ["empoignai", "empoignas", "empoigna", "empoignâmes", "empoignâtes", "empoignèrent"],
+        "ind.fut": ["empoignerai", "empoigneras", "empoignera", "empoignerons", "empoignerez", "empoigneront"],
+        "cond.pres": ["empoignerais", "empoignerais", "empoignerait", "empoignerions", "empoigneriez", "empoigneraient"],
+        "subj.pres": ["empoigne", "empoignes", "empoigne", "empoignions", "empoigniez", "empoignent"],
+        "subj.imp": ["empoignasse", "empoignasses", "empoignât", "empoignassions", "empoignassiez", "empoignassent"],
+        "imper.pres": ["empoigne", "empoignons", "empoignez"]
+      },
+      "participe_present": "empoignant",
+      "participe_passe": ["empoigné", "empoignée", "empoignés", "empoignées"]
     }
   ]
 }
