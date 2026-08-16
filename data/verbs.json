@@ -12719,6 +12719,24 @@
       },
       "participe_present": "sacrifiant",
       "participe_passe": ["sacrifié", "sacrifiée", "sacrifiés", "sacrifiées"]
+    },
+    {
+      "id": "aborder",
+      "infinitif": "aborder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aborde", "abordes", "aborde", "abordons", "abordez", "abordent"],
+        "ind.imp": ["abordais", "abordais", "abordait", "abordions", "abordiez", "abordaient"],
+        "ind.ps": ["abordai", "abordas", "aborda", "abordâmes", "abordâtes", "abordèrent"],
+        "ind.fut": ["aborderai", "aborderas", "abordera", "aborderons", "aborderez", "aborderont"],
+        "cond.pres": ["aborderais", "aborderais", "aborderait", "aborderions", "aborderiez", "aborderaient"],
+        "subj.pres": ["aborde", "abordes", "aborde", "abordions", "abordiez", "abordent"],
+        "subj.imp": ["abordasse", "abordasses", "abordât", "abordassions", "abordassiez", "abordassent"],
+        "imper.pres": ["aborde", "abordons", "abordez"]
+      },
+      "participe_present": "abordant",
+      "participe_passe": ["abordé", "abordée", "abordés", "abordées"]
     }
   ]
 }
