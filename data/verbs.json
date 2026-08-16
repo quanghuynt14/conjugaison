@@ -21096,6 +21096,24 @@
       },
       "participe_present": "massant",
       "participe_passe": ["massé", "massée", "massés", "massées"]
+    },
+    {
+      "id": "savourer",
+      "infinitif": "savourer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["savoure", "savoures", "savoure", "savourons", "savourez", "savourent"],
+        "ind.imp": ["savourais", "savourais", "savourait", "savourions", "savouriez", "savouraient"],
+        "ind.ps": ["savourai", "savouras", "savoura", "savourâmes", "savourâtes", "savourèrent"],
+        "ind.fut": ["savourerai", "savoureras", "savourera", "savourerons", "savourerez", "savoureront"],
+        "cond.pres": ["savourerais", "savourerais", "savourerait", "savourerions", "savoureriez", "savoureraient"],
+        "subj.pres": ["savoure", "savoures", "savoure", "savourions", "savouriez", "savourent"],
+        "subj.imp": ["savourasse", "savourasses", "savourât", "savourassions", "savourassiez", "savourassent"],
+        "imper.pres": ["savoure", "savourons", "savourez"]
+      },
+      "participe_present": "savourant",
+      "participe_passe": ["savouré", "savourée", "savourés", "savourées"]
     }
   ]
 }
