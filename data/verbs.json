@@ -6622,6 +6622,24 @@
       },
       "participe_present": "remplaçant",
       "participe_passe": ["remplacé", "remplacée", "remplacés", "remplacées"]
+    },
+    {
+      "id": "saluer",
+      "infinitif": "saluer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["salue", "salues", "salue", "saluons", "saluez", "saluent"],
+        "ind.imp": ["saluais", "saluais", "saluait", "saluions", "saluiez", "saluaient"],
+        "ind.ps": ["saluai", "saluas", "salua", "saluâmes", "saluâtes", "saluèrent"],
+        "ind.fut": ["saluerai", "salueras", "saluera", "saluerons", "saluerez", "salueront"],
+        "cond.pres": ["saluerais", "saluerais", "saluerait", "saluerions", "salueriez", "salueraient"],
+        "subj.pres": ["salue", "salues", "salue", "saluions", "saluiez", "saluent"],
+        "subj.imp": ["saluasse", "saluasses", "saluât", "saluassions", "saluassiez", "saluassent"],
+        "imper.pres": ["salue", "saluons", "saluez"]
+      },
+      "participe_present": "saluant",
+      "participe_passe": ["salué", "saluée", "salués", "saluées"]
     }
   ]
 }
