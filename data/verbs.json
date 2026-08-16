@@ -6859,6 +6859,25 @@
       },
       "participe_present": "balançant",
       "participe_passe": ["balancé", "balancée", "balancés", "balancées"]
+    },
+    {
+      "id": "récupérer",
+      "infinitif": "récupérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je récupérerai » ou « je récupèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["récupère", "récupères", "récupère", "récupérons", "récupérez", "récupèrent"],
+        "ind.imp": ["récupérais", "récupérais", "récupérait", "récupérions", "récupériez", "récupéraient"],
+        "ind.ps": ["récupérai", "récupéras", "récupéra", "récupérâmes", "récupérâtes", "récupérèrent"],
+        "ind.fut": [["récupérerai", "récupèrerai"], ["récupéreras", "récupèreras"], ["récupérera", "récupèrera"], ["récupérerons", "récupèrerons"], ["récupérerez", "récupèrerez"], ["récupéreront", "récupèreront"]],
+        "cond.pres": [["récupérerais", "récupèrerais"], ["récupérerais", "récupèrerais"], ["récupérerait", "récupèrerait"], ["récupérerions", "récupèrerions"], ["récupéreriez", "récupèreriez"], ["récupéreraient", "récupèreraient"]],
+        "subj.pres": ["récupère", "récupères", "récupère", "récupérions", "récupériez", "récupèrent"],
+        "subj.imp": ["récupérasse", "récupérasses", "récupérât", "récupérassions", "récupérassiez", "récupérassent"],
+        "imper.pres": ["récupère", "récupérons", "récupérez"]
+      },
+      "participe_present": "récupérant",
+      "participe_passe": ["récupéré", "récupérée", "récupérés", "récupérées"]
     }
   ]
 }
