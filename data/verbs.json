@@ -21368,6 +21368,24 @@
       },
       "participe_present": "enflammant",
       "participe_passe": ["enflammé", "enflammée", "enflammés", "enflammées"]
+    },
+    {
+      "id": "croquer",
+      "infinitif": "croquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["croque", "croques", "croque", "croquons", "croquez", "croquent"],
+        "ind.imp": ["croquais", "croquais", "croquait", "croquions", "croquiez", "croquaient"],
+        "ind.ps": ["croquai", "croquas", "croqua", "croquâmes", "croquâtes", "croquèrent"],
+        "ind.fut": ["croquerai", "croqueras", "croquera", "croquerons", "croquerez", "croqueront"],
+        "cond.pres": ["croquerais", "croquerais", "croquerait", "croquerions", "croqueriez", "croqueraient"],
+        "subj.pres": ["croque", "croques", "croque", "croquions", "croquiez", "croquent"],
+        "subj.imp": ["croquasse", "croquasses", "croquât", "croquassions", "croquassiez", "croquassent"],
+        "imper.pres": ["croque", "croquons", "croquez"]
+      },
+      "participe_present": "croquant",
+      "participe_passe": ["croqué", "croquée", "croqués", "croquées"]
     }
   ]
 }
