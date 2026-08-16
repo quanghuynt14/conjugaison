@@ -12,7 +12,7 @@ export DICT_DEV_KIT_OBJ_DIR
 
 DESTINATION_FOLDER  = $(HOME)/Library/Dictionaries
 
-.PHONY: all xml build install uninstall setup clean check verify refresh
+.PHONY: all xml build install uninstall setup clean check verify refresh verbe
 
 all: install
 
@@ -25,6 +25,14 @@ setup:
 
 xml:
 	python3 scripts/build_xml.py
+
+# Le prochain verbe de data/frequence.txt entre dans data/verbs.json, avec ses
+# formes prises dans Verbiste. `make verbe N=10` en fait entrer dix. Le
+# classement lui-même se refait par `python3 scripts/import_verbs.py
+# --classement`, qui a besoin des vingt-cinq mégaoctets de Lexique.
+N ?= 1
+verbe:
+	python3 scripts/import_verbs.py --add $(N)
 
 # -v 10.11 : la disposition moderne du bundle — données sous Contents/Resources,
 # index trie, IDXDictionaryVersion 3. Sans elle, build_dict.sh vise 10.5 par défaut

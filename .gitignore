@@ -4,6 +4,11 @@ objects/
 # Le Dictionary Development Kit est à Apple. On le clone, on ne le commite pas.
 tools/dictionary-development-kit/
 
+# Verbiste et Lexique, téléchargés par scripts/import_verbs.py. Même raison :
+# ce sont les fichiers de quelqu'un d'autre. Ce qu'on en tire est versionné,
+# eux non — quatre-vingts mégaoctets dans un dépôt qui en pèse un.
+data/sources/
+
 .DS_Store
 __pycache__/
 
