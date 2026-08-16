@@ -14100,6 +14100,24 @@
       },
       "participe_present": "recommandant",
       "participe_passe": ["recommandé", "recommandée", "recommandés", "recommandées"]
+    },
+    {
+      "id": "doubler",
+      "infinitif": "doubler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["double", "doubles", "double", "doublons", "doublez", "doublent"],
+        "ind.imp": ["doublais", "doublais", "doublait", "doublions", "doubliez", "doublaient"],
+        "ind.ps": ["doublai", "doublas", "doubla", "doublâmes", "doublâtes", "doublèrent"],
+        "ind.fut": ["doublerai", "doubleras", "doublera", "doublerons", "doublerez", "doubleront"],
+        "cond.pres": ["doublerais", "doublerais", "doublerait", "doublerions", "doubleriez", "doubleraient"],
+        "subj.pres": ["double", "doubles", "double", "doublions", "doubliez", "doublent"],
+        "subj.imp": ["doublasse", "doublasses", "doublât", "doublassions", "doublassiez", "doublassent"],
+        "imper.pres": ["double", "doublons", "doublez"]
+      },
+      "participe_present": "doublant",
+      "participe_passe": ["doublé", "doublée", "doublés", "doublées"]
     }
   ]
 }
