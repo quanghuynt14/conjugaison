@@ -14010,6 +14010,24 @@
       },
       "participe_present": "apprêtant",
       "participe_passe": ["apprêté", "apprêtée", "apprêtés", "apprêtées"]
+    },
+    {
+      "id": "pratiquer",
+      "infinitif": "pratiquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pratique", "pratiques", "pratique", "pratiquons", "pratiquez", "pratiquent"],
+        "ind.imp": ["pratiquais", "pratiquais", "pratiquait", "pratiquions", "pratiquiez", "pratiquaient"],
+        "ind.ps": ["pratiquai", "pratiquas", "pratiqua", "pratiquâmes", "pratiquâtes", "pratiquèrent"],
+        "ind.fut": ["pratiquerai", "pratiqueras", "pratiquera", "pratiquerons", "pratiquerez", "pratiqueront"],
+        "cond.pres": ["pratiquerais", "pratiquerais", "pratiquerait", "pratiquerions", "pratiqueriez", "pratiqueraient"],
+        "subj.pres": ["pratique", "pratiques", "pratique", "pratiquions", "pratiquiez", "pratiquent"],
+        "subj.imp": ["pratiquasse", "pratiquasses", "pratiquât", "pratiquassions", "pratiquassiez", "pratiquassent"],
+        "imper.pres": ["pratique", "pratiquons", "pratiquez"]
+      },
+      "participe_present": "pratiquant",
+      "participe_passe": ["pratiqué", "pratiquée", "pratiqués", "pratiquées"]
     }
   ]
 }
