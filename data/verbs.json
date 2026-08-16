@@ -18042,6 +18042,24 @@
       },
       "participe_present": "héritant",
       "participe_passe": ["hérité", "héritée", "hérités", "héritées"]
+    },
+    {
+      "id": "élire",
+      "infinitif": "élire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["élis", "élis", "élit", "élisons", "élisez", "élisent"],
+        "ind.imp": ["élisais", "élisais", "élisait", "élisions", "élisiez", "élisaient"],
+        "ind.ps": ["élus", "élus", "élut", "élûmes", "élûtes", "élurent"],
+        "ind.fut": ["élirai", "éliras", "élira", "élirons", "élirez", "éliront"],
+        "cond.pres": ["élirais", "élirais", "élirait", "élirions", "éliriez", "éliraient"],
+        "subj.pres": ["élise", "élises", "élise", "élisions", "élisiez", "élisent"],
+        "subj.imp": ["élusse", "élusses", "élût", "élussions", "élussiez", "élussent"],
+        "imper.pres": ["élis", "élisons", "élisez"]
+      },
+      "participe_present": "élisant",
+      "participe_passe": ["élu", "élue", "élus", "élues"]
     }
   ]
 }
