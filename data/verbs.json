@@ -34067,6 +34067,24 @@
       },
       "participe_present": "sirotant",
       "participe_passe": ["siroté", "sirotée", "sirotés", "sirotées"]
+    },
+    {
+      "id": "bafouer",
+      "infinitif": "bafouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bafoue", "bafoues", "bafoue", "bafouons", "bafouez", "bafouent"],
+        "ind.imp": ["bafouais", "bafouais", "bafouait", "bafouions", "bafouiez", "bafouaient"],
+        "ind.ps": ["bafouai", "bafouas", "bafoua", "bafouâmes", "bafouâtes", "bafouèrent"],
+        "ind.fut": ["bafouerai", "bafoueras", "bafouera", "bafouerons", "bafouerez", "bafoueront"],
+        "cond.pres": ["bafouerais", "bafouerais", "bafouerait", "bafouerions", "bafoueriez", "bafoueraient"],
+        "subj.pres": ["bafoue", "bafoues", "bafoue", "bafouions", "bafouiez", "bafouent"],
+        "subj.imp": ["bafouasse", "bafouasses", "bafouât", "bafouassions", "bafouassiez", "bafouassent"],
+        "imper.pres": ["bafoue", "bafouons", "bafouez"]
+      },
+      "participe_present": "bafouant",
+      "participe_passe": ["bafoué", "bafouée", "bafoués", "bafouées"]
     }
   ]
 }
