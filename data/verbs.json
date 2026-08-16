@@ -30511,6 +30511,24 @@
       },
       "participe_present": "attestant",
       "participe_passe": ["attesté", "attestée", "attestés", "attestées"]
+    },
+    {
+      "id": "farder",
+      "infinitif": "farder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["farde", "fardes", "farde", "fardons", "fardez", "fardent"],
+        "ind.imp": ["fardais", "fardais", "fardait", "fardions", "fardiez", "fardaient"],
+        "ind.ps": ["fardai", "fardas", "farda", "fardâmes", "fardâtes", "fardèrent"],
+        "ind.fut": ["farderai", "farderas", "fardera", "farderons", "farderez", "farderont"],
+        "cond.pres": ["farderais", "farderais", "farderait", "farderions", "farderiez", "farderaient"],
+        "subj.pres": ["farde", "fardes", "farde", "fardions", "fardiez", "fardent"],
+        "subj.imp": ["fardasse", "fardasses", "fardât", "fardassions", "fardassiez", "fardassent"],
+        "imper.pres": ["farde", "fardons", "fardez"]
+      },
+      "participe_present": "fardant",
+      "participe_passe": ["fardé", "fardée", "fardés", "fardées"]
     }
   ]
 }
