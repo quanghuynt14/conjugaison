@@ -19688,6 +19688,24 @@
       },
       "participe_present": "reniant",
       "participe_passe": ["renié", "reniée", "reniés", "reniées"]
+    },
+    {
+      "id": "dicter",
+      "infinitif": "dicter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dicte", "dictes", "dicte", "dictons", "dictez", "dictent"],
+        "ind.imp": ["dictais", "dictais", "dictait", "dictions", "dictiez", "dictaient"],
+        "ind.ps": ["dictai", "dictas", "dicta", "dictâmes", "dictâtes", "dictèrent"],
+        "ind.fut": ["dicterai", "dicteras", "dictera", "dicterons", "dicterez", "dicteront"],
+        "cond.pres": ["dicterais", "dicterais", "dicterait", "dicterions", "dicteriez", "dicteraient"],
+        "subj.pres": ["dicte", "dictes", "dicte", "dictions", "dictiez", "dictent"],
+        "subj.imp": ["dictasse", "dictasses", "dictât", "dictassions", "dictassiez", "dictassent"],
+        "imper.pres": ["dicte", "dictons", "dictez"]
+      },
+      "participe_present": "dictant",
+      "participe_passe": ["dicté", "dictée", "dictés", "dictées"]
     }
   ]
 }
