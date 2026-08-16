@@ -11591,6 +11591,24 @@
       },
       "participe_present": "emparant",
       "participe_passe": ["emparé", "emparée", "emparés", "emparées"]
+    },
+    {
+      "id": "comparer",
+      "infinitif": "comparer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["compare", "compares", "compare", "comparons", "comparez", "comparent"],
+        "ind.imp": ["comparais", "comparais", "comparait", "comparions", "compariez", "comparaient"],
+        "ind.ps": ["comparai", "comparas", "compara", "comparâmes", "comparâtes", "comparèrent"],
+        "ind.fut": ["comparerai", "compareras", "comparera", "comparerons", "comparerez", "compareront"],
+        "cond.pres": ["comparerais", "comparerais", "comparerait", "comparerions", "compareriez", "compareraient"],
+        "subj.pres": ["compare", "compares", "compare", "comparions", "compariez", "comparent"],
+        "subj.imp": ["comparasse", "comparasses", "comparât", "comparassions", "comparassiez", "comparassent"],
+        "imper.pres": ["compare", "comparons", "comparez"]
+      },
+      "participe_present": "comparant",
+      "participe_passe": ["comparé", "comparée", "comparés", "comparées"]
     }
   ]
 }
