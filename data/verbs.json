@@ -34671,6 +34671,24 @@
       },
       "participe_present": "emboîtant",
       "participe_passe": ["emboîté", "emboîtée", "emboîtés", "emboîtées"]
+    },
+    {
+      "id": "arnaquer",
+      "infinitif": "arnaquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["arnaque", "arnaques", "arnaque", "arnaquons", "arnaquez", "arnaquent"],
+        "ind.imp": ["arnaquais", "arnaquais", "arnaquait", "arnaquions", "arnaquiez", "arnaquaient"],
+        "ind.ps": ["arnaquai", "arnaquas", "arnaqua", "arnaquâmes", "arnaquâtes", "arnaquèrent"],
+        "ind.fut": ["arnaquerai", "arnaqueras", "arnaquera", "arnaquerons", "arnaquerez", "arnaqueront"],
+        "cond.pres": ["arnaquerais", "arnaquerais", "arnaquerait", "arnaquerions", "arnaqueriez", "arnaqueraient"],
+        "subj.pres": ["arnaque", "arnaques", "arnaque", "arnaquions", "arnaquiez", "arnaquent"],
+        "subj.imp": ["arnaquasse", "arnaquasses", "arnaquât", "arnaquassions", "arnaquassiez", "arnaquassent"],
+        "imper.pres": ["arnaque", "arnaquons", "arnaquez"]
+      },
+      "participe_present": "arnaquant",
+      "participe_passe": ["arnaqué", "arnaquée", "arnaqués", "arnaquées"]
     }
   ]
 }
