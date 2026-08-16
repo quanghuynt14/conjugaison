@@ -1350,6 +1350,24 @@
       },
       "participe_present": "levant",
       "participe_passe": ["levé", "levée", "levés", "levées"]
+    },
+    {
+      "id": "lire",
+      "infinitif": "lire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["lis", "lis", "lit", "lisons", "lisez", "lisent"],
+        "ind.imp": ["lisais", "lisais", "lisait", "lisions", "lisiez", "lisaient"],
+        "ind.ps": ["lus", "lus", "lut", "lûmes", "lûtes", "lurent"],
+        "ind.fut": ["lirai", "liras", "lira", "lirons", "lirez", "liront"],
+        "cond.pres": ["lirais", "lirais", "lirait", "lirions", "liriez", "liraient"],
+        "subj.pres": ["lise", "lises", "lise", "lisions", "lisiez", "lisent"],
+        "subj.imp": ["lusse", "lusses", "lût", "lussions", "lussiez", "lussent"],
+        "imper.pres": ["lis", "lisons", "lisez"]
+      },
+      "participe_present": "lisant",
+      "participe_passe": ["lu", "lue", "lus", "lues"]
     }
   ]
 }
