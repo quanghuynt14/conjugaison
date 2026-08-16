@@ -13500,6 +13500,24 @@
       },
       "participe_present": "décollant",
       "participe_passe": ["décollé", "décollée", "décollés", "décollées"]
+    },
+    {
+      "id": "bouleverser",
+      "infinitif": "bouleverser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bouleverse", "bouleverses", "bouleverse", "bouleversons", "bouleversez", "bouleversent"],
+        "ind.imp": ["bouleversais", "bouleversais", "bouleversait", "bouleversions", "bouleversiez", "bouleversaient"],
+        "ind.ps": ["bouleversai", "bouleversas", "bouleversa", "bouleversâmes", "bouleversâtes", "bouleversèrent"],
+        "ind.fut": ["bouleverserai", "bouleverseras", "bouleversera", "bouleverserons", "bouleverserez", "bouleverseront"],
+        "cond.pres": ["bouleverserais", "bouleverserais", "bouleverserait", "bouleverserions", "bouleverseriez", "bouleverseraient"],
+        "subj.pres": ["bouleverse", "bouleverses", "bouleverse", "bouleversions", "bouleversiez", "bouleversent"],
+        "subj.imp": ["bouleversasse", "bouleversasses", "bouleversât", "bouleversassions", "bouleversassiez", "bouleversassent"],
+        "imper.pres": ["bouleverse", "bouleversons", "bouleversez"]
+      },
+      "participe_present": "bouleversant",
+      "participe_passe": ["bouleversé", "bouleversée", "bouleversés", "bouleversées"]
     }
   ]
 }
