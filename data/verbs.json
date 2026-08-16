@@ -29399,6 +29399,25 @@
       },
       "participe_present": "aiguisant",
       "participe_passe": ["aiguisé", "aiguisée", "aiguisés", "aiguisées"]
+    },
+    {
+      "id": "rappliquer",
+      "infinitif": "rappliquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « rappliqué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["rapplique", "rappliques", "rapplique", "rappliquons", "rappliquez", "rappliquent"],
+        "ind.imp": ["rappliquais", "rappliquais", "rappliquait", "rappliquions", "rappliquiez", "rappliquaient"],
+        "ind.ps": ["rappliquai", "rappliquas", "rappliqua", "rappliquâmes", "rappliquâtes", "rappliquèrent"],
+        "ind.fut": ["rappliquerai", "rappliqueras", "rappliquera", "rappliquerons", "rappliquerez", "rappliqueront"],
+        "cond.pres": ["rappliquerais", "rappliquerais", "rappliquerait", "rappliquerions", "rappliqueriez", "rappliqueraient"],
+        "subj.pres": ["rapplique", "rappliques", "rapplique", "rappliquions", "rappliquiez", "rappliquent"],
+        "subj.imp": ["rappliquasse", "rappliquasses", "rappliquât", "rappliquassions", "rappliquassiez", "rappliquassent"],
+        "imper.pres": ["rapplique", "rappliquons", "rappliquez"]
+      },
+      "participe_present": "rappliquant",
+      "participe_passe": ["rappliqué", null, null, null]
     }
   ]
 }
