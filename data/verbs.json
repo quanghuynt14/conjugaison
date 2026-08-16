@@ -32028,6 +32028,24 @@
       },
       "participe_present": "murant",
       "participe_passe": ["muré", "murée", "murés", "murées"]
+    },
+    {
+      "id": "sous-estimer",
+      "infinitif": "sous-estimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sous-estime", "sous-estimes", "sous-estime", "sous-estimons", "sous-estimez", "sous-estiment"],
+        "ind.imp": ["sous-estimais", "sous-estimais", "sous-estimait", "sous-estimions", "sous-estimiez", "sous-estimaient"],
+        "ind.ps": ["sous-estimai", "sous-estimas", "sous-estima", "sous-estimâmes", "sous-estimâtes", "sous-estimèrent"],
+        "ind.fut": ["sous-estimerai", "sous-estimeras", "sous-estimera", "sous-estimerons", "sous-estimerez", "sous-estimeront"],
+        "cond.pres": ["sous-estimerais", "sous-estimerais", "sous-estimerait", "sous-estimerions", "sous-estimeriez", "sous-estimeraient"],
+        "subj.pres": ["sous-estime", "sous-estimes", "sous-estime", "sous-estimions", "sous-estimiez", "sous-estiment"],
+        "subj.imp": ["sous-estimasse", "sous-estimasses", "sous-estimât", "sous-estimassions", "sous-estimassiez", "sous-estimassent"],
+        "imper.pres": ["sous-estime", "sous-estimons", "sous-estimez"]
+      },
+      "participe_present": "sous-estimant",
+      "participe_passe": ["sous-estimé", "sous-estimée", "sous-estimés", "sous-estimées"]
     }
   ]
 }
