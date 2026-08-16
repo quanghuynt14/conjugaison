@@ -4558,6 +4558,24 @@
       },
       "participe_present": "attrapant",
       "participe_passe": ["attrapé", "attrapée", "attrapés", "attrapées"]
+    },
+    {
+      "id": "souhaiter",
+      "infinitif": "souhaiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["souhaite", "souhaites", "souhaite", "souhaitons", "souhaitez", "souhaitent"],
+        "ind.imp": ["souhaitais", "souhaitais", "souhaitait", "souhaitions", "souhaitiez", "souhaitaient"],
+        "ind.ps": ["souhaitai", "souhaitas", "souhaita", "souhaitâmes", "souhaitâtes", "souhaitèrent"],
+        "ind.fut": ["souhaiterai", "souhaiteras", "souhaitera", "souhaiterons", "souhaiterez", "souhaiteront"],
+        "cond.pres": ["souhaiterais", "souhaiterais", "souhaiterait", "souhaiterions", "souhaiteriez", "souhaiteraient"],
+        "subj.pres": ["souhaite", "souhaites", "souhaite", "souhaitions", "souhaitiez", "souhaitent"],
+        "subj.imp": ["souhaitasse", "souhaitasses", "souhaitât", "souhaitassions", "souhaitassiez", "souhaitassent"],
+        "imper.pres": ["souhaite", "souhaitons", "souhaitez"]
+      },
+      "participe_present": "souhaitant",
+      "participe_passe": ["souhaité", "souhaitée", "souhaités", "souhaitées"]
     }
   ]
 }
