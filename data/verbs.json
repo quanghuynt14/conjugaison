@@ -12917,6 +12917,24 @@
       },
       "participe_present": "pourrissant",
       "participe_passe": ["pourri", "pourrie", "pourris", "pourries"]
+    },
+    {
+      "id": "renseigner",
+      "infinitif": "renseigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["renseigne", "renseignes", "renseigne", "renseignons", "renseignez", "renseignent"],
+        "ind.imp": ["renseignais", "renseignais", "renseignait", "renseignions", "renseigniez", "renseignaient"],
+        "ind.ps": ["renseignai", "renseignas", "renseigna", "renseignâmes", "renseignâtes", "renseignèrent"],
+        "ind.fut": ["renseignerai", "renseigneras", "renseignera", "renseignerons", "renseignerez", "renseigneront"],
+        "cond.pres": ["renseignerais", "renseignerais", "renseignerait", "renseignerions", "renseigneriez", "renseigneraient"],
+        "subj.pres": ["renseigne", "renseignes", "renseigne", "renseignions", "renseigniez", "renseignent"],
+        "subj.imp": ["renseignasse", "renseignasses", "renseignât", "renseignassions", "renseignassiez", "renseignassent"],
+        "imper.pres": ["renseigne", "renseignons", "renseignez"]
+      },
+      "participe_present": "renseignant",
+      "participe_passe": ["renseigné", "renseignée", "renseignés", "renseignées"]
     }
   ]
 }
