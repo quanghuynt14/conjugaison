@@ -25626,6 +25626,24 @@
       },
       "participe_present": "crissant",
       "participe_passe": ["crissé", null, null, null]
+    },
+    {
+      "id": "collaborer",
+      "infinitif": "collaborer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["collabore", "collabores", "collabore", "collaborons", "collaborez", "collaborent"],
+        "ind.imp": ["collaborais", "collaborais", "collaborait", "collaborions", "collaboriez", "collaboraient"],
+        "ind.ps": ["collaborai", "collaboras", "collabora", "collaborâmes", "collaborâtes", "collaborèrent"],
+        "ind.fut": ["collaborerai", "collaboreras", "collaborera", "collaborerons", "collaborerez", "collaboreront"],
+        "cond.pres": ["collaborerais", "collaborerais", "collaborerait", "collaborerions", "collaboreriez", "collaboreraient"],
+        "subj.pres": ["collabore", "collabores", "collabore", "collaborions", "collaboriez", "collaborent"],
+        "subj.imp": ["collaborasse", "collaborasses", "collaborât", "collaborassions", "collaborassiez", "collaborassent"],
+        "imper.pres": ["collabore", "collaborons", "collaborez"]
+      },
+      "participe_present": "collaborant",
+      "participe_passe": ["collaboré", "collaborée", "collaborés", "collaborées"]
     }
   ]
 }
