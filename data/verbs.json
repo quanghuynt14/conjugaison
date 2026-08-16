@@ -15624,6 +15624,24 @@
       },
       "participe_present": "relisant",
       "participe_passe": ["relu", "relue", "relus", "relues"]
+    },
+    {
+      "id": "entrevoir",
+      "infinitif": "entrevoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entrevois", "entrevois", "entrevoit", "entrevoyons", "entrevoyez", "entrevoient"],
+        "ind.imp": ["entrevoyais", "entrevoyais", "entrevoyait", "entrevoyions", "entrevoyiez", "entrevoyaient"],
+        "ind.ps": ["entrevis", "entrevis", "entrevit", "entrevîmes", "entrevîtes", "entrevirent"],
+        "ind.fut": ["entreverrai", "entreverras", "entreverra", "entreverrons", "entreverrez", "entreverront"],
+        "cond.pres": ["entreverrais", "entreverrais", "entreverrait", "entreverrions", "entreverriez", "entreverraient"],
+        "subj.pres": ["entrevoie", "entrevoies", "entrevoie", "entrevoyions", "entrevoyiez", "entrevoient"],
+        "subj.imp": ["entrevisse", "entrevisses", "entrevît", "entrevissions", "entrevissiez", "entrevissent"],
+        "imper.pres": ["entrevois", "entrevoyons", "entrevoyez"]
+      },
+      "participe_present": "entrevoyant",
+      "participe_passe": ["entrevu", "entrevue", "entrevus", "entrevues"]
     }
   ]
 }
