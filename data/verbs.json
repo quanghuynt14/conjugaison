@@ -7385,6 +7385,24 @@
       },
       "participe_present": "respectant",
       "participe_passe": ["respecté", "respectée", "respectés", "respectées"]
+    },
+    {
+      "id": "réunir",
+      "infinitif": "réunir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réunis", "réunis", "réunit", "réunissons", "réunissez", "réunissent"],
+        "ind.imp": ["réunissais", "réunissais", "réunissait", "réunissions", "réunissiez", "réunissaient"],
+        "ind.ps": ["réunis", "réunis", "réunit", "réunîmes", "réunîtes", "réunirent"],
+        "ind.fut": ["réunirai", "réuniras", "réunira", "réunirons", "réunirez", "réuniront"],
+        "cond.pres": ["réunirais", "réunirais", "réunirait", "réunirions", "réuniriez", "réuniraient"],
+        "subj.pres": ["réunisse", "réunisses", "réunisse", "réunissions", "réunissiez", "réunissent"],
+        "subj.imp": ["réunisse", "réunisses", "réunît", "réunissions", "réunissiez", "réunissent"],
+        "imper.pres": ["réunis", "réunissons", "réunissez"]
+      },
+      "participe_present": "réunissant",
+      "participe_passe": ["réuni", "réunie", "réunis", "réunies"]
     }
   ]
 }
