@@ -25260,6 +25260,24 @@
       },
       "participe_present": "terrifiant",
       "participe_passe": ["terrifié", "terrifiée", "terrifiés", "terrifiées"]
+    },
+    {
+      "id": "onduler",
+      "infinitif": "onduler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ondule", "ondules", "ondule", "ondulons", "ondulez", "ondulent"],
+        "ind.imp": ["ondulais", "ondulais", "ondulait", "ondulions", "onduliez", "ondulaient"],
+        "ind.ps": ["ondulai", "ondulas", "ondula", "ondulâmes", "ondulâtes", "ondulèrent"],
+        "ind.fut": ["ondulerai", "onduleras", "ondulera", "ondulerons", "ondulerez", "onduleront"],
+        "cond.pres": ["ondulerais", "ondulerais", "ondulerait", "ondulerions", "onduleriez", "onduleraient"],
+        "subj.pres": ["ondule", "ondules", "ondule", "ondulions", "onduliez", "ondulent"],
+        "subj.imp": ["ondulasse", "ondulasses", "ondulât", "ondulassions", "ondulassiez", "ondulassent"],
+        "imper.pres": ["ondule", "ondulons", "ondulez"]
+      },
+      "participe_present": "ondulant",
+      "participe_passe": ["ondulé", "ondulée", "ondulés", "ondulées"]
     }
   ]
 }
