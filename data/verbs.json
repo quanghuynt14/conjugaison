@@ -35533,6 +35533,24 @@
       },
       "participe_present": "percutant",
       "participe_passe": ["percuté", "percutée", "percutés", "percutées"]
+    },
+    {
+      "id": "peigner",
+      "infinitif": "peigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["peigne", "peignes", "peigne", "peignons", "peignez", "peignent"],
+        "ind.imp": ["peignais", "peignais", "peignait", "peignions", "peigniez", "peignaient"],
+        "ind.ps": ["peignai", "peignas", "peigna", "peignâmes", "peignâtes", "peignèrent"],
+        "ind.fut": ["peignerai", "peigneras", "peignera", "peignerons", "peignerez", "peigneront"],
+        "cond.pres": ["peignerais", "peignerais", "peignerait", "peignerions", "peigneriez", "peigneraient"],
+        "subj.pres": ["peigne", "peignes", "peigne", "peignions", "peigniez", "peignent"],
+        "subj.imp": ["peignasse", "peignasses", "peignât", "peignassions", "peignassiez", "peignassent"],
+        "imper.pres": ["peigne", "peignons", "peignez"]
+      },
+      "participe_present": "peignant",
+      "participe_passe": ["peigné", "peignée", "peignés", "peignées"]
     }
   ]
 }
