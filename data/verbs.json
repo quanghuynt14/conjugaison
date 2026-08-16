@@ -19033,6 +19033,24 @@
       },
       "participe_present": "explorant",
       "participe_passe": ["exploré", "explorée", "explorés", "explorées"]
+    },
+    {
+      "id": "décharger",
+      "infinitif": "décharger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décharge", "décharges", "décharge", "déchargeons", "déchargez", "déchargent"],
+        "ind.imp": ["déchargeais", "déchargeais", "déchargeait", "déchargions", "déchargiez", "déchargeaient"],
+        "ind.ps": ["déchargeai", "déchargeas", "déchargea", "déchargeâmes", "déchargeâtes", "déchargèrent"],
+        "ind.fut": ["déchargerai", "déchargeras", "déchargera", "déchargerons", "déchargerez", "déchargeront"],
+        "cond.pres": ["déchargerais", "déchargerais", "déchargerait", "déchargerions", "déchargeriez", "déchargeraient"],
+        "subj.pres": ["décharge", "décharges", "décharge", "déchargions", "déchargiez", "déchargent"],
+        "subj.imp": ["déchargeasse", "déchargeasses", "déchargeât", "déchargeassions", "déchargeassiez", "déchargeassent"],
+        "imper.pres": ["décharge", "déchargeons", "déchargez"]
+      },
+      "participe_present": "déchargeant",
+      "participe_passe": ["déchargé", "déchargée", "déchargés", "déchargées"]
     }
   ]
 }
