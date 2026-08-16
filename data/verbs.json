@@ -2007,6 +2007,24 @@
       },
       "participe_present": "agissant",
       "participe_passe": ["agi", null, null, null]
+    },
+    {
+      "id": "pousser",
+      "infinitif": "pousser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pousse", "pousses", "pousse", "poussons", "poussez", "poussent"],
+        "ind.imp": ["poussais", "poussais", "poussait", "poussions", "poussiez", "poussaient"],
+        "ind.ps": ["poussai", "poussas", "poussa", "poussâmes", "poussâtes", "poussèrent"],
+        "ind.fut": ["pousserai", "pousseras", "poussera", "pousserons", "pousserez", "pousseront"],
+        "cond.pres": ["pousserais", "pousserais", "pousserait", "pousserions", "pousseriez", "pousseraient"],
+        "subj.pres": ["pousse", "pousses", "pousse", "poussions", "poussiez", "poussent"],
+        "subj.imp": ["poussasse", "poussasses", "poussât", "poussassions", "poussassiez", "poussassent"],
+        "imper.pres": ["pousse", "poussons", "poussez"]
+      },
+      "participe_present": "poussant",
+      "participe_passe": ["poussé", "poussée", "poussés", "poussées"]
     }
   ]
 }
