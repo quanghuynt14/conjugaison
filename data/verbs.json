@@ -14519,6 +14519,24 @@
       },
       "participe_present": "mélangeant",
       "participe_passe": ["mélangé", "mélangée", "mélangés", "mélangées"]
+    },
+    {
+      "id": "gueuler",
+      "infinitif": "gueuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gueule", "gueules", "gueule", "gueulons", "gueulez", "gueulent"],
+        "ind.imp": ["gueulais", "gueulais", "gueulait", "gueulions", "gueuliez", "gueulaient"],
+        "ind.ps": ["gueulai", "gueulas", "gueula", "gueulâmes", "gueulâtes", "gueulèrent"],
+        "ind.fut": ["gueulerai", "gueuleras", "gueulera", "gueulerons", "gueulerez", "gueuleront"],
+        "cond.pres": ["gueulerais", "gueulerais", "gueulerait", "gueulerions", "gueuleriez", "gueuleraient"],
+        "subj.pres": ["gueule", "gueules", "gueule", "gueulions", "gueuliez", "gueulent"],
+        "subj.imp": ["gueulasse", "gueulasses", "gueulât", "gueulassions", "gueulassiez", "gueulassent"],
+        "imper.pres": ["gueule", "gueulons", "gueulez"]
+      },
+      "participe_present": "gueulant",
+      "participe_passe": ["gueulé", "gueulée", "gueulés", "gueulées"]
     }
   ]
 }
