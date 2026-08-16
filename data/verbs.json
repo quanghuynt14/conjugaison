@@ -4522,6 +4522,24 @@
       },
       "participe_present": "remerciant",
       "participe_passe": ["remercié", "remerciée", "remerciés", "remerciées"]
+    },
+    {
+      "id": "recommencer",
+      "infinitif": "recommencer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recommence", "recommences", "recommence", "recommençons", "recommencez", "recommencent"],
+        "ind.imp": ["recommençais", "recommençais", "recommençait", "recommencions", "recommenciez", "recommençaient"],
+        "ind.ps": ["recommençai", "recommenças", "recommença", "recommençâmes", "recommençâtes", "recommencèrent"],
+        "ind.fut": ["recommencerai", "recommenceras", "recommencera", "recommencerons", "recommencerez", "recommenceront"],
+        "cond.pres": ["recommencerais", "recommencerais", "recommencerait", "recommencerions", "recommenceriez", "recommenceraient"],
+        "subj.pres": ["recommence", "recommences", "recommence", "recommencions", "recommenciez", "recommencent"],
+        "subj.imp": ["recommençasse", "recommençasses", "recommençât", "recommençassions", "recommençassiez", "recommençassent"],
+        "imper.pres": ["recommence", "recommençons", "recommencez"]
+      },
+      "participe_present": "recommençant",
+      "participe_passe": ["recommencé", "recommencée", "recommencés", "recommencées"]
     }
   ]
 }
