@@ -25224,6 +25224,24 @@
       },
       "participe_present": "mobilisant",
       "participe_passe": ["mobilisé", "mobilisée", "mobilisés", "mobilisées"]
+    },
+    {
+      "id": "assaillir",
+      "infinitif": "assaillir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assaille", "assailles", "assaille", "assaillons", "assaillez", "assaillent"],
+        "ind.imp": ["assaillais", "assaillais", "assaillait", "assaillions", "assailliez", "assaillaient"],
+        "ind.ps": ["assaillis", "assaillis", "assaillit", "assaillîmes", "assaillîtes", "assaillirent"],
+        "ind.fut": ["assaillirai", "assailliras", "assaillira", "assaillirons", "assaillirez", "assailliront"],
+        "cond.pres": ["assaillirais", "assaillirais", "assaillirait", "assaillirions", "assailliriez", "assailliraient"],
+        "subj.pres": ["assaille", "assailles", "assaille", "assaillions", "assailliez", "assaillent"],
+        "subj.imp": ["assaillisse", "assaillisses", "assaillît", "assaillissions", "assaillissiez", "assaillissent"],
+        "imper.pres": ["assaille", "assaillons", "assaillez"]
+      },
+      "participe_present": "assaillant",
+      "participe_passe": ["assailli", "assaillie", "assaillis", "assaillies"]
     }
   ]
 }
