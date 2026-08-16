@@ -17186,6 +17186,25 @@
       },
       "participe_present": "engloutissant",
       "participe_passe": ["englouti", "engloutie", "engloutis", "englouties"]
+    },
+    {
+      "id": "triompher",
+      "infinitif": "triompher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « triomphé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["triomphe", "triomphes", "triomphe", "triomphons", "triomphez", "triomphent"],
+        "ind.imp": ["triomphais", "triomphais", "triomphait", "triomphions", "triomphiez", "triomphaient"],
+        "ind.ps": ["triomphai", "triomphas", "triompha", "triomphâmes", "triomphâtes", "triomphèrent"],
+        "ind.fut": ["triompherai", "triompheras", "triomphera", "triompherons", "triompherez", "triompheront"],
+        "cond.pres": ["triompherais", "triompherais", "triompherait", "triompherions", "triompheriez", "triompheraient"],
+        "subj.pres": ["triomphe", "triomphes", "triomphe", "triomphions", "triomphiez", "triomphent"],
+        "subj.imp": ["triomphasse", "triomphasses", "triomphât", "triomphassions", "triomphassiez", "triomphassent"],
+        "imper.pres": ["triomphe", "triomphons", "triomphez"]
+      },
+      "participe_present": "triomphant",
+      "participe_passe": ["triomphé", null, null, null]
     }
   ]
 }
