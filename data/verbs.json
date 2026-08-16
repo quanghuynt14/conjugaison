@@ -16860,6 +16860,24 @@
       },
       "participe_present": "assumant",
       "participe_passe": ["assumé", "assumée", "assumés", "assumées"]
+    },
+    {
+      "id": "afficher",
+      "infinitif": "afficher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affiche", "affiches", "affiche", "affichons", "affichez", "affichent"],
+        "ind.imp": ["affichais", "affichais", "affichait", "affichions", "affichiez", "affichaient"],
+        "ind.ps": ["affichai", "affichas", "afficha", "affichâmes", "affichâtes", "affichèrent"],
+        "ind.fut": ["afficherai", "afficheras", "affichera", "afficherons", "afficherez", "afficheront"],
+        "cond.pres": ["afficherais", "afficherais", "afficherait", "afficherions", "afficheriez", "afficheraient"],
+        "subj.pres": ["affiche", "affiches", "affiche", "affichions", "affichiez", "affichent"],
+        "subj.imp": ["affichasse", "affichasses", "affichât", "affichassions", "affichassiez", "affichassent"],
+        "imper.pres": ["affiche", "affichons", "affichez"]
+      },
+      "participe_present": "affichant",
+      "participe_passe": ["affiché", "affichée", "affichés", "affichées"]
     }
   ]
 }
