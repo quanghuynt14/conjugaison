@@ -13881,6 +13881,25 @@
       },
       "participe_present": "chuchotant",
       "participe_passe": ["chuchoté", "chuchotée", "chuchotés", "chuchotées"]
+    },
+    {
+      "id": "clore",
+      "infinitif": "clore",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Défectif : ni imparfait, ni passé simple, et le présent perd ses deux premières personnes du pluriel. On dit « nous fermons » à la place.",
+      "tenses": {
+        "ind.pres": ["clos", "clos", "clôt", null, null, "closent"],
+        "ind.imp": [null, null, null, null, null, null],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": ["clorai", "cloras", "clora", "clorons", "clorez", "cloront"],
+        "cond.pres": ["clorais", "clorais", "clorait", "clorions", "cloriez", "cloraient"],
+        "subj.pres": ["close", "closes", "close", "closions", "closiez", "closent"],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": ["clos", null, null]
+      },
+      "participe_present": "closant",
+      "participe_passe": ["clos", "close", "clos", "closes"]
     }
   ]
 }
