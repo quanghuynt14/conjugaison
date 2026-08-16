@@ -25442,6 +25442,24 @@
       },
       "participe_present": "décelant",
       "participe_passe": ["décelé", "décelée", "décelés", "décelées"]
+    },
+    {
+      "id": "bouder",
+      "infinitif": "bouder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["boude", "boudes", "boude", "boudons", "boudez", "boudent"],
+        "ind.imp": ["boudais", "boudais", "boudait", "boudions", "boudiez", "boudaient"],
+        "ind.ps": ["boudai", "boudas", "bouda", "boudâmes", "boudâtes", "boudèrent"],
+        "ind.fut": ["bouderai", "bouderas", "boudera", "bouderons", "bouderez", "bouderont"],
+        "cond.pres": ["bouderais", "bouderais", "bouderait", "bouderions", "bouderiez", "bouderaient"],
+        "subj.pres": ["boude", "boudes", "boude", "boudions", "boudiez", "boudent"],
+        "subj.imp": ["boudasse", "boudasses", "boudât", "boudassions", "boudassiez", "boudassent"],
+        "imper.pres": ["boude", "boudons", "boudez"]
+      },
+      "participe_present": "boudant",
+      "participe_passe": ["boudé", "boudée", "boudés", "boudées"]
     }
   ]
 }
