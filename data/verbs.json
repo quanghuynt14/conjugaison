@@ -34285,6 +34285,24 @@
       },
       "participe_present": "rythmant",
       "participe_passe": ["rythmé", "rythmée", "rythmés", "rythmées"]
+    },
+    {
+      "id": "gazer",
+      "infinitif": "gazer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gaze", "gazes", "gaze", "gazons", "gazez", "gazent"],
+        "ind.imp": ["gazais", "gazais", "gazait", "gazions", "gaziez", "gazaient"],
+        "ind.ps": ["gazai", "gazas", "gaza", "gazâmes", "gazâtes", "gazèrent"],
+        "ind.fut": ["gazerai", "gazeras", "gazera", "gazerons", "gazerez", "gazeront"],
+        "cond.pres": ["gazerais", "gazerais", "gazerait", "gazerions", "gazeriez", "gazeraient"],
+        "subj.pres": ["gaze", "gazes", "gaze", "gazions", "gaziez", "gazent"],
+        "subj.imp": ["gazasse", "gazasses", "gazât", "gazassions", "gazassiez", "gazassent"],
+        "imper.pres": ["gaze", "gazons", "gazez"]
+      },
+      "participe_present": "gazant",
+      "participe_passe": ["gazé", "gazée", "gazés", "gazées"]
     }
   ]
 }
