@@ -5408,6 +5408,25 @@
       },
       "participe_present": "forçant",
       "participe_passe": ["forcé", "forcée", "forcés", "forcées"]
+    },
+    {
+      "id": "régler",
+      "infinitif": "régler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je réglerai » ou « je règlerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["règle", "règles", "règle", "réglons", "réglez", "règlent"],
+        "ind.imp": ["réglais", "réglais", "réglait", "réglions", "régliez", "réglaient"],
+        "ind.ps": ["réglai", "réglas", "régla", "réglâmes", "réglâtes", "réglèrent"],
+        "ind.fut": [["réglerai", "règlerai"], ["régleras", "règleras"], ["réglera", "règlera"], ["réglerons", "règlerons"], ["réglerez", "règlerez"], ["régleront", "règleront"]],
+        "cond.pres": [["réglerais", "règlerais"], ["réglerais", "règlerais"], ["réglerait", "règlerait"], ["réglerions", "règlerions"], ["régleriez", "règleriez"], ["régleraient", "règleraient"]],
+        "subj.pres": ["règle", "règles", "règle", "réglions", "régliez", "règlent"],
+        "subj.imp": ["réglasse", "réglasses", "réglât", "réglassions", "réglassiez", "réglassent"],
+        "imper.pres": ["règle", "réglons", "réglez"]
+      },
+      "participe_present": "réglant",
+      "participe_passe": ["réglé", "réglée", "réglés", "réglées"]
     }
   ]
 }
