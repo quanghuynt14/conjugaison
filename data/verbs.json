@@ -32100,6 +32100,24 @@
       },
       "participe_present": "profilant",
       "participe_passe": ["profilé", "profilée", "profilés", "profilées"]
+    },
+    {
+      "id": "nécessiter",
+      "infinitif": "nécessiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["nécessite", "nécessites", "nécessite", "nécessitons", "nécessitez", "nécessitent"],
+        "ind.imp": ["nécessitais", "nécessitais", "nécessitait", "nécessitions", "nécessitiez", "nécessitaient"],
+        "ind.ps": ["nécessitai", "nécessitas", "nécessita", "nécessitâmes", "nécessitâtes", "nécessitèrent"],
+        "ind.fut": ["nécessiterai", "nécessiteras", "nécessitera", "nécessiterons", "nécessiterez", "nécessiteront"],
+        "cond.pres": ["nécessiterais", "nécessiterais", "nécessiterait", "nécessiterions", "nécessiteriez", "nécessiteraient"],
+        "subj.pres": ["nécessite", "nécessites", "nécessite", "nécessitions", "nécessitiez", "nécessitent"],
+        "subj.imp": ["nécessitasse", "nécessitasses", "nécessitât", "nécessitassions", "nécessitassiez", "nécessitassent"],
+        "imper.pres": ["nécessite", "nécessitons", "nécessitez"]
+      },
+      "participe_present": "nécessitant",
+      "participe_passe": ["nécessité", "nécessitée", "nécessités", "nécessitées"]
     }
   ]
 }
