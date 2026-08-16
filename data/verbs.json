@@ -10026,6 +10026,24 @@
       },
       "participe_present": "constituant",
       "participe_passe": ["constitué", "constituée", "constitués", "constituées"]
+    },
+    {
+      "id": "satisfaire",
+      "infinitif": "satisfaire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["satisfais", "satisfais", "satisfait", "satisfaisons", "satisfaites", "satisfont"],
+        "ind.imp": ["satisfaisais", "satisfaisais", "satisfaisait", "satisfaisions", "satisfaisiez", "satisfaisaient"],
+        "ind.ps": ["satisfis", "satisfis", "satisfit", "satisfîmes", "satisfîtes", "satisfirent"],
+        "ind.fut": ["satisferai", "satisferas", "satisfera", "satisferons", "satisferez", "satisferont"],
+        "cond.pres": ["satisferais", "satisferais", "satisferait", "satisferions", "satisferiez", "satisferaient"],
+        "subj.pres": ["satisfasse", "satisfasses", "satisfasse", "satisfassions", "satisfassiez", "satisfassent"],
+        "subj.imp": ["satisfisse", "satisfisses", "satisfît", "satisfissions", "satisfissiez", "satisfissent"],
+        "imper.pres": ["satisfais", "satisfaisons", "satisfaites"]
+      },
+      "participe_present": "satisfaisant",
+      "participe_passe": ["satisfait", "satisfaite", "satisfaits", "satisfaites"]
     }
   ]
 }
