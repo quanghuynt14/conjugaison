@@ -12665,6 +12665,24 @@
       },
       "participe_present": "dépensant",
       "participe_passe": ["dépensé", "dépensée", "dépensés", "dépensées"]
+    },
+    {
+      "id": "assassiner",
+      "infinitif": "assassiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assassine", "assassines", "assassine", "assassinons", "assassinez", "assassinent"],
+        "ind.imp": ["assassinais", "assassinais", "assassinait", "assassinions", "assassiniez", "assassinaient"],
+        "ind.ps": ["assassinai", "assassinas", "assassina", "assassinâmes", "assassinâtes", "assassinèrent"],
+        "ind.fut": ["assassinerai", "assassineras", "assassinera", "assassinerons", "assassinerez", "assassineront"],
+        "cond.pres": ["assassinerais", "assassinerais", "assassinerait", "assassinerions", "assassineriez", "assassineraient"],
+        "subj.pres": ["assassine", "assassines", "assassine", "assassinions", "assassiniez", "assassinent"],
+        "subj.imp": ["assassinasse", "assassinasses", "assassinât", "assassinassions", "assassinassiez", "assassinassent"],
+        "imper.pres": ["assassine", "assassinons", "assassinez"]
+      },
+      "participe_present": "assassinant",
+      "participe_passe": ["assassiné", "assassinée", "assassinés", "assassinées"]
     }
   ]
 }
