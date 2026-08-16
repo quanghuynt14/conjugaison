@@ -984,6 +984,25 @@
       },
       "participe_present": "rentrant",
       "participe_passe": ["rentré", "rentrée", "rentrés", "rentrées"]
+    },
+    {
+      "id": "sembler",
+      "infinitif": "sembler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « semblé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["semble", "sembles", "semble", "semblons", "semblez", "semblent"],
+        "ind.imp": ["semblais", "semblais", "semblait", "semblions", "sembliez", "semblaient"],
+        "ind.ps": ["semblai", "semblas", "sembla", "semblâmes", "semblâtes", "semblèrent"],
+        "ind.fut": ["semblerai", "sembleras", "semblera", "semblerons", "semblerez", "sembleront"],
+        "cond.pres": ["semblerais", "semblerais", "semblerait", "semblerions", "sembleriez", "sembleraient"],
+        "subj.pres": ["semble", "sembles", "semble", "semblions", "sembliez", "semblent"],
+        "subj.imp": ["semblasse", "semblasses", "semblât", "semblassions", "semblassiez", "semblassent"],
+        "imper.pres": ["semble", "semblons", "semblez"]
+      },
+      "participe_present": "semblant",
+      "participe_passe": ["semblé", null, null, null]
     }
   ]
 }
