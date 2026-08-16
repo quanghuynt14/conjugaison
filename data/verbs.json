@@ -9194,6 +9194,24 @@
       },
       "participe_present": "rasant",
       "participe_passe": ["rasé", "rasée", "rasés", "rasées"]
+    },
+    {
+      "id": "grimper",
+      "infinitif": "grimper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["grimpe", "grimpes", "grimpe", "grimpons", "grimpez", "grimpent"],
+        "ind.imp": ["grimpais", "grimpais", "grimpait", "grimpions", "grimpiez", "grimpaient"],
+        "ind.ps": ["grimpai", "grimpas", "grimpa", "grimpâmes", "grimpâtes", "grimpèrent"],
+        "ind.fut": ["grimperai", "grimperas", "grimpera", "grimperons", "grimperez", "grimperont"],
+        "cond.pres": ["grimperais", "grimperais", "grimperait", "grimperions", "grimperiez", "grimperaient"],
+        "subj.pres": ["grimpe", "grimpes", "grimpe", "grimpions", "grimpiez", "grimpent"],
+        "subj.imp": ["grimpasse", "grimpasses", "grimpât", "grimpassions", "grimpassiez", "grimpassent"],
+        "imper.pres": ["grimpe", "grimpons", "grimpez"]
+      },
+      "participe_present": "grimpant",
+      "participe_passe": ["grimpé", "grimpée", "grimpés", "grimpées"]
     }
   ]
 }
