@@ -30637,6 +30637,24 @@
       },
       "participe_present": "attristant",
       "participe_passe": ["attristé", "attristée", "attristés", "attristées"]
+    },
+    {
+      "id": "barder",
+      "infinitif": "barder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["barde", "bardes", "barde", "bardons", "bardez", "bardent"],
+        "ind.imp": ["bardais", "bardais", "bardait", "bardions", "bardiez", "bardaient"],
+        "ind.ps": ["bardai", "bardas", "barda", "bardâmes", "bardâtes", "bardèrent"],
+        "ind.fut": ["barderai", "barderas", "bardera", "barderons", "barderez", "barderont"],
+        "cond.pres": ["barderais", "barderais", "barderait", "barderions", "barderiez", "barderaient"],
+        "subj.pres": ["barde", "bardes", "barde", "bardions", "bardiez", "bardent"],
+        "subj.imp": ["bardasse", "bardasses", "bardât", "bardassions", "bardassiez", "bardassent"],
+        "imper.pres": ["barde", "bardons", "bardez"]
+      },
+      "participe_present": "bardant",
+      "participe_passe": ["bardé", "bardée", "bardés", "bardées"]
     }
   ]
 }
