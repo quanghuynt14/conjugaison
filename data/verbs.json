@@ -11298,6 +11298,25 @@
       },
       "participe_present": "soupçonnant",
       "participe_passe": ["soupçonné", "soupçonnée", "soupçonnés", "soupçonnées"]
+    },
+    {
+      "id": "suggérer",
+      "infinitif": "suggérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je suggérerai » ou « je suggèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["suggère", "suggères", "suggère", "suggérons", "suggérez", "suggèrent"],
+        "ind.imp": ["suggérais", "suggérais", "suggérait", "suggérions", "suggériez", "suggéraient"],
+        "ind.ps": ["suggérai", "suggéras", "suggéra", "suggérâmes", "suggérâtes", "suggérèrent"],
+        "ind.fut": [["suggérerai", "suggèrerai"], ["suggéreras", "suggèreras"], ["suggérera", "suggèrera"], ["suggérerons", "suggèrerons"], ["suggérerez", "suggèrerez"], ["suggéreront", "suggèreront"]],
+        "cond.pres": [["suggérerais", "suggèrerais"], ["suggérerais", "suggèrerais"], ["suggérerait", "suggèrerait"], ["suggérerions", "suggèrerions"], ["suggéreriez", "suggèreriez"], ["suggéreraient", "suggèreraient"]],
+        "subj.pres": ["suggère", "suggères", "suggère", "suggérions", "suggériez", "suggèrent"],
+        "subj.imp": ["suggérasse", "suggérasses", "suggérât", "suggérassions", "suggérassiez", "suggérassent"],
+        "imper.pres": ["suggère", "suggérons", "suggérez"]
+      },
+      "participe_present": "suggérant",
+      "participe_passe": ["suggéré", "suggérée", "suggérés", "suggérées"]
     }
   ]
 }
