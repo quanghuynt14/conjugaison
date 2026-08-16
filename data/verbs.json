@@ -13428,6 +13428,24 @@
       },
       "participe_present": "circulant",
       "participe_passe": ["circulé", null, null, null]
+    },
+    {
+      "id": "contacter",
+      "infinitif": "contacter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contacte", "contactes", "contacte", "contactons", "contactez", "contactent"],
+        "ind.imp": ["contactais", "contactais", "contactait", "contactions", "contactiez", "contactaient"],
+        "ind.ps": ["contactai", "contactas", "contacta", "contactâmes", "contactâtes", "contactèrent"],
+        "ind.fut": ["contacterai", "contacteras", "contactera", "contacterons", "contacterez", "contacteront"],
+        "cond.pres": ["contacterais", "contacterais", "contacterait", "contacterions", "contacteriez", "contacteraient"],
+        "subj.pres": ["contacte", "contactes", "contacte", "contactions", "contactiez", "contactent"],
+        "subj.imp": ["contactasse", "contactasses", "contactât", "contactassions", "contactassiez", "contactassent"],
+        "imper.pres": ["contacte", "contactons", "contactez"]
+      },
+      "participe_present": "contactant",
+      "participe_passe": ["contacté", "contactée", "contactés", "contactées"]
     }
   ]
 }
