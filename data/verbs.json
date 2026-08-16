@@ -13009,6 +13009,25 @@
       },
       "participe_present": "évanouissant",
       "participe_passe": ["évanoui", "évanouie", "évanouis", "évanouies"]
+    },
+    {
+      "id": "distraire",
+      "infinitif": "distraire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Comme tous les verbes en -traire : ni passé simple, ni subjonctif imparfait. « je distrayis » n'existe pas, et rien ne le remplace.",
+      "tenses": {
+        "ind.pres": ["distrais", "distrais", "distrait", "distrayons", "distrayez", "distraient"],
+        "ind.imp": ["distrayais", "distrayais", "distrayait", "distrayions", "distrayiez", "distrayaient"],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": ["distrairai", "distrairas", "distraira", "distrairons", "distrairez", "distrairont"],
+        "cond.pres": ["distrairais", "distrairais", "distrairait", "distrairions", "distrairiez", "distrairaient"],
+        "subj.pres": ["distraie", "distraies", "distraie", "distrayions", "distrayiez", "distraient"],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": ["distrais", "distrayons", "distrayez"]
+      },
+      "participe_present": "distrayant",
+      "participe_passe": ["distrait", "distraite", "distraits", "distraites"]
     }
   ]
 }
