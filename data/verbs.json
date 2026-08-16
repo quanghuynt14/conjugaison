@@ -11028,6 +11028,24 @@
       },
       "participe_present": "fondant",
       "participe_passe": ["fondu", "fondue", "fondus", "fondues"]
+    },
+    {
+      "id": "redevenir",
+      "infinitif": "redevenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["redeviens", "redeviens", "redevient", "redevenons", "redevenez", "redeviennent"],
+        "ind.imp": ["redevenais", "redevenais", "redevenait", "redevenions", "redeveniez", "redevenaient"],
+        "ind.ps": ["redevins", "redevins", "redevint", "redevînmes", "redevîntes", "redevinrent"],
+        "ind.fut": ["redeviendrai", "redeviendras", "redeviendra", "redeviendrons", "redeviendrez", "redeviendront"],
+        "cond.pres": ["redeviendrais", "redeviendrais", "redeviendrait", "redeviendrions", "redeviendriez", "redeviendraient"],
+        "subj.pres": ["redevienne", "redeviennes", "redevienne", "redevenions", "redeveniez", "redeviennent"],
+        "subj.imp": ["redevinsse", "redevinsses", "redevînt", "redevinssions", "redevinssiez", "redevinssent"],
+        "imper.pres": ["redeviens", "redevenons", "redevenez"]
+      },
+      "participe_present": "redevenant",
+      "participe_passe": ["redevenu", "redevenue", "redevenus", "redevenues"]
     }
   ]
 }
