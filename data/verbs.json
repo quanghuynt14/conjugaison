@@ -5698,6 +5698,25 @@
       },
       "participe_present": "allongeant",
       "participe_passe": ["allongé", "allongée", "allongés", "allongées"]
+    },
+    {
+      "id": "considérer",
+      "infinitif": "considérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je considérerai » ou « je considèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["considère", "considères", "considère", "considérons", "considérez", "considèrent"],
+        "ind.imp": ["considérais", "considérais", "considérait", "considérions", "considériez", "considéraient"],
+        "ind.ps": ["considérai", "considéras", "considéra", "considérâmes", "considérâtes", "considérèrent"],
+        "ind.fut": [["considérerai", "considèrerai"], ["considéreras", "considèreras"], ["considérera", "considèrera"], ["considérerons", "considèrerons"], ["considérerez", "considèrerez"], ["considéreront", "considèreront"]],
+        "cond.pres": [["considérerais", "considèrerais"], ["considérerais", "considèrerais"], ["considérerait", "considèrerait"], ["considérerions", "considèrerions"], ["considéreriez", "considèreriez"], ["considéreraient", "considèreraient"]],
+        "subj.pres": ["considère", "considères", "considère", "considérions", "considériez", "considèrent"],
+        "subj.imp": ["considérasse", "considérasses", "considérât", "considérassions", "considérassiez", "considérassent"],
+        "imper.pres": ["considère", "considérons", "considérez"]
+      },
+      "participe_present": "considérant",
+      "participe_passe": ["considéré", "considérée", "considérés", "considérées"]
     }
   ]
 }
