@@ -13591,6 +13591,25 @@
       },
       "participe_present": "planquant",
       "participe_passe": ["planqué", "planquée", "planqués", "planquées"]
+    },
+    {
+      "id": "bondir",
+      "infinitif": "bondir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « bondi » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["bondis", "bondis", "bondit", "bondissons", "bondissez", "bondissent"],
+        "ind.imp": ["bondissais", "bondissais", "bondissait", "bondissions", "bondissiez", "bondissaient"],
+        "ind.ps": ["bondis", "bondis", "bondit", "bondîmes", "bondîtes", "bondirent"],
+        "ind.fut": ["bondirai", "bondiras", "bondira", "bondirons", "bondirez", "bondiront"],
+        "cond.pres": ["bondirais", "bondirais", "bondirait", "bondirions", "bondiriez", "bondiraient"],
+        "subj.pres": ["bondisse", "bondisses", "bondisse", "bondissions", "bondissiez", "bondissent"],
+        "subj.imp": ["bondisse", "bondisses", "bondît", "bondissions", "bondissiez", "bondissent"],
+        "imper.pres": ["bondis", "bondissons", "bondissez"]
+      },
+      "participe_present": "bondissant",
+      "participe_passe": ["bondi", null, null, null]
     }
   ]
 }
