@@ -2968,6 +2968,24 @@
       },
       "participe_present": "ajoutant",
       "participe_passe": ["ajouté", "ajoutée", "ajoutés", "ajoutées"]
+    },
+    {
+      "id": "amuser",
+      "infinitif": "amuser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["amuse", "amuses", "amuse", "amusons", "amusez", "amusent"],
+        "ind.imp": ["amusais", "amusais", "amusait", "amusions", "amusiez", "amusaient"],
+        "ind.ps": ["amusai", "amusas", "amusa", "amusâmes", "amusâtes", "amusèrent"],
+        "ind.fut": ["amuserai", "amuseras", "amusera", "amuserons", "amuserez", "amuseront"],
+        "cond.pres": ["amuserais", "amuserais", "amuserait", "amuserions", "amuseriez", "amuseraient"],
+        "subj.pres": ["amuse", "amuses", "amuse", "amusions", "amusiez", "amusent"],
+        "subj.imp": ["amusasse", "amusasses", "amusât", "amusassions", "amusassiez", "amusassent"],
+        "imper.pres": ["amuse", "amusons", "amusez"]
+      },
+      "participe_present": "amusant",
+      "participe_passe": ["amusé", "amusée", "amusés", "amusées"]
     }
   ]
 }
