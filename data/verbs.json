@@ -23417,6 +23417,24 @@
       },
       "participe_present": "bornant",
       "participe_passe": ["borné", "bornée", "bornés", "bornées"]
+    },
+    {
+      "id": "damer",
+      "infinitif": "damer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dame", "dames", "dame", "damons", "damez", "dament"],
+        "ind.imp": ["damais", "damais", "damait", "damions", "damiez", "damaient"],
+        "ind.ps": ["damai", "damas", "dama", "damâmes", "damâtes", "damèrent"],
+        "ind.fut": ["damerai", "dameras", "damera", "damerons", "damerez", "dameront"],
+        "cond.pres": ["damerais", "damerais", "damerait", "damerions", "dameriez", "dameraient"],
+        "subj.pres": ["dame", "dames", "dame", "damions", "damiez", "dament"],
+        "subj.imp": ["damasse", "damasses", "damât", "damassions", "damassiez", "damassent"],
+        "imper.pres": ["dame", "damons", "damez"]
+      },
+      "participe_present": "damant",
+      "participe_passe": ["damé", "damée", "damés", "damées"]
     }
   ]
 }
