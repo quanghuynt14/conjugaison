@@ -856,6 +856,24 @@
       },
       "participe_present": "perdant",
       "participe_passe": ["perdu", "perdue", "perdus", "perdues"]
+    },
+    {
+      "id": "jouer",
+      "infinitif": "jouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["joue", "joues", "joue", "jouons", "jouez", "jouent"],
+        "ind.imp": ["jouais", "jouais", "jouait", "jouions", "jouiez", "jouaient"],
+        "ind.ps": ["jouai", "jouas", "joua", "jouâmes", "jouâtes", "jouèrent"],
+        "ind.fut": ["jouerai", "joueras", "jouera", "jouerons", "jouerez", "joueront"],
+        "cond.pres": ["jouerais", "jouerais", "jouerait", "jouerions", "joueriez", "joueraient"],
+        "subj.pres": ["joue", "joues", "joue", "jouions", "jouiez", "jouent"],
+        "subj.imp": ["jouasse", "jouasses", "jouât", "jouassions", "jouassiez", "jouassent"],
+        "imper.pres": ["joue", "jouons", "jouez"]
+      },
+      "participe_present": "jouant",
+      "participe_passe": ["joué", "jouée", "joués", "jouées"]
     }
   ]
 }
