@@ -11244,6 +11244,24 @@
       },
       "participe_present": "entreprenant",
       "participe_passe": ["entrepris", "entreprise", "entrepris", "entreprises"]
+    },
+    {
+      "id": "exciter",
+      "infinitif": "exciter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["excite", "excites", "excite", "excitons", "excitez", "excitent"],
+        "ind.imp": ["excitais", "excitais", "excitait", "excitions", "excitiez", "excitaient"],
+        "ind.ps": ["excitai", "excitas", "excita", "excitâmes", "excitâtes", "excitèrent"],
+        "ind.fut": ["exciterai", "exciteras", "excitera", "exciterons", "exciterez", "exciteront"],
+        "cond.pres": ["exciterais", "exciterais", "exciterait", "exciterions", "exciteriez", "exciteraient"],
+        "subj.pres": ["excite", "excites", "excite", "excitions", "excitiez", "excitent"],
+        "subj.imp": ["excitasse", "excitasses", "excitât", "excitassions", "excitassiez", "excitassent"],
+        "imper.pres": ["excite", "excitons", "excitez"]
+      },
+      "participe_present": "excitant",
+      "participe_passe": ["excité", "excitée", "excités", "excitées"]
     }
   ]
 }
