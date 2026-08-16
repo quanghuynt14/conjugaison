@@ -17752,6 +17752,24 @@
       },
       "participe_present": "progressant",
       "participe_passe": ["progressé", null, null, null]
+    },
+    {
+      "id": "effectuer",
+      "infinitif": "effectuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["effectue", "effectues", "effectue", "effectuons", "effectuez", "effectuent"],
+        "ind.imp": ["effectuais", "effectuais", "effectuait", "effectuions", "effectuiez", "effectuaient"],
+        "ind.ps": ["effectuai", "effectuas", "effectua", "effectuâmes", "effectuâtes", "effectuèrent"],
+        "ind.fut": ["effectuerai", "effectueras", "effectuera", "effectuerons", "effectuerez", "effectueront"],
+        "cond.pres": ["effectuerais", "effectuerais", "effectuerait", "effectuerions", "effectueriez", "effectueraient"],
+        "subj.pres": ["effectue", "effectues", "effectue", "effectuions", "effectuiez", "effectuent"],
+        "subj.imp": ["effectuasse", "effectuasses", "effectuât", "effectuassions", "effectuassiez", "effectuassent"],
+        "imper.pres": ["effectue", "effectuons", "effectuez"]
+      },
+      "participe_present": "effectuant",
+      "participe_passe": ["effectué", "effectuée", "effectués", "effectuées"]
     }
   ]
 }
