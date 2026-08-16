@@ -32392,6 +32392,24 @@
       },
       "participe_present": "déboulant",
       "participe_passe": ["déboulé", "déboulée", "déboulés", "déboulées"]
+    },
+    {
+      "id": "lorgner",
+      "infinitif": "lorgner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["lorgne", "lorgnes", "lorgne", "lorgnons", "lorgnez", "lorgnent"],
+        "ind.imp": ["lorgnais", "lorgnais", "lorgnait", "lorgnions", "lorgniez", "lorgnaient"],
+        "ind.ps": ["lorgnai", "lorgnas", "lorgna", "lorgnâmes", "lorgnâtes", "lorgnèrent"],
+        "ind.fut": ["lorgnerai", "lorgneras", "lorgnera", "lorgnerons", "lorgnerez", "lorgneront"],
+        "cond.pres": ["lorgnerais", "lorgnerais", "lorgnerait", "lorgnerions", "lorgneriez", "lorgneraient"],
+        "subj.pres": ["lorgne", "lorgnes", "lorgne", "lorgnions", "lorgniez", "lorgnent"],
+        "subj.imp": ["lorgnasse", "lorgnasses", "lorgnât", "lorgnassions", "lorgnassiez", "lorgnassent"],
+        "imper.pres": ["lorgne", "lorgnons", "lorgnez"]
+      },
+      "participe_present": "lorgnant",
+      "participe_passe": ["lorgné", "lorgnée", "lorgnés", "lorgnées"]
     }
   ]
 }
