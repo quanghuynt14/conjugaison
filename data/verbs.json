@@ -9103,6 +9103,25 @@
       },
       "participe_present": "redressant",
       "participe_passe": ["redressé", "redressée", "redressés", "redressées"]
+    },
+    {
+      "id": "voyager",
+      "infinitif": "voyager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « voyagé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["voyage", "voyages", "voyage", "voyageons", "voyagez", "voyagent"],
+        "ind.imp": ["voyageais", "voyageais", "voyageait", "voyagions", "voyagiez", "voyageaient"],
+        "ind.ps": ["voyageai", "voyageas", "voyagea", "voyageâmes", "voyageâtes", "voyagèrent"],
+        "ind.fut": ["voyagerai", "voyageras", "voyagera", "voyagerons", "voyagerez", "voyageront"],
+        "cond.pres": ["voyagerais", "voyagerais", "voyagerait", "voyagerions", "voyageriez", "voyageraient"],
+        "subj.pres": ["voyage", "voyages", "voyage", "voyagions", "voyagiez", "voyagent"],
+        "subj.imp": ["voyageasse", "voyageasses", "voyageât", "voyageassions", "voyageassiez", "voyageassent"],
+        "imper.pres": ["voyage", "voyageons", "voyagez"]
+      },
+      "participe_present": "voyageant",
+      "participe_passe": ["voyagé", null, null, null]
     }
   ]
 }
