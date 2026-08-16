@@ -28924,6 +28924,24 @@
       },
       "participe_present": "moulant",
       "participe_passe": ["moulé", "moulée", "moulés", "moulées"]
+    },
+    {
+      "id": "terrer",
+      "infinitif": "terrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["terre", "terres", "terre", "terrons", "terrez", "terrent"],
+        "ind.imp": ["terrais", "terrais", "terrait", "terrions", "terriez", "terraient"],
+        "ind.ps": ["terrai", "terras", "terra", "terrâmes", "terrâtes", "terrèrent"],
+        "ind.fut": ["terrerai", "terreras", "terrera", "terrerons", "terrerez", "terreront"],
+        "cond.pres": ["terrerais", "terrerais", "terrerait", "terrerions", "terreriez", "terreraient"],
+        "subj.pres": ["terre", "terres", "terre", "terrions", "terriez", "terrent"],
+        "subj.imp": ["terrasse", "terrasses", "terrât", "terrassions", "terrassiez", "terrassent"],
+        "imper.pres": ["terre", "terrons", "terrez"]
+      },
+      "participe_present": "terrant",
+      "participe_passe": ["terré", "terrée", "terrés", "terrées"]
     }
   ]
 }
