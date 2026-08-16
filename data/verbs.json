@@ -30565,6 +30565,24 @@
       },
       "participe_present": "assignant",
       "participe_passe": ["assigné", "assignée", "assignés", "assignées"]
+    },
+    {
+      "id": "sommer",
+      "infinitif": "sommer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["somme", "sommes", "somme", "sommons", "sommez", "somment"],
+        "ind.imp": ["sommais", "sommais", "sommait", "sommions", "sommiez", "sommaient"],
+        "ind.ps": ["sommai", "sommas", "somma", "sommâmes", "sommâtes", "sommèrent"],
+        "ind.fut": ["sommerai", "sommeras", "sommera", "sommerons", "sommerez", "sommeront"],
+        "cond.pres": ["sommerais", "sommerais", "sommerait", "sommerions", "sommeriez", "sommeraient"],
+        "subj.pres": ["somme", "sommes", "somme", "sommions", "sommiez", "somment"],
+        "subj.imp": ["sommasse", "sommasses", "sommât", "sommassions", "sommassiez", "sommassent"],
+        "imper.pres": ["somme", "sommons", "sommez"]
+      },
+      "participe_present": "sommant",
+      "participe_passe": ["sommé", "sommée", "sommés", "sommées"]
     }
   ]
 }
