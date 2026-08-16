@@ -17168,6 +17168,24 @@
       },
       "participe_present": "grillant",
       "participe_passe": ["grillé", "grillée", "grillés", "grillées"]
+    },
+    {
+      "id": "engloutir",
+      "infinitif": "engloutir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["engloutis", "engloutis", "engloutit", "engloutissons", "engloutissez", "engloutissent"],
+        "ind.imp": ["engloutissais", "engloutissais", "engloutissait", "engloutissions", "engloutissiez", "engloutissaient"],
+        "ind.ps": ["engloutis", "engloutis", "engloutit", "engloutîmes", "engloutîtes", "engloutirent"],
+        "ind.fut": ["engloutirai", "engloutiras", "engloutira", "engloutirons", "engloutirez", "engloutiront"],
+        "cond.pres": ["engloutirais", "engloutirais", "engloutirait", "engloutirions", "engloutiriez", "engloutiraient"],
+        "subj.pres": ["engloutisse", "engloutisses", "engloutisse", "engloutissions", "engloutissiez", "engloutissent"],
+        "subj.imp": ["engloutisse", "engloutisses", "engloutît", "engloutissions", "engloutissiez", "engloutissent"],
+        "imper.pres": ["engloutis", "engloutissons", "engloutissez"]
+      },
+      "participe_present": "engloutissant",
+      "participe_passe": ["englouti", "engloutie", "engloutis", "englouties"]
     }
   ]
 }
