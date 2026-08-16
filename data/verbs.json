@@ -26063,6 +26063,24 @@
       },
       "participe_present": "blaguant",
       "participe_passe": ["blagué", "blaguée", "blagués", "blaguées"]
+    },
+    {
+      "id": "charmer",
+      "infinitif": "charmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["charme", "charmes", "charme", "charmons", "charmez", "charment"],
+        "ind.imp": ["charmais", "charmais", "charmait", "charmions", "charmiez", "charmaient"],
+        "ind.ps": ["charmai", "charmas", "charma", "charmâmes", "charmâtes", "charmèrent"],
+        "ind.fut": ["charmerai", "charmeras", "charmera", "charmerons", "charmerez", "charmeront"],
+        "cond.pres": ["charmerais", "charmerais", "charmerait", "charmerions", "charmeriez", "charmeraient"],
+        "subj.pres": ["charme", "charmes", "charme", "charmions", "charmiez", "charment"],
+        "subj.imp": ["charmasse", "charmasses", "charmât", "charmassions", "charmassiez", "charmassent"],
+        "imper.pres": ["charme", "charmons", "charmez"]
+      },
+      "participe_present": "charmant",
+      "participe_passe": ["charmé", "charmée", "charmés", "charmées"]
     }
   ]
 }
