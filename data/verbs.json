@@ -31530,6 +31530,26 @@
       },
       "participe_present": "casquant",
       "participe_passe": ["casqué", "casquée", "casqués", "casquées"]
+    },
+    {
+      "id": "gourer",
+      "infinitif": "gourer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me goure » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["goure", "goures", "goure", "gourons", "gourez", "gourent"],
+        "ind.imp": ["gourais", "gourais", "gourait", "gourions", "gouriez", "gouraient"],
+        "ind.ps": ["gourai", "gouras", "goura", "gourâmes", "gourâtes", "gourèrent"],
+        "ind.fut": ["gourerai", "goureras", "gourera", "gourerons", "gourerez", "goureront"],
+        "cond.pres": ["gourerais", "gourerais", "gourerait", "gourerions", "goureriez", "goureraient"],
+        "subj.pres": ["goure", "goures", "goure", "gourions", "gouriez", "gourent"],
+        "subj.imp": ["gourasse", "gourasses", "gourât", "gourassions", "gourassiez", "gourassent"],
+        "imper.pres": ["goure", "gourons", "gourez"]
+      },
+      "participe_present": "gourant",
+      "participe_passe": ["gouré", "gourée", "gourés", "gourées"]
     }
   ]
 }
