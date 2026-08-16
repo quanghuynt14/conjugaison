@@ -5372,6 +5372,24 @@
       },
       "participe_present": "livrant",
       "participe_passe": ["livré", "livrée", "livrés", "livrées"]
+    },
+    {
+      "id": "prouver",
+      "infinitif": "prouver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prouve", "prouves", "prouve", "prouvons", "prouvez", "prouvent"],
+        "ind.imp": ["prouvais", "prouvais", "prouvait", "prouvions", "prouviez", "prouvaient"],
+        "ind.ps": ["prouvai", "prouvas", "prouva", "prouvâmes", "prouvâtes", "prouvèrent"],
+        "ind.fut": ["prouverai", "prouveras", "prouvera", "prouverons", "prouverez", "prouveront"],
+        "cond.pres": ["prouverais", "prouverais", "prouverait", "prouverions", "prouveriez", "prouveraient"],
+        "subj.pres": ["prouve", "prouves", "prouve", "prouvions", "prouviez", "prouvent"],
+        "subj.imp": ["prouvasse", "prouvasses", "prouvât", "prouvassions", "prouvassiez", "prouvassent"],
+        "imper.pres": ["prouve", "prouvons", "prouvez"]
+      },
+      "participe_present": "prouvant",
+      "participe_passe": ["prouvé", "prouvée", "prouvés", "prouvées"]
     }
   ]
 }
