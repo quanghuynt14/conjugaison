@@ -21512,6 +21512,24 @@
       },
       "participe_present": "tapotant",
       "participe_passe": ["tapoté", "tapotée", "tapotés", "tapotées"]
+    },
+    {
+      "id": "chantonner",
+      "infinitif": "chantonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chantonne", "chantonnes", "chantonne", "chantonnons", "chantonnez", "chantonnent"],
+        "ind.imp": ["chantonnais", "chantonnais", "chantonnait", "chantonnions", "chantonniez", "chantonnaient"],
+        "ind.ps": ["chantonnai", "chantonnas", "chantonna", "chantonnâmes", "chantonnâtes", "chantonnèrent"],
+        "ind.fut": ["chantonnerai", "chantonneras", "chantonnera", "chantonnerons", "chantonnerez", "chantonneront"],
+        "cond.pres": ["chantonnerais", "chantonnerais", "chantonnerait", "chantonnerions", "chantonneriez", "chantonneraient"],
+        "subj.pres": ["chantonne", "chantonnes", "chantonne", "chantonnions", "chantonniez", "chantonnent"],
+        "subj.imp": ["chantonnasse", "chantonnasses", "chantonnât", "chantonnassions", "chantonnassiez", "chantonnassent"],
+        "imper.pres": ["chantonne", "chantonnons", "chantonnez"]
+      },
+      "participe_present": "chantonnant",
+      "participe_passe": ["chantonné", "chantonnée", "chantonnés", "chantonnées"]
     }
   ]
 }
