@@ -9556,6 +9556,24 @@
       },
       "participe_present": "constatant",
       "participe_passe": ["constaté", "constatée", "constatés", "constatées"]
+    },
+    {
+      "id": "détendre",
+      "infinitif": "détendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["détends", "détends", "détend", "détendons", "détendez", "détendent"],
+        "ind.imp": ["détendais", "détendais", "détendait", "détendions", "détendiez", "détendaient"],
+        "ind.ps": ["détendis", "détendis", "détendit", "détendîmes", "détendîtes", "détendirent"],
+        "ind.fut": ["détendrai", "détendras", "détendra", "détendrons", "détendrez", "détendront"],
+        "cond.pres": ["détendrais", "détendrais", "détendrait", "détendrions", "détendriez", "détendraient"],
+        "subj.pres": ["détende", "détendes", "détende", "détendions", "détendiez", "détendent"],
+        "subj.imp": ["détendisse", "détendisses", "détendît", "détendissions", "détendissiez", "détendissent"],
+        "imper.pres": ["détends", "détendons", "détendez"]
+      },
+      "participe_present": "détendant",
+      "participe_passe": ["détendu", "détendue", "détendus", "détendues"]
     }
   ]
 }
