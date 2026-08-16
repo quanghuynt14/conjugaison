@@ -24824,6 +24824,24 @@
       },
       "participe_present": "désarmant",
       "participe_passe": ["désarmé", "désarmée", "désarmés", "désarmées"]
+    },
+    {
+      "id": "daigner",
+      "infinitif": "daigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["daigne", "daignes", "daigne", "daignons", "daignez", "daignent"],
+        "ind.imp": ["daignais", "daignais", "daignait", "daignions", "daigniez", "daignaient"],
+        "ind.ps": ["daignai", "daignas", "daigna", "daignâmes", "daignâtes", "daignèrent"],
+        "ind.fut": ["daignerai", "daigneras", "daignera", "daignerons", "daignerez", "daigneront"],
+        "cond.pres": ["daignerais", "daignerais", "daignerait", "daignerions", "daigneriez", "daigneraient"],
+        "subj.pres": ["daigne", "daignes", "daigne", "daignions", "daigniez", "daignent"],
+        "subj.imp": ["daignasse", "daignasses", "daignât", "daignassions", "daignassiez", "daignassent"],
+        "imper.pres": ["daigne", "daignons", "daignez"]
+      },
+      "participe_present": "daignant",
+      "participe_passe": ["daigné", "daignée", "daignés", "daignées"]
     }
   ]
 }
