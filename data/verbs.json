@@ -20400,6 +20400,24 @@
       },
       "participe_present": "convertissant",
       "participe_passe": ["converti", "convertie", "convertis", "converties"]
+    },
+    {
+      "id": "réconcilier",
+      "infinitif": "réconcilier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réconcilie", "réconcilies", "réconcilie", "réconcilions", "réconciliez", "réconcilient"],
+        "ind.imp": ["réconciliais", "réconciliais", "réconciliait", "réconciliions", "réconciliiez", "réconciliaient"],
+        "ind.ps": ["réconciliai", "réconcilias", "réconcilia", "réconciliâmes", "réconciliâtes", "réconcilièrent"],
+        "ind.fut": ["réconcilierai", "réconcilieras", "réconciliera", "réconcilierons", "réconcilierez", "réconcilieront"],
+        "cond.pres": ["réconcilierais", "réconcilierais", "réconcilierait", "réconcilierions", "réconcilieriez", "réconcilieraient"],
+        "subj.pres": ["réconcilie", "réconcilies", "réconcilie", "réconciliions", "réconciliiez", "réconcilient"],
+        "subj.imp": ["réconciliasse", "réconciliasses", "réconciliât", "réconciliassions", "réconciliassiez", "réconciliassent"],
+        "imper.pres": ["réconcilie", "réconcilions", "réconciliez"]
+      },
+      "participe_present": "réconciliant",
+      "participe_passe": ["réconcilié", "réconciliée", "réconciliés", "réconciliées"]
     }
   ]
 }
