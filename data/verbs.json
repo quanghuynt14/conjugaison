@@ -19942,6 +19942,24 @@
       },
       "participe_present": "freinant",
       "participe_passe": ["freiné", "freinée", "freinés", "freinées"]
+    },
+    {
+      "id": "polir",
+      "infinitif": "polir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["polis", "polis", "polit", "polissons", "polissez", "polissent"],
+        "ind.imp": ["polissais", "polissais", "polissait", "polissions", "polissiez", "polissaient"],
+        "ind.ps": ["polis", "polis", "polit", "polîmes", "polîtes", "polirent"],
+        "ind.fut": ["polirai", "poliras", "polira", "polirons", "polirez", "poliront"],
+        "cond.pres": ["polirais", "polirais", "polirait", "polirions", "poliriez", "poliraient"],
+        "subj.pres": ["polisse", "polisses", "polisse", "polissions", "polissiez", "polissent"],
+        "subj.imp": ["polisse", "polisses", "polît", "polissions", "polissiez", "polissent"],
+        "imper.pres": ["polis", "polissons", "polissez"]
+      },
+      "participe_present": "polissant",
+      "participe_passe": ["poli", "polie", "polis", "polies"]
     }
   ]
 }
