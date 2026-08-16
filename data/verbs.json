@@ -2459,6 +2459,25 @@
       },
       "participe_present": "approchant",
       "participe_passe": ["approché", "approchée", "approchés", "approchées"]
+    },
+    {
+      "id": "préférer",
+      "infinitif": "préférer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je préférerai » ou « je préfèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["préfère", "préfères", "préfère", "préférons", "préférez", "préfèrent"],
+        "ind.imp": ["préférais", "préférais", "préférait", "préférions", "préfériez", "préféraient"],
+        "ind.ps": ["préférai", "préféras", "préféra", "préférâmes", "préférâtes", "préférèrent"],
+        "ind.fut": [["préférerai", "préfèrerai"], ["préféreras", "préfèreras"], ["préférera", "préfèrera"], ["préférerons", "préfèrerons"], ["préférerez", "préfèrerez"], ["préféreront", "préfèreront"]],
+        "cond.pres": [["préférerais", "préfèrerais"], ["préférerais", "préfèrerais"], ["préférerait", "préfèrerait"], ["préférerions", "préfèrerions"], ["préféreriez", "préfèreriez"], ["préféreraient", "préfèreraient"]],
+        "subj.pres": ["préfère", "préfères", "préfère", "préférions", "préfériez", "préfèrent"],
+        "subj.imp": ["préférasse", "préférasses", "préférât", "préférassions", "préférassiez", "préférassent"],
+        "imper.pres": ["préfère", "préférons", "préférez"]
+      },
+      "participe_present": "préférant",
+      "participe_passe": ["préféré", "préférée", "préférés", "préférées"]
     }
   ]
 }
