@@ -25278,6 +25278,26 @@
       },
       "participe_present": "ondulant",
       "participe_passe": ["ondulé", "ondulée", "ondulés", "ondulées"]
+    },
+    {
+      "id": "abstenir",
+      "infinitif": "abstenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’abstiens » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["abstiens", "abstiens", "abstient", "abstenons", "abstenez", "abstiennent"],
+        "ind.imp": ["abstenais", "abstenais", "abstenait", "abstenions", "absteniez", "abstenaient"],
+        "ind.ps": ["abstins", "abstins", "abstint", "abstînmes", "abstîntes", "abstinrent"],
+        "ind.fut": ["abstiendrai", "abstiendras", "abstiendra", "abstiendrons", "abstiendrez", "abstiendront"],
+        "cond.pres": ["abstiendrais", "abstiendrais", "abstiendrait", "abstiendrions", "abstiendriez", "abstiendraient"],
+        "subj.pres": ["abstienne", "abstiennes", "abstienne", "abstenions", "absteniez", "abstiennent"],
+        "subj.imp": ["abstinsse", "abstinsses", "abstînt", "abstinssions", "abstinssiez", "abstinssent"],
+        "imper.pres": ["abstiens", "abstenons", "abstenez"]
+      },
+      "participe_present": "abstenant",
+      "participe_passe": ["abstenu", "abstenue", "abstenus", "abstenues"]
     }
   ]
 }
