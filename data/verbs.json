@@ -33048,6 +33048,24 @@
       },
       "participe_present": "perfectionnant",
       "participe_passe": ["perfectionné", "perfectionnée", "perfectionnés", "perfectionnées"]
+    },
+    {
+      "id": "assourdir",
+      "infinitif": "assourdir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assourdis", "assourdis", "assourdit", "assourdissons", "assourdissez", "assourdissent"],
+        "ind.imp": ["assourdissais", "assourdissais", "assourdissait", "assourdissions", "assourdissiez", "assourdissaient"],
+        "ind.ps": ["assourdis", "assourdis", "assourdit", "assourdîmes", "assourdîtes", "assourdirent"],
+        "ind.fut": ["assourdirai", "assourdiras", "assourdira", "assourdirons", "assourdirez", "assourdiront"],
+        "cond.pres": ["assourdirais", "assourdirais", "assourdirait", "assourdirions", "assourdiriez", "assourdiraient"],
+        "subj.pres": ["assourdisse", "assourdisses", "assourdisse", "assourdissions", "assourdissiez", "assourdissent"],
+        "subj.imp": ["assourdisse", "assourdisses", "assourdît", "assourdissions", "assourdissiez", "assourdissent"],
+        "imper.pres": ["assourdis", "assourdissons", "assourdissez"]
+      },
+      "participe_present": "assourdissant",
+      "participe_passe": ["assourdi", "assourdie", "assourdis", "assourdies"]
     }
   ]
 }
