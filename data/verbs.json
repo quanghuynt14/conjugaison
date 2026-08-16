@@ -6786,6 +6786,24 @@
       },
       "participe_present": "dessinant",
       "participe_passe": ["dessiné", "dessinée", "dessinés", "dessinées"]
+    },
+    {
+      "id": "admettre",
+      "infinitif": "admettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["admets", "admets", "admet", "admettons", "admettez", "admettent"],
+        "ind.imp": ["admettais", "admettais", "admettait", "admettions", "admettiez", "admettaient"],
+        "ind.ps": ["admis", "admis", "admit", "admîmes", "admîtes", "admirent"],
+        "ind.fut": ["admettrai", "admettras", "admettra", "admettrons", "admettrez", "admettront"],
+        "cond.pres": ["admettrais", "admettrais", "admettrait", "admettrions", "admettriez", "admettraient"],
+        "subj.pres": ["admette", "admettes", "admette", "admettions", "admettiez", "admettent"],
+        "subj.imp": ["admisse", "admisses", "admît", "admissions", "admissiez", "admissent"],
+        "imper.pres": ["admets", "admettons", "admettez"]
+      },
+      "participe_present": "admettant",
+      "participe_passe": ["admis", "admise", "admis", "admises"]
     }
   ]
 }
