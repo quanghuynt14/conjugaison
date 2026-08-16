@@ -24715,6 +24715,24 @@
       },
       "participe_present": "entravant",
       "participe_passe": ["entravé", "entravée", "entravés", "entravées"]
+    },
+    {
+      "id": "inverser",
+      "infinitif": "inverser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["inverse", "inverses", "inverse", "inversons", "inversez", "inversent"],
+        "ind.imp": ["inversais", "inversais", "inversait", "inversions", "inversiez", "inversaient"],
+        "ind.ps": ["inversai", "inversas", "inversa", "inversâmes", "inversâtes", "inversèrent"],
+        "ind.fut": ["inverserai", "inverseras", "inversera", "inverserons", "inverserez", "inverseront"],
+        "cond.pres": ["inverserais", "inverserais", "inverserait", "inverserions", "inverseriez", "inverseraient"],
+        "subj.pres": ["inverse", "inverses", "inverse", "inversions", "inversiez", "inversent"],
+        "subj.imp": ["inversasse", "inversasses", "inversât", "inversassions", "inversassiez", "inversassent"],
+        "imper.pres": ["inverse", "inversons", "inversez"]
+      },
+      "participe_present": "inversant",
+      "participe_passe": ["inversé", "inversée", "inversés", "inversées"]
     }
   ]
 }
