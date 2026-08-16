@@ -23963,6 +23963,25 @@
       },
       "participe_present": "resserrant",
       "participe_passe": ["resserré", "resserrée", "resserrés", "resserrées"]
+    },
+    {
+      "id": "broncher",
+      "infinitif": "broncher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « bronché » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["bronche", "bronches", "bronche", "bronchons", "bronchez", "bronchent"],
+        "ind.imp": ["bronchais", "bronchais", "bronchait", "bronchions", "bronchiez", "bronchaient"],
+        "ind.ps": ["bronchai", "bronchas", "broncha", "bronchâmes", "bronchâtes", "bronchèrent"],
+        "ind.fut": ["broncherai", "broncheras", "bronchera", "broncherons", "broncherez", "broncheront"],
+        "cond.pres": ["broncherais", "broncherais", "broncherait", "broncherions", "broncheriez", "broncheraient"],
+        "subj.pres": ["bronche", "bronches", "bronche", "bronchions", "bronchiez", "bronchent"],
+        "subj.imp": ["bronchasse", "bronchasses", "bronchât", "bronchassions", "bronchassiez", "bronchassent"],
+        "imper.pres": ["bronche", "bronchons", "bronchez"]
+      },
+      "participe_present": "bronchant",
+      "participe_passe": ["bronché", null, null, null]
     }
   ]
 }
