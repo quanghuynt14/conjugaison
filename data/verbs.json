@@ -18542,6 +18542,24 @@
       },
       "participe_present": "passionnant",
       "participe_passe": ["passionné", "passionnée", "passionnés", "passionnées"]
+    },
+    {
+      "id": "boiter",
+      "infinitif": "boiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["boite", "boites", "boite", "boitons", "boitez", "boitent"],
+        "ind.imp": ["boitais", "boitais", "boitait", "boitions", "boitiez", "boitaient"],
+        "ind.ps": ["boitai", "boitas", "boita", "boitâmes", "boitâtes", "boitèrent"],
+        "ind.fut": ["boiterai", "boiteras", "boitera", "boiterons", "boiterez", "boiteront"],
+        "cond.pres": ["boiterais", "boiterais", "boiterait", "boiterions", "boiteriez", "boiteraient"],
+        "subj.pres": ["boite", "boites", "boite", "boitions", "boitiez", "boitent"],
+        "subj.imp": ["boitasse", "boitasses", "boitât", "boitassions", "boitassiez", "boitassent"],
+        "imper.pres": ["boite", "boitons", "boitez"]
+      },
+      "participe_present": "boitant",
+      "participe_passe": ["boité", "boitée", "boités", "boitées"]
     }
   ]
 }
