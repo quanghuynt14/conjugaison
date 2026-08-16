@@ -31275,6 +31275,24 @@
       },
       "participe_present": "trimbalant",
       "participe_passe": ["trimbalé", "trimbalée", "trimbalés", "trimbalées"]
+    },
+    {
+      "id": "purger",
+      "infinitif": "purger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["purge", "purges", "purge", "purgeons", "purgez", "purgent"],
+        "ind.imp": ["purgeais", "purgeais", "purgeait", "purgions", "purgiez", "purgeaient"],
+        "ind.ps": ["purgeai", "purgeas", "purgea", "purgeâmes", "purgeâtes", "purgèrent"],
+        "ind.fut": ["purgerai", "purgeras", "purgera", "purgerons", "purgerez", "purgeront"],
+        "cond.pres": ["purgerais", "purgerais", "purgerait", "purgerions", "purgeriez", "purgeraient"],
+        "subj.pres": ["purge", "purges", "purge", "purgions", "purgiez", "purgent"],
+        "subj.imp": ["purgeasse", "purgeasses", "purgeât", "purgeassions", "purgeassiez", "purgeassent"],
+        "imper.pres": ["purge", "purgeons", "purgez"]
+      },
+      "participe_present": "purgeant",
+      "participe_passe": ["purgé", "purgée", "purgés", "purgées"]
     }
   ]
 }
