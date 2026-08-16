@@ -27615,6 +27615,24 @@
       },
       "participe_present": null,
       "participe_passe": ["frit", "frite", "frits", "frites"]
+    },
+    {
+      "id": "foudroyer",
+      "infinitif": "foudroyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["foudroie", "foudroies", "foudroie", "foudroyons", "foudroyez", "foudroient"],
+        "ind.imp": ["foudroyais", "foudroyais", "foudroyait", "foudroyions", "foudroyiez", "foudroyaient"],
+        "ind.ps": ["foudroyai", "foudroyas", "foudroya", "foudroyâmes", "foudroyâtes", "foudroyèrent"],
+        "ind.fut": ["foudroierai", "foudroieras", "foudroiera", "foudroierons", "foudroierez", "foudroieront"],
+        "cond.pres": ["foudroierais", "foudroierais", "foudroierait", "foudroierions", "foudroieriez", "foudroieraient"],
+        "subj.pres": ["foudroie", "foudroies", "foudroie", "foudroyions", "foudroyiez", "foudroient"],
+        "subj.imp": ["foudroyasse", "foudroyasses", "foudroyât", "foudroyassions", "foudroyassiez", "foudroyassent"],
+        "imper.pres": ["foudroie", "foudroyons", "foudroyez"]
+      },
+      "participe_present": "foudroyant",
+      "participe_passe": ["foudroyé", "foudroyée", "foudroyés", "foudroyées"]
     }
   ]
 }
