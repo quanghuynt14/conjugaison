@@ -4396,6 +4396,24 @@
       },
       "participe_present": "allumant",
       "participe_passe": ["allumé", "allumée", "allumés", "allumées"]
+    },
+    {
+      "id": "déranger",
+      "infinitif": "déranger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dérange", "déranges", "dérange", "dérangeons", "dérangez", "dérangent"],
+        "ind.imp": ["dérangeais", "dérangeais", "dérangeait", "dérangions", "dérangiez", "dérangeaient"],
+        "ind.ps": ["dérangeai", "dérangeas", "dérangea", "dérangeâmes", "dérangeâtes", "dérangèrent"],
+        "ind.fut": ["dérangerai", "dérangeras", "dérangera", "dérangerons", "dérangerez", "dérangeront"],
+        "cond.pres": ["dérangerais", "dérangerais", "dérangerait", "dérangerions", "dérangeriez", "dérangeraient"],
+        "subj.pres": ["dérange", "déranges", "dérange", "dérangions", "dérangiez", "dérangent"],
+        "subj.imp": ["dérangeasse", "dérangeasses", "dérangeât", "dérangeassions", "dérangeassiez", "dérangeassent"],
+        "imper.pres": ["dérange", "dérangeons", "dérangez"]
+      },
+      "participe_present": "dérangeant",
+      "participe_passe": ["dérangé", "dérangée", "dérangés", "dérangées"]
     }
   ]
 }
