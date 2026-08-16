@@ -34231,6 +34231,24 @@
       },
       "participe_present": "clignotant",
       "participe_passe": ["clignoté", null, null, null]
+    },
+    {
+      "id": "engraisser",
+      "infinitif": "engraisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["engraisse", "engraisses", "engraisse", "engraissons", "engraissez", "engraissent"],
+        "ind.imp": ["engraissais", "engraissais", "engraissait", "engraissions", "engraissiez", "engraissaient"],
+        "ind.ps": ["engraissai", "engraissas", "engraissa", "engraissâmes", "engraissâtes", "engraissèrent"],
+        "ind.fut": ["engraisserai", "engraisseras", "engraissera", "engraisserons", "engraisserez", "engraisseront"],
+        "cond.pres": ["engraisserais", "engraisserais", "engraisserait", "engraisserions", "engraisseriez", "engraisseraient"],
+        "subj.pres": ["engraisse", "engraisses", "engraisse", "engraissions", "engraissiez", "engraissent"],
+        "subj.imp": ["engraissasse", "engraissasses", "engraissât", "engraissassions", "engraissassiez", "engraissassent"],
+        "imper.pres": ["engraisse", "engraissons", "engraissez"]
+      },
+      "participe_present": "engraissant",
+      "participe_passe": ["engraissé", "engraissée", "engraissés", "engraissées"]
     }
   ]
 }
