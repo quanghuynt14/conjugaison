@@ -7856,6 +7856,24 @@
       },
       "participe_present": "contentant",
       "participe_passe": ["contenté", "contentée", "contentés", "contentées"]
+    },
+    {
+      "id": "fouiller",
+      "infinitif": "fouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fouille", "fouilles", "fouille", "fouillons", "fouillez", "fouillent"],
+        "ind.imp": ["fouillais", "fouillais", "fouillait", "fouillions", "fouilliez", "fouillaient"],
+        "ind.ps": ["fouillai", "fouillas", "fouilla", "fouillâmes", "fouillâtes", "fouillèrent"],
+        "ind.fut": ["fouillerai", "fouilleras", "fouillera", "fouillerons", "fouillerez", "fouilleront"],
+        "cond.pres": ["fouillerais", "fouillerais", "fouillerait", "fouillerions", "fouilleriez", "fouilleraient"],
+        "subj.pres": ["fouille", "fouilles", "fouille", "fouillions", "fouilliez", "fouillent"],
+        "subj.imp": ["fouillasse", "fouillasses", "fouillât", "fouillassions", "fouillassiez", "fouillassent"],
+        "imper.pres": ["fouille", "fouillons", "fouillez"]
+      },
+      "participe_present": "fouillant",
+      "participe_passe": ["fouillé", "fouillée", "fouillés", "fouillées"]
     }
   ]
 }
