@@ -2896,6 +2896,24 @@
       },
       "participe_present": "traversant",
       "participe_passe": ["traversé", "traversée", "traversés", "traversées"]
+    },
+    {
+      "id": "apercevoir",
+      "infinitif": "apercevoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aperçois", "aperçois", "aperçoit", "apercevons", "apercevez", "aperçoivent"],
+        "ind.imp": ["apercevais", "apercevais", "apercevait", "apercevions", "aperceviez", "apercevaient"],
+        "ind.ps": ["aperçus", "aperçus", "aperçut", "aperçûmes", "aperçûtes", "aperçurent"],
+        "ind.fut": ["apercevrai", "apercevras", "apercevra", "apercevrons", "apercevrez", "apercevront"],
+        "cond.pres": ["apercevrais", "apercevrais", "apercevrait", "apercevrions", "apercevriez", "apercevraient"],
+        "subj.pres": ["aperçoive", "aperçoives", "aperçoive", "apercevions", "aperceviez", "aperçoivent"],
+        "subj.imp": ["aperçusse", "aperçusses", "aperçût", "aperçussions", "aperçussiez", "aperçussent"],
+        "imper.pres": ["aperçois", "apercevons", "apercevez"]
+      },
+      "participe_present": "apercevant",
+      "participe_passe": ["aperçu", "aperçue", "aperçus", "aperçues"]
     }
   ]
 }
