@@ -24607,6 +24607,24 @@
       },
       "participe_present": "grommelant",
       "participe_passe": ["grommelé", "grommelée", "grommelés", "grommelées"]
+    },
+    {
+      "id": "amorcer",
+      "infinitif": "amorcer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["amorce", "amorces", "amorce", "amorçons", "amorcez", "amorcent"],
+        "ind.imp": ["amorçais", "amorçais", "amorçait", "amorcions", "amorciez", "amorçaient"],
+        "ind.ps": ["amorçai", "amorças", "amorça", "amorçâmes", "amorçâtes", "amorcèrent"],
+        "ind.fut": ["amorcerai", "amorceras", "amorcera", "amorcerons", "amorcerez", "amorceront"],
+        "cond.pres": ["amorcerais", "amorcerais", "amorcerait", "amorcerions", "amorceriez", "amorceraient"],
+        "subj.pres": ["amorce", "amorces", "amorce", "amorcions", "amorciez", "amorcent"],
+        "subj.imp": ["amorçasse", "amorçasses", "amorçât", "amorçassions", "amorçassiez", "amorçassent"],
+        "imper.pres": ["amorce", "amorçons", "amorcez"]
+      },
+      "participe_present": "amorçant",
+      "participe_passe": ["amorcé", "amorcée", "amorcés", "amorcées"]
     }
   ]
 }
