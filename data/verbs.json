@@ -18187,6 +18187,24 @@
       },
       "participe_present": "résignant",
       "participe_passe": ["résigné", "résignée", "résignés", "résignées"]
+    },
+    {
+      "id": "élargir",
+      "infinitif": "élargir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["élargis", "élargis", "élargit", "élargissons", "élargissez", "élargissent"],
+        "ind.imp": ["élargissais", "élargissais", "élargissait", "élargissions", "élargissiez", "élargissaient"],
+        "ind.ps": ["élargis", "élargis", "élargit", "élargîmes", "élargîtes", "élargirent"],
+        "ind.fut": ["élargirai", "élargiras", "élargira", "élargirons", "élargirez", "élargiront"],
+        "cond.pres": ["élargirais", "élargirais", "élargirait", "élargirions", "élargiriez", "élargiraient"],
+        "subj.pres": ["élargisse", "élargisses", "élargisse", "élargissions", "élargissiez", "élargissent"],
+        "subj.imp": ["élargisse", "élargisses", "élargît", "élargissions", "élargissiez", "élargissent"],
+        "imper.pres": ["élargis", "élargissons", "élargissez"]
+      },
+      "participe_present": "élargissant",
+      "participe_passe": ["élargi", "élargie", "élargis", "élargies"]
     }
   ]
 }
