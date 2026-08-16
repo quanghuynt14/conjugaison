@@ -17914,6 +17914,24 @@
       },
       "participe_present": "stoppant",
       "participe_passe": ["stoppé", "stoppée", "stoppés", "stoppées"]
+    },
+    {
+      "id": "fouetter",
+      "infinitif": "fouetter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fouette", "fouettes", "fouette", "fouettons", "fouettez", "fouettent"],
+        "ind.imp": ["fouettais", "fouettais", "fouettait", "fouettions", "fouettiez", "fouettaient"],
+        "ind.ps": ["fouettai", "fouettas", "fouetta", "fouettâmes", "fouettâtes", "fouettèrent"],
+        "ind.fut": ["fouetterai", "fouetteras", "fouettera", "fouetterons", "fouetterez", "fouetteront"],
+        "cond.pres": ["fouetterais", "fouetterais", "fouetterait", "fouetterions", "fouetteriez", "fouetteraient"],
+        "subj.pres": ["fouette", "fouettes", "fouette", "fouettions", "fouettiez", "fouettent"],
+        "subj.imp": ["fouettasse", "fouettasses", "fouettât", "fouettassions", "fouettassiez", "fouettassent"],
+        "imper.pres": ["fouette", "fouettons", "fouettez"]
+      },
+      "participe_present": "fouettant",
+      "participe_passe": ["fouetté", "fouettée", "fouettés", "fouettées"]
     }
   ]
 }
