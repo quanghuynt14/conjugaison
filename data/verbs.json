@@ -16932,6 +16932,24 @@
       },
       "participe_present": "évacuant",
       "participe_passe": ["évacué", "évacuée", "évacués", "évacuées"]
+    },
+    {
+      "id": "piétiner",
+      "infinitif": "piétiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["piétine", "piétines", "piétine", "piétinons", "piétinez", "piétinent"],
+        "ind.imp": ["piétinais", "piétinais", "piétinait", "piétinions", "piétiniez", "piétinaient"],
+        "ind.ps": ["piétinai", "piétinas", "piétina", "piétinâmes", "piétinâtes", "piétinèrent"],
+        "ind.fut": ["piétinerai", "piétineras", "piétinera", "piétinerons", "piétinerez", "piétineront"],
+        "cond.pres": ["piétinerais", "piétinerais", "piétinerait", "piétinerions", "piétineriez", "piétineraient"],
+        "subj.pres": ["piétine", "piétines", "piétine", "piétinions", "piétiniez", "piétinent"],
+        "subj.imp": ["piétinasse", "piétinasses", "piétinât", "piétinassions", "piétinassiez", "piétinassent"],
+        "imper.pres": ["piétine", "piétinons", "piétinez"]
+      },
+      "participe_present": "piétinant",
+      "participe_passe": ["piétiné", "piétinée", "piétinés", "piétinées"]
     }
   ]
 }
