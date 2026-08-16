@@ -8434,6 +8434,24 @@
       },
       "participe_present": "contrôlant",
       "participe_passe": ["contrôlé", "contrôlée", "contrôlés", "contrôlées"]
+    },
+    {
+      "id": "goûter",
+      "infinitif": "goûter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["goûte", "goûtes", "goûte", "goûtons", "goûtez", "goûtent"],
+        "ind.imp": ["goûtais", "goûtais", "goûtait", "goûtions", "goûtiez", "goûtaient"],
+        "ind.ps": ["goûtai", "goûtas", "goûta", "goûtâmes", "goûtâtes", "goûtèrent"],
+        "ind.fut": ["goûterai", "goûteras", "goûtera", "goûterons", "goûterez", "goûteront"],
+        "cond.pres": ["goûterais", "goûterais", "goûterait", "goûterions", "goûteriez", "goûteraient"],
+        "subj.pres": ["goûte", "goûtes", "goûte", "goûtions", "goûtiez", "goûtent"],
+        "subj.imp": ["goûtasse", "goûtasses", "goûtât", "goûtassions", "goûtassiez", "goûtassent"],
+        "imper.pres": ["goûte", "goûtons", "goûtez"]
+      },
+      "participe_present": "goûtant",
+      "participe_passe": ["goûté", "goûtée", "goûtés", "goûtées"]
     }
   ]
 }
