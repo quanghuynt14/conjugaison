@@ -11190,6 +11190,24 @@
       },
       "participe_present": "puant",
       "participe_passe": ["pué", "puée", "pués", "puées"]
+    },
+    {
+      "id": "décevoir",
+      "infinitif": "décevoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déçois", "déçois", "déçoit", "décevons", "décevez", "déçoivent"],
+        "ind.imp": ["décevais", "décevais", "décevait", "décevions", "déceviez", "décevaient"],
+        "ind.ps": ["déçus", "déçus", "déçut", "déçûmes", "déçûtes", "déçurent"],
+        "ind.fut": ["décevrai", "décevras", "décevra", "décevrons", "décevrez", "décevront"],
+        "cond.pres": ["décevrais", "décevrais", "décevrait", "décevrions", "décevriez", "décevraient"],
+        "subj.pres": ["déçoive", "déçoives", "déçoive", "décevions", "déceviez", "déçoivent"],
+        "subj.imp": ["déçusse", "déçusses", "déçût", "déçussions", "déçussiez", "déçussent"],
+        "imper.pres": ["déçois", "décevons", "décevez"]
+      },
+      "participe_present": "décevant",
+      "participe_passe": ["déçu", "déçue", "déçus", "déçues"]
     }
   ]
 }
