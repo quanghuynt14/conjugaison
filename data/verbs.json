@@ -19742,6 +19742,25 @@
       },
       "participe_present": "déchiffrant",
       "participe_passe": ["déchiffré", "déchiffrée", "déchiffrés", "déchiffrées"]
+    },
+    {
+      "id": "obséder",
+      "infinitif": "obséder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’obséderai » ou « j’obsèderai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["obsède", "obsèdes", "obsède", "obsédons", "obsédez", "obsèdent"],
+        "ind.imp": ["obsédais", "obsédais", "obsédait", "obsédions", "obsédiez", "obsédaient"],
+        "ind.ps": ["obsédai", "obsédas", "obséda", "obsédâmes", "obsédâtes", "obsédèrent"],
+        "ind.fut": [["obséderai", "obsèderai"], ["obséderas", "obsèderas"], ["obsédera", "obsèdera"], ["obséderons", "obsèderons"], ["obséderez", "obsèderez"], ["obséderont", "obsèderont"]],
+        "cond.pres": [["obséderais", "obsèderais"], ["obséderais", "obsèderais"], ["obséderait", "obsèderait"], ["obséderions", "obsèderions"], ["obséderiez", "obsèderiez"], ["obséderaient", "obsèderaient"]],
+        "subj.pres": ["obsède", "obsèdes", "obsède", "obsédions", "obsédiez", "obsèdent"],
+        "subj.imp": ["obsédasse", "obsédasses", "obsédât", "obsédassions", "obsédassiez", "obsédassent"],
+        "imper.pres": ["obsède", "obsédons", "obsédez"]
+      },
+      "participe_present": "obsédant",
+      "participe_passe": ["obsédé", "obsédée", "obsédés", "obsédées"]
     }
   ]
 }
