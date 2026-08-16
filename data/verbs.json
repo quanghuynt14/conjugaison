@@ -35969,6 +35969,24 @@
       },
       "participe_present": "rajustant",
       "participe_passe": ["rajusté", "rajustée", "rajustés", "rajustées"]
+    },
+    {
+      "id": "prosterner",
+      "infinitif": "prosterner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prosterne", "prosternes", "prosterne", "prosternons", "prosternez", "prosternent"],
+        "ind.imp": ["prosternais", "prosternais", "prosternait", "prosternions", "prosterniez", "prosternaient"],
+        "ind.ps": ["prosternai", "prosternas", "prosterna", "prosternâmes", "prosternâtes", "prosternèrent"],
+        "ind.fut": ["prosternerai", "prosterneras", "prosternera", "prosternerons", "prosternerez", "prosterneront"],
+        "cond.pres": ["prosternerais", "prosternerais", "prosternerait", "prosternerions", "prosterneriez", "prosterneraient"],
+        "subj.pres": ["prosterne", "prosternes", "prosterne", "prosternions", "prosterniez", "prosternent"],
+        "subj.imp": ["prosternasse", "prosternasses", "prosternât", "prosternassions", "prosternassiez", "prosternassent"],
+        "imper.pres": ["prosterne", "prosternons", "prosternez"]
+      },
+      "participe_present": "prosternant",
+      "participe_passe": ["prosterné", "prosternée", "prosternés", "prosternées"]
     }
   ]
 }
