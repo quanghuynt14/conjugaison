@@ -6369,6 +6369,24 @@
       },
       "participe_present": "attachant",
       "participe_passe": ["attaché", "attachée", "attachés", "attachées"]
+    },
+    {
+      "id": "interroger",
+      "infinitif": "interroger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["interroge", "interroges", "interroge", "interrogeons", "interrogez", "interrogent"],
+        "ind.imp": ["interrogeais", "interrogeais", "interrogeait", "interrogions", "interrogiez", "interrogeaient"],
+        "ind.ps": ["interrogeai", "interrogeas", "interrogea", "interrogeâmes", "interrogeâtes", "interrogèrent"],
+        "ind.fut": ["interrogerai", "interrogeras", "interrogera", "interrogerons", "interrogerez", "interrogeront"],
+        "cond.pres": ["interrogerais", "interrogerais", "interrogerait", "interrogerions", "interrogeriez", "interrogeraient"],
+        "subj.pres": ["interroge", "interroges", "interroge", "interrogions", "interrogiez", "interrogent"],
+        "subj.imp": ["interrogeasse", "interrogeasses", "interrogeât", "interrogeassions", "interrogeassiez", "interrogeassent"],
+        "imper.pres": ["interroge", "interrogeons", "interrogez"]
+      },
+      "participe_present": "interrogeant",
+      "participe_passe": ["interrogé", "interrogée", "interrogés", "interrogées"]
     }
   ]
 }
