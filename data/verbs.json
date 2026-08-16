@@ -14574,6 +14574,24 @@
       },
       "participe_present": "résonnant",
       "participe_passe": ["résonné", null, null, null]
+    },
+    {
+      "id": "rembourser",
+      "infinitif": "rembourser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rembourse", "rembourses", "rembourse", "remboursons", "remboursez", "remboursent"],
+        "ind.imp": ["remboursais", "remboursais", "remboursait", "remboursions", "remboursiez", "remboursaient"],
+        "ind.ps": ["remboursai", "remboursas", "remboursa", "remboursâmes", "remboursâtes", "remboursèrent"],
+        "ind.fut": ["rembourserai", "rembourseras", "remboursera", "rembourserons", "rembourserez", "rembourseront"],
+        "cond.pres": ["rembourserais", "rembourserais", "rembourserait", "rembourserions", "rembourseriez", "rembourseraient"],
+        "subj.pres": ["rembourse", "rembourses", "rembourse", "remboursions", "remboursiez", "remboursent"],
+        "subj.imp": ["remboursasse", "remboursasses", "remboursât", "remboursassions", "remboursassiez", "remboursassent"],
+        "imper.pres": ["rembourse", "remboursons", "remboursez"]
+      },
+      "participe_present": "remboursant",
+      "participe_passe": ["remboursé", "remboursée", "remboursés", "remboursées"]
     }
   ]
 }
