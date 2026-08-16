@@ -2533,6 +2533,24 @@
       },
       "participe_present": "ressemblant",
       "participe_passe": ["ressemblé", null, null, null]
+    },
+    {
+      "id": "choisir",
+      "infinitif": "choisir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["choisis", "choisis", "choisit", "choisissons", "choisissez", "choisissent"],
+        "ind.imp": ["choisissais", "choisissais", "choisissait", "choisissions", "choisissiez", "choisissaient"],
+        "ind.ps": ["choisis", "choisis", "choisit", "choisîmes", "choisîtes", "choisirent"],
+        "ind.fut": ["choisirai", "choisiras", "choisira", "choisirons", "choisirez", "choisiront"],
+        "cond.pres": ["choisirais", "choisirais", "choisirait", "choisirions", "choisiriez", "choisiraient"],
+        "subj.pres": ["choisisse", "choisisses", "choisisse", "choisissions", "choisissiez", "choisissent"],
+        "subj.imp": ["choisisse", "choisisses", "choisît", "choisissions", "choisissiez", "choisissent"],
+        "imper.pres": ["choisis", "choisissons", "choisissez"]
+      },
+      "participe_present": "choisissant",
+      "participe_passe": ["choisi", "choisie", "choisis", "choisies"]
     }
   ]
 }
