@@ -35242,6 +35242,24 @@
       },
       "participe_present": "dérouillant",
       "participe_passe": ["dérouillé", "dérouillée", "dérouillés", "dérouillées"]
+    },
+    {
+      "id": "relater",
+      "infinitif": "relater",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["relate", "relates", "relate", "relatons", "relatez", "relatent"],
+        "ind.imp": ["relatais", "relatais", "relatait", "relations", "relatiez", "relataient"],
+        "ind.ps": ["relatai", "relatas", "relata", "relatâmes", "relatâtes", "relatèrent"],
+        "ind.fut": ["relaterai", "relateras", "relatera", "relaterons", "relaterez", "relateront"],
+        "cond.pres": ["relaterais", "relaterais", "relaterait", "relaterions", "relateriez", "relateraient"],
+        "subj.pres": ["relate", "relates", "relate", "relations", "relatiez", "relatent"],
+        "subj.imp": ["relatasse", "relatasses", "relatât", "relatassions", "relatassiez", "relatassent"],
+        "imper.pres": ["relate", "relatons", "relatez"]
+      },
+      "participe_present": "relatant",
+      "participe_passe": ["relaté", "relatée", "relatés", "relatées"]
     }
   ]
 }
