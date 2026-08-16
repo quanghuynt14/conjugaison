@@ -10263,6 +10263,24 @@
       },
       "participe_present": "confirmant",
       "participe_passe": ["confirmé", "confirmée", "confirmés", "confirmées"]
+    },
+    {
+      "id": "cogner",
+      "infinitif": "cogner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cogne", "cognes", "cogne", "cognons", "cognez", "cognent"],
+        "ind.imp": ["cognais", "cognais", "cognait", "cognions", "cogniez", "cognaient"],
+        "ind.ps": ["cognai", "cognas", "cogna", "cognâmes", "cognâtes", "cognèrent"],
+        "ind.fut": ["cognerai", "cogneras", "cognera", "cognerons", "cognerez", "cogneront"],
+        "cond.pres": ["cognerais", "cognerais", "cognerait", "cognerions", "cogneriez", "cogneraient"],
+        "subj.pres": ["cogne", "cognes", "cogne", "cognions", "cogniez", "cognent"],
+        "subj.imp": ["cognasse", "cognasses", "cognât", "cognassions", "cognassiez", "cognassent"],
+        "imper.pres": ["cogne", "cognons", "cognez"]
+      },
+      "participe_present": "cognant",
+      "participe_passe": ["cogné", "cognée", "cognés", "cognées"]
     }
   ]
 }
