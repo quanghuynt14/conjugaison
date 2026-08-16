@@ -11372,6 +11372,24 @@
       },
       "participe_present": "opérant",
       "participe_passe": ["opéré", "opérée", "opérés", "opérées"]
+    },
+    {
+      "id": "piger",
+      "infinitif": "piger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pige", "piges", "pige", "pigeons", "pigez", "pigent"],
+        "ind.imp": ["pigeais", "pigeais", "pigeait", "pigions", "pigiez", "pigeaient"],
+        "ind.ps": ["pigeai", "pigeas", "pigea", "pigeâmes", "pigeâtes", "pigèrent"],
+        "ind.fut": ["pigerai", "pigeras", "pigera", "pigerons", "pigerez", "pigeront"],
+        "cond.pres": ["pigerais", "pigerais", "pigerait", "pigerions", "pigeriez", "pigeraient"],
+        "subj.pres": ["pige", "piges", "pige", "pigions", "pigiez", "pigent"],
+        "subj.imp": ["pigeasse", "pigeasses", "pigeât", "pigeassions", "pigeassiez", "pigeassent"],
+        "imper.pres": ["pige", "pigeons", "pigez"]
+      },
+      "participe_present": "pigeant",
+      "participe_passe": ["pigé", "pigée", "pigés", "pigées"]
     }
   ]
 }
