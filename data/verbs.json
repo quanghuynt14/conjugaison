@@ -24261,6 +24261,24 @@
       },
       "participe_present": "espionnant",
       "participe_passe": ["espionné", "espionnée", "espionnés", "espionnées"]
+    },
+    {
+      "id": "dispenser",
+      "infinitif": "dispenser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dispense", "dispenses", "dispense", "dispensons", "dispensez", "dispensent"],
+        "ind.imp": ["dispensais", "dispensais", "dispensait", "dispensions", "dispensiez", "dispensaient"],
+        "ind.ps": ["dispensai", "dispensas", "dispensa", "dispensâmes", "dispensâtes", "dispensèrent"],
+        "ind.fut": ["dispenserai", "dispenseras", "dispensera", "dispenserons", "dispenserez", "dispenseront"],
+        "cond.pres": ["dispenserais", "dispenserais", "dispenserait", "dispenserions", "dispenseriez", "dispenseraient"],
+        "subj.pres": ["dispense", "dispenses", "dispense", "dispensions", "dispensiez", "dispensent"],
+        "subj.imp": ["dispensasse", "dispensasses", "dispensât", "dispensassions", "dispensassiez", "dispensassent"],
+        "imper.pres": ["dispense", "dispensons", "dispensez"]
+      },
+      "participe_present": "dispensant",
+      "participe_passe": ["dispensé", "dispensée", "dispensés", "dispensées"]
     }
   ]
 }
