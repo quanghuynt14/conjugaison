@@ -17367,6 +17367,25 @@
       },
       "participe_present": "hantant",
       "participe_passe": ["hanté", "hantée", "hantés", "hantées"]
+    },
+    {
+      "id": "tolérer",
+      "infinitif": "tolérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je tolérerai » ou « je tolèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["tolère", "tolères", "tolère", "tolérons", "tolérez", "tolèrent"],
+        "ind.imp": ["tolérais", "tolérais", "tolérait", "tolérions", "tolériez", "toléraient"],
+        "ind.ps": ["tolérai", "toléras", "toléra", "tolérâmes", "tolérâtes", "tolérèrent"],
+        "ind.fut": [["tolérerai", "tolèrerai"], ["toléreras", "tolèreras"], ["tolérera", "tolèrera"], ["tolérerons", "tolèrerons"], ["tolérerez", "tolèrerez"], ["toléreront", "tolèreront"]],
+        "cond.pres": [["tolérerais", "tolèrerais"], ["tolérerais", "tolèrerais"], ["tolérerait", "tolèrerait"], ["tolérerions", "tolèrerions"], ["toléreriez", "tolèreriez"], ["toléreraient", "tolèreraient"]],
+        "subj.pres": ["tolère", "tolères", "tolère", "tolérions", "tolériez", "tolèrent"],
+        "subj.imp": ["tolérasse", "tolérasses", "tolérât", "tolérassions", "tolérassiez", "tolérassent"],
+        "imper.pres": ["tolère", "tolérons", "tolérez"]
+      },
+      "participe_present": "tolérant",
+      "participe_passe": ["toléré", "tolérée", "tolérés", "tolérées"]
     }
   ]
 }
