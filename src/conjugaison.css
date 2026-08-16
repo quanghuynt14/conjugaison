@@ -24,6 +24,26 @@
   margin: 0 0 0.35em;
 }
 
+/* Ce que remplacent neuf cent cinquante tableaux : « ai » est le présent
+   d'avoir, et l'auxiliaire de presque tout le dictionnaire. Le premier fait a
+   son tableau, le second cette phrase — avant les tableaux, parce qu'il répond
+   avant eux. */
+.auxiliaire {
+  font-size: 0.85em;
+  color: #555;
+  margin: 0 0 1.1em;
+}
+
+/* Ce qui n'existe pas ne doit pas se lire comme ce qui existe. Même place,
+   mais en italique et dans la voix des étiquettes : l'œil qui balaie une
+   colonne de formes ne prendra pas « n'existe pas » pour l'une d'elles. */
+.absent {
+  font-family: -apple-system, "SF Pro Text", sans-serif;
+  font-style: italic;
+  font-size: 0.85em;
+  color: #8a8a8a;
+}
+
 /* --- les tableaux inversés ------------------------------------------------- */
 
 /* Ces tableaux sont la réponse — un par verbe. Tout ce qui suit n'est que la
@@ -218,6 +238,8 @@
   .mode > h3 { color: #e08c8c; }
   .tense > h4 { color: #cfcfcf; }
   .cell-match { background: rgba(224, 140, 140, 0.22); }
+  .auxiliaire { color: #b8b8b8; }
+  .absent { color: #9a9a9a; }
   .note {
     color: #b8b8b8;
     border-left-color: rgba(224, 140, 140, 0.5);

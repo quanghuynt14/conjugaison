@@ -263,19 +263,24 @@ def cells_for(verb, aux, key, kind, source):
     """
     if kind == "simple":
         raw = [variants(cell) for cell in verb["tenses"][source]]
-    elif key.startswith("imper.") and verb.get("pronominal"):
-        raw = [[] for _ in verb["tenses"][source]]
     else:
-        participes = participes_accordes(verb, key)
-        raw = [
-            [f"{a} {p}" for a in variants(aux["tenses"][source][i])
-             for p in participes[i]]
-            if variants(cell) else []
-            for i, cell in enumerate(verb["tenses"][source])
-        ]
+        raw = raw_cells_for(verb, aux, key, source)
 
     return [[with_subject(verb, key, i, form) for form in forms]
             for i, forms in enumerate(raw)]
+
+
+def raw_cells_for(verb, aux, key, source):
+    """Les cases composées avant le sujet : « ai vécu », « sommes montés »."""
+    if key.startswith("imper.") and verb.get("pronominal"):
+        return [[] for _ in verb["tenses"][source]]
+    participes = participes_accordes(verb, key)
+    return [
+        [f"{a} {p}" for a in variants(aux["tenses"][source][i])
+         for p in participes[i]]
+        if variants(cell) else []
+        for i, cell in enumerate(verb["tenses"][source])
+    ]
 
 
 def show(forms):
@@ -351,9 +356,12 @@ def analyses_of(verb, aux):
 def occurrences_of(verb, aux, keys):
     """forme -> [Analysis], pour les cases composées de ce verbe.
 
-    « j’ai vécu » cite « ai » et « vécu ». On découpe la case en mots et on
-    garde ceux qui sont des clés du dictionnaire ; le reste — les sujets, le
-    « que » du subjonctif — n'est cherchable nulle part et ne produit rien.
+    « j’ai vécu » cite « ai » et « vécu ». On ne cherche que dans la partie
+    verbale de la case — auxiliaire et participe —, jamais dans ce que
+    `with_subject` a ajouté devant. Le sujet « tu » est le pronom, pas le
+    participe passé de taire, et le confondre donnait mille tableaux à l'entrée
+    « tu » : une pour chaque verbe du dictionnaire, disant chacune que « tu as
+    pris » contient le mot « tu ».
 
     Une case ne donne qu'une ligne par forme, d'où l'ensemble : c'est ce qui
     garantit qu'une ligne du tableau vaut une case surlignée, et pas deux.
@@ -364,11 +372,13 @@ def occurrences_of(verb, aux, keys):
             if kind != "compose":
                 continue
             accords = ACCORDS_IMPER if key.startswith("imper.") else ACCORDS_FINITE
+            nus = raw_cells_for(verb, aux, key, source)
             for i, forms in enumerate(cells_for(verb, aux, key, kind, source)):
                 if not forms:
                     continue
                 cell = show(forms)
-                for form in sorted(set(re.findall(r"\w+", cell)) & keys):
+                mots = set(re.findall(r"\w+", show(nus[i])))
+                for form in sorted(mots & keys):
                     found[form].append(Analysis(verb, key, i, cell, accords[i]))
     return found
 
@@ -463,6 +473,28 @@ def group_by_verb(records):
             sorted(grouped.items(), key=lambda kv: kv[1][0].verb["infinitif"])]
 
 
+def split_groups(groups):
+    """Sépare les verbes qui ont la forme de ceux qui l'empruntent.
+
+    Un verbe dont *toutes* les lignes sont citées ne possède pas la forme : il
+    la tient de son auxiliaire. À quatre verbes, « ai » ouvrait quatre tableaux
+    et c'était la trouvaille — le dictionnaire disait enfin qu'ai est un
+    auxiliaire. À mille, il en ouvrirait neuf cent cinquante-six, sept
+    mégaoctets d'une même ligne recopiée : « j'ai fait », « j'ai pris »,
+    « j'ai vécu »… Le fait tient en une phrase, et la phrase le dit mieux.
+
+    « vécu » ne bouge pas : ses quarante-six lignes sont dans le tableau de
+    vivre, et vivre possède la forme.
+    """
+    propres = [(v, rows) for v, rows in groups
+               if any(r.slot not in COMPOSED for r in rows)]
+    empruntes = [(v, rows) for v, rows in groups
+                 if all(r.slot in COMPOSED for r in rows)]
+    # Une entrée qui n'aurait que des emprunts n'existerait pas : une clé est
+    # d'abord une forme, et check.py le vérifie. Par sécurité on rend tout.
+    return (propres, empruntes) if propres else (groups, [])
+
+
 def render_reverse(verb, records):
     """Le tableau inversé d'un seul verbe. « vis » en a deux, vivre et voir.
 
@@ -501,7 +533,17 @@ def render_entry(form, records, verbs, auxiliaries):
         f'    <h1 class="searched">{esc(form)}</h1>',
     ]
 
-    groups = group_by_verb(records)
+    groups, empruntes = split_groups(group_by_verb(records))
+
+    if empruntes:
+        exemples = ", ".join(f"« {esc(rows[0].conjugated)} »"
+                             for _, rows in empruntes[:3])
+        out.append(
+            f'    <p class="auxiliaire">Auxiliaire : cette forme construit '
+            f'aussi les temps composés de {len(empruntes)} autres verbes du '
+            f'dictionnaire — {exemples}…</p>'
+        )
+
     for verb, rows in groups:
         out += render_reverse(verb, rows)
     for verb, rows in groups:
