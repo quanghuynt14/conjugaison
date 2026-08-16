@@ -32064,6 +32064,24 @@
       },
       "participe_present": "alternant",
       "participe_passe": ["alterné", "alternée", "alternés", "alternées"]
+    },
+    {
+      "id": "maculer",
+      "infinitif": "maculer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["macule", "macules", "macule", "maculons", "maculez", "maculent"],
+        "ind.imp": ["maculais", "maculais", "maculait", "maculions", "maculiez", "maculaient"],
+        "ind.ps": ["maculai", "maculas", "macula", "maculâmes", "maculâtes", "maculèrent"],
+        "ind.fut": ["maculerai", "maculeras", "maculera", "maculerons", "maculerez", "maculeront"],
+        "cond.pres": ["maculerais", "maculerais", "maculerait", "maculerions", "maculeriez", "maculeraient"],
+        "subj.pres": ["macule", "macules", "macule", "maculions", "maculiez", "maculent"],
+        "subj.imp": ["maculasse", "maculasses", "maculât", "maculassions", "maculassiez", "maculassent"],
+        "imper.pres": ["macule", "maculons", "maculez"]
+      },
+      "participe_present": "maculant",
+      "participe_passe": ["maculé", "maculée", "maculés", "maculées"]
     }
   ]
 }
