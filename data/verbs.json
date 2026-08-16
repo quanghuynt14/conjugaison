@@ -31457,6 +31457,24 @@
       },
       "participe_present": "boxant",
       "participe_passe": ["boxé", "boxée", "boxés", "boxées"]
+    },
+    {
+      "id": "inculper",
+      "infinitif": "inculper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["inculpe", "inculpes", "inculpe", "inculpons", "inculpez", "inculpent"],
+        "ind.imp": ["inculpais", "inculpais", "inculpait", "inculpions", "inculpiez", "inculpaient"],
+        "ind.ps": ["inculpai", "inculpas", "inculpa", "inculpâmes", "inculpâtes", "inculpèrent"],
+        "ind.fut": ["inculperai", "inculperas", "inculpera", "inculperons", "inculperez", "inculperont"],
+        "cond.pres": ["inculperais", "inculperais", "inculperait", "inculperions", "inculperiez", "inculperaient"],
+        "subj.pres": ["inculpe", "inculpes", "inculpe", "inculpions", "inculpiez", "inculpent"],
+        "subj.imp": ["inculpasse", "inculpasses", "inculpât", "inculpassions", "inculpassiez", "inculpassent"],
+        "imper.pres": ["inculpe", "inculpons", "inculpez"]
+      },
+      "participe_present": "inculpant",
+      "participe_passe": ["inculpé", "inculpée", "inculpés", "inculpées"]
     }
   ]
 }
