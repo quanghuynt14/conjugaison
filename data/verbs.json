@@ -26099,6 +26099,24 @@
       },
       "participe_present": "dédaignant",
       "participe_passe": ["dédaigné", "dédaignée", "dédaignés", "dédaignées"]
+    },
+    {
+      "id": "fouler",
+      "infinitif": "fouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["foule", "foules", "foule", "foulons", "foulez", "foulent"],
+        "ind.imp": ["foulais", "foulais", "foulait", "foulions", "fouliez", "foulaient"],
+        "ind.ps": ["foulai", "foulas", "foula", "foulâmes", "foulâtes", "foulèrent"],
+        "ind.fut": ["foulerai", "fouleras", "foulera", "foulerons", "foulerez", "fouleront"],
+        "cond.pres": ["foulerais", "foulerais", "foulerait", "foulerions", "fouleriez", "fouleraient"],
+        "subj.pres": ["foule", "foules", "foule", "foulions", "fouliez", "foulent"],
+        "subj.imp": ["foulasse", "foulasses", "foulât", "foulassions", "foulassiez", "foulassent"],
+        "imper.pres": ["foule", "foulons", "foulez"]
+      },
+      "participe_present": "foulant",
+      "participe_passe": ["foulé", "foulée", "foulés", "foulées"]
     }
   ]
 }
