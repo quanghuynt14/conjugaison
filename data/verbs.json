@@ -12045,6 +12045,25 @@
       },
       "participe_present": "embêtant",
       "participe_passe": ["embêté", "embêtée", "embêtés", "embêtées"]
+    },
+    {
+      "id": "exagérer",
+      "infinitif": "exagérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’exagérerai » ou « j’exagèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["exagère", "exagères", "exagère", "exagérons", "exagérez", "exagèrent"],
+        "ind.imp": ["exagérais", "exagérais", "exagérait", "exagérions", "exagériez", "exagéraient"],
+        "ind.ps": ["exagérai", "exagéras", "exagéra", "exagérâmes", "exagérâtes", "exagérèrent"],
+        "ind.fut": [["exagérerai", "exagèrerai"], ["exagéreras", "exagèreras"], ["exagérera", "exagèrera"], ["exagérerons", "exagèrerons"], ["exagérerez", "exagèrerez"], ["exagéreront", "exagèreront"]],
+        "cond.pres": [["exagérerais", "exagèrerais"], ["exagérerais", "exagèrerais"], ["exagérerait", "exagèrerait"], ["exagérerions", "exagèrerions"], ["exagéreriez", "exagèreriez"], ["exagéreraient", "exagèreraient"]],
+        "subj.pres": ["exagère", "exagères", "exagère", "exagérions", "exagériez", "exagèrent"],
+        "subj.imp": ["exagérasse", "exagérasses", "exagérât", "exagérassions", "exagérassiez", "exagérassent"],
+        "imper.pres": ["exagère", "exagérons", "exagérez"]
+      },
+      "participe_present": "exagérant",
+      "participe_passe": ["exagéré", "exagérée", "exagérés", "exagérées"]
     }
   ]
 }
