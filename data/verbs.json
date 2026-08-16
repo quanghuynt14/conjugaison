@@ -29197,6 +29197,25 @@
       },
       "participe_present": "conviant",
       "participe_passe": ["convié", "conviée", "conviés", "conviées"]
+    },
+    {
+      "id": "bégayer",
+      "infinitif": "bégayer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « je bégaie » ou « je bégaye ».",
+      "tenses": {
+        "ind.pres": [["bégaie", "bégaye"], ["bégaies", "bégayes"], ["bégaie", "bégaye"], "bégayons", "bégayez", ["bégaient", "bégayent"]],
+        "ind.imp": ["bégayais", "bégayais", "bégayait", "bégayions", "bégayiez", "bégayaient"],
+        "ind.ps": ["bégayai", "bégayas", "bégaya", "bégayâmes", "bégayâtes", "bégayèrent"],
+        "ind.fut": [["bégaierai", "bégayerai"], ["bégaieras", "bégayeras"], ["bégaiera", "bégayera"], ["bégaierons", "bégayerons"], ["bégaierez", "bégayerez"], ["bégaieront", "bégayeront"]],
+        "cond.pres": [["bégaierais", "bégayerais"], ["bégaierais", "bégayerais"], ["bégaierait", "bégayerait"], ["bégaierions", "bégayerions"], ["bégaieriez", "bégayeriez"], ["bégaieraient", "bégayeraient"]],
+        "subj.pres": [["bégaie", "bégaye"], ["bégaies", "bégayes"], ["bégaie", "bégaye"], "bégayions", "bégayiez", ["bégaient", "bégayent"]],
+        "subj.imp": ["bégayasse", "bégayasses", "bégayât", "bégayassions", "bégayassiez", "bégayassent"],
+        "imper.pres": [["bégaie", "bégaye"], "bégayons", "bégayez"]
+      },
+      "participe_present": "bégayant",
+      "participe_passe": ["bégayé", "bégayée", "bégayés", "bégayées"]
     }
   ]
 }
