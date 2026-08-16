@@ -31005,6 +31005,24 @@
       },
       "participe_present": "sévissant",
       "participe_passe": ["sévi", "sévie", "sévis", "sévies"]
+    },
+    {
+      "id": "planifier",
+      "infinitif": "planifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["planifie", "planifies", "planifie", "planifions", "planifiez", "planifient"],
+        "ind.imp": ["planifiais", "planifiais", "planifiait", "planifiions", "planifiiez", "planifiaient"],
+        "ind.ps": ["planifiai", "planifias", "planifia", "planifiâmes", "planifiâtes", "planifièrent"],
+        "ind.fut": ["planifierai", "planifieras", "planifiera", "planifierons", "planifierez", "planifieront"],
+        "cond.pres": ["planifierais", "planifierais", "planifierait", "planifierions", "planifieriez", "planifieraient"],
+        "subj.pres": ["planifie", "planifies", "planifie", "planifiions", "planifiiez", "planifient"],
+        "subj.imp": ["planifiasse", "planifiasses", "planifiât", "planifiassions", "planifiassiez", "planifiassent"],
+        "imper.pres": ["planifie", "planifions", "planifiez"]
+      },
+      "participe_present": "planifiant",
+      "participe_passe": ["planifié", "planifiée", "planifiés", "planifiées"]
     }
   ]
 }
