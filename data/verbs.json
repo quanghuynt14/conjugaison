@@ -7838,6 +7838,24 @@
       },
       "participe_present": "nettoyant",
       "participe_passe": ["nettoyé", "nettoyée", "nettoyés", "nettoyées"]
+    },
+    {
+      "id": "contenter",
+      "infinitif": "contenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contente", "contentes", "contente", "contentons", "contentez", "contentent"],
+        "ind.imp": ["contentais", "contentais", "contentait", "contentions", "contentiez", "contentaient"],
+        "ind.ps": ["contentai", "contentas", "contenta", "contentâmes", "contentâtes", "contentèrent"],
+        "ind.fut": ["contenterai", "contenteras", "contentera", "contenterons", "contenterez", "contenteront"],
+        "cond.pres": ["contenterais", "contenterais", "contenterait", "contenterions", "contenteriez", "contenteraient"],
+        "subj.pres": ["contente", "contentes", "contente", "contentions", "contentiez", "contentent"],
+        "subj.imp": ["contentasse", "contentasses", "contentât", "contentassions", "contentassiez", "contentassent"],
+        "imper.pres": ["contente", "contentons", "contentez"]
+      },
+      "participe_present": "contentant",
+      "participe_passe": ["contenté", "contentée", "contentés", "contentées"]
     }
   ]
 }
