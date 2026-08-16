@@ -18686,6 +18686,24 @@
       },
       "participe_present": "masquant",
       "participe_passe": ["masqué", "masquée", "masqués", "masquées"]
+    },
+    {
+      "id": "analyser",
+      "infinitif": "analyser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["analyse", "analyses", "analyse", "analysons", "analysez", "analysent"],
+        "ind.imp": ["analysais", "analysais", "analysait", "analysions", "analysiez", "analysaient"],
+        "ind.ps": ["analysai", "analysas", "analysa", "analysâmes", "analysâtes", "analysèrent"],
+        "ind.fut": ["analyserai", "analyseras", "analysera", "analyserons", "analyserez", "analyseront"],
+        "cond.pres": ["analyserais", "analyserais", "analyserait", "analyserions", "analyseriez", "analyseraient"],
+        "subj.pres": ["analyse", "analyses", "analyse", "analysions", "analysiez", "analysent"],
+        "subj.imp": ["analysasse", "analysasses", "analysât", "analysassions", "analysassiez", "analysassent"],
+        "imper.pres": ["analyse", "analysons", "analysez"]
+      },
+      "participe_present": "analysant",
+      "participe_passe": ["analysé", "analysée", "analysés", "analysées"]
     }
   ]
 }
