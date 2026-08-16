@@ -4884,6 +4884,24 @@
       },
       "participe_present": "baisant",
       "participe_passe": ["baisé", "baisée", "baisés", "baisées"]
+    },
+    {
+      "id": "élever",
+      "infinitif": "élever",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["élève", "élèves", "élève", "élevons", "élevez", "élèvent"],
+        "ind.imp": ["élevais", "élevais", "élevait", "élevions", "éleviez", "élevaient"],
+        "ind.ps": ["élevai", "élevas", "éleva", "élevâmes", "élevâtes", "élevèrent"],
+        "ind.fut": ["élèverai", "élèveras", "élèvera", "élèverons", "élèverez", "élèveront"],
+        "cond.pres": ["élèverais", "élèverais", "élèverait", "élèverions", "élèveriez", "élèveraient"],
+        "subj.pres": ["élève", "élèves", "élève", "élevions", "éleviez", "élèvent"],
+        "subj.imp": ["élevasse", "élevasses", "élevât", "élevassions", "élevassiez", "élevassent"],
+        "imper.pres": ["élève", "élevons", "élevez"]
+      },
+      "participe_present": "élevant",
+      "participe_passe": ["élevé", "élevée", "élevés", "élevées"]
     }
   ]
 }
