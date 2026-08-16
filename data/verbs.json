@@ -20986,6 +20986,24 @@
       },
       "participe_present": "consommant",
       "participe_passe": ["consommé", "consommée", "consommés", "consommées"]
+    },
+    {
+      "id": "redire",
+      "infinitif": "redire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["redis", "redis", "redit", "redisons", "redites", "redisent"],
+        "ind.imp": ["redisais", "redisais", "redisait", "redisions", "redisiez", "redisaient"],
+        "ind.ps": ["redis", "redis", "redit", "redîmes", "redîtes", "redirent"],
+        "ind.fut": ["redirai", "rediras", "redira", "redirons", "redirez", "rediront"],
+        "cond.pres": ["redirais", "redirais", "redirait", "redirions", "rediriez", "rediraient"],
+        "subj.pres": ["redise", "redises", "redise", "redisions", "redisiez", "redisent"],
+        "subj.imp": ["redisse", "redisses", "redît", "redissions", "redissiez", "redissent"],
+        "imper.pres": ["redis", "redisons", "redites"]
+      },
+      "participe_present": "redisant",
+      "participe_passe": ["redit", "redite", "redits", "redites"]
     }
   ]
 }
