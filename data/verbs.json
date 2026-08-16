@@ -15186,6 +15186,24 @@
       },
       "participe_present": "datant",
       "participe_passe": ["daté", "datée", "datés", "datées"]
+    },
+    {
+      "id": "arroser",
+      "infinitif": "arroser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["arrose", "arroses", "arrose", "arrosons", "arrosez", "arrosent"],
+        "ind.imp": ["arrosais", "arrosais", "arrosait", "arrosions", "arrosiez", "arrosaient"],
+        "ind.ps": ["arrosai", "arrosas", "arrosa", "arrosâmes", "arrosâtes", "arrosèrent"],
+        "ind.fut": ["arroserai", "arroseras", "arrosera", "arroserons", "arroserez", "arroseront"],
+        "cond.pres": ["arroserais", "arroserais", "arroserait", "arroserions", "arroseriez", "arroseraient"],
+        "subj.pres": ["arrose", "arroses", "arrose", "arrosions", "arrosiez", "arrosent"],
+        "subj.imp": ["arrosasse", "arrosasses", "arrosât", "arrosassions", "arrosassiez", "arrosassent"],
+        "imper.pres": ["arrose", "arrosons", "arrosez"]
+      },
+      "participe_present": "arrosant",
+      "participe_passe": ["arrosé", "arrosée", "arrosés", "arrosées"]
     }
   ]
 }
