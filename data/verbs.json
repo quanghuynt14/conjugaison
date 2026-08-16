@@ -26117,6 +26117,24 @@
       },
       "participe_present": "foulant",
       "participe_passe": ["foulé", "foulée", "foulés", "foulées"]
+    },
+    {
+      "id": "financer",
+      "infinitif": "financer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["finance", "finances", "finance", "finançons", "financez", "financent"],
+        "ind.imp": ["finançais", "finançais", "finançait", "financions", "financiez", "finançaient"],
+        "ind.ps": ["finançai", "finanças", "finança", "finançâmes", "finançâtes", "financèrent"],
+        "ind.fut": ["financerai", "financeras", "financera", "financerons", "financerez", "financeront"],
+        "cond.pres": ["financerais", "financerais", "financerait", "financerions", "financeriez", "financeraient"],
+        "subj.pres": ["finance", "finances", "finance", "financions", "financiez", "financent"],
+        "subj.imp": ["finançasse", "finançasses", "finançât", "finançassions", "finançassiez", "finançassent"],
+        "imper.pres": ["finance", "finançons", "financez"]
+      },
+      "participe_present": "finançant",
+      "participe_passe": ["financé", "financée", "financés", "financées"]
     }
   ]
 }
