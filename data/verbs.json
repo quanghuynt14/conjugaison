@@ -21548,6 +21548,24 @@
       },
       "participe_present": "adossant",
       "participe_passe": ["adossé", "adossée", "adossés", "adossées"]
+    },
+    {
+      "id": "poignarder",
+      "infinitif": "poignarder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["poignarde", "poignardes", "poignarde", "poignardons", "poignardez", "poignardent"],
+        "ind.imp": ["poignardais", "poignardais", "poignardait", "poignardions", "poignardiez", "poignardaient"],
+        "ind.ps": ["poignardai", "poignardas", "poignarda", "poignardâmes", "poignardâtes", "poignardèrent"],
+        "ind.fut": ["poignarderai", "poignarderas", "poignardera", "poignarderons", "poignarderez", "poignarderont"],
+        "cond.pres": ["poignarderais", "poignarderais", "poignarderait", "poignarderions", "poignarderiez", "poignarderaient"],
+        "subj.pres": ["poignarde", "poignardes", "poignarde", "poignardions", "poignardiez", "poignardent"],
+        "subj.imp": ["poignardasse", "poignardasses", "poignardât", "poignardassions", "poignardassiez", "poignardassent"],
+        "imper.pres": ["poignarde", "poignardons", "poignardez"]
+      },
+      "participe_present": "poignardant",
+      "participe_passe": ["poignardé", "poignardée", "poignardés", "poignardées"]
     }
   ]
 }
