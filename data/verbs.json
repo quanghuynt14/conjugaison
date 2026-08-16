@@ -8687,6 +8687,24 @@
       },
       "participe_present": "joignant",
       "participe_passe": ["joint", "jointe", "joints", "jointes"]
+    },
+    {
+      "id": "conclure",
+      "infinitif": "conclure",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conclus", "conclus", "conclut", "concluons", "concluez", "concluent"],
+        "ind.imp": ["concluais", "concluais", "concluait", "concluions", "concluiez", "concluaient"],
+        "ind.ps": ["conclus", "conclus", "conclut", "conclûmes", "conclûtes", "conclurent"],
+        "ind.fut": ["conclurai", "concluras", "conclura", "conclurons", "conclurez", "concluront"],
+        "cond.pres": ["conclurais", "conclurais", "conclurait", "conclurions", "concluriez", "concluraient"],
+        "subj.pres": ["conclue", "conclues", "conclue", "concluions", "concluiez", "concluent"],
+        "subj.imp": ["conclusse", "conclusses", "conclût", "conclussions", "conclussiez", "conclussent"],
+        "imper.pres": ["conclus", "concluons", "concluez"]
+      },
+      "participe_present": "concluant",
+      "participe_passe": ["conclu", "conclue", "conclus", "conclues"]
     }
   ]
 }
