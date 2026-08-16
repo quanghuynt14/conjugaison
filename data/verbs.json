@@ -4721,6 +4721,24 @@
       },
       "participe_present": "relevant",
       "participe_passe": ["relevé", "relevée", "relevés", "relevées"]
+    },
+    {
+      "id": "engager",
+      "infinitif": "engager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["engage", "engages", "engage", "engageons", "engagez", "engagent"],
+        "ind.imp": ["engageais", "engageais", "engageait", "engagions", "engagiez", "engageaient"],
+        "ind.ps": ["engageai", "engageas", "engagea", "engageâmes", "engageâtes", "engagèrent"],
+        "ind.fut": ["engagerai", "engageras", "engagera", "engagerons", "engagerez", "engageront"],
+        "cond.pres": ["engagerais", "engagerais", "engagerait", "engagerions", "engageriez", "engageraient"],
+        "subj.pres": ["engage", "engages", "engage", "engagions", "engagiez", "engagent"],
+        "subj.imp": ["engageasse", "engageasses", "engageât", "engageassions", "engageassiez", "engageassent"],
+        "imper.pres": ["engage", "engageons", "engagez"]
+      },
+      "participe_present": "engageant",
+      "participe_passe": ["engagé", "engagée", "engagés", "engagées"]
     }
   ]
 }
