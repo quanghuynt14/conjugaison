@@ -35695,6 +35695,24 @@
       },
       "participe_present": "démêlant",
       "participe_passe": ["démêlé", "démêlée", "démêlés", "démêlées"]
+    },
+    {
+      "id": "démanger",
+      "infinitif": "démanger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["démange", "démanges", "démange", "démangeons", "démangez", "démangent"],
+        "ind.imp": ["démangeais", "démangeais", "démangeait", "démangions", "démangiez", "démangeaient"],
+        "ind.ps": ["démangeai", "démangeas", "démangea", "démangeâmes", "démangeâtes", "démangèrent"],
+        "ind.fut": ["démangerai", "démangeras", "démangera", "démangerons", "démangerez", "démangeront"],
+        "cond.pres": ["démangerais", "démangerais", "démangerait", "démangerions", "démangeriez", "démangeraient"],
+        "subj.pres": ["démange", "démanges", "démange", "démangions", "démangiez", "démangent"],
+        "subj.imp": ["démangeasse", "démangeasses", "démangeât", "démangeassions", "démangeassiez", "démangeassent"],
+        "imper.pres": ["démange", "démangeons", "démangez"]
+      },
+      "participe_present": "démangeant",
+      "participe_passe": ["démangé", "démangée", "démangés", "démangées"]
     }
   ]
 }
