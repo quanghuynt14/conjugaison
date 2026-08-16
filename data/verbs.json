@@ -25298,6 +25298,24 @@
       },
       "participe_present": "abstenant",
       "participe_passe": ["abstenu", "abstenue", "abstenus", "abstenues"]
+    },
+    {
+      "id": "affranchir",
+      "infinitif": "affranchir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affranchis", "affranchis", "affranchit", "affranchissons", "affranchissez", "affranchissent"],
+        "ind.imp": ["affranchissais", "affranchissais", "affranchissait", "affranchissions", "affranchissiez", "affranchissaient"],
+        "ind.ps": ["affranchis", "affranchis", "affranchit", "affranchîmes", "affranchîtes", "affranchirent"],
+        "ind.fut": ["affranchirai", "affranchiras", "affranchira", "affranchirons", "affranchirez", "affranchiront"],
+        "cond.pres": ["affranchirais", "affranchirais", "affranchirait", "affranchirions", "affranchiriez", "affranchiraient"],
+        "subj.pres": ["affranchisse", "affranchisses", "affranchisse", "affranchissions", "affranchissiez", "affranchissent"],
+        "subj.imp": ["affranchisse", "affranchisses", "affranchît", "affranchissions", "affranchissiez", "affranchissent"],
+        "imper.pres": ["affranchis", "affranchissons", "affranchissez"]
+      },
+      "participe_present": "affranchissant",
+      "participe_passe": ["affranchi", "affranchie", "affranchis", "affranchies"]
     }
   ]
 }
