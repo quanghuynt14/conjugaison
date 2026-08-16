@@ -12192,6 +12192,24 @@
       },
       "participe_present": "souciant",
       "participe_passe": ["soucié", "souciée", "souciés", "souciées"]
+    },
+    {
+      "id": "envisager",
+      "infinitif": "envisager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["envisage", "envisages", "envisage", "envisageons", "envisagez", "envisagent"],
+        "ind.imp": ["envisageais", "envisageais", "envisageait", "envisagions", "envisagiez", "envisageaient"],
+        "ind.ps": ["envisageai", "envisageas", "envisagea", "envisageâmes", "envisageâtes", "envisagèrent"],
+        "ind.fut": ["envisagerai", "envisageras", "envisagera", "envisagerons", "envisagerez", "envisageront"],
+        "cond.pres": ["envisagerais", "envisagerais", "envisagerait", "envisagerions", "envisageriez", "envisageraient"],
+        "subj.pres": ["envisage", "envisages", "envisage", "envisagions", "envisagiez", "envisagent"],
+        "subj.imp": ["envisageasse", "envisageasses", "envisageât", "envisageassions", "envisageassiez", "envisageassent"],
+        "imper.pres": ["envisage", "envisageons", "envisagez"]
+      },
+      "participe_present": "envisageant",
+      "participe_passe": ["envisagé", "envisagée", "envisagés", "envisagées"]
     }
   ]
 }
