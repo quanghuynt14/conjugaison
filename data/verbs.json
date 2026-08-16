@@ -26081,6 +26081,24 @@
       },
       "participe_present": "charmant",
       "participe_passe": ["charmé", "charmée", "charmés", "charmées"]
+    },
+    {
+      "id": "dédaigner",
+      "infinitif": "dédaigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dédaigne", "dédaignes", "dédaigne", "dédaignons", "dédaignez", "dédaignent"],
+        "ind.imp": ["dédaignais", "dédaignais", "dédaignait", "dédaignions", "dédaigniez", "dédaignaient"],
+        "ind.ps": ["dédaignai", "dédaignas", "dédaigna", "dédaignâmes", "dédaignâtes", "dédaignèrent"],
+        "ind.fut": ["dédaignerai", "dédaigneras", "dédaignera", "dédaignerons", "dédaignerez", "dédaigneront"],
+        "cond.pres": ["dédaignerais", "dédaignerais", "dédaignerait", "dédaignerions", "dédaigneriez", "dédaigneraient"],
+        "subj.pres": ["dédaigne", "dédaignes", "dédaigne", "dédaignions", "dédaigniez", "dédaignent"],
+        "subj.imp": ["dédaignasse", "dédaignasses", "dédaignât", "dédaignassions", "dédaignassiez", "dédaignassent"],
+        "imper.pres": ["dédaigne", "dédaignons", "dédaignez"]
+      },
+      "participe_present": "dédaignant",
+      "participe_passe": ["dédaigné", "dédaignée", "dédaignés", "dédaignées"]
     }
   ]
 }
