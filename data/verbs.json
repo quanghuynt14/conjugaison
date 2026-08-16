@@ -6768,6 +6768,24 @@
       },
       "participe_present": "brillant",
       "participe_passe": ["brillé", null, null, null]
+    },
+    {
+      "id": "dessiner",
+      "infinitif": "dessiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dessine", "dessines", "dessine", "dessinons", "dessinez", "dessinent"],
+        "ind.imp": ["dessinais", "dessinais", "dessinait", "dessinions", "dessiniez", "dessinaient"],
+        "ind.ps": ["dessinai", "dessinas", "dessina", "dessinâmes", "dessinâtes", "dessinèrent"],
+        "ind.fut": ["dessinerai", "dessineras", "dessinera", "dessinerons", "dessinerez", "dessineront"],
+        "cond.pres": ["dessinerais", "dessinerais", "dessinerait", "dessinerions", "dessineriez", "dessineraient"],
+        "subj.pres": ["dessine", "dessines", "dessine", "dessinions", "dessiniez", "dessinent"],
+        "subj.imp": ["dessinasse", "dessinasses", "dessinât", "dessinassions", "dessinassiez", "dessinassent"],
+        "imper.pres": ["dessine", "dessinons", "dessinez"]
+      },
+      "participe_present": "dessinant",
+      "participe_passe": ["dessiné", "dessinée", "dessinés", "dessinées"]
     }
   ]
 }
