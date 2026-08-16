@@ -24534,6 +24534,24 @@
       },
       "participe_present": "bredouillant",
       "participe_passe": ["bredouillé", "bredouillée", "bredouillés", "bredouillées"]
+    },
+    {
+      "id": "rebondir",
+      "infinitif": "rebondir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rebondis", "rebondis", "rebondit", "rebondissons", "rebondissez", "rebondissent"],
+        "ind.imp": ["rebondissais", "rebondissais", "rebondissait", "rebondissions", "rebondissiez", "rebondissaient"],
+        "ind.ps": ["rebondis", "rebondis", "rebondit", "rebondîmes", "rebondîtes", "rebondirent"],
+        "ind.fut": ["rebondirai", "rebondiras", "rebondira", "rebondirons", "rebondirez", "rebondiront"],
+        "cond.pres": ["rebondirais", "rebondirais", "rebondirait", "rebondirions", "rebondiriez", "rebondiraient"],
+        "subj.pres": ["rebondisse", "rebondisses", "rebondisse", "rebondissions", "rebondissiez", "rebondissent"],
+        "subj.imp": ["rebondisse", "rebondisses", "rebondît", "rebondissions", "rebondissiez", "rebondissent"],
+        "imper.pres": ["rebondis", "rebondissons", "rebondissez"]
+      },
+      "participe_present": "rebondissant",
+      "participe_passe": ["rebondi", "rebondie", "rebondis", "rebondies"]
     }
   ]
 }
