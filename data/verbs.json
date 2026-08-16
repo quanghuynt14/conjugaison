@@ -32228,6 +32228,24 @@
       },
       "participe_present": "dévalisant",
       "participe_passe": ["dévalisé", "dévalisée", "dévalisés", "dévalisées"]
+    },
+    {
+      "id": "damner",
+      "infinitif": "damner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["damne", "damnes", "damne", "damnons", "damnez", "damnent"],
+        "ind.imp": ["damnais", "damnais", "damnait", "damnions", "damniez", "damnaient"],
+        "ind.ps": ["damnai", "damnas", "damna", "damnâmes", "damnâtes", "damnèrent"],
+        "ind.fut": ["damnerai", "damneras", "damnera", "damnerons", "damnerez", "damneront"],
+        "cond.pres": ["damnerais", "damnerais", "damnerait", "damnerions", "damneriez", "damneraient"],
+        "subj.pres": ["damne", "damnes", "damne", "damnions", "damniez", "damnent"],
+        "subj.imp": ["damnasse", "damnasses", "damnât", "damnassions", "damnassiez", "damnassent"],
+        "imper.pres": ["damne", "damnons", "damnez"]
+      },
+      "participe_present": "damnant",
+      "participe_passe": ["damné", "damnée", "damnés", "damnées"]
     }
   ]
 }
