@@ -8993,6 +8993,24 @@
       },
       "participe_present": "envahissant",
       "participe_passe": ["envahi", "envahie", "envahis", "envahies"]
+    },
+    {
+      "id": "guérir",
+      "infinitif": "guérir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["guéris", "guéris", "guérit", "guérissons", "guérissez", "guérissent"],
+        "ind.imp": ["guérissais", "guérissais", "guérissait", "guérissions", "guérissiez", "guérissaient"],
+        "ind.ps": ["guéris", "guéris", "guérit", "guérîmes", "guérîtes", "guérirent"],
+        "ind.fut": ["guérirai", "guériras", "guérira", "guérirons", "guérirez", "guériront"],
+        "cond.pres": ["guérirais", "guérirais", "guérirait", "guéririons", "guéririez", "guériraient"],
+        "subj.pres": ["guérisse", "guérisses", "guérisse", "guérissions", "guérissiez", "guérissent"],
+        "subj.imp": ["guérisse", "guérisses", "guérît", "guérissions", "guérissiez", "guérissent"],
+        "imper.pres": ["guéris", "guérissons", "guérissez"]
+      },
+      "participe_present": "guérissant",
+      "participe_passe": ["guéri", "guérie", "guéris", "guéries"]
     }
   ]
 }
