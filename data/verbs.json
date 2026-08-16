@@ -2188,6 +2188,24 @@
       },
       "participe_present": "reconnaissant",
       "participe_passe": ["reconnu", "reconnue", "reconnus", "reconnues"]
+    },
+    {
+      "id": "apporter",
+      "infinitif": "apporter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["apporte", "apportes", "apporte", "apportons", "apportez", "apportent"],
+        "ind.imp": ["apportais", "apportais", "apportait", "apportions", "apportiez", "apportaient"],
+        "ind.ps": ["apportai", "apportas", "apporta", "apportâmes", "apportâtes", "apportèrent"],
+        "ind.fut": ["apporterai", "apporteras", "apportera", "apporterons", "apporterez", "apporteront"],
+        "cond.pres": ["apporterais", "apporterais", "apporterait", "apporterions", "apporteriez", "apporteraient"],
+        "subj.pres": ["apporte", "apportes", "apporte", "apportions", "apportiez", "apportent"],
+        "subj.imp": ["apportasse", "apportasses", "apportât", "apportassions", "apportassiez", "apportassent"],
+        "imper.pres": ["apporte", "apportons", "apportez"]
+      },
+      "participe_present": "apportant",
+      "participe_passe": ["apporté", "apportée", "apportés", "apportées"]
     }
   ]
 }
