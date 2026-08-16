@@ -6045,6 +6045,24 @@
       },
       "participe_present": "inventant",
       "participe_passe": ["inventé", "inventée", "inventés", "inventées"]
+    },
+    {
+      "id": "presser",
+      "infinitif": "presser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["presse", "presses", "presse", "pressons", "pressez", "pressent"],
+        "ind.imp": ["pressais", "pressais", "pressait", "pressions", "pressiez", "pressaient"],
+        "ind.ps": ["pressai", "pressas", "pressa", "pressâmes", "pressâtes", "pressèrent"],
+        "ind.fut": ["presserai", "presseras", "pressera", "presserons", "presserez", "presseront"],
+        "cond.pres": ["presserais", "presserais", "presserait", "presserions", "presseriez", "presseraient"],
+        "subj.pres": ["presse", "presses", "presse", "pressions", "pressiez", "pressent"],
+        "subj.imp": ["pressasse", "pressasses", "pressât", "pressassions", "pressassiez", "pressassent"],
+        "imper.pres": ["presse", "pressons", "pressez"]
+      },
+      "participe_present": "pressant",
+      "participe_passe": ["pressé", "pressée", "pressés", "pressées"]
     }
   ]
 }
