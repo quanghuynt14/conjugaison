@@ -25024,6 +25024,24 @@
       },
       "participe_present": "rendormant",
       "participe_passe": ["rendormi", "rendormie", "rendormis", "rendormies"]
+    },
+    {
+      "id": "ressaisir",
+      "infinitif": "ressaisir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ressaisis", "ressaisis", "ressaisit", "ressaisissons", "ressaisissez", "ressaisissent"],
+        "ind.imp": ["ressaisissais", "ressaisissais", "ressaisissait", "ressaisissions", "ressaisissiez", "ressaisissaient"],
+        "ind.ps": ["ressaisis", "ressaisis", "ressaisit", "ressaisîmes", "ressaisîtes", "ressaisirent"],
+        "ind.fut": ["ressaisirai", "ressaisiras", "ressaisira", "ressaisirons", "ressaisirez", "ressaisiront"],
+        "cond.pres": ["ressaisirais", "ressaisirais", "ressaisirait", "ressaisirions", "ressaisiriez", "ressaisiraient"],
+        "subj.pres": ["ressaisisse", "ressaisisses", "ressaisisse", "ressaisissions", "ressaisissiez", "ressaisissent"],
+        "subj.imp": ["ressaisisse", "ressaisisses", "ressaisît", "ressaisissions", "ressaisissiez", "ressaisissent"],
+        "imper.pres": ["ressaisis", "ressaisissons", "ressaisissez"]
+      },
+      "participe_present": "ressaisissant",
+      "participe_passe": ["ressaisi", "ressaisie", "ressaisis", "ressaisies"]
     }
   ]
 }
