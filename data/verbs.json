@@ -24479,6 +24479,25 @@
       },
       "participe_present": "illustrant",
       "participe_passe": ["illustré", "illustrée", "illustrés", "illustrées"]
+    },
+    {
+      "id": "scintiller",
+      "infinitif": "scintiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « scintillé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["scintille", "scintilles", "scintille", "scintillons", "scintillez", "scintillent"],
+        "ind.imp": ["scintillais", "scintillais", "scintillait", "scintillions", "scintilliez", "scintillaient"],
+        "ind.ps": ["scintillai", "scintillas", "scintilla", "scintillâmes", "scintillâtes", "scintillèrent"],
+        "ind.fut": ["scintillerai", "scintilleras", "scintillera", "scintillerons", "scintillerez", "scintilleront"],
+        "cond.pres": ["scintillerais", "scintillerais", "scintillerait", "scintillerions", "scintilleriez", "scintilleraient"],
+        "subj.pres": ["scintille", "scintilles", "scintille", "scintillions", "scintilliez", "scintillent"],
+        "subj.imp": ["scintillasse", "scintillasses", "scintillât", "scintillassions", "scintillassiez", "scintillassent"],
+        "imper.pres": ["scintille", "scintillons", "scintillez"]
+      },
+      "participe_present": "scintillant",
+      "participe_passe": ["scintillé", null, null, null]
     }
   ]
 }
