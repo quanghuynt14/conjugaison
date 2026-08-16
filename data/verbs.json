@@ -1130,6 +1130,25 @@
       },
       "participe_present": "répondant",
       "participe_passe": ["répondu", "répondue", "répondus", "répondues"]
+    },
+    {
+      "id": "asseoir",
+      "infinitif": "asseoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Trois conjugaisons coexistent, toutes correctes : « j'assieds » et « j'assois » au présent, « j'assiérai », « j'asseyerai » ou « j'assoirai » au futur.",
+      "tenses": {
+        "ind.pres": [["assieds", "assois"], ["assieds", "assois"], ["assied", "assoit"], ["asseyons", "assoyons"], ["asseyez", "assoyez"], ["asseyent", "assoient"]],
+        "ind.imp": [["asseyais", "assoyais"], ["asseyais", "assoyais"], ["asseyait", "assoyait"], ["asseyions", "assoyions"], ["asseyiez", "assoyiez"], ["asseyaient", "assoyaient"]],
+        "ind.ps": ["assis", "assis", "assit", "assîmes", "assîtes", "assirent"],
+        "ind.fut": [["assiérai", "asseyerai", "assoirai"], ["assiéras", "asseyeras", "assoiras"], ["assiéra", "asseyera", "assoira"], ["assiérons", "asseyerons", "assoirons"], ["assiérez", "asseyerez", "assoirez"], ["assiéront", "asseyeront", "assoiront"]],
+        "cond.pres": [["assiérais", "asseyerais", "assoirais"], ["assiérais", "asseyerais", "assoirais"], ["assiérait", "asseyerait", "assoirait"], ["assiérions", "asseyerions", "assoirions"], ["assiériez", "asseyeriez", "assoiriez"], ["assiéraient", "asseyeraient", "assoiraient"]],
+        "subj.pres": [["asseye", "assoie"], ["asseyes", "assoies"], ["asseye", "assoie"], ["asseyions", "assoyions"], ["asseyiez", "assoyiez"], ["asseyent", "assoient"]],
+        "subj.imp": ["assisse", "assisses", "assît", "assissions", "assissiez", "assissent"],
+        "imper.pres": [["assieds", "assois"], ["asseyons", "assoyons"], ["asseyez", "assoyez"]]
+      },
+      "participe_present": ["asseyant", "assoyant"],
+      "participe_passe": ["assis", "assise", "assis", "assises"]
     }
   ]
 }
