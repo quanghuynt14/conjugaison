@@ -32010,6 +32010,24 @@
       },
       "participe_present": "injuriant",
       "participe_passe": ["injurié", "injuriée", "injuriés", "injuriées"]
+    },
+    {
+      "id": "murer",
+      "infinitif": "murer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mure", "mures", "mure", "murons", "murez", "murent"],
+        "ind.imp": ["murais", "murais", "murait", "murions", "muriez", "muraient"],
+        "ind.ps": ["murai", "muras", "mura", "murâmes", "murâtes", "murèrent"],
+        "ind.fut": ["murerai", "mureras", "murera", "murerons", "murerez", "mureront"],
+        "cond.pres": ["murerais", "murerais", "murerait", "murerions", "mureriez", "mureraient"],
+        "subj.pres": ["mure", "mures", "mure", "murions", "muriez", "murent"],
+        "subj.imp": ["murasse", "murasses", "murât", "murassions", "murassiez", "murassent"],
+        "imper.pres": ["mure", "murons", "murez"]
+      },
+      "participe_present": "murant",
+      "participe_passe": ["muré", "murée", "murés", "murées"]
     }
   ]
 }
