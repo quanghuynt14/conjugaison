@@ -2823,6 +2823,25 @@
       },
       "participe_present": "amenant",
       "participe_passe": ["amené", "amenée", "amenés", "amenées"]
+    },
+    {
+      "id": "inquiéter",
+      "infinitif": "inquiéter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’inquiéterai » ou « j’inquièterai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["inquiète", "inquiètes", "inquiète", "inquiétons", "inquiétez", "inquiètent"],
+        "ind.imp": ["inquiétais", "inquiétais", "inquiétait", "inquiétions", "inquiétiez", "inquiétaient"],
+        "ind.ps": ["inquiétai", "inquiétas", "inquiéta", "inquiétâmes", "inquiétâtes", "inquiétèrent"],
+        "ind.fut": [["inquiéterai", "inquièterai"], ["inquiéteras", "inquièteras"], ["inquiétera", "inquiètera"], ["inquiéterons", "inquièterons"], ["inquiéterez", "inquièterez"], ["inquiéteront", "inquièteront"]],
+        "cond.pres": [["inquiéterais", "inquièterais"], ["inquiéterais", "inquièterais"], ["inquiéterait", "inquièterait"], ["inquiéterions", "inquièterions"], ["inquiéteriez", "inquièteriez"], ["inquiéteraient", "inquièteraient"]],
+        "subj.pres": ["inquiète", "inquiètes", "inquiète", "inquiétions", "inquiétiez", "inquiètent"],
+        "subj.imp": ["inquiétasse", "inquiétasses", "inquiétât", "inquiétassions", "inquiétassiez", "inquiétassent"],
+        "imper.pres": ["inquiète", "inquiétons", "inquiétez"]
+      },
+      "participe_present": "inquiétant",
+      "participe_passe": ["inquiété", "inquiétée", "inquiétés", "inquiétées"]
     }
   ]
 }
