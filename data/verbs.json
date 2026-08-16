@@ -7331,6 +7331,24 @@
       },
       "participe_present": "concernant",
       "participe_passe": ["concerné", "concernée", "concernés", "concernées"]
+    },
+    {
+      "id": "caresser",
+      "infinitif": "caresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["caresse", "caresses", "caresse", "caressons", "caressez", "caressent"],
+        "ind.imp": ["caressais", "caressais", "caressait", "caressions", "caressiez", "caressaient"],
+        "ind.ps": ["caressai", "caressas", "caressa", "caressâmes", "caressâtes", "caressèrent"],
+        "ind.fut": ["caresserai", "caresseras", "caressera", "caresserons", "caresserez", "caresseront"],
+        "cond.pres": ["caresserais", "caresserais", "caresserait", "caresserions", "caresseriez", "caresseraient"],
+        "subj.pres": ["caresse", "caresses", "caresse", "caressions", "caressiez", "caressent"],
+        "subj.imp": ["caressasse", "caressasses", "caressât", "caressassions", "caressassiez", "caressassent"],
+        "imper.pres": ["caresse", "caressons", "caressez"]
+      },
+      "participe_present": "caressant",
+      "participe_passe": ["caressé", "caressée", "caressés", "caressées"]
     }
   ]
 }
