@@ -28596,6 +28596,24 @@
       },
       "participe_present": "déplorant",
       "participe_passe": ["déploré", "déplorée", "déplorés", "déplorées"]
+    },
+    {
+      "id": "mendier",
+      "infinitif": "mendier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mendie", "mendies", "mendie", "mendions", "mendiez", "mendient"],
+        "ind.imp": ["mendiais", "mendiais", "mendiait", "mendiions", "mendiiez", "mendiaient"],
+        "ind.ps": ["mendiai", "mendias", "mendia", "mendiâmes", "mendiâtes", "mendièrent"],
+        "ind.fut": ["mendierai", "mendieras", "mendiera", "mendierons", "mendierez", "mendieront"],
+        "cond.pres": ["mendierais", "mendierais", "mendierait", "mendierions", "mendieriez", "mendieraient"],
+        "subj.pres": ["mendie", "mendies", "mendie", "mendiions", "mendiiez", "mendient"],
+        "subj.imp": ["mendiasse", "mendiasses", "mendiât", "mendiassions", "mendiassiez", "mendiassent"],
+        "imper.pres": ["mendie", "mendions", "mendiez"]
+      },
+      "participe_present": "mendiant",
+      "participe_passe": ["mendié", "mendiée", "mendiés", "mendiées"]
     }
   ]
 }
