@@ -32794,6 +32794,24 @@
       },
       "participe_present": "fouinant",
       "participe_passe": ["fouiné", null, null, null]
+    },
+    {
+      "id": "déjouer",
+      "infinitif": "déjouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déjoue", "déjoues", "déjoue", "déjouons", "déjouez", "déjouent"],
+        "ind.imp": ["déjouais", "déjouais", "déjouait", "déjouions", "déjouiez", "déjouaient"],
+        "ind.ps": ["déjouai", "déjouas", "déjoua", "déjouâmes", "déjouâtes", "déjouèrent"],
+        "ind.fut": ["déjouerai", "déjoueras", "déjouera", "déjouerons", "déjouerez", "déjoueront"],
+        "cond.pres": ["déjouerais", "déjouerais", "déjouerait", "déjouerions", "déjoueriez", "déjoueraient"],
+        "subj.pres": ["déjoue", "déjoues", "déjoue", "déjouions", "déjouiez", "déjouent"],
+        "subj.imp": ["déjouasse", "déjouasses", "déjouât", "déjouassions", "déjouassiez", "déjouassent"],
+        "imper.pres": ["déjoue", "déjouons", "déjouez"]
+      },
+      "participe_present": "déjouant",
+      "participe_passe": ["déjoué", "déjouée", "déjoués", "déjouées"]
     }
   ]
 }
