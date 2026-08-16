@@ -5101,6 +5101,24 @@
       },
       "participe_present": "vérifiant",
       "participe_passe": ["vérifié", "vérifiée", "vérifiés", "vérifiées"]
+    },
+    {
+      "id": "éprouver",
+      "infinitif": "éprouver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éprouve", "éprouves", "éprouve", "éprouvons", "éprouvez", "éprouvent"],
+        "ind.imp": ["éprouvais", "éprouvais", "éprouvait", "éprouvions", "éprouviez", "éprouvaient"],
+        "ind.ps": ["éprouvai", "éprouvas", "éprouva", "éprouvâmes", "éprouvâtes", "éprouvèrent"],
+        "ind.fut": ["éprouverai", "éprouveras", "éprouvera", "éprouverons", "éprouverez", "éprouveront"],
+        "cond.pres": ["éprouverais", "éprouverais", "éprouverait", "éprouverions", "éprouveriez", "éprouveraient"],
+        "subj.pres": ["éprouve", "éprouves", "éprouve", "éprouvions", "éprouviez", "éprouvent"],
+        "subj.imp": ["éprouvasse", "éprouvasses", "éprouvât", "éprouvassions", "éprouvassiez", "éprouvassent"],
+        "imper.pres": ["éprouve", "éprouvons", "éprouvez"]
+      },
+      "participe_present": "éprouvant",
+      "participe_passe": ["éprouvé", "éprouvée", "éprouvés", "éprouvées"]
     }
   ]
 }
