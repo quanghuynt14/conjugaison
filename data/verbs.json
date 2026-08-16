@@ -27559,6 +27559,24 @@
       },
       "participe_present": "décédant",
       "participe_passe": ["décédé", "décédée", "décédés", "décédées"]
+    },
+    {
+      "id": "extirper",
+      "infinitif": "extirper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["extirpe", "extirpes", "extirpe", "extirpons", "extirpez", "extirpent"],
+        "ind.imp": ["extirpais", "extirpais", "extirpait", "extirpions", "extirpiez", "extirpaient"],
+        "ind.ps": ["extirpai", "extirpas", "extirpa", "extirpâmes", "extirpâtes", "extirpèrent"],
+        "ind.fut": ["extirperai", "extirperas", "extirpera", "extirperons", "extirperez", "extirperont"],
+        "cond.pres": ["extirperais", "extirperais", "extirperait", "extirperions", "extirperiez", "extirperaient"],
+        "subj.pres": ["extirpe", "extirpes", "extirpe", "extirpions", "extirpiez", "extirpent"],
+        "subj.imp": ["extirpasse", "extirpasses", "extirpât", "extirpassions", "extirpassiez", "extirpassent"],
+        "imper.pres": ["extirpe", "extirpons", "extirpez"]
+      },
+      "participe_present": "extirpant",
+      "participe_passe": ["extirpé", "extirpée", "extirpés", "extirpées"]
     }
   ]
 }
