@@ -35951,6 +35951,24 @@
       },
       "participe_present": "désintéressant",
       "participe_passe": ["désintéressé", "désintéressée", "désintéressés", "désintéressées"]
+    },
+    {
+      "id": "rajuster",
+      "infinitif": "rajuster",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rajuste", "rajustes", "rajuste", "rajustons", "rajustez", "rajustent"],
+        "ind.imp": ["rajustais", "rajustais", "rajustait", "rajustions", "rajustiez", "rajustaient"],
+        "ind.ps": ["rajustai", "rajustas", "rajusta", "rajustâmes", "rajustâtes", "rajustèrent"],
+        "ind.fut": ["rajusterai", "rajusteras", "rajustera", "rajusterons", "rajusterez", "rajusteront"],
+        "cond.pres": ["rajusterais", "rajusterais", "rajusterait", "rajusterions", "rajusteriez", "rajusteraient"],
+        "subj.pres": ["rajuste", "rajustes", "rajuste", "rajustions", "rajustiez", "rajustent"],
+        "subj.imp": ["rajustasse", "rajustasses", "rajustât", "rajustassions", "rajustassiez", "rajustassent"],
+        "imper.pres": ["rajuste", "rajustons", "rajustez"]
+      },
+      "participe_present": "rajustant",
+      "participe_passe": ["rajusté", "rajustée", "rajustés", "rajustées"]
     }
   ]
 }
