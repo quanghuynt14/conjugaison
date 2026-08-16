@@ -21602,6 +21602,24 @@
       },
       "participe_present": "embrouillant",
       "participe_passe": ["embrouillé", "embrouillée", "embrouillés", "embrouillées"]
+    },
+    {
+      "id": "empiler",
+      "infinitif": "empiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["empile", "empiles", "empile", "empilons", "empilez", "empilent"],
+        "ind.imp": ["empilais", "empilais", "empilait", "empilions", "empiliez", "empilaient"],
+        "ind.ps": ["empilai", "empilas", "empila", "empilâmes", "empilâtes", "empilèrent"],
+        "ind.fut": ["empilerai", "empileras", "empilera", "empilerons", "empilerez", "empileront"],
+        "cond.pres": ["empilerais", "empilerais", "empilerait", "empilerions", "empileriez", "empileraient"],
+        "subj.pres": ["empile", "empiles", "empile", "empilions", "empiliez", "empilent"],
+        "subj.imp": ["empilasse", "empilasses", "empilât", "empilassions", "empilassiez", "empilassent"],
+        "imper.pres": ["empile", "empilons", "empilez"]
+      },
+      "participe_present": "empilant",
+      "participe_passe": ["empilé", "empilée", "empilés", "empilées"]
     }
   ]
 }
