@@ -4305,6 +4305,25 @@
       },
       "participe_present": "surprenant",
       "participe_passe": ["surpris", "surprise", "surpris", "surprises"]
+    },
+    {
+      "id": "appartenir",
+      "infinitif": "appartenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « appartenu » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["appartiens", "appartiens", "appartient", "appartenons", "appartenez", "appartiennent"],
+        "ind.imp": ["appartenais", "appartenais", "appartenait", "appartenions", "apparteniez", "appartenaient"],
+        "ind.ps": ["appartins", "appartins", "appartint", "appartînmes", "appartîntes", "appartinrent"],
+        "ind.fut": ["appartiendrai", "appartiendras", "appartiendra", "appartiendrons", "appartiendrez", "appartiendront"],
+        "cond.pres": ["appartiendrais", "appartiendrais", "appartiendrait", "appartiendrions", "appartiendriez", "appartiendraient"],
+        "subj.pres": ["appartienne", "appartiennes", "appartienne", "appartenions", "apparteniez", "appartiennent"],
+        "subj.imp": ["appartinsse", "appartinsses", "appartînt", "appartinssions", "appartinssiez", "appartinssent"],
+        "imper.pres": ["appartiens", "appartenons", "appartenez"]
+      },
+      "participe_present": "appartenant",
+      "participe_passe": ["appartenu", null, null, null]
     }
   ]
 }
