@@ -24878,6 +24878,24 @@
       },
       "participe_present": "favorisant",
       "participe_passe": ["favorisé", "favorisée", "favorisés", "favorisées"]
+    },
+    {
+      "id": "grignoter",
+      "infinitif": "grignoter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["grignote", "grignotes", "grignote", "grignotons", "grignotez", "grignotent"],
+        "ind.imp": ["grignotais", "grignotais", "grignotait", "grignotions", "grignotiez", "grignotaient"],
+        "ind.ps": ["grignotai", "grignotas", "grignota", "grignotâmes", "grignotâtes", "grignotèrent"],
+        "ind.fut": ["grignoterai", "grignoteras", "grignotera", "grignoterons", "grignoterez", "grignoteront"],
+        "cond.pres": ["grignoterais", "grignoterais", "grignoterait", "grignoterions", "grignoteriez", "grignoteraient"],
+        "subj.pres": ["grignote", "grignotes", "grignote", "grignotions", "grignotiez", "grignotent"],
+        "subj.imp": ["grignotasse", "grignotasses", "grignotât", "grignotassions", "grignotassiez", "grignotassent"],
+        "imper.pres": ["grignote", "grignotons", "grignotez"]
+      },
+      "participe_present": "grignotant",
+      "participe_passe": ["grignoté", "grignotée", "grignotés", "grignotées"]
     }
   ]
 }
