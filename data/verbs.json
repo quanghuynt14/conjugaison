@@ -25370,6 +25370,24 @@
       },
       "participe_present": "replongeant",
       "participe_passe": ["replongé", "replongée", "replongés", "replongées"]
+    },
+    {
+      "id": "enfler",
+      "infinitif": "enfler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enfle", "enfles", "enfle", "enflons", "enflez", "enflent"],
+        "ind.imp": ["enflais", "enflais", "enflait", "enflions", "enfliez", "enflaient"],
+        "ind.ps": ["enflai", "enflas", "enfla", "enflâmes", "enflâtes", "enflèrent"],
+        "ind.fut": ["enflerai", "enfleras", "enflera", "enflerons", "enflerez", "enfleront"],
+        "cond.pres": ["enflerais", "enflerais", "enflerait", "enflerions", "enfleriez", "enfleraient"],
+        "subj.pres": ["enfle", "enfles", "enfle", "enflions", "enfliez", "enflent"],
+        "subj.imp": ["enflasse", "enflasses", "enflât", "enflassions", "enflassiez", "enflassent"],
+        "imper.pres": ["enfle", "enflons", "enflez"]
+      },
+      "participe_present": "enflant",
+      "participe_passe": ["enflé", "enflée", "enflés", "enflées"]
     }
   ]
 }
