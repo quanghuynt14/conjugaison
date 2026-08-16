@@ -21728,6 +21728,24 @@
       },
       "participe_present": "garnissant",
       "participe_passe": ["garni", "garnie", "garnis", "garnies"]
+    },
+    {
+      "id": "accentuer",
+      "infinitif": "accentuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accentue", "accentues", "accentue", "accentuons", "accentuez", "accentuent"],
+        "ind.imp": ["accentuais", "accentuais", "accentuait", "accentuions", "accentuiez", "accentuaient"],
+        "ind.ps": ["accentuai", "accentuas", "accentua", "accentuâmes", "accentuâtes", "accentuèrent"],
+        "ind.fut": ["accentuerai", "accentueras", "accentuera", "accentuerons", "accentuerez", "accentueront"],
+        "cond.pres": ["accentuerais", "accentuerais", "accentuerait", "accentuerions", "accentueriez", "accentueraient"],
+        "subj.pres": ["accentue", "accentues", "accentue", "accentuions", "accentuiez", "accentuent"],
+        "subj.imp": ["accentuasse", "accentuasses", "accentuât", "accentuassions", "accentuassiez", "accentuassent"],
+        "imper.pres": ["accentue", "accentuons", "accentuez"]
+      },
+      "participe_present": "accentuant",
+      "participe_passe": ["accentué", "accentuée", "accentués", "accentuées"]
     }
   ]
 }
