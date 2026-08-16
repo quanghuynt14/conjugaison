@@ -28798,6 +28798,24 @@
       },
       "participe_present": "excédant",
       "participe_passe": ["excédé", "excédée", "excédés", "excédées"]
+    },
+    {
+      "id": "maltraiter",
+      "infinitif": "maltraiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["maltraite", "maltraites", "maltraite", "maltraitons", "maltraitez", "maltraitent"],
+        "ind.imp": ["maltraitais", "maltraitais", "maltraitait", "maltraitions", "maltraitiez", "maltraitaient"],
+        "ind.ps": ["maltraitai", "maltraitas", "maltraita", "maltraitâmes", "maltraitâtes", "maltraitèrent"],
+        "ind.fut": ["maltraiterai", "maltraiteras", "maltraitera", "maltraiterons", "maltraiterez", "maltraiteront"],
+        "cond.pres": ["maltraiterais", "maltraiterais", "maltraiterait", "maltraiterions", "maltraiteriez", "maltraiteraient"],
+        "subj.pres": ["maltraite", "maltraites", "maltraite", "maltraitions", "maltraitiez", "maltraitent"],
+        "subj.imp": ["maltraitasse", "maltraitasses", "maltraitât", "maltraitassions", "maltraitassiez", "maltraitassent"],
+        "imper.pres": ["maltraite", "maltraitons", "maltraitez"]
+      },
+      "participe_present": "maltraitant",
+      "participe_passe": ["maltraité", "maltraitée", "maltraités", "maltraitées"]
     }
   ]
 }
