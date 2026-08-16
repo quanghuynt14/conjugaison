@@ -26954,6 +26954,25 @@
       },
       "participe_present": "ronronnant",
       "participe_passe": ["ronronné", null, null, null]
+    },
+    {
+      "id": "pleurnicher",
+      "infinitif": "pleurnicher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « pleurniché » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["pleurniche", "pleurniches", "pleurniche", "pleurnichons", "pleurnichez", "pleurnichent"],
+        "ind.imp": ["pleurnichais", "pleurnichais", "pleurnichait", "pleurnichions", "pleurnichiez", "pleurnichaient"],
+        "ind.ps": ["pleurnichai", "pleurnichas", "pleurnicha", "pleurnichâmes", "pleurnichâtes", "pleurnichèrent"],
+        "ind.fut": ["pleurnicherai", "pleurnicheras", "pleurnichera", "pleurnicherons", "pleurnicherez", "pleurnicheront"],
+        "cond.pres": ["pleurnicherais", "pleurnicherais", "pleurnicherait", "pleurnicherions", "pleurnicheriez", "pleurnicheraient"],
+        "subj.pres": ["pleurniche", "pleurniches", "pleurniche", "pleurnichions", "pleurnichiez", "pleurnichent"],
+        "subj.imp": ["pleurnichasse", "pleurnichasses", "pleurnichât", "pleurnichassions", "pleurnichassiez", "pleurnichassent"],
+        "imper.pres": ["pleurniche", "pleurnichons", "pleurnichez"]
+      },
+      "participe_present": "pleurnichant",
+      "participe_passe": ["pleurniché", null, null, null]
     }
   ]
 }
