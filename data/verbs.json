@@ -18850,6 +18850,24 @@
       },
       "participe_present": "courbant",
       "participe_passe": ["courbé", "courbée", "courbés", "courbées"]
+    },
+    {
+      "id": "rajouter",
+      "infinitif": "rajouter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rajoute", "rajoutes", "rajoute", "rajoutons", "rajoutez", "rajoutent"],
+        "ind.imp": ["rajoutais", "rajoutais", "rajoutait", "rajoutions", "rajoutiez", "rajoutaient"],
+        "ind.ps": ["rajoutai", "rajoutas", "rajouta", "rajoutâmes", "rajoutâtes", "rajoutèrent"],
+        "ind.fut": ["rajouterai", "rajouteras", "rajoutera", "rajouterons", "rajouterez", "rajouteront"],
+        "cond.pres": ["rajouterais", "rajouterais", "rajouterait", "rajouterions", "rajouteriez", "rajouteraient"],
+        "subj.pres": ["rajoute", "rajoutes", "rajoute", "rajoutions", "rajoutiez", "rajoutent"],
+        "subj.imp": ["rajoutasse", "rajoutasses", "rajoutât", "rajoutassions", "rajoutassiez", "rajoutassent"],
+        "imper.pres": ["rajoute", "rajoutons", "rajoutez"]
+      },
+      "participe_present": "rajoutant",
+      "participe_passe": ["rajouté", "rajoutée", "rajoutés", "rajoutées"]
     }
   ]
 }
