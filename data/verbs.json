@@ -29142,6 +29142,24 @@
       },
       "participe_present": "bricolant",
       "participe_passe": ["bricolé", "bricolée", "bricolés", "bricolées"]
+    },
+    {
+      "id": "incendier",
+      "infinitif": "incendier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["incendie", "incendies", "incendie", "incendions", "incendiez", "incendient"],
+        "ind.imp": ["incendiais", "incendiais", "incendiait", "incendiions", "incendiiez", "incendiaient"],
+        "ind.ps": ["incendiai", "incendias", "incendia", "incendiâmes", "incendiâtes", "incendièrent"],
+        "ind.fut": ["incendierai", "incendieras", "incendiera", "incendierons", "incendierez", "incendieront"],
+        "cond.pres": ["incendierais", "incendierais", "incendierait", "incendierions", "incendieriez", "incendieraient"],
+        "subj.pres": ["incendie", "incendies", "incendie", "incendiions", "incendiiez", "incendient"],
+        "subj.imp": ["incendiasse", "incendiasses", "incendiât", "incendiassions", "incendiassiez", "incendiassent"],
+        "imper.pres": ["incendie", "incendions", "incendiez"]
+      },
+      "participe_present": "incendiant",
+      "participe_passe": ["incendié", "incendiée", "incendiés", "incendiées"]
     }
   ]
 }
