@@ -113,6 +113,24 @@
       },
       "participe_present": "allant",
       "participe_passe": ["allé", "allée", "allés", "allées"]
+    },
+    {
+      "id": "dire",
+      "infinitif": "dire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dis", "dis", "dit", "disons", "dites", "disent"],
+        "ind.imp": ["disais", "disais", "disait", "disions", "disiez", "disaient"],
+        "ind.ps": ["dis", "dis", "dit", "dîmes", "dîtes", "dirent"],
+        "ind.fut": ["dirai", "diras", "dira", "dirons", "direz", "diront"],
+        "cond.pres": ["dirais", "dirais", "dirait", "dirions", "diriez", "diraient"],
+        "subj.pres": ["dise", "dises", "dise", "disions", "disiez", "disent"],
+        "subj.imp": ["disse", "disses", "dît", "dissions", "dissiez", "dissent"],
+        "imper.pres": ["dis", "disons", "dites"]
+      },
+      "participe_present": "disant",
+      "participe_passe": ["dit", "dite", "dits", "dites"]
     }
   ]
 }
