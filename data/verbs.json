@@ -21566,6 +21566,24 @@
       },
       "participe_present": "poignardant",
       "participe_passe": ["poignardé", "poignardée", "poignardés", "poignardées"]
+    },
+    {
+      "id": "suer",
+      "infinitif": "suer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sue", "sues", "sue", "suons", "suez", "suent"],
+        "ind.imp": ["suais", "suais", "suait", "suions", "suiez", "suaient"],
+        "ind.ps": ["suai", "suas", "sua", "suâmes", "suâtes", "suèrent"],
+        "ind.fut": ["suerai", "sueras", "suera", "suerons", "suerez", "sueront"],
+        "cond.pres": ["suerais", "suerais", "suerait", "suerions", "sueriez", "sueraient"],
+        "subj.pres": ["sue", "sues", "sue", "suions", "suiez", "suent"],
+        "subj.imp": ["suasse", "suasses", "suât", "suassions", "suassiez", "suassent"],
+        "imper.pres": ["sue", "suons", "suez"]
+      },
+      "participe_present": "suant",
+      "participe_passe": ["sué", "suée", "sués", "suées"]
     }
   ]
 }
