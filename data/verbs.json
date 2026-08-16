@@ -4342,6 +4342,24 @@
       },
       "participe_present": "penchant",
       "participe_passe": ["penché", "penchée", "penchés", "penchées"]
+    },
+    {
+      "id": "saisir",
+      "infinitif": "saisir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["saisis", "saisis", "saisit", "saisissons", "saisissez", "saisissent"],
+        "ind.imp": ["saisissais", "saisissais", "saisissait", "saisissions", "saisissiez", "saisissaient"],
+        "ind.ps": ["saisis", "saisis", "saisit", "saisîmes", "saisîtes", "saisirent"],
+        "ind.fut": ["saisirai", "saisiras", "saisira", "saisirons", "saisirez", "saisiront"],
+        "cond.pres": ["saisirais", "saisirais", "saisirait", "saisirions", "saisiriez", "saisiraient"],
+        "subj.pres": ["saisisse", "saisisses", "saisisse", "saisissions", "saisissiez", "saisissent"],
+        "subj.imp": ["saisisse", "saisisses", "saisît", "saisissions", "saisissiez", "saisissent"],
+        "imper.pres": ["saisis", "saisissons", "saisissez"]
+      },
+      "participe_present": "saisissant",
+      "participe_passe": ["saisi", "saisie", "saisis", "saisies"]
     }
   ]
 }
