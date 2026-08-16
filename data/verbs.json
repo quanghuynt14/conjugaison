@@ -4450,6 +4450,24 @@
       },
       "participe_present": "attaquant",
       "participe_passe": ["attaqué", "attaquée", "attaqués", "attaquées"]
+    },
+    {
+      "id": "défendre",
+      "infinitif": "défendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["défends", "défends", "défend", "défendons", "défendez", "défendent"],
+        "ind.imp": ["défendais", "défendais", "défendait", "défendions", "défendiez", "défendaient"],
+        "ind.ps": ["défendis", "défendis", "défendit", "défendîmes", "défendîtes", "défendirent"],
+        "ind.fut": ["défendrai", "défendras", "défendra", "défendrons", "défendrez", "défendront"],
+        "cond.pres": ["défendrais", "défendrais", "défendrait", "défendrions", "défendriez", "défendraient"],
+        "subj.pres": ["défende", "défendes", "défende", "défendions", "défendiez", "défendent"],
+        "subj.imp": ["défendisse", "défendisses", "défendît", "défendissions", "défendissiez", "défendissent"],
+        "imper.pres": ["défends", "défendons", "défendez"]
+      },
+      "participe_present": "défendant",
+      "participe_passe": ["défendu", "défendue", "défendus", "défendues"]
     }
   ]
 }
