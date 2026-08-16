@@ -801,6 +801,24 @@
       },
       "participe_present": "finissant",
       "participe_passe": ["fini", "finie", "finis", "finies"]
+    },
+    {
+      "id": "devenir",
+      "infinitif": "devenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["deviens", "deviens", "devient", "devenons", "devenez", "deviennent"],
+        "ind.imp": ["devenais", "devenais", "devenait", "devenions", "deveniez", "devenaient"],
+        "ind.ps": ["devins", "devins", "devint", "devînmes", "devîntes", "devinrent"],
+        "ind.fut": ["deviendrai", "deviendras", "deviendra", "deviendrons", "deviendrez", "deviendront"],
+        "cond.pres": ["deviendrais", "deviendrais", "deviendrait", "deviendrions", "deviendriez", "deviendraient"],
+        "subj.pres": ["devienne", "deviennes", "devienne", "devenions", "deveniez", "deviennent"],
+        "subj.imp": ["devinsse", "devinsses", "devînt", "devinssions", "devinssiez", "devinssent"],
+        "imper.pres": ["deviens", "devenons", "devenez"]
+      },
+      "participe_present": "devenant",
+      "participe_passe": ["devenu", "devenue", "devenus", "devenues"]
     }
   ]
 }
