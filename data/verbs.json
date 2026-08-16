@@ -30692,6 +30692,24 @@
       },
       "participe_present": "proférant",
       "participe_passe": ["proféré", "proférée", "proférés", "proférées"]
+    },
+    {
+      "id": "façonner",
+      "infinitif": "façonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["façonne", "façonnes", "façonne", "façonnons", "façonnez", "façonnent"],
+        "ind.imp": ["façonnais", "façonnais", "façonnait", "façonnions", "façonniez", "façonnaient"],
+        "ind.ps": ["façonnai", "façonnas", "façonna", "façonnâmes", "façonnâtes", "façonnèrent"],
+        "ind.fut": ["façonnerai", "façonneras", "façonnera", "façonnerons", "façonnerez", "façonneront"],
+        "cond.pres": ["façonnerais", "façonnerais", "façonnerait", "façonnerions", "façonneriez", "façonneraient"],
+        "subj.pres": ["façonne", "façonnes", "façonne", "façonnions", "façonniez", "façonnent"],
+        "subj.imp": ["façonnasse", "façonnasses", "façonnât", "façonnassions", "façonnassiez", "façonnassent"],
+        "imper.pres": ["façonne", "façonnons", "façonnez"]
+      },
+      "participe_present": "façonnant",
+      "participe_passe": ["façonné", "façonnée", "façonnés", "façonnées"]
     }
   ]
 }
