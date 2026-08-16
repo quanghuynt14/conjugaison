@@ -11627,6 +11627,24 @@
       },
       "participe_present": "enveloppant",
       "participe_passe": ["enveloppé", "enveloppée", "enveloppés", "enveloppées"]
+    },
+    {
+      "id": "justifier",
+      "infinitif": "justifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["justifie", "justifies", "justifie", "justifions", "justifiez", "justifient"],
+        "ind.imp": ["justifiais", "justifiais", "justifiait", "justifiions", "justifiiez", "justifiaient"],
+        "ind.ps": ["justifiai", "justifias", "justifia", "justifiâmes", "justifiâtes", "justifièrent"],
+        "ind.fut": ["justifierai", "justifieras", "justifiera", "justifierons", "justifierez", "justifieront"],
+        "cond.pres": ["justifierais", "justifierais", "justifierait", "justifierions", "justifieriez", "justifieraient"],
+        "subj.pres": ["justifie", "justifies", "justifie", "justifiions", "justifiiez", "justifient"],
+        "subj.imp": ["justifiasse", "justifiasses", "justifiât", "justifiassions", "justifiassiez", "justifiassent"],
+        "imper.pres": ["justifie", "justifions", "justifiez"]
+      },
+      "participe_present": "justifiant",
+      "participe_passe": ["justifié", "justifiée", "justifiés", "justifiées"]
     }
   ]
 }
