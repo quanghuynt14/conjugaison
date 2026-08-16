@@ -22091,6 +22091,24 @@
       },
       "participe_present": "emprisonnant",
       "participe_passe": ["emprisonné", "emprisonnée", "emprisonnés", "emprisonnées"]
+    },
+    {
+      "id": "sculpter",
+      "infinitif": "sculpter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sculpte", "sculptes", "sculpte", "sculptons", "sculptez", "sculptent"],
+        "ind.imp": ["sculptais", "sculptais", "sculptait", "sculptions", "sculptiez", "sculptaient"],
+        "ind.ps": ["sculptai", "sculptas", "sculpta", "sculptâmes", "sculptâtes", "sculptèrent"],
+        "ind.fut": ["sculpterai", "sculpteras", "sculptera", "sculpterons", "sculpterez", "sculpteront"],
+        "cond.pres": ["sculpterais", "sculpterais", "sculpterait", "sculpterions", "sculpteriez", "sculpteraient"],
+        "subj.pres": ["sculpte", "sculptes", "sculpte", "sculptions", "sculptiez", "sculptent"],
+        "subj.imp": ["sculptasse", "sculptasses", "sculptât", "sculptassions", "sculptassiez", "sculptassent"],
+        "imper.pres": ["sculpte", "sculptons", "sculptez"]
+      },
+      "participe_present": "sculptant",
+      "participe_passe": ["sculpté", "sculptée", "sculptés", "sculptées"]
     }
   ]
 }
