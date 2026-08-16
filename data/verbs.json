@@ -31809,6 +31809,24 @@
       },
       "participe_present": "narguant",
       "participe_passe": ["nargué", "narguée", "nargués", "narguées"]
+    },
+    {
+      "id": "interposer",
+      "infinitif": "interposer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["interpose", "interposes", "interpose", "interposons", "interposez", "interposent"],
+        "ind.imp": ["interposais", "interposais", "interposait", "interposions", "interposiez", "interposaient"],
+        "ind.ps": ["interposai", "interposas", "interposa", "interposâmes", "interposâtes", "interposèrent"],
+        "ind.fut": ["interposerai", "interposeras", "interposera", "interposerons", "interposerez", "interposeront"],
+        "cond.pres": ["interposerais", "interposerais", "interposerait", "interposerions", "interposeriez", "interposeraient"],
+        "subj.pres": ["interpose", "interposes", "interpose", "interposions", "interposiez", "interposent"],
+        "subj.imp": ["interposasse", "interposasses", "interposât", "interposassions", "interposassiez", "interposassent"],
+        "imper.pres": ["interpose", "interposons", "interposez"]
+      },
+      "participe_present": "interposant",
+      "participe_passe": ["interposé", "interposée", "interposés", "interposées"]
     }
   ]
 }
