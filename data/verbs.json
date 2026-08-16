@@ -28485,6 +28485,25 @@
       },
       "participe_present": "simplifiant",
       "participe_passe": ["simplifié", "simplifiée", "simplifiés", "simplifiées"]
+    },
+    {
+      "id": "crouler",
+      "infinitif": "crouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « croulé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["croule", "croules", "croule", "croulons", "croulez", "croulent"],
+        "ind.imp": ["croulais", "croulais", "croulait", "croulions", "crouliez", "croulaient"],
+        "ind.ps": ["croulai", "croulas", "croula", "croulâmes", "croulâtes", "croulèrent"],
+        "ind.fut": ["croulerai", "crouleras", "croulera", "croulerons", "croulerez", "crouleront"],
+        "cond.pres": ["croulerais", "croulerais", "croulerait", "croulerions", "crouleriez", "crouleraient"],
+        "subj.pres": ["croule", "croules", "croule", "croulions", "crouliez", "croulent"],
+        "subj.imp": ["croulasse", "croulasses", "croulât", "croulassions", "croulassiez", "croulassent"],
+        "imper.pres": ["croule", "croulons", "croulez"]
+      },
+      "participe_present": "croulant",
+      "participe_passe": ["croulé", null, null, null]
     }
   ]
 }
