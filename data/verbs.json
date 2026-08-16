@@ -6351,6 +6351,24 @@
       },
       "participe_present": "dressant",
       "participe_passe": ["dressé", "dressée", "dressés", "dressées"]
+    },
+    {
+      "id": "attacher",
+      "infinitif": "attacher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["attache", "attaches", "attache", "attachons", "attachez", "attachent"],
+        "ind.imp": ["attachais", "attachais", "attachait", "attachions", "attachiez", "attachaient"],
+        "ind.ps": ["attachai", "attachas", "attacha", "attachâmes", "attachâtes", "attachèrent"],
+        "ind.fut": ["attacherai", "attacheras", "attachera", "attacherons", "attacherez", "attacheront"],
+        "cond.pres": ["attacherais", "attacherais", "attacherait", "attacherions", "attacheriez", "attacheraient"],
+        "subj.pres": ["attache", "attaches", "attache", "attachions", "attachiez", "attachent"],
+        "subj.imp": ["attachasse", "attachasses", "attachât", "attachassions", "attachassiez", "attachassent"],
+        "imper.pres": ["attache", "attachons", "attachez"]
+      },
+      "participe_present": "attachant",
+      "participe_passe": ["attaché", "attachée", "attachés", "attachées"]
     }
   ]
 }
