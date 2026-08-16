@@ -20327,6 +20327,25 @@
       },
       "participe_present": "implorant",
       "participe_passe": ["imploré", "implorée", "implorés", "implorées"]
+    },
+    {
+      "id": "ruisseler",
+      "infinitif": "ruisseler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « ruisselé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["ruisselle", "ruisselles", "ruisselle", "ruisselons", "ruisselez", "ruissellent"],
+        "ind.imp": ["ruisselais", "ruisselais", "ruisselait", "ruisselions", "ruisseliez", "ruisselaient"],
+        "ind.ps": ["ruisselai", "ruisselas", "ruissela", "ruisselâmes", "ruisselâtes", "ruisselèrent"],
+        "ind.fut": ["ruissellerai", "ruisselleras", "ruissellera", "ruissellerons", "ruissellerez", "ruisselleront"],
+        "cond.pres": ["ruissellerais", "ruissellerais", "ruissellerait", "ruissellerions", "ruisselleriez", "ruisselleraient"],
+        "subj.pres": ["ruisselle", "ruisselles", "ruisselle", "ruisselions", "ruisseliez", "ruissellent"],
+        "subj.imp": ["ruisselasse", "ruisselasses", "ruisselât", "ruisselassions", "ruisselassiez", "ruisselassent"],
+        "imper.pres": ["ruisselle", "ruisselons", "ruisselez"]
+      },
+      "participe_present": "ruisselant",
+      "participe_passe": ["ruisselé", null, null, null]
     }
   ]
 }
