@@ -16006,6 +16006,24 @@
       },
       "participe_present": "humiliant",
       "participe_passe": ["humilié", "humiliée", "humiliés", "humiliées"]
+    },
+    {
+      "id": "brouiller",
+      "infinitif": "brouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["brouille", "brouilles", "brouille", "brouillons", "brouillez", "brouillent"],
+        "ind.imp": ["brouillais", "brouillais", "brouillait", "brouillions", "brouilliez", "brouillaient"],
+        "ind.ps": ["brouillai", "brouillas", "brouilla", "brouillâmes", "brouillâtes", "brouillèrent"],
+        "ind.fut": ["brouillerai", "brouilleras", "brouillera", "brouillerons", "brouillerez", "brouilleront"],
+        "cond.pres": ["brouillerais", "brouillerais", "brouillerait", "brouillerions", "brouilleriez", "brouilleraient"],
+        "subj.pres": ["brouille", "brouilles", "brouille", "brouillions", "brouilliez", "brouillent"],
+        "subj.imp": ["brouillasse", "brouillasses", "brouillât", "brouillassions", "brouillassiez", "brouillassent"],
+        "imper.pres": ["brouille", "brouillons", "brouillez"]
+      },
+      "participe_present": "brouillant",
+      "participe_passe": ["brouillé", "brouillée", "brouillés", "brouillées"]
     }
   ]
 }
