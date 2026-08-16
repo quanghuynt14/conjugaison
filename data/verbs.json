@@ -30710,6 +30710,24 @@
       },
       "participe_present": "façonnant",
       "participe_passe": ["façonné", "façonnée", "façonnés", "façonnées"]
+    },
+    {
+      "id": "moucher",
+      "infinitif": "moucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mouche", "mouches", "mouche", "mouchons", "mouchez", "mouchent"],
+        "ind.imp": ["mouchais", "mouchais", "mouchait", "mouchions", "mouchiez", "mouchaient"],
+        "ind.ps": ["mouchai", "mouchas", "moucha", "mouchâmes", "mouchâtes", "mouchèrent"],
+        "ind.fut": ["moucherai", "moucheras", "mouchera", "moucherons", "moucherez", "moucheront"],
+        "cond.pres": ["moucherais", "moucherais", "moucherait", "moucherions", "moucheriez", "moucheraient"],
+        "subj.pres": ["mouche", "mouches", "mouche", "mouchions", "mouchiez", "mouchent"],
+        "subj.imp": ["mouchasse", "mouchasses", "mouchât", "mouchassions", "mouchassiez", "mouchassent"],
+        "imper.pres": ["mouche", "mouchons", "mouchez"]
+      },
+      "participe_present": "mouchant",
+      "participe_passe": ["mouché", "mouchée", "mouchés", "mouchées"]
     }
   ]
 }
