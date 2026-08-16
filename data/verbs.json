@@ -20309,6 +20309,24 @@
       },
       "participe_present": "postant",
       "participe_passe": ["posté", "postée", "postés", "postées"]
+    },
+    {
+      "id": "implorer",
+      "infinitif": "implorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["implore", "implores", "implore", "implorons", "implorez", "implorent"],
+        "ind.imp": ["implorais", "implorais", "implorait", "implorions", "imploriez", "imploraient"],
+        "ind.ps": ["implorai", "imploras", "implora", "implorâmes", "implorâtes", "implorèrent"],
+        "ind.fut": ["implorerai", "imploreras", "implorera", "implorerons", "implorerez", "imploreront"],
+        "cond.pres": ["implorerais", "implorerais", "implorerait", "implorerions", "imploreriez", "imploreraient"],
+        "subj.pres": ["implore", "implores", "implore", "implorions", "imploriez", "implorent"],
+        "subj.imp": ["implorasse", "implorasses", "implorât", "implorassions", "implorassiez", "implorassent"],
+        "imper.pres": ["implore", "implorons", "implorez"]
+      },
+      "participe_present": "implorant",
+      "participe_passe": ["imploré", "implorée", "implorés", "implorées"]
     }
   ]
 }
