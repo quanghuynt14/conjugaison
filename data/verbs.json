@@ -31149,6 +31149,24 @@
       },
       "participe_present": "apitoyant",
       "participe_passe": ["apitoyé", "apitoyée", "apitoyés", "apitoyées"]
+    },
+    {
+      "id": "fortifier",
+      "infinitif": "fortifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fortifie", "fortifies", "fortifie", "fortifions", "fortifiez", "fortifient"],
+        "ind.imp": ["fortifiais", "fortifiais", "fortifiait", "fortifiions", "fortifiiez", "fortifiaient"],
+        "ind.ps": ["fortifiai", "fortifias", "fortifia", "fortifiâmes", "fortifiâtes", "fortifièrent"],
+        "ind.fut": ["fortifierai", "fortifieras", "fortifiera", "fortifierons", "fortifierez", "fortifieront"],
+        "cond.pres": ["fortifierais", "fortifierais", "fortifierait", "fortifierions", "fortifieriez", "fortifieraient"],
+        "subj.pres": ["fortifie", "fortifies", "fortifie", "fortifiions", "fortifiiez", "fortifient"],
+        "subj.imp": ["fortifiasse", "fortifiasses", "fortifiât", "fortifiassions", "fortifiassiez", "fortifiassent"],
+        "imper.pres": ["fortifie", "fortifions", "fortifiez"]
+      },
+      "participe_present": "fortifiant",
+      "participe_passe": ["fortifié", "fortifiée", "fortifiés", "fortifiées"]
     }
   ]
 }
