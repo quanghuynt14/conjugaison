@@ -33976,6 +33976,24 @@
       },
       "participe_present": "abreuvant",
       "participe_passe": ["abreuvé", "abreuvée", "abreuvés", "abreuvées"]
+    },
+    {
+      "id": "adonner",
+      "infinitif": "adonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["adonne", "adonnes", "adonne", "adonnons", "adonnez", "adonnent"],
+        "ind.imp": ["adonnais", "adonnais", "adonnait", "adonnions", "adonniez", "adonnaient"],
+        "ind.ps": ["adonnai", "adonnas", "adonna", "adonnâmes", "adonnâtes", "adonnèrent"],
+        "ind.fut": ["adonnerai", "adonneras", "adonnera", "adonnerons", "adonnerez", "adonneront"],
+        "cond.pres": ["adonnerais", "adonnerais", "adonnerait", "adonnerions", "adonneriez", "adonneraient"],
+        "subj.pres": ["adonne", "adonnes", "adonne", "adonnions", "adonniez", "adonnent"],
+        "subj.imp": ["adonnasse", "adonnasses", "adonnât", "adonnassions", "adonnassiez", "adonnassent"],
+        "imper.pres": ["adonne", "adonnons", "adonnez"]
+      },
+      "participe_present": "adonnant",
+      "participe_passe": ["adonné", "adonnée", "adonnés", "adonnées"]
     }
   ]
 }
