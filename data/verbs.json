@@ -32210,6 +32210,24 @@
       },
       "participe_present": "répercutant",
       "participe_passe": ["répercuté", "répercutée", "répercutés", "répercutées"]
+    },
+    {
+      "id": "dévaliser",
+      "infinitif": "dévaliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dévalise", "dévalises", "dévalise", "dévalisons", "dévalisez", "dévalisent"],
+        "ind.imp": ["dévalisais", "dévalisais", "dévalisait", "dévalisions", "dévalisiez", "dévalisaient"],
+        "ind.ps": ["dévalisai", "dévalisas", "dévalisa", "dévalisâmes", "dévalisâtes", "dévalisèrent"],
+        "ind.fut": ["dévaliserai", "dévaliseras", "dévalisera", "dévaliserons", "dévaliserez", "dévaliseront"],
+        "cond.pres": ["dévaliserais", "dévaliserais", "dévaliserait", "dévaliserions", "dévaliseriez", "dévaliseraient"],
+        "subj.pres": ["dévalise", "dévalises", "dévalise", "dévalisions", "dévalisiez", "dévalisent"],
+        "subj.imp": ["dévalisasse", "dévalisasses", "dévalisât", "dévalisassions", "dévalisassiez", "dévalisassent"],
+        "imper.pres": ["dévalise", "dévalisons", "dévalisez"]
+      },
+      "participe_present": "dévalisant",
+      "participe_passe": ["dévalisé", "dévalisée", "dévalisés", "dévalisées"]
     }
   ]
 }
