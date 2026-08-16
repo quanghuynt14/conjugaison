@@ -28888,6 +28888,24 @@
       },
       "participe_present": "affamant",
       "participe_passe": ["affamé", "affamée", "affamés", "affamées"]
+    },
+    {
+      "id": "bannir",
+      "infinitif": "bannir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bannis", "bannis", "bannit", "bannissons", "bannissez", "bannissent"],
+        "ind.imp": ["bannissais", "bannissais", "bannissait", "bannissions", "bannissiez", "bannissaient"],
+        "ind.ps": ["bannis", "bannis", "bannit", "bannîmes", "bannîtes", "bannirent"],
+        "ind.fut": ["bannirai", "banniras", "bannira", "bannirons", "bannirez", "banniront"],
+        "cond.pres": ["bannirais", "bannirais", "bannirait", "bannirions", "banniriez", "banniraient"],
+        "subj.pres": ["bannisse", "bannisses", "bannisse", "bannissions", "bannissiez", "bannissent"],
+        "subj.imp": ["bannisse", "bannisses", "bannît", "bannissions", "bannissiez", "bannissent"],
+        "imper.pres": ["bannis", "bannissons", "bannissez"]
+      },
+      "participe_present": "bannissant",
+      "participe_passe": ["banni", "bannie", "bannis", "bannies"]
     }
   ]
 }
