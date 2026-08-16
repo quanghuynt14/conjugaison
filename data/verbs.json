@@ -19341,6 +19341,25 @@
       },
       "participe_present": "clignant",
       "participe_passe": ["cligné", "clignée", "clignés", "clignées"]
+    },
+    {
+      "id": "accéder",
+      "infinitif": "accéder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’accéderai » ou « j’accèderai ». Les deux sont admises. Le participe passé « accédé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["accède", "accèdes", "accède", "accédons", "accédez", "accèdent"],
+        "ind.imp": ["accédais", "accédais", "accédait", "accédions", "accédiez", "accédaient"],
+        "ind.ps": ["accédai", "accédas", "accéda", "accédâmes", "accédâtes", "accédèrent"],
+        "ind.fut": [["accéderai", "accèderai"], ["accéderas", "accèderas"], ["accédera", "accèdera"], ["accéderons", "accèderons"], ["accéderez", "accèderez"], ["accéderont", "accèderont"]],
+        "cond.pres": [["accéderais", "accèderais"], ["accéderais", "accèderais"], ["accéderait", "accèderait"], ["accéderions", "accèderions"], ["accéderiez", "accèderiez"], ["accéderaient", "accèderaient"]],
+        "subj.pres": ["accède", "accèdes", "accède", "accédions", "accédiez", "accèdent"],
+        "subj.imp": ["accédasse", "accédasses", "accédât", "accédassions", "accédassiez", "accédassent"],
+        "imper.pres": ["accède", "accédons", "accédez"]
+      },
+      "participe_present": "accédant",
+      "participe_passe": ["accédé", null, null, null]
     }
   ]
 }
