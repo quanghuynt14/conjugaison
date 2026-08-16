@@ -18060,6 +18060,24 @@
       },
       "participe_present": "élisant",
       "participe_passe": ["élu", "élue", "élus", "élues"]
+    },
+    {
+      "id": "planer",
+      "infinitif": "planer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["plane", "planes", "plane", "planons", "planez", "planent"],
+        "ind.imp": ["planais", "planais", "planait", "planions", "planiez", "planaient"],
+        "ind.ps": ["planai", "planas", "plana", "planâmes", "planâtes", "planèrent"],
+        "ind.fut": ["planerai", "planeras", "planera", "planerons", "planerez", "planeront"],
+        "cond.pres": ["planerais", "planerais", "planerait", "planerions", "planeriez", "planeraient"],
+        "subj.pres": ["plane", "planes", "plane", "planions", "planiez", "planent"],
+        "subj.imp": ["planasse", "planasses", "planât", "planassions", "planassiez", "planassent"],
+        "imper.pres": ["plane", "planons", "planez"]
+      },
+      "participe_present": "planant",
+      "participe_passe": ["plané", "planée", "planés", "planées"]
     }
   ]
 }
