@@ -9900,6 +9900,24 @@
       },
       "participe_present": "répandant",
       "participe_passe": ["répandu", "répandue", "répandus", "répandues"]
+    },
+    {
+      "id": "reprocher",
+      "infinitif": "reprocher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reproche", "reproches", "reproche", "reprochons", "reprochez", "reprochent"],
+        "ind.imp": ["reprochais", "reprochais", "reprochait", "reprochions", "reprochiez", "reprochaient"],
+        "ind.ps": ["reprochai", "reprochas", "reprocha", "reprochâmes", "reprochâtes", "reprochèrent"],
+        "ind.fut": ["reprocherai", "reprocheras", "reprochera", "reprocherons", "reprocherez", "reprocheront"],
+        "cond.pres": ["reprocherais", "reprocherais", "reprocherait", "reprocherions", "reprocheriez", "reprocheraient"],
+        "subj.pres": ["reproche", "reproches", "reproche", "reprochions", "reprochiez", "reprochent"],
+        "subj.imp": ["reprochasse", "reprochasses", "reprochât", "reprochassions", "reprochassiez", "reprochassent"],
+        "imper.pres": ["reproche", "reprochons", "reprochez"]
+      },
+      "participe_present": "reprochant",
+      "participe_passe": ["reproché", "reprochée", "reprochés", "reprochées"]
     }
   ]
 }
