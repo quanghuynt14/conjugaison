@@ -13136,6 +13136,24 @@
       },
       "participe_present": "introduisant",
       "participe_passe": ["introduit", "introduite", "introduits", "introduites"]
+    },
+    {
+      "id": "bousculer",
+      "infinitif": "bousculer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bouscule", "bouscules", "bouscule", "bousculons", "bousculez", "bousculent"],
+        "ind.imp": ["bousculais", "bousculais", "bousculait", "bousculions", "bousculiez", "bousculaient"],
+        "ind.ps": ["bousculai", "bousculas", "bouscula", "bousculâmes", "bousculâtes", "bousculèrent"],
+        "ind.fut": ["bousculerai", "bousculeras", "bousculera", "bousculerons", "bousculerez", "bousculeront"],
+        "cond.pres": ["bousculerais", "bousculerais", "bousculerait", "bousculerions", "bousculeriez", "bousculeraient"],
+        "subj.pres": ["bouscule", "bouscules", "bouscule", "bousculions", "bousculiez", "bousculent"],
+        "subj.imp": ["bousculasse", "bousculasses", "bousculât", "bousculassions", "bousculassiez", "bousculassent"],
+        "imper.pres": ["bouscule", "bousculons", "bousculez"]
+      },
+      "participe_present": "bousculant",
+      "participe_passe": ["bousculé", "bousculée", "bousculés", "bousculées"]
     }
   ]
 }
