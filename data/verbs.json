@@ -34377,6 +34377,25 @@
       },
       "participe_present": "confinant",
       "participe_passe": ["confiné", "confinée", "confinés", "confinées"]
+    },
+    {
+      "id": "divaguer",
+      "infinitif": "divaguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « divagué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["divague", "divagues", "divague", "divaguons", "divaguez", "divaguent"],
+        "ind.imp": ["divaguais", "divaguais", "divaguait", "divaguions", "divaguiez", "divaguaient"],
+        "ind.ps": ["divaguai", "divaguas", "divagua", "divaguâmes", "divaguâtes", "divaguèrent"],
+        "ind.fut": ["divaguerai", "divagueras", "divaguera", "divaguerons", "divaguerez", "divagueront"],
+        "cond.pres": ["divaguerais", "divaguerais", "divaguerait", "divaguerions", "divagueriez", "divagueraient"],
+        "subj.pres": ["divague", "divagues", "divague", "divaguions", "divaguiez", "divaguent"],
+        "subj.imp": ["divaguasse", "divaguasses", "divaguât", "divaguassions", "divaguassiez", "divaguassent"],
+        "imper.pres": ["divague", "divaguons", "divaguez"]
+      },
+      "participe_present": "divaguant",
+      "participe_passe": ["divagué", null, null, null]
     }
   ]
 }
