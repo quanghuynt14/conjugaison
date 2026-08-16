@@ -12210,6 +12210,24 @@
       },
       "participe_present": "envisageant",
       "participe_passe": ["envisagé", "envisagée", "envisagés", "envisagées"]
+    },
+    {
+      "id": "jaillir",
+      "infinitif": "jaillir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["jaillis", "jaillis", "jaillit", "jaillissons", "jaillissez", "jaillissent"],
+        "ind.imp": ["jaillissais", "jaillissais", "jaillissait", "jaillissions", "jaillissiez", "jaillissaient"],
+        "ind.ps": ["jaillis", "jaillis", "jaillit", "jaillîmes", "jaillîtes", "jaillirent"],
+        "ind.fut": ["jaillirai", "jailliras", "jaillira", "jaillirons", "jaillirez", "jailliront"],
+        "cond.pres": ["jaillirais", "jaillirais", "jaillirait", "jaillirions", "jailliriez", "jailliraient"],
+        "subj.pres": ["jaillisse", "jaillisses", "jaillisse", "jaillissions", "jaillissiez", "jaillissent"],
+        "subj.imp": ["jaillisse", "jaillisses", "jaillît", "jaillissions", "jaillissiez", "jaillissent"],
+        "imper.pres": ["jaillis", "jaillissons", "jaillissez"]
+      },
+      "participe_present": "jaillissant",
+      "participe_passe": ["jailli", "jaillie", "jaillis", "jaillies"]
     }
   ]
 }
