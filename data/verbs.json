@@ -13391,6 +13391,24 @@
       },
       "participe_present": "suicidant",
       "participe_passe": ["suicidé", "suicidée", "suicidés", "suicidées"]
+    },
+    {
+      "id": "compliquer",
+      "infinitif": "compliquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["complique", "compliques", "complique", "compliquons", "compliquez", "compliquent"],
+        "ind.imp": ["compliquais", "compliquais", "compliquait", "compliquions", "compliquiez", "compliquaient"],
+        "ind.ps": ["compliquai", "compliquas", "compliqua", "compliquâmes", "compliquâtes", "compliquèrent"],
+        "ind.fut": ["compliquerai", "compliqueras", "compliquera", "compliquerons", "compliquerez", "compliqueront"],
+        "cond.pres": ["compliquerais", "compliquerais", "compliquerait", "compliquerions", "compliqueriez", "compliqueraient"],
+        "subj.pres": ["complique", "compliques", "complique", "compliquions", "compliquiez", "compliquent"],
+        "subj.imp": ["compliquasse", "compliquasses", "compliquât", "compliquassions", "compliquassiez", "compliquassent"],
+        "imper.pres": ["complique", "compliquons", "compliquez"]
+      },
+      "participe_present": "compliquant",
+      "participe_passe": ["compliqué", "compliquée", "compliqués", "compliquées"]
     }
   ]
 }
