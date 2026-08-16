@@ -16878,6 +16878,24 @@
       },
       "participe_present": "affichant",
       "participe_passe": ["affiché", "affichée", "affichés", "affichées"]
+    },
+    {
+      "id": "exclure",
+      "infinitif": "exclure",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exclus", "exclus", "exclut", "excluons", "excluez", "excluent"],
+        "ind.imp": ["excluais", "excluais", "excluait", "excluions", "excluiez", "excluaient"],
+        "ind.ps": ["exclus", "exclus", "exclut", "exclûmes", "exclûtes", "exclurent"],
+        "ind.fut": ["exclurai", "excluras", "exclura", "exclurons", "exclurez", "excluront"],
+        "cond.pres": ["exclurais", "exclurais", "exclurait", "exclurions", "excluriez", "excluraient"],
+        "subj.pres": ["exclue", "exclues", "exclue", "excluions", "excluiez", "excluent"],
+        "subj.imp": ["exclusse", "exclusses", "exclût", "exclussions", "exclussiez", "exclussent"],
+        "imper.pres": ["exclus", "excluons", "excluez"]
+      },
+      "participe_present": "excluant",
+      "participe_passe": ["exclu", "exclue", "exclus", "exclues"]
     }
   ]
 }
