@@ -33377,6 +33377,24 @@
       },
       "participe_present": "stressant",
       "participe_passe": ["stressé", "stressée", "stressés", "stressées"]
+    },
+    {
+      "id": "brouter",
+      "infinitif": "brouter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["broute", "broutes", "broute", "broutons", "broutez", "broutent"],
+        "ind.imp": ["broutais", "broutais", "broutait", "broutions", "broutiez", "broutaient"],
+        "ind.ps": ["broutai", "broutas", "brouta", "broutâmes", "broutâtes", "broutèrent"],
+        "ind.fut": ["brouterai", "brouteras", "broutera", "brouterons", "brouterez", "brouteront"],
+        "cond.pres": ["brouterais", "brouterais", "brouterait", "brouterions", "brouteriez", "brouteraient"],
+        "subj.pres": ["broute", "broutes", "broute", "broutions", "broutiez", "broutent"],
+        "subj.imp": ["broutasse", "broutasses", "broutât", "broutassions", "broutassiez", "broutassent"],
+        "imper.pres": ["broute", "broutons", "broutez"]
+      },
+      "participe_present": "broutant",
+      "participe_passe": ["brouté", "broutée", "broutés", "broutées"]
     }
   ]
 }
