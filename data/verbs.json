@@ -2314,6 +2314,24 @@
       },
       "participe_present": "remettant",
       "participe_passe": ["remis", "remise", "remis", "remises"]
+    },
+    {
+      "id": "sauver",
+      "infinitif": "sauver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sauve", "sauves", "sauve", "sauvons", "sauvez", "sauvent"],
+        "ind.imp": ["sauvais", "sauvais", "sauvait", "sauvions", "sauviez", "sauvaient"],
+        "ind.ps": ["sauvai", "sauvas", "sauva", "sauvâmes", "sauvâtes", "sauvèrent"],
+        "ind.fut": ["sauverai", "sauveras", "sauvera", "sauverons", "sauverez", "sauveront"],
+        "cond.pres": ["sauverais", "sauverais", "sauverait", "sauverions", "sauveriez", "sauveraient"],
+        "subj.pres": ["sauve", "sauves", "sauve", "sauvions", "sauviez", "sauvent"],
+        "subj.imp": ["sauvasse", "sauvasses", "sauvât", "sauvassions", "sauvassiez", "sauvassent"],
+        "imper.pres": ["sauve", "sauvons", "sauvez"]
+      },
+      "participe_present": "sauvant",
+      "participe_passe": ["sauvé", "sauvée", "sauvés", "sauvées"]
     }
   ]
 }
