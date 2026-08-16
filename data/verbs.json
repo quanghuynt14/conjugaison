@@ -15024,6 +15024,24 @@
       },
       "participe_present": "pinçant",
       "participe_passe": ["pincé", "pincée", "pincés", "pincées"]
+    },
+    {
+      "id": "grogner",
+      "infinitif": "grogner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["grogne", "grognes", "grogne", "grognons", "grognez", "grognent"],
+        "ind.imp": ["grognais", "grognais", "grognait", "grognions", "grogniez", "grognaient"],
+        "ind.ps": ["grognai", "grognas", "grogna", "grognâmes", "grognâtes", "grognèrent"],
+        "ind.fut": ["grognerai", "grogneras", "grognera", "grognerons", "grognerez", "grogneront"],
+        "cond.pres": ["grognerais", "grognerais", "grognerait", "grognerions", "grogneriez", "grogneraient"],
+        "subj.pres": ["grogne", "grognes", "grogne", "grognions", "grogniez", "grognent"],
+        "subj.imp": ["grognasse", "grognasses", "grognât", "grognassions", "grognassiez", "grognassent"],
+        "imper.pres": ["grogne", "grognons", "grognez"]
+      },
+      "participe_present": "grognant",
+      "participe_passe": ["grogné", "grognée", "grognés", "grognées"]
     }
   ]
 }
