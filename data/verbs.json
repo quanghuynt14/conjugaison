@@ -12302,6 +12302,24 @@
       },
       "participe_present": "marrant",
       "participe_passe": ["marré", "marrée", "marrés", "marrées"]
+    },
+    {
+      "id": "dénoncer",
+      "infinitif": "dénoncer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dénonce", "dénonces", "dénonce", "dénonçons", "dénoncez", "dénoncent"],
+        "ind.imp": ["dénonçais", "dénonçais", "dénonçait", "dénoncions", "dénonciez", "dénonçaient"],
+        "ind.ps": ["dénonçai", "dénonças", "dénonça", "dénonçâmes", "dénonçâtes", "dénoncèrent"],
+        "ind.fut": ["dénoncerai", "dénonceras", "dénoncera", "dénoncerons", "dénoncerez", "dénonceront"],
+        "cond.pres": ["dénoncerais", "dénoncerais", "dénoncerait", "dénoncerions", "dénonceriez", "dénonceraient"],
+        "subj.pres": ["dénonce", "dénonces", "dénonce", "dénoncions", "dénonciez", "dénoncent"],
+        "subj.imp": ["dénonçasse", "dénonçasses", "dénonçât", "dénonçassions", "dénonçassiez", "dénonçassent"],
+        "imper.pres": ["dénonce", "dénonçons", "dénoncez"]
+      },
+      "participe_present": "dénonçant",
+      "participe_passe": ["dénoncé", "dénoncée", "dénoncés", "dénoncées"]
     }
   ]
 }
