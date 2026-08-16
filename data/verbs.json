@@ -7205,6 +7205,24 @@
       },
       "participe_present": "renvoyant",
       "participe_passe": ["renvoyé", "renvoyée", "renvoyés", "renvoyées"]
+    },
+    {
+      "id": "vider",
+      "infinitif": "vider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vide", "vides", "vide", "vidons", "videz", "vident"],
+        "ind.imp": ["vidais", "vidais", "vidait", "vidions", "vidiez", "vidaient"],
+        "ind.ps": ["vidai", "vidas", "vida", "vidâmes", "vidâtes", "vidèrent"],
+        "ind.fut": ["viderai", "videras", "videra", "viderons", "viderez", "videront"],
+        "cond.pres": ["viderais", "viderais", "viderait", "viderions", "videriez", "videraient"],
+        "subj.pres": ["vide", "vides", "vide", "vidions", "vidiez", "vident"],
+        "subj.imp": ["vidasse", "vidasses", "vidât", "vidassions", "vidassiez", "vidassent"],
+        "imper.pres": ["vide", "vidons", "videz"]
+      },
+      "participe_present": "vidant",
+      "participe_passe": ["vidé", "vidée", "vidés", "vidées"]
     }
   ]
 }
