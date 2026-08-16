@@ -15642,6 +15642,26 @@
       },
       "participe_present": "entrevoyant",
       "participe_passe": ["entrevu", "entrevue", "entrevus", "entrevues"]
+    },
+    {
+      "id": "réfugier",
+      "infinitif": "réfugier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me réfugie » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["réfugie", "réfugies", "réfugie", "réfugions", "réfugiez", "réfugient"],
+        "ind.imp": ["réfugiais", "réfugiais", "réfugiait", "réfugiions", "réfugiiez", "réfugiaient"],
+        "ind.ps": ["réfugiai", "réfugias", "réfugia", "réfugiâmes", "réfugiâtes", "réfugièrent"],
+        "ind.fut": ["réfugierai", "réfugieras", "réfugiera", "réfugierons", "réfugierez", "réfugieront"],
+        "cond.pres": ["réfugierais", "réfugierais", "réfugierait", "réfugierions", "réfugieriez", "réfugieraient"],
+        "subj.pres": ["réfugie", "réfugies", "réfugie", "réfugiions", "réfugiiez", "réfugient"],
+        "subj.imp": ["réfugiasse", "réfugiasses", "réfugiât", "réfugiassions", "réfugiassiez", "réfugiassent"],
+        "imper.pres": ["réfugie", "réfugions", "réfugiez"]
+      },
+      "participe_present": "réfugiant",
+      "participe_passe": ["réfugié", "réfugiée", "réfugiés", "réfugiées"]
     }
   ]
 }
