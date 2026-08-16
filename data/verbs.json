@@ -18486,6 +18486,24 @@
       },
       "participe_present": "agrandissant",
       "participe_passe": ["agrandi", "agrandie", "agrandis", "agrandies"]
+    },
+    {
+      "id": "détenir",
+      "infinitif": "détenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["détiens", "détiens", "détient", "détenons", "détenez", "détiennent"],
+        "ind.imp": ["détenais", "détenais", "détenait", "détenions", "déteniez", "détenaient"],
+        "ind.ps": ["détins", "détins", "détint", "détînmes", "détîntes", "détinrent"],
+        "ind.fut": ["détiendrai", "détiendras", "détiendra", "détiendrons", "détiendrez", "détiendront"],
+        "cond.pres": ["détiendrais", "détiendrais", "détiendrait", "détiendrions", "détiendriez", "détiendraient"],
+        "subj.pres": ["détienne", "détiennes", "détienne", "détenions", "déteniez", "détiennent"],
+        "subj.imp": ["détinsse", "détinsses", "détînt", "détinssions", "détinssiez", "détinssent"],
+        "imper.pres": ["détiens", "détenons", "détenez"]
+      },
+      "participe_present": "détenant",
+      "participe_passe": ["détenu", "détenue", "détenus", "détenues"]
     }
   ]
 }
