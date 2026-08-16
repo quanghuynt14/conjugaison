@@ -20455,6 +20455,24 @@
       },
       "participe_present": "démissionnant",
       "participe_passe": ["démissionné", null, null, null]
+    },
+    {
+      "id": "incarner",
+      "infinitif": "incarner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["incarne", "incarnes", "incarne", "incarnons", "incarnez", "incarnent"],
+        "ind.imp": ["incarnais", "incarnais", "incarnait", "incarnions", "incarniez", "incarnaient"],
+        "ind.ps": ["incarnai", "incarnas", "incarna", "incarnâmes", "incarnâtes", "incarnèrent"],
+        "ind.fut": ["incarnerai", "incarneras", "incarnera", "incarnerons", "incarnerez", "incarneront"],
+        "cond.pres": ["incarnerais", "incarnerais", "incarnerait", "incarnerions", "incarneriez", "incarneraient"],
+        "subj.pres": ["incarne", "incarnes", "incarne", "incarnions", "incarniez", "incarnent"],
+        "subj.imp": ["incarnasse", "incarnasses", "incarnât", "incarnassions", "incarnassiez", "incarnassent"],
+        "imper.pres": ["incarne", "incarnons", "incarnez"]
+      },
+      "participe_present": "incarnant",
+      "participe_passe": ["incarné", "incarnée", "incarnés", "incarnées"]
     }
   ]
 }
