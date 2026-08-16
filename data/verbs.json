@@ -24860,6 +24860,24 @@
       },
       "participe_present": "réprimant",
       "participe_passe": ["réprimé", "réprimée", "réprimés", "réprimées"]
+    },
+    {
+      "id": "favoriser",
+      "infinitif": "favoriser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["favorise", "favorises", "favorise", "favorisons", "favorisez", "favorisent"],
+        "ind.imp": ["favorisais", "favorisais", "favorisait", "favorisions", "favorisiez", "favorisaient"],
+        "ind.ps": ["favorisai", "favorisas", "favorisa", "favorisâmes", "favorisâtes", "favorisèrent"],
+        "ind.fut": ["favoriserai", "favoriseras", "favorisera", "favoriserons", "favoriserez", "favoriseront"],
+        "cond.pres": ["favoriserais", "favoriserais", "favoriserait", "favoriserions", "favoriseriez", "favoriseraient"],
+        "subj.pres": ["favorise", "favorises", "favorise", "favorisions", "favorisiez", "favorisent"],
+        "subj.imp": ["favorisasse", "favorisasses", "favorisât", "favorisassions", "favorisassiez", "favorisassent"],
+        "imper.pres": ["favorise", "favorisons", "favorisez"]
+      },
+      "participe_present": "favorisant",
+      "participe_passe": ["favorisé", "favorisée", "favorisés", "favorisées"]
     }
   ]
 }
