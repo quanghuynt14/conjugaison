@@ -35987,6 +35987,24 @@
       },
       "participe_present": "prosternant",
       "participe_passe": ["prosterné", "prosternée", "prosternés", "prosternées"]
+    },
+    {
+      "id": "prétexter",
+      "infinitif": "prétexter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prétexte", "prétextes", "prétexte", "prétextons", "prétextez", "prétextent"],
+        "ind.imp": ["prétextais", "prétextais", "prétextait", "prétextions", "prétextiez", "prétextaient"],
+        "ind.ps": ["prétextai", "prétextas", "prétexta", "prétextâmes", "prétextâtes", "prétextèrent"],
+        "ind.fut": ["prétexterai", "prétexteras", "prétextera", "prétexterons", "prétexterez", "prétexteront"],
+        "cond.pres": ["prétexterais", "prétexterais", "prétexterait", "prétexterions", "prétexteriez", "prétexteraient"],
+        "subj.pres": ["prétexte", "prétextes", "prétexte", "prétextions", "prétextiez", "prétextent"],
+        "subj.imp": ["prétextasse", "prétextasses", "prétextât", "prétextassions", "prétextassiez", "prétextassent"],
+        "imper.pres": ["prétexte", "prétextons", "prétextez"]
+      },
+      "participe_present": "prétextant",
+      "participe_passe": ["prétexté", "prétextée", "prétextés", "prétextées"]
     }
   ]
 }
