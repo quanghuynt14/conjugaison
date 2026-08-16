@@ -350,6 +350,24 @@
       },
       "participe_present": "aimant",
       "participe_passe": ["aimé", "aimée", "aimés", "aimées"]
+    },
+    {
+      "id": "penser",
+      "infinitif": "penser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pense", "penses", "pense", "pensons", "pensez", "pensent"],
+        "ind.imp": ["pensais", "pensais", "pensait", "pensions", "pensiez", "pensaient"],
+        "ind.ps": ["pensai", "pensas", "pensa", "pensâmes", "pensâtes", "pensèrent"],
+        "ind.fut": ["penserai", "penseras", "pensera", "penserons", "penserez", "penseront"],
+        "cond.pres": ["penserais", "penserais", "penserait", "penserions", "penseriez", "penseraient"],
+        "subj.pres": ["pense", "penses", "pense", "pensions", "pensiez", "pensent"],
+        "subj.imp": ["pensasse", "pensasses", "pensât", "pensassions", "pensassiez", "pensassent"],
+        "imper.pres": ["pense", "pensons", "pensez"]
+      },
+      "participe_present": "pensant",
+      "participe_passe": ["pensé", "pensée", "pensés", "pensées"]
     }
   ]
 }
