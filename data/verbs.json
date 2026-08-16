@@ -32921,6 +32921,24 @@
       },
       "participe_present": "cambriolant",
       "participe_passe": ["cambriolé", "cambriolée", "cambriolés", "cambriolées"]
+    },
+    {
+      "id": "tatouer",
+      "infinitif": "tatouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tatoue", "tatoues", "tatoue", "tatouons", "tatouez", "tatouent"],
+        "ind.imp": ["tatouais", "tatouais", "tatouait", "tatouions", "tatouiez", "tatouaient"],
+        "ind.ps": ["tatouai", "tatouas", "tatoua", "tatouâmes", "tatouâtes", "tatouèrent"],
+        "ind.fut": ["tatouerai", "tatoueras", "tatouera", "tatouerons", "tatouerez", "tatoueront"],
+        "cond.pres": ["tatouerais", "tatouerais", "tatouerait", "tatouerions", "tatoueriez", "tatoueraient"],
+        "subj.pres": ["tatoue", "tatoues", "tatoue", "tatouions", "tatouiez", "tatouent"],
+        "subj.imp": ["tatouasse", "tatouasses", "tatouât", "tatouassions", "tatouassiez", "tatouassent"],
+        "imper.pres": ["tatoue", "tatouons", "tatouez"]
+      },
+      "participe_present": "tatouant",
+      "participe_passe": ["tatoué", "tatouée", "tatoués", "tatouées"]
     }
   ]
 }
