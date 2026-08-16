@@ -19597,6 +19597,25 @@
       },
       "participe_present": "prescrivant",
       "participe_passe": ["prescrit", "prescrite", "prescrits", "prescrites"]
+    },
+    {
+      "id": "délirer",
+      "infinitif": "délirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « déliré » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["délire", "délires", "délire", "délirons", "délirez", "délirent"],
+        "ind.imp": ["délirais", "délirais", "délirait", "délirions", "déliriez", "déliraient"],
+        "ind.ps": ["délirai", "déliras", "délira", "délirâmes", "délirâtes", "délirèrent"],
+        "ind.fut": ["délirerai", "délireras", "délirera", "délirerons", "délirerez", "délireront"],
+        "cond.pres": ["délirerais", "délirerais", "délirerait", "délirerions", "délireriez", "délireraient"],
+        "subj.pres": ["délire", "délires", "délire", "délirions", "déliriez", "délirent"],
+        "subj.imp": ["délirasse", "délirasses", "délirât", "délirassions", "délirassiez", "délirassent"],
+        "imper.pres": ["délire", "délirons", "délirez"]
+      },
+      "participe_present": "délirant",
+      "participe_passe": ["déliré", null, null, null]
     }
   ]
 }
