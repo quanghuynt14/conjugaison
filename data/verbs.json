@@ -12483,6 +12483,24 @@
       },
       "participe_present": "enregistrant",
       "participe_passe": ["enregistré", "enregistrée", "enregistrés", "enregistrées"]
+    },
+    {
+      "id": "consoler",
+      "infinitif": "consoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["console", "consoles", "console", "consolons", "consolez", "consolent"],
+        "ind.imp": ["consolais", "consolais", "consolait", "consolions", "consoliez", "consolaient"],
+        "ind.ps": ["consolai", "consolas", "consola", "consolâmes", "consolâtes", "consolèrent"],
+        "ind.fut": ["consolerai", "consoleras", "consolera", "consolerons", "consolerez", "consoleront"],
+        "cond.pres": ["consolerais", "consolerais", "consolerait", "consolerions", "consoleriez", "consoleraient"],
+        "subj.pres": ["console", "consoles", "console", "consolions", "consoliez", "consolent"],
+        "subj.imp": ["consolasse", "consolasses", "consolât", "consolassions", "consolassiez", "consolassent"],
+        "imper.pres": ["console", "consolons", "consolez"]
+      },
+      "participe_present": "consolant",
+      "participe_passe": ["consolé", "consolée", "consolés", "consolées"]
     }
   ]
 }
