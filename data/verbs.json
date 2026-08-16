@@ -3690,6 +3690,24 @@
       },
       "participe_present": "calmant",
       "participe_passe": ["calmé", "calmée", "calmés", "calmées"]
+    },
+    {
+      "id": "tenter",
+      "infinitif": "tenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tente", "tentes", "tente", "tentons", "tentez", "tentent"],
+        "ind.imp": ["tentais", "tentais", "tentait", "tentions", "tentiez", "tentaient"],
+        "ind.ps": ["tentai", "tentas", "tenta", "tentâmes", "tentâtes", "tentèrent"],
+        "ind.fut": ["tenterai", "tenteras", "tentera", "tenterons", "tenterez", "tenteront"],
+        "cond.pres": ["tenterais", "tenterais", "tenterait", "tenterions", "tenteriez", "tenteraient"],
+        "subj.pres": ["tente", "tentes", "tente", "tentions", "tentiez", "tentent"],
+        "subj.imp": ["tentasse", "tentasses", "tentât", "tentassions", "tentassiez", "tentassent"],
+        "imper.pres": ["tente", "tentons", "tentez"]
+      },
+      "participe_present": "tentant",
+      "participe_passe": ["tenté", "tentée", "tentés", "tentées"]
     }
   ]
 }
