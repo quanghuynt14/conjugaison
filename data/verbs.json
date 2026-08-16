@@ -13191,6 +13191,24 @@
       },
       "participe_present": "hochant",
       "participe_passe": ["hoché", "hochée", "hochés", "hochées"]
+    },
+    {
+      "id": "encourager",
+      "infinitif": "encourager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["encourage", "encourages", "encourage", "encourageons", "encouragez", "encouragent"],
+        "ind.imp": ["encourageais", "encourageais", "encourageait", "encouragions", "encouragiez", "encourageaient"],
+        "ind.ps": ["encourageai", "encourageas", "encouragea", "encourageâmes", "encourageâtes", "encouragèrent"],
+        "ind.fut": ["encouragerai", "encourageras", "encouragera", "encouragerons", "encouragerez", "encourageront"],
+        "cond.pres": ["encouragerais", "encouragerais", "encouragerait", "encouragerions", "encourageriez", "encourageraient"],
+        "subj.pres": ["encourage", "encourages", "encourage", "encouragions", "encouragiez", "encouragent"],
+        "subj.imp": ["encourageasse", "encourageasses", "encourageât", "encourageassions", "encourageassiez", "encourageassent"],
+        "imper.pres": ["encourage", "encourageons", "encouragez"]
+      },
+      "participe_present": "encourageant",
+      "participe_passe": ["encouragé", "encouragée", "encouragés", "encouragées"]
     }
   ]
 }
