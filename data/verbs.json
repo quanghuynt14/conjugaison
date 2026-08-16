@@ -23982,6 +23982,25 @@
       },
       "participe_present": "bronchant",
       "participe_passe": ["bronché", null, null, null]
+    },
+    {
+      "id": "vaciller",
+      "infinitif": "vaciller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « vacillé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["vacille", "vacilles", "vacille", "vacillons", "vacillez", "vacillent"],
+        "ind.imp": ["vacillais", "vacillais", "vacillait", "vacillions", "vacilliez", "vacillaient"],
+        "ind.ps": ["vacillai", "vacillas", "vacilla", "vacillâmes", "vacillâtes", "vacillèrent"],
+        "ind.fut": ["vacillerai", "vacilleras", "vacillera", "vacillerons", "vacillerez", "vacilleront"],
+        "cond.pres": ["vacillerais", "vacillerais", "vacillerait", "vacillerions", "vacilleriez", "vacilleraient"],
+        "subj.pres": ["vacille", "vacilles", "vacille", "vacillions", "vacilliez", "vacillent"],
+        "subj.imp": ["vacillasse", "vacillasses", "vacillât", "vacillassions", "vacillassiez", "vacillassent"],
+        "imper.pres": ["vacille", "vacillons", "vacillez"]
+      },
+      "participe_present": "vacillant",
+      "participe_passe": ["vacillé", null, null, null]
     }
   ]
 }
