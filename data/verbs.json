@@ -20564,6 +20564,24 @@
       },
       "participe_present": "imprégnant",
       "participe_passe": ["imprégné", "imprégnée", "imprégnés", "imprégnées"]
+    },
+    {
+      "id": "répliquer",
+      "infinitif": "répliquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réplique", "répliques", "réplique", "répliquons", "répliquez", "répliquent"],
+        "ind.imp": ["répliquais", "répliquais", "répliquait", "répliquions", "répliquiez", "répliquaient"],
+        "ind.ps": ["répliquai", "répliquas", "répliqua", "répliquâmes", "répliquâtes", "répliquèrent"],
+        "ind.fut": ["répliquerai", "répliqueras", "répliquera", "répliquerons", "répliquerez", "répliqueront"],
+        "cond.pres": ["répliquerais", "répliquerais", "répliquerait", "répliquerions", "répliqueriez", "répliqueraient"],
+        "subj.pres": ["réplique", "répliques", "réplique", "répliquions", "répliquiez", "répliquent"],
+        "subj.imp": ["répliquasse", "répliquasses", "répliquât", "répliquassions", "répliquassiez", "répliquassent"],
+        "imper.pres": ["réplique", "répliquons", "répliquez"]
+      },
+      "participe_present": "répliquant",
+      "participe_passe": ["répliqué", "répliquée", "répliqués", "répliquées"]
     }
   ]
 }
