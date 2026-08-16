@@ -1880,6 +1880,24 @@
       },
       "participe_present": "expliquant",
       "participe_passe": ["expliqué", "expliquée", "expliqués", "expliquées"]
+    },
+    {
+      "id": "importer",
+      "infinitif": "importer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["importe", "importes", "importe", "importons", "importez", "importent"],
+        "ind.imp": ["importais", "importais", "importait", "importions", "importiez", "importaient"],
+        "ind.ps": ["importai", "importas", "importa", "importâmes", "importâtes", "importèrent"],
+        "ind.fut": ["importerai", "importeras", "importera", "importerons", "importerez", "importeront"],
+        "cond.pres": ["importerais", "importerais", "importerait", "importerions", "importeriez", "importeraient"],
+        "subj.pres": ["importe", "importes", "importe", "importions", "importiez", "importent"],
+        "subj.imp": ["importasse", "importasses", "importât", "importassions", "importassiez", "importassent"],
+        "imper.pres": ["importe", "importons", "importez"]
+      },
+      "participe_present": "important",
+      "participe_passe": ["importé", "importée", "importés", "importées"]
     }
   ]
 }
