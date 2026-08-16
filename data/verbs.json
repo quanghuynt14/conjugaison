@@ -1550,6 +1550,24 @@
       },
       "participe_present": "continuant",
       "participe_passe": ["continué", "continuée", "continués", "continuées"]
+    },
+    {
+      "id": "envoyer",
+      "infinitif": "envoyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["envoie", "envoies", "envoie", "envoyons", "envoyez", "envoient"],
+        "ind.imp": ["envoyais", "envoyais", "envoyait", "envoyions", "envoyiez", "envoyaient"],
+        "ind.ps": ["envoyai", "envoyas", "envoya", "envoyâmes", "envoyâtes", "envoyèrent"],
+        "ind.fut": ["enverrai", "enverras", "enverra", "enverrons", "enverrez", "enverront"],
+        "cond.pres": ["enverrais", "enverrais", "enverrait", "enverrions", "enverriez", "enverraient"],
+        "subj.pres": ["envoie", "envoies", "envoie", "envoyions", "envoyiez", "envoient"],
+        "subj.imp": ["envoyasse", "envoyasses", "envoyât", "envoyassions", "envoyassiez", "envoyassent"],
+        "imper.pres": ["envoie", "envoyons", "envoyez"]
+      },
+      "participe_present": "envoyant",
+      "participe_passe": ["envoyé", "envoyée", "envoyés", "envoyées"]
     }
   ]
 }
