@@ -12737,6 +12737,24 @@
       },
       "participe_present": "abordant",
       "participe_passe": ["abordé", "abordée", "abordés", "abordées"]
+    },
+    {
+      "id": "délivrer",
+      "infinitif": "délivrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["délivre", "délivres", "délivre", "délivrons", "délivrez", "délivrent"],
+        "ind.imp": ["délivrais", "délivrais", "délivrait", "délivrions", "délivriez", "délivraient"],
+        "ind.ps": ["délivrai", "délivras", "délivra", "délivrâmes", "délivrâtes", "délivrèrent"],
+        "ind.fut": ["délivrerai", "délivreras", "délivrera", "délivrerons", "délivrerez", "délivreront"],
+        "cond.pres": ["délivrerais", "délivrerais", "délivrerait", "délivrerions", "délivreriez", "délivreraient"],
+        "subj.pres": ["délivre", "délivres", "délivre", "délivrions", "délivriez", "délivrent"],
+        "subj.imp": ["délivrasse", "délivrasses", "délivrât", "délivrassions", "délivrassiez", "délivrassent"],
+        "imper.pres": ["délivre", "délivrons", "délivrez"]
+      },
+      "participe_present": "délivrant",
+      "participe_passe": ["délivré", "délivrée", "délivrés", "délivrées"]
     }
   ]
 }
