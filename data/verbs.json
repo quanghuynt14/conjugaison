@@ -6513,6 +6513,24 @@
       },
       "participe_present": "signifiant",
       "participe_passe": ["signifié", "signifiée", "signifiés", "signifiées"]
+    },
+    {
+      "id": "piquer",
+      "infinitif": "piquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pique", "piques", "pique", "piquons", "piquez", "piquent"],
+        "ind.imp": ["piquais", "piquais", "piquait", "piquions", "piquiez", "piquaient"],
+        "ind.ps": ["piquai", "piquas", "piqua", "piquâmes", "piquâtes", "piquèrent"],
+        "ind.fut": ["piquerai", "piqueras", "piquera", "piquerons", "piquerez", "piqueront"],
+        "cond.pres": ["piquerais", "piquerais", "piquerait", "piquerions", "piqueriez", "piqueraient"],
+        "subj.pres": ["pique", "piques", "pique", "piquions", "piquiez", "piquent"],
+        "subj.imp": ["piquasse", "piquasses", "piquât", "piquassions", "piquassiez", "piquassent"],
+        "imper.pres": ["pique", "piquons", "piquez"]
+      },
+      "participe_present": "piquant",
+      "participe_passe": ["piqué", "piquée", "piqués", "piquées"]
     }
   ]
 }
