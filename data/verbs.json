@@ -12537,6 +12537,24 @@
       },
       "participe_present": "destinant",
       "participe_passe": ["destiné", "destinée", "destinés", "destinées"]
+    },
+    {
+      "id": "déborder",
+      "infinitif": "déborder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déborde", "débordes", "déborde", "débordons", "débordez", "débordent"],
+        "ind.imp": ["débordais", "débordais", "débordait", "débordions", "débordiez", "débordaient"],
+        "ind.ps": ["débordai", "débordas", "déborda", "débordâmes", "débordâtes", "débordèrent"],
+        "ind.fut": ["déborderai", "déborderas", "débordera", "déborderons", "déborderez", "déborderont"],
+        "cond.pres": ["déborderais", "déborderais", "déborderait", "déborderions", "déborderiez", "déborderaient"],
+        "subj.pres": ["déborde", "débordes", "déborde", "débordions", "débordiez", "débordent"],
+        "subj.imp": ["débordasse", "débordasses", "débordât", "débordassions", "débordassiez", "débordassent"],
+        "imper.pres": ["déborde", "débordons", "débordez"]
+      },
+      "participe_present": "débordant",
+      "participe_passe": ["débordé", "débordée", "débordés", "débordées"]
     }
   ]
 }
