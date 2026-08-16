@@ -29529,6 +29529,24 @@
       },
       "participe_present": "enquérant",
       "participe_passe": ["enquis", "enquise", "enquis", "enquises"]
+    },
+    {
+      "id": "côtoyer",
+      "infinitif": "côtoyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["côtoie", "côtoies", "côtoie", "côtoyons", "côtoyez", "côtoient"],
+        "ind.imp": ["côtoyais", "côtoyais", "côtoyait", "côtoyions", "côtoyiez", "côtoyaient"],
+        "ind.ps": ["côtoyai", "côtoyas", "côtoya", "côtoyâmes", "côtoyâtes", "côtoyèrent"],
+        "ind.fut": ["côtoierai", "côtoieras", "côtoiera", "côtoierons", "côtoierez", "côtoieront"],
+        "cond.pres": ["côtoierais", "côtoierais", "côtoierait", "côtoierions", "côtoieriez", "côtoieraient"],
+        "subj.pres": ["côtoie", "côtoies", "côtoie", "côtoyions", "côtoyiez", "côtoient"],
+        "subj.imp": ["côtoyasse", "côtoyasses", "côtoyât", "côtoyassions", "côtoyassiez", "côtoyassent"],
+        "imper.pres": ["côtoie", "côtoyons", "côtoyez"]
+      },
+      "participe_present": "côtoyant",
+      "participe_passe": ["côtoyé", "côtoyée", "côtoyés", "côtoyées"]
     }
   ]
 }
