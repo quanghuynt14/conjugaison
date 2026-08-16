@@ -9972,6 +9972,24 @@
       },
       "participe_present": "gonflant",
       "participe_passe": ["gonflé", "gonflée", "gonflés", "gonflées"]
+    },
+    {
+      "id": "pointer",
+      "infinitif": "pointer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pointe", "pointes", "pointe", "pointons", "pointez", "pointent"],
+        "ind.imp": ["pointais", "pointais", "pointait", "pointions", "pointiez", "pointaient"],
+        "ind.ps": ["pointai", "pointas", "pointa", "pointâmes", "pointâtes", "pointèrent"],
+        "ind.fut": ["pointerai", "pointeras", "pointera", "pointerons", "pointerez", "pointeront"],
+        "cond.pres": ["pointerais", "pointerais", "pointerait", "pointerions", "pointeriez", "pointeraient"],
+        "subj.pres": ["pointe", "pointes", "pointe", "pointions", "pointiez", "pointent"],
+        "subj.imp": ["pointasse", "pointasses", "pointât", "pointassions", "pointassiez", "pointassent"],
+        "imper.pres": ["pointe", "pointons", "pointez"]
+      },
+      "participe_present": "pointant",
+      "participe_passe": ["pointé", "pointée", "pointés", "pointées"]
     }
   ]
 }
