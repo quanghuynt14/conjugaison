@@ -186,31 +186,32 @@ CORRECTIONS = {
 # qu'il se conjugue aussi avec être — « la revue est parue » —, soit qu'il
 # s'emploie comme adjectif — « les terres émergées », « un projet abouti »,
 # « une femme divorcée », « une civilisation disparue », « une silhouette
-# surgie », « une source jaillie de la roche ».
+# surgie », « une source jaillie de la roche ». Puis huit autres au millier
+# suivant, pour la même raison et par le même croisement : un chien enragé,
+# une femme rusée, des joues rebondies, un pays évolué, une voiture
+# stationnée, une soirée foirée, quelqu'un d'adonné à la boisson, une fille
+# flippée.
 INVARIABLES = {
-    "accéder", "acquiescer", "adhérer", "adonner", "affluer", "agoniser",
+    "accéder", "acquiescer", "adhérer", "affluer", "agoniser",
     "bagarrer", "baver", "bourdonner", "broncher", "bâiller", "bénéficier",
     "capituler", "chanceler", "cheminer", "chialer", "chuter", "clignoter",
     "clocher", "communier", "contribuer", "coopérer", "coïncider", "crisser",
     "crouler", "croître", "crépiter", "divaguer", "déambuler", "décamper",
     "décroître", "défaillir", "dégouliner", "délirer", "démissionner",
-    "dérailler", "déraper", "enquêter", "enrager", "faiblir", "flipper",
-    "flirter", "flâner", "foirer", "fouiner", "frissonner", "fuser",
+    "dérailler", "déraper", "enquêter", "faiblir",     "flirter", "flâner", "fouiner", "frissonner", "fuser",
     "gesticuler", "gicler", "glousser", "grelotter", "grimacer", "grincer",
     "gésir", "haleter", "incomber", "jubiler", "languir", "loucher", "merder",
     "miauler", "naviguer", "neiger", "officier", "opter", "osciller",
     "palpiter", "patauger", "patienter", "persister", "pivoter",
     "pleurnicher", "pouffer", "pécher", "pédaler", "périr", "raffoler",
-    "rappliquer", "rebondir", "refluer", "remédier", "resplendir",
-    "rivaliser", "ronronner", "roupiller", "ruer", "ruisseler", "ruser",
-    "râler", "référer", "résider", "résulter", "rêvasser", "sangloter",
+    "rappliquer", "refluer", "remédier", "resplendir",
+    "rivaliser", "ronronner", "roupiller", "ruer", "ruisseler",     "râler", "référer", "résider", "résulter", "rêvasser", "sangloter",
     "sautiller", "scintiller", "siéger", "sommeiller", "somnoler", "souper",
-    "stationner", "subsister", "succomber", "surfer", "séjourner", "tanguer",
+    "subsister", "succomber", "surfer", "séjourner", "tanguer",
     "tituber", "tonner", "tourbillonner", "tournoyer", "tressaillir",
     "trimer", "trinquer", "trotter", "trottiner", "trôner", "tâtonner",
     "vaciller", "voguer", "voleter", "émaner", "éternuer", "étinceler",
-    "évoluer",
-
+    
     "agir", "appartenir", "bavarder", "bondir", "briller",
     "circuler", "consister", "correspondre", "déconner", "déjeuner",
     "déplaire", "dîner", "dormir", "douter",
