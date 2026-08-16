@@ -23890,6 +23890,24 @@
       },
       "participe_present": "sciant",
       "participe_passe": ["scié", "sciée", "sciés", "sciées"]
+    },
+    {
+      "id": "palper",
+      "infinitif": "palper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["palpe", "palpes", "palpe", "palpons", "palpez", "palpent"],
+        "ind.imp": ["palpais", "palpais", "palpait", "palpions", "palpiez", "palpaient"],
+        "ind.ps": ["palpai", "palpas", "palpa", "palpâmes", "palpâtes", "palpèrent"],
+        "ind.fut": ["palperai", "palperas", "palpera", "palperons", "palperez", "palperont"],
+        "cond.pres": ["palperais", "palperais", "palperait", "palperions", "palperiez", "palperaient"],
+        "subj.pres": ["palpe", "palpes", "palpe", "palpions", "palpiez", "palpent"],
+        "subj.imp": ["palpasse", "palpasses", "palpât", "palpassions", "palpassiez", "palpassent"],
+        "imper.pres": ["palpe", "palpons", "palpez"]
+      },
+      "participe_present": "palpant",
+      "participe_passe": ["palpé", "palpée", "palpés", "palpées"]
     }
   ]
 }
