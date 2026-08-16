@@ -13918,6 +13918,24 @@
       },
       "participe_present": "effondrant",
       "participe_passe": ["effondré", "effondrée", "effondrés", "effondrées"]
+    },
+    {
+      "id": "tâcher",
+      "infinitif": "tâcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tâche", "tâches", "tâche", "tâchons", "tâchez", "tâchent"],
+        "ind.imp": ["tâchais", "tâchais", "tâchait", "tâchions", "tâchiez", "tâchaient"],
+        "ind.ps": ["tâchai", "tâchas", "tâcha", "tâchâmes", "tâchâtes", "tâchèrent"],
+        "ind.fut": ["tâcherai", "tâcheras", "tâchera", "tâcherons", "tâcherez", "tâcheront"],
+        "cond.pres": ["tâcherais", "tâcherais", "tâcherait", "tâcherions", "tâcheriez", "tâcheraient"],
+        "subj.pres": ["tâche", "tâches", "tâche", "tâchions", "tâchiez", "tâchent"],
+        "subj.imp": ["tâchasse", "tâchasses", "tâchât", "tâchassions", "tâchassiez", "tâchassent"],
+        "imper.pres": ["tâche", "tâchons", "tâchez"]
+      },
+      "participe_present": "tâchant",
+      "participe_passe": ["tâché", "tâchée", "tâchés", "tâchées"]
     }
   ]
 }
