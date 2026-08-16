@@ -10757,6 +10757,24 @@
       },
       "participe_present": "perçant",
       "participe_passe": ["percé", "percée", "percés", "percées"]
+    },
+    {
+      "id": "intervenir",
+      "infinitif": "intervenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["interviens", "interviens", "intervient", "intervenons", "intervenez", "interviennent"],
+        "ind.imp": ["intervenais", "intervenais", "intervenait", "intervenions", "interveniez", "intervenaient"],
+        "ind.ps": ["intervins", "intervins", "intervint", "intervînmes", "intervîntes", "intervinrent"],
+        "ind.fut": ["interviendrai", "interviendras", "interviendra", "interviendrons", "interviendrez", "interviendront"],
+        "cond.pres": ["interviendrais", "interviendrais", "interviendrait", "interviendrions", "interviendriez", "interviendraient"],
+        "subj.pres": ["intervienne", "interviennes", "intervienne", "intervenions", "interveniez", "interviennent"],
+        "subj.imp": ["intervinsse", "intervinsses", "intervînt", "intervinssions", "intervinssiez", "intervinssent"],
+        "imper.pres": ["interviens", "intervenons", "intervenez"]
+      },
+      "participe_present": "intervenant",
+      "participe_passe": ["intervenu", "intervenue", "intervenus", "intervenues"]
     }
   ]
 }
