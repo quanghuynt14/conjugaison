@@ -5590,6 +5590,24 @@
       },
       "participe_present": "dépêchant",
       "participe_passe": ["dépêché", "dépêchée", "dépêchés", "dépêchées"]
+    },
+    {
+      "id": "éteindre",
+      "infinitif": "éteindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éteins", "éteins", "éteint", "éteignons", "éteignez", "éteignent"],
+        "ind.imp": ["éteignais", "éteignais", "éteignait", "éteignions", "éteigniez", "éteignaient"],
+        "ind.ps": ["éteignis", "éteignis", "éteignit", "éteignîmes", "éteignîtes", "éteignirent"],
+        "ind.fut": ["éteindrai", "éteindras", "éteindra", "éteindrons", "éteindrez", "éteindront"],
+        "cond.pres": ["éteindrais", "éteindrais", "éteindrait", "éteindrions", "éteindriez", "éteindraient"],
+        "subj.pres": ["éteigne", "éteignes", "éteigne", "éteignions", "éteigniez", "éteignent"],
+        "subj.imp": ["éteignisse", "éteignisses", "éteignît", "éteignissions", "éteignissiez", "éteignissent"],
+        "imper.pres": ["éteins", "éteignons", "éteignez"]
+      },
+      "participe_present": "éteignant",
+      "participe_passe": ["éteint", "éteinte", "éteints", "éteintes"]
     }
   ]
 }
