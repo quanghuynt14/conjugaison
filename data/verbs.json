@@ -11136,6 +11136,24 @@
       },
       "participe_present": "soumettant",
       "participe_passe": ["soumis", "soumise", "soumis", "soumises"]
+    },
+    {
+      "id": "enseigner",
+      "infinitif": "enseigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enseigne", "enseignes", "enseigne", "enseignons", "enseignez", "enseignent"],
+        "ind.imp": ["enseignais", "enseignais", "enseignait", "enseignions", "enseigniez", "enseignaient"],
+        "ind.ps": ["enseignai", "enseignas", "enseigna", "enseignâmes", "enseignâtes", "enseignèrent"],
+        "ind.fut": ["enseignerai", "enseigneras", "enseignera", "enseignerons", "enseignerez", "enseigneront"],
+        "cond.pres": ["enseignerais", "enseignerais", "enseignerait", "enseignerions", "enseigneriez", "enseigneraient"],
+        "subj.pres": ["enseigne", "enseignes", "enseigne", "enseignions", "enseigniez", "enseignent"],
+        "subj.imp": ["enseignasse", "enseignasses", "enseignât", "enseignassions", "enseignassiez", "enseignassent"],
+        "imper.pres": ["enseigne", "enseignons", "enseignez"]
+      },
+      "participe_present": "enseignant",
+      "participe_passe": ["enseigné", "enseignée", "enseignés", "enseignées"]
     }
   ]
 }
