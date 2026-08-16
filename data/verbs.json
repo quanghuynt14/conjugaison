@@ -28706,6 +28706,24 @@
       },
       "participe_present": "dévouant",
       "participe_passe": ["dévoué", "dévouée", "dévoués", "dévouées"]
+    },
+    {
+      "id": "stationner",
+      "infinitif": "stationner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["stationne", "stationnes", "stationne", "stationnons", "stationnez", "stationnent"],
+        "ind.imp": ["stationnais", "stationnais", "stationnait", "stationnions", "stationniez", "stationnaient"],
+        "ind.ps": ["stationnai", "stationnas", "stationna", "stationnâmes", "stationnâtes", "stationnèrent"],
+        "ind.fut": ["stationnerai", "stationneras", "stationnera", "stationnerons", "stationnerez", "stationneront"],
+        "cond.pres": ["stationnerais", "stationnerais", "stationnerait", "stationnerions", "stationneriez", "stationneraient"],
+        "subj.pres": ["stationne", "stationnes", "stationne", "stationnions", "stationniez", "stationnent"],
+        "subj.imp": ["stationnasse", "stationnasses", "stationnât", "stationnassions", "stationnassiez", "stationnassent"],
+        "imper.pres": ["stationne", "stationnons", "stationnez"]
+      },
+      "participe_present": "stationnant",
+      "participe_passe": ["stationné", "stationnée", "stationnés", "stationnées"]
     }
   ]
 }
