@@ -25862,6 +25862,24 @@
       },
       "participe_present": "griffant",
       "participe_passe": ["griffé", "griffée", "griffés", "griffées"]
+    },
+    {
+      "id": "astiquer",
+      "infinitif": "astiquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["astique", "astiques", "astique", "astiquons", "astiquez", "astiquent"],
+        "ind.imp": ["astiquais", "astiquais", "astiquait", "astiquions", "astiquiez", "astiquaient"],
+        "ind.ps": ["astiquai", "astiquas", "astiqua", "astiquâmes", "astiquâtes", "astiquèrent"],
+        "ind.fut": ["astiquerai", "astiqueras", "astiquera", "astiquerons", "astiquerez", "astiqueront"],
+        "cond.pres": ["astiquerais", "astiquerais", "astiquerait", "astiquerions", "astiqueriez", "astiqueraient"],
+        "subj.pres": ["astique", "astiques", "astique", "astiquions", "astiquiez", "astiquent"],
+        "subj.imp": ["astiquasse", "astiquasses", "astiquât", "astiquassions", "astiquassiez", "astiquassent"],
+        "imper.pres": ["astique", "astiquons", "astiquez"]
+      },
+      "participe_present": "astiquant",
+      "participe_passe": ["astiqué", "astiquée", "astiqués", "astiquées"]
     }
   ]
 }
