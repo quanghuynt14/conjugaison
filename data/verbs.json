@@ -34432,6 +34432,24 @@
       },
       "participe_present": "décimant",
       "participe_passe": ["décimé", "décimée", "décimés", "décimées"]
+    },
+    {
+      "id": "meurtrir",
+      "infinitif": "meurtrir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["meurtris", "meurtris", "meurtrit", "meurtrissons", "meurtrissez", "meurtrissent"],
+        "ind.imp": ["meurtrissais", "meurtrissais", "meurtrissait", "meurtrissions", "meurtrissiez", "meurtrissaient"],
+        "ind.ps": ["meurtris", "meurtris", "meurtrit", "meurtrîmes", "meurtrîtes", "meurtrirent"],
+        "ind.fut": ["meurtrirai", "meurtriras", "meurtrira", "meurtrirons", "meurtrirez", "meurtriront"],
+        "cond.pres": ["meurtrirais", "meurtrirais", "meurtrirait", "meurtririons", "meurtririez", "meurtriraient"],
+        "subj.pres": ["meurtrisse", "meurtrisses", "meurtrisse", "meurtrissions", "meurtrissiez", "meurtrissent"],
+        "subj.imp": ["meurtrisse", "meurtrisses", "meurtrît", "meurtrissions", "meurtrissiez", "meurtrissent"],
+        "imper.pres": ["meurtris", "meurtrissons", "meurtrissez"]
+      },
+      "participe_present": "meurtrissant",
+      "participe_passe": ["meurtri", "meurtrie", "meurtris", "meurtries"]
     }
   ]
 }
