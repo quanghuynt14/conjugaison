@@ -28140,6 +28140,24 @@
       },
       "participe_present": "poignant",
       "participe_passe": ["point", "pointe", "points", "pointes"]
+    },
+    {
+      "id": "fléchir",
+      "infinitif": "fléchir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fléchis", "fléchis", "fléchit", "fléchissons", "fléchissez", "fléchissent"],
+        "ind.imp": ["fléchissais", "fléchissais", "fléchissait", "fléchissions", "fléchissiez", "fléchissaient"],
+        "ind.ps": ["fléchis", "fléchis", "fléchit", "fléchîmes", "fléchîtes", "fléchirent"],
+        "ind.fut": ["fléchirai", "fléchiras", "fléchira", "fléchirons", "fléchirez", "fléchiront"],
+        "cond.pres": ["fléchirais", "fléchirais", "fléchirait", "fléchirions", "fléchiriez", "fléchiraient"],
+        "subj.pres": ["fléchisse", "fléchisses", "fléchisse", "fléchissions", "fléchissiez", "fléchissent"],
+        "subj.imp": ["fléchisse", "fléchisses", "fléchît", "fléchissions", "fléchissiez", "fléchissent"],
+        "imper.pres": ["fléchis", "fléchissons", "fléchissez"]
+      },
+      "participe_present": "fléchissant",
+      "participe_passe": ["fléchi", "fléchie", "fléchis", "fléchies"]
     }
   ]
 }
