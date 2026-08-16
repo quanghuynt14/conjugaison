@@ -29254,6 +29254,24 @@
       },
       "participe_present": "pouffant",
       "participe_passe": ["pouffé", null, null, null]
+    },
+    {
+      "id": "surpasser",
+      "infinitif": "surpasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["surpasse", "surpasses", "surpasse", "surpassons", "surpassez", "surpassent"],
+        "ind.imp": ["surpassais", "surpassais", "surpassait", "surpassions", "surpassiez", "surpassaient"],
+        "ind.ps": ["surpassai", "surpassas", "surpassa", "surpassâmes", "surpassâtes", "surpassèrent"],
+        "ind.fut": ["surpasserai", "surpasseras", "surpassera", "surpasserons", "surpasserez", "surpasseront"],
+        "cond.pres": ["surpasserais", "surpasserais", "surpasserait", "surpasserions", "surpasseriez", "surpasseraient"],
+        "subj.pres": ["surpasse", "surpasses", "surpasse", "surpassions", "surpassiez", "surpassent"],
+        "subj.imp": ["surpassasse", "surpassasses", "surpassât", "surpassassions", "surpassassiez", "surpassassent"],
+        "imper.pres": ["surpasse", "surpassons", "surpassez"]
+      },
+      "participe_present": "surpassant",
+      "participe_passe": ["surpassé", "surpassée", "surpassés", "surpassées"]
     }
   ]
 }
