@@ -18267,6 +18267,25 @@
       },
       "participe_present": "renouvelant",
       "participe_passe": ["renouvelé", "renouvelée", "renouvelés", "renouvelées"]
+    },
+    {
+      "id": "ruer",
+      "infinitif": "ruer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « rué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["rue", "rues", "rue", "ruons", "ruez", "ruent"],
+        "ind.imp": ["ruais", "ruais", "ruait", "ruions", "ruiez", "ruaient"],
+        "ind.ps": ["ruai", "ruas", "rua", "ruâmes", "ruâtes", "ruèrent"],
+        "ind.fut": ["ruerai", "rueras", "ruera", "ruerons", "ruerez", "rueront"],
+        "cond.pres": ["ruerais", "ruerais", "ruerait", "ruerions", "rueriez", "rueraient"],
+        "subj.pres": ["rue", "rues", "rue", "ruions", "ruiez", "ruent"],
+        "subj.imp": ["ruasse", "ruasses", "ruât", "ruassions", "ruassiez", "ruassent"],
+        "imper.pres": ["rue", "ruons", "ruez"]
+      },
+      "participe_present": "ruant",
+      "participe_passe": ["rué", null, null, null]
     }
   ]
 }
