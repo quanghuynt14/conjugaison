@@ -9792,6 +9792,24 @@
       },
       "participe_present": "noyant",
       "participe_passe": ["noyé", "noyée", "noyés", "noyées"]
+    },
+    {
+      "id": "appliquer",
+      "infinitif": "appliquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["applique", "appliques", "applique", "appliquons", "appliquez", "appliquent"],
+        "ind.imp": ["appliquais", "appliquais", "appliquait", "appliquions", "appliquiez", "appliquaient"],
+        "ind.ps": ["appliquai", "appliquas", "appliqua", "appliquâmes", "appliquâtes", "appliquèrent"],
+        "ind.fut": ["appliquerai", "appliqueras", "appliquera", "appliquerons", "appliquerez", "appliqueront"],
+        "cond.pres": ["appliquerais", "appliquerais", "appliquerait", "appliquerions", "appliqueriez", "appliqueraient"],
+        "subj.pres": ["applique", "appliques", "applique", "appliquions", "appliquiez", "appliquent"],
+        "subj.imp": ["appliquasse", "appliquasses", "appliquât", "appliquassions", "appliquassiez", "appliquassent"],
+        "imper.pres": ["applique", "appliquons", "appliquez"]
+      },
+      "participe_present": "appliquant",
+      "participe_passe": ["appliqué", "appliquée", "appliqués", "appliquées"]
     }
   ]
 }
