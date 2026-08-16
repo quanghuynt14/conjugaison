@@ -28012,6 +28012,24 @@
       },
       "participe_present": "cotant",
       "participe_passe": ["coté", "cotée", "cotés", "cotées"]
+    },
+    {
+      "id": "bafouiller",
+      "infinitif": "bafouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bafouille", "bafouilles", "bafouille", "bafouillons", "bafouillez", "bafouillent"],
+        "ind.imp": ["bafouillais", "bafouillais", "bafouillait", "bafouillions", "bafouilliez", "bafouillaient"],
+        "ind.ps": ["bafouillai", "bafouillas", "bafouilla", "bafouillâmes", "bafouillâtes", "bafouillèrent"],
+        "ind.fut": ["bafouillerai", "bafouilleras", "bafouillera", "bafouillerons", "bafouillerez", "bafouilleront"],
+        "cond.pres": ["bafouillerais", "bafouillerais", "bafouillerait", "bafouillerions", "bafouilleriez", "bafouilleraient"],
+        "subj.pres": ["bafouille", "bafouilles", "bafouille", "bafouillions", "bafouilliez", "bafouillent"],
+        "subj.imp": ["bafouillasse", "bafouillasses", "bafouillât", "bafouillassions", "bafouillassiez", "bafouillassent"],
+        "imper.pres": ["bafouille", "bafouillons", "bafouillez"]
+      },
+      "participe_present": "bafouillant",
+      "participe_passe": ["bafouillé", "bafouillée", "bafouillés", "bafouillées"]
     }
   ]
 }
