@@ -18504,6 +18504,26 @@
       },
       "participe_present": "détenant",
       "participe_passe": ["détenu", "détenue", "détenus", "détenues"]
+    },
+    {
+      "id": "fier",
+      "infinitif": "fier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me fie » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["fie", "fies", "fie", "fions", "fiez", "fient"],
+        "ind.imp": ["fiais", "fiais", "fiait", "fiions", "fiiez", "fiaient"],
+        "ind.ps": ["fiai", "fias", "fia", "fiâmes", "fiâtes", "fièrent"],
+        "ind.fut": ["fierai", "fieras", "fiera", "fierons", "fierez", "fieront"],
+        "cond.pres": ["fierais", "fierais", "fierait", "fierions", "fieriez", "fieraient"],
+        "subj.pres": ["fie", "fies", "fie", "fiions", "fiiez", "fient"],
+        "subj.imp": ["fiasse", "fiasses", "fiât", "fiassions", "fiassiez", "fiassent"],
+        "imper.pres": ["fie", "fions", "fiez"]
+      },
+      "participe_present": "fiant",
+      "participe_passe": ["fié", "fiée", "fiés", "fiées"]
     }
   ]
 }
