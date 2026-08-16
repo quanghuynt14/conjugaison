@@ -35352,6 +35352,24 @@
       },
       "participe_present": "exilant",
       "participe_passe": ["exilé", "exilée", "exilés", "exilées"]
+    },
+    {
+      "id": "perpétuer",
+      "infinitif": "perpétuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["perpétue", "perpétues", "perpétue", "perpétuons", "perpétuez", "perpétuent"],
+        "ind.imp": ["perpétuais", "perpétuais", "perpétuait", "perpétuions", "perpétuiez", "perpétuaient"],
+        "ind.ps": ["perpétuai", "perpétuas", "perpétua", "perpétuâmes", "perpétuâtes", "perpétuèrent"],
+        "ind.fut": ["perpétuerai", "perpétueras", "perpétuera", "perpétuerons", "perpétuerez", "perpétueront"],
+        "cond.pres": ["perpétuerais", "perpétuerais", "perpétuerait", "perpétuerions", "perpétueriez", "perpétueraient"],
+        "subj.pres": ["perpétue", "perpétues", "perpétue", "perpétuions", "perpétuiez", "perpétuent"],
+        "subj.imp": ["perpétuasse", "perpétuasses", "perpétuât", "perpétuassions", "perpétuassiez", "perpétuassent"],
+        "imper.pres": ["perpétue", "perpétuons", "perpétuez"]
+      },
+      "participe_present": "perpétuant",
+      "participe_passe": ["perpétué", "perpétuée", "perpétués", "perpétuées"]
     }
   ]
 }
