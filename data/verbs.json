@@ -17096,6 +17096,24 @@
       },
       "participe_present": "accroupissant",
       "participe_passe": ["accroupi", "accroupie", "accroupis", "accroupies"]
+    },
+    {
+      "id": "clouer",
+      "infinitif": "clouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cloue", "cloues", "cloue", "clouons", "clouez", "clouent"],
+        "ind.imp": ["clouais", "clouais", "clouait", "clouions", "clouiez", "clouaient"],
+        "ind.ps": ["clouai", "clouas", "cloua", "clouâmes", "clouâtes", "clouèrent"],
+        "ind.fut": ["clouerai", "cloueras", "clouera", "clouerons", "clouerez", "cloueront"],
+        "cond.pres": ["clouerais", "clouerais", "clouerait", "clouerions", "cloueriez", "cloueraient"],
+        "subj.pres": ["cloue", "cloues", "cloue", "clouions", "clouiez", "clouent"],
+        "subj.imp": ["clouasse", "clouasses", "clouât", "clouassions", "clouassiez", "clouassent"],
+        "imper.pres": ["cloue", "clouons", "clouez"]
+      },
+      "participe_present": "clouant",
+      "participe_passe": ["cloué", "clouée", "cloués", "clouées"]
     }
   ]
 }
