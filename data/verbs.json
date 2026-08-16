@@ -30987,6 +30987,24 @@
       },
       "participe_present": "moisissant",
       "participe_passe": ["moisi", "moisie", "moisis", "moisies"]
+    },
+    {
+      "id": "sévir",
+      "infinitif": "sévir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sévis", "sévis", "sévit", "sévissons", "sévissez", "sévissent"],
+        "ind.imp": ["sévissais", "sévissais", "sévissait", "sévissions", "sévissiez", "sévissaient"],
+        "ind.ps": ["sévis", "sévis", "sévit", "sévîmes", "sévîtes", "sévirent"],
+        "ind.fut": ["sévirai", "séviras", "sévira", "sévirons", "sévirez", "séviront"],
+        "cond.pres": ["sévirais", "sévirais", "sévirait", "sévirions", "séviriez", "séviraient"],
+        "subj.pres": ["sévisse", "sévisses", "sévisse", "sévissions", "sévissiez", "sévissent"],
+        "subj.imp": ["sévisse", "sévisses", "sévît", "sévissions", "sévissiez", "sévissent"],
+        "imper.pres": ["sévis", "sévissons", "sévissez"]
+      },
+      "participe_present": "sévissant",
+      "participe_passe": ["sévi", "sévie", "sévis", "sévies"]
     }
   ]
 }
