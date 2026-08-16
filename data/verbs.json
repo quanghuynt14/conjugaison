@@ -14228,6 +14228,24 @@
       },
       "participe_present": "grouillant",
       "participe_passe": ["grouillé", null, null, null]
+    },
+    {
+      "id": "contrer",
+      "infinitif": "contrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contre", "contres", "contre", "controns", "contrez", "contrent"],
+        "ind.imp": ["contrais", "contrais", "contrait", "contrions", "contriez", "contraient"],
+        "ind.ps": ["contrai", "contras", "contra", "contrâmes", "contrâtes", "contrèrent"],
+        "ind.fut": ["contrerai", "contreras", "contrera", "contrerons", "contrerez", "contreront"],
+        "cond.pres": ["contrerais", "contrerais", "contrerait", "contrerions", "contreriez", "contreraient"],
+        "subj.pres": ["contre", "contres", "contre", "contrions", "contriez", "contrent"],
+        "subj.imp": ["contrasse", "contrasses", "contrât", "contrassions", "contrassiez", "contrassent"],
+        "imper.pres": ["contre", "controns", "contrez"]
+      },
+      "participe_present": "contrant",
+      "participe_passe": ["contré", "contrée", "contrés", "contrées"]
     }
   ]
 }
