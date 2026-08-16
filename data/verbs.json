@@ -36297,6 +36297,24 @@
       },
       "participe_present": "évaporant",
       "participe_passe": ["évaporé", "évaporée", "évaporés", "évaporées"]
+    },
+    {
+      "id": "ceinturer",
+      "infinitif": "ceinturer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ceinture", "ceintures", "ceinture", "ceinturons", "ceinturez", "ceinturent"],
+        "ind.imp": ["ceinturais", "ceinturais", "ceinturait", "ceinturions", "ceinturiez", "ceinturaient"],
+        "ind.ps": ["ceinturai", "ceinturas", "ceintura", "ceinturâmes", "ceinturâtes", "ceinturèrent"],
+        "ind.fut": ["ceinturerai", "ceintureras", "ceinturera", "ceinturerons", "ceinturerez", "ceintureront"],
+        "cond.pres": ["ceinturerais", "ceinturerais", "ceinturerait", "ceinturerions", "ceintureriez", "ceintureraient"],
+        "subj.pres": ["ceinture", "ceintures", "ceinture", "ceinturions", "ceinturiez", "ceinturent"],
+        "subj.imp": ["ceinturasse", "ceinturasses", "ceinturât", "ceinturassions", "ceinturassiez", "ceinturassent"],
+        "imper.pres": ["ceinture", "ceinturons", "ceinturez"]
+      },
+      "participe_present": "ceinturant",
+      "participe_passe": ["ceinturé", "ceinturée", "ceinturés", "ceinturées"]
     }
   ]
 }
