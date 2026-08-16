@@ -22361,6 +22361,24 @@
       },
       "participe_present": "fronçant",
       "participe_passe": ["froncé", "froncée", "froncés", "froncées"]
+    },
+    {
+      "id": "gouverner",
+      "infinitif": "gouverner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gouverne", "gouvernes", "gouverne", "gouvernons", "gouvernez", "gouvernent"],
+        "ind.imp": ["gouvernais", "gouvernais", "gouvernait", "gouvernions", "gouverniez", "gouvernaient"],
+        "ind.ps": ["gouvernai", "gouvernas", "gouverna", "gouvernâmes", "gouvernâtes", "gouvernèrent"],
+        "ind.fut": ["gouvernerai", "gouverneras", "gouvernera", "gouvernerons", "gouvernerez", "gouverneront"],
+        "cond.pres": ["gouvernerais", "gouvernerais", "gouvernerait", "gouvernerions", "gouverneriez", "gouverneraient"],
+        "subj.pres": ["gouverne", "gouvernes", "gouverne", "gouvernions", "gouverniez", "gouvernent"],
+        "subj.imp": ["gouvernasse", "gouvernasses", "gouvernât", "gouvernassions", "gouvernassiez", "gouvernassent"],
+        "imper.pres": ["gouverne", "gouvernons", "gouvernez"]
+      },
+      "participe_present": "gouvernant",
+      "participe_passe": ["gouverné", "gouvernée", "gouvernés", "gouvernées"]
     }
   ]
 }
