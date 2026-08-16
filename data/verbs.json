@@ -3166,6 +3166,24 @@
       },
       "participe_present": "cessant",
       "participe_passe": ["cessé", "cessée", "cessés", "cessées"]
+    },
+    {
+      "id": "oser",
+      "infinitif": "oser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ose", "oses", "ose", "osons", "osez", "osent"],
+        "ind.imp": ["osais", "osais", "osait", "osions", "osiez", "osaient"],
+        "ind.ps": ["osai", "osas", "osa", "osâmes", "osâtes", "osèrent"],
+        "ind.fut": ["oserai", "oseras", "osera", "oserons", "oserez", "oseront"],
+        "cond.pres": ["oserais", "oserais", "oserait", "oserions", "oseriez", "oseraient"],
+        "subj.pres": ["ose", "oses", "ose", "osions", "osiez", "osent"],
+        "subj.imp": ["osasse", "osasses", "osât", "osassions", "osassiez", "osassent"],
+        "imper.pres": ["ose", "osons", "osez"]
+      },
+      "participe_present": "osant",
+      "participe_passe": ["osé", "osée", "osés", "osées"]
     }
   ]
 }
