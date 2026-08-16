@@ -15424,6 +15424,25 @@
       },
       "participe_present": "déplaisant",
       "participe_passe": ["déplu", null, null, null]
+    },
+    {
+      "id": "ricaner",
+      "infinitif": "ricaner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « ricané » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["ricane", "ricanes", "ricane", "ricanons", "ricanez", "ricanent"],
+        "ind.imp": ["ricanais", "ricanais", "ricanait", "ricanions", "ricaniez", "ricanaient"],
+        "ind.ps": ["ricanai", "ricanas", "ricana", "ricanâmes", "ricanâtes", "ricanèrent"],
+        "ind.fut": ["ricanerai", "ricaneras", "ricanera", "ricanerons", "ricanerez", "ricaneront"],
+        "cond.pres": ["ricanerais", "ricanerais", "ricanerait", "ricanerions", "ricaneriez", "ricaneraient"],
+        "subj.pres": ["ricane", "ricanes", "ricane", "ricanions", "ricaniez", "ricanent"],
+        "subj.imp": ["ricanasse", "ricanasses", "ricanât", "ricanassions", "ricanassiez", "ricanassent"],
+        "imper.pres": ["ricane", "ricanons", "ricanez"]
+      },
+      "participe_present": "ricanant",
+      "participe_passe": ["ricané", null, null, null]
     }
   ]
 }
