@@ -7928,6 +7928,24 @@
       },
       "participe_present": "contenant",
       "participe_passe": ["contenu", "contenue", "contenus", "contenues"]
+    },
+    {
+      "id": "condamner",
+      "infinitif": "condamner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["condamne", "condamnes", "condamne", "condamnons", "condamnez", "condamnent"],
+        "ind.imp": ["condamnais", "condamnais", "condamnait", "condamnions", "condamniez", "condamnaient"],
+        "ind.ps": ["condamnai", "condamnas", "condamna", "condamnâmes", "condamnâtes", "condamnèrent"],
+        "ind.fut": ["condamnerai", "condamneras", "condamnera", "condamnerons", "condamnerez", "condamneront"],
+        "cond.pres": ["condamnerais", "condamnerais", "condamnerait", "condamnerions", "condamneriez", "condamneraient"],
+        "subj.pres": ["condamne", "condamnes", "condamne", "condamnions", "condamniez", "condamnent"],
+        "subj.imp": ["condamnasse", "condamnasses", "condamnât", "condamnassions", "condamnassiez", "condamnassent"],
+        "imper.pres": ["condamne", "condamnons", "condamnez"]
+      },
+      "participe_present": "condamnant",
+      "participe_passe": ["condamné", "condamnée", "condamnés", "condamnées"]
     }
   ]
 }
