@@ -7005,6 +7005,24 @@
       },
       "participe_present": "éclairant",
       "participe_passe": ["éclairé", "éclairée", "éclairés", "éclairées"]
+    },
+    {
+      "id": "agiter",
+      "infinitif": "agiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["agite", "agites", "agite", "agitons", "agitez", "agitent"],
+        "ind.imp": ["agitais", "agitais", "agitait", "agitions", "agitiez", "agitaient"],
+        "ind.ps": ["agitai", "agitas", "agita", "agitâmes", "agitâtes", "agitèrent"],
+        "ind.fut": ["agiterai", "agiteras", "agitera", "agiterons", "agiterez", "agiteront"],
+        "cond.pres": ["agiterais", "agiterais", "agiterait", "agiterions", "agiteriez", "agiteraient"],
+        "subj.pres": ["agite", "agites", "agite", "agitions", "agitiez", "agitent"],
+        "subj.imp": ["agitasse", "agitasses", "agitât", "agitassions", "agitassiez", "agitassent"],
+        "imper.pres": ["agite", "agitons", "agitez"]
+      },
+      "participe_present": "agitant",
+      "participe_passe": ["agité", "agitée", "agités", "agitées"]
     }
   ]
 }
