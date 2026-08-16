@@ -24643,6 +24643,24 @@
       },
       "participe_present": "contaminant",
       "participe_passe": ["contaminé", "contaminée", "contaminés", "contaminées"]
+    },
+    {
+      "id": "saler",
+      "infinitif": "saler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sale", "sales", "sale", "salons", "salez", "salent"],
+        "ind.imp": ["salais", "salais", "salait", "salions", "saliez", "salaient"],
+        "ind.ps": ["salai", "salas", "sala", "salâmes", "salâtes", "salèrent"],
+        "ind.fut": ["salerai", "saleras", "salera", "salerons", "salerez", "saleront"],
+        "cond.pres": ["salerais", "salerais", "salerait", "salerions", "saleriez", "saleraient"],
+        "subj.pres": ["sale", "sales", "sale", "salions", "saliez", "salent"],
+        "subj.imp": ["salasse", "salasses", "salât", "salassions", "salassiez", "salassent"],
+        "imper.pres": ["sale", "salons", "salez"]
+      },
+      "participe_present": "salant",
+      "participe_passe": ["salé", "salée", "salés", "salées"]
     }
   ]
 }
