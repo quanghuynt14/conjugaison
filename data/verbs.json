@@ -6117,6 +6117,24 @@
       },
       "participe_present": "ennuyant",
       "participe_passe": ["ennuyé", "ennuyée", "ennuyés", "ennuyées"]
+    },
+    {
+      "id": "moquer",
+      "infinitif": "moquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["moque", "moques", "moque", "moquons", "moquez", "moquent"],
+        "ind.imp": ["moquais", "moquais", "moquait", "moquions", "moquiez", "moquaient"],
+        "ind.ps": ["moquai", "moquas", "moqua", "moquâmes", "moquâtes", "moquèrent"],
+        "ind.fut": ["moquerai", "moqueras", "moquera", "moquerons", "moquerez", "moqueront"],
+        "cond.pres": ["moquerais", "moquerais", "moquerait", "moquerions", "moqueriez", "moqueraient"],
+        "subj.pres": ["moque", "moques", "moque", "moquions", "moquiez", "moquent"],
+        "subj.imp": ["moquasse", "moquasses", "moquât", "moquassions", "moquassiez", "moquassent"],
+        "imper.pres": ["moque", "moquons", "moquez"]
+      },
+      "participe_present": "moquant",
+      "participe_passe": ["moqué", "moquée", "moqués", "moquées"]
     }
   ]
 }
