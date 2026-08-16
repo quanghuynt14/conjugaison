@@ -14718,6 +14718,24 @@
       },
       "participe_present": "fendant",
       "participe_passe": ["fendu", "fendue", "fendus", "fendues"]
+    },
+    {
+      "id": "atterrir",
+      "infinitif": "atterrir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["atterris", "atterris", "atterrit", "atterrissons", "atterrissez", "atterrissent"],
+        "ind.imp": ["atterrissais", "atterrissais", "atterrissait", "atterrissions", "atterrissiez", "atterrissaient"],
+        "ind.ps": ["atterris", "atterris", "atterrit", "atterrîmes", "atterrîtes", "atterrirent"],
+        "ind.fut": ["atterrirai", "atterriras", "atterrira", "atterrirons", "atterrirez", "atterriront"],
+        "cond.pres": ["atterrirais", "atterrirais", "atterrirait", "atterririons", "atterririez", "atterriraient"],
+        "subj.pres": ["atterrisse", "atterrisses", "atterrisse", "atterrissions", "atterrissiez", "atterrissent"],
+        "subj.imp": ["atterrisse", "atterrisses", "atterrît", "atterrissions", "atterrissiez", "atterrissent"],
+        "imper.pres": ["atterris", "atterrissons", "atterrissez"]
+      },
+      "participe_present": "atterrissant",
+      "participe_passe": ["atterri", "atterrie", "atterris", "atterries"]
     }
   ]
 }
