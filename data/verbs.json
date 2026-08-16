@@ -8181,6 +8181,25 @@
       },
       "participe_present": "repoussant",
       "participe_passe": ["repoussé", "repoussée", "repoussés", "repoussées"]
+    },
+    {
+      "id": "céder",
+      "infinitif": "céder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je céderai » ou « je cèderai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["cède", "cèdes", "cède", "cédons", "cédez", "cèdent"],
+        "ind.imp": ["cédais", "cédais", "cédait", "cédions", "cédiez", "cédaient"],
+        "ind.ps": ["cédai", "cédas", "céda", "cédâmes", "cédâtes", "cédèrent"],
+        "ind.fut": [["céderai", "cèderai"], ["céderas", "cèderas"], ["cédera", "cèdera"], ["céderons", "cèderons"], ["céderez", "cèderez"], ["céderont", "cèderont"]],
+        "cond.pres": [["céderais", "cèderais"], ["céderais", "cèderais"], ["céderait", "cèderait"], ["céderions", "cèderions"], ["céderiez", "cèderiez"], ["céderaient", "cèderaient"]],
+        "subj.pres": ["cède", "cèdes", "cède", "cédions", "cédiez", "cèdent"],
+        "subj.imp": ["cédasse", "cédasses", "cédât", "cédassions", "cédassiez", "cédassent"],
+        "imper.pres": ["cède", "cédons", "cédez"]
+      },
+      "participe_present": "cédant",
+      "participe_passe": ["cédé", "cédée", "cédés", "cédées"]
     }
   ]
 }
