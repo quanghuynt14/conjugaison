@@ -29235,6 +29235,25 @@
       },
       "participe_present": "flirtant",
       "participe_passe": ["flirté", null, null, null]
+    },
+    {
+      "id": "pouffer",
+      "infinitif": "pouffer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « pouffé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["pouffe", "pouffes", "pouffe", "pouffons", "pouffez", "pouffent"],
+        "ind.imp": ["pouffais", "pouffais", "pouffait", "pouffions", "pouffiez", "pouffaient"],
+        "ind.ps": ["pouffai", "pouffas", "pouffa", "pouffâmes", "pouffâtes", "pouffèrent"],
+        "ind.fut": ["poufferai", "poufferas", "pouffera", "poufferons", "poufferez", "poufferont"],
+        "cond.pres": ["poufferais", "poufferais", "poufferait", "poufferions", "poufferiez", "poufferaient"],
+        "subj.pres": ["pouffe", "pouffes", "pouffe", "pouffions", "pouffiez", "pouffent"],
+        "subj.imp": ["pouffasse", "pouffasses", "pouffât", "pouffassions", "pouffassiez", "pouffassent"],
+        "imper.pres": ["pouffe", "pouffons", "pouffez"]
+      },
+      "participe_present": "pouffant",
+      "participe_passe": ["pouffé", null, null, null]
     }
   ]
 }
