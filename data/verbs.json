@@ -19287,6 +19287,24 @@
       },
       "participe_present": "chopant",
       "participe_passe": ["chopé", "chopée", "chopés", "chopées"]
+    },
+    {
+      "id": "faufiler",
+      "infinitif": "faufiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["faufile", "faufiles", "faufile", "faufilons", "faufilez", "faufilent"],
+        "ind.imp": ["faufilais", "faufilais", "faufilait", "faufilions", "faufiliez", "faufilaient"],
+        "ind.ps": ["faufilai", "faufilas", "faufila", "faufilâmes", "faufilâtes", "faufilèrent"],
+        "ind.fut": ["faufilerai", "faufileras", "faufilera", "faufilerons", "faufilerez", "faufileront"],
+        "cond.pres": ["faufilerais", "faufilerais", "faufilerait", "faufilerions", "faufileriez", "faufileraient"],
+        "subj.pres": ["faufile", "faufiles", "faufile", "faufilions", "faufiliez", "faufilent"],
+        "subj.imp": ["faufilasse", "faufilasses", "faufilât", "faufilassions", "faufilassiez", "faufilassent"],
+        "imper.pres": ["faufile", "faufilons", "faufilez"]
+      },
+      "participe_present": "faufilant",
+      "participe_passe": ["faufilé", "faufilée", "faufilés", "faufilées"]
     }
   ]
 }
