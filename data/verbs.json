@@ -13628,6 +13628,24 @@
       },
       "participe_present": "consentant",
       "participe_passe": ["consenti", "consentie", "consentis", "consenties"]
+    },
+    {
+      "id": "geler",
+      "infinitif": "geler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gèle", "gèles", "gèle", "gelons", "gelez", "gèlent"],
+        "ind.imp": ["gelais", "gelais", "gelait", "gelions", "geliez", "gelaient"],
+        "ind.ps": ["gelai", "gelas", "gela", "gelâmes", "gelâtes", "gelèrent"],
+        "ind.fut": ["gèlerai", "gèleras", "gèlera", "gèlerons", "gèlerez", "gèleront"],
+        "cond.pres": ["gèlerais", "gèlerais", "gèlerait", "gèlerions", "gèleriez", "gèleraient"],
+        "subj.pres": ["gèle", "gèles", "gèle", "gelions", "geliez", "gèlent"],
+        "subj.imp": ["gelasse", "gelasses", "gelât", "gelassions", "gelassiez", "gelassent"],
+        "imper.pres": ["gèle", "gelons", "gelez"]
+      },
+      "participe_present": "gelant",
+      "participe_passe": ["gelé", "gelée", "gelés", "gelées"]
     }
   ]
 }
