@@ -28358,6 +28358,24 @@
       },
       "participe_present": "saccageant",
       "participe_passe": ["saccagé", "saccagée", "saccagés", "saccagées"]
+    },
+    {
+      "id": "décapiter",
+      "infinitif": "décapiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décapite", "décapites", "décapite", "décapitons", "décapitez", "décapitent"],
+        "ind.imp": ["décapitais", "décapitais", "décapitait", "décapitions", "décapitiez", "décapitaient"],
+        "ind.ps": ["décapitai", "décapitas", "décapita", "décapitâmes", "décapitâtes", "décapitèrent"],
+        "ind.fut": ["décapiterai", "décapiteras", "décapitera", "décapiterons", "décapiterez", "décapiteront"],
+        "cond.pres": ["décapiterais", "décapiterais", "décapiterait", "décapiterions", "décapiteriez", "décapiteraient"],
+        "subj.pres": ["décapite", "décapites", "décapite", "décapitions", "décapitiez", "décapitent"],
+        "subj.imp": ["décapitasse", "décapitasses", "décapitât", "décapitassions", "décapitassiez", "décapitassent"],
+        "imper.pres": ["décapite", "décapitons", "décapitez"]
+      },
+      "participe_present": "décapitant",
+      "participe_passe": ["décapité", "décapitée", "décapités", "décapitées"]
     }
   ]
 }
