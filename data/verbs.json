@@ -11172,6 +11172,24 @@
       },
       "participe_present": "publiant",
       "participe_passe": ["publié", "publiée", "publiés", "publiées"]
+    },
+    {
+      "id": "puer",
+      "infinitif": "puer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pue", "pues", "pue", "puons", "puez", "puent"],
+        "ind.imp": ["puais", "puais", "puait", "puions", "puiez", "puaient"],
+        "ind.ps": ["puai", "puas", "pua", "puâmes", "puâtes", "puèrent"],
+        "ind.fut": ["puerai", "pueras", "puera", "puerons", "puerez", "pueront"],
+        "cond.pres": ["puerais", "puerais", "puerait", "puerions", "pueriez", "pueraient"],
+        "subj.pres": ["pue", "pues", "pue", "puions", "puiez", "puent"],
+        "subj.imp": ["puasse", "puasses", "puât", "puassions", "puassiez", "puassent"],
+        "imper.pres": ["pue", "puons", "puez"]
+      },
+      "participe_present": "puant",
+      "participe_passe": ["pué", "puée", "pués", "puées"]
     }
   ]
 }
