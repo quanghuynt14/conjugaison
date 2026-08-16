@@ -4612,6 +4612,24 @@
       },
       "participe_present": "supportant",
       "participe_passe": ["supporté", "supportée", "supportés", "supportées"]
+    },
+    {
+      "id": "appuyer",
+      "infinitif": "appuyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["appuie", "appuies", "appuie", "appuyons", "appuyez", "appuient"],
+        "ind.imp": ["appuyais", "appuyais", "appuyait", "appuyions", "appuyiez", "appuyaient"],
+        "ind.ps": ["appuyai", "appuyas", "appuya", "appuyâmes", "appuyâtes", "appuyèrent"],
+        "ind.fut": ["appuierai", "appuieras", "appuiera", "appuierons", "appuierez", "appuieront"],
+        "cond.pres": ["appuierais", "appuierais", "appuierait", "appuierions", "appuieriez", "appuieraient"],
+        "subj.pres": ["appuie", "appuies", "appuie", "appuyions", "appuyiez", "appuient"],
+        "subj.imp": ["appuyasse", "appuyasses", "appuyât", "appuyassions", "appuyassiez", "appuyassent"],
+        "imper.pres": ["appuie", "appuyons", "appuyez"]
+      },
+      "participe_present": "appuyant",
+      "participe_passe": ["appuyé", "appuyée", "appuyés", "appuyées"]
     }
   ]
 }
