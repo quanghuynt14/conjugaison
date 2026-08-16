@@ -11226,6 +11226,24 @@
       },
       "participe_present": "consultant",
       "participe_passe": ["consulté", "consultée", "consultés", "consultées"]
+    },
+    {
+      "id": "entreprendre",
+      "infinitif": "entreprendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entreprends", "entreprends", "entreprend", "entreprenons", "entreprenez", "entreprennent"],
+        "ind.imp": ["entreprenais", "entreprenais", "entreprenait", "entreprenions", "entrepreniez", "entreprenaient"],
+        "ind.ps": ["entrepris", "entrepris", "entreprit", "entreprîmes", "entreprîtes", "entreprirent"],
+        "ind.fut": ["entreprendrai", "entreprendras", "entreprendra", "entreprendrons", "entreprendrez", "entreprendront"],
+        "cond.pres": ["entreprendrais", "entreprendrais", "entreprendrait", "entreprendrions", "entreprendriez", "entreprendraient"],
+        "subj.pres": ["entreprenne", "entreprennes", "entreprenne", "entreprenions", "entrepreniez", "entreprennent"],
+        "subj.imp": ["entreprisse", "entreprisses", "entreprît", "entreprissions", "entreprissiez", "entreprissent"],
+        "imper.pres": ["entreprends", "entreprenons", "entreprenez"]
+      },
+      "participe_present": "entreprenant",
+      "participe_passe": ["entrepris", "entreprise", "entrepris", "entreprises"]
     }
   ]
 }
