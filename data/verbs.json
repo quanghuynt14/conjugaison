@@ -14934,6 +14934,24 @@
       },
       "participe_present": "relâchant",
       "participe_passe": ["relâché", "relâchée", "relâchés", "relâchées"]
+    },
+    {
+      "id": "rétablir",
+      "infinitif": "rétablir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rétablis", "rétablis", "rétablit", "rétablissons", "rétablissez", "rétablissent"],
+        "ind.imp": ["rétablissais", "rétablissais", "rétablissait", "rétablissions", "rétablissiez", "rétablissaient"],
+        "ind.ps": ["rétablis", "rétablis", "rétablit", "rétablîmes", "rétablîtes", "rétablirent"],
+        "ind.fut": ["rétablirai", "rétabliras", "rétablira", "rétablirons", "rétablirez", "rétabliront"],
+        "cond.pres": ["rétablirais", "rétablirais", "rétablirait", "rétablirions", "rétabliriez", "rétabliraient"],
+        "subj.pres": ["rétablisse", "rétablisses", "rétablisse", "rétablissions", "rétablissiez", "rétablissent"],
+        "subj.imp": ["rétablisse", "rétablisses", "rétablît", "rétablissions", "rétablissiez", "rétablissent"],
+        "imper.pres": ["rétablis", "rétablissons", "rétablissez"]
+      },
+      "participe_present": "rétablissant",
+      "participe_passe": ["rétabli", "rétablie", "rétablis", "rétablies"]
     }
   ]
 }
