@@ -12100,6 +12100,24 @@
       },
       "participe_present": "bourrant",
       "participe_passe": ["bourré", "bourrée", "bourrés", "bourrées"]
+    },
+    {
+      "id": "vomir",
+      "infinitif": "vomir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vomis", "vomis", "vomit", "vomissons", "vomissez", "vomissent"],
+        "ind.imp": ["vomissais", "vomissais", "vomissait", "vomissions", "vomissiez", "vomissaient"],
+        "ind.ps": ["vomis", "vomis", "vomit", "vomîmes", "vomîtes", "vomirent"],
+        "ind.fut": ["vomirai", "vomiras", "vomira", "vomirons", "vomirez", "vomiront"],
+        "cond.pres": ["vomirais", "vomirais", "vomirait", "vomirions", "vomiriez", "vomiraient"],
+        "subj.pres": ["vomisse", "vomisses", "vomisse", "vomissions", "vomissiez", "vomissent"],
+        "subj.imp": ["vomisse", "vomisses", "vomît", "vomissions", "vomissiez", "vomissent"],
+        "imper.pres": ["vomis", "vomissons", "vomissez"]
+      },
+      "participe_present": "vomissant",
+      "participe_passe": ["vomi", "vomie", "vomis", "vomies"]
     }
   ]
 }
