@@ -12845,6 +12845,24 @@
       },
       "participe_present": "garant",
       "participe_passe": ["garé", "garée", "garés", "garées"]
+    },
+    {
+      "id": "redouter",
+      "infinitif": "redouter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["redoute", "redoutes", "redoute", "redoutons", "redoutez", "redoutent"],
+        "ind.imp": ["redoutais", "redoutais", "redoutait", "redoutions", "redoutiez", "redoutaient"],
+        "ind.ps": ["redoutai", "redoutas", "redouta", "redoutâmes", "redoutâtes", "redoutèrent"],
+        "ind.fut": ["redouterai", "redouteras", "redoutera", "redouterons", "redouterez", "redouteront"],
+        "cond.pres": ["redouterais", "redouterais", "redouterait", "redouterions", "redouteriez", "redouteraient"],
+        "subj.pres": ["redoute", "redoutes", "redoute", "redoutions", "redoutiez", "redoutent"],
+        "subj.imp": ["redoutasse", "redoutasses", "redoutât", "redoutassions", "redoutassiez", "redoutassent"],
+        "imper.pres": ["redoute", "redoutons", "redoutez"]
+      },
+      "participe_present": "redoutant",
+      "participe_passe": ["redouté", "redoutée", "redoutés", "redoutées"]
     }
   ]
 }
