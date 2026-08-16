@@ -28322,6 +28322,24 @@
       },
       "participe_present": "mimant",
       "participe_passe": ["mimé", "mimée", "mimés", "mimées"]
+    },
+    {
+      "id": "atteler",
+      "infinitif": "atteler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["attelle", "attelles", "attelle", "attelons", "attelez", "attellent"],
+        "ind.imp": ["attelais", "attelais", "attelait", "attelions", "atteliez", "attelaient"],
+        "ind.ps": ["attelai", "attelas", "attela", "attelâmes", "attelâtes", "attelèrent"],
+        "ind.fut": ["attellerai", "attelleras", "attellera", "attellerons", "attellerez", "attelleront"],
+        "cond.pres": ["attellerais", "attellerais", "attellerait", "attellerions", "attelleriez", "attelleraient"],
+        "subj.pres": ["attelle", "attelles", "attelle", "attelions", "atteliez", "attellent"],
+        "subj.imp": ["attelasse", "attelasses", "attelât", "attelassions", "attelassiez", "attelassent"],
+        "imper.pres": ["attelle", "attelons", "attelez"]
+      },
+      "participe_present": "attelant",
+      "participe_passe": ["attelé", "attelée", "attelés", "attelées"]
     }
   ]
 }
