@@ -8975,6 +8975,24 @@
       },
       "participe_present": "soupirant",
       "participe_passe": ["soupiré", "soupirée", "soupirés", "soupirées"]
+    },
+    {
+      "id": "envahir",
+      "infinitif": "envahir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["envahis", "envahis", "envahit", "envahissons", "envahissez", "envahissent"],
+        "ind.imp": ["envahissais", "envahissais", "envahissait", "envahissions", "envahissiez", "envahissaient"],
+        "ind.ps": ["envahis", "envahis", "envahit", "envahîmes", "envahîtes", "envahirent"],
+        "ind.fut": ["envahirai", "envahiras", "envahira", "envahirons", "envahirez", "envahiront"],
+        "cond.pres": ["envahirais", "envahirais", "envahirait", "envahirions", "envahiriez", "envahiraient"],
+        "subj.pres": ["envahisse", "envahisses", "envahisse", "envahissions", "envahissiez", "envahissent"],
+        "subj.imp": ["envahisse", "envahisses", "envahît", "envahissions", "envahissiez", "envahissent"],
+        "imper.pres": ["envahis", "envahissons", "envahissez"]
+      },
+      "participe_present": "envahissant",
+      "participe_passe": ["envahi", "envahie", "envahis", "envahies"]
     }
   ]
 }
