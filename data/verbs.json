@@ -29765,6 +29765,25 @@
       },
       "participe_present": "aspergeant",
       "participe_passe": ["aspergé", "aspergée", "aspergés", "aspergées"]
+    },
+    {
+      "id": "languir",
+      "infinitif": "languir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « langui » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["languis", "languis", "languit", "languissons", "languissez", "languissent"],
+        "ind.imp": ["languissais", "languissais", "languissait", "languissions", "languissiez", "languissaient"],
+        "ind.ps": ["languis", "languis", "languit", "languîmes", "languîtes", "languirent"],
+        "ind.fut": ["languirai", "languiras", "languira", "languirons", "languirez", "languiront"],
+        "cond.pres": ["languirais", "languirais", "languirait", "languirions", "languiriez", "languiraient"],
+        "subj.pres": ["languisse", "languisses", "languisse", "languissions", "languissiez", "languissent"],
+        "subj.imp": ["languisse", "languisses", "languît", "languissions", "languissiez", "languissent"],
+        "imper.pres": ["languis", "languissons", "languissez"]
+      },
+      "participe_present": "languissant",
+      "participe_passe": ["langui", null, null, null]
     }
   ]
 }
