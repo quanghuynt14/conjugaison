@@ -295,6 +295,25 @@
       },
       "participe_present": null,
       "participe_passe": ["fallu", null, null, null]
+    },
+    {
+      "id": "passer",
+      "infinitif": "passer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis passé ». Avec un complément d'objet direct, avoir : « j'ai passé un examen ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["passe", "passes", "passe", "passons", "passez", "passent"],
+        "ind.imp": ["passais", "passais", "passait", "passions", "passiez", "passaient"],
+        "ind.ps": ["passai", "passas", "passa", "passâmes", "passâtes", "passèrent"],
+        "ind.fut": ["passerai", "passeras", "passera", "passerons", "passerez", "passeront"],
+        "cond.pres": ["passerais", "passerais", "passerait", "passerions", "passeriez", "passeraient"],
+        "subj.pres": ["passe", "passes", "passe", "passions", "passiez", "passent"],
+        "subj.imp": ["passasse", "passasses", "passât", "passassions", "passassiez", "passassent"],
+        "imper.pres": ["passe", "passons", "passez"]
+      },
+      "participe_present": "passant",
+      "participe_passe": ["passé", "passée", "passés", "passées"]
     }
   ]
 }
