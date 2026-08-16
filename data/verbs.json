@@ -28340,6 +28340,24 @@
       },
       "participe_present": "attelant",
       "participe_passe": ["attelé", "attelée", "attelés", "attelées"]
+    },
+    {
+      "id": "saccager",
+      "infinitif": "saccager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["saccage", "saccages", "saccage", "saccageons", "saccagez", "saccagent"],
+        "ind.imp": ["saccageais", "saccageais", "saccageait", "saccagions", "saccagiez", "saccageaient"],
+        "ind.ps": ["saccageai", "saccageas", "saccagea", "saccageâmes", "saccageâtes", "saccagèrent"],
+        "ind.fut": ["saccagerai", "saccageras", "saccagera", "saccagerons", "saccagerez", "saccageront"],
+        "cond.pres": ["saccagerais", "saccagerais", "saccagerait", "saccagerions", "saccageriez", "saccageraient"],
+        "subj.pres": ["saccage", "saccages", "saccage", "saccagions", "saccagiez", "saccagent"],
+        "subj.imp": ["saccageasse", "saccageasses", "saccageât", "saccageassions", "saccageassiez", "saccageassent"],
+        "imper.pres": ["saccage", "saccageons", "saccagez"]
+      },
+      "participe_present": "saccageant",
+      "participe_passe": ["saccagé", "saccagée", "saccagés", "saccagées"]
     }
   ]
 }
