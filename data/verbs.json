@@ -29106,6 +29106,24 @@
       },
       "participe_present": "flânant",
       "participe_passe": ["flâné", null, null, null]
+    },
+    {
+      "id": "métamorphoser",
+      "infinitif": "métamorphoser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["métamorphose", "métamorphoses", "métamorphose", "métamorphosons", "métamorphosez", "métamorphosent"],
+        "ind.imp": ["métamorphosais", "métamorphosais", "métamorphosait", "métamorphosions", "métamorphosiez", "métamorphosaient"],
+        "ind.ps": ["métamorphosai", "métamorphosas", "métamorphosa", "métamorphosâmes", "métamorphosâtes", "métamorphosèrent"],
+        "ind.fut": ["métamorphoserai", "métamorphoseras", "métamorphosera", "métamorphoserons", "métamorphoserez", "métamorphoseront"],
+        "cond.pres": ["métamorphoserais", "métamorphoserais", "métamorphoserait", "métamorphoserions", "métamorphoseriez", "métamorphoseraient"],
+        "subj.pres": ["métamorphose", "métamorphoses", "métamorphose", "métamorphosions", "métamorphosiez", "métamorphosent"],
+        "subj.imp": ["métamorphosasse", "métamorphosasses", "métamorphosât", "métamorphosassions", "métamorphosassiez", "métamorphosassent"],
+        "imper.pres": ["métamorphose", "métamorphosons", "métamorphosez"]
+      },
+      "participe_present": "métamorphosant",
+      "participe_passe": ["métamorphosé", "métamorphosée", "métamorphosés", "métamorphosées"]
     }
   ]
 }
