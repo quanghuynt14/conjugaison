@@ -2368,6 +2368,24 @@
       },
       "participe_present": "frappant",
       "participe_passe": ["frappé", "frappée", "frappés", "frappées"]
+    },
+    {
+      "id": "voler",
+      "infinitif": "voler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vole", "voles", "vole", "volons", "volez", "volent"],
+        "ind.imp": ["volais", "volais", "volait", "volions", "voliez", "volaient"],
+        "ind.ps": ["volai", "volas", "vola", "volâmes", "volâtes", "volèrent"],
+        "ind.fut": ["volerai", "voleras", "volera", "volerons", "volerez", "voleront"],
+        "cond.pres": ["volerais", "volerais", "volerait", "volerions", "voleriez", "voleraient"],
+        "subj.pres": ["vole", "voles", "vole", "volions", "voliez", "volent"],
+        "subj.imp": ["volasse", "volasses", "volât", "volassions", "volassiez", "volassent"],
+        "imper.pres": ["vole", "volons", "volez"]
+      },
+      "participe_present": "volant",
+      "participe_passe": ["volé", "volée", "volés", "volées"]
     }
   ]
 }
