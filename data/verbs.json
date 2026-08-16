@@ -34267,6 +34267,24 @@
       },
       "participe_present": "dévêtant",
       "participe_passe": ["dévêtu", "dévêtue", "dévêtus", "dévêtues"]
+    },
+    {
+      "id": "rythmer",
+      "infinitif": "rythmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rythme", "rythmes", "rythme", "rythmons", "rythmez", "rythment"],
+        "ind.imp": ["rythmais", "rythmais", "rythmait", "rythmions", "rythmiez", "rythmaient"],
+        "ind.ps": ["rythmai", "rythmas", "rythma", "rythmâmes", "rythmâtes", "rythmèrent"],
+        "ind.fut": ["rythmerai", "rythmeras", "rythmera", "rythmerons", "rythmerez", "rythmeront"],
+        "cond.pres": ["rythmerais", "rythmerais", "rythmerait", "rythmerions", "rythmeriez", "rythmeraient"],
+        "subj.pres": ["rythme", "rythmes", "rythme", "rythmions", "rythmiez", "rythment"],
+        "subj.imp": ["rythmasse", "rythmasses", "rythmât", "rythmassions", "rythmassiez", "rythmassent"],
+        "imper.pres": ["rythme", "rythmons", "rythmez"]
+      },
+      "participe_present": "rythmant",
+      "participe_passe": ["rythmé", "rythmée", "rythmés", "rythmées"]
     }
   ]
 }
