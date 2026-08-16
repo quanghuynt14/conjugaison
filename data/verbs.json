@@ -15860,6 +15860,25 @@
       },
       "participe_present": "améliorant",
       "participe_passe": ["amélioré", "améliorée", "améliorés", "améliorées"]
+    },
+    {
+      "id": "ramper",
+      "infinitif": "ramper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « rampé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["rampe", "rampes", "rampe", "rampons", "rampez", "rampent"],
+        "ind.imp": ["rampais", "rampais", "rampait", "rampions", "rampiez", "rampaient"],
+        "ind.ps": ["rampai", "rampas", "rampa", "rampâmes", "rampâtes", "rampèrent"],
+        "ind.fut": ["ramperai", "ramperas", "rampera", "ramperons", "ramperez", "ramperont"],
+        "cond.pres": ["ramperais", "ramperais", "ramperait", "ramperions", "ramperiez", "ramperaient"],
+        "subj.pres": ["rampe", "rampes", "rampe", "rampions", "rampiez", "rampent"],
+        "subj.imp": ["rampasse", "rampasses", "rampât", "rampassions", "rampassiez", "rampassent"],
+        "imper.pres": ["rampe", "rampons", "rampez"]
+      },
+      "participe_present": "rampant",
+      "participe_passe": ["rampé", null, null, null]
     }
   ]
 }
