@@ -26045,6 +26045,24 @@
       },
       "participe_present": "déferlant",
       "participe_passe": ["déferlé", "déferlée", "déferlés", "déferlées"]
+    },
+    {
+      "id": "blaguer",
+      "infinitif": "blaguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["blague", "blagues", "blague", "blaguons", "blaguez", "blaguent"],
+        "ind.imp": ["blaguais", "blaguais", "blaguait", "blaguions", "blaguiez", "blaguaient"],
+        "ind.ps": ["blaguai", "blaguas", "blagua", "blaguâmes", "blaguâtes", "blaguèrent"],
+        "ind.fut": ["blaguerai", "blagueras", "blaguera", "blaguerons", "blaguerez", "blagueront"],
+        "cond.pres": ["blaguerais", "blaguerais", "blaguerait", "blaguerions", "blagueriez", "blagueraient"],
+        "subj.pres": ["blague", "blagues", "blague", "blaguions", "blaguiez", "blaguent"],
+        "subj.imp": ["blaguasse", "blaguasses", "blaguât", "blaguassions", "blaguassiez", "blaguassent"],
+        "imper.pres": ["blague", "blaguons", "blaguez"]
+      },
+      "participe_present": "blaguant",
+      "participe_passe": ["blagué", "blaguée", "blagués", "blaguées"]
     }
   ]
 }
