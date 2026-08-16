@@ -838,6 +838,24 @@
       },
       "participe_present": "essayant",
       "participe_passe": ["essayé", "essayée", "essayés", "essayées"]
+    },
+    {
+      "id": "perdre",
+      "infinitif": "perdre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["perds", "perds", "perd", "perdons", "perdez", "perdent"],
+        "ind.imp": ["perdais", "perdais", "perdait", "perdions", "perdiez", "perdaient"],
+        "ind.ps": ["perdis", "perdis", "perdit", "perdîmes", "perdîtes", "perdirent"],
+        "ind.fut": ["perdrai", "perdras", "perdra", "perdrons", "perdrez", "perdront"],
+        "cond.pres": ["perdrais", "perdrais", "perdrait", "perdrions", "perdriez", "perdraient"],
+        "subj.pres": ["perde", "perdes", "perde", "perdions", "perdiez", "perdent"],
+        "subj.imp": ["perdisse", "perdisses", "perdît", "perdissions", "perdissiez", "perdissent"],
+        "imper.pres": ["perds", "perdons", "perdez"]
+      },
+      "participe_present": "perdant",
+      "participe_passe": ["perdu", "perdue", "perdus", "perdues"]
     }
   ]
 }
