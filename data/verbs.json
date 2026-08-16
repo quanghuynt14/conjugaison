@@ -36225,6 +36225,24 @@
       },
       "participe_present": "démenant",
       "participe_passe": ["démené", "démenée", "démenés", "démenées"]
+    },
+    {
+      "id": "mordiller",
+      "infinitif": "mordiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mordille", "mordilles", "mordille", "mordillons", "mordillez", "mordillent"],
+        "ind.imp": ["mordillais", "mordillais", "mordillait", "mordillions", "mordilliez", "mordillaient"],
+        "ind.ps": ["mordillai", "mordillas", "mordilla", "mordillâmes", "mordillâtes", "mordillèrent"],
+        "ind.fut": ["mordillerai", "mordilleras", "mordillera", "mordillerons", "mordillerez", "mordilleront"],
+        "cond.pres": ["mordillerais", "mordillerais", "mordillerait", "mordillerions", "mordilleriez", "mordilleraient"],
+        "subj.pres": ["mordille", "mordilles", "mordille", "mordillions", "mordilliez", "mordillent"],
+        "subj.imp": ["mordillasse", "mordillasses", "mordillât", "mordillassions", "mordillassiez", "mordillassent"],
+        "imper.pres": ["mordille", "mordillons", "mordillez"]
+      },
+      "participe_present": "mordillant",
+      "participe_passe": ["mordillé", "mordillée", "mordillés", "mordillées"]
     }
   ]
 }
