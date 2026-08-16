@@ -23363,6 +23363,24 @@
       },
       "participe_present": "évaluant",
       "participe_passe": ["évalué", "évaluée", "évalués", "évaluées"]
+    },
+    {
+      "id": "flinguer",
+      "infinitif": "flinguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["flingue", "flingues", "flingue", "flinguons", "flinguez", "flinguent"],
+        "ind.imp": ["flinguais", "flinguais", "flinguait", "flinguions", "flinguiez", "flinguaient"],
+        "ind.ps": ["flinguai", "flinguas", "flingua", "flinguâmes", "flinguâtes", "flinguèrent"],
+        "ind.fut": ["flinguerai", "flingueras", "flinguera", "flinguerons", "flinguerez", "flingueront"],
+        "cond.pres": ["flinguerais", "flinguerais", "flinguerait", "flinguerions", "flingueriez", "flingueraient"],
+        "subj.pres": ["flingue", "flingues", "flingue", "flinguions", "flinguiez", "flinguent"],
+        "subj.imp": ["flinguasse", "flinguasses", "flinguât", "flinguassions", "flinguassiez", "flinguassent"],
+        "imper.pres": ["flingue", "flinguons", "flinguez"]
+      },
+      "participe_present": "flinguant",
+      "participe_passe": ["flingué", "flinguée", "flingués", "flinguées"]
     }
   ]
 }
