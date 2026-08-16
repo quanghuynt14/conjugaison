@@ -20785,6 +20785,25 @@
       },
       "participe_present": "engouffrant",
       "participe_passe": ["engouffré", "engouffrée", "engouffrés", "engouffrées"]
+    },
+    {
+      "id": "subsister",
+      "infinitif": "subsister",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « subsisté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["subsiste", "subsistes", "subsiste", "subsistons", "subsistez", "subsistent"],
+        "ind.imp": ["subsistais", "subsistais", "subsistait", "subsistions", "subsistiez", "subsistaient"],
+        "ind.ps": ["subsistai", "subsistas", "subsista", "subsistâmes", "subsistâtes", "subsistèrent"],
+        "ind.fut": ["subsisterai", "subsisteras", "subsistera", "subsisterons", "subsisterez", "subsisteront"],
+        "cond.pres": ["subsisterais", "subsisterais", "subsisterait", "subsisterions", "subsisteriez", "subsisteraient"],
+        "subj.pres": ["subsiste", "subsistes", "subsiste", "subsistions", "subsistiez", "subsistent"],
+        "subj.imp": ["subsistasse", "subsistasses", "subsistât", "subsistassions", "subsistassiez", "subsistassent"],
+        "imper.pres": ["subsiste", "subsistons", "subsistez"]
+      },
+      "participe_present": "subsistant",
+      "participe_passe": ["subsisté", null, null, null]
     }
   ]
 }
