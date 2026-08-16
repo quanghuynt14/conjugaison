@@ -27429,6 +27429,25 @@
       },
       "participe_present": "arpentant",
       "participe_passe": ["arpenté", "arpentée", "arpentés", "arpentées"]
+    },
+    {
+      "id": "grelotter",
+      "infinitif": "grelotter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « grelotté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["grelotte", "grelottes", "grelotte", "grelottons", "grelottez", "grelottent"],
+        "ind.imp": ["grelottais", "grelottais", "grelottait", "grelottions", "grelottiez", "grelottaient"],
+        "ind.ps": ["grelottai", "grelottas", "grelotta", "grelottâmes", "grelottâtes", "grelottèrent"],
+        "ind.fut": ["grelotterai", "grelotteras", "grelottera", "grelotterons", "grelotterez", "grelotteront"],
+        "cond.pres": ["grelotterais", "grelotterais", "grelotterait", "grelotterions", "grelotteriez", "grelotteraient"],
+        "subj.pres": ["grelotte", "grelottes", "grelotte", "grelottions", "grelottiez", "grelottent"],
+        "subj.imp": ["grelottasse", "grelottasses", "grelottât", "grelottassions", "grelottassiez", "grelottassent"],
+        "imper.pres": ["grelotte", "grelottons", "grelottez"]
+      },
+      "participe_present": "grelottant",
+      "participe_passe": ["grelotté", null, null, null]
     }
   ]
 }
