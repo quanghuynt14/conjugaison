@@ -11609,6 +11609,24 @@
       },
       "participe_present": "comparant",
       "participe_passe": ["comparé", "comparée", "comparés", "comparées"]
+    },
+    {
+      "id": "envelopper",
+      "infinitif": "envelopper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enveloppe", "enveloppes", "enveloppe", "enveloppons", "enveloppez", "enveloppent"],
+        "ind.imp": ["enveloppais", "enveloppais", "enveloppait", "enveloppions", "enveloppiez", "enveloppaient"],
+        "ind.ps": ["enveloppai", "enveloppas", "enveloppa", "enveloppâmes", "enveloppâtes", "enveloppèrent"],
+        "ind.fut": ["envelopperai", "envelopperas", "enveloppera", "envelopperons", "envelopperez", "envelopperont"],
+        "cond.pres": ["envelopperais", "envelopperais", "envelopperait", "envelopperions", "envelopperiez", "envelopperaient"],
+        "subj.pres": ["enveloppe", "enveloppes", "enveloppe", "enveloppions", "enveloppiez", "enveloppent"],
+        "subj.imp": ["enveloppasse", "enveloppasses", "enveloppât", "enveloppassions", "enveloppassiez", "enveloppassent"],
+        "imper.pres": ["enveloppe", "enveloppons", "enveloppez"]
+      },
+      "participe_present": "enveloppant",
+      "participe_passe": ["enveloppé", "enveloppée", "enveloppés", "enveloppées"]
     }
   ]
 }
