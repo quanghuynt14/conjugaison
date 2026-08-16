@@ -6243,6 +6243,24 @@
       },
       "participe_present": "accordant",
       "participe_passe": ["accordé", "accordée", "accordés", "accordées"]
+    },
+    {
+      "id": "rapporter",
+      "infinitif": "rapporter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rapporte", "rapportes", "rapporte", "rapportons", "rapportez", "rapportent"],
+        "ind.imp": ["rapportais", "rapportais", "rapportait", "rapportions", "rapportiez", "rapportaient"],
+        "ind.ps": ["rapportai", "rapportas", "rapporta", "rapportâmes", "rapportâtes", "rapportèrent"],
+        "ind.fut": ["rapporterai", "rapporteras", "rapportera", "rapporterons", "rapporterez", "rapporteront"],
+        "cond.pres": ["rapporterais", "rapporterais", "rapporterait", "rapporterions", "rapporteriez", "rapporteraient"],
+        "subj.pres": ["rapporte", "rapportes", "rapporte", "rapportions", "rapportiez", "rapportent"],
+        "subj.imp": ["rapportasse", "rapportasses", "rapportât", "rapportassions", "rapportassiez", "rapportassent"],
+        "imper.pres": ["rapporte", "rapportons", "rapportez"]
+      },
+      "participe_present": "rapportant",
+      "participe_passe": ["rapporté", "rapportée", "rapportés", "rapportées"]
     }
   ]
 }
