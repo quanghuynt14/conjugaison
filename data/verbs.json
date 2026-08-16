@@ -258,6 +258,24 @@
       },
       "participe_present": "parlant",
       "participe_passe": ["parlé", "parlée", "parlés", "parlées"]
+    },
+    {
+      "id": "suivre",
+      "infinitif": "suivre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["suis", "suis", "suit", "suivons", "suivez", "suivent"],
+        "ind.imp": ["suivais", "suivais", "suivait", "suivions", "suiviez", "suivaient"],
+        "ind.ps": ["suivis", "suivis", "suivit", "suivîmes", "suivîtes", "suivirent"],
+        "ind.fut": ["suivrai", "suivras", "suivra", "suivrons", "suivrez", "suivront"],
+        "cond.pres": ["suivrais", "suivrais", "suivrait", "suivrions", "suivriez", "suivraient"],
+        "subj.pres": ["suive", "suives", "suive", "suivions", "suiviez", "suivent"],
+        "subj.imp": ["suivisse", "suivisses", "suivît", "suivissions", "suivissiez", "suivissent"],
+        "imper.pres": ["suis", "suivons", "suivez"]
+      },
+      "participe_present": "suivant",
+      "participe_passe": ["suivi", "suivie", "suivis", "suivies"]
     }
   ]
 }
