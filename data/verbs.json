@@ -10811,6 +10811,24 @@
       },
       "participe_present": "identifiant",
       "participe_passe": ["identifié", "identifiée", "identifiés", "identifiées"]
+    },
+    {
+      "id": "incliner",
+      "infinitif": "incliner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["incline", "inclines", "incline", "inclinons", "inclinez", "inclinent"],
+        "ind.imp": ["inclinais", "inclinais", "inclinait", "inclinions", "incliniez", "inclinaient"],
+        "ind.ps": ["inclinai", "inclinas", "inclina", "inclinâmes", "inclinâtes", "inclinèrent"],
+        "ind.fut": ["inclinerai", "inclineras", "inclinera", "inclinerons", "inclinerez", "inclineront"],
+        "cond.pres": ["inclinerais", "inclinerais", "inclinerait", "inclinerions", "inclineriez", "inclineraient"],
+        "subj.pres": ["incline", "inclines", "incline", "inclinions", "incliniez", "inclinent"],
+        "subj.imp": ["inclinasse", "inclinasses", "inclinât", "inclinassions", "inclinassiez", "inclinassent"],
+        "imper.pres": ["incline", "inclinons", "inclinez"]
+      },
+      "participe_present": "inclinant",
+      "participe_passe": ["incliné", "inclinée", "inclinés", "inclinées"]
     }
   ]
 }
