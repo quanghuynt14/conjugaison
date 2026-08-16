@@ -14772,6 +14772,24 @@
       },
       "participe_present": "dégoûtant",
       "participe_passe": ["dégoûté", "dégoûtée", "dégoûtés", "dégoûtées"]
+    },
+    {
+      "id": "honorer",
+      "infinitif": "honorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["honore", "honores", "honore", "honorons", "honorez", "honorent"],
+        "ind.imp": ["honorais", "honorais", "honorait", "honorions", "honoriez", "honoraient"],
+        "ind.ps": ["honorai", "honoras", "honora", "honorâmes", "honorâtes", "honorèrent"],
+        "ind.fut": ["honorerai", "honoreras", "honorera", "honorerons", "honorerez", "honoreront"],
+        "cond.pres": ["honorerais", "honorerais", "honorerait", "honorerions", "honoreriez", "honoreraient"],
+        "subj.pres": ["honore", "honores", "honore", "honorions", "honoriez", "honorent"],
+        "subj.imp": ["honorasse", "honorasses", "honorât", "honorassions", "honorassiez", "honorassent"],
+        "imper.pres": ["honore", "honorons", "honorez"]
+      },
+      "participe_present": "honorant",
+      "participe_passe": ["honoré", "honorée", "honorés", "honorées"]
     }
   ]
 }
