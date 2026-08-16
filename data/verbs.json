@@ -12935,6 +12935,24 @@
       },
       "participe_present": "renseignant",
       "participe_passe": ["renseigné", "renseignée", "renseignés", "renseignées"]
+    },
+    {
+      "id": "envier",
+      "infinitif": "envier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["envie", "envies", "envie", "envions", "enviez", "envient"],
+        "ind.imp": ["enviais", "enviais", "enviait", "enviions", "enviiez", "enviaient"],
+        "ind.ps": ["enviai", "envias", "envia", "enviâmes", "enviâtes", "envièrent"],
+        "ind.fut": ["envierai", "envieras", "enviera", "envierons", "envierez", "envieront"],
+        "cond.pres": ["envierais", "envierais", "envierait", "envierions", "envieriez", "envieraient"],
+        "subj.pres": ["envie", "envies", "envie", "enviions", "enviiez", "envient"],
+        "subj.imp": ["enviasse", "enviasses", "enviât", "enviassions", "enviassiez", "enviassent"],
+        "imper.pres": ["envie", "envions", "enviez"]
+      },
+      "participe_present": "enviant",
+      "participe_passe": ["envié", "enviée", "enviés", "enviées"]
     }
   ]
 }
