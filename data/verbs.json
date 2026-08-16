@@ -23290,6 +23290,25 @@
       },
       "participe_present": "rinçant",
       "participe_passe": ["rincé", "rincée", "rincés", "rincées"]
+    },
+    {
+      "id": "décréter",
+      "infinitif": "décréter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je décréterai » ou « je décrèterai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["décrète", "décrètes", "décrète", "décrétons", "décrétez", "décrètent"],
+        "ind.imp": ["décrétais", "décrétais", "décrétait", "décrétions", "décrétiez", "décrétaient"],
+        "ind.ps": ["décrétai", "décrétas", "décréta", "décrétâmes", "décrétâtes", "décrétèrent"],
+        "ind.fut": [["décréterai", "décrèterai"], ["décréteras", "décrèteras"], ["décrétera", "décrètera"], ["décréterons", "décrèterons"], ["décréterez", "décrèterez"], ["décréteront", "décrèteront"]],
+        "cond.pres": [["décréterais", "décrèterais"], ["décréterais", "décrèterais"], ["décréterait", "décrèterait"], ["décréterions", "décrèterions"], ["décréteriez", "décrèteriez"], ["décréteraient", "décrèteraient"]],
+        "subj.pres": ["décrète", "décrètes", "décrète", "décrétions", "décrétiez", "décrètent"],
+        "subj.imp": ["décrétasse", "décrétasses", "décrétât", "décrétassions", "décrétassiez", "décrétassent"],
+        "imper.pres": ["décrète", "décrétons", "décrétez"]
+      },
+      "participe_present": "décrétant",
+      "participe_passe": ["décrété", "décrétée", "décrétés", "décrétées"]
     }
   ]
 }
