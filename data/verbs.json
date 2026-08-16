@@ -25826,6 +25826,24 @@
       },
       "participe_present": "grimaçant",
       "participe_passe": ["grimacé", null, null, null]
+    },
+    {
+      "id": "influencer",
+      "infinitif": "influencer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["influence", "influences", "influence", "influençons", "influencez", "influencent"],
+        "ind.imp": ["influençais", "influençais", "influençait", "influencions", "influenciez", "influençaient"],
+        "ind.ps": ["influençai", "influenças", "influença", "influençâmes", "influençâtes", "influencèrent"],
+        "ind.fut": ["influencerai", "influenceras", "influencera", "influencerons", "influencerez", "influenceront"],
+        "cond.pres": ["influencerais", "influencerais", "influencerait", "influencerions", "influenceriez", "influenceraient"],
+        "subj.pres": ["influence", "influences", "influence", "influencions", "influenciez", "influencent"],
+        "subj.imp": ["influençasse", "influençasses", "influençât", "influençassions", "influençassiez", "influençassent"],
+        "imper.pres": ["influence", "influençons", "influencez"]
+      },
+      "participe_present": "influençant",
+      "participe_passe": ["influencé", "influencée", "influencés", "influencées"]
     }
   ]
 }
