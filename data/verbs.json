@@ -8867,6 +8867,24 @@
       },
       "participe_present": "louant",
       "participe_passe": ["loué", "louée", "loués", "louées"]
+    },
+    {
+      "id": "parcourir",
+      "infinitif": "parcourir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["parcours", "parcours", "parcourt", "parcourons", "parcourez", "parcourent"],
+        "ind.imp": ["parcourais", "parcourais", "parcourait", "parcourions", "parcouriez", "parcouraient"],
+        "ind.ps": ["parcourus", "parcourus", "parcourut", "parcourûmes", "parcourûtes", "parcoururent"],
+        "ind.fut": ["parcourrai", "parcourras", "parcourra", "parcourrons", "parcourrez", "parcourront"],
+        "cond.pres": ["parcourrais", "parcourrais", "parcourrait", "parcourrions", "parcourriez", "parcourraient"],
+        "subj.pres": ["parcoure", "parcoures", "parcoure", "parcourions", "parcouriez", "parcourent"],
+        "subj.imp": ["parcourusse", "parcourusses", "parcourût", "parcourussions", "parcourussiez", "parcourussent"],
+        "imper.pres": ["parcours", "parcourons", "parcourez"]
+      },
+      "participe_present": "parcourant",
+      "participe_passe": ["parcouru", "parcourue", "parcourus", "parcourues"]
     }
   ]
 }
