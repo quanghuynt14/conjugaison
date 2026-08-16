@@ -23200,6 +23200,24 @@
       },
       "participe_present": "enjambant",
       "participe_passe": ["enjambé", "enjambée", "enjambés", "enjambées"]
+    },
+    {
+      "id": "exalter",
+      "infinitif": "exalter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exalte", "exaltes", "exalte", "exaltons", "exaltez", "exaltent"],
+        "ind.imp": ["exaltais", "exaltais", "exaltait", "exaltions", "exaltiez", "exaltaient"],
+        "ind.ps": ["exaltai", "exaltas", "exalta", "exaltâmes", "exaltâtes", "exaltèrent"],
+        "ind.fut": ["exalterai", "exalteras", "exaltera", "exalterons", "exalterez", "exalteront"],
+        "cond.pres": ["exalterais", "exalterais", "exalterait", "exalterions", "exalteriez", "exalteraient"],
+        "subj.pres": ["exalte", "exaltes", "exalte", "exaltions", "exaltiez", "exaltent"],
+        "subj.imp": ["exaltasse", "exaltasses", "exaltât", "exaltassions", "exaltassiez", "exaltassent"],
+        "imper.pres": ["exalte", "exaltons", "exaltez"]
+      },
+      "participe_present": "exaltant",
+      "participe_passe": ["exalté", "exaltée", "exaltés", "exaltées"]
     }
   ]
 }
