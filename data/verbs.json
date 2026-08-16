@@ -17530,6 +17530,24 @@
       },
       "participe_present": "défonçant",
       "participe_passe": ["défoncé", "défoncée", "défoncés", "défoncées"]
+    },
+    {
+      "id": "rouiller",
+      "infinitif": "rouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rouille", "rouilles", "rouille", "rouillons", "rouillez", "rouillent"],
+        "ind.imp": ["rouillais", "rouillais", "rouillait", "rouillions", "rouilliez", "rouillaient"],
+        "ind.ps": ["rouillai", "rouillas", "rouilla", "rouillâmes", "rouillâtes", "rouillèrent"],
+        "ind.fut": ["rouillerai", "rouilleras", "rouillera", "rouillerons", "rouillerez", "rouilleront"],
+        "cond.pres": ["rouillerais", "rouillerais", "rouillerait", "rouillerions", "rouilleriez", "rouilleraient"],
+        "subj.pres": ["rouille", "rouilles", "rouille", "rouillions", "rouilliez", "rouillent"],
+        "subj.imp": ["rouillasse", "rouillasses", "rouillât", "rouillassions", "rouillassiez", "rouillassent"],
+        "imper.pres": ["rouille", "rouillons", "rouillez"]
+      },
+      "participe_present": "rouillant",
+      "participe_passe": ["rouillé", "rouillée", "rouillés", "rouillées"]
     }
   ]
 }
