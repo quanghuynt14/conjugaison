@@ -14337,6 +14337,25 @@
       },
       "participe_present": "fourrant",
       "participe_passe": ["fourré", "fourrée", "fourrés", "fourrées"]
+    },
+    {
+      "id": "célébrer",
+      "infinitif": "célébrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je célébrerai » ou « je célèbrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["célèbre", "célèbres", "célèbre", "célébrons", "célébrez", "célèbrent"],
+        "ind.imp": ["célébrais", "célébrais", "célébrait", "célébrions", "célébriez", "célébraient"],
+        "ind.ps": ["célébrai", "célébras", "célébra", "célébrâmes", "célébrâtes", "célébrèrent"],
+        "ind.fut": [["célébrerai", "célèbrerai"], ["célébreras", "célèbreras"], ["célébrera", "célèbrera"], ["célébrerons", "célèbrerons"], ["célébrerez", "célèbrerez"], ["célébreront", "célèbreront"]],
+        "cond.pres": [["célébrerais", "célèbrerais"], ["célébrerais", "célèbrerais"], ["célébrerait", "célèbrerait"], ["célébrerions", "célèbrerions"], ["célébreriez", "célèbreriez"], ["célébreraient", "célèbreraient"]],
+        "subj.pres": ["célèbre", "célèbres", "célèbre", "célébrions", "célébriez", "célèbrent"],
+        "subj.imp": ["célébrasse", "célébrasses", "célébrât", "célébrassions", "célébrassiez", "célébrassent"],
+        "imper.pres": ["célèbre", "célébrons", "célébrez"]
+      },
+      "participe_present": "célébrant",
+      "participe_passe": ["célébré", "célébrée", "célébrés", "célébrées"]
     }
   ]
 }
