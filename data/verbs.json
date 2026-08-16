@@ -32154,6 +32154,25 @@
       },
       "participe_present": "rebroussant",
       "participe_passe": ["rebroussé", "rebroussée", "rebroussés", "rebroussées"]
+    },
+    {
+      "id": "traire",
+      "infinitif": "traire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Comme tous les verbes en -traire : ni passé simple, ni subjonctif imparfait.",
+      "tenses": {
+        "ind.pres": ["trais", "trais", "trait", "trayons", "trayez", "traient"],
+        "ind.imp": ["trayais", "trayais", "trayait", "trayions", "trayiez", "trayaient"],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": ["trairai", "trairas", "traira", "trairons", "trairez", "trairont"],
+        "cond.pres": ["trairais", "trairais", "trairait", "trairions", "trairiez", "trairaient"],
+        "subj.pres": ["traie", "traies", "traie", "trayions", "trayiez", "traient"],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": ["trais", "trayons", "trayez"]
+      },
+      "participe_present": "trayant",
+      "participe_passe": ["trait", "traite", "traits", "traites"]
     }
   ]
 }
