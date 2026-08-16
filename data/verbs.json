@@ -26643,6 +26643,24 @@
       },
       "participe_present": "étincelant",
       "participe_passe": ["étincelé", null, null, null]
+    },
+    {
+      "id": "tapisser",
+      "infinitif": "tapisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tapisse", "tapisses", "tapisse", "tapissons", "tapissez", "tapissent"],
+        "ind.imp": ["tapissais", "tapissais", "tapissait", "tapissions", "tapissiez", "tapissaient"],
+        "ind.ps": ["tapissai", "tapissas", "tapissa", "tapissâmes", "tapissâtes", "tapissèrent"],
+        "ind.fut": ["tapisserai", "tapisseras", "tapissera", "tapisserons", "tapisserez", "tapisseront"],
+        "cond.pres": ["tapisserais", "tapisserais", "tapisserait", "tapisserions", "tapisseriez", "tapisseraient"],
+        "subj.pres": ["tapisse", "tapisses", "tapisse", "tapissions", "tapissiez", "tapissent"],
+        "subj.imp": ["tapissasse", "tapissasses", "tapissât", "tapissassions", "tapissassiez", "tapissassent"],
+        "imper.pres": ["tapisse", "tapissons", "tapissez"]
+      },
+      "participe_present": "tapissant",
+      "participe_passe": ["tapissé", "tapissée", "tapissés", "tapissées"]
     }
   ]
 }
