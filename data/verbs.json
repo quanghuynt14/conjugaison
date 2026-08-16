@@ -5917,6 +5917,24 @@
       },
       "participe_present": "désirant",
       "participe_passe": ["désiré", "désirée", "désirés", "désirées"]
+    },
+    {
+      "id": "fatiguer",
+      "infinitif": "fatiguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fatigue", "fatigues", "fatigue", "fatiguons", "fatiguez", "fatiguent"],
+        "ind.imp": ["fatiguais", "fatiguais", "fatiguait", "fatiguions", "fatiguiez", "fatiguaient"],
+        "ind.ps": ["fatiguai", "fatiguas", "fatigua", "fatiguâmes", "fatiguâtes", "fatiguèrent"],
+        "ind.fut": ["fatiguerai", "fatigueras", "fatiguera", "fatiguerons", "fatiguerez", "fatigueront"],
+        "cond.pres": ["fatiguerais", "fatiguerais", "fatiguerait", "fatiguerions", "fatigueriez", "fatigueraient"],
+        "subj.pres": ["fatigue", "fatigues", "fatigue", "fatiguions", "fatiguiez", "fatiguent"],
+        "subj.imp": ["fatiguasse", "fatiguasses", "fatiguât", "fatiguassions", "fatiguassiez", "fatiguassent"],
+        "imper.pres": ["fatigue", "fatiguons", "fatiguez"]
+      },
+      "participe_present": "fatiguant",
+      "participe_passe": ["fatigué", "fatiguée", "fatigués", "fatiguées"]
     }
   ]
 }
