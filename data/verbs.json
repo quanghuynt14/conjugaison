@@ -7403,6 +7403,24 @@
       },
       "participe_present": "réunissant",
       "participe_passe": ["réuni", "réunie", "réunis", "réunies"]
+    },
+    {
+      "id": "parier",
+      "infinitif": "parier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["parie", "paries", "parie", "parions", "pariez", "parient"],
+        "ind.imp": ["pariais", "pariais", "pariait", "pariions", "pariiez", "pariaient"],
+        "ind.ps": ["pariai", "parias", "paria", "pariâmes", "pariâtes", "parièrent"],
+        "ind.fut": ["parierai", "parieras", "pariera", "parierons", "parierez", "parieront"],
+        "cond.pres": ["parierais", "parierais", "parierait", "parierions", "parieriez", "parieraient"],
+        "subj.pres": ["parie", "paries", "parie", "pariions", "pariiez", "parient"],
+        "subj.imp": ["pariasse", "pariasses", "pariât", "pariassions", "pariassiez", "pariassent"],
+        "imper.pres": ["parie", "parions", "pariez"]
+      },
+      "participe_present": "pariant",
+      "participe_passe": ["parié", "pariée", "pariés", "pariées"]
     }
   ]
 }
