@@ -29601,6 +29601,24 @@
       },
       "participe_present": "surchargeant",
       "participe_passe": ["surchargé", "surchargée", "surchargés", "surchargées"]
+    },
+    {
+      "id": "pulvériser",
+      "infinitif": "pulvériser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pulvérise", "pulvérises", "pulvérise", "pulvérisons", "pulvérisez", "pulvérisent"],
+        "ind.imp": ["pulvérisais", "pulvérisais", "pulvérisait", "pulvérisions", "pulvérisiez", "pulvérisaient"],
+        "ind.ps": ["pulvérisai", "pulvérisas", "pulvérisa", "pulvérisâmes", "pulvérisâtes", "pulvérisèrent"],
+        "ind.fut": ["pulvériserai", "pulvériseras", "pulvérisera", "pulvériserons", "pulvériserez", "pulvériseront"],
+        "cond.pres": ["pulvériserais", "pulvériserais", "pulvériserait", "pulvériserions", "pulvériseriez", "pulvériseraient"],
+        "subj.pres": ["pulvérise", "pulvérises", "pulvérise", "pulvérisions", "pulvérisiez", "pulvérisent"],
+        "subj.imp": ["pulvérisasse", "pulvérisasses", "pulvérisât", "pulvérisassions", "pulvérisassiez", "pulvérisassent"],
+        "imper.pres": ["pulvérise", "pulvérisons", "pulvérisez"]
+      },
+      "participe_present": "pulvérisant",
+      "participe_passe": ["pulvérisé", "pulvérisée", "pulvérisés", "pulvérisées"]
     }
   ]
 }
