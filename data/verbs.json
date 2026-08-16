@@ -31041,6 +31041,24 @@
       },
       "participe_present": "contrastant",
       "participe_passe": ["contrasté", "contrastée", "contrastés", "contrastées"]
+    },
+    {
+      "id": "incorporer",
+      "infinitif": "incorporer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["incorpore", "incorpores", "incorpore", "incorporons", "incorporez", "incorporent"],
+        "ind.imp": ["incorporais", "incorporais", "incorporait", "incorporions", "incorporiez", "incorporaient"],
+        "ind.ps": ["incorporai", "incorporas", "incorpora", "incorporâmes", "incorporâtes", "incorporèrent"],
+        "ind.fut": ["incorporerai", "incorporeras", "incorporera", "incorporerons", "incorporerez", "incorporeront"],
+        "cond.pres": ["incorporerais", "incorporerais", "incorporerait", "incorporerions", "incorporeriez", "incorporeraient"],
+        "subj.pres": ["incorpore", "incorpores", "incorpore", "incorporions", "incorporiez", "incorporent"],
+        "subj.imp": ["incorporasse", "incorporasses", "incorporât", "incorporassions", "incorporassiez", "incorporassent"],
+        "imper.pres": ["incorpore", "incorporons", "incorporez"]
+      },
+      "participe_present": "incorporant",
+      "participe_passe": ["incorporé", "incorporée", "incorporés", "incorporées"]
     }
   ]
 }
