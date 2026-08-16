@@ -8651,6 +8651,24 @@
       },
       "participe_present": "combattant",
       "participe_passe": ["combattu", "combattue", "combattus", "combattues"]
+    },
+    {
+      "id": "affirmer",
+      "infinitif": "affirmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affirme", "affirmes", "affirme", "affirmons", "affirmez", "affirment"],
+        "ind.imp": ["affirmais", "affirmais", "affirmait", "affirmions", "affirmiez", "affirmaient"],
+        "ind.ps": ["affirmai", "affirmas", "affirma", "affirmâmes", "affirmâtes", "affirmèrent"],
+        "ind.fut": ["affirmerai", "affirmeras", "affirmera", "affirmerons", "affirmerez", "affirmeront"],
+        "cond.pres": ["affirmerais", "affirmerais", "affirmerait", "affirmerions", "affirmeriez", "affirmeraient"],
+        "subj.pres": ["affirme", "affirmes", "affirme", "affirmions", "affirmiez", "affirment"],
+        "subj.imp": ["affirmasse", "affirmasses", "affirmât", "affirmassions", "affirmassiez", "affirmassent"],
+        "imper.pres": ["affirme", "affirmons", "affirmez"]
+      },
+      "participe_present": "affirmant",
+      "participe_passe": ["affirmé", "affirmée", "affirmés", "affirmées"]
     }
   ]
 }
