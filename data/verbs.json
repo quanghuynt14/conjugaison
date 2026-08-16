@@ -12971,6 +12971,24 @@
       },
       "participe_present": "citant",
       "participe_passe": ["cité", "citée", "cités", "citées"]
+    },
+    {
+      "id": "défaire",
+      "infinitif": "défaire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["défais", "défais", "défait", "défaisons", "défaites", "défont"],
+        "ind.imp": ["défaisais", "défaisais", "défaisait", "défaisions", "défaisiez", "défaisaient"],
+        "ind.ps": ["défis", "défis", "défit", "défîmes", "défîtes", "défirent"],
+        "ind.fut": ["déferai", "déferas", "défera", "déferons", "déferez", "déferont"],
+        "cond.pres": ["déferais", "déferais", "déferait", "déferions", "déferiez", "déferaient"],
+        "subj.pres": ["défasse", "défasses", "défasse", "défassions", "défassiez", "défassent"],
+        "subj.imp": ["défisse", "défisses", "défît", "défissions", "défissiez", "défissent"],
+        "imper.pres": ["défais", "défaisons", "défaites"]
+      },
+      "participe_present": "défaisant",
+      "participe_passe": ["défait", "défaite", "défaits", "défaites"]
     }
   ]
 }
