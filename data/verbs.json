@@ -24075,6 +24075,24 @@
       },
       "participe_present": "hérissant",
       "participe_passe": ["hérissé", "hérissée", "hérissés", "hérissées"]
+    },
+    {
+      "id": "démonter",
+      "infinitif": "démonter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["démonte", "démontes", "démonte", "démontons", "démontez", "démontent"],
+        "ind.imp": ["démontais", "démontais", "démontait", "démontions", "démontiez", "démontaient"],
+        "ind.ps": ["démontai", "démontas", "démonta", "démontâmes", "démontâtes", "démontèrent"],
+        "ind.fut": ["démonterai", "démonteras", "démontera", "démonterons", "démonterez", "démonteront"],
+        "cond.pres": ["démonterais", "démonterais", "démonterait", "démonterions", "démonteriez", "démonteraient"],
+        "subj.pres": ["démonte", "démontes", "démonte", "démontions", "démontiez", "démontent"],
+        "subj.imp": ["démontasse", "démontasses", "démontât", "démontassions", "démontassiez", "démontassent"],
+        "imper.pres": ["démonte", "démontons", "démontez"]
+      },
+      "participe_present": "démontant",
+      "participe_passe": ["démonté", "démontée", "démontés", "démontées"]
     }
   ]
 }
