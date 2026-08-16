@@ -33012,6 +33012,24 @@
       },
       "participe_present": "hypnotisant",
       "participe_passe": ["hypnotisé", "hypnotisée", "hypnotisés", "hypnotisées"]
+    },
+    {
+      "id": "redemander",
+      "infinitif": "redemander",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["redemande", "redemandes", "redemande", "redemandons", "redemandez", "redemandent"],
+        "ind.imp": ["redemandais", "redemandais", "redemandait", "redemandions", "redemandiez", "redemandaient"],
+        "ind.ps": ["redemandai", "redemandas", "redemanda", "redemandâmes", "redemandâtes", "redemandèrent"],
+        "ind.fut": ["redemanderai", "redemanderas", "redemandera", "redemanderons", "redemanderez", "redemanderont"],
+        "cond.pres": ["redemanderais", "redemanderais", "redemanderait", "redemanderions", "redemanderiez", "redemanderaient"],
+        "subj.pres": ["redemande", "redemandes", "redemande", "redemandions", "redemandiez", "redemandent"],
+        "subj.imp": ["redemandasse", "redemandasses", "redemandât", "redemandassions", "redemandassiez", "redemandassent"],
+        "imper.pres": ["redemande", "redemandons", "redemandez"]
+      },
+      "participe_present": "redemandant",
+      "participe_passe": ["redemandé", "redemandée", "redemandés", "redemandées"]
     }
   ]
 }
