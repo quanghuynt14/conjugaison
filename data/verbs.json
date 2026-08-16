@@ -15662,6 +15662,24 @@
       },
       "participe_present": "réfugiant",
       "participe_passe": ["réfugié", "réfugiée", "réfugiés", "réfugiées"]
+    },
+    {
+      "id": "déguiser",
+      "infinitif": "déguiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déguise", "déguises", "déguise", "déguisons", "déguisez", "déguisent"],
+        "ind.imp": ["déguisais", "déguisais", "déguisait", "déguisions", "déguisiez", "déguisaient"],
+        "ind.ps": ["déguisai", "déguisas", "déguisa", "déguisâmes", "déguisâtes", "déguisèrent"],
+        "ind.fut": ["déguiserai", "déguiseras", "déguisera", "déguiserons", "déguiserez", "déguiseront"],
+        "cond.pres": ["déguiserais", "déguiserais", "déguiserait", "déguiserions", "déguiseriez", "déguiseraient"],
+        "subj.pres": ["déguise", "déguises", "déguise", "déguisions", "déguisiez", "déguisent"],
+        "subj.imp": ["déguisasse", "déguisasses", "déguisât", "déguisassions", "déguisassiez", "déguisassent"],
+        "imper.pres": ["déguise", "déguisons", "déguisez"]
+      },
+      "participe_present": "déguisant",
+      "participe_passe": ["déguisé", "déguisée", "déguisés", "déguisées"]
     }
   ]
 }
