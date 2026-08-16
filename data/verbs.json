@@ -27393,6 +27393,24 @@
       },
       "participe_present": "administrant",
       "participe_passe": ["administré", "administrée", "administrés", "administrées"]
+    },
+    {
+      "id": "régir",
+      "infinitif": "régir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["régis", "régis", "régit", "régissons", "régissez", "régissent"],
+        "ind.imp": ["régissais", "régissais", "régissait", "régissions", "régissiez", "régissaient"],
+        "ind.ps": ["régis", "régis", "régit", "régîmes", "régîtes", "régirent"],
+        "ind.fut": ["régirai", "régiras", "régira", "régirons", "régirez", "régiront"],
+        "cond.pres": ["régirais", "régirais", "régirait", "régirions", "régiriez", "régiraient"],
+        "subj.pres": ["régisse", "régisses", "régisse", "régissions", "régissiez", "régissent"],
+        "subj.imp": ["régisse", "régisses", "régît", "régissions", "régissiez", "régissent"],
+        "imper.pres": ["régis", "régissons", "régissez"]
+      },
+      "participe_present": "régissant",
+      "participe_passe": ["régi", "régie", "régis", "régies"]
     }
   ]
 }
