@@ -9066,6 +9066,25 @@
       },
       "participe_present": "haussant",
       "participe_passe": ["haussé", "haussée", "haussés", "haussées"]
+    },
+    {
+      "id": "participer",
+      "infinitif": "participer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « participé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["participe", "participes", "participe", "participons", "participez", "participent"],
+        "ind.imp": ["participais", "participais", "participait", "participions", "participiez", "participaient"],
+        "ind.ps": ["participai", "participas", "participa", "participâmes", "participâtes", "participèrent"],
+        "ind.fut": ["participerai", "participeras", "participera", "participerons", "participerez", "participeront"],
+        "cond.pres": ["participerais", "participerais", "participerait", "participerions", "participeriez", "participeraient"],
+        "subj.pres": ["participe", "participes", "participe", "participions", "participiez", "participent"],
+        "subj.imp": ["participasse", "participasses", "participât", "participassions", "participassiez", "participassent"],
+        "imper.pres": ["participe", "participons", "participez"]
+      },
+      "participe_present": "participant",
+      "participe_passe": ["participé", null, null, null]
     }
   ]
 }
