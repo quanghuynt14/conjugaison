@@ -16659,6 +16659,24 @@
       },
       "participe_present": "branchant",
       "participe_passe": ["branché", "branchée", "branchés", "branchées"]
+    },
+    {
+      "id": "traquer",
+      "infinitif": "traquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["traque", "traques", "traque", "traquons", "traquez", "traquent"],
+        "ind.imp": ["traquais", "traquais", "traquait", "traquions", "traquiez", "traquaient"],
+        "ind.ps": ["traquai", "traquas", "traqua", "traquâmes", "traquâtes", "traquèrent"],
+        "ind.fut": ["traquerai", "traqueras", "traquera", "traquerons", "traquerez", "traqueront"],
+        "cond.pres": ["traquerais", "traquerais", "traquerait", "traquerions", "traqueriez", "traqueraient"],
+        "subj.pres": ["traque", "traques", "traque", "traquions", "traquiez", "traquent"],
+        "subj.imp": ["traquasse", "traquasses", "traquât", "traquassions", "traquassiez", "traquassent"],
+        "imper.pres": ["traque", "traquons", "traquez"]
+      },
+      "participe_present": "traquant",
+      "participe_passe": ["traqué", "traquée", "traqués", "traquées"]
     }
   ]
 }
