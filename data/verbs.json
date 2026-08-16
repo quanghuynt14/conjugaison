@@ -6915,6 +6915,24 @@
       },
       "participe_present": "pénétrant",
       "participe_passe": ["pénétré", "pénétrée", "pénétrés", "pénétrées"]
+    },
+    {
+      "id": "renoncer",
+      "infinitif": "renoncer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["renonce", "renonces", "renonce", "renonçons", "renoncez", "renoncent"],
+        "ind.imp": ["renonçais", "renonçais", "renonçait", "renoncions", "renonciez", "renonçaient"],
+        "ind.ps": ["renonçai", "renonças", "renonça", "renonçâmes", "renonçâtes", "renoncèrent"],
+        "ind.fut": ["renoncerai", "renonceras", "renoncera", "renoncerons", "renoncerez", "renonceront"],
+        "cond.pres": ["renoncerais", "renoncerais", "renoncerait", "renoncerions", "renonceriez", "renonceraient"],
+        "subj.pres": ["renonce", "renonces", "renonce", "renoncions", "renonciez", "renoncent"],
+        "subj.imp": ["renonçasse", "renonçasses", "renonçât", "renonçassions", "renonçassiez", "renonçassent"],
+        "imper.pres": ["renonce", "renonçons", "renoncez"]
+      },
+      "participe_present": "renonçant",
+      "participe_passe": ["renoncé", "renoncée", "renoncés", "renoncées"]
     }
   ]
 }
