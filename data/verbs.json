@@ -30384,6 +30384,24 @@
       },
       "participe_present": "approfondissant",
       "participe_passe": ["approfondi", "approfondie", "approfondis", "approfondies"]
+    },
+    {
+      "id": "chiner",
+      "infinitif": "chiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chine", "chines", "chine", "chinons", "chinez", "chinent"],
+        "ind.imp": ["chinais", "chinais", "chinait", "chinions", "chiniez", "chinaient"],
+        "ind.ps": ["chinai", "chinas", "china", "chinâmes", "chinâtes", "chinèrent"],
+        "ind.fut": ["chinerai", "chineras", "chinera", "chinerons", "chinerez", "chineront"],
+        "cond.pres": ["chinerais", "chinerais", "chinerait", "chinerions", "chineriez", "chineraient"],
+        "subj.pres": ["chine", "chines", "chine", "chinions", "chiniez", "chinent"],
+        "subj.imp": ["chinasse", "chinasses", "chinât", "chinassions", "chinassiez", "chinassent"],
+        "imper.pres": ["chine", "chinons", "chinez"]
+      },
+      "participe_present": "chinant",
+      "participe_passe": ["chiné", "chinée", "chinés", "chinées"]
     }
   ]
 }
