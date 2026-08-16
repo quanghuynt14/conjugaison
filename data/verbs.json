@@ -4594,6 +4594,24 @@
       },
       "participe_present": "arrachant",
       "participe_passe": ["arraché", "arrachée", "arrachés", "arrachées"]
+    },
+    {
+      "id": "supporter",
+      "infinitif": "supporter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["supporte", "supportes", "supporte", "supportons", "supportez", "supportent"],
+        "ind.imp": ["supportais", "supportais", "supportait", "supportions", "supportiez", "supportaient"],
+        "ind.ps": ["supportai", "supportas", "supporta", "supportâmes", "supportâtes", "supportèrent"],
+        "ind.fut": ["supporterai", "supporteras", "supportera", "supporterons", "supporterez", "supporteront"],
+        "cond.pres": ["supporterais", "supporterais", "supporterait", "supporterions", "supporteriez", "supporteraient"],
+        "subj.pres": ["supporte", "supportes", "supporte", "supportions", "supportiez", "supportent"],
+        "subj.imp": ["supportasse", "supportasses", "supportât", "supportassions", "supportassiez", "supportassent"],
+        "imper.pres": ["supporte", "supportons", "supportez"]
+      },
+      "participe_present": "supportant",
+      "participe_passe": ["supporté", "supportée", "supportés", "supportées"]
     }
   ]
 }
