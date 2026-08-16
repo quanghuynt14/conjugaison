@@ -26899,6 +26899,24 @@
       },
       "participe_present": "martelant",
       "participe_passe": ["martelé", "martelée", "martelés", "martelées"]
+    },
+    {
+      "id": "ridiculiser",
+      "infinitif": "ridiculiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ridiculise", "ridiculises", "ridiculise", "ridiculisons", "ridiculisez", "ridiculisent"],
+        "ind.imp": ["ridiculisais", "ridiculisais", "ridiculisait", "ridiculisions", "ridiculisiez", "ridiculisaient"],
+        "ind.ps": ["ridiculisai", "ridiculisas", "ridiculisa", "ridiculisâmes", "ridiculisâtes", "ridiculisèrent"],
+        "ind.fut": ["ridiculiserai", "ridiculiseras", "ridiculisera", "ridiculiserons", "ridiculiserez", "ridiculiseront"],
+        "cond.pres": ["ridiculiserais", "ridiculiserais", "ridiculiserait", "ridiculiserions", "ridiculiseriez", "ridiculiseraient"],
+        "subj.pres": ["ridiculise", "ridiculises", "ridiculise", "ridiculisions", "ridiculisiez", "ridiculisent"],
+        "subj.imp": ["ridiculisasse", "ridiculisasses", "ridiculisât", "ridiculisassions", "ridiculisassiez", "ridiculisassent"],
+        "imper.pres": ["ridiculise", "ridiculisons", "ridiculisez"]
+      },
+      "participe_present": "ridiculisant",
+      "participe_passe": ["ridiculisé", "ridiculisée", "ridiculisés", "ridiculisées"]
     }
   ]
 }
