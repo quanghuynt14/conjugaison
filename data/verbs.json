@@ -6604,6 +6604,24 @@
       },
       "participe_present": "plantant",
       "participe_passe": ["planté", "plantée", "plantés", "plantées"]
+    },
+    {
+      "id": "remplacer",
+      "infinitif": "remplacer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["remplace", "remplaces", "remplace", "remplaçons", "remplacez", "remplacent"],
+        "ind.imp": ["remplaçais", "remplaçais", "remplaçait", "remplacions", "remplaciez", "remplaçaient"],
+        "ind.ps": ["remplaçai", "remplaças", "remplaça", "remplaçâmes", "remplaçâtes", "remplacèrent"],
+        "ind.fut": ["remplacerai", "remplaceras", "remplacera", "remplacerons", "remplacerez", "remplaceront"],
+        "cond.pres": ["remplacerais", "remplacerais", "remplacerait", "remplacerions", "remplaceriez", "remplaceraient"],
+        "subj.pres": ["remplace", "remplaces", "remplace", "remplacions", "remplaciez", "remplacent"],
+        "subj.imp": ["remplaçasse", "remplaçasses", "remplaçât", "remplaçassions", "remplaçassiez", "remplaçassent"],
+        "imper.pres": ["remplace", "remplaçons", "remplacez"]
+      },
+      "participe_present": "remplaçant",
+      "participe_passe": ["remplacé", "remplacée", "remplacés", "remplacées"]
     }
   ]
 }
