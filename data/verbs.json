@@ -11681,6 +11681,24 @@
       },
       "participe_present": "approuvant",
       "participe_passe": ["approuvé", "approuvée", "approuvés", "approuvées"]
+    },
+    {
+      "id": "échouer",
+      "infinitif": "échouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["échoue", "échoues", "échoue", "échouons", "échouez", "échouent"],
+        "ind.imp": ["échouais", "échouais", "échouait", "échouions", "échouiez", "échouaient"],
+        "ind.ps": ["échouai", "échouas", "échoua", "échouâmes", "échouâtes", "échouèrent"],
+        "ind.fut": ["échouerai", "échoueras", "échouera", "échouerons", "échouerez", "échoueront"],
+        "cond.pres": ["échouerais", "échouerais", "échouerait", "échouerions", "échoueriez", "échoueraient"],
+        "subj.pres": ["échoue", "échoues", "échoue", "échouions", "échouiez", "échouent"],
+        "subj.imp": ["échouasse", "échouasses", "échouât", "échouassions", "échouassiez", "échouassent"],
+        "imper.pres": ["échoue", "échouons", "échouez"]
+      },
+      "participe_present": "échouant",
+      "participe_passe": ["échoué", "échouée", "échoués", "échouées"]
     }
   ]
 }
