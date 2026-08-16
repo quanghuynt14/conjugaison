@@ -32885,6 +32885,24 @@
       },
       "participe_present": "gesticulant",
       "participe_passe": ["gesticulé", null, null, null]
+    },
+    {
+      "id": "inaugurer",
+      "infinitif": "inaugurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["inaugure", "inaugures", "inaugure", "inaugurons", "inaugurez", "inaugurent"],
+        "ind.imp": ["inaugurais", "inaugurais", "inaugurait", "inaugurions", "inauguriez", "inauguraient"],
+        "ind.ps": ["inaugurai", "inauguras", "inaugura", "inaugurâmes", "inaugurâtes", "inaugurèrent"],
+        "ind.fut": ["inaugurerai", "inaugureras", "inaugurera", "inaugurerons", "inaugurerez", "inaugureront"],
+        "cond.pres": ["inaugurerais", "inaugurerais", "inaugurerait", "inaugurerions", "inaugureriez", "inaugureraient"],
+        "subj.pres": ["inaugure", "inaugures", "inaugure", "inaugurions", "inauguriez", "inaugurent"],
+        "subj.imp": ["inaugurasse", "inaugurasses", "inaugurât", "inaugurassions", "inaugurassiez", "inaugurassent"],
+        "imper.pres": ["inaugure", "inaugurons", "inaugurez"]
+      },
+      "participe_present": "inaugurant",
+      "participe_passe": ["inauguré", "inaugurée", "inaugurés", "inaugurées"]
     }
   ]
 }
