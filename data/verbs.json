@@ -28906,6 +28906,24 @@
       },
       "participe_present": "bannissant",
       "participe_passe": ["banni", "bannie", "bannis", "bannies"]
+    },
+    {
+      "id": "mouler",
+      "infinitif": "mouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["moule", "moules", "moule", "moulons", "moulez", "moulent"],
+        "ind.imp": ["moulais", "moulais", "moulait", "moulions", "mouliez", "moulaient"],
+        "ind.ps": ["moulai", "moulas", "moula", "moulâmes", "moulâtes", "moulèrent"],
+        "ind.fut": ["moulerai", "mouleras", "moulera", "moulerons", "moulerez", "mouleront"],
+        "cond.pres": ["moulerais", "moulerais", "moulerait", "moulerions", "mouleriez", "mouleraient"],
+        "subj.pres": ["moule", "moules", "moule", "moulions", "mouliez", "moulent"],
+        "subj.imp": ["moulasse", "moulasses", "moulât", "moulassions", "moulassiez", "moulassent"],
+        "imper.pres": ["moule", "moulons", "moulez"]
+      },
+      "participe_present": "moulant",
+      "participe_passe": ["moulé", "moulée", "moulés", "moulées"]
     }
   ]
 }
