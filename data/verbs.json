@@ -11717,6 +11717,24 @@
       },
       "participe_present": "autorisant",
       "participe_passe": ["autorisé", "autorisée", "autorisés", "autorisées"]
+    },
+    {
+      "id": "rougir",
+      "infinitif": "rougir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rougis", "rougis", "rougit", "rougissons", "rougissez", "rougissent"],
+        "ind.imp": ["rougissais", "rougissais", "rougissait", "rougissions", "rougissiez", "rougissaient"],
+        "ind.ps": ["rougis", "rougis", "rougit", "rougîmes", "rougîtes", "rougirent"],
+        "ind.fut": ["rougirai", "rougiras", "rougira", "rougirons", "rougirez", "rougiront"],
+        "cond.pres": ["rougirais", "rougirais", "rougirait", "rougirions", "rougiriez", "rougiraient"],
+        "subj.pres": ["rougisse", "rougisses", "rougisse", "rougissions", "rougissiez", "rougissent"],
+        "subj.imp": ["rougisse", "rougisses", "rougît", "rougissions", "rougissiez", "rougissent"],
+        "imper.pres": ["rougis", "rougissons", "rougissez"]
+      },
+      "participe_present": "rougissant",
+      "participe_passe": ["rougi", "rougie", "rougis", "rougies"]
     }
   ]
 }
