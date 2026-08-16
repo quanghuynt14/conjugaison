@@ -2134,6 +2134,24 @@
       },
       "participe_present": "battant",
       "participe_passe": ["battu", "battue", "battus", "battues"]
+    },
+    {
+      "id": "coucher",
+      "infinitif": "coucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["couche", "couches", "couche", "couchons", "couchez", "couchent"],
+        "ind.imp": ["couchais", "couchais", "couchait", "couchions", "couchiez", "couchaient"],
+        "ind.ps": ["couchai", "couchas", "coucha", "couchâmes", "couchâtes", "couchèrent"],
+        "ind.fut": ["coucherai", "coucheras", "couchera", "coucherons", "coucherez", "coucheront"],
+        "cond.pres": ["coucherais", "coucherais", "coucherait", "coucherions", "coucheriez", "coucheraient"],
+        "subj.pres": ["couche", "couches", "couche", "couchions", "couchiez", "couchent"],
+        "subj.imp": ["couchasse", "couchasses", "couchât", "couchassions", "couchassiez", "couchassent"],
+        "imper.pres": ["couche", "couchons", "couchez"]
+      },
+      "participe_present": "couchant",
+      "participe_passe": ["couché", "couchée", "couchés", "couchées"]
     }
   ]
 }
