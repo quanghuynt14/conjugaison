@@ -32683,6 +32683,24 @@
       },
       "participe_present": "égrenant",
       "participe_passe": ["égrené", "égrenée", "égrenés", "égrenées"]
+    },
+    {
+      "id": "tamponner",
+      "infinitif": "tamponner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tamponne", "tamponnes", "tamponne", "tamponnons", "tamponnez", "tamponnent"],
+        "ind.imp": ["tamponnais", "tamponnais", "tamponnait", "tamponnions", "tamponniez", "tamponnaient"],
+        "ind.ps": ["tamponnai", "tamponnas", "tamponna", "tamponnâmes", "tamponnâtes", "tamponnèrent"],
+        "ind.fut": ["tamponnerai", "tamponneras", "tamponnera", "tamponnerons", "tamponnerez", "tamponneront"],
+        "cond.pres": ["tamponnerais", "tamponnerais", "tamponnerait", "tamponnerions", "tamponneriez", "tamponneraient"],
+        "subj.pres": ["tamponne", "tamponnes", "tamponne", "tamponnions", "tamponniez", "tamponnent"],
+        "subj.imp": ["tamponnasse", "tamponnasses", "tamponnât", "tamponnassions", "tamponnassiez", "tamponnassent"],
+        "imper.pres": ["tamponne", "tamponnons", "tamponnez"]
+      },
+      "participe_present": "tamponnant",
+      "participe_passe": ["tamponné", "tamponnée", "tamponnés", "tamponnées"]
     }
   ]
 }
