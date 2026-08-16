@@ -19869,6 +19869,24 @@
       },
       "participe_present": "entrouvrant",
       "participe_passe": ["entrouvert", "entrouverte", "entrouverts", "entrouvertes"]
+    },
+    {
+      "id": "diffuser",
+      "infinitif": "diffuser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["diffuse", "diffuses", "diffuse", "diffusons", "diffusez", "diffusent"],
+        "ind.imp": ["diffusais", "diffusais", "diffusait", "diffusions", "diffusiez", "diffusaient"],
+        "ind.ps": ["diffusai", "diffusas", "diffusa", "diffusâmes", "diffusâtes", "diffusèrent"],
+        "ind.fut": ["diffuserai", "diffuseras", "diffusera", "diffuserons", "diffuserez", "diffuseront"],
+        "cond.pres": ["diffuserais", "diffuserais", "diffuserait", "diffuserions", "diffuseriez", "diffuseraient"],
+        "subj.pres": ["diffuse", "diffuses", "diffuse", "diffusions", "diffusiez", "diffusent"],
+        "subj.imp": ["diffusasse", "diffusasses", "diffusât", "diffusassions", "diffusassiez", "diffusassent"],
+        "imper.pres": ["diffuse", "diffusons", "diffusez"]
+      },
+      "participe_present": "diffusant",
+      "participe_passe": ["diffusé", "diffusée", "diffusés", "diffusées"]
     }
   ]
 }
