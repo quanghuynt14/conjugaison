@@ -17295,6 +17295,24 @@
       },
       "participe_present": "tourmentant",
       "participe_passe": ["tourmenté", "tourmentée", "tourmentés", "tourmentées"]
+    },
+    {
+      "id": "encadrer",
+      "infinitif": "encadrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["encadre", "encadres", "encadre", "encadrons", "encadrez", "encadrent"],
+        "ind.imp": ["encadrais", "encadrais", "encadrait", "encadrions", "encadriez", "encadraient"],
+        "ind.ps": ["encadrai", "encadras", "encadra", "encadrâmes", "encadrâtes", "encadrèrent"],
+        "ind.fut": ["encadrerai", "encadreras", "encadrera", "encadrerons", "encadrerez", "encadreront"],
+        "cond.pres": ["encadrerais", "encadrerais", "encadrerait", "encadrerions", "encadreriez", "encadreraient"],
+        "subj.pres": ["encadre", "encadres", "encadre", "encadrions", "encadriez", "encadrent"],
+        "subj.imp": ["encadrasse", "encadrasses", "encadrât", "encadrassions", "encadrassiez", "encadrassent"],
+        "imper.pres": ["encadre", "encadrons", "encadrez"]
+      },
+      "participe_present": "encadrant",
+      "participe_passe": ["encadré", "encadrée", "encadrés", "encadrées"]
     }
   ]
 }
