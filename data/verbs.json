@@ -17022,6 +17022,24 @@
       },
       "participe_present": "draguant",
       "participe_passe": ["dragué", "draguée", "dragués", "draguées"]
+    },
+    {
+      "id": "feindre",
+      "infinitif": "feindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["feins", "feins", "feint", "feignons", "feignez", "feignent"],
+        "ind.imp": ["feignais", "feignais", "feignait", "feignions", "feigniez", "feignaient"],
+        "ind.ps": ["feignis", "feignis", "feignit", "feignîmes", "feignîtes", "feignirent"],
+        "ind.fut": ["feindrai", "feindras", "feindra", "feindrons", "feindrez", "feindront"],
+        "cond.pres": ["feindrais", "feindrais", "feindrait", "feindrions", "feindriez", "feindraient"],
+        "subj.pres": ["feigne", "feignes", "feigne", "feignions", "feigniez", "feignent"],
+        "subj.imp": ["feignisse", "feignisses", "feignît", "feignissions", "feignissiez", "feignissent"],
+        "imper.pres": ["feins", "feignons", "feignez"]
+      },
+      "participe_present": "feignant",
+      "participe_passe": ["feint", "feinte", "feints", "feintes"]
     }
   ]
 }
