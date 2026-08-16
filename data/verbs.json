@@ -9158,6 +9158,24 @@
       },
       "participe_present": "éveillant",
       "participe_passe": ["éveillé", "éveillée", "éveillés", "éveillées"]
+    },
+    {
+      "id": "ordonner",
+      "infinitif": "ordonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ordonne", "ordonnes", "ordonne", "ordonnons", "ordonnez", "ordonnent"],
+        "ind.imp": ["ordonnais", "ordonnais", "ordonnait", "ordonnions", "ordonniez", "ordonnaient"],
+        "ind.ps": ["ordonnai", "ordonnas", "ordonna", "ordonnâmes", "ordonnâtes", "ordonnèrent"],
+        "ind.fut": ["ordonnerai", "ordonneras", "ordonnera", "ordonnerons", "ordonnerez", "ordonneront"],
+        "cond.pres": ["ordonnerais", "ordonnerais", "ordonnerait", "ordonnerions", "ordonneriez", "ordonneraient"],
+        "subj.pres": ["ordonne", "ordonnes", "ordonne", "ordonnions", "ordonniez", "ordonnent"],
+        "subj.imp": ["ordonnasse", "ordonnasses", "ordonnât", "ordonnassions", "ordonnassiez", "ordonnassent"],
+        "imper.pres": ["ordonne", "ordonnons", "ordonnez"]
+      },
+      "participe_present": "ordonnant",
+      "participe_passe": ["ordonné", "ordonnée", "ordonnés", "ordonnées"]
     }
   ]
 }
