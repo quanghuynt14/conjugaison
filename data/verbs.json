@@ -4214,6 +4214,25 @@
       },
       "participe_present": "séparant",
       "participe_passe": ["séparé", "séparée", "séparés", "séparées"]
+    },
+    {
+      "id": "durer",
+      "infinitif": "durer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « duré » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["dure", "dures", "dure", "durons", "durez", "durent"],
+        "ind.imp": ["durais", "durais", "durait", "durions", "duriez", "duraient"],
+        "ind.ps": ["durai", "duras", "dura", "durâmes", "durâtes", "durèrent"],
+        "ind.fut": ["durerai", "dureras", "durera", "durerons", "durerez", "dureront"],
+        "cond.pres": ["durerais", "durerais", "durerait", "durerions", "dureriez", "dureraient"],
+        "subj.pres": ["dure", "dures", "dure", "durions", "duriez", "durent"],
+        "subj.imp": ["durasse", "durasses", "durât", "durassions", "durassiez", "durassent"],
+        "imper.pres": ["dure", "durons", "durez"]
+      },
+      "participe_present": "durant",
+      "participe_passe": ["duré", null, null, null]
     }
   ]
 }
