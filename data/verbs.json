@@ -22145,6 +22145,24 @@
       },
       "participe_present": "munissant",
       "participe_passe": ["muni", "munie", "munis", "munies"]
+    },
+    {
+      "id": "arrondir",
+      "infinitif": "arrondir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["arrondis", "arrondis", "arrondit", "arrondissons", "arrondissez", "arrondissent"],
+        "ind.imp": ["arrondissais", "arrondissais", "arrondissait", "arrondissions", "arrondissiez", "arrondissaient"],
+        "ind.ps": ["arrondis", "arrondis", "arrondit", "arrondîmes", "arrondîtes", "arrondirent"],
+        "ind.fut": ["arrondirai", "arrondiras", "arrondira", "arrondirons", "arrondirez", "arrondiront"],
+        "cond.pres": ["arrondirais", "arrondirais", "arrondirait", "arrondirions", "arrondiriez", "arrondiraient"],
+        "subj.pres": ["arrondisse", "arrondisses", "arrondisse", "arrondissions", "arrondissiez", "arrondissent"],
+        "subj.imp": ["arrondisse", "arrondisses", "arrondît", "arrondissions", "arrondissiez", "arrondissent"],
+        "imper.pres": ["arrondis", "arrondissons", "arrondissez"]
+      },
+      "participe_present": "arrondissant",
+      "participe_passe": ["arrondi", "arrondie", "arrondis", "arrondies"]
     }
   ]
 }
