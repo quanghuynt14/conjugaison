@@ -13245,6 +13245,24 @@
       },
       "participe_present": "méprisant",
       "participe_passe": ["méprisé", "méprisée", "méprisés", "méprisées"]
+    },
+    {
+      "id": "projeter",
+      "infinitif": "projeter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["projette", "projettes", "projette", "projetons", "projetez", "projettent"],
+        "ind.imp": ["projetais", "projetais", "projetait", "projetions", "projetiez", "projetaient"],
+        "ind.ps": ["projetai", "projetas", "projeta", "projetâmes", "projetâtes", "projetèrent"],
+        "ind.fut": ["projetterai", "projetteras", "projettera", "projetterons", "projetterez", "projetteront"],
+        "cond.pres": ["projetterais", "projetterais", "projetterait", "projetterions", "projetteriez", "projetteraient"],
+        "subj.pres": ["projette", "projettes", "projette", "projetions", "projetiez", "projettent"],
+        "subj.imp": ["projetasse", "projetasses", "projetât", "projetassions", "projetassiez", "projetassent"],
+        "imper.pres": ["projette", "projetons", "projetez"]
+      },
+      "participe_present": "projetant",
+      "participe_passe": ["projeté", "projetée", "projetés", "projetées"]
     }
   ]
 }
