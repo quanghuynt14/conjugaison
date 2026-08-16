@@ -6027,6 +6027,24 @@
       },
       "participe_present": "virant",
       "participe_passe": ["viré", "virée", "virés", "virées"]
+    },
+    {
+      "id": "inventer",
+      "infinitif": "inventer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["invente", "inventes", "invente", "inventons", "inventez", "inventent"],
+        "ind.imp": ["inventais", "inventais", "inventait", "inventions", "inventiez", "inventaient"],
+        "ind.ps": ["inventai", "inventas", "inventa", "inventâmes", "inventâtes", "inventèrent"],
+        "ind.fut": ["inventerai", "inventeras", "inventera", "inventerons", "inventerez", "inventeront"],
+        "cond.pres": ["inventerais", "inventerais", "inventerait", "inventerions", "inventeriez", "inventeraient"],
+        "subj.pres": ["invente", "inventes", "invente", "inventions", "inventiez", "inventent"],
+        "subj.imp": ["inventasse", "inventasses", "inventât", "inventassions", "inventassiez", "inventassent"],
+        "imper.pres": ["invente", "inventons", "inventez"]
+      },
+      "participe_present": "inventant",
+      "participe_passe": ["inventé", "inventée", "inventés", "inventées"]
     }
   ]
 }
