@@ -18596,6 +18596,24 @@
       },
       "participe_present": "testant",
       "participe_passe": ["testé", "testée", "testés", "testées"]
+    },
+    {
+      "id": "tacher",
+      "infinitif": "tacher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tache", "taches", "tache", "tachons", "tachez", "tachent"],
+        "ind.imp": ["tachais", "tachais", "tachait", "tachions", "tachiez", "tachaient"],
+        "ind.ps": ["tachai", "tachas", "tacha", "tachâmes", "tachâtes", "tachèrent"],
+        "ind.fut": ["tacherai", "tacheras", "tachera", "tacherons", "tacherez", "tacheront"],
+        "cond.pres": ["tacherais", "tacherais", "tacherait", "tacherions", "tacheriez", "tacheraient"],
+        "subj.pres": ["tache", "taches", "tache", "tachions", "tachiez", "tachent"],
+        "subj.imp": ["tachasse", "tachasses", "tachât", "tachassions", "tachassiez", "tachassent"],
+        "imper.pres": ["tache", "tachons", "tachez"]
+      },
+      "participe_present": "tachant",
+      "participe_passe": ["taché", "tachée", "tachés", "tachées"]
     }
   ]
 }
