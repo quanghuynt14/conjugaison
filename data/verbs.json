@@ -13409,6 +13409,25 @@
       },
       "participe_present": "compliquant",
       "participe_passe": ["compliqué", "compliquée", "compliqués", "compliquées"]
+    },
+    {
+      "id": "circuler",
+      "infinitif": "circuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « circulé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["circule", "circules", "circule", "circulons", "circulez", "circulent"],
+        "ind.imp": ["circulais", "circulais", "circulait", "circulions", "circuliez", "circulaient"],
+        "ind.ps": ["circulai", "circulas", "circula", "circulâmes", "circulâtes", "circulèrent"],
+        "ind.fut": ["circulerai", "circuleras", "circulera", "circulerons", "circulerez", "circuleront"],
+        "cond.pres": ["circulerais", "circulerais", "circulerait", "circulerions", "circuleriez", "circuleraient"],
+        "subj.pres": ["circule", "circules", "circule", "circulions", "circuliez", "circulent"],
+        "subj.imp": ["circulasse", "circulasses", "circulât", "circulassions", "circulassiez", "circulassent"],
+        "imper.pres": ["circule", "circulons", "circulez"]
+      },
+      "participe_present": "circulant",
+      "participe_passe": ["circulé", null, null, null]
     }
   ]
 }
