@@ -34689,6 +34689,25 @@
       },
       "participe_present": "arnaquant",
       "participe_passe": ["arnaqué", "arnaquée", "arnaqués", "arnaquées"]
+    },
+    {
+      "id": "décroître",
+      "infinitif": "décroître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « décru » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["décrois", "décrois", "décroît", "décroissons", "décroissez", "décroissent"],
+        "ind.imp": ["décroissais", "décroissais", "décroissait", "décroissions", "décroissiez", "décroissaient"],
+        "ind.ps": ["décrus", "décrus", "décrut", "décrûmes", "décrûtes", "décrurent"],
+        "ind.fut": ["décroîtrai", "décroîtras", "décroîtra", "décroîtrons", "décroîtrez", "décroîtront"],
+        "cond.pres": ["décroîtrais", "décroîtrais", "décroîtrait", "décroîtrions", "décroîtriez", "décroîtraient"],
+        "subj.pres": ["décroisse", "décroisses", "décroisse", "décroissions", "décroissiez", "décroissent"],
+        "subj.imp": ["décrusse", "décrusses", "décrût", "décrussions", "décrussiez", "décrussent"],
+        "imper.pres": ["décrois", "décroissons", "décroissez"]
+      },
+      "participe_present": "décroissant",
+      "participe_passe": ["décru", null, null, null]
     }
   ]
 }
