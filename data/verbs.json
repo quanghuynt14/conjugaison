@@ -25152,6 +25152,24 @@
       },
       "participe_present": "bénéficiant",
       "participe_passe": ["bénéficié", null, null, null]
+    },
+    {
+      "id": "desserrer",
+      "infinitif": "desserrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["desserre", "desserres", "desserre", "desserrons", "desserrez", "desserrent"],
+        "ind.imp": ["desserrais", "desserrais", "desserrait", "desserrions", "desserriez", "desserraient"],
+        "ind.ps": ["desserrai", "desserras", "desserra", "desserrâmes", "desserrâtes", "desserrèrent"],
+        "ind.fut": ["desserrerai", "desserreras", "desserrera", "desserrerons", "desserrerez", "desserreront"],
+        "cond.pres": ["desserrerais", "desserrerais", "desserrerait", "desserrerions", "desserreriez", "desserreraient"],
+        "subj.pres": ["desserre", "desserres", "desserre", "desserrions", "desserriez", "desserrent"],
+        "subj.imp": ["desserrasse", "desserrasses", "desserrât", "desserrassions", "desserrassiez", "desserrassent"],
+        "imper.pres": ["desserre", "desserrons", "desserrez"]
+      },
+      "participe_present": "desserrant",
+      "participe_passe": ["desserré", "desserrée", "desserrés", "desserrées"]
     }
   ]
 }
