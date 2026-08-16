@@ -27669,6 +27669,24 @@
       },
       "participe_present": "grisant",
       "participe_passe": ["grisé", "grisée", "grisés", "grisées"]
+    },
+    {
+      "id": "souder",
+      "infinitif": "souder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["soude", "soudes", "soude", "soudons", "soudez", "soudent"],
+        "ind.imp": ["soudais", "soudais", "soudait", "soudions", "soudiez", "soudaient"],
+        "ind.ps": ["soudai", "soudas", "souda", "soudâmes", "soudâtes", "soudèrent"],
+        "ind.fut": ["souderai", "souderas", "soudera", "souderons", "souderez", "souderont"],
+        "cond.pres": ["souderais", "souderais", "souderait", "souderions", "souderiez", "souderaient"],
+        "subj.pres": ["soude", "soudes", "soude", "soudions", "soudiez", "soudent"],
+        "subj.imp": ["soudasse", "soudasses", "soudât", "soudassions", "soudassiez", "soudassent"],
+        "imper.pres": ["soude", "soudons", "soudez"]
+      },
+      "participe_present": "soudant",
+      "participe_passe": ["soudé", "soudée", "soudés", "soudées"]
     }
   ]
 }
