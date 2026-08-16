@@ -19269,6 +19269,24 @@
       },
       "participe_present": "dévoilant",
       "participe_passe": ["dévoilé", "dévoilée", "dévoilés", "dévoilées"]
+    },
+    {
+      "id": "choper",
+      "infinitif": "choper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chope", "chopes", "chope", "chopons", "chopez", "chopent"],
+        "ind.imp": ["chopais", "chopais", "chopait", "chopions", "chopiez", "chopaient"],
+        "ind.ps": ["chopai", "chopas", "chopa", "chopâmes", "chopâtes", "chopèrent"],
+        "ind.fut": ["choperai", "choperas", "chopera", "choperons", "choperez", "choperont"],
+        "cond.pres": ["choperais", "choperais", "choperait", "choperions", "choperiez", "choperaient"],
+        "subj.pres": ["chope", "chopes", "chope", "chopions", "chopiez", "chopent"],
+        "subj.imp": ["chopasse", "chopasses", "chopât", "chopassions", "chopassiez", "chopassent"],
+        "imper.pres": ["chope", "chopons", "chopez"]
+      },
+      "participe_present": "chopant",
+      "participe_passe": ["chopé", "chopée", "chopés", "chopées"]
     }
   ]
 }
