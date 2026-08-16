@@ -12555,6 +12555,25 @@
       },
       "participe_present": "débordant",
       "participe_passe": ["débordé", "débordée", "débordés", "débordées"]
+    },
+    {
+      "id": "précéder",
+      "infinitif": "précéder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je précéderai » ou « je précèderai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["précède", "précèdes", "précède", "précédons", "précédez", "précèdent"],
+        "ind.imp": ["précédais", "précédais", "précédait", "précédions", "précédiez", "précédaient"],
+        "ind.ps": ["précédai", "précédas", "précéda", "précédâmes", "précédâtes", "précédèrent"],
+        "ind.fut": [["précéderai", "précèderai"], ["précéderas", "précèderas"], ["précédera", "précèdera"], ["précéderons", "précèderons"], ["précéderez", "précèderez"], ["précéderont", "précèderont"]],
+        "cond.pres": [["précéderais", "précèderais"], ["précéderais", "précèderais"], ["précéderait", "précèderait"], ["précéderions", "précèderions"], ["précéderiez", "précèderiez"], ["précéderaient", "précèderaient"]],
+        "subj.pres": ["précède", "précèdes", "précède", "précédions", "précédiez", "précèdent"],
+        "subj.imp": ["précédasse", "précédasses", "précédât", "précédassions", "précédassiez", "précédassent"],
+        "imper.pres": ["précède", "précédons", "précédez"]
+      },
+      "participe_present": "précédant",
+      "participe_passe": ["précédé", "précédée", "précédés", "précédées"]
     }
   ]
 }
