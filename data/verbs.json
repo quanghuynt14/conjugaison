@@ -26389,6 +26389,24 @@
       },
       "participe_present": "abolissant",
       "participe_passe": ["aboli", "abolie", "abolis", "abolies"]
+    },
+    {
+      "id": "relancer",
+      "infinitif": "relancer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["relance", "relances", "relance", "relançons", "relancez", "relancent"],
+        "ind.imp": ["relançais", "relançais", "relançait", "relancions", "relanciez", "relançaient"],
+        "ind.ps": ["relançai", "relanças", "relança", "relançâmes", "relançâtes", "relancèrent"],
+        "ind.fut": ["relancerai", "relanceras", "relancera", "relancerons", "relancerez", "relanceront"],
+        "cond.pres": ["relancerais", "relancerais", "relancerait", "relancerions", "relanceriez", "relanceraient"],
+        "subj.pres": ["relance", "relances", "relance", "relancions", "relanciez", "relancent"],
+        "subj.imp": ["relançasse", "relançasses", "relançât", "relançassions", "relançassiez", "relançassent"],
+        "imper.pres": ["relance", "relançons", "relancez"]
+      },
+      "participe_present": "relançant",
+      "participe_passe": ["relancé", "relancée", "relancés", "relancées"]
     }
   ]
 }
