@@ -8669,6 +8669,24 @@
       },
       "participe_present": "affirmant",
       "participe_passe": ["affirmé", "affirmée", "affirmés", "affirmées"]
+    },
+    {
+      "id": "joindre",
+      "infinitif": "joindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["joins", "joins", "joint", "joignons", "joignez", "joignent"],
+        "ind.imp": ["joignais", "joignais", "joignait", "joignions", "joigniez", "joignaient"],
+        "ind.ps": ["joignis", "joignis", "joignit", "joignîmes", "joignîtes", "joignirent"],
+        "ind.fut": ["joindrai", "joindras", "joindra", "joindrons", "joindrez", "joindront"],
+        "cond.pres": ["joindrais", "joindrais", "joindrait", "joindrions", "joindriez", "joindraient"],
+        "subj.pres": ["joigne", "joignes", "joigne", "joignions", "joigniez", "joignent"],
+        "subj.imp": ["joignisse", "joignisses", "joignît", "joignissions", "joignissiez", "joignissent"],
+        "imper.pres": ["joins", "joignons", "joignez"]
+      },
+      "participe_present": "joignant",
+      "participe_passe": ["joint", "jointe", "joints", "jointes"]
     }
   ]
 }
