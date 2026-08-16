@@ -14173,6 +14173,24 @@
       },
       "participe_present": "succédant",
       "participe_passe": ["succédé", null, null, null]
+    },
+    {
+      "id": "enchanter",
+      "infinitif": "enchanter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enchante", "enchantes", "enchante", "enchantons", "enchantez", "enchantent"],
+        "ind.imp": ["enchantais", "enchantais", "enchantait", "enchantions", "enchantiez", "enchantaient"],
+        "ind.ps": ["enchantai", "enchantas", "enchanta", "enchantâmes", "enchantâtes", "enchantèrent"],
+        "ind.fut": ["enchanterai", "enchanteras", "enchantera", "enchanterons", "enchanterez", "enchanteront"],
+        "cond.pres": ["enchanterais", "enchanterais", "enchanterait", "enchanterions", "enchanteriez", "enchanteraient"],
+        "subj.pres": ["enchante", "enchantes", "enchante", "enchantions", "enchantiez", "enchantent"],
+        "subj.imp": ["enchantasse", "enchantasses", "enchantât", "enchantassions", "enchantassiez", "enchantassent"],
+        "imper.pres": ["enchante", "enchantons", "enchantez"]
+      },
+      "participe_present": "enchantant",
+      "participe_passe": ["enchanté", "enchantée", "enchantés", "enchantées"]
     }
   ]
 }
