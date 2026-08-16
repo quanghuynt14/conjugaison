@@ -22999,6 +22999,24 @@
       },
       "participe_present": "orientant",
       "participe_passe": ["orienté", "orientée", "orientés", "orientées"]
+    },
+    {
+      "id": "durcir",
+      "infinitif": "durcir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["durcis", "durcis", "durcit", "durcissons", "durcissez", "durcissent"],
+        "ind.imp": ["durcissais", "durcissais", "durcissait", "durcissions", "durcissiez", "durcissaient"],
+        "ind.ps": ["durcis", "durcis", "durcit", "durcîmes", "durcîtes", "durcirent"],
+        "ind.fut": ["durcirai", "durciras", "durcira", "durcirons", "durcirez", "durciront"],
+        "cond.pres": ["durcirais", "durcirais", "durcirait", "durcirions", "durciriez", "durciraient"],
+        "subj.pres": ["durcisse", "durcisses", "durcisse", "durcissions", "durcissiez", "durcissent"],
+        "subj.imp": ["durcisse", "durcisses", "durcît", "durcissions", "durcissiez", "durcissent"],
+        "imper.pres": ["durcis", "durcissons", "durcissez"]
+      },
+      "participe_present": "durcissant",
+      "participe_passe": ["durci", "durcie", "durcis", "durcies"]
     }
   ]
 }
