@@ -9954,6 +9954,24 @@
       },
       "participe_present": "opposant",
       "participe_passe": ["opposé", "opposée", "opposés", "opposées"]
+    },
+    {
+      "id": "gonfler",
+      "infinitif": "gonfler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gonfle", "gonfles", "gonfle", "gonflons", "gonflez", "gonflent"],
+        "ind.imp": ["gonflais", "gonflais", "gonflait", "gonflions", "gonfliez", "gonflaient"],
+        "ind.ps": ["gonflai", "gonflas", "gonfla", "gonflâmes", "gonflâtes", "gonflèrent"],
+        "ind.fut": ["gonflerai", "gonfleras", "gonflera", "gonflerons", "gonflerez", "gonfleront"],
+        "cond.pres": ["gonflerais", "gonflerais", "gonflerait", "gonflerions", "gonfleriez", "gonfleraient"],
+        "subj.pres": ["gonfle", "gonfles", "gonfle", "gonflions", "gonfliez", "gonflent"],
+        "subj.imp": ["gonflasse", "gonflasses", "gonflât", "gonflassions", "gonflassiez", "gonflassent"],
+        "imper.pres": ["gonfle", "gonflons", "gonflez"]
+      },
+      "participe_present": "gonflant",
+      "participe_passe": ["gonflé", "gonflée", "gonflés", "gonflées"]
     }
   ]
 }
