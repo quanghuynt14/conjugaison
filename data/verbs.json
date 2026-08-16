@@ -131,6 +131,25 @@
       },
       "participe_present": "disant",
       "participe_passe": ["dit", "dite", "dits", "dites"]
+    },
+    {
+      "id": "pouvoir",
+      "infinitif": "pouvoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Pas d'impératif : on ne commande pas de pouvoir. Le présent a deux premières personnes, « je peux » et « je puis », la seconde plus soutenue — mais l'interrogation ne connaît que « puis-je ».",
+      "tenses": {
+        "ind.pres": [["peux", "puis"], "peux", "peut", "pouvons", "pouvez", "peuvent"],
+        "ind.imp": ["pouvais", "pouvais", "pouvait", "pouvions", "pouviez", "pouvaient"],
+        "ind.ps": ["pus", "pus", "put", "pûmes", "pûtes", "purent"],
+        "ind.fut": ["pourrai", "pourras", "pourra", "pourrons", "pourrez", "pourront"],
+        "cond.pres": ["pourrais", "pourrais", "pourrait", "pourrions", "pourriez", "pourraient"],
+        "subj.pres": ["puisse", "puisses", "puisse", "puissions", "puissiez", "puissent"],
+        "subj.imp": ["pusse", "pusses", "pût", "pussions", "pussiez", "pussent"],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": "pouvant",
+      "participe_passe": ["pu", null, null, null]
     }
   ]
 }
