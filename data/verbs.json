@@ -33341,6 +33341,24 @@
       },
       "participe_present": "voletant",
       "participe_passe": ["voleté", null, null, null]
+    },
+    {
+      "id": "carrer",
+      "infinitif": "carrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["carre", "carres", "carre", "carrons", "carrez", "carrent"],
+        "ind.imp": ["carrais", "carrais", "carrait", "carrions", "carriez", "carraient"],
+        "ind.ps": ["carrai", "carras", "carra", "carrâmes", "carrâtes", "carrèrent"],
+        "ind.fut": ["carrerai", "carreras", "carrera", "carrerons", "carrerez", "carreront"],
+        "cond.pres": ["carrerais", "carrerais", "carrerait", "carrerions", "carreriez", "carreraient"],
+        "subj.pres": ["carre", "carres", "carre", "carrions", "carriez", "carrent"],
+        "subj.imp": ["carrasse", "carrasses", "carrât", "carrassions", "carrassiez", "carrassent"],
+        "imper.pres": ["carre", "carrons", "carrez"]
+      },
+      "participe_present": "carrant",
+      "participe_passe": ["carré", "carrée", "carrés", "carrées"]
     }
   ]
 }
