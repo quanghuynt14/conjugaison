@@ -26863,6 +26863,24 @@
       },
       "participe_present": "clochant",
       "participe_passe": ["cloché", null, null, null]
+    },
+    {
+      "id": "prélever",
+      "infinitif": "prélever",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prélève", "prélèves", "prélève", "prélevons", "prélevez", "prélèvent"],
+        "ind.imp": ["prélevais", "prélevais", "prélevait", "prélevions", "préleviez", "prélevaient"],
+        "ind.ps": ["prélevai", "prélevas", "préleva", "prélevâmes", "prélevâtes", "prélevèrent"],
+        "ind.fut": ["prélèverai", "prélèveras", "prélèvera", "prélèverons", "prélèverez", "prélèveront"],
+        "cond.pres": ["prélèverais", "prélèverais", "prélèverait", "prélèverions", "prélèveriez", "prélèveraient"],
+        "subj.pres": ["prélève", "prélèves", "prélève", "prélevions", "préleviez", "prélèvent"],
+        "subj.imp": ["prélevasse", "prélevasses", "prélevât", "prélevassions", "prélevassiez", "prélevassent"],
+        "imper.pres": ["prélève", "prélevons", "prélevez"]
+      },
+      "participe_present": "prélevant",
+      "participe_passe": ["prélevé", "prélevée", "prélevés", "prélevées"]
     }
   ]
 }
