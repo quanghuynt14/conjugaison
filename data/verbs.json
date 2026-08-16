@@ -11934,6 +11934,26 @@
       },
       "participe_present": "parant",
       "participe_passe": ["paré", "parée", "parés", "parées"]
+    },
+    {
+      "id": "écrouler",
+      "infinitif": "écrouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’écroule » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["écroule", "écroules", "écroule", "écroulons", "écroulez", "écroulent"],
+        "ind.imp": ["écroulais", "écroulais", "écroulait", "écroulions", "écrouliez", "écroulaient"],
+        "ind.ps": ["écroulai", "écroulas", "écroula", "écroulâmes", "écroulâtes", "écroulèrent"],
+        "ind.fut": ["écroulerai", "écrouleras", "écroulera", "écroulerons", "écroulerez", "écrouleront"],
+        "cond.pres": ["écroulerais", "écroulerais", "écroulerait", "écroulerions", "écrouleriez", "écrouleraient"],
+        "subj.pres": ["écroule", "écroules", "écroule", "écroulions", "écrouliez", "écroulent"],
+        "subj.imp": ["écroulasse", "écroulasses", "écroulât", "écroulassions", "écroulassiez", "écroulassent"],
+        "imper.pres": ["écroule", "écroulons", "écroulez"]
+      },
+      "participe_present": "écroulant",
+      "participe_passe": ["écroulé", "écroulée", "écroulés", "écroulées"]
     }
   ]
 }
