@@ -947,6 +947,24 @@
       },
       "participe_present": "entrant",
       "participe_passe": ["entré", "entrée", "entrés", "entrées"]
+    },
+    {
+      "id": "aider",
+      "infinitif": "aider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aide", "aides", "aide", "aidons", "aidez", "aident"],
+        "ind.imp": ["aidais", "aidais", "aidait", "aidions", "aidiez", "aidaient"],
+        "ind.ps": ["aidai", "aidas", "aida", "aidâmes", "aidâtes", "aidèrent"],
+        "ind.fut": ["aiderai", "aideras", "aidera", "aiderons", "aiderez", "aideront"],
+        "cond.pres": ["aiderais", "aiderais", "aiderait", "aiderions", "aideriez", "aideraient"],
+        "subj.pres": ["aide", "aides", "aide", "aidions", "aidiez", "aident"],
+        "subj.imp": ["aidasse", "aidasses", "aidât", "aidassions", "aidassiez", "aidassent"],
+        "imper.pres": ["aide", "aidons", "aidez"]
+      },
+      "participe_present": "aidant",
+      "participe_passe": ["aidé", "aidée", "aidés", "aidées"]
     }
   ]
 }
