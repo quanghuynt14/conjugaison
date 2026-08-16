@@ -27958,6 +27958,24 @@
       },
       "participe_present": "exauçant",
       "participe_passe": ["exaucé", "exaucée", "exaucés", "exaucées"]
+    },
+    {
+      "id": "écorcher",
+      "infinitif": "écorcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["écorche", "écorches", "écorche", "écorchons", "écorchez", "écorchent"],
+        "ind.imp": ["écorchais", "écorchais", "écorchait", "écorchions", "écorchiez", "écorchaient"],
+        "ind.ps": ["écorchai", "écorchas", "écorcha", "écorchâmes", "écorchâtes", "écorchèrent"],
+        "ind.fut": ["écorcherai", "écorcheras", "écorchera", "écorcherons", "écorcherez", "écorcheront"],
+        "cond.pres": ["écorcherais", "écorcherais", "écorcherait", "écorcherions", "écorcheriez", "écorcheraient"],
+        "subj.pres": ["écorche", "écorches", "écorche", "écorchions", "écorchiez", "écorchent"],
+        "subj.imp": ["écorchasse", "écorchasses", "écorchât", "écorchassions", "écorchassiez", "écorchassent"],
+        "imper.pres": ["écorche", "écorchons", "écorchez"]
+      },
+      "participe_present": "écorchant",
+      "participe_passe": ["écorché", "écorchée", "écorchés", "écorchées"]
     }
   ]
 }
