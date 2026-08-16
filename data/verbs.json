@@ -23399,6 +23399,24 @@
       },
       "participe_present": "révoltant",
       "participe_passe": ["révolté", "révoltée", "révoltés", "révoltées"]
+    },
+    {
+      "id": "borner",
+      "infinitif": "borner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["borne", "bornes", "borne", "bornons", "bornez", "bornent"],
+        "ind.imp": ["bornais", "bornais", "bornait", "bornions", "borniez", "bornaient"],
+        "ind.ps": ["bornai", "bornas", "borna", "bornâmes", "bornâtes", "bornèrent"],
+        "ind.fut": ["bornerai", "borneras", "bornera", "bornerons", "bornerez", "borneront"],
+        "cond.pres": ["bornerais", "bornerais", "bornerait", "bornerions", "borneriez", "borneraient"],
+        "subj.pres": ["borne", "bornes", "borne", "bornions", "borniez", "bornent"],
+        "subj.imp": ["bornasse", "bornasses", "bornât", "bornassions", "bornassiez", "bornassent"],
+        "imper.pres": ["borne", "bornons", "bornez"]
+      },
+      "participe_present": "bornant",
+      "participe_passe": ["borné", "bornée", "bornés", "bornées"]
     }
   ]
 }
