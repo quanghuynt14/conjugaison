@@ -34835,6 +34835,24 @@
       },
       "participe_present": "graissant",
       "participe_passe": ["graissé", "graissée", "graissés", "graissées"]
+    },
+    {
+      "id": "mutiler",
+      "infinitif": "mutiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mutile", "mutiles", "mutile", "mutilons", "mutilez", "mutilent"],
+        "ind.imp": ["mutilais", "mutilais", "mutilait", "mutilions", "mutiliez", "mutilaient"],
+        "ind.ps": ["mutilai", "mutilas", "mutila", "mutilâmes", "mutilâtes", "mutilèrent"],
+        "ind.fut": ["mutilerai", "mutileras", "mutilera", "mutilerons", "mutilerez", "mutileront"],
+        "cond.pres": ["mutilerais", "mutilerais", "mutilerait", "mutilerions", "mutileriez", "mutileraient"],
+        "subj.pres": ["mutile", "mutiles", "mutile", "mutilions", "mutiliez", "mutilent"],
+        "subj.imp": ["mutilasse", "mutilasses", "mutilât", "mutilassions", "mutilassiez", "mutilassent"],
+        "imper.pres": ["mutile", "mutilons", "mutilez"]
+      },
+      "participe_present": "mutilant",
+      "participe_passe": ["mutilé", "mutilée", "mutilés", "mutilées"]
     }
   ]
 }
