@@ -28560,6 +28560,24 @@
       },
       "participe_present": "sillonnant",
       "participe_passe": ["sillonné", "sillonnée", "sillonnés", "sillonnées"]
+    },
+    {
+      "id": "remarier",
+      "infinitif": "remarier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["remarie", "remaries", "remarie", "remarions", "remariez", "remarient"],
+        "ind.imp": ["remariais", "remariais", "remariait", "remariions", "remariiez", "remariaient"],
+        "ind.ps": ["remariai", "remarias", "remaria", "remariâmes", "remariâtes", "remarièrent"],
+        "ind.fut": ["remarierai", "remarieras", "remariera", "remarierons", "remarierez", "remarieront"],
+        "cond.pres": ["remarierais", "remarierais", "remarierait", "remarierions", "remarieriez", "remarieraient"],
+        "subj.pres": ["remarie", "remaries", "remarie", "remariions", "remariiez", "remarient"],
+        "subj.imp": ["remariasse", "remariasses", "remariât", "remariassions", "remariassiez", "remariassent"],
+        "imper.pres": ["remarie", "remarions", "remariez"]
+      },
+      "participe_present": "remariant",
+      "participe_passe": ["remarié", "remariée", "remariés", "remariées"]
     }
   ]
 }
