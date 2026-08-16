@@ -27339,6 +27339,24 @@
       },
       "participe_present": "variant",
       "participe_passe": ["varié", "variée", "variés", "variées"]
+    },
+    {
+      "id": "survoler",
+      "infinitif": "survoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["survole", "survoles", "survole", "survolons", "survolez", "survolent"],
+        "ind.imp": ["survolais", "survolais", "survolait", "survolions", "survoliez", "survolaient"],
+        "ind.ps": ["survolai", "survolas", "survola", "survolâmes", "survolâtes", "survolèrent"],
+        "ind.fut": ["survolerai", "survoleras", "survolera", "survolerons", "survolerez", "survoleront"],
+        "cond.pres": ["survolerais", "survolerais", "survolerait", "survolerions", "survoleriez", "survoleraient"],
+        "subj.pres": ["survole", "survoles", "survole", "survolions", "survoliez", "survolent"],
+        "subj.imp": ["survolasse", "survolasses", "survolât", "survolassions", "survolassiez", "survolassent"],
+        "imper.pres": ["survole", "survolons", "survolez"]
+      },
+      "participe_present": "survolant",
+      "participe_passe": ["survolé", "survolée", "survolés", "survolées"]
     }
   ]
 }
