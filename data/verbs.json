@@ -8218,6 +8218,24 @@
       },
       "participe_present": "échangeant",
       "participe_passe": ["échangé", "échangée", "échangés", "échangées"]
+    },
+    {
+      "id": "déplacer",
+      "infinitif": "déplacer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déplace", "déplaces", "déplace", "déplaçons", "déplacez", "déplacent"],
+        "ind.imp": ["déplaçais", "déplaçais", "déplaçait", "déplacions", "déplaciez", "déplaçaient"],
+        "ind.ps": ["déplaçai", "déplaças", "déplaça", "déplaçâmes", "déplaçâtes", "déplacèrent"],
+        "ind.fut": ["déplacerai", "déplaceras", "déplacera", "déplacerons", "déplacerez", "déplaceront"],
+        "cond.pres": ["déplacerais", "déplacerais", "déplacerait", "déplacerions", "déplaceriez", "déplaceraient"],
+        "subj.pres": ["déplace", "déplaces", "déplace", "déplacions", "déplaciez", "déplacent"],
+        "subj.imp": ["déplaçasse", "déplaçasses", "déplaçât", "déplaçassions", "déplaçassiez", "déplaçassent"],
+        "imper.pres": ["déplace", "déplaçons", "déplacez"]
+      },
+      "participe_present": "déplaçant",
+      "participe_passe": ["déplacé", "déplacée", "déplacés", "déplacées"]
     }
   ]
 }
