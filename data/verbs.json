@@ -27540,6 +27540,25 @@
       },
       "participe_present": "teintant",
       "participe_passe": ["teinté", "teintée", "teintés", "teintées"]
+    },
+    {
+      "id": "décéder",
+      "infinitif": "décéder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je décéderai » ou « je décèderai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["décède", "décèdes", "décède", "décédons", "décédez", "décèdent"],
+        "ind.imp": ["décédais", "décédais", "décédait", "décédions", "décédiez", "décédaient"],
+        "ind.ps": ["décédai", "décédas", "décéda", "décédâmes", "décédâtes", "décédèrent"],
+        "ind.fut": [["décéderai", "décèderai"], ["décéderas", "décèderas"], ["décédera", "décèdera"], ["décéderons", "décèderons"], ["décéderez", "décèderez"], ["décéderont", "décèderont"]],
+        "cond.pres": [["décéderais", "décèderais"], ["décéderais", "décèderais"], ["décéderait", "décèderait"], ["décéderions", "décèderions"], ["décéderiez", "décèderiez"], ["décéderaient", "décèderaient"]],
+        "subj.pres": ["décède", "décèdes", "décède", "décédions", "décédiez", "décèdent"],
+        "subj.imp": ["décédasse", "décédasses", "décédât", "décédassions", "décédassiez", "décédassent"],
+        "imper.pres": ["décède", "décédons", "décédez"]
+      },
+      "participe_present": "décédant",
+      "participe_passe": ["décédé", "décédée", "décédés", "décédées"]
     }
   ]
 }
