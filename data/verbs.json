@@ -1186,6 +1186,24 @@
       },
       "participe_present": "marchant",
       "participe_passe": ["marché", null, null, null]
+    },
+    {
+      "id": "travailler",
+      "infinitif": "travailler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["travaille", "travailles", "travaille", "travaillons", "travaillez", "travaillent"],
+        "ind.imp": ["travaillais", "travaillais", "travaillait", "travaillions", "travailliez", "travaillaient"],
+        "ind.ps": ["travaillai", "travaillas", "travailla", "travaillâmes", "travaillâtes", "travaillèrent"],
+        "ind.fut": ["travaillerai", "travailleras", "travaillera", "travaillerons", "travaillerez", "travailleront"],
+        "cond.pres": ["travaillerais", "travaillerais", "travaillerait", "travaillerions", "travailleriez", "travailleraient"],
+        "subj.pres": ["travaille", "travailles", "travaille", "travaillions", "travailliez", "travaillent"],
+        "subj.imp": ["travaillasse", "travaillasses", "travaillât", "travaillassions", "travaillassiez", "travaillassent"],
+        "imper.pres": ["travaille", "travaillons", "travaillez"]
+      },
+      "participe_present": "travaillant",
+      "participe_passe": ["travaillé", "travaillée", "travaillés", "travaillées"]
     }
   ]
 }
