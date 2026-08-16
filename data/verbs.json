@@ -19215,6 +19215,24 @@
       },
       "participe_present": "extrayant",
       "participe_passe": ["extrait", "extraite", "extraits", "extraites"]
+    },
+    {
+      "id": "refiler",
+      "infinitif": "refiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["refile", "refiles", "refile", "refilons", "refilez", "refilent"],
+        "ind.imp": ["refilais", "refilais", "refilait", "refilions", "refiliez", "refilaient"],
+        "ind.ps": ["refilai", "refilas", "refila", "refilâmes", "refilâtes", "refilèrent"],
+        "ind.fut": ["refilerai", "refileras", "refilera", "refilerons", "refilerez", "refileront"],
+        "cond.pres": ["refilerais", "refilerais", "refilerait", "refilerions", "refileriez", "refileraient"],
+        "subj.pres": ["refile", "refiles", "refile", "refilions", "refiliez", "refilent"],
+        "subj.imp": ["refilasse", "refilasses", "refilât", "refilassions", "refilassiez", "refilassent"],
+        "imper.pres": ["refile", "refilons", "refilez"]
+      },
+      "participe_present": "refilant",
+      "participe_passe": ["refilé", "refilée", "refilés", "refilées"]
     }
   ]
 }
