@@ -6731,6 +6731,24 @@
       },
       "participe_present": "débarrassant",
       "participe_passe": ["débarrassé", "débarrassée", "débarrassés", "débarrassées"]
+    },
+    {
+      "id": "grandir",
+      "infinitif": "grandir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["grandis", "grandis", "grandit", "grandissons", "grandissez", "grandissent"],
+        "ind.imp": ["grandissais", "grandissais", "grandissait", "grandissions", "grandissiez", "grandissaient"],
+        "ind.ps": ["grandis", "grandis", "grandit", "grandîmes", "grandîtes", "grandirent"],
+        "ind.fut": ["grandirai", "grandiras", "grandira", "grandirons", "grandirez", "grandiront"],
+        "cond.pres": ["grandirais", "grandirais", "grandirait", "grandirions", "grandiriez", "grandiraient"],
+        "subj.pres": ["grandisse", "grandisses", "grandisse", "grandissions", "grandissiez", "grandissent"],
+        "subj.imp": ["grandisse", "grandisses", "grandît", "grandissions", "grandissiez", "grandissent"],
+        "imper.pres": ["grandis", "grandissons", "grandissez"]
+      },
+      "participe_present": "grandissant",
+      "participe_passe": ["grandi", "grandie", "grandis", "grandies"]
     }
   ]
 }
