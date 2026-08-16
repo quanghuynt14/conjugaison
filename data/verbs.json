@@ -5500,6 +5500,24 @@
       },
       "participe_present": "soulevant",
       "participe_passe": ["soulevé", "soulevée", "soulevés", "soulevées"]
+    },
+    {
+      "id": "entourer",
+      "infinitif": "entourer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entoure", "entoures", "entoure", "entourons", "entourez", "entourent"],
+        "ind.imp": ["entourais", "entourais", "entourait", "entourions", "entouriez", "entouraient"],
+        "ind.ps": ["entourai", "entouras", "entoura", "entourâmes", "entourâtes", "entourèrent"],
+        "ind.fut": ["entourerai", "entoureras", "entourera", "entourerons", "entourerez", "entoureront"],
+        "cond.pres": ["entourerais", "entourerais", "entourerait", "entourerions", "entoureriez", "entoureraient"],
+        "subj.pres": ["entoure", "entoures", "entoure", "entourions", "entouriez", "entourent"],
+        "subj.imp": ["entourasse", "entourasses", "entourât", "entourassions", "entourassiez", "entourassent"],
+        "imper.pres": ["entoure", "entourons", "entourez"]
+      },
+      "participe_present": "entourant",
+      "participe_passe": ["entouré", "entourée", "entourés", "entourées"]
     }
   ]
 }
