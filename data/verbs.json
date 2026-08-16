@@ -25242,6 +25242,24 @@
       },
       "participe_present": "assaillant",
       "participe_passe": ["assailli", "assaillie", "assaillis", "assaillies"]
+    },
+    {
+      "id": "terrifier",
+      "infinitif": "terrifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["terrifie", "terrifies", "terrifie", "terrifions", "terrifiez", "terrifient"],
+        "ind.imp": ["terrifiais", "terrifiais", "terrifiait", "terrifiions", "terrifiiez", "terrifiaient"],
+        "ind.ps": ["terrifiai", "terrifias", "terrifia", "terrifiâmes", "terrifiâtes", "terrifièrent"],
+        "ind.fut": ["terrifierai", "terrifieras", "terrifiera", "terrifierons", "terrifierez", "terrifieront"],
+        "cond.pres": ["terrifierais", "terrifierais", "terrifierait", "terrifierions", "terrifieriez", "terrifieraient"],
+        "subj.pres": ["terrifie", "terrifies", "terrifie", "terrifiions", "terrifiiez", "terrifient"],
+        "subj.imp": ["terrifiasse", "terrifiasses", "terrifiât", "terrifiassions", "terrifiassiez", "terrifiassent"],
+        "imper.pres": ["terrifie", "terrifions", "terrifiez"]
+      },
+      "participe_present": "terrifiant",
+      "participe_passe": ["terrifié", "terrifiée", "terrifiés", "terrifiées"]
     }
   ]
 }
