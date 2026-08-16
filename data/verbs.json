@@ -21114,6 +21114,24 @@
       },
       "participe_present": "savourant",
       "participe_passe": ["savouré", "savourée", "savourés", "savourées"]
+    },
+    {
+      "id": "transpirer",
+      "infinitif": "transpirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["transpire", "transpires", "transpire", "transpirons", "transpirez", "transpirent"],
+        "ind.imp": ["transpirais", "transpirais", "transpirait", "transpirions", "transpiriez", "transpiraient"],
+        "ind.ps": ["transpirai", "transpiras", "transpira", "transpirâmes", "transpirâtes", "transpirèrent"],
+        "ind.fut": ["transpirerai", "transpireras", "transpirera", "transpirerons", "transpirerez", "transpireront"],
+        "cond.pres": ["transpirerais", "transpirerais", "transpirerait", "transpirerions", "transpireriez", "transpireraient"],
+        "subj.pres": ["transpire", "transpires", "transpire", "transpirions", "transpiriez", "transpirent"],
+        "subj.imp": ["transpirasse", "transpirasses", "transpirât", "transpirassions", "transpirassiez", "transpirassent"],
+        "imper.pres": ["transpire", "transpirons", "transpirez"]
+      },
+      "participe_present": "transpirant",
+      "participe_passe": ["transpiré", "transpirée", "transpirés", "transpirées"]
     }
   ]
 }
