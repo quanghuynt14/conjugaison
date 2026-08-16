@@ -10300,6 +10300,25 @@
       },
       "participe_present": "jouissant",
       "participe_passe": ["joui", null, null, null]
+    },
+    {
+      "id": "repasser",
+      "infinitif": "repasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis repassé ». Avec un complément d'objet direct, avoir : « j'ai repassé la chemise ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["repasse", "repasses", "repasse", "repassons", "repassez", "repassent"],
+        "ind.imp": ["repassais", "repassais", "repassait", "repassions", "repassiez", "repassaient"],
+        "ind.ps": ["repassai", "repassas", "repassa", "repassâmes", "repassâtes", "repassèrent"],
+        "ind.fut": ["repasserai", "repasseras", "repassera", "repasserons", "repasserez", "repasseront"],
+        "cond.pres": ["repasserais", "repasserais", "repasserait", "repasserions", "repasseriez", "repasseraient"],
+        "subj.pres": ["repasse", "repasses", "repasse", "repassions", "repassiez", "repassent"],
+        "subj.imp": ["repassasse", "repassasses", "repassât", "repassassions", "repassassiez", "repassassent"],
+        "imper.pres": ["repasse", "repassons", "repassez"]
+      },
+      "participe_present": "repassant",
+      "participe_passe": ["repassé", "repassée", "repassés", "repassées"]
     }
   ]
 }
