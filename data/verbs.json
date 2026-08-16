@@ -35605,6 +35605,24 @@
       },
       "participe_present": "conformant",
       "participe_passe": ["conformé", "conformée", "conformés", "conformées"]
+    },
+    {
+      "id": "dévaster",
+      "infinitif": "dévaster",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dévaste", "dévastes", "dévaste", "dévastons", "dévastez", "dévastent"],
+        "ind.imp": ["dévastais", "dévastais", "dévastait", "dévastions", "dévastiez", "dévastaient"],
+        "ind.ps": ["dévastai", "dévastas", "dévasta", "dévastâmes", "dévastâtes", "dévastèrent"],
+        "ind.fut": ["dévasterai", "dévasteras", "dévastera", "dévasterons", "dévasterez", "dévasteront"],
+        "cond.pres": ["dévasterais", "dévasterais", "dévasterait", "dévasterions", "dévasteriez", "dévasteraient"],
+        "subj.pres": ["dévaste", "dévastes", "dévaste", "dévastions", "dévastiez", "dévastent"],
+        "subj.imp": ["dévastasse", "dévastasses", "dévastât", "dévastassions", "dévastassiez", "dévastassent"],
+        "imper.pres": ["dévaste", "dévastons", "dévastez"]
+      },
+      "participe_present": "dévastant",
+      "participe_passe": ["dévasté", "dévastée", "dévastés", "dévastées"]
     }
   ]
 }
