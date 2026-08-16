@@ -2206,6 +2206,24 @@
       },
       "participe_present": "apportant",
       "participe_passe": ["apporté", "apportée", "apportés", "apportées"]
+    },
+    {
+      "id": "bouger",
+      "infinitif": "bouger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bouge", "bouges", "bouge", "bougeons", "bougez", "bougent"],
+        "ind.imp": ["bougeais", "bougeais", "bougeait", "bougions", "bougiez", "bougeaient"],
+        "ind.ps": ["bougeai", "bougeas", "bougea", "bougeâmes", "bougeâtes", "bougèrent"],
+        "ind.fut": ["bougerai", "bougeras", "bougera", "bougerons", "bougerez", "bougeront"],
+        "cond.pres": ["bougerais", "bougerais", "bougerait", "bougerions", "bougeriez", "bougeraient"],
+        "subj.pres": ["bouge", "bouges", "bouge", "bougions", "bougiez", "bougent"],
+        "subj.imp": ["bougeasse", "bougeasses", "bougeât", "bougeassions", "bougeassiez", "bougeassent"],
+        "imper.pres": ["bouge", "bougeons", "bougez"]
+      },
+      "participe_present": "bougeant",
+      "participe_passe": ["bougé", "bougée", "bougés", "bougées"]
     }
   ]
 }
