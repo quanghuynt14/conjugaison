@@ -19124,6 +19124,24 @@
       },
       "participe_present": "calant",
       "participe_passe": ["calé", "calée", "calés", "calées"]
+    },
+    {
+      "id": "manier",
+      "infinitif": "manier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["manie", "manies", "manie", "manions", "maniez", "manient"],
+        "ind.imp": ["maniais", "maniais", "maniait", "maniions", "maniiez", "maniaient"],
+        "ind.ps": ["maniai", "manias", "mania", "maniâmes", "maniâtes", "manièrent"],
+        "ind.fut": ["manierai", "manieras", "maniera", "manierons", "manierez", "manieront"],
+        "cond.pres": ["manierais", "manierais", "manierait", "manierions", "manieriez", "manieraient"],
+        "subj.pres": ["manie", "manies", "manie", "maniions", "maniiez", "manient"],
+        "subj.imp": ["maniasse", "maniasses", "maniât", "maniassions", "maniassiez", "maniassent"],
+        "imper.pres": ["manie", "manions", "maniez"]
+      },
+      "participe_present": "maniant",
+      "participe_passe": ["manié", "maniée", "maniés", "maniées"]
     }
   ]
 }
