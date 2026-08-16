@@ -28724,6 +28724,25 @@
       },
       "participe_present": "stationnant",
       "participe_passe": ["stationné", "stationnée", "stationnés", "stationnées"]
+    },
+    {
+      "id": "vénérer",
+      "infinitif": "vénérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je vénérerai » ou « je vénèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["vénère", "vénères", "vénère", "vénérons", "vénérez", "vénèrent"],
+        "ind.imp": ["vénérais", "vénérais", "vénérait", "vénérions", "vénériez", "vénéraient"],
+        "ind.ps": ["vénérai", "vénéras", "vénéra", "vénérâmes", "vénérâtes", "vénérèrent"],
+        "ind.fut": [["vénérerai", "vénèrerai"], ["vénéreras", "vénèreras"], ["vénérera", "vénèrera"], ["vénérerons", "vénèrerons"], ["vénérerez", "vénèrerez"], ["vénéreront", "vénèreront"]],
+        "cond.pres": [["vénérerais", "vénèrerais"], ["vénérerais", "vénèrerais"], ["vénérerait", "vénèrerait"], ["vénérerions", "vénèrerions"], ["vénéreriez", "vénèreriez"], ["vénéreraient", "vénèreraient"]],
+        "subj.pres": ["vénère", "vénères", "vénère", "vénérions", "vénériez", "vénèrent"],
+        "subj.imp": ["vénérasse", "vénérasses", "vénérât", "vénérassions", "vénérassiez", "vénérassent"],
+        "imper.pres": ["vénère", "vénérons", "vénérez"]
+      },
+      "participe_present": "vénérant",
+      "participe_passe": ["vénéré", "vénérée", "vénérés", "vénérées"]
     }
   ]
 }
