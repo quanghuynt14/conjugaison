@@ -21204,6 +21204,24 @@
       },
       "participe_present": "récompensant",
       "participe_passe": ["récompensé", "récompensée", "récompensés", "récompensées"]
+    },
+    {
+      "id": "baser",
+      "infinitif": "baser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["base", "bases", "base", "basons", "basez", "basent"],
+        "ind.imp": ["basais", "basais", "basait", "basions", "basiez", "basaient"],
+        "ind.ps": ["basai", "basas", "basa", "basâmes", "basâtes", "basèrent"],
+        "ind.fut": ["baserai", "baseras", "basera", "baserons", "baserez", "baseront"],
+        "cond.pres": ["baserais", "baserais", "baserait", "baserions", "baseriez", "baseraient"],
+        "subj.pres": ["base", "bases", "base", "basions", "basiez", "basent"],
+        "subj.imp": ["basasse", "basasses", "basât", "basassions", "basassiez", "basassent"],
+        "imper.pres": ["base", "basons", "basez"]
+      },
+      "participe_present": "basant",
+      "participe_passe": ["basé", "basée", "basés", "basées"]
     }
   ]
 }
