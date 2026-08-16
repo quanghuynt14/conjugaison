@@ -9466,6 +9466,24 @@
       },
       "participe_present": "fâchant",
       "participe_passe": ["fâché", "fâchée", "fâchés", "fâchées"]
+    },
+    {
+      "id": "décrire",
+      "infinitif": "décrire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décris", "décris", "décrit", "décrivons", "décrivez", "décrivent"],
+        "ind.imp": ["décrivais", "décrivais", "décrivait", "décrivions", "décriviez", "décrivaient"],
+        "ind.ps": ["décrivis", "décrivis", "décrivit", "décrivîmes", "décrivîtes", "décrivirent"],
+        "ind.fut": ["décrirai", "décriras", "décrira", "décrirons", "décrirez", "décriront"],
+        "cond.pres": ["décrirais", "décrirais", "décrirait", "décririons", "décririez", "décriraient"],
+        "subj.pres": ["décrive", "décrives", "décrive", "décrivions", "décriviez", "décrivent"],
+        "subj.imp": ["décrivisse", "décrivisses", "décrivît", "décrivissions", "décrivissiez", "décrivissent"],
+        "imper.pres": ["décris", "décrivons", "décrivez"]
+      },
+      "participe_present": "décrivant",
+      "participe_passe": ["décrit", "décrite", "décrits", "décrites"]
     }
   ]
 }
