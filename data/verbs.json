@@ -22253,6 +22253,24 @@
       },
       "participe_present": "dédiant",
       "participe_passe": ["dédié", "dédiée", "dédiés", "dédiées"]
+    },
+    {
+      "id": "galoper",
+      "infinitif": "galoper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["galope", "galopes", "galope", "galopons", "galopez", "galopent"],
+        "ind.imp": ["galopais", "galopais", "galopait", "galopions", "galopiez", "galopaient"],
+        "ind.ps": ["galopai", "galopas", "galopa", "galopâmes", "galopâtes", "galopèrent"],
+        "ind.fut": ["galoperai", "galoperas", "galopera", "galoperons", "galoperez", "galoperont"],
+        "cond.pres": ["galoperais", "galoperais", "galoperait", "galoperions", "galoperiez", "galoperaient"],
+        "subj.pres": ["galope", "galopes", "galope", "galopions", "galopiez", "galopent"],
+        "subj.imp": ["galopasse", "galopasses", "galopât", "galopassions", "galopassiez", "galopassent"],
+        "imper.pres": ["galope", "galopons", "galopez"]
+      },
+      "participe_present": "galopant",
+      "participe_passe": ["galopé", "galopée", "galopés", "galopées"]
     }
   ]
 }
