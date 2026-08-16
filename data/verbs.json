@@ -28178,6 +28178,24 @@
       },
       "participe_present": "méprenant",
       "participe_passe": ["mépris", "méprise", "mépris", "méprises"]
+    },
+    {
+      "id": "combiner",
+      "infinitif": "combiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["combine", "combines", "combine", "combinons", "combinez", "combinent"],
+        "ind.imp": ["combinais", "combinais", "combinait", "combinions", "combiniez", "combinaient"],
+        "ind.ps": ["combinai", "combinas", "combina", "combinâmes", "combinâtes", "combinèrent"],
+        "ind.fut": ["combinerai", "combineras", "combinera", "combinerons", "combinerez", "combineront"],
+        "cond.pres": ["combinerais", "combinerais", "combinerait", "combinerions", "combineriez", "combineraient"],
+        "subj.pres": ["combine", "combines", "combine", "combinions", "combiniez", "combinent"],
+        "subj.imp": ["combinasse", "combinasses", "combinât", "combinassions", "combinassiez", "combinassent"],
+        "imper.pres": ["combine", "combinons", "combinez"]
+      },
+      "participe_present": "combinant",
+      "participe_passe": ["combiné", "combinée", "combinés", "combinées"]
     }
   ]
 }
