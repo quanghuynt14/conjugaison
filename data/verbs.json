@@ -22744,6 +22744,25 @@
       },
       "participe_present": "encerclant",
       "participe_passe": ["encerclé", "encerclée", "encerclés", "encerclées"]
+    },
+    {
+      "id": "tournoyer",
+      "infinitif": "tournoyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « tournoyé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["tournoie", "tournoies", "tournoie", "tournoyons", "tournoyez", "tournoient"],
+        "ind.imp": ["tournoyais", "tournoyais", "tournoyait", "tournoyions", "tournoyiez", "tournoyaient"],
+        "ind.ps": ["tournoyai", "tournoyas", "tournoya", "tournoyâmes", "tournoyâtes", "tournoyèrent"],
+        "ind.fut": ["tournoierai", "tournoieras", "tournoiera", "tournoierons", "tournoierez", "tournoieront"],
+        "cond.pres": ["tournoierais", "tournoierais", "tournoierait", "tournoierions", "tournoieriez", "tournoieraient"],
+        "subj.pres": ["tournoie", "tournoies", "tournoie", "tournoyions", "tournoyiez", "tournoient"],
+        "subj.imp": ["tournoyasse", "tournoyasses", "tournoyât", "tournoyassions", "tournoyassiez", "tournoyassent"],
+        "imper.pres": ["tournoie", "tournoyons", "tournoyez"]
+      },
+      "participe_present": "tournoyant",
+      "participe_passe": ["tournoyé", null, null, null]
     }
   ]
 }
