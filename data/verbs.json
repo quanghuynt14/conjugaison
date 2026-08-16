@@ -3202,6 +3202,24 @@
       },
       "participe_present": "tendant",
       "participe_passe": ["tendu", "tendue", "tendus", "tendues"]
+    },
+    {
+      "id": "terminer",
+      "infinitif": "terminer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["termine", "termines", "termine", "terminons", "terminez", "terminent"],
+        "ind.imp": ["terminais", "terminais", "terminait", "terminions", "terminiez", "terminaient"],
+        "ind.ps": ["terminai", "terminas", "termina", "terminâmes", "terminâtes", "terminèrent"],
+        "ind.fut": ["terminerai", "termineras", "terminera", "terminerons", "terminerez", "termineront"],
+        "cond.pres": ["terminerais", "terminerais", "terminerait", "terminerions", "termineriez", "termineraient"],
+        "subj.pres": ["termine", "termines", "termine", "terminions", "terminiez", "terminent"],
+        "subj.imp": ["terminasse", "terminasses", "terminât", "terminassions", "terminassiez", "terminassent"],
+        "imper.pres": ["termine", "terminons", "terminez"]
+      },
+      "participe_present": "terminant",
+      "participe_passe": ["terminé", "terminée", "terminés", "terminées"]
     }
   ]
 }
