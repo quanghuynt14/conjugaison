@@ -32701,6 +32701,24 @@
       },
       "participe_present": "tamponnant",
       "participe_passe": ["tamponné", "tamponnée", "tamponnés", "tamponnées"]
+    },
+    {
+      "id": "éventrer",
+      "infinitif": "éventrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éventre", "éventres", "éventre", "éventrons", "éventrez", "éventrent"],
+        "ind.imp": ["éventrais", "éventrais", "éventrait", "éventrions", "éventriez", "éventraient"],
+        "ind.ps": ["éventrai", "éventras", "éventra", "éventrâmes", "éventrâtes", "éventrèrent"],
+        "ind.fut": ["éventrerai", "éventreras", "éventrera", "éventrerons", "éventrerez", "éventreront"],
+        "cond.pres": ["éventrerais", "éventrerais", "éventrerait", "éventrerions", "éventreriez", "éventreraient"],
+        "subj.pres": ["éventre", "éventres", "éventre", "éventrions", "éventriez", "éventrent"],
+        "subj.imp": ["éventrasse", "éventrasses", "éventrât", "éventrassions", "éventrassiez", "éventrassent"],
+        "imper.pres": ["éventre", "éventrons", "éventrez"]
+      },
+      "participe_present": "éventrant",
+      "participe_passe": ["éventré", "éventrée", "éventrés", "éventrées"]
     }
   ]
 }
