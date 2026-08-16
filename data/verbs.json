@@ -32939,6 +32939,24 @@
       },
       "participe_present": "tatouant",
       "participe_passe": ["tatoué", "tatouée", "tatoués", "tatouées"]
+    },
+    {
+      "id": "enserrer",
+      "infinitif": "enserrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enserre", "enserres", "enserre", "enserrons", "enserrez", "enserrent"],
+        "ind.imp": ["enserrais", "enserrais", "enserrait", "enserrions", "enserriez", "enserraient"],
+        "ind.ps": ["enserrai", "enserras", "enserra", "enserrâmes", "enserrâtes", "enserrèrent"],
+        "ind.fut": ["enserrerai", "enserreras", "enserrera", "enserrerons", "enserrerez", "enserreront"],
+        "cond.pres": ["enserrerais", "enserrerais", "enserrerait", "enserrerions", "enserreriez", "enserreraient"],
+        "subj.pres": ["enserre", "enserres", "enserre", "enserrions", "enserriez", "enserrent"],
+        "subj.imp": ["enserrasse", "enserrasses", "enserrât", "enserrassions", "enserrassiez", "enserrassent"],
+        "imper.pres": ["enserre", "enserrons", "enserrez"]
+      },
+      "participe_present": "enserrant",
+      "participe_passe": ["enserré", "enserrée", "enserrés", "enserrées"]
     }
   ]
 }
