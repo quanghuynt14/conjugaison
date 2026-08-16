@@ -22854,6 +22854,24 @@
       },
       "participe_present": ["rasseyant", "rassoyant"],
       "participe_passe": ["rassis", "rassise", "rassis", "rassises"]
+    },
+    {
+      "id": "improviser",
+      "infinitif": "improviser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["improvise", "improvises", "improvise", "improvisons", "improvisez", "improvisent"],
+        "ind.imp": ["improvisais", "improvisais", "improvisait", "improvisions", "improvisiez", "improvisaient"],
+        "ind.ps": ["improvisai", "improvisas", "improvisa", "improvisâmes", "improvisâtes", "improvisèrent"],
+        "ind.fut": ["improviserai", "improviseras", "improvisera", "improviserons", "improviserez", "improviseront"],
+        "cond.pres": ["improviserais", "improviserais", "improviserait", "improviserions", "improviseriez", "improviseraient"],
+        "subj.pres": ["improvise", "improvises", "improvise", "improvisions", "improvisiez", "improvisent"],
+        "subj.imp": ["improvisasse", "improvisasses", "improvisât", "improvisassions", "improvisassiez", "improvisassent"],
+        "imper.pres": ["improvise", "improvisons", "improvisez"]
+      },
+      "participe_present": "improvisant",
+      "participe_passe": ["improvisé", "improvisée", "improvisés", "improvisées"]
     }
   ]
 }
