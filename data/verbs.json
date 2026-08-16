@@ -26973,6 +26973,24 @@
       },
       "participe_present": "pleurnichant",
       "participe_passe": ["pleurniché", null, null, null]
+    },
+    {
+      "id": "restituer",
+      "infinitif": "restituer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["restitue", "restitues", "restitue", "restituons", "restituez", "restituent"],
+        "ind.imp": ["restituais", "restituais", "restituait", "restituions", "restituiez", "restituaient"],
+        "ind.ps": ["restituai", "restituas", "restitua", "restituâmes", "restituâtes", "restituèrent"],
+        "ind.fut": ["restituerai", "restitueras", "restituera", "restituerons", "restituerez", "restitueront"],
+        "cond.pres": ["restituerais", "restituerais", "restituerait", "restituerions", "restitueriez", "restitueraient"],
+        "subj.pres": ["restitue", "restitues", "restitue", "restituions", "restituiez", "restituent"],
+        "subj.imp": ["restituasse", "restituasses", "restituât", "restituassions", "restituassiez", "restituassent"],
+        "imper.pres": ["restitue", "restituons", "restituez"]
+      },
+      "participe_present": "restituant",
+      "participe_passe": ["restitué", "restituée", "restitués", "restituées"]
     }
   ]
 }
