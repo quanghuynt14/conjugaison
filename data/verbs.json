@@ -9394,6 +9394,24 @@
       },
       "participe_present": "confondant",
       "participe_passe": ["confondu", "confondue", "confondus", "confondues"]
+    },
+    {
+      "id": "retomber",
+      "infinitif": "retomber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["retombe", "retombes", "retombe", "retombons", "retombez", "retombent"],
+        "ind.imp": ["retombais", "retombais", "retombait", "retombions", "retombiez", "retombaient"],
+        "ind.ps": ["retombai", "retombas", "retomba", "retombâmes", "retombâtes", "retombèrent"],
+        "ind.fut": ["retomberai", "retomberas", "retombera", "retomberons", "retomberez", "retomberont"],
+        "cond.pres": ["retomberais", "retomberais", "retomberait", "retomberions", "retomberiez", "retomberaient"],
+        "subj.pres": ["retombe", "retombes", "retombe", "retombions", "retombiez", "retombent"],
+        "subj.imp": ["retombasse", "retombasses", "retombât", "retombassions", "retombassiez", "retombassent"],
+        "imper.pres": ["retombe", "retombons", "retombez"]
+      },
+      "participe_present": "retombant",
+      "participe_passe": ["retombé", "retombée", "retombés", "retombées"]
     }
   ]
 }
