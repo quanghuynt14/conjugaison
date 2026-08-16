@@ -33229,6 +33229,25 @@
       },
       "participe_present": "adhérant",
       "participe_passe": ["adhéré", null, null, null]
+    },
+    {
+      "id": "éternuer",
+      "infinitif": "éternuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « éternué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["éternue", "éternues", "éternue", "éternuons", "éternuez", "éternuent"],
+        "ind.imp": ["éternuais", "éternuais", "éternuait", "éternuions", "éternuiez", "éternuaient"],
+        "ind.ps": ["éternuai", "éternuas", "éternua", "éternuâmes", "éternuâtes", "éternuèrent"],
+        "ind.fut": ["éternuerai", "éternueras", "éternuera", "éternuerons", "éternuerez", "éternueront"],
+        "cond.pres": ["éternuerais", "éternuerais", "éternuerait", "éternuerions", "éternueriez", "éternueraient"],
+        "subj.pres": ["éternue", "éternues", "éternue", "éternuions", "éternuiez", "éternuent"],
+        "subj.imp": ["éternuasse", "éternuasses", "éternuât", "éternuassions", "éternuassiez", "éternuassent"],
+        "imper.pres": ["éternue", "éternuons", "éternuez"]
+      },
+      "participe_present": "éternuant",
+      "participe_passe": ["éternué", null, null, null]
     }
   ]
 }
