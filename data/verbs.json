@@ -24407,6 +24407,24 @@
       },
       "participe_present": "balbutiant",
       "participe_passe": ["balbutié", "balbutiée", "balbutiés", "balbutiées"]
+    },
+    {
+      "id": "articuler",
+      "infinitif": "articuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["articule", "articules", "articule", "articulons", "articulez", "articulent"],
+        "ind.imp": ["articulais", "articulais", "articulait", "articulions", "articuliez", "articulaient"],
+        "ind.ps": ["articulai", "articulas", "articula", "articulâmes", "articulâtes", "articulèrent"],
+        "ind.fut": ["articulerai", "articuleras", "articulera", "articulerons", "articulerez", "articuleront"],
+        "cond.pres": ["articulerais", "articulerais", "articulerait", "articulerions", "articuleriez", "articuleraient"],
+        "subj.pres": ["articule", "articules", "articule", "articulions", "articuliez", "articulent"],
+        "subj.imp": ["articulasse", "articulasses", "articulât", "articulassions", "articulassiez", "articulassent"],
+        "imper.pres": ["articule", "articulons", "articulez"]
+      },
+      "participe_present": "articulant",
+      "participe_passe": ["articulé", "articulée", "articulés", "articulées"]
     }
   ]
 }
