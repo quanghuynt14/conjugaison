@@ -7674,6 +7674,24 @@
       },
       "participe_present": "enterrant",
       "participe_passe": ["enterré", "enterrée", "enterrés", "enterrées"]
+    },
+    {
+      "id": "interrompre",
+      "infinitif": "interrompre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["interromps", "interromps", "interrompt", "interrompons", "interrompez", "interrompent"],
+        "ind.imp": ["interrompais", "interrompais", "interrompait", "interrompions", "interrompiez", "interrompaient"],
+        "ind.ps": ["interrompis", "interrompis", "interrompit", "interrompîmes", "interrompîtes", "interrompirent"],
+        "ind.fut": ["interromprai", "interrompras", "interrompra", "interromprons", "interromprez", "interrompront"],
+        "cond.pres": ["interromprais", "interromprais", "interromprait", "interromprions", "interrompriez", "interrompraient"],
+        "subj.pres": ["interrompe", "interrompes", "interrompe", "interrompions", "interrompiez", "interrompent"],
+        "subj.imp": ["interrompisse", "interrompisses", "interrompît", "interrompissions", "interrompissiez", "interrompissent"],
+        "imper.pres": ["interromps", "interrompons", "interrompez"]
+      },
+      "participe_present": "interrompant",
+      "participe_passe": ["interrompu", "interrompue", "interrompus", "interrompues"]
     }
   ]
 }
