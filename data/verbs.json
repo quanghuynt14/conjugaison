@@ -10484,6 +10484,24 @@
       },
       "participe_present": "embarquant",
       "participe_passe": ["embarqué", "embarquée", "embarqués", "embarquées"]
+    },
+    {
+      "id": "informer",
+      "infinitif": "informer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["informe", "informes", "informe", "informons", "informez", "informent"],
+        "ind.imp": ["informais", "informais", "informait", "informions", "informiez", "informaient"],
+        "ind.ps": ["informai", "informas", "informa", "informâmes", "informâtes", "informèrent"],
+        "ind.fut": ["informerai", "informeras", "informera", "informerons", "informerez", "informeront"],
+        "cond.pres": ["informerais", "informerais", "informerait", "informerions", "informeriez", "informeraient"],
+        "subj.pres": ["informe", "informes", "informe", "informions", "informiez", "informent"],
+        "subj.imp": ["informasse", "informasses", "informât", "informassions", "informassiez", "informassent"],
+        "imper.pres": ["informe", "informons", "informez"]
+      },
+      "participe_present": "informant",
+      "participe_passe": ["informé", "informée", "informés", "informées"]
     }
   ]
 }
