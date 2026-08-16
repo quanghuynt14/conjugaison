@@ -10099,6 +10099,24 @@
       },
       "participe_present": "exécutant",
       "participe_passe": ["exécuté", "exécutée", "exécutés", "exécutées"]
+    },
+    {
+      "id": "frotter",
+      "infinitif": "frotter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["frotte", "frottes", "frotte", "frottons", "frottez", "frottent"],
+        "ind.imp": ["frottais", "frottais", "frottait", "frottions", "frottiez", "frottaient"],
+        "ind.ps": ["frottai", "frottas", "frotta", "frottâmes", "frottâtes", "frottèrent"],
+        "ind.fut": ["frotterai", "frotteras", "frottera", "frotterons", "frotterez", "frotteront"],
+        "cond.pres": ["frotterais", "frotterais", "frotterait", "frotterions", "frotteriez", "frotteraient"],
+        "subj.pres": ["frotte", "frottes", "frotte", "frottions", "frottiez", "frottent"],
+        "subj.imp": ["frottasse", "frottasses", "frottât", "frottassions", "frottassiez", "frottassent"],
+        "imper.pres": ["frotte", "frottons", "frottez"]
+      },
+      "participe_present": "frottant",
+      "participe_passe": ["frotté", "frottée", "frottés", "frottées"]
     }
   ]
 }
