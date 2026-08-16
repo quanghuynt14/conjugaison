@@ -17223,6 +17223,24 @@
       },
       "participe_present": "accablant",
       "participe_passe": ["accablé", "accablée", "accablés", "accablées"]
+    },
+    {
+      "id": "diviser",
+      "infinitif": "diviser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["divise", "divises", "divise", "divisons", "divisez", "divisent"],
+        "ind.imp": ["divisais", "divisais", "divisait", "divisions", "divisiez", "divisaient"],
+        "ind.ps": ["divisai", "divisas", "divisa", "divisâmes", "divisâtes", "divisèrent"],
+        "ind.fut": ["diviserai", "diviseras", "divisera", "diviserons", "diviserez", "diviseront"],
+        "cond.pres": ["diviserais", "diviserais", "diviserait", "diviserions", "diviseriez", "diviseraient"],
+        "subj.pres": ["divise", "divises", "divise", "divisions", "divisiez", "divisent"],
+        "subj.imp": ["divisasse", "divisasses", "divisât", "divisassions", "divisassiez", "divisassent"],
+        "imper.pres": ["divise", "divisons", "divisez"]
+      },
+      "participe_present": "divisant",
+      "participe_passe": ["divisé", "divisée", "divisés", "divisées"]
     }
   ]
 }
