@@ -21458,6 +21458,24 @@
       },
       "participe_present": "instruisant",
       "participe_passe": ["instruit", "instruite", "instruits", "instruites"]
+    },
+    {
+      "id": "qualifier",
+      "infinitif": "qualifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["qualifie", "qualifies", "qualifie", "qualifions", "qualifiez", "qualifient"],
+        "ind.imp": ["qualifiais", "qualifiais", "qualifiait", "qualifiions", "qualifiiez", "qualifiaient"],
+        "ind.ps": ["qualifiai", "qualifias", "qualifia", "qualifiâmes", "qualifiâtes", "qualifièrent"],
+        "ind.fut": ["qualifierai", "qualifieras", "qualifiera", "qualifierons", "qualifierez", "qualifieront"],
+        "cond.pres": ["qualifierais", "qualifierais", "qualifierait", "qualifierions", "qualifieriez", "qualifieraient"],
+        "subj.pres": ["qualifie", "qualifies", "qualifie", "qualifiions", "qualifiiez", "qualifient"],
+        "subj.imp": ["qualifiasse", "qualifiasses", "qualifiât", "qualifiassions", "qualifiassiez", "qualifiassent"],
+        "imper.pres": ["qualifie", "qualifions", "qualifiez"]
+      },
+      "participe_present": "qualifiant",
+      "participe_passe": ["qualifié", "qualifiée", "qualifiés", "qualifiées"]
     }
   ]
 }
