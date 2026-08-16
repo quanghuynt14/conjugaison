@@ -31023,6 +31023,24 @@
       },
       "participe_present": "planifiant",
       "participe_passe": ["planifié", "planifiée", "planifiés", "planifiées"]
+    },
+    {
+      "id": "contraster",
+      "infinitif": "contraster",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contraste", "contrastes", "contraste", "contrastons", "contrastez", "contrastent"],
+        "ind.imp": ["contrastais", "contrastais", "contrastait", "contrastions", "contrastiez", "contrastaient"],
+        "ind.ps": ["contrastai", "contrastas", "contrasta", "contrastâmes", "contrastâtes", "contrastèrent"],
+        "ind.fut": ["contrasterai", "contrasteras", "contrastera", "contrasterons", "contrasterez", "contrasteront"],
+        "cond.pres": ["contrasterais", "contrasterais", "contrasterait", "contrasterions", "contrasteriez", "contrasteraient"],
+        "subj.pres": ["contraste", "contrastes", "contraste", "contrastions", "contrastiez", "contrastent"],
+        "subj.imp": ["contrastasse", "contrastasses", "contrastât", "contrastassions", "contrastassiez", "contrastassent"],
+        "imper.pres": ["contraste", "contrastons", "contrastez"]
+      },
+      "participe_present": "contrastant",
+      "participe_passe": ["contrasté", "contrastée", "contrastés", "contrastées"]
     }
   ]
 }
