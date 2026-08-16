@@ -3962,6 +3962,24 @@
       },
       "participe_present": "atteignant",
       "participe_passe": ["atteint", "atteinte", "atteints", "atteintes"]
+    },
+    {
+      "id": "traîner",
+      "infinitif": "traîner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["traîne", "traînes", "traîne", "traînons", "traînez", "traînent"],
+        "ind.imp": ["traînais", "traînais", "traînait", "traînions", "traîniez", "traînaient"],
+        "ind.ps": ["traînai", "traînas", "traîna", "traînâmes", "traînâtes", "traînèrent"],
+        "ind.fut": ["traînerai", "traîneras", "traînera", "traînerons", "traînerez", "traîneront"],
+        "cond.pres": ["traînerais", "traînerais", "traînerait", "traînerions", "traîneriez", "traîneraient"],
+        "subj.pres": ["traîne", "traînes", "traîne", "traînions", "traîniez", "traînent"],
+        "subj.imp": ["traînasse", "traînasses", "traînât", "traînassions", "traînassiez", "traînassent"],
+        "imper.pres": ["traîne", "traînons", "traînez"]
+      },
+      "participe_present": "traînant",
+      "participe_passe": ["traîné", "traînée", "traînés", "traînées"]
     }
   ]
 }
