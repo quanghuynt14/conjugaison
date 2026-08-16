@@ -9321,6 +9321,24 @@
       },
       "participe_present": "rejetant",
       "participe_passe": ["rejeté", "rejetée", "rejetés", "rejetées"]
+    },
+    {
+      "id": "réclamer",
+      "infinitif": "réclamer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réclame", "réclames", "réclame", "réclamons", "réclamez", "réclament"],
+        "ind.imp": ["réclamais", "réclamais", "réclamait", "réclamions", "réclamiez", "réclamaient"],
+        "ind.ps": ["réclamai", "réclamas", "réclama", "réclamâmes", "réclamâtes", "réclamèrent"],
+        "ind.fut": ["réclamerai", "réclameras", "réclamera", "réclamerons", "réclamerez", "réclameront"],
+        "cond.pres": ["réclamerais", "réclamerais", "réclamerait", "réclamerions", "réclameriez", "réclameraient"],
+        "subj.pres": ["réclame", "réclames", "réclame", "réclamions", "réclamiez", "réclament"],
+        "subj.imp": ["réclamasse", "réclamasses", "réclamât", "réclamassions", "réclamassiez", "réclamassent"],
+        "imper.pres": ["réclame", "réclamons", "réclamez"]
+      },
+      "participe_present": "réclamant",
+      "participe_passe": ["réclamé", "réclamée", "réclamés", "réclamées"]
     }
   ]
 }
