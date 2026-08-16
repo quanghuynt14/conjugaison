@@ -13955,6 +13955,25 @@
       },
       "participe_present": "consistant",
       "participe_passe": ["consisté", null, null, null]
+    },
+    {
+      "id": "procéder",
+      "infinitif": "procéder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je procéderai » ou « je procèderai ». Les deux sont admises. Le participe passé « procédé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["procède", "procèdes", "procède", "procédons", "procédez", "procèdent"],
+        "ind.imp": ["procédais", "procédais", "procédait", "procédions", "procédiez", "procédaient"],
+        "ind.ps": ["procédai", "procédas", "procéda", "procédâmes", "procédâtes", "procédèrent"],
+        "ind.fut": [["procéderai", "procèderai"], ["procéderas", "procèderas"], ["procédera", "procèdera"], ["procéderons", "procèderons"], ["procéderez", "procèderez"], ["procéderont", "procèderont"]],
+        "cond.pres": [["procéderais", "procèderais"], ["procéderais", "procèderais"], ["procéderait", "procèderait"], ["procéderions", "procèderions"], ["procéderiez", "procèderiez"], ["procéderaient", "procèderaient"]],
+        "subj.pres": ["procède", "procèdes", "procède", "procédions", "procédiez", "procèdent"],
+        "subj.imp": ["procédasse", "procédasses", "procédât", "procédassions", "procédassiez", "procédassent"],
+        "imper.pres": ["procède", "procédons", "procédez"]
+      },
+      "participe_present": "procédant",
+      "participe_passe": ["procédé", null, null, null]
     }
   ]
 }
