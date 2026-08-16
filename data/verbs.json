@@ -28852,6 +28852,24 @@
       },
       "participe_present": "estompant",
       "participe_passe": ["estompé", "estompée", "estompés", "estompées"]
+    },
+    {
+      "id": "retrousser",
+      "infinitif": "retrousser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["retrousse", "retrousses", "retrousse", "retroussons", "retroussez", "retroussent"],
+        "ind.imp": ["retroussais", "retroussais", "retroussait", "retroussions", "retroussiez", "retroussaient"],
+        "ind.ps": ["retroussai", "retroussas", "retroussa", "retroussâmes", "retroussâtes", "retroussèrent"],
+        "ind.fut": ["retrousserai", "retrousseras", "retroussera", "retrousserons", "retrousserez", "retrousseront"],
+        "cond.pres": ["retrousserais", "retrousserais", "retrousserait", "retrousserions", "retrousseriez", "retrousseraient"],
+        "subj.pres": ["retrousse", "retrousses", "retrousse", "retroussions", "retroussiez", "retroussent"],
+        "subj.imp": ["retroussasse", "retroussasses", "retroussât", "retroussassions", "retroussassiez", "retroussassent"],
+        "imper.pres": ["retrousse", "retroussons", "retroussez"]
+      },
+      "participe_present": "retroussant",
+      "participe_passe": ["retroussé", "retroussée", "retroussés", "retroussées"]
     }
   ]
 }
