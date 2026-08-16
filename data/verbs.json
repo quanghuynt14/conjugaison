@@ -2660,6 +2660,24 @@
       },
       "participe_present": "refusant",
       "participe_passe": ["refusé", "refusée", "refusés", "refusées"]
+    },
+    {
+      "id": "couper",
+      "infinitif": "couper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["coupe", "coupes", "coupe", "coupons", "coupez", "coupent"],
+        "ind.imp": ["coupais", "coupais", "coupait", "coupions", "coupiez", "coupaient"],
+        "ind.ps": ["coupai", "coupas", "coupa", "coupâmes", "coupâtes", "coupèrent"],
+        "ind.fut": ["couperai", "couperas", "coupera", "couperons", "couperez", "couperont"],
+        "cond.pres": ["couperais", "couperais", "couperait", "couperions", "couperiez", "couperaient"],
+        "subj.pres": ["coupe", "coupes", "coupe", "coupions", "coupiez", "coupent"],
+        "subj.imp": ["coupasse", "coupasses", "coupât", "coupassions", "coupassiez", "coupassent"],
+        "imper.pres": ["coupe", "coupons", "coupez"]
+      },
+      "participe_present": "coupant",
+      "participe_passe": ["coupé", "coupée", "coupés", "coupées"]
     }
   ]
 }
