@@ -5336,6 +5336,24 @@
       },
       "participe_present": "demeurant",
       "participe_passe": ["demeuré", "demeurée", "demeurés", "demeurées"]
+    },
+    {
+      "id": "éclater",
+      "infinitif": "éclater",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éclate", "éclates", "éclate", "éclatons", "éclatez", "éclatent"],
+        "ind.imp": ["éclatais", "éclatais", "éclatait", "éclations", "éclatiez", "éclataient"],
+        "ind.ps": ["éclatai", "éclatas", "éclata", "éclatâmes", "éclatâtes", "éclatèrent"],
+        "ind.fut": ["éclaterai", "éclateras", "éclatera", "éclaterons", "éclaterez", "éclateront"],
+        "cond.pres": ["éclaterais", "éclaterais", "éclaterait", "éclaterions", "éclateriez", "éclateraient"],
+        "subj.pres": ["éclate", "éclates", "éclate", "éclations", "éclatiez", "éclatent"],
+        "subj.imp": ["éclatasse", "éclatasses", "éclatât", "éclatassions", "éclatassiez", "éclatassent"],
+        "imper.pres": ["éclate", "éclatons", "éclatez"]
+      },
+      "participe_present": "éclatant",
+      "participe_passe": ["éclaté", "éclatée", "éclatés", "éclatées"]
     }
   ]
 }
