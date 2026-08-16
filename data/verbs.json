@@ -3618,6 +3618,24 @@
       },
       "participe_present": "retenant",
       "participe_passe": ["retenu", "retenue", "retenus", "retenues"]
+    },
+    {
+      "id": "charger",
+      "infinitif": "charger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["charge", "charges", "charge", "chargeons", "chargez", "chargent"],
+        "ind.imp": ["chargeais", "chargeais", "chargeait", "chargions", "chargiez", "chargeaient"],
+        "ind.ps": ["chargeai", "chargeas", "chargea", "chargeâmes", "chargeâtes", "chargèrent"],
+        "ind.fut": ["chargerai", "chargeras", "chargera", "chargerons", "chargerez", "chargeront"],
+        "cond.pres": ["chargerais", "chargerais", "chargerait", "chargerions", "chargeriez", "chargeraient"],
+        "subj.pres": ["charge", "charges", "charge", "chargions", "chargiez", "chargent"],
+        "subj.imp": ["chargeasse", "chargeasses", "chargeât", "chargeassions", "chargeassiez", "chargeassent"],
+        "imper.pres": ["charge", "chargeons", "chargez"]
+      },
+      "participe_present": "chargeant",
+      "participe_passe": ["chargé", "chargée", "chargés", "chargées"]
     }
   ]
 }
