@@ -8723,6 +8723,24 @@
       },
       "participe_present": "précipitant",
       "participe_passe": ["précipité", "précipitée", "précipités", "précipitées"]
+    },
+    {
+      "id": "rassembler",
+      "infinitif": "rassembler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rassemble", "rassembles", "rassemble", "rassemblons", "rassemblez", "rassemblent"],
+        "ind.imp": ["rassemblais", "rassemblais", "rassemblait", "rassemblions", "rassembliez", "rassemblaient"],
+        "ind.ps": ["rassemblai", "rassemblas", "rassembla", "rassemblâmes", "rassemblâtes", "rassemblèrent"],
+        "ind.fut": ["rassemblerai", "rassembleras", "rassemblera", "rassemblerons", "rassemblerez", "rassembleront"],
+        "cond.pres": ["rassemblerais", "rassemblerais", "rassemblerait", "rassemblerions", "rassembleriez", "rassembleraient"],
+        "subj.pres": ["rassemble", "rassembles", "rassemble", "rassemblions", "rassembliez", "rassemblent"],
+        "subj.imp": ["rassemblasse", "rassemblasses", "rassemblât", "rassemblassions", "rassemblassiez", "rassemblassent"],
+        "imper.pres": ["rassemble", "rassemblons", "rassemblez"]
+      },
+      "participe_present": "rassemblant",
+      "participe_passe": ["rassemblé", "rassemblée", "rassemblés", "rassemblées"]
     }
   ]
 }
