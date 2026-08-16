@@ -5899,6 +5899,24 @@
       },
       "participe_present": "téléphonant",
       "participe_passe": ["téléphoné", "téléphonée", "téléphonés", "téléphonées"]
+    },
+    {
+      "id": "désirer",
+      "infinitif": "désirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["désire", "désires", "désire", "désirons", "désirez", "désirent"],
+        "ind.imp": ["désirais", "désirais", "désirait", "désirions", "désiriez", "désiraient"],
+        "ind.ps": ["désirai", "désiras", "désira", "désirâmes", "désirâtes", "désirèrent"],
+        "ind.fut": ["désirerai", "désireras", "désirera", "désirerons", "désirerez", "désireront"],
+        "cond.pres": ["désirerais", "désirerais", "désirerait", "désirerions", "désireriez", "désireraient"],
+        "subj.pres": ["désire", "désires", "désire", "désirions", "désiriez", "désirent"],
+        "subj.imp": ["désirasse", "désirasses", "désirât", "désirassions", "désirassiez", "désirassent"],
+        "imper.pres": ["désire", "désirons", "désirez"]
+      },
+      "participe_present": "désirant",
+      "participe_passe": ["désiré", "désirée", "désirés", "désirées"]
     }
   ]
 }
