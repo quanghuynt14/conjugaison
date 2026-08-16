@@ -15461,6 +15461,24 @@
       },
       "participe_present": "encombrant",
       "participe_passe": ["encombré", "encombrée", "encombrés", "encombrées"]
+    },
+    {
+      "id": "conquérir",
+      "infinitif": "conquérir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conquiers", "conquiers", "conquiert", "conquérons", "conquérez", "conquièrent"],
+        "ind.imp": ["conquérais", "conquérais", "conquérait", "conquérions", "conquériez", "conquéraient"],
+        "ind.ps": ["conquis", "conquis", "conquit", "conquîmes", "conquîtes", "conquirent"],
+        "ind.fut": ["conquerrai", "conquerras", "conquerra", "conquerrons", "conquerrez", "conquerront"],
+        "cond.pres": ["conquerrais", "conquerrais", "conquerrait", "conquerrions", "conquerriez", "conquerraient"],
+        "subj.pres": ["conquière", "conquières", "conquière", "conquérions", "conquériez", "conquièrent"],
+        "subj.imp": ["conquisse", "conquisses", "conquît", "conquissions", "conquissiez", "conquissent"],
+        "imper.pres": ["conquiers", "conquérons", "conquérez"]
+      },
+      "participe_present": "conquérant",
+      "participe_passe": ["conquis", "conquise", "conquis", "conquises"]
     }
   ]
 }
