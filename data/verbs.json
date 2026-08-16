@@ -27760,6 +27760,24 @@
       },
       "participe_present": "épongeant",
       "participe_passe": ["épongé", "épongée", "épongés", "épongées"]
+    },
+    {
+      "id": "meubler",
+      "infinitif": "meubler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["meuble", "meubles", "meuble", "meublons", "meublez", "meublent"],
+        "ind.imp": ["meublais", "meublais", "meublait", "meublions", "meubliez", "meublaient"],
+        "ind.ps": ["meublai", "meublas", "meubla", "meublâmes", "meublâtes", "meublèrent"],
+        "ind.fut": ["meublerai", "meubleras", "meublera", "meublerons", "meublerez", "meubleront"],
+        "cond.pres": ["meublerais", "meublerais", "meublerait", "meublerions", "meubleriez", "meubleraient"],
+        "subj.pres": ["meuble", "meubles", "meuble", "meublions", "meubliez", "meublent"],
+        "subj.imp": ["meublasse", "meublasses", "meublât", "meublassions", "meublassiez", "meublassent"],
+        "imper.pres": ["meuble", "meublons", "meublez"]
+      },
+      "participe_present": "meublant",
+      "participe_passe": ["meublé", "meublée", "meublés", "meublées"]
     }
   ]
 }
