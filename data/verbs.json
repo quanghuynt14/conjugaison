@@ -31077,6 +31077,24 @@
       },
       "participe_present": "étourdissant",
       "participe_passe": ["étourdi", "étourdie", "étourdis", "étourdies"]
+    },
+    {
+      "id": "rafler",
+      "infinitif": "rafler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rafle", "rafles", "rafle", "raflons", "raflez", "raflent"],
+        "ind.imp": ["raflais", "raflais", "raflait", "raflions", "rafliez", "raflaient"],
+        "ind.ps": ["raflai", "raflas", "rafla", "raflâmes", "raflâtes", "raflèrent"],
+        "ind.fut": ["raflerai", "rafleras", "raflera", "raflerons", "raflerez", "rafleront"],
+        "cond.pres": ["raflerais", "raflerais", "raflerait", "raflerions", "rafleriez", "rafleraient"],
+        "subj.pres": ["rafle", "rafles", "rafle", "raflions", "rafliez", "raflent"],
+        "subj.imp": ["raflasse", "raflasses", "raflât", "raflassions", "raflassiez", "raflassent"],
+        "imper.pres": ["rafle", "raflons", "raflez"]
+      },
+      "participe_present": "raflant",
+      "participe_passe": ["raflé", "raflée", "raflés", "raflées"]
     }
   ]
 }
