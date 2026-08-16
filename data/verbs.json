@@ -22708,6 +22708,24 @@
       },
       "participe_present": "affairant",
       "participe_passe": ["affairé", "affairée", "affairés", "affairées"]
+    },
+    {
+      "id": "rallier",
+      "infinitif": "rallier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rallie", "rallies", "rallie", "rallions", "ralliez", "rallient"],
+        "ind.imp": ["ralliais", "ralliais", "ralliait", "ralliions", "ralliiez", "ralliaient"],
+        "ind.ps": ["ralliai", "rallias", "rallia", "ralliâmes", "ralliâtes", "rallièrent"],
+        "ind.fut": ["rallierai", "rallieras", "ralliera", "rallierons", "rallierez", "rallieront"],
+        "cond.pres": ["rallierais", "rallierais", "rallierait", "rallierions", "rallieriez", "rallieraient"],
+        "subj.pres": ["rallie", "rallies", "rallie", "ralliions", "ralliiez", "rallient"],
+        "subj.imp": ["ralliasse", "ralliasses", "ralliât", "ralliassions", "ralliassiez", "ralliassent"],
+        "imper.pres": ["rallie", "rallions", "ralliez"]
+      },
+      "participe_present": "ralliant",
+      "participe_passe": ["rallié", "ralliée", "ralliés", "ralliées"]
     }
   ]
 }
