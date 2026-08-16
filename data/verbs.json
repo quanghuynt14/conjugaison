@@ -33721,6 +33721,24 @@
       },
       "participe_present": "diluant",
       "participe_passe": ["dilué", "diluée", "dilués", "diluées"]
+    },
+    {
+      "id": "terrasser",
+      "infinitif": "terrasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["terrasse", "terrasses", "terrasse", "terrassons", "terrassez", "terrassent"],
+        "ind.imp": ["terrassais", "terrassais", "terrassait", "terrassions", "terrassiez", "terrassaient"],
+        "ind.ps": ["terrassai", "terrassas", "terrassa", "terrassâmes", "terrassâtes", "terrassèrent"],
+        "ind.fut": ["terrasserai", "terrasseras", "terrassera", "terrasserons", "terrasserez", "terrasseront"],
+        "cond.pres": ["terrasserais", "terrasserais", "terrasserait", "terrasserions", "terrasseriez", "terrasseraient"],
+        "subj.pres": ["terrasse", "terrasses", "terrasse", "terrassions", "terrassiez", "terrassent"],
+        "subj.imp": ["terrassasse", "terrassasses", "terrassât", "terrassassions", "terrassassiez", "terrassassent"],
+        "imper.pres": ["terrasse", "terrassons", "terrassez"]
+      },
+      "participe_present": "terrassant",
+      "participe_passe": ["terrassé", "terrassée", "terrassés", "terrassées"]
     }
   ]
 }
