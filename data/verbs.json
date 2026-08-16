@@ -9303,6 +9303,24 @@
       },
       "participe_present": "déjeunant",
       "participe_passe": ["déjeuné", null, null, null]
+    },
+    {
+      "id": "rejeter",
+      "infinitif": "rejeter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rejette", "rejettes", "rejette", "rejetons", "rejetez", "rejettent"],
+        "ind.imp": ["rejetais", "rejetais", "rejetait", "rejetions", "rejetiez", "rejetaient"],
+        "ind.ps": ["rejetai", "rejetas", "rejeta", "rejetâmes", "rejetâtes", "rejetèrent"],
+        "ind.fut": ["rejetterai", "rejetteras", "rejettera", "rejetterons", "rejetterez", "rejetteront"],
+        "cond.pres": ["rejetterais", "rejetterais", "rejetterait", "rejetterions", "rejetteriez", "rejetteraient"],
+        "subj.pres": ["rejette", "rejettes", "rejette", "rejetions", "rejetiez", "rejettent"],
+        "subj.imp": ["rejetasse", "rejetasses", "rejetât", "rejetassions", "rejetassiez", "rejetassent"],
+        "imper.pres": ["rejette", "rejetons", "rejetez"]
+      },
+      "participe_present": "rejetant",
+      "participe_passe": ["rejeté", "rejetée", "rejetés", "rejetées"]
     }
   ]
 }
