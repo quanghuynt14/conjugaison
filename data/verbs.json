@@ -4070,6 +4070,24 @@
       },
       "participe_present": "supposant",
       "participe_passe": ["supposé", "supposée", "supposés", "supposées"]
+    },
+    {
+      "id": "parvenir",
+      "infinitif": "parvenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["parviens", "parviens", "parvient", "parvenons", "parvenez", "parviennent"],
+        "ind.imp": ["parvenais", "parvenais", "parvenait", "parvenions", "parveniez", "parvenaient"],
+        "ind.ps": ["parvins", "parvins", "parvint", "parvînmes", "parvîntes", "parvinrent"],
+        "ind.fut": ["parviendrai", "parviendras", "parviendra", "parviendrons", "parviendrez", "parviendront"],
+        "cond.pres": ["parviendrais", "parviendrais", "parviendrait", "parviendrions", "parviendriez", "parviendraient"],
+        "subj.pres": ["parvienne", "parviennes", "parvienne", "parvenions", "parveniez", "parviennent"],
+        "subj.imp": ["parvinsse", "parvinsses", "parvînt", "parvinssions", "parvinssiez", "parvinssent"],
+        "imper.pres": ["parviens", "parvenons", "parvenez"]
+      },
+      "participe_present": "parvenant",
+      "participe_passe": ["parvenu", "parvenue", "parvenus", "parvenues"]
     }
   ]
 }
