@@ -16278,6 +16278,24 @@
       },
       "participe_present": "attribuant",
       "participe_passe": ["attribué", "attribuée", "attribués", "attribuées"]
+    },
+    {
+      "id": "disperser",
+      "infinitif": "disperser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["disperse", "disperses", "disperse", "dispersons", "dispersez", "dispersent"],
+        "ind.imp": ["dispersais", "dispersais", "dispersait", "dispersions", "dispersiez", "dispersaient"],
+        "ind.ps": ["dispersai", "dispersas", "dispersa", "dispersâmes", "dispersâtes", "dispersèrent"],
+        "ind.fut": ["disperserai", "disperseras", "dispersera", "disperserons", "disperserez", "disperseront"],
+        "cond.pres": ["disperserais", "disperserais", "disperserait", "disperserions", "disperseriez", "disperseraient"],
+        "subj.pres": ["disperse", "disperses", "disperse", "dispersions", "dispersiez", "dispersent"],
+        "subj.imp": ["dispersasse", "dispersasses", "dispersât", "dispersassions", "dispersassiez", "dispersassent"],
+        "imper.pres": ["disperse", "dispersons", "dispersez"]
+      },
+      "participe_present": "dispersant",
+      "participe_passe": ["dispersé", "dispersée", "dispersés", "dispersées"]
     }
   ]
 }
