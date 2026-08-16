@@ -3708,6 +3708,24 @@
       },
       "participe_present": "tentant",
       "participe_passe": ["tenté", "tentée", "tentés", "tentées"]
+    },
+    {
+      "id": "réfléchir",
+      "infinitif": "réfléchir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réfléchis", "réfléchis", "réfléchit", "réfléchissons", "réfléchissez", "réfléchissent"],
+        "ind.imp": ["réfléchissais", "réfléchissais", "réfléchissait", "réfléchissions", "réfléchissiez", "réfléchissaient"],
+        "ind.ps": ["réfléchis", "réfléchis", "réfléchit", "réfléchîmes", "réfléchîtes", "réfléchirent"],
+        "ind.fut": ["réfléchirai", "réfléchiras", "réfléchira", "réfléchirons", "réfléchirez", "réfléchiront"],
+        "cond.pres": ["réfléchirais", "réfléchirais", "réfléchirait", "réfléchirions", "réfléchiriez", "réfléchiraient"],
+        "subj.pres": ["réfléchisse", "réfléchisses", "réfléchisse", "réfléchissions", "réfléchissiez", "réfléchissent"],
+        "subj.imp": ["réfléchisse", "réfléchisses", "réfléchît", "réfléchissions", "réfléchissiez", "réfléchissent"],
+        "imper.pres": ["réfléchis", "réfléchissons", "réfléchissez"]
+      },
+      "participe_present": "réfléchissant",
+      "participe_passe": ["réfléchi", "réfléchie", "réfléchis", "réfléchies"]
     }
   ]
 }
