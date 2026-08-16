@@ -5626,6 +5626,24 @@
       },
       "participe_present": "étendant",
       "participe_passe": ["étendu", "étendue", "étendus", "étendues"]
+    },
+    {
+      "id": "causer",
+      "infinitif": "causer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cause", "causes", "cause", "causons", "causez", "causent"],
+        "ind.imp": ["causais", "causais", "causait", "causions", "causiez", "causaient"],
+        "ind.ps": ["causai", "causas", "causa", "causâmes", "causâtes", "causèrent"],
+        "ind.fut": ["causerai", "causeras", "causera", "causerons", "causerez", "causeront"],
+        "cond.pres": ["causerais", "causerais", "causerait", "causerions", "causeriez", "causeraient"],
+        "subj.pres": ["cause", "causes", "cause", "causions", "causiez", "causent"],
+        "subj.imp": ["causasse", "causasses", "causât", "causassions", "causassiez", "causassent"],
+        "imper.pres": ["cause", "causons", "causez"]
+      },
+      "participe_present": "causant",
+      "participe_passe": ["causé", "causée", "causés", "causées"]
     }
   ]
 }
