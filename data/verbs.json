@@ -28103,6 +28103,24 @@
       },
       "participe_present": "exterminant",
       "participe_passe": ["exterminé", "exterminée", "exterminés", "exterminées"]
+    },
+    {
+      "id": "assembler",
+      "infinitif": "assembler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assemble", "assembles", "assemble", "assemblons", "assemblez", "assemblent"],
+        "ind.imp": ["assemblais", "assemblais", "assemblait", "assemblions", "assembliez", "assemblaient"],
+        "ind.ps": ["assemblai", "assemblas", "assembla", "assemblâmes", "assemblâtes", "assemblèrent"],
+        "ind.fut": ["assemblerai", "assembleras", "assemblera", "assemblerons", "assemblerez", "assembleront"],
+        "cond.pres": ["assemblerais", "assemblerais", "assemblerait", "assemblerions", "assembleriez", "assembleraient"],
+        "subj.pres": ["assemble", "assembles", "assemble", "assemblions", "assembliez", "assemblent"],
+        "subj.imp": ["assemblasse", "assemblasses", "assemblât", "assemblassions", "assemblassiez", "assemblassent"],
+        "imper.pres": ["assemble", "assemblons", "assemblez"]
+      },
+      "participe_present": "assemblant",
+      "participe_passe": ["assemblé", "assemblée", "assemblés", "assemblées"]
     }
   ]
 }
