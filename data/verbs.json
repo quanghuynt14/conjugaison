@@ -22397,6 +22397,24 @@
       },
       "participe_present": "agressant",
       "participe_passe": ["agressé", "agressée", "agressés", "agressées"]
+    },
+    {
+      "id": "débiter",
+      "infinitif": "débiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["débite", "débites", "débite", "débitons", "débitez", "débitent"],
+        "ind.imp": ["débitais", "débitais", "débitait", "débitions", "débitiez", "débitaient"],
+        "ind.ps": ["débitai", "débitas", "débita", "débitâmes", "débitâtes", "débitèrent"],
+        "ind.fut": ["débiterai", "débiteras", "débitera", "débiterons", "débiterez", "débiteront"],
+        "cond.pres": ["débiterais", "débiterais", "débiterait", "débiterions", "débiteriez", "débiteraient"],
+        "subj.pres": ["débite", "débites", "débite", "débitions", "débitiez", "débitent"],
+        "subj.imp": ["débitasse", "débitasses", "débitât", "débitassions", "débitassiez", "débitassent"],
+        "imper.pres": ["débite", "débitons", "débitez"]
+      },
+      "participe_present": "débitant",
+      "participe_passe": ["débité", "débitée", "débités", "débitées"]
     }
   ]
 }
