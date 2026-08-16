@@ -7041,6 +7041,24 @@
       },
       "participe_present": "refermant",
       "participe_passe": ["refermé", "refermée", "refermés", "refermées"]
+    },
+    {
+      "id": "rater",
+      "infinitif": "rater",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rate", "rates", "rate", "ratons", "ratez", "ratent"],
+        "ind.imp": ["ratais", "ratais", "ratait", "rations", "ratiez", "rataient"],
+        "ind.ps": ["ratai", "ratas", "rata", "ratâmes", "ratâtes", "ratèrent"],
+        "ind.fut": ["raterai", "rateras", "ratera", "raterons", "raterez", "rateront"],
+        "cond.pres": ["raterais", "raterais", "raterait", "raterions", "rateriez", "rateraient"],
+        "subj.pres": ["rate", "rates", "rate", "rations", "ratiez", "ratent"],
+        "subj.imp": ["ratasse", "ratasses", "ratât", "ratassions", "ratassiez", "ratassent"],
+        "imper.pres": ["rate", "ratons", "ratez"]
+      },
+      "participe_present": "ratant",
+      "participe_passe": ["raté", "ratée", "ratés", "ratées"]
     }
   ]
 }
