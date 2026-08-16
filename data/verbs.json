@@ -21656,6 +21656,24 @@
       },
       "participe_present": "blanchissant",
       "participe_passe": ["blanchi", "blanchie", "blanchis", "blanchies"]
+    },
+    {
+      "id": "esquisser",
+      "infinitif": "esquisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["esquisse", "esquisses", "esquisse", "esquissons", "esquissez", "esquissent"],
+        "ind.imp": ["esquissais", "esquissais", "esquissait", "esquissions", "esquissiez", "esquissaient"],
+        "ind.ps": ["esquissai", "esquissas", "esquissa", "esquissâmes", "esquissâtes", "esquissèrent"],
+        "ind.fut": ["esquisserai", "esquisseras", "esquissera", "esquisserons", "esquisserez", "esquisseront"],
+        "cond.pres": ["esquisserais", "esquisserais", "esquisserait", "esquisserions", "esquisseriez", "esquisseraient"],
+        "subj.pres": ["esquisse", "esquisses", "esquisse", "esquissions", "esquissiez", "esquissent"],
+        "subj.imp": ["esquissasse", "esquissasses", "esquissât", "esquissassions", "esquissassiez", "esquissassent"],
+        "imper.pres": ["esquisse", "esquissons", "esquissez"]
+      },
+      "participe_present": "esquissant",
+      "participe_passe": ["esquissé", "esquissée", "esquissés", "esquissées"]
     }
   ]
 }
