@@ -1513,6 +1513,25 @@
       },
       "participe_present": "paraissant",
       "participe_passe": ["paru", "parue", "parus", "parues"]
+    },
+    {
+      "id": "payer",
+      "infinitif": "payer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « je paie » ou « je paye ».",
+      "tenses": {
+        "ind.pres": [["paie", "paye"], ["paies", "payes"], ["paie", "paye"], "payons", "payez", ["paient", "payent"]],
+        "ind.imp": ["payais", "payais", "payait", "payions", "payiez", "payaient"],
+        "ind.ps": ["payai", "payas", "paya", "payâmes", "payâtes", "payèrent"],
+        "ind.fut": [["paierai", "payerai"], ["paieras", "payeras"], ["paiera", "payera"], ["paierons", "payerons"], ["paierez", "payerez"], ["paieront", "payeront"]],
+        "cond.pres": [["paierais", "payerais"], ["paierais", "payerais"], ["paierait", "payerait"], ["paierions", "payerions"], ["paieriez", "payeriez"], ["paieraient", "payeraient"]],
+        "subj.pres": [["paie", "paye"], ["paies", "payes"], ["paie", "paye"], "payions", "payiez", ["paient", "payent"]],
+        "subj.imp": ["payasse", "payasses", "payât", "payassions", "payassiez", "payassent"],
+        "imper.pres": [["paie", "paye"], "payons", "payez"]
+      },
+      "participe_present": "payant",
+      "participe_passe": ["payé", "payée", "payés", "payées"]
     }
   ]
 }
