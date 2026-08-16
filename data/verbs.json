@@ -5554,6 +5554,24 @@
       },
       "participe_present": "secouant",
       "participe_passe": ["secoué", "secouée", "secoués", "secouées"]
+    },
+    {
+      "id": "représenter",
+      "infinitif": "représenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["représente", "représentes", "représente", "représentons", "représentez", "représentent"],
+        "ind.imp": ["représentais", "représentais", "représentait", "représentions", "représentiez", "représentaient"],
+        "ind.ps": ["représentai", "représentas", "représenta", "représentâmes", "représentâtes", "représentèrent"],
+        "ind.fut": ["représenterai", "représenteras", "représentera", "représenterons", "représenterez", "représenteront"],
+        "cond.pres": ["représenterais", "représenterais", "représenterait", "représenterions", "représenteriez", "représenteraient"],
+        "subj.pres": ["représente", "représentes", "représente", "représentions", "représentiez", "représentent"],
+        "subj.imp": ["représentasse", "représentasses", "représentât", "représentassions", "représentassiez", "représentassent"],
+        "imper.pres": ["représente", "représentons", "représentez"]
+      },
+      "participe_present": "représentant",
+      "participe_passe": ["représenté", "représentée", "représentés", "représentées"]
     }
   ]
 }
