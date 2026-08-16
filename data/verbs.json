@@ -17733,6 +17733,25 @@
       },
       "participe_present": "défiant",
       "participe_passe": ["défié", "défiée", "défiés", "défiées"]
+    },
+    {
+      "id": "progresser",
+      "infinitif": "progresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « progressé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["progresse", "progresses", "progresse", "progressons", "progressez", "progressent"],
+        "ind.imp": ["progressais", "progressais", "progressait", "progressions", "progressiez", "progressaient"],
+        "ind.ps": ["progressai", "progressas", "progressa", "progressâmes", "progressâtes", "progressèrent"],
+        "ind.fut": ["progresserai", "progresseras", "progressera", "progresserons", "progresserez", "progresseront"],
+        "cond.pres": ["progresserais", "progresserais", "progresserait", "progresserions", "progresseriez", "progresseraient"],
+        "subj.pres": ["progresse", "progresses", "progresse", "progressions", "progressiez", "progressent"],
+        "subj.imp": ["progressasse", "progressasses", "progressât", "progressassions", "progressassiez", "progressassent"],
+        "imper.pres": ["progresse", "progressons", "progressez"]
+      },
+      "participe_present": "progressant",
+      "participe_passe": ["progressé", null, null, null]
     }
   ]
 }
