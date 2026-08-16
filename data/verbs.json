@@ -3546,6 +3546,24 @@
       },
       "participe_present": "roulant",
       "participe_passe": ["roulé", "roulée", "roulés", "roulées"]
+    },
+    {
+      "id": "remarquer",
+      "infinitif": "remarquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["remarque", "remarques", "remarque", "remarquons", "remarquez", "remarquent"],
+        "ind.imp": ["remarquais", "remarquais", "remarquait", "remarquions", "remarquiez", "remarquaient"],
+        "ind.ps": ["remarquai", "remarquas", "remarqua", "remarquâmes", "remarquâtes", "remarquèrent"],
+        "ind.fut": ["remarquerai", "remarqueras", "remarquera", "remarquerons", "remarquerez", "remarqueront"],
+        "cond.pres": ["remarquerais", "remarquerais", "remarquerait", "remarquerions", "remarqueriez", "remarqueraient"],
+        "subj.pres": ["remarque", "remarques", "remarque", "remarquions", "remarquiez", "remarquent"],
+        "subj.imp": ["remarquasse", "remarquasses", "remarquât", "remarquassions", "remarquassiez", "remarquassent"],
+        "imper.pres": ["remarque", "remarquons", "remarquez"]
+      },
+      "participe_present": "remarquant",
+      "participe_passe": ["remarqué", "remarquée", "remarqués", "remarquées"]
     }
   ]
 }
