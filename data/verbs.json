@@ -14592,6 +14592,24 @@
       },
       "participe_present": "remboursant",
       "participe_passe": ["remboursé", "remboursée", "remboursés", "remboursées"]
+    },
+    {
+      "id": "imprimer",
+      "infinitif": "imprimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["imprime", "imprimes", "imprime", "imprimons", "imprimez", "impriment"],
+        "ind.imp": ["imprimais", "imprimais", "imprimait", "imprimions", "imprimiez", "imprimaient"],
+        "ind.ps": ["imprimai", "imprimas", "imprima", "imprimâmes", "imprimâtes", "imprimèrent"],
+        "ind.fut": ["imprimerai", "imprimeras", "imprimera", "imprimerons", "imprimerez", "imprimeront"],
+        "cond.pres": ["imprimerais", "imprimerais", "imprimerait", "imprimerions", "imprimeriez", "imprimeraient"],
+        "subj.pres": ["imprime", "imprimes", "imprime", "imprimions", "imprimiez", "impriment"],
+        "subj.imp": ["imprimasse", "imprimasses", "imprimât", "imprimassions", "imprimassiez", "imprimassent"],
+        "imper.pres": ["imprime", "imprimons", "imprimez"]
+      },
+      "participe_present": "imprimant",
+      "participe_passe": ["imprimé", "imprimée", "imprimés", "imprimées"]
     }
   ]
 }
