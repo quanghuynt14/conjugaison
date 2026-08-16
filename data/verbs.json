@@ -9248,6 +9248,24 @@
       },
       "participe_present": "figurant",
       "participe_passe": ["figuré", "figurée", "figurés", "figurées"]
+    },
+    {
+      "id": "inspirer",
+      "infinitif": "inspirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["inspire", "inspires", "inspire", "inspirons", "inspirez", "inspirent"],
+        "ind.imp": ["inspirais", "inspirais", "inspirait", "inspirions", "inspiriez", "inspiraient"],
+        "ind.ps": ["inspirai", "inspiras", "inspira", "inspirâmes", "inspirâtes", "inspirèrent"],
+        "ind.fut": ["inspirerai", "inspireras", "inspirera", "inspirerons", "inspirerez", "inspireront"],
+        "cond.pres": ["inspirerais", "inspirerais", "inspirerait", "inspirerions", "inspireriez", "inspireraient"],
+        "subj.pres": ["inspire", "inspires", "inspire", "inspirions", "inspiriez", "inspirent"],
+        "subj.imp": ["inspirasse", "inspirasses", "inspirât", "inspirassions", "inspirassiez", "inspirassent"],
+        "imper.pres": ["inspire", "inspirons", "inspirez"]
+      },
+      "participe_present": "inspirant",
+      "participe_passe": ["inspiré", "inspirée", "inspirés", "inspirées"]
     }
   ]
 }
