@@ -8939,6 +8939,24 @@
       },
       "participe_present": "notant",
       "participe_passe": ["noté", "notée", "notés", "notées"]
+    },
+    {
+      "id": "bouffer",
+      "infinitif": "bouffer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bouffe", "bouffes", "bouffe", "bouffons", "bouffez", "bouffent"],
+        "ind.imp": ["bouffais", "bouffais", "bouffait", "bouffions", "bouffiez", "bouffaient"],
+        "ind.ps": ["bouffai", "bouffas", "bouffa", "bouffâmes", "bouffâtes", "bouffèrent"],
+        "ind.fut": ["boufferai", "boufferas", "bouffera", "boufferons", "boufferez", "boufferont"],
+        "cond.pres": ["boufferais", "boufferais", "boufferait", "boufferions", "boufferiez", "boufferaient"],
+        "subj.pres": ["bouffe", "bouffes", "bouffe", "bouffions", "bouffiez", "bouffent"],
+        "subj.imp": ["bouffasse", "bouffasses", "bouffât", "bouffassions", "bouffassiez", "bouffassent"],
+        "imper.pres": ["bouffe", "bouffons", "bouffez"]
+      },
+      "participe_present": "bouffant",
+      "participe_passe": ["bouffé", "bouffée", "bouffés", "bouffées"]
     }
   ]
 }
