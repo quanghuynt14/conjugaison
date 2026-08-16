@@ -23780,6 +23780,24 @@
       },
       "participe_present": "tressaillant",
       "participe_passe": ["tressailli", null, null, null]
+    },
+    {
+      "id": "tabasser",
+      "infinitif": "tabasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tabasse", "tabasses", "tabasse", "tabassons", "tabassez", "tabassent"],
+        "ind.imp": ["tabassais", "tabassais", "tabassait", "tabassions", "tabassiez", "tabassaient"],
+        "ind.ps": ["tabassai", "tabassas", "tabassa", "tabassâmes", "tabassâtes", "tabassèrent"],
+        "ind.fut": ["tabasserai", "tabasseras", "tabassera", "tabasserons", "tabasserez", "tabasseront"],
+        "cond.pres": ["tabasserais", "tabasserais", "tabasserait", "tabasserions", "tabasseriez", "tabasseraient"],
+        "subj.pres": ["tabasse", "tabasses", "tabasse", "tabassions", "tabassiez", "tabassent"],
+        "subj.imp": ["tabassasse", "tabassasses", "tabassât", "tabassassions", "tabassassiez", "tabassassent"],
+        "imper.pres": ["tabasse", "tabassons", "tabassez"]
+      },
+      "participe_present": "tabassant",
+      "participe_passe": ["tabassé", "tabassée", "tabassés", "tabassées"]
     }
   ]
 }
