@@ -17058,6 +17058,24 @@
       },
       "participe_present": "flanquant",
       "participe_passe": ["flanqué", "flanquée", "flanqués", "flanquées"]
+    },
+    {
+      "id": "maquiller",
+      "infinitif": "maquiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["maquille", "maquilles", "maquille", "maquillons", "maquillez", "maquillent"],
+        "ind.imp": ["maquillais", "maquillais", "maquillait", "maquillions", "maquilliez", "maquillaient"],
+        "ind.ps": ["maquillai", "maquillas", "maquilla", "maquillâmes", "maquillâtes", "maquillèrent"],
+        "ind.fut": ["maquillerai", "maquilleras", "maquillera", "maquillerons", "maquillerez", "maquilleront"],
+        "cond.pres": ["maquillerais", "maquillerais", "maquillerait", "maquillerions", "maquilleriez", "maquilleraient"],
+        "subj.pres": ["maquille", "maquilles", "maquille", "maquillions", "maquilliez", "maquillent"],
+        "subj.imp": ["maquillasse", "maquillasses", "maquillât", "maquillassions", "maquillassiez", "maquillassent"],
+        "imper.pres": ["maquille", "maquillons", "maquillez"]
+      },
+      "participe_present": "maquillant",
+      "participe_passe": ["maquillé", "maquillée", "maquillés", "maquillées"]
     }
   ]
 }
