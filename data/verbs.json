@@ -13682,6 +13682,24 @@
       },
       "participe_present": "félicitant",
       "participe_passe": ["félicité", "félicitée", "félicités", "félicitées"]
+    },
+    {
+      "id": "raccompagner",
+      "infinitif": "raccompagner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["raccompagne", "raccompagnes", "raccompagne", "raccompagnons", "raccompagnez", "raccompagnent"],
+        "ind.imp": ["raccompagnais", "raccompagnais", "raccompagnait", "raccompagnions", "raccompagniez", "raccompagnaient"],
+        "ind.ps": ["raccompagnai", "raccompagnas", "raccompagna", "raccompagnâmes", "raccompagnâtes", "raccompagnèrent"],
+        "ind.fut": ["raccompagnerai", "raccompagneras", "raccompagnera", "raccompagnerons", "raccompagnerez", "raccompagneront"],
+        "cond.pres": ["raccompagnerais", "raccompagnerais", "raccompagnerait", "raccompagnerions", "raccompagneriez", "raccompagneraient"],
+        "subj.pres": ["raccompagne", "raccompagnes", "raccompagne", "raccompagnions", "raccompagniez", "raccompagnent"],
+        "subj.imp": ["raccompagnasse", "raccompagnasses", "raccompagnât", "raccompagnassions", "raccompagnassiez", "raccompagnassent"],
+        "imper.pres": ["raccompagne", "raccompagnons", "raccompagnez"]
+      },
+      "participe_present": "raccompagnant",
+      "participe_passe": ["raccompagné", "raccompagnée", "raccompagnés", "raccompagnées"]
     }
   ]
 }
