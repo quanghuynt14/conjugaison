@@ -18560,6 +18560,24 @@
       },
       "participe_present": "boitant",
       "participe_passe": ["boité", "boitée", "boités", "boitées"]
+    },
+    {
+      "id": "piper",
+      "infinitif": "piper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pipe", "pipes", "pipe", "pipons", "pipez", "pipent"],
+        "ind.imp": ["pipais", "pipais", "pipait", "pipions", "pipiez", "pipaient"],
+        "ind.ps": ["pipai", "pipas", "pipa", "pipâmes", "pipâtes", "pipèrent"],
+        "ind.fut": ["piperai", "piperas", "pipera", "piperons", "piperez", "piperont"],
+        "cond.pres": ["piperais", "piperais", "piperait", "piperions", "piperiez", "piperaient"],
+        "subj.pres": ["pipe", "pipes", "pipe", "pipions", "pipiez", "pipent"],
+        "subj.imp": ["pipasse", "pipasses", "pipât", "pipassions", "pipassiez", "pipassent"],
+        "imper.pres": ["pipe", "pipons", "pipez"]
+      },
+      "participe_present": "pipant",
+      "participe_passe": ["pipé", "pipée", "pipés", "pipées"]
     }
   ]
 }
