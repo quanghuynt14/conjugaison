@@ -31865,6 +31865,24 @@
       },
       "participe_present": "relayant",
       "participe_passe": ["relayé", "relayée", "relayés", "relayées"]
+    },
+    {
+      "id": "coffrer",
+      "infinitif": "coffrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["coffre", "coffres", "coffre", "coffrons", "coffrez", "coffrent"],
+        "ind.imp": ["coffrais", "coffrais", "coffrait", "coffrions", "coffriez", "coffraient"],
+        "ind.ps": ["coffrai", "coffras", "coffra", "coffrâmes", "coffrâtes", "coffrèrent"],
+        "ind.fut": ["coffrerai", "coffreras", "coffrera", "coffrerons", "coffrerez", "coffreront"],
+        "cond.pres": ["coffrerais", "coffrerais", "coffrerait", "coffrerions", "coffreriez", "coffreraient"],
+        "subj.pres": ["coffre", "coffres", "coffre", "coffrions", "coffriez", "coffrent"],
+        "subj.imp": ["coffrasse", "coffrasses", "coffrât", "coffrassions", "coffrassiez", "coffrassent"],
+        "imper.pres": ["coffre", "coffrons", "coffrez"]
+      },
+      "participe_present": "coffrant",
+      "participe_passe": ["coffré", "coffrée", "coffrés", "coffrées"]
     }
   ]
 }
