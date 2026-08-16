@@ -16842,6 +16842,24 @@
       },
       "participe_present": "reflétant",
       "participe_passe": ["reflété", "reflétée", "reflétés", "reflétées"]
+    },
+    {
+      "id": "assumer",
+      "infinitif": "assumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assume", "assumes", "assume", "assumons", "assumez", "assument"],
+        "ind.imp": ["assumais", "assumais", "assumait", "assumions", "assumiez", "assumaient"],
+        "ind.ps": ["assumai", "assumas", "assuma", "assumâmes", "assumâtes", "assumèrent"],
+        "ind.fut": ["assumerai", "assumeras", "assumera", "assumerons", "assumerez", "assumeront"],
+        "cond.pres": ["assumerais", "assumerais", "assumerait", "assumerions", "assumeriez", "assumeraient"],
+        "subj.pres": ["assume", "assumes", "assume", "assumions", "assumiez", "assument"],
+        "subj.imp": ["assumasse", "assumasses", "assumât", "assumassions", "assumassiez", "assumassent"],
+        "imper.pres": ["assume", "assumons", "assumez"]
+      },
+      "participe_present": "assumant",
+      "participe_passe": ["assumé", "assumée", "assumés", "assumées"]
     }
   ]
 }
