@@ -19542,6 +19542,24 @@
       },
       "participe_present": "bouillant",
       "participe_passe": ["bouilli", "bouillie", "bouillis", "bouillies"]
+    },
+    {
+      "id": "botter",
+      "infinitif": "botter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["botte", "bottes", "botte", "bottons", "bottez", "bottent"],
+        "ind.imp": ["bottais", "bottais", "bottait", "bottions", "bottiez", "bottaient"],
+        "ind.ps": ["bottai", "bottas", "botta", "bottâmes", "bottâtes", "bottèrent"],
+        "ind.fut": ["botterai", "botteras", "bottera", "botterons", "botterez", "botteront"],
+        "cond.pres": ["botterais", "botterais", "botterait", "botterions", "botteriez", "botteraient"],
+        "subj.pres": ["botte", "bottes", "botte", "bottions", "bottiez", "bottent"],
+        "subj.imp": ["bottasse", "bottasses", "bottât", "bottassions", "bottassiez", "bottassent"],
+        "imper.pres": ["botte", "bottons", "bottez"]
+      },
+      "participe_present": "bottant",
+      "participe_passe": ["botté", "bottée", "bottés", "bottées"]
     }
   ]
 }
