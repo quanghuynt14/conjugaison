@@ -26917,6 +26917,24 @@
       },
       "participe_present": "ridiculisant",
       "participe_passe": ["ridiculisé", "ridiculisée", "ridiculisés", "ridiculisées"]
+    },
+    {
+      "id": "éduquer",
+      "infinitif": "éduquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éduque", "éduques", "éduque", "éduquons", "éduquez", "éduquent"],
+        "ind.imp": ["éduquais", "éduquais", "éduquait", "éduquions", "éduquiez", "éduquaient"],
+        "ind.ps": ["éduquai", "éduquas", "éduqua", "éduquâmes", "éduquâtes", "éduquèrent"],
+        "ind.fut": ["éduquerai", "éduqueras", "éduquera", "éduquerons", "éduquerez", "éduqueront"],
+        "cond.pres": ["éduquerais", "éduquerais", "éduquerait", "éduquerions", "éduqueriez", "éduqueraient"],
+        "subj.pres": ["éduque", "éduques", "éduque", "éduquions", "éduquiez", "éduquent"],
+        "subj.imp": ["éduquasse", "éduquasses", "éduquât", "éduquassions", "éduquassiez", "éduquassent"],
+        "imper.pres": ["éduque", "éduquons", "éduquez"]
+      },
+      "participe_present": "éduquant",
+      "participe_passe": ["éduqué", "éduquée", "éduqués", "éduquées"]
     }
   ]
 }
