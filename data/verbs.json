@@ -29619,6 +29619,24 @@
       },
       "participe_present": "pulvérisant",
       "participe_passe": ["pulvérisé", "pulvérisée", "pulvérisés", "pulvérisées"]
+    },
+    {
+      "id": "épouvanter",
+      "infinitif": "épouvanter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["épouvante", "épouvantes", "épouvante", "épouvantons", "épouvantez", "épouvantent"],
+        "ind.imp": ["épouvantais", "épouvantais", "épouvantait", "épouvantions", "épouvantiez", "épouvantaient"],
+        "ind.ps": ["épouvantai", "épouvantas", "épouvanta", "épouvantâmes", "épouvantâtes", "épouvantèrent"],
+        "ind.fut": ["épouvanterai", "épouvanteras", "épouvantera", "épouvanterons", "épouvanterez", "épouvanteront"],
+        "cond.pres": ["épouvanterais", "épouvanterais", "épouvanterait", "épouvanterions", "épouvanteriez", "épouvanteraient"],
+        "subj.pres": ["épouvante", "épouvantes", "épouvante", "épouvantions", "épouvantiez", "épouvantent"],
+        "subj.imp": ["épouvantasse", "épouvantasses", "épouvantât", "épouvantassions", "épouvantassiez", "épouvantassent"],
+        "imper.pres": ["épouvante", "épouvantons", "épouvantez"]
+      },
+      "participe_present": "épouvantant",
+      "participe_passe": ["épouvanté", "épouvantée", "épouvantés", "épouvantées"]
     }
   ]
 }
