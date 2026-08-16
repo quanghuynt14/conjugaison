@@ -26317,6 +26317,24 @@
       },
       "participe_present": "casant",
       "participe_passe": ["casé", "casée", "casés", "casées"]
+    },
+    {
+      "id": "éplucher",
+      "infinitif": "éplucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["épluche", "épluches", "épluche", "épluchons", "épluchez", "épluchent"],
+        "ind.imp": ["épluchais", "épluchais", "épluchait", "épluchions", "épluchiez", "épluchaient"],
+        "ind.ps": ["épluchai", "épluchas", "éplucha", "épluchâmes", "épluchâtes", "épluchèrent"],
+        "ind.fut": ["éplucherai", "éplucheras", "épluchera", "éplucherons", "éplucherez", "éplucheront"],
+        "cond.pres": ["éplucherais", "éplucherais", "éplucherait", "éplucherions", "éplucheriez", "éplucheraient"],
+        "subj.pres": ["épluche", "épluches", "épluche", "épluchions", "épluchiez", "épluchent"],
+        "subj.imp": ["épluchasse", "épluchasses", "épluchât", "épluchassions", "épluchassiez", "épluchassent"],
+        "imper.pres": ["épluche", "épluchons", "épluchez"]
+      },
+      "participe_present": "épluchant",
+      "participe_passe": ["épluché", "épluchée", "épluchés", "épluchées"]
     }
   ]
 }
