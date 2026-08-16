@@ -7638,6 +7638,24 @@
       },
       "participe_present": "assistant",
       "participe_passe": ["assisté", "assistée", "assistés", "assistées"]
+    },
+    {
+      "id": "accuser",
+      "infinitif": "accuser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accuse", "accuses", "accuse", "accusons", "accusez", "accusent"],
+        "ind.imp": ["accusais", "accusais", "accusait", "accusions", "accusiez", "accusaient"],
+        "ind.ps": ["accusai", "accusas", "accusa", "accusâmes", "accusâtes", "accusèrent"],
+        "ind.fut": ["accuserai", "accuseras", "accusera", "accuserons", "accuserez", "accuseront"],
+        "cond.pres": ["accuserais", "accuserais", "accuserait", "accuserions", "accuseriez", "accuseraient"],
+        "subj.pres": ["accuse", "accuses", "accuse", "accusions", "accusiez", "accusent"],
+        "subj.imp": ["accusasse", "accusasses", "accusât", "accusassions", "accusassiez", "accusassent"],
+        "imper.pres": ["accuse", "accusons", "accusez"]
+      },
+      "participe_present": "accusant",
+      "participe_passe": ["accusé", "accusée", "accusés", "accusées"]
     }
   ]
 }
