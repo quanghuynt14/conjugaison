@@ -4251,6 +4251,24 @@
       },
       "participe_present": "éloignant",
       "participe_passe": ["éloigné", "éloignée", "éloignés", "éloignées"]
+    },
+    {
+      "id": "traiter",
+      "infinitif": "traiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["traite", "traites", "traite", "traitons", "traitez", "traitent"],
+        "ind.imp": ["traitais", "traitais", "traitait", "traitions", "traitiez", "traitaient"],
+        "ind.ps": ["traitai", "traitas", "traita", "traitâmes", "traitâtes", "traitèrent"],
+        "ind.fut": ["traiterai", "traiteras", "traitera", "traiterons", "traiterez", "traiteront"],
+        "cond.pres": ["traiterais", "traiterais", "traiterait", "traiterions", "traiteriez", "traiteraient"],
+        "subj.pres": ["traite", "traites", "traite", "traitions", "traitiez", "traitent"],
+        "subj.imp": ["traitasse", "traitasses", "traitât", "traitassions", "traitassiez", "traitassent"],
+        "imper.pres": ["traite", "traitons", "traitez"]
+      },
+      "participe_present": "traitant",
+      "participe_passe": ["traité", "traitée", "traités", "traitées"]
     }
   ]
 }
