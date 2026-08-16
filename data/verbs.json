@@ -27503,6 +27503,25 @@
       },
       "participe_present": "surnommant",
       "participe_passe": ["surnommé", "surnommée", "surnommés", "surnommées"]
+    },
+    {
+      "id": "haver",
+      "infinitif": "haver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "h_aspire": true,
+      "tenses": {
+        "ind.pres": ["have", "haves", "have", "havons", "havez", "havent"],
+        "ind.imp": ["havais", "havais", "havait", "havions", "haviez", "havaient"],
+        "ind.ps": ["havai", "havas", "hava", "havâmes", "havâtes", "havèrent"],
+        "ind.fut": ["haverai", "haveras", "havera", "haverons", "haverez", "haveront"],
+        "cond.pres": ["haverais", "haverais", "haverait", "haverions", "haveriez", "haveraient"],
+        "subj.pres": ["have", "haves", "have", "havions", "haviez", "havent"],
+        "subj.imp": ["havasse", "havasses", "havât", "havassions", "havassiez", "havassent"],
+        "imper.pres": ["have", "havons", "havez"]
+      },
+      "participe_present": "havant",
+      "participe_passe": ["havé", "havée", "havés", "havées"]
     }
   ]
 }
