@@ -6640,6 +6640,25 @@
       },
       "participe_present": "saluant",
       "participe_passe": ["salué", "saluée", "salués", "saluées"]
+    },
+    {
+      "id": "convenir",
+      "infinitif": "convenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Avec avoir au sens de plaire et de s'accorder : « cela m'a convenu ». La langue soutenue prend être au sens de tomber d'accord : « nous sommes convenus de nous revoir ».",
+      "tenses": {
+        "ind.pres": ["conviens", "conviens", "convient", "convenons", "convenez", "conviennent"],
+        "ind.imp": ["convenais", "convenais", "convenait", "convenions", "conveniez", "convenaient"],
+        "ind.ps": ["convins", "convins", "convint", "convînmes", "convîntes", "convinrent"],
+        "ind.fut": ["conviendrai", "conviendras", "conviendra", "conviendrons", "conviendrez", "conviendront"],
+        "cond.pres": ["conviendrais", "conviendrais", "conviendrait", "conviendrions", "conviendriez", "conviendraient"],
+        "subj.pres": ["convienne", "conviennes", "convienne", "convenions", "conveniez", "conviennent"],
+        "subj.imp": ["convinsse", "convinsses", "convînt", "convinssions", "convinssiez", "convinssent"],
+        "imper.pres": ["conviens", "convenons", "convenez"]
+      },
+      "participe_present": "convenant",
+      "participe_passe": ["convenu", "convenue", "convenus", "convenues"]
     }
   ]
 }
