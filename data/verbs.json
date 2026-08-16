@@ -17241,6 +17241,24 @@
       },
       "participe_present": "divisant",
       "participe_passe": ["divisé", "divisée", "divisés", "divisées"]
+    },
+    {
+      "id": "ébranler",
+      "infinitif": "ébranler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ébranle", "ébranles", "ébranle", "ébranlons", "ébranlez", "ébranlent"],
+        "ind.imp": ["ébranlais", "ébranlais", "ébranlait", "ébranlions", "ébranliez", "ébranlaient"],
+        "ind.ps": ["ébranlai", "ébranlas", "ébranla", "ébranlâmes", "ébranlâtes", "ébranlèrent"],
+        "ind.fut": ["ébranlerai", "ébranleras", "ébranlera", "ébranlerons", "ébranlerez", "ébranleront"],
+        "cond.pres": ["ébranlerais", "ébranlerais", "ébranlerait", "ébranlerions", "ébranleriez", "ébranleraient"],
+        "subj.pres": ["ébranle", "ébranles", "ébranle", "ébranlions", "ébranliez", "ébranlent"],
+        "subj.imp": ["ébranlasse", "ébranlasses", "ébranlât", "ébranlassions", "ébranlassiez", "ébranlassent"],
+        "imper.pres": ["ébranle", "ébranlons", "ébranlez"]
+      },
+      "participe_present": "ébranlant",
+      "participe_passe": ["ébranlé", "ébranlée", "ébranlés", "ébranlées"]
     }
   ]
 }
