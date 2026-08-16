@@ -4360,6 +4360,24 @@
       },
       "participe_present": "saisissant",
       "participe_passe": ["saisi", "saisie", "saisis", "saisies"]
+    },
+    {
+      "id": "poursuivre",
+      "infinitif": "poursuivre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["poursuis", "poursuis", "poursuit", "poursuivons", "poursuivez", "poursuivent"],
+        "ind.imp": ["poursuivais", "poursuivais", "poursuivait", "poursuivions", "poursuiviez", "poursuivaient"],
+        "ind.ps": ["poursuivis", "poursuivis", "poursuivit", "poursuivîmes", "poursuivîtes", "poursuivirent"],
+        "ind.fut": ["poursuivrai", "poursuivras", "poursuivra", "poursuivrons", "poursuivrez", "poursuivront"],
+        "cond.pres": ["poursuivrais", "poursuivrais", "poursuivrait", "poursuivrions", "poursuivriez", "poursuivraient"],
+        "subj.pres": ["poursuive", "poursuives", "poursuive", "poursuivions", "poursuiviez", "poursuivent"],
+        "subj.imp": ["poursuivisse", "poursuivisses", "poursuivît", "poursuivissions", "poursuivissiez", "poursuivissent"],
+        "imper.pres": ["poursuis", "poursuivons", "poursuivez"]
+      },
+      "participe_present": "poursuivant",
+      "participe_passe": ["poursuivi", "poursuivie", "poursuivis", "poursuivies"]
     }
   ]
 }
