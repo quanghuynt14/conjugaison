@@ -33522,6 +33522,24 @@
       },
       "participe_present": "tétant",
       "participe_passe": ["tété", "tétée", "tétés", "tétées"]
+    },
+    {
+      "id": "convoiter",
+      "infinitif": "convoiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["convoite", "convoites", "convoite", "convoitons", "convoitez", "convoitent"],
+        "ind.imp": ["convoitais", "convoitais", "convoitait", "convoitions", "convoitiez", "convoitaient"],
+        "ind.ps": ["convoitai", "convoitas", "convoita", "convoitâmes", "convoitâtes", "convoitèrent"],
+        "ind.fut": ["convoiterai", "convoiteras", "convoitera", "convoiterons", "convoiterez", "convoiteront"],
+        "cond.pres": ["convoiterais", "convoiterais", "convoiterait", "convoiterions", "convoiteriez", "convoiteraient"],
+        "subj.pres": ["convoite", "convoites", "convoite", "convoitions", "convoitiez", "convoitent"],
+        "subj.imp": ["convoitasse", "convoitasses", "convoitât", "convoitassions", "convoitassiez", "convoitassent"],
+        "imper.pres": ["convoite", "convoitons", "convoitez"]
+      },
+      "participe_present": "convoitant",
+      "participe_passe": ["convoité", "convoitée", "convoités", "convoitées"]
     }
   ]
 }
