@@ -33867,6 +33867,24 @@
       },
       "participe_present": "dissuadant",
       "participe_passe": ["dissuadé", "dissuadée", "dissuadés", "dissuadées"]
+    },
+    {
+      "id": "télégraphier",
+      "infinitif": "télégraphier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["télégraphie", "télégraphies", "télégraphie", "télégraphions", "télégraphiez", "télégraphient"],
+        "ind.imp": ["télégraphiais", "télégraphiais", "télégraphiait", "télégraphiions", "télégraphiiez", "télégraphiaient"],
+        "ind.ps": ["télégraphiai", "télégraphias", "télégraphia", "télégraphiâmes", "télégraphiâtes", "télégraphièrent"],
+        "ind.fut": ["télégraphierai", "télégraphieras", "télégraphiera", "télégraphierons", "télégraphierez", "télégraphieront"],
+        "cond.pres": ["télégraphierais", "télégraphierais", "télégraphierait", "télégraphierions", "télégraphieriez", "télégraphieraient"],
+        "subj.pres": ["télégraphie", "télégraphies", "télégraphie", "télégraphiions", "télégraphiiez", "télégraphient"],
+        "subj.imp": ["télégraphiasse", "télégraphiasses", "télégraphiât", "télégraphiassions", "télégraphiassiez", "télégraphiassent"],
+        "imper.pres": ["télégraphie", "télégraphions", "télégraphiez"]
+      },
+      "participe_present": "télégraphiant",
+      "participe_passe": ["télégraphié", "télégraphiée", "télégraphiés", "télégraphiées"]
     }
   ]
 }
