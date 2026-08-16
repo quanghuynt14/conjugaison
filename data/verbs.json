@@ -21964,6 +21964,24 @@
       },
       "participe_present": "râlant",
       "participe_passe": ["râlé", null, null, null]
+    },
+    {
+      "id": "droguer",
+      "infinitif": "droguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["drogue", "drogues", "drogue", "droguons", "droguez", "droguent"],
+        "ind.imp": ["droguais", "droguais", "droguait", "droguions", "droguiez", "droguaient"],
+        "ind.ps": ["droguai", "droguas", "drogua", "droguâmes", "droguâtes", "droguèrent"],
+        "ind.fut": ["droguerai", "drogueras", "droguera", "droguerons", "droguerez", "drogueront"],
+        "cond.pres": ["droguerais", "droguerais", "droguerait", "droguerions", "drogueriez", "drogueraient"],
+        "subj.pres": ["drogue", "drogues", "drogue", "droguions", "droguiez", "droguent"],
+        "subj.imp": ["droguasse", "droguasses", "droguât", "droguassions", "droguassiez", "droguassent"],
+        "imper.pres": ["drogue", "droguons", "droguez"]
+      },
+      "participe_present": "droguant",
+      "participe_passe": ["drogué", "droguée", "drogués", "droguées"]
     }
   ]
 }
