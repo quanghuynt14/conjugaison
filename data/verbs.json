@@ -10319,6 +10319,24 @@
       },
       "participe_present": "repassant",
       "participe_passe": ["repassé", "repassée", "repassés", "repassées"]
+    },
+    {
+      "id": "exposer",
+      "infinitif": "exposer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["expose", "exposes", "expose", "exposons", "exposez", "exposent"],
+        "ind.imp": ["exposais", "exposais", "exposait", "exposions", "exposiez", "exposaient"],
+        "ind.ps": ["exposai", "exposas", "exposa", "exposâmes", "exposâtes", "exposèrent"],
+        "ind.fut": ["exposerai", "exposeras", "exposera", "exposerons", "exposerez", "exposeront"],
+        "cond.pres": ["exposerais", "exposerais", "exposerait", "exposerions", "exposeriez", "exposeraient"],
+        "subj.pres": ["expose", "exposes", "expose", "exposions", "exposiez", "exposent"],
+        "subj.imp": ["exposasse", "exposasses", "exposât", "exposassions", "exposassiez", "exposassent"],
+        "imper.pres": ["expose", "exposons", "exposez"]
+      },
+      "participe_present": "exposant",
+      "participe_passe": ["exposé", "exposée", "exposés", "exposées"]
     }
   ]
 }
