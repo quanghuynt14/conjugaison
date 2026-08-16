@@ -24093,6 +24093,26 @@
       },
       "participe_present": "démontant",
       "participe_passe": ["démonté", "démontée", "démontés", "démontées"]
+    },
+    {
+      "id": "empresser",
+      "infinitif": "empresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’empresse » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["empresse", "empresses", "empresse", "empressons", "empressez", "empressent"],
+        "ind.imp": ["empressais", "empressais", "empressait", "empressions", "empressiez", "empressaient"],
+        "ind.ps": ["empressai", "empressas", "empressa", "empressâmes", "empressâtes", "empressèrent"],
+        "ind.fut": ["empresserai", "empresseras", "empressera", "empresserons", "empresserez", "empresseront"],
+        "cond.pres": ["empresserais", "empresserais", "empresserait", "empresserions", "empresseriez", "empresseraient"],
+        "subj.pres": ["empresse", "empresses", "empresse", "empressions", "empressiez", "empressent"],
+        "subj.imp": ["empressasse", "empressasses", "empressât", "empressassions", "empressassiez", "empressassent"],
+        "imper.pres": ["empresse", "empressons", "empressez"]
+      },
+      "participe_present": "empressant",
+      "participe_passe": ["empressé", "empressée", "empressés", "empressées"]
     }
   ]
 }
