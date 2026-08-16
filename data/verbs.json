@@ -26552,6 +26552,24 @@
       },
       "participe_present": "parfumant",
       "participe_passe": ["parfumé", "parfumée", "parfumés", "parfumées"]
+    },
+    {
+      "id": "rimer",
+      "infinitif": "rimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rime", "rimes", "rime", "rimons", "rimez", "riment"],
+        "ind.imp": ["rimais", "rimais", "rimait", "rimions", "rimiez", "rimaient"],
+        "ind.ps": ["rimai", "rimas", "rima", "rimâmes", "rimâtes", "rimèrent"],
+        "ind.fut": ["rimerai", "rimeras", "rimera", "rimerons", "rimerez", "rimeront"],
+        "cond.pres": ["rimerais", "rimerais", "rimerait", "rimerions", "rimeriez", "rimeraient"],
+        "subj.pres": ["rime", "rimes", "rime", "rimions", "rimiez", "riment"],
+        "subj.imp": ["rimasse", "rimasses", "rimât", "rimassions", "rimassiez", "rimassent"],
+        "imper.pres": ["rime", "rimons", "rimez"]
+      },
+      "participe_present": "rimant",
+      "participe_passe": ["rimé", "rimée", "rimés", "rimées"]
     }
   ]
 }
