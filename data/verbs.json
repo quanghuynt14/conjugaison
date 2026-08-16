@@ -20914,6 +20914,24 @@
       },
       "participe_present": "persistant",
       "participe_passe": ["persisté", null, null, null]
+    },
+    {
+      "id": "embaucher",
+      "infinitif": "embaucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["embauche", "embauches", "embauche", "embauchons", "embauchez", "embauchent"],
+        "ind.imp": ["embauchais", "embauchais", "embauchait", "embauchions", "embauchiez", "embauchaient"],
+        "ind.ps": ["embauchai", "embauchas", "embaucha", "embauchâmes", "embauchâtes", "embauchèrent"],
+        "ind.fut": ["embaucherai", "embaucheras", "embauchera", "embaucherons", "embaucherez", "embaucheront"],
+        "cond.pres": ["embaucherais", "embaucherais", "embaucherait", "embaucherions", "embaucheriez", "embaucheraient"],
+        "subj.pres": ["embauche", "embauches", "embauche", "embauchions", "embauchiez", "embauchent"],
+        "subj.imp": ["embauchasse", "embauchasses", "embauchât", "embauchassions", "embauchassiez", "embauchassent"],
+        "imper.pres": ["embauche", "embauchons", "embauchez"]
+      },
+      "participe_present": "embauchant",
+      "participe_passe": ["embauché", "embauchée", "embauchés", "embauchées"]
     }
   ]
 }
