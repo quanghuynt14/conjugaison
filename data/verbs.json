@@ -19579,6 +19579,24 @@
       },
       "participe_present": "chialant",
       "participe_passe": ["chialé", null, null, null]
+    },
+    {
+      "id": "prescrire",
+      "infinitif": "prescrire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prescris", "prescris", "prescrit", "prescrivons", "prescrivez", "prescrivent"],
+        "ind.imp": ["prescrivais", "prescrivais", "prescrivait", "prescrivions", "prescriviez", "prescrivaient"],
+        "ind.ps": ["prescrivis", "prescrivis", "prescrivit", "prescrivîmes", "prescrivîtes", "prescrivirent"],
+        "ind.fut": ["prescrirai", "prescriras", "prescrira", "prescrirons", "prescrirez", "prescriront"],
+        "cond.pres": ["prescrirais", "prescrirais", "prescrirait", "prescririons", "prescririez", "prescriraient"],
+        "subj.pres": ["prescrive", "prescrives", "prescrive", "prescrivions", "prescriviez", "prescrivent"],
+        "subj.imp": ["prescrivisse", "prescrivisses", "prescrivît", "prescrivissions", "prescrivissiez", "prescrivissent"],
+        "imper.pres": ["prescris", "prescrivons", "prescrivez"]
+      },
+      "participe_present": "prescrivant",
+      "participe_passe": ["prescrit", "prescrite", "prescrits", "prescrites"]
     }
   ]
 }
