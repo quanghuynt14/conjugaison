@@ -27357,6 +27357,24 @@
       },
       "participe_present": "survolant",
       "participe_passe": ["survolé", "survolée", "survolés", "survolées"]
+    },
+    {
+      "id": "gober",
+      "infinitif": "gober",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gobe", "gobes", "gobe", "gobons", "gobez", "gobent"],
+        "ind.imp": ["gobais", "gobais", "gobait", "gobions", "gobiez", "gobaient"],
+        "ind.ps": ["gobai", "gobas", "goba", "gobâmes", "gobâtes", "gobèrent"],
+        "ind.fut": ["goberai", "goberas", "gobera", "goberons", "goberez", "goberont"],
+        "cond.pres": ["goberais", "goberais", "goberait", "goberions", "goberiez", "goberaient"],
+        "subj.pres": ["gobe", "gobes", "gobe", "gobions", "gobiez", "gobent"],
+        "subj.imp": ["gobasse", "gobasses", "gobât", "gobassions", "gobassiez", "gobassent"],
+        "imper.pres": ["gobe", "gobons", "gobez"]
+      },
+      "participe_present": "gobant",
+      "participe_passe": ["gobé", "gobée", "gobés", "gobées"]
     }
   ]
 }
