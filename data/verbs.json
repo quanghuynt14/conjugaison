@@ -14374,6 +14374,24 @@
       },
       "participe_present": "isolant",
       "participe_passe": ["isolé", "isolée", "isolés", "isolées"]
+    },
+    {
+      "id": "abîmer",
+      "infinitif": "abîmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["abîme", "abîmes", "abîme", "abîmons", "abîmez", "abîment"],
+        "ind.imp": ["abîmais", "abîmais", "abîmait", "abîmions", "abîmiez", "abîmaient"],
+        "ind.ps": ["abîmai", "abîmas", "abîma", "abîmâmes", "abîmâtes", "abîmèrent"],
+        "ind.fut": ["abîmerai", "abîmeras", "abîmera", "abîmerons", "abîmerez", "abîmeront"],
+        "cond.pres": ["abîmerais", "abîmerais", "abîmerait", "abîmerions", "abîmeriez", "abîmeraient"],
+        "subj.pres": ["abîme", "abîmes", "abîme", "abîmions", "abîmiez", "abîment"],
+        "subj.imp": ["abîmasse", "abîmasses", "abîmât", "abîmassions", "abîmassiez", "abîmassent"],
+        "imper.pres": ["abîme", "abîmons", "abîmez"]
+      },
+      "participe_present": "abîmant",
+      "participe_passe": ["abîmé", "abîmée", "abîmés", "abîmées"]
     }
   ]
 }
