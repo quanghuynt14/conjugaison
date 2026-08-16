@@ -25680,6 +25680,24 @@
       },
       "participe_present": "gerbant",
       "participe_passe": ["gerbé", "gerbée", "gerbés", "gerbées"]
+    },
+    {
+      "id": "présumer",
+      "infinitif": "présumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["présume", "présumes", "présume", "présumons", "présumez", "présument"],
+        "ind.imp": ["présumais", "présumais", "présumait", "présumions", "présumiez", "présumaient"],
+        "ind.ps": ["présumai", "présumas", "présuma", "présumâmes", "présumâtes", "présumèrent"],
+        "ind.fut": ["présumerai", "présumeras", "présumera", "présumerons", "présumerez", "présumeront"],
+        "cond.pres": ["présumerais", "présumerais", "présumerait", "présumerions", "présumeriez", "présumeraient"],
+        "subj.pres": ["présume", "présumes", "présume", "présumions", "présumiez", "présument"],
+        "subj.imp": ["présumasse", "présumasses", "présumât", "présumassions", "présumassiez", "présumassent"],
+        "imper.pres": ["présume", "présumons", "présumez"]
+      },
+      "participe_present": "présumant",
+      "participe_passe": ["présumé", "présumée", "présumés", "présumées"]
     }
   ]
 }
