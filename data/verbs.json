@@ -33666,6 +33666,25 @@
       },
       "participe_present": "fourguant",
       "participe_passe": ["fourgué", "fourguée", "fourgués", "fourguées"]
+    },
+    {
+      "id": "concéder",
+      "infinitif": "concéder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je concéderai » ou « je concèderai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["concède", "concèdes", "concède", "concédons", "concédez", "concèdent"],
+        "ind.imp": ["concédais", "concédais", "concédait", "concédions", "concédiez", "concédaient"],
+        "ind.ps": ["concédai", "concédas", "concéda", "concédâmes", "concédâtes", "concédèrent"],
+        "ind.fut": [["concéderai", "concèderai"], ["concéderas", "concèderas"], ["concédera", "concèdera"], ["concéderons", "concèderons"], ["concéderez", "concèderez"], ["concéderont", "concèderont"]],
+        "cond.pres": [["concéderais", "concèderais"], ["concéderais", "concèderais"], ["concéderait", "concèderait"], ["concéderions", "concèderions"], ["concéderiez", "concèderiez"], ["concéderaient", "concèderaient"]],
+        "subj.pres": ["concède", "concèdes", "concède", "concédions", "concédiez", "concèdent"],
+        "subj.imp": ["concédasse", "concédasses", "concédât", "concédassions", "concédassiez", "concédassent"],
+        "imper.pres": ["concède", "concédons", "concédez"]
+      },
+      "participe_present": "concédant",
+      "participe_passe": ["concédé", "concédée", "concédés", "concédées"]
     }
   ]
 }
