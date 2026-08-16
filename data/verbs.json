@@ -2805,6 +2805,24 @@
       },
       "participe_present": "existant",
       "participe_passe": ["existé", null, null, null]
+    },
+    {
+      "id": "amener",
+      "infinitif": "amener",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["amène", "amènes", "amène", "amenons", "amenez", "amènent"],
+        "ind.imp": ["amenais", "amenais", "amenait", "amenions", "ameniez", "amenaient"],
+        "ind.ps": ["amenai", "amenas", "amena", "amenâmes", "amenâtes", "amenèrent"],
+        "ind.fut": ["amènerai", "amèneras", "amènera", "amènerons", "amènerez", "amèneront"],
+        "cond.pres": ["amènerais", "amènerais", "amènerait", "amènerions", "amèneriez", "amèneraient"],
+        "subj.pres": ["amène", "amènes", "amène", "amenions", "ameniez", "amènent"],
+        "subj.imp": ["amenasse", "amenasses", "amenât", "amenassions", "amenassiez", "amenassent"],
+        "imper.pres": ["amène", "amenons", "amenez"]
+      },
+      "participe_present": "amenant",
+      "participe_passe": ["amené", "amenée", "amenés", "amenées"]
     }
   ]
 }
