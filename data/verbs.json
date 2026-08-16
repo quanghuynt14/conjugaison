@@ -17568,6 +17568,24 @@
       },
       "participe_present": "évadant",
       "participe_passe": ["évadé", "évadée", "évadés", "évadées"]
+    },
+    {
+      "id": "adapter",
+      "infinitif": "adapter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["adapte", "adaptes", "adapte", "adaptons", "adaptez", "adaptent"],
+        "ind.imp": ["adaptais", "adaptais", "adaptait", "adaptions", "adaptiez", "adaptaient"],
+        "ind.ps": ["adaptai", "adaptas", "adapta", "adaptâmes", "adaptâtes", "adaptèrent"],
+        "ind.fut": ["adapterai", "adapteras", "adaptera", "adapterons", "adapterez", "adapteront"],
+        "cond.pres": ["adapterais", "adapterais", "adapterait", "adapterions", "adapteriez", "adapteraient"],
+        "subj.pres": ["adapte", "adaptes", "adapte", "adaptions", "adaptiez", "adaptent"],
+        "subj.imp": ["adaptasse", "adaptasses", "adaptât", "adaptassions", "adaptassiez", "adaptassent"],
+        "imper.pres": ["adapte", "adaptons", "adaptez"]
+      },
+      "participe_present": "adaptant",
+      "participe_passe": ["adapté", "adaptée", "adaptés", "adaptées"]
     }
   ]
 }
