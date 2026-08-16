@@ -14970,6 +14970,24 @@
       },
       "participe_present": "comblant",
       "participe_passe": ["comblé", "comblée", "comblés", "comblées"]
+    },
+    {
+      "id": "empoisonner",
+      "infinitif": "empoisonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["empoisonne", "empoisonnes", "empoisonne", "empoisonnons", "empoisonnez", "empoisonnent"],
+        "ind.imp": ["empoisonnais", "empoisonnais", "empoisonnait", "empoisonnions", "empoisonniez", "empoisonnaient"],
+        "ind.ps": ["empoisonnai", "empoisonnas", "empoisonna", "empoisonnâmes", "empoisonnâtes", "empoisonnèrent"],
+        "ind.fut": ["empoisonnerai", "empoisonneras", "empoisonnera", "empoisonnerons", "empoisonnerez", "empoisonneront"],
+        "cond.pres": ["empoisonnerais", "empoisonnerais", "empoisonnerait", "empoisonnerions", "empoisonneriez", "empoisonneraient"],
+        "subj.pres": ["empoisonne", "empoisonnes", "empoisonne", "empoisonnions", "empoisonniez", "empoisonnent"],
+        "subj.imp": ["empoisonnasse", "empoisonnasses", "empoisonnât", "empoisonnassions", "empoisonnassiez", "empoisonnassent"],
+        "imper.pres": ["empoisonne", "empoisonnons", "empoisonnez"]
+      },
+      "participe_present": "empoisonnant",
+      "participe_passe": ["empoisonné", "empoisonnée", "empoisonnés", "empoisonnées"]
     }
   ]
 }
