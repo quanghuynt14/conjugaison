@@ -33303,6 +33303,25 @@
       },
       "participe_present": "parsemant",
       "participe_passe": ["parsemé", "parsemée", "parsemés", "parsemées"]
+    },
+    {
+      "id": "trimer",
+      "infinitif": "trimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « trimé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["trime", "trimes", "trime", "trimons", "trimez", "triment"],
+        "ind.imp": ["trimais", "trimais", "trimait", "trimions", "trimiez", "trimaient"],
+        "ind.ps": ["trimai", "trimas", "trima", "trimâmes", "trimâtes", "trimèrent"],
+        "ind.fut": ["trimerai", "trimeras", "trimera", "trimerons", "trimerez", "trimeront"],
+        "cond.pres": ["trimerais", "trimerais", "trimerait", "trimerions", "trimeriez", "trimeraient"],
+        "subj.pres": ["trime", "trimes", "trime", "trimions", "trimiez", "triment"],
+        "subj.imp": ["trimasse", "trimasses", "trimât", "trimassions", "trimassiez", "trimassent"],
+        "imper.pres": ["trime", "trimons", "trimez"]
+      },
+      "participe_present": "trimant",
+      "participe_passe": ["trimé", null, null, null]
     }
   ]
 }
