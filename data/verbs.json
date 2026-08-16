@@ -18941,6 +18941,24 @@
       },
       "participe_present": "émerveillant",
       "participe_passe": ["émerveillé", "émerveillée", "émerveillés", "émerveillées"]
+    },
+    {
+      "id": "questionner",
+      "infinitif": "questionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["questionne", "questionnes", "questionne", "questionnons", "questionnez", "questionnent"],
+        "ind.imp": ["questionnais", "questionnais", "questionnait", "questionnions", "questionniez", "questionnaient"],
+        "ind.ps": ["questionnai", "questionnas", "questionna", "questionnâmes", "questionnâtes", "questionnèrent"],
+        "ind.fut": ["questionnerai", "questionneras", "questionnera", "questionnerons", "questionnerez", "questionneront"],
+        "cond.pres": ["questionnerais", "questionnerais", "questionnerait", "questionnerions", "questionneriez", "questionneraient"],
+        "subj.pres": ["questionne", "questionnes", "questionne", "questionnions", "questionniez", "questionnent"],
+        "subj.imp": ["questionnasse", "questionnasses", "questionnât", "questionnassions", "questionnassiez", "questionnassent"],
+        "imper.pres": ["questionne", "questionnons", "questionnez"]
+      },
+      "participe_present": "questionnant",
+      "participe_passe": ["questionné", "questionnée", "questionnés", "questionnées"]
     }
   ]
 }
