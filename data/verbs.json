@@ -33775,6 +33775,25 @@
       },
       "participe_present": "anticipant",
       "participe_passe": ["anticipé", "anticipée", "anticipés", "anticipées"]
+    },
+    {
+      "id": "hasarder",
+      "infinitif": "hasarder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "h_aspire": true,
+      "tenses": {
+        "ind.pres": ["hasarde", "hasardes", "hasarde", "hasardons", "hasardez", "hasardent"],
+        "ind.imp": ["hasardais", "hasardais", "hasardait", "hasardions", "hasardiez", "hasardaient"],
+        "ind.ps": ["hasardai", "hasardas", "hasarda", "hasardâmes", "hasardâtes", "hasardèrent"],
+        "ind.fut": ["hasarderai", "hasarderas", "hasardera", "hasarderons", "hasarderez", "hasarderont"],
+        "cond.pres": ["hasarderais", "hasarderais", "hasarderait", "hasarderions", "hasarderiez", "hasarderaient"],
+        "subj.pres": ["hasarde", "hasardes", "hasarde", "hasardions", "hasardiez", "hasardent"],
+        "subj.imp": ["hasardasse", "hasardasses", "hasardât", "hasardassions", "hasardassiez", "hasardassent"],
+        "imper.pres": ["hasarde", "hasardons", "hasardez"]
+      },
+      "participe_present": "hasardant",
+      "participe_passe": ["hasardé", "hasardée", "hasardés", "hasardées"]
     }
   ]
 }
