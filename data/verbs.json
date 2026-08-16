@@ -21276,6 +21276,26 @@
       },
       "participe_present": "fiançant",
       "participe_passe": ["fiancé", "fiancée", "fiancés", "fiancées"]
+    },
+    {
+      "id": "accouder",
+      "infinitif": "accouder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’accoude » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["accoude", "accoudes", "accoude", "accoudons", "accoudez", "accoudent"],
+        "ind.imp": ["accoudais", "accoudais", "accoudait", "accoudions", "accoudiez", "accoudaient"],
+        "ind.ps": ["accoudai", "accoudas", "accouda", "accoudâmes", "accoudâtes", "accoudèrent"],
+        "ind.fut": ["accouderai", "accouderas", "accoudera", "accouderons", "accouderez", "accouderont"],
+        "cond.pres": ["accouderais", "accouderais", "accouderait", "accouderions", "accouderiez", "accouderaient"],
+        "subj.pres": ["accoude", "accoudes", "accoude", "accoudions", "accoudiez", "accoudent"],
+        "subj.imp": ["accoudasse", "accoudasses", "accoudât", "accoudassions", "accoudassiez", "accoudassent"],
+        "imper.pres": ["accoude", "accoudons", "accoudez"]
+      },
+      "participe_present": "accoudant",
+      "participe_passe": ["accoudé", "accoudée", "accoudés", "accoudées"]
     }
   ]
 }
