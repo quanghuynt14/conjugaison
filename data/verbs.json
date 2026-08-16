@@ -11645,6 +11645,24 @@
       },
       "participe_present": "justifiant",
       "participe_passe": ["justifié", "justifiée", "justifiés", "justifiées"]
+    },
+    {
+      "id": "chauffer",
+      "infinitif": "chauffer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chauffe", "chauffes", "chauffe", "chauffons", "chauffez", "chauffent"],
+        "ind.imp": ["chauffais", "chauffais", "chauffait", "chauffions", "chauffiez", "chauffaient"],
+        "ind.ps": ["chauffai", "chauffas", "chauffa", "chauffâmes", "chauffâtes", "chauffèrent"],
+        "ind.fut": ["chaufferai", "chaufferas", "chauffera", "chaufferons", "chaufferez", "chaufferont"],
+        "cond.pres": ["chaufferais", "chaufferais", "chaufferait", "chaufferions", "chaufferiez", "chaufferaient"],
+        "subj.pres": ["chauffe", "chauffes", "chauffe", "chauffions", "chauffiez", "chauffent"],
+        "subj.imp": ["chauffasse", "chauffasses", "chauffât", "chauffassions", "chauffassiez", "chauffassent"],
+        "imper.pres": ["chauffe", "chauffons", "chauffez"]
+      },
+      "participe_present": "chauffant",
+      "participe_passe": ["chauffé", "chauffée", "chauffés", "chauffées"]
     }
   ]
 }
