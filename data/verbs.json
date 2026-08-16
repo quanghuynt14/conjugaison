@@ -9720,6 +9720,24 @@
       },
       "participe_present": "fonctionnant",
       "participe_passe": ["fonctionné", null, null, null]
+    },
+    {
+      "id": "essuyer",
+      "infinitif": "essuyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["essuie", "essuies", "essuie", "essuyons", "essuyez", "essuient"],
+        "ind.imp": ["essuyais", "essuyais", "essuyait", "essuyions", "essuyiez", "essuyaient"],
+        "ind.ps": ["essuyai", "essuyas", "essuya", "essuyâmes", "essuyâtes", "essuyèrent"],
+        "ind.fut": ["essuierai", "essuieras", "essuiera", "essuierons", "essuierez", "essuieront"],
+        "cond.pres": ["essuierais", "essuierais", "essuierait", "essuierions", "essuieriez", "essuieraient"],
+        "subj.pres": ["essuie", "essuies", "essuie", "essuyions", "essuyiez", "essuient"],
+        "subj.imp": ["essuyasse", "essuyasses", "essuyât", "essuyassions", "essuyassiez", "essuyassent"],
+        "imper.pres": ["essuie", "essuyons", "essuyez"]
+      },
+      "participe_present": "essuyant",
+      "participe_passe": ["essuyé", "essuyée", "essuyés", "essuyées"]
     }
   ]
 }
