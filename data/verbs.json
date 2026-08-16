@@ -9918,6 +9918,24 @@
       },
       "participe_present": "reprochant",
       "participe_passe": ["reproché", "reprochée", "reprochés", "reprochées"]
+    },
+    {
+      "id": "plier",
+      "infinitif": "plier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["plie", "plies", "plie", "plions", "pliez", "plient"],
+        "ind.imp": ["pliais", "pliais", "pliait", "pliions", "pliiez", "pliaient"],
+        "ind.ps": ["pliai", "plias", "plia", "pliâmes", "pliâtes", "plièrent"],
+        "ind.fut": ["plierai", "plieras", "pliera", "plierons", "plierez", "plieront"],
+        "cond.pres": ["plierais", "plierais", "plierait", "plierions", "plieriez", "plieraient"],
+        "subj.pres": ["plie", "plies", "plie", "pliions", "pliiez", "plient"],
+        "subj.imp": ["pliasse", "pliasses", "pliât", "pliassions", "pliassiez", "pliassent"],
+        "imper.pres": ["plie", "plions", "pliez"]
+      },
+      "participe_present": "pliant",
+      "participe_passe": ["plié", "pliée", "pliés", "pliées"]
     }
   ]
 }
