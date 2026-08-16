@@ -22963,6 +22963,24 @@
       },
       "participe_present": "empirant",
       "participe_passe": ["empiré", "empirée", "empirés", "empirées"]
+    },
+    {
+      "id": "blâmer",
+      "infinitif": "blâmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["blâme", "blâmes", "blâme", "blâmons", "blâmez", "blâment"],
+        "ind.imp": ["blâmais", "blâmais", "blâmait", "blâmions", "blâmiez", "blâmaient"],
+        "ind.ps": ["blâmai", "blâmas", "blâma", "blâmâmes", "blâmâtes", "blâmèrent"],
+        "ind.fut": ["blâmerai", "blâmeras", "blâmera", "blâmerons", "blâmerez", "blâmeront"],
+        "cond.pres": ["blâmerais", "blâmerais", "blâmerait", "blâmerions", "blâmeriez", "blâmeraient"],
+        "subj.pres": ["blâme", "blâmes", "blâme", "blâmions", "blâmiez", "blâment"],
+        "subj.imp": ["blâmasse", "blâmasses", "blâmât", "blâmassions", "blâmassiez", "blâmassent"],
+        "imper.pres": ["blâme", "blâmons", "blâmez"]
+      },
+      "participe_present": "blâmant",
+      "participe_passe": ["blâmé", "blâmée", "blâmés", "blâmées"]
     }
   ]
 }
