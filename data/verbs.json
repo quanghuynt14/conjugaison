@@ -28268,6 +28268,24 @@
       },
       "participe_present": "collectionnant",
       "participe_passe": ["collectionné", "collectionnée", "collectionnés", "collectionnées"]
+    },
+    {
+      "id": "débloquer",
+      "infinitif": "débloquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["débloque", "débloques", "débloque", "débloquons", "débloquez", "débloquent"],
+        "ind.imp": ["débloquais", "débloquais", "débloquait", "débloquions", "débloquiez", "débloquaient"],
+        "ind.ps": ["débloquai", "débloquas", "débloqua", "débloquâmes", "débloquâtes", "débloquèrent"],
+        "ind.fut": ["débloquerai", "débloqueras", "débloquera", "débloquerons", "débloquerez", "débloqueront"],
+        "cond.pres": ["débloquerais", "débloquerais", "débloquerait", "débloquerions", "débloqueriez", "débloqueraient"],
+        "subj.pres": ["débloque", "débloques", "débloque", "débloquions", "débloquiez", "débloquent"],
+        "subj.imp": ["débloquasse", "débloquasses", "débloquât", "débloquassions", "débloquassiez", "débloquassent"],
+        "imper.pres": ["débloque", "débloquons", "débloquez"]
+      },
+      "participe_present": "débloquant",
+      "participe_passe": ["débloqué", "débloquée", "débloqués", "débloquées"]
     }
   ]
 }
