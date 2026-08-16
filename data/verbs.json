@@ -33467,6 +33467,24 @@
       },
       "participe_present": "actionnant",
       "participe_passe": ["actionné", "actionnée", "actionnés", "actionnées"]
+    },
+    {
+      "id": "ficeler",
+      "infinitif": "ficeler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ficelle", "ficelles", "ficelle", "ficelons", "ficelez", "ficellent"],
+        "ind.imp": ["ficelais", "ficelais", "ficelait", "ficelions", "ficeliez", "ficelaient"],
+        "ind.ps": ["ficelai", "ficelas", "ficela", "ficelâmes", "ficelâtes", "ficelèrent"],
+        "ind.fut": ["ficellerai", "ficelleras", "ficellera", "ficellerons", "ficellerez", "ficelleront"],
+        "cond.pres": ["ficellerais", "ficellerais", "ficellerait", "ficellerions", "ficelleriez", "ficelleraient"],
+        "subj.pres": ["ficelle", "ficelles", "ficelle", "ficelions", "ficeliez", "ficellent"],
+        "subj.imp": ["ficelasse", "ficelasses", "ficelât", "ficelassions", "ficelassiez", "ficelassent"],
+        "imper.pres": ["ficelle", "ficelons", "ficelez"]
+      },
+      "participe_present": "ficelant",
+      "participe_passe": ["ficelé", "ficelée", "ficelés", "ficelées"]
     }
   ]
 }
