@@ -19142,6 +19142,24 @@
       },
       "participe_present": "maniant",
       "participe_passe": ["manié", "maniée", "maniés", "maniées"]
+    },
+    {
+      "id": "repenser",
+      "infinitif": "repenser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["repense", "repenses", "repense", "repensons", "repensez", "repensent"],
+        "ind.imp": ["repensais", "repensais", "repensait", "repensions", "repensiez", "repensaient"],
+        "ind.ps": ["repensai", "repensas", "repensa", "repensâmes", "repensâtes", "repensèrent"],
+        "ind.fut": ["repenserai", "repenseras", "repensera", "repenserons", "repenserez", "repenseront"],
+        "cond.pres": ["repenserais", "repenserais", "repenserait", "repenserions", "repenseriez", "repenseraient"],
+        "subj.pres": ["repense", "repenses", "repense", "repensions", "repensiez", "repensent"],
+        "subj.imp": ["repensasse", "repensasses", "repensât", "repensassions", "repensassiez", "repensassent"],
+        "imper.pres": ["repense", "repensons", "repensez"]
+      },
+      "participe_present": "repensant",
+      "participe_passe": ["repensé", "repensée", "repensés", "repensées"]
     }
   ]
 }
