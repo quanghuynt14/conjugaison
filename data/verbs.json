@@ -10502,6 +10502,24 @@
       },
       "participe_present": "informant",
       "participe_passe": ["informé", "informée", "informés", "informées"]
+    },
+    {
+      "id": "barrer",
+      "infinitif": "barrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["barre", "barres", "barre", "barrons", "barrez", "barrent"],
+        "ind.imp": ["barrais", "barrais", "barrait", "barrions", "barriez", "barraient"],
+        "ind.ps": ["barrai", "barras", "barra", "barrâmes", "barrâtes", "barrèrent"],
+        "ind.fut": ["barrerai", "barreras", "barrera", "barrerons", "barrerez", "barreront"],
+        "cond.pres": ["barrerais", "barrerais", "barrerait", "barrerions", "barreriez", "barreraient"],
+        "subj.pres": ["barre", "barres", "barre", "barrions", "barriez", "barrent"],
+        "subj.imp": ["barrasse", "barrasses", "barrât", "barrassions", "barrassiez", "barrassent"],
+        "imper.pres": ["barre", "barrons", "barrez"]
+      },
+      "participe_present": "barrant",
+      "participe_passe": ["barré", "barrée", "barrés", "barrées"]
     }
   ]
 }
