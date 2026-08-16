@@ -23128,6 +23128,24 @@
       },
       "participe_present": "localisant",
       "participe_passe": ["localisé", "localisée", "localisés", "localisées"]
+    },
+    {
+      "id": "dériver",
+      "infinitif": "dériver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dérive", "dérives", "dérive", "dérivons", "dérivez", "dérivent"],
+        "ind.imp": ["dérivais", "dérivais", "dérivait", "dérivions", "dériviez", "dérivaient"],
+        "ind.ps": ["dérivai", "dérivas", "dériva", "dérivâmes", "dérivâtes", "dérivèrent"],
+        "ind.fut": ["dériverai", "dériveras", "dérivera", "dériverons", "dériverez", "dériveront"],
+        "cond.pres": ["dériverais", "dériverais", "dériverait", "dériverions", "dériveriez", "dériveraient"],
+        "subj.pres": ["dérive", "dérives", "dérive", "dérivions", "dériviez", "dérivent"],
+        "subj.imp": ["dérivasse", "dérivasses", "dérivât", "dérivassions", "dérivassiez", "dérivassent"],
+        "imper.pres": ["dérive", "dérivons", "dérivez"]
+      },
+      "participe_present": "dérivant",
+      "participe_passe": ["dérivé", "dérivée", "dérivés", "dérivées"]
     }
   ]
 }
