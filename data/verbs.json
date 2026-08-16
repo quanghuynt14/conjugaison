@@ -11480,6 +11480,25 @@
       },
       "participe_present": "affrontant",
       "participe_passe": ["affronté", "affrontée", "affrontés", "affrontées"]
+    },
+    {
+      "id": "luire",
+      "infinitif": "luire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux passés simples coexistent, « il luit » et « il luisit ». Le participe passé « lui » est invariable.",
+      "tenses": {
+        "ind.pres": ["luis", "luis", "luit", "luisons", "luisez", "luisent"],
+        "ind.imp": ["luisais", "luisais", "luisait", "luisions", "luisiez", "luisaient"],
+        "ind.ps": [["luis", "luisis"], ["luis", "luisis"], ["luit", "luisit"], ["luîmes", "luisîmes"], ["luîtes", "luisîtes"], ["luirent", "luisirent"]],
+        "ind.fut": ["luirai", "luiras", "luira", "luirons", "luirez", "luiront"],
+        "cond.pres": ["luirais", "luirais", "luirait", "luirions", "luiriez", "luiraient"],
+        "subj.pres": ["luise", "luises", "luise", "luisions", "luisiez", "luisent"],
+        "subj.imp": ["luisse", "luisses", "luît", "luissions", "luissiez", "luissent"],
+        "imper.pres": ["luis", "luisons", "luisez"]
+      },
+      "participe_present": "luisant",
+      "participe_passe": ["lui", null, null, null]
     }
   ]
 }
