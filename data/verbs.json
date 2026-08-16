@@ -29547,6 +29547,24 @@
       },
       "participe_present": "côtoyant",
       "participe_passe": ["côtoyé", "côtoyée", "côtoyés", "côtoyées"]
+    },
+    {
+      "id": "entonner",
+      "infinitif": "entonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entonne", "entonnes", "entonne", "entonnons", "entonnez", "entonnent"],
+        "ind.imp": ["entonnais", "entonnais", "entonnait", "entonnions", "entonniez", "entonnaient"],
+        "ind.ps": ["entonnai", "entonnas", "entonna", "entonnâmes", "entonnâtes", "entonnèrent"],
+        "ind.fut": ["entonnerai", "entonneras", "entonnera", "entonnerons", "entonnerez", "entonneront"],
+        "cond.pres": ["entonnerais", "entonnerais", "entonnerait", "entonnerions", "entonneriez", "entonneraient"],
+        "subj.pres": ["entonne", "entonnes", "entonne", "entonnions", "entonniez", "entonnent"],
+        "subj.imp": ["entonnasse", "entonnasses", "entonnât", "entonnassions", "entonnassiez", "entonnassent"],
+        "imper.pres": ["entonne", "entonnons", "entonnez"]
+      },
+      "participe_present": "entonnant",
+      "participe_passe": ["entonné", "entonnée", "entonnés", "entonnées"]
     }
   ]
 }
