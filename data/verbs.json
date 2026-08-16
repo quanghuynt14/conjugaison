@@ -7656,6 +7656,24 @@
       },
       "participe_present": "accusant",
       "participe_passe": ["accusé", "accusée", "accusés", "accusées"]
+    },
+    {
+      "id": "enterrer",
+      "infinitif": "enterrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enterre", "enterres", "enterre", "enterrons", "enterrez", "enterrent"],
+        "ind.imp": ["enterrais", "enterrais", "enterrait", "enterrions", "enterriez", "enterraient"],
+        "ind.ps": ["enterrai", "enterras", "enterra", "enterrâmes", "enterrâtes", "enterrèrent"],
+        "ind.fut": ["enterrerai", "enterreras", "enterrera", "enterrerons", "enterrerez", "enterreront"],
+        "cond.pres": ["enterrerais", "enterrerais", "enterrerait", "enterrerions", "enterreriez", "enterreraient"],
+        "subj.pres": ["enterre", "enterres", "enterre", "enterrions", "enterriez", "enterrent"],
+        "subj.imp": ["enterrasse", "enterrasses", "enterrât", "enterrassions", "enterrassiez", "enterrassent"],
+        "imper.pres": ["enterre", "enterrons", "enterrez"]
+      },
+      "participe_present": "enterrant",
+      "participe_passe": ["enterré", "enterrée", "enterrés", "enterrées"]
     }
   ]
 }
