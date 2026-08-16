@@ -3510,6 +3510,24 @@
       },
       "participe_present": "utilisant",
       "participe_passe": ["utilisé", "utilisée", "utilisés", "utilisées"]
+    },
+    {
+      "id": "craindre",
+      "infinitif": "craindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["crains", "crains", "craint", "craignons", "craignez", "craignent"],
+        "ind.imp": ["craignais", "craignais", "craignait", "craignions", "craigniez", "craignaient"],
+        "ind.ps": ["craignis", "craignis", "craignit", "craignîmes", "craignîtes", "craignirent"],
+        "ind.fut": ["craindrai", "craindras", "craindra", "craindrons", "craindrez", "craindront"],
+        "cond.pres": ["craindrais", "craindrais", "craindrait", "craindrions", "craindriez", "craindraient"],
+        "subj.pres": ["craigne", "craignes", "craigne", "craignions", "craigniez", "craignent"],
+        "subj.imp": ["craignisse", "craignisses", "craignît", "craignissions", "craignissiez", "craignissent"],
+        "imper.pres": ["crains", "craignons", "craignez"]
+      },
+      "participe_present": "craignant",
+      "participe_passe": ["craint", "crainte", "craints", "craintes"]
     }
   ]
 }
