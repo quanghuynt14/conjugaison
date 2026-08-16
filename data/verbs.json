@@ -31293,6 +31293,24 @@
       },
       "participe_present": "purgeant",
       "participe_passe": ["purgé", "purgée", "purgés", "purgées"]
+    },
+    {
+      "id": "défigurer",
+      "infinitif": "défigurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["défigure", "défigures", "défigure", "défigurons", "défigurez", "défigurent"],
+        "ind.imp": ["défigurais", "défigurais", "défigurait", "défigurions", "défiguriez", "défiguraient"],
+        "ind.ps": ["défigurai", "défiguras", "défigura", "défigurâmes", "défigurâtes", "défigurèrent"],
+        "ind.fut": ["défigurerai", "défigureras", "défigurera", "défigurerons", "défigurerez", "défigureront"],
+        "cond.pres": ["défigurerais", "défigurerais", "défigurerait", "défigurerions", "défigureriez", "défigureraient"],
+        "subj.pres": ["défigure", "défigures", "défigure", "défigurions", "défiguriez", "défigurent"],
+        "subj.imp": ["défigurasse", "défigurasses", "défigurât", "défigurassions", "défigurassiez", "défigurassent"],
+        "imper.pres": ["défigure", "défigurons", "défigurez"]
+      },
+      "participe_present": "défigurant",
+      "participe_passe": ["défiguré", "défigurée", "défigurés", "défigurées"]
     }
   ]
 }
