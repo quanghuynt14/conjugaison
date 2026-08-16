@@ -21040,6 +21040,25 @@
       },
       "participe_present": "égorgeant",
       "participe_passe": ["égorgé", "égorgée", "égorgés", "égorgées"]
+    },
+    {
+      "id": "rayer",
+      "infinitif": "rayer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « je raie » ou « je raye ».",
+      "tenses": {
+        "ind.pres": [["raie", "raye"], ["raies", "rayes"], ["raie", "raye"], "rayons", "rayez", ["raient", "rayent"]],
+        "ind.imp": ["rayais", "rayais", "rayait", "rayions", "rayiez", "rayaient"],
+        "ind.ps": ["rayai", "rayas", "raya", "rayâmes", "rayâtes", "rayèrent"],
+        "ind.fut": [["raierai", "rayerai"], ["raieras", "rayeras"], ["raiera", "rayera"], ["raierons", "rayerons"], ["raierez", "rayerez"], ["raieront", "rayeront"]],
+        "cond.pres": [["raierais", "rayerais"], ["raierais", "rayerais"], ["raierait", "rayerait"], ["raierions", "rayerions"], ["raieriez", "rayeriez"], ["raieraient", "rayeraient"]],
+        "subj.pres": [["raie", "raye"], ["raies", "rayes"], ["raie", "raye"], "rayions", "rayiez", ["raient", "rayent"]],
+        "subj.imp": ["rayasse", "rayasses", "rayât", "rayassions", "rayassiez", "rayassent"],
+        "imper.pres": [["raie", "raye"], "rayons", "rayez"]
+      },
+      "participe_present": "rayant",
+      "participe_passe": ["rayé", "rayée", "rayés", "rayées"]
     }
   ]
 }
