@@ -28578,6 +28578,24 @@
       },
       "participe_present": "remariant",
       "participe_passe": ["remarié", "remariée", "remariés", "remariées"]
+    },
+    {
+      "id": "déplorer",
+      "infinitif": "déplorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déplore", "déplores", "déplore", "déplorons", "déplorez", "déplorent"],
+        "ind.imp": ["déplorais", "déplorais", "déplorait", "déplorions", "déploriez", "déploraient"],
+        "ind.ps": ["déplorai", "déploras", "déplora", "déplorâmes", "déplorâtes", "déplorèrent"],
+        "ind.fut": ["déplorerai", "déploreras", "déplorera", "déplorerons", "déplorerez", "déploreront"],
+        "cond.pres": ["déplorerais", "déplorerais", "déplorerait", "déplorerions", "déploreriez", "déploreraient"],
+        "subj.pres": ["déplore", "déplores", "déplore", "déplorions", "déploriez", "déplorent"],
+        "subj.imp": ["déplorasse", "déplorasses", "déplorât", "déplorassions", "déplorassiez", "déplorassent"],
+        "imper.pres": ["déplore", "déplorons", "déplorez"]
+      },
+      "participe_present": "déplorant",
+      "participe_passe": ["déploré", "déplorée", "déplorés", "déplorées"]
     }
   ]
 }
