@@ -1112,6 +1112,24 @@
       },
       "participe_present": "plaisant",
       "participe_passe": ["plu", null, null, null]
+    },
+    {
+      "id": "répondre",
+      "infinitif": "répondre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réponds", "réponds", "répond", "répondons", "répondez", "répondent"],
+        "ind.imp": ["répondais", "répondais", "répondait", "répondions", "répondiez", "répondaient"],
+        "ind.ps": ["répondis", "répondis", "répondit", "répondîmes", "répondîtes", "répondirent"],
+        "ind.fut": ["répondrai", "répondras", "répondra", "répondrons", "répondrez", "répondront"],
+        "cond.pres": ["répondrais", "répondrais", "répondrait", "répondrions", "répondriez", "répondraient"],
+        "subj.pres": ["réponde", "répondes", "réponde", "répondions", "répondiez", "répondent"],
+        "subj.imp": ["répondisse", "répondisses", "répondît", "répondissions", "répondissiez", "répondissent"],
+        "imper.pres": ["réponds", "répondons", "répondez"]
+      },
+      "participe_present": "répondant",
+      "participe_passe": ["répondu", "répondue", "répondus", "répondues"]
     }
   ]
 }
