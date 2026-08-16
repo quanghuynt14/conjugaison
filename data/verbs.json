@@ -10538,6 +10538,24 @@
       },
       "participe_present": "estimant",
       "participe_passe": ["estimé", "estimée", "estimés", "estimées"]
+    },
+    {
+      "id": "ôter",
+      "infinitif": "ôter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ôte", "ôtes", "ôte", "ôtons", "ôtez", "ôtent"],
+        "ind.imp": ["ôtais", "ôtais", "ôtait", "ôtions", "ôtiez", "ôtaient"],
+        "ind.ps": ["ôtai", "ôtas", "ôta", "ôtâmes", "ôtâtes", "ôtèrent"],
+        "ind.fut": ["ôterai", "ôteras", "ôtera", "ôterons", "ôterez", "ôteront"],
+        "cond.pres": ["ôterais", "ôterais", "ôterait", "ôterions", "ôteriez", "ôteraient"],
+        "subj.pres": ["ôte", "ôtes", "ôte", "ôtions", "ôtiez", "ôtent"],
+        "subj.imp": ["ôtasse", "ôtasses", "ôtât", "ôtassions", "ôtassiez", "ôtassent"],
+        "imper.pres": ["ôte", "ôtons", "ôtez"]
+      },
+      "participe_present": "ôtant",
+      "participe_passe": ["ôté", "ôtée", "ôtés", "ôtées"]
     }
   ]
 }
