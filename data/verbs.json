@@ -11735,6 +11735,24 @@
       },
       "participe_present": "rougissant",
       "participe_passe": ["rougi", "rougie", "rougis", "rougies"]
+    },
+    {
+      "id": "guider",
+      "infinitif": "guider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["guide", "guides", "guide", "guidons", "guidez", "guident"],
+        "ind.imp": ["guidais", "guidais", "guidait", "guidions", "guidiez", "guidaient"],
+        "ind.ps": ["guidai", "guidas", "guida", "guidâmes", "guidâtes", "guidèrent"],
+        "ind.fut": ["guiderai", "guideras", "guidera", "guiderons", "guiderez", "guideront"],
+        "cond.pres": ["guiderais", "guiderais", "guiderait", "guiderions", "guideriez", "guideraient"],
+        "subj.pres": ["guide", "guides", "guide", "guidions", "guidiez", "guident"],
+        "subj.imp": ["guidasse", "guidasses", "guidât", "guidassions", "guidassiez", "guidassent"],
+        "imper.pres": ["guide", "guidons", "guidez"]
+      },
+      "participe_present": "guidant",
+      "participe_passe": ["guidé", "guidée", "guidés", "guidées"]
     }
   ]
 }
