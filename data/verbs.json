@@ -27976,6 +27976,24 @@
       },
       "participe_present": "écorchant",
       "participe_passe": ["écorché", "écorchée", "écorchés", "écorchées"]
+    },
+    {
+      "id": "trafiquer",
+      "infinitif": "trafiquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trafique", "trafiques", "trafique", "trafiquons", "trafiquez", "trafiquent"],
+        "ind.imp": ["trafiquais", "trafiquais", "trafiquait", "trafiquions", "trafiquiez", "trafiquaient"],
+        "ind.ps": ["trafiquai", "trafiquas", "trafiqua", "trafiquâmes", "trafiquâtes", "trafiquèrent"],
+        "ind.fut": ["trafiquerai", "trafiqueras", "trafiquera", "trafiquerons", "trafiquerez", "trafiqueront"],
+        "cond.pres": ["trafiquerais", "trafiquerais", "trafiquerait", "trafiquerions", "trafiqueriez", "trafiqueraient"],
+        "subj.pres": ["trafique", "trafiques", "trafique", "trafiquions", "trafiquiez", "trafiquent"],
+        "subj.imp": ["trafiquasse", "trafiquasses", "trafiquât", "trafiquassions", "trafiquassiez", "trafiquassent"],
+        "imper.pres": ["trafique", "trafiquons", "trafiquez"]
+      },
+      "participe_present": "trafiquant",
+      "participe_passe": ["trafiqué", "trafiquée", "trafiqués", "trafiquées"]
     }
   ]
 }
