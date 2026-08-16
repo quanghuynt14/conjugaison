@@ -11954,6 +11954,24 @@
       },
       "participe_present": "écroulant",
       "participe_passe": ["écroulé", "écroulée", "écroulés", "écroulées"]
+    },
+    {
+      "id": "témoigner",
+      "infinitif": "témoigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["témoigne", "témoignes", "témoigne", "témoignons", "témoignez", "témoignent"],
+        "ind.imp": ["témoignais", "témoignais", "témoignait", "témoignions", "témoigniez", "témoignaient"],
+        "ind.ps": ["témoignai", "témoignas", "témoigna", "témoignâmes", "témoignâtes", "témoignèrent"],
+        "ind.fut": ["témoignerai", "témoigneras", "témoignera", "témoignerons", "témoignerez", "témoigneront"],
+        "cond.pres": ["témoignerais", "témoignerais", "témoignerait", "témoignerions", "témoigneriez", "témoigneraient"],
+        "subj.pres": ["témoigne", "témoignes", "témoigne", "témoignions", "témoigniez", "témoignent"],
+        "subj.imp": ["témoignasse", "témoignasses", "témoignât", "témoignassions", "témoignassiez", "témoignassent"],
+        "imper.pres": ["témoigne", "témoignons", "témoignez"]
+      },
+      "participe_present": "témoignant",
+      "participe_passe": ["témoigné", "témoignée", "témoignés", "témoignées"]
     }
   ]
 }
