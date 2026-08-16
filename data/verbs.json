@@ -21801,6 +21801,24 @@
       },
       "participe_present": "advenant",
       "participe_passe": ["advenu", "advenue", "advenus", "advenues"]
+    },
+    {
+      "id": "mâcher",
+      "infinitif": "mâcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mâche", "mâches", "mâche", "mâchons", "mâchez", "mâchent"],
+        "ind.imp": ["mâchais", "mâchais", "mâchait", "mâchions", "mâchiez", "mâchaient"],
+        "ind.ps": ["mâchai", "mâchas", "mâcha", "mâchâmes", "mâchâtes", "mâchèrent"],
+        "ind.fut": ["mâcherai", "mâcheras", "mâchera", "mâcherons", "mâcherez", "mâcheront"],
+        "cond.pres": ["mâcherais", "mâcherais", "mâcherait", "mâcherions", "mâcheriez", "mâcheraient"],
+        "subj.pres": ["mâche", "mâches", "mâche", "mâchions", "mâchiez", "mâchent"],
+        "subj.imp": ["mâchasse", "mâchasses", "mâchât", "mâchassions", "mâchassiez", "mâchassent"],
+        "imper.pres": ["mâche", "mâchons", "mâchez"]
+      },
+      "participe_present": "mâchant",
+      "participe_passe": ["mâché", "mâchée", "mâchés", "mâchées"]
     }
   ]
 }
