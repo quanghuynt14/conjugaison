@@ -18468,6 +18468,24 @@
       },
       "participe_present": "capturant",
       "participe_passe": ["capturé", "capturée", "capturés", "capturées"]
+    },
+    {
+      "id": "agrandir",
+      "infinitif": "agrandir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["agrandis", "agrandis", "agrandit", "agrandissons", "agrandissez", "agrandissent"],
+        "ind.imp": ["agrandissais", "agrandissais", "agrandissait", "agrandissions", "agrandissiez", "agrandissaient"],
+        "ind.ps": ["agrandis", "agrandis", "agrandit", "agrandîmes", "agrandîtes", "agrandirent"],
+        "ind.fut": ["agrandirai", "agrandiras", "agrandira", "agrandirons", "agrandirez", "agrandiront"],
+        "cond.pres": ["agrandirais", "agrandirais", "agrandirait", "agrandirions", "agrandiriez", "agrandiraient"],
+        "subj.pres": ["agrandisse", "agrandisses", "agrandisse", "agrandissions", "agrandissiez", "agrandissent"],
+        "subj.imp": ["agrandisse", "agrandisses", "agrandît", "agrandissions", "agrandissiez", "agrandissent"],
+        "imper.pres": ["agrandis", "agrandissons", "agrandissez"]
+      },
+      "participe_present": "agrandissant",
+      "participe_passe": ["agrandi", "agrandie", "agrandis", "agrandies"]
     }
   ]
 }
