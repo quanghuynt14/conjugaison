@@ -15042,6 +15042,24 @@
       },
       "participe_present": "grognant",
       "participe_passe": ["grogné", "grognée", "grognés", "grognées"]
+    },
+    {
+      "id": "dérober",
+      "infinitif": "dérober",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dérobe", "dérobes", "dérobe", "dérobons", "dérobez", "dérobent"],
+        "ind.imp": ["dérobais", "dérobais", "dérobait", "dérobions", "dérobiez", "dérobaient"],
+        "ind.ps": ["dérobai", "dérobas", "déroba", "dérobâmes", "dérobâtes", "dérobèrent"],
+        "ind.fut": ["déroberai", "déroberas", "dérobera", "déroberons", "déroberez", "déroberont"],
+        "cond.pres": ["déroberais", "déroberais", "déroberait", "déroberions", "déroberiez", "déroberaient"],
+        "subj.pres": ["dérobe", "dérobes", "dérobe", "dérobions", "dérobiez", "dérobent"],
+        "subj.imp": ["dérobasse", "dérobasses", "dérobât", "dérobassions", "dérobassiez", "dérobassent"],
+        "imper.pres": ["dérobe", "dérobons", "dérobez"]
+      },
+      "participe_present": "dérobant",
+      "participe_passe": ["dérobé", "dérobée", "dérobés", "dérobées"]
     }
   ]
 }
