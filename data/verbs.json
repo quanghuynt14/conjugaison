@@ -35114,6 +35114,24 @@
       },
       "participe_present": "hélant",
       "participe_passe": ["hélé", "hélée", "hélés", "hélées"]
+    },
+    {
+      "id": "instituer",
+      "infinitif": "instituer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["institue", "institues", "institue", "instituons", "instituez", "instituent"],
+        "ind.imp": ["instituais", "instituais", "instituait", "instituions", "instituiez", "instituaient"],
+        "ind.ps": ["instituai", "instituas", "institua", "instituâmes", "instituâtes", "instituèrent"],
+        "ind.fut": ["instituerai", "institueras", "instituera", "instituerons", "instituerez", "institueront"],
+        "cond.pres": ["instituerais", "instituerais", "instituerait", "instituerions", "institueriez", "institueraient"],
+        "subj.pres": ["institue", "institues", "institue", "instituions", "instituiez", "instituent"],
+        "subj.imp": ["instituasse", "instituasses", "instituât", "instituassions", "instituassiez", "instituassent"],
+        "imper.pres": ["institue", "instituons", "instituez"]
+      },
+      "participe_present": "instituant",
+      "participe_passe": ["institué", "instituée", "institués", "instituées"]
     }
   ]
 }
