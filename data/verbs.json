@@ -23652,6 +23652,25 @@
       },
       "participe_present": "alimentant",
       "participe_passe": ["alimenté", "alimentée", "alimentés", "alimentées"]
+    },
+    {
+      "id": "croître",
+      "infinitif": "croître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "L'accent circonflexe ne sert qu'à séparer croître de croire, et seules les formes ambiguës le portent : « je croîs » contre « je crois », « crû » contre « cru », mais « crue », « crus », « crues ».",
+      "tenses": {
+        "ind.pres": ["croîs", "croîs", "croît", "croissons", "croissez", "croissent"],
+        "ind.imp": ["croissais", "croissais", "croissait", "croissions", "croissiez", "croissaient"],
+        "ind.ps": ["crûs", "crûs", "crût", "crûmes", "crûtes", "crûrent"],
+        "ind.fut": ["croîtrai", "croîtras", "croîtra", "croîtrons", "croîtrez", "croîtront"],
+        "cond.pres": ["croîtrais", "croîtrais", "croîtrait", "croîtrions", "croîtriez", "croîtraient"],
+        "subj.pres": ["croisse", "croisses", "croisse", "croissions", "croissiez", "croissent"],
+        "subj.imp": ["crûsse", "crûsses", "crût", "crûssions", "crûssiez", "crûssent"],
+        "imper.pres": ["crois", "croissons", "croissez"]
+      },
+      "participe_present": "croissant",
+      "participe_passe": ["crû", "crue", "crus", "crues"]
     }
   ]
 }
