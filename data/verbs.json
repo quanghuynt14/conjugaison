@@ -1898,6 +1898,24 @@
       },
       "participe_present": "important",
       "participe_passe": ["importé", "importée", "importés", "importées"]
+    },
+    {
+      "id": "compter",
+      "infinitif": "compter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["compte", "comptes", "compte", "comptons", "comptez", "comptent"],
+        "ind.imp": ["comptais", "comptais", "comptait", "comptions", "comptiez", "comptaient"],
+        "ind.ps": ["comptai", "comptas", "compta", "comptâmes", "comptâtes", "comptèrent"],
+        "ind.fut": ["compterai", "compteras", "comptera", "compterons", "compterez", "compteront"],
+        "cond.pres": ["compterais", "compterais", "compterait", "compterions", "compteriez", "compteraient"],
+        "subj.pres": ["compte", "comptes", "compte", "comptions", "comptiez", "comptent"],
+        "subj.imp": ["comptasse", "comptasses", "comptât", "comptassions", "comptassiez", "comptassent"],
+        "imper.pres": ["compte", "comptons", "comptez"]
+      },
+      "participe_present": "comptant",
+      "participe_passe": ["compté", "comptée", "comptés", "comptées"]
     }
   ]
 }
