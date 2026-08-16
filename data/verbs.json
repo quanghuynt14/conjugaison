@@ -22872,6 +22872,24 @@
       },
       "participe_present": "improvisant",
       "participe_passe": ["improvisé", "improvisée", "improvisés", "improvisées"]
+    },
+    {
+      "id": "alourdir",
+      "infinitif": "alourdir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["alourdis", "alourdis", "alourdit", "alourdissons", "alourdissez", "alourdissent"],
+        "ind.imp": ["alourdissais", "alourdissais", "alourdissait", "alourdissions", "alourdissiez", "alourdissaient"],
+        "ind.ps": ["alourdis", "alourdis", "alourdit", "alourdîmes", "alourdîtes", "alourdirent"],
+        "ind.fut": ["alourdirai", "alourdiras", "alourdira", "alourdirons", "alourdirez", "alourdiront"],
+        "cond.pres": ["alourdirais", "alourdirais", "alourdirait", "alourdirions", "alourdiriez", "alourdiraient"],
+        "subj.pres": ["alourdisse", "alourdisses", "alourdisse", "alourdissions", "alourdissiez", "alourdissent"],
+        "subj.imp": ["alourdisse", "alourdisses", "alourdît", "alourdissions", "alourdissiez", "alourdissent"],
+        "imper.pres": ["alourdis", "alourdissons", "alourdissez"]
+      },
+      "participe_present": "alourdissant",
+      "participe_passe": ["alourdi", "alourdie", "alourdis", "alourdies"]
     }
   ]
 }
