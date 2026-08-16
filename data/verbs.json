@@ -6135,6 +6135,24 @@
       },
       "participe_present": "moquant",
       "participe_passe": ["moqué", "moquée", "moqués", "moquées"]
+    },
+    {
+      "id": "dépasser",
+      "infinitif": "dépasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dépasse", "dépasses", "dépasse", "dépassons", "dépassez", "dépassent"],
+        "ind.imp": ["dépassais", "dépassais", "dépassait", "dépassions", "dépassiez", "dépassaient"],
+        "ind.ps": ["dépassai", "dépassas", "dépassa", "dépassâmes", "dépassâtes", "dépassèrent"],
+        "ind.fut": ["dépasserai", "dépasseras", "dépassera", "dépasserons", "dépasserez", "dépasseront"],
+        "cond.pres": ["dépasserais", "dépasserais", "dépasserait", "dépasserions", "dépasseriez", "dépasseraient"],
+        "subj.pres": ["dépasse", "dépasses", "dépasse", "dépassions", "dépassiez", "dépassent"],
+        "subj.imp": ["dépassasse", "dépassasses", "dépassât", "dépassassions", "dépassassiez", "dépassassent"],
+        "imper.pres": ["dépasse", "dépassons", "dépassez"]
+      },
+      "participe_present": "dépassant",
+      "participe_passe": ["dépassé", "dépassée", "dépassés", "dépassées"]
     }
   ]
 }
