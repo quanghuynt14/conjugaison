@@ -34727,6 +34727,24 @@
       },
       "participe_present": "tourbillonnant",
       "participe_passe": ["tourbillonné", null, null, null]
+    },
+    {
+      "id": "affubler",
+      "infinitif": "affubler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affuble", "affubles", "affuble", "affublons", "affublez", "affublent"],
+        "ind.imp": ["affublais", "affublais", "affublait", "affublions", "affubliez", "affublaient"],
+        "ind.ps": ["affublai", "affublas", "affubla", "affublâmes", "affublâtes", "affublèrent"],
+        "ind.fut": ["affublerai", "affubleras", "affublera", "affublerons", "affublerez", "affubleront"],
+        "cond.pres": ["affublerais", "affublerais", "affublerait", "affublerions", "affubleriez", "affubleraient"],
+        "subj.pres": ["affuble", "affubles", "affuble", "affublions", "affubliez", "affublent"],
+        "subj.imp": ["affublasse", "affublasses", "affublât", "affublassions", "affublassiez", "affublassent"],
+        "imper.pres": ["affuble", "affublons", "affublez"]
+      },
+      "participe_present": "affublant",
+      "participe_passe": ["affublé", "affublée", "affublés", "affublées"]
     }
   ]
 }
