@@ -8759,6 +8759,24 @@
       },
       "participe_present": "réduisant",
       "participe_passe": ["réduit", "réduite", "réduits", "réduites"]
+    },
+    {
+      "id": "habituer",
+      "infinitif": "habituer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["habitue", "habitues", "habitue", "habituons", "habituez", "habituent"],
+        "ind.imp": ["habituais", "habituais", "habituait", "habituions", "habituiez", "habituaient"],
+        "ind.ps": ["habituai", "habituas", "habitua", "habituâmes", "habituâtes", "habituèrent"],
+        "ind.fut": ["habituerai", "habitueras", "habituera", "habituerons", "habituerez", "habitueront"],
+        "cond.pres": ["habituerais", "habituerais", "habituerait", "habituerions", "habitueriez", "habitueraient"],
+        "subj.pres": ["habitue", "habitues", "habitue", "habituions", "habituiez", "habituent"],
+        "subj.imp": ["habituasse", "habituasses", "habituât", "habituassions", "habituassiez", "habituassent"],
+        "imper.pres": ["habitue", "habituons", "habituez"]
+      },
+      "participe_present": "habituant",
+      "participe_passe": ["habitué", "habituée", "habitués", "habituées"]
     }
   ]
 }
