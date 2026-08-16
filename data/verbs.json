@@ -23761,6 +23761,25 @@
       },
       "participe_present": "rhabillant",
       "participe_passe": ["rhabillé", "rhabillée", "rhabillés", "rhabillées"]
+    },
+    {
+      "id": "tressaillir",
+      "infinitif": "tressaillir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « tressailli » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["tressaille", "tressailles", "tressaille", "tressaillons", "tressaillez", "tressaillent"],
+        "ind.imp": ["tressaillais", "tressaillais", "tressaillait", "tressaillions", "tressailliez", "tressaillaient"],
+        "ind.ps": ["tressaillis", "tressaillis", "tressaillit", "tressaillîmes", "tressaillîtes", "tressaillirent"],
+        "ind.fut": ["tressaillirai", "tressailliras", "tressaillira", "tressaillirons", "tressaillirez", "tressailliront"],
+        "cond.pres": ["tressaillirais", "tressaillirais", "tressaillirait", "tressaillirions", "tressailliriez", "tressailliraient"],
+        "subj.pres": ["tressaille", "tressailles", "tressaille", "tressaillions", "tressailliez", "tressaillent"],
+        "subj.imp": ["tressaillisse", "tressaillisses", "tressaillît", "tressaillissions", "tressaillissiez", "tressaillissent"],
+        "imper.pres": ["tressaille", "tressaillons", "tressaillez"]
+      },
+      "participe_present": "tressaillant",
+      "participe_passe": ["tressailli", null, null, null]
     }
   ]
 }
