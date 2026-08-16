@@ -11825,6 +11825,25 @@
       },
       "participe_present": "coiffant",
       "participe_passe": ["coiffé", "coiffée", "coiffés", "coiffées"]
+    },
+    {
+      "id": "déconner",
+      "infinitif": "déconner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « déconné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["déconne", "déconnes", "déconne", "déconnons", "déconnez", "déconnent"],
+        "ind.imp": ["déconnais", "déconnais", "déconnait", "déconnions", "déconniez", "déconnaient"],
+        "ind.ps": ["déconnai", "déconnas", "déconna", "déconnâmes", "déconnâtes", "déconnèrent"],
+        "ind.fut": ["déconnerai", "déconneras", "déconnera", "déconnerons", "déconnerez", "déconneront"],
+        "cond.pres": ["déconnerais", "déconnerais", "déconnerait", "déconnerions", "déconneriez", "déconneraient"],
+        "subj.pres": ["déconne", "déconnes", "déconne", "déconnions", "déconniez", "déconnent"],
+        "subj.imp": ["déconnasse", "déconnasses", "déconnât", "déconnassions", "déconnassiez", "déconnassent"],
+        "imper.pres": ["déconne", "déconnons", "déconnez"]
+      },
+      "participe_present": "déconnant",
+      "participe_passe": ["déconné", null, null, null]
     }
   ]
 }
