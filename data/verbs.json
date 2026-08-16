@@ -12118,6 +12118,24 @@
       },
       "participe_present": "vomissant",
       "participe_passe": ["vomi", "vomie", "vomis", "vomies"]
+    },
+    {
+      "id": "impressionner",
+      "infinitif": "impressionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["impressionne", "impressionnes", "impressionne", "impressionnons", "impressionnez", "impressionnent"],
+        "ind.imp": ["impressionnais", "impressionnais", "impressionnait", "impressionnions", "impressionniez", "impressionnaient"],
+        "ind.ps": ["impressionnai", "impressionnas", "impressionna", "impressionnâmes", "impressionnâtes", "impressionnèrent"],
+        "ind.fut": ["impressionnerai", "impressionneras", "impressionnera", "impressionnerons", "impressionnerez", "impressionneront"],
+        "cond.pres": ["impressionnerais", "impressionnerais", "impressionnerait", "impressionnerions", "impressionneriez", "impressionneraient"],
+        "subj.pres": ["impressionne", "impressionnes", "impressionne", "impressionnions", "impressionniez", "impressionnent"],
+        "subj.imp": ["impressionnasse", "impressionnasses", "impressionnât", "impressionnassions", "impressionnassiez", "impressionnassent"],
+        "imper.pres": ["impressionne", "impressionnons", "impressionnez"]
+      },
+      "participe_present": "impressionnant",
+      "participe_passe": ["impressionné", "impressionnée", "impressionnés", "impressionnées"]
     }
   ]
 }
