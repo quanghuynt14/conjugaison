@@ -25934,6 +25934,24 @@
       },
       "participe_present": "esquivant",
       "participe_passe": ["esquivé", "esquivée", "esquivés", "esquivées"]
+    },
+    {
+      "id": "conter",
+      "infinitif": "conter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conte", "contes", "conte", "contons", "contez", "content"],
+        "ind.imp": ["contais", "contais", "contait", "contions", "contiez", "contaient"],
+        "ind.ps": ["contai", "contas", "conta", "contâmes", "contâtes", "contèrent"],
+        "ind.fut": ["conterai", "conteras", "contera", "conterons", "conterez", "conteront"],
+        "cond.pres": ["conterais", "conterais", "conterait", "conterions", "conteriez", "conteraient"],
+        "subj.pres": ["conte", "contes", "conte", "contions", "contiez", "content"],
+        "subj.imp": ["contasse", "contasses", "contât", "contassions", "contassiez", "contassent"],
+        "imper.pres": ["conte", "contons", "contez"]
+      },
+      "participe_present": "contant",
+      "participe_passe": ["conté", "contée", "contés", "contées"]
     }
   ]
 }
