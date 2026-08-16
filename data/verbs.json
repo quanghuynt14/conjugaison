@@ -30493,6 +30493,24 @@
       },
       "participe_present": "rugissant",
       "participe_passe": ["rugi", "rugie", "rugis", "rugies"]
+    },
+    {
+      "id": "attester",
+      "infinitif": "attester",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["atteste", "attestes", "atteste", "attestons", "attestez", "attestent"],
+        "ind.imp": ["attestais", "attestais", "attestait", "attestions", "attestiez", "attestaient"],
+        "ind.ps": ["attestai", "attestas", "attesta", "attestâmes", "attestâtes", "attestèrent"],
+        "ind.fut": ["attesterai", "attesteras", "attestera", "attesterons", "attesterez", "attesteront"],
+        "cond.pres": ["attesterais", "attesterais", "attesterait", "attesterions", "attesteriez", "attesteraient"],
+        "subj.pres": ["atteste", "attestes", "atteste", "attestions", "attestiez", "attestent"],
+        "subj.imp": ["attestasse", "attestasses", "attestât", "attestassions", "attestassiez", "attestassent"],
+        "imper.pres": ["atteste", "attestons", "attestez"]
+      },
+      "participe_present": "attestant",
+      "participe_passe": ["attesté", "attestée", "attestés", "attestées"]
     }
   ]
 }
