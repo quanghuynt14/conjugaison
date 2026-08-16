@@ -34890,6 +34890,24 @@
       },
       "participe_present": "glapissant",
       "participe_passe": ["glapi", "glapie", "glapis", "glapies"]
+    },
+    {
+      "id": "acheminer",
+      "infinitif": "acheminer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["achemine", "achemines", "achemine", "acheminons", "acheminez", "acheminent"],
+        "ind.imp": ["acheminais", "acheminais", "acheminait", "acheminions", "acheminiez", "acheminaient"],
+        "ind.ps": ["acheminai", "acheminas", "achemina", "acheminâmes", "acheminâtes", "acheminèrent"],
+        "ind.fut": ["acheminerai", "achemineras", "acheminera", "acheminerons", "acheminerez", "achemineront"],
+        "cond.pres": ["acheminerais", "acheminerais", "acheminerait", "acheminerions", "achemineriez", "achemineraient"],
+        "subj.pres": ["achemine", "achemines", "achemine", "acheminions", "acheminiez", "acheminent"],
+        "subj.imp": ["acheminasse", "acheminasses", "acheminât", "acheminassions", "acheminassiez", "acheminassent"],
+        "imper.pres": ["achemine", "acheminons", "acheminez"]
+      },
+      "participe_present": "acheminant",
+      "participe_passe": ["acheminé", "acheminée", "acheminés", "acheminées"]
     }
   ]
 }
