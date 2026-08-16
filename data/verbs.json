@@ -1807,6 +1807,25 @@
       },
       "participe_present": "achetant",
       "participe_passe": ["acheté", "achetée", "achetés", "achetées"]
+    },
+    {
+      "id": "espérer",
+      "infinitif": "espérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’espérerai » ou « j’espèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["espère", "espères", "espère", "espérons", "espérez", "espèrent"],
+        "ind.imp": ["espérais", "espérais", "espérait", "espérions", "espériez", "espéraient"],
+        "ind.ps": ["espérai", "espéras", "espéra", "espérâmes", "espérâtes", "espérèrent"],
+        "ind.fut": [["espérerai", "espèrerai"], ["espéreras", "espèreras"], ["espérera", "espèrera"], ["espérerons", "espèrerons"], ["espérerez", "espèrerez"], ["espéreront", "espèreront"]],
+        "cond.pres": [["espérerais", "espèrerais"], ["espérerais", "espèrerais"], ["espérerait", "espèrerait"], ["espérerions", "espèrerions"], ["espéreriez", "espèreriez"], ["espéreraient", "espèreraient"]],
+        "subj.pres": ["espère", "espères", "espère", "espérions", "espériez", "espèrent"],
+        "subj.imp": ["espérasse", "espérasses", "espérât", "espérassions", "espérassiez", "espérassent"],
+        "imper.pres": ["espère", "espérons", "espérez"]
+      },
+      "participe_present": "espérant",
+      "participe_passe": ["espéré", "espérée", "espérés", "espérées"]
     }
   ]
 }
