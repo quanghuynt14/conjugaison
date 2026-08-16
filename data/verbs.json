@@ -30038,6 +30038,24 @@
       },
       "participe_present": "regroupant",
       "participe_passe": ["regroupé", "regroupée", "regroupés", "regroupées"]
+    },
+    {
+      "id": "suspecter",
+      "infinitif": "suspecter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["suspecte", "suspectes", "suspecte", "suspectons", "suspectez", "suspectent"],
+        "ind.imp": ["suspectais", "suspectais", "suspectait", "suspections", "suspectiez", "suspectaient"],
+        "ind.ps": ["suspectai", "suspectas", "suspecta", "suspectâmes", "suspectâtes", "suspectèrent"],
+        "ind.fut": ["suspecterai", "suspecteras", "suspectera", "suspecterons", "suspecterez", "suspecteront"],
+        "cond.pres": ["suspecterais", "suspecterais", "suspecterait", "suspecterions", "suspecteriez", "suspecteraient"],
+        "subj.pres": ["suspecte", "suspectes", "suspecte", "suspections", "suspectiez", "suspectent"],
+        "subj.imp": ["suspectasse", "suspectasses", "suspectât", "suspectassions", "suspectassiez", "suspectassent"],
+        "imper.pres": ["suspecte", "suspectons", "suspectez"]
+      },
+      "participe_present": "suspectant",
+      "participe_passe": ["suspecté", "suspectée", "suspectés", "suspectées"]
     }
   ]
 }
