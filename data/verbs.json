@@ -13736,6 +13736,24 @@
       },
       "participe_present": "plaquant",
       "participe_passe": ["plaqué", "plaquée", "plaqués", "plaquées"]
+    },
+    {
+      "id": "animer",
+      "infinitif": "animer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["anime", "animes", "anime", "animons", "animez", "animent"],
+        "ind.imp": ["animais", "animais", "animait", "animions", "animiez", "animaient"],
+        "ind.ps": ["animai", "animas", "anima", "animâmes", "animâtes", "animèrent"],
+        "ind.fut": ["animerai", "animeras", "animera", "animerons", "animerez", "animeront"],
+        "cond.pres": ["animerais", "animerais", "animerait", "animerions", "animeriez", "animeraient"],
+        "subj.pres": ["anime", "animes", "anime", "animions", "animiez", "animent"],
+        "subj.imp": ["animasse", "animasses", "animât", "animassions", "animassiez", "animassent"],
+        "imper.pres": ["anime", "animons", "animez"]
+      },
+      "participe_present": "animant",
+      "participe_passe": ["animé", "animée", "animés", "animées"]
     }
   ]
 }
