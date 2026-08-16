@@ -26808,6 +26808,24 @@
       },
       "participe_present": "devançant",
       "participe_passe": ["devancé", "devancée", "devancés", "devancées"]
+    },
+    {
+      "id": "fausser",
+      "infinitif": "fausser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fausse", "fausses", "fausse", "faussons", "faussez", "faussent"],
+        "ind.imp": ["faussais", "faussais", "faussait", "faussions", "faussiez", "faussaient"],
+        "ind.ps": ["faussai", "faussas", "faussa", "faussâmes", "faussâtes", "faussèrent"],
+        "ind.fut": ["fausserai", "fausseras", "faussera", "fausserons", "fausserez", "fausseront"],
+        "cond.pres": ["fausserais", "fausserais", "fausserait", "fausserions", "fausseriez", "fausseraient"],
+        "subj.pres": ["fausse", "fausses", "fausse", "faussions", "faussiez", "faussent"],
+        "subj.imp": ["faussasse", "faussasses", "faussât", "faussassions", "faussassiez", "faussassent"],
+        "imper.pres": ["fausse", "faussons", "faussez"]
+      },
+      "participe_present": "faussant",
+      "participe_passe": ["faussé", "faussée", "faussés", "faussées"]
     }
   ]
 }
