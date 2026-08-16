@@ -2423,6 +2423,24 @@
       },
       "participe_present": "souriant",
       "participe_passe": ["souri", null, null, null]
+    },
+    {
+      "id": "conduire",
+      "infinitif": "conduire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conduis", "conduis", "conduit", "conduisons", "conduisez", "conduisent"],
+        "ind.imp": ["conduisais", "conduisais", "conduisait", "conduisions", "conduisiez", "conduisaient"],
+        "ind.ps": ["conduisis", "conduisis", "conduisit", "conduisîmes", "conduisîtes", "conduisirent"],
+        "ind.fut": ["conduirai", "conduiras", "conduira", "conduirons", "conduirez", "conduiront"],
+        "cond.pres": ["conduirais", "conduirais", "conduirait", "conduirions", "conduiriez", "conduiraient"],
+        "subj.pres": ["conduise", "conduises", "conduise", "conduisions", "conduisiez", "conduisent"],
+        "subj.imp": ["conduisisse", "conduisisses", "conduisît", "conduisissions", "conduisissiez", "conduisissent"],
+        "imper.pres": ["conduis", "conduisons", "conduisez"]
+      },
+      "participe_present": "conduisant",
+      "participe_passe": ["conduit", "conduite", "conduits", "conduites"]
     }
   ]
 }
