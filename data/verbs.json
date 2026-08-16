@@ -2260,6 +2260,24 @@
       },
       "participe_present": "criant",
       "participe_passe": ["crié", "criée", "criés", "criées"]
+    },
+    {
+      "id": "pleurer",
+      "infinitif": "pleurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pleure", "pleures", "pleure", "pleurons", "pleurez", "pleurent"],
+        "ind.imp": ["pleurais", "pleurais", "pleurait", "pleurions", "pleuriez", "pleuraient"],
+        "ind.ps": ["pleurai", "pleuras", "pleura", "pleurâmes", "pleurâtes", "pleurèrent"],
+        "ind.fut": ["pleurerai", "pleureras", "pleurera", "pleurerons", "pleurerez", "pleureront"],
+        "cond.pres": ["pleurerais", "pleurerais", "pleurerait", "pleurerions", "pleureriez", "pleureraient"],
+        "subj.pres": ["pleure", "pleures", "pleure", "pleurions", "pleuriez", "pleurent"],
+        "subj.imp": ["pleurasse", "pleurasses", "pleurât", "pleurassions", "pleurassiez", "pleurassent"],
+        "imper.pres": ["pleure", "pleurons", "pleurez"]
+      },
+      "participe_present": "pleurant",
+      "participe_passe": ["pleuré", "pleurée", "pleurés", "pleurées"]
     }
   ]
 }
