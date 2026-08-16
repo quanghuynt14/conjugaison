@@ -9230,6 +9230,24 @@
       },
       "participe_present": "fonçant",
       "participe_passe": ["foncé", "foncée", "foncés", "foncées"]
+    },
+    {
+      "id": "figurer",
+      "infinitif": "figurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["figure", "figures", "figure", "figurons", "figurez", "figurent"],
+        "ind.imp": ["figurais", "figurais", "figurait", "figurions", "figuriez", "figuraient"],
+        "ind.ps": ["figurai", "figuras", "figura", "figurâmes", "figurâtes", "figurèrent"],
+        "ind.fut": ["figurerai", "figureras", "figurera", "figurerons", "figurerez", "figureront"],
+        "cond.pres": ["figurerais", "figurerais", "figurerait", "figurerions", "figureriez", "figureraient"],
+        "subj.pres": ["figure", "figures", "figure", "figurions", "figuriez", "figurent"],
+        "subj.imp": ["figurasse", "figurasses", "figurât", "figurassions", "figurassiez", "figurassent"],
+        "imper.pres": ["figure", "figurons", "figurez"]
+      },
+      "participe_present": "figurant",
+      "participe_passe": ["figuré", "figurée", "figurés", "figurées"]
     }
   ]
 }
