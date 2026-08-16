@@ -19815,6 +19815,24 @@
       },
       "participe_present": "encaissant",
       "participe_passe": ["encaissé", "encaissée", "encaissés", "encaissées"]
+    },
+    {
+      "id": "infliger",
+      "infinitif": "infliger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["inflige", "infliges", "inflige", "infligeons", "infligez", "infligent"],
+        "ind.imp": ["infligeais", "infligeais", "infligeait", "infligions", "infligiez", "infligeaient"],
+        "ind.ps": ["infligeai", "infligeas", "infligea", "infligeâmes", "infligeâtes", "infligèrent"],
+        "ind.fut": ["infligerai", "infligeras", "infligera", "infligerons", "infligerez", "infligeront"],
+        "cond.pres": ["infligerais", "infligerais", "infligerait", "infligerions", "infligeriez", "infligeraient"],
+        "subj.pres": ["inflige", "infliges", "inflige", "infligions", "infligiez", "infligent"],
+        "subj.imp": ["infligeasse", "infligeasses", "infligeât", "infligeassions", "infligeassiez", "infligeassent"],
+        "imper.pres": ["inflige", "infligeons", "infligez"]
+      },
+      "participe_present": "infligeant",
+      "participe_passe": ["infligé", "infligée", "infligés", "infligées"]
     }
   ]
 }
