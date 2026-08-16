@@ -18304,6 +18304,24 @@
       },
       "participe_present": "photographiant",
       "participe_passe": ["photographié", "photographiée", "photographiés", "photographiées"]
+    },
+    {
+      "id": "rabattre",
+      "infinitif": "rabattre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rabats", "rabats", "rabat", "rabattons", "rabattez", "rabattent"],
+        "ind.imp": ["rabattais", "rabattais", "rabattait", "rabattions", "rabattiez", "rabattaient"],
+        "ind.ps": ["rabattis", "rabattis", "rabattit", "rabattîmes", "rabattîtes", "rabattirent"],
+        "ind.fut": ["rabattrai", "rabattras", "rabattra", "rabattrons", "rabattrez", "rabattront"],
+        "cond.pres": ["rabattrais", "rabattrais", "rabattrait", "rabattrions", "rabattriez", "rabattraient"],
+        "subj.pres": ["rabatte", "rabattes", "rabatte", "rabattions", "rabattiez", "rabattent"],
+        "subj.imp": ["rabattisse", "rabattisses", "rabattît", "rabattissions", "rabattissiez", "rabattissent"],
+        "imper.pres": ["rabats", "rabattons", "rabattez"]
+      },
+      "participe_present": "rabattant",
+      "participe_passe": ["rabattu", "rabattue", "rabattus", "rabattues"]
     }
   ]
 }
