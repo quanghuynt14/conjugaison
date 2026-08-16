@@ -603,6 +603,24 @@
       },
       "participe_present": "sortant",
       "participe_passe": ["sorti", "sortie", "sortis", "sorties"]
+    },
+    {
+      "id": "comprendre",
+      "infinitif": "comprendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["comprends", "comprends", "comprend", "comprenons", "comprenez", "comprennent"],
+        "ind.imp": ["comprenais", "comprenais", "comprenait", "comprenions", "compreniez", "comprenaient"],
+        "ind.ps": ["compris", "compris", "comprit", "comprîmes", "comprîtes", "comprirent"],
+        "ind.fut": ["comprendrai", "comprendras", "comprendra", "comprendrons", "comprendrez", "comprendront"],
+        "cond.pres": ["comprendrais", "comprendrais", "comprendrait", "comprendrions", "comprendriez", "comprendraient"],
+        "subj.pres": ["comprenne", "comprennes", "comprenne", "comprenions", "compreniez", "comprennent"],
+        "subj.imp": ["comprisse", "comprisses", "comprît", "comprissions", "comprissiez", "comprissent"],
+        "imper.pres": ["comprends", "comprenons", "comprenez"]
+      },
+      "participe_present": "comprenant",
+      "participe_passe": ["compris", "comprise", "compris", "comprises"]
     }
   ]
 }
