@@ -2878,6 +2878,24 @@
       },
       "participe_present": "embrassant",
       "participe_passe": ["embrassé", "embrassée", "embrassés", "embrassées"]
+    },
+    {
+      "id": "traverser",
+      "infinitif": "traverser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["traverse", "traverses", "traverse", "traversons", "traversez", "traversent"],
+        "ind.imp": ["traversais", "traversais", "traversait", "traversions", "traversiez", "traversaient"],
+        "ind.ps": ["traversai", "traversas", "traversa", "traversâmes", "traversâtes", "traversèrent"],
+        "ind.fut": ["traverserai", "traverseras", "traversera", "traverserons", "traverserez", "traverseront"],
+        "cond.pres": ["traverserais", "traverserais", "traverserait", "traverserions", "traverseriez", "traverseraient"],
+        "subj.pres": ["traverse", "traverses", "traverse", "traversions", "traversiez", "traversent"],
+        "subj.imp": ["traversasse", "traversasses", "traversât", "traversassions", "traversassiez", "traversassent"],
+        "imper.pres": ["traverse", "traversons", "traversez"]
+      },
+      "participe_present": "traversant",
+      "participe_passe": ["traversé", "traversée", "traversés", "traversées"]
     }
   ]
 }
