@@ -26991,6 +26991,24 @@
       },
       "participe_present": "restituant",
       "participe_passe": ["restitué", "restituée", "restitués", "restituées"]
+    },
+    {
+      "id": "recoucher",
+      "infinitif": "recoucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recouche", "recouches", "recouche", "recouchons", "recouchez", "recouchent"],
+        "ind.imp": ["recouchais", "recouchais", "recouchait", "recouchions", "recouchiez", "recouchaient"],
+        "ind.ps": ["recouchai", "recouchas", "recoucha", "recouchâmes", "recouchâtes", "recouchèrent"],
+        "ind.fut": ["recoucherai", "recoucheras", "recouchera", "recoucherons", "recoucherez", "recoucheront"],
+        "cond.pres": ["recoucherais", "recoucherais", "recoucherait", "recoucherions", "recoucheriez", "recoucheraient"],
+        "subj.pres": ["recouche", "recouches", "recouche", "recouchions", "recouchiez", "recouchent"],
+        "subj.imp": ["recouchasse", "recouchasses", "recouchât", "recouchassions", "recouchassiez", "recouchassent"],
+        "imper.pres": ["recouche", "recouchons", "recouchez"]
+      },
+      "participe_present": "recouchant",
+      "participe_passe": ["recouché", "recouchée", "recouchés", "recouchées"]
     }
   ]
 }
