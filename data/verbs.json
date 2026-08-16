@@ -4324,6 +4324,24 @@
       },
       "participe_present": "appartenant",
       "participe_passe": ["appartenu", null, null, null]
+    },
+    {
+      "id": "pencher",
+      "infinitif": "pencher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["penche", "penches", "penche", "penchons", "penchez", "penchent"],
+        "ind.imp": ["penchais", "penchais", "penchait", "penchions", "penchiez", "penchaient"],
+        "ind.ps": ["penchai", "penchas", "pencha", "penchâmes", "penchâtes", "penchèrent"],
+        "ind.fut": ["pencherai", "pencheras", "penchera", "pencherons", "pencherez", "pencheront"],
+        "cond.pres": ["pencherais", "pencherais", "pencherait", "pencherions", "pencheriez", "pencheraient"],
+        "subj.pres": ["penche", "penches", "penche", "penchions", "penchiez", "penchent"],
+        "subj.imp": ["penchasse", "penchasses", "penchât", "penchassions", "penchassiez", "penchassent"],
+        "imper.pres": ["penche", "penchons", "penchez"]
+      },
+      "participe_present": "penchant",
+      "participe_passe": ["penché", "penchée", "penchés", "penchées"]
     }
   ]
 }
