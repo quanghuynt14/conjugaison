@@ -10191,6 +10191,24 @@
       },
       "participe_present": "punissant",
       "participe_passe": ["puni", "punie", "punis", "punies"]
+    },
+    {
+      "id": "bloquer",
+      "infinitif": "bloquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bloque", "bloques", "bloque", "bloquons", "bloquez", "bloquent"],
+        "ind.imp": ["bloquais", "bloquais", "bloquait", "bloquions", "bloquiez", "bloquaient"],
+        "ind.ps": ["bloquai", "bloquas", "bloqua", "bloquâmes", "bloquâtes", "bloquèrent"],
+        "ind.fut": ["bloquerai", "bloqueras", "bloquera", "bloquerons", "bloquerez", "bloqueront"],
+        "cond.pres": ["bloquerais", "bloquerais", "bloquerait", "bloquerions", "bloqueriez", "bloqueraient"],
+        "subj.pres": ["bloque", "bloques", "bloque", "bloquions", "bloquiez", "bloquent"],
+        "subj.imp": ["bloquasse", "bloquasses", "bloquât", "bloquassions", "bloquassiez", "bloquassent"],
+        "imper.pres": ["bloque", "bloquons", "bloquez"]
+      },
+      "participe_present": "bloquant",
+      "participe_passe": ["bloqué", "bloquée", "bloqués", "bloquées"]
     }
   ]
 }
