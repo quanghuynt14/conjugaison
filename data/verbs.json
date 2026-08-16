@@ -18006,6 +18006,24 @@
       },
       "participe_present": "sombrant",
       "participe_passe": ["sombré", null, null, null]
+    },
+    {
+      "id": "classer",
+      "infinitif": "classer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["classe", "classes", "classe", "classons", "classez", "classent"],
+        "ind.imp": ["classais", "classais", "classait", "classions", "classiez", "classaient"],
+        "ind.ps": ["classai", "classas", "classa", "classâmes", "classâtes", "classèrent"],
+        "ind.fut": ["classerai", "classeras", "classera", "classerons", "classerez", "classeront"],
+        "cond.pres": ["classerais", "classerais", "classerait", "classerions", "classeriez", "classeraient"],
+        "subj.pres": ["classe", "classes", "classe", "classions", "classiez", "classent"],
+        "subj.imp": ["classasse", "classasses", "classât", "classassions", "classassiez", "classassent"],
+        "imper.pres": ["classe", "classons", "classez"]
+      },
+      "participe_present": "classant",
+      "participe_passe": ["classé", "classée", "classés", "classées"]
     }
   ]
 }
