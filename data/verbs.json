@@ -9085,6 +9085,24 @@
       },
       "participe_present": "participant",
       "participe_passe": ["participé", null, null, null]
+    },
+    {
+      "id": "redresser",
+      "infinitif": "redresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["redresse", "redresses", "redresse", "redressons", "redressez", "redressent"],
+        "ind.imp": ["redressais", "redressais", "redressait", "redressions", "redressiez", "redressaient"],
+        "ind.ps": ["redressai", "redressas", "redressa", "redressâmes", "redressâtes", "redressèrent"],
+        "ind.fut": ["redresserai", "redresseras", "redressera", "redresserons", "redresserez", "redresseront"],
+        "cond.pres": ["redresserais", "redresserais", "redresserait", "redresserions", "redresseriez", "redresseraient"],
+        "subj.pres": ["redresse", "redresses", "redresse", "redressions", "redressiez", "redressent"],
+        "subj.imp": ["redressasse", "redressasses", "redressât", "redressassions", "redressassiez", "redressassent"],
+        "imper.pres": ["redresse", "redressons", "redressez"]
+      },
+      "participe_present": "redressant",
+      "participe_passe": ["redressé", "redressée", "redressés", "redressées"]
     }
   ]
 }
