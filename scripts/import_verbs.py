@@ -796,6 +796,11 @@ def verifier():
     Le premier essai a porté sur les quatre verbes écrits à la main avant que
     ce script existe : il fallait qu'il les retrouve, case pour case, sans quoi
     rien ne disait que les mille suivants seraient justes.
+
+    La comparaison porte sur le verbe entier, et pas seulement sur ses formes.
+    Un auxiliaire, un h aspiré, une note viennent des tables du script ; si le
+    fichier en garde d'autres, c'est qu'une table a bougé sans que les verbes
+    suivent, et `--resynchronise` est là pour ça.
     """
     data = charger()
     modeles_ = modeles()
@@ -803,12 +808,12 @@ def verifier():
     ecarts = 0
     for verbe in data["verbs"]:
         refait = fabrique(verbe["infinitif"], par_verbe[verbe["infinitif"]], modeles_)
-        for cle in ("tenses", "participe_present", "participe_passe"):
-            if refait[cle] != verbe[cle]:
+        for cle in sorted(set(refait) | set(verbe)):
+            if refait.get(cle) != verbe.get(cle):
                 ecarts += 1
                 print(f"  ✗ {verbe['infinitif']} : {cle}")
-                print(f"      écrit  {verbe[cle]}")
-                print(f"      source {refait[cle]}")
+                print(f"      écrit  {verbe.get(cle)}")
+                print(f"      source {refait.get(cle)}")
     print(f"{len(data['verbs'])} verbes relus, {ecarts} écart(s)")
     return 1 if ecarts else 0
 
