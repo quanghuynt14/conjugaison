@@ -19087,6 +19087,25 @@
       },
       "participe_present": "aveuglant",
       "participe_passe": ["aveuglé", "aveuglée", "aveuglés", "aveuglées"]
+    },
+    {
+      "id": "exaspérer",
+      "infinitif": "exaspérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’exaspérerai » ou « j’exaspèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["exaspère", "exaspères", "exaspère", "exaspérons", "exaspérez", "exaspèrent"],
+        "ind.imp": ["exaspérais", "exaspérais", "exaspérait", "exaspérions", "exaspériez", "exaspéraient"],
+        "ind.ps": ["exaspérai", "exaspéras", "exaspéra", "exaspérâmes", "exaspérâtes", "exaspérèrent"],
+        "ind.fut": [["exaspérerai", "exaspèrerai"], ["exaspéreras", "exaspèreras"], ["exaspérera", "exaspèrera"], ["exaspérerons", "exaspèrerons"], ["exaspérerez", "exaspèrerez"], ["exaspéreront", "exaspèreront"]],
+        "cond.pres": [["exaspérerais", "exaspèrerais"], ["exaspérerais", "exaspèrerais"], ["exaspérerait", "exaspèrerait"], ["exaspérerions", "exaspèrerions"], ["exaspéreriez", "exaspèreriez"], ["exaspéreraient", "exaspèreraient"]],
+        "subj.pres": ["exaspère", "exaspères", "exaspère", "exaspérions", "exaspériez", "exaspèrent"],
+        "subj.imp": ["exaspérasse", "exaspérasses", "exaspérât", "exaspérassions", "exaspérassiez", "exaspérassent"],
+        "imper.pres": ["exaspère", "exaspérons", "exaspérez"]
+      },
+      "participe_present": "exaspérant",
+      "participe_passe": ["exaspéré", "exaspérée", "exaspérés", "exaspérées"]
     }
   ]
 }
