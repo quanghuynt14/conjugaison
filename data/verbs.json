@@ -15752,6 +15752,24 @@
       },
       "participe_present": "grondant",
       "participe_passe": ["grondé", "grondée", "grondés", "grondées"]
+    },
+    {
+      "id": "contraindre",
+      "infinitif": "contraindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contrains", "contrains", "contraint", "contraignons", "contraignez", "contraignent"],
+        "ind.imp": ["contraignais", "contraignais", "contraignait", "contraignions", "contraigniez", "contraignaient"],
+        "ind.ps": ["contraignis", "contraignis", "contraignit", "contraignîmes", "contraignîtes", "contraignirent"],
+        "ind.fut": ["contraindrai", "contraindras", "contraindra", "contraindrons", "contraindrez", "contraindront"],
+        "cond.pres": ["contraindrais", "contraindrais", "contraindrait", "contraindrions", "contraindriez", "contraindraient"],
+        "subj.pres": ["contraigne", "contraignes", "contraigne", "contraignions", "contraigniez", "contraignent"],
+        "subj.imp": ["contraignisse", "contraignisses", "contraignît", "contraignissions", "contraignissiez", "contraignissent"],
+        "imper.pres": ["contrains", "contraignons", "contraignez"]
+      },
+      "participe_present": "contraignant",
+      "participe_passe": ["contraint", "contrainte", "contraints", "contraintes"]
     }
   ]
 }
