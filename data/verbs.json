@@ -1223,6 +1223,24 @@
       },
       "participe_present": "montant",
       "participe_passe": ["monté", "montée", "montés", "montées"]
+    },
+    {
+      "id": "changer",
+      "infinitif": "changer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["change", "changes", "change", "changeons", "changez", "changent"],
+        "ind.imp": ["changeais", "changeais", "changeait", "changions", "changiez", "changeaient"],
+        "ind.ps": ["changeai", "changeas", "changea", "changeâmes", "changeâtes", "changèrent"],
+        "ind.fut": ["changerai", "changeras", "changera", "changerons", "changerez", "changeront"],
+        "cond.pres": ["changerais", "changerais", "changerait", "changerions", "changeriez", "changeraient"],
+        "subj.pres": ["change", "changes", "change", "changions", "changiez", "changent"],
+        "subj.imp": ["changeasse", "changeasses", "changeât", "changeassions", "changeassiez", "changeassent"],
+        "imper.pres": ["change", "changeons", "changez"]
+      },
+      "participe_present": "changeant",
+      "participe_passe": ["changé", "changée", "changés", "changées"]
     }
   ]
 }
