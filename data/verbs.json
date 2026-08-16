@@ -32848,6 +32848,24 @@
       },
       "participe_present": "revendiquant",
       "participe_passe": ["revendiqué", "revendiquée", "revendiqués", "revendiquées"]
+    },
+    {
+      "id": "assortir",
+      "infinitif": "assortir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assortis", "assortis", "assortit", "assortissons", "assortissez", "assortissent"],
+        "ind.imp": ["assortissais", "assortissais", "assortissait", "assortissions", "assortissiez", "assortissaient"],
+        "ind.ps": ["assortis", "assortis", "assortit", "assortîmes", "assortîtes", "assortirent"],
+        "ind.fut": ["assortirai", "assortiras", "assortira", "assortirons", "assortirez", "assortiront"],
+        "cond.pres": ["assortirais", "assortirais", "assortirait", "assortirions", "assortiriez", "assortiraient"],
+        "subj.pres": ["assortisse", "assortisses", "assortisse", "assortissions", "assortissiez", "assortissent"],
+        "subj.imp": ["assortisse", "assortisses", "assortît", "assortissions", "assortissiez", "assortissent"],
+        "imper.pres": ["assortis", "assortissons", "assortissez"]
+      },
+      "participe_present": "assortissant",
+      "participe_passe": ["assorti", "assortie", "assortis", "assorties"]
     }
   ]
 }
