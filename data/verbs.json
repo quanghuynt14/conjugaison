@@ -15405,6 +15405,25 @@
       },
       "participe_present": "glaçant",
       "participe_passe": ["glacé", "glacée", "glacés", "glacées"]
+    },
+    {
+      "id": "déplaire",
+      "infinitif": "déplaire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « déplu » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["déplais", "déplais", "déplaît", "déplaisons", "déplaisez", "déplaisent"],
+        "ind.imp": ["déplaisais", "déplaisais", "déplaisait", "déplaisions", "déplaisiez", "déplaisaient"],
+        "ind.ps": ["déplus", "déplus", "déplut", "déplûmes", "déplûtes", "déplurent"],
+        "ind.fut": ["déplairai", "déplairas", "déplaira", "déplairons", "déplairez", "déplairont"],
+        "cond.pres": ["déplairais", "déplairais", "déplairait", "déplairions", "déplairiez", "déplairaient"],
+        "subj.pres": ["déplaise", "déplaises", "déplaise", "déplaisions", "déplaisiez", "déplaisent"],
+        "subj.imp": ["déplusse", "déplusses", "déplût", "déplussions", "déplussiez", "déplussent"],
+        "imper.pres": ["déplais", "déplaisons", "déplaisez"]
+      },
+      "participe_present": "déplaisant",
+      "participe_passe": ["déplu", null, null, null]
     }
   ]
 }
