@@ -32046,6 +32046,24 @@
       },
       "participe_present": "sous-estimant",
       "participe_passe": ["sous-estimé", "sous-estimée", "sous-estimés", "sous-estimées"]
+    },
+    {
+      "id": "alterner",
+      "infinitif": "alterner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["alterne", "alternes", "alterne", "alternons", "alternez", "alternent"],
+        "ind.imp": ["alternais", "alternais", "alternait", "alternions", "alterniez", "alternaient"],
+        "ind.ps": ["alternai", "alternas", "alterna", "alternâmes", "alternâtes", "alternèrent"],
+        "ind.fut": ["alternerai", "alterneras", "alternera", "alternerons", "alternerez", "alterneront"],
+        "cond.pres": ["alternerais", "alternerais", "alternerait", "alternerions", "alterneriez", "alterneraient"],
+        "subj.pres": ["alterne", "alternes", "alterne", "alternions", "alterniez", "alternent"],
+        "subj.imp": ["alternasse", "alternasses", "alternât", "alternassions", "alternassiez", "alternassent"],
+        "imper.pres": ["alterne", "alternons", "alternez"]
+      },
+      "participe_present": "alternant",
+      "participe_passe": ["alterné", "alternée", "alternés", "alternées"]
     }
   ]
 }
