@@ -15351,6 +15351,24 @@
       },
       "participe_present": "reliant",
       "participe_passe": ["relié", "reliée", "reliés", "reliées"]
+    },
+    {
+      "id": "cuisiner",
+      "infinitif": "cuisiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cuisine", "cuisines", "cuisine", "cuisinons", "cuisinez", "cuisinent"],
+        "ind.imp": ["cuisinais", "cuisinais", "cuisinait", "cuisinions", "cuisiniez", "cuisinaient"],
+        "ind.ps": ["cuisinai", "cuisinas", "cuisina", "cuisinâmes", "cuisinâtes", "cuisinèrent"],
+        "ind.fut": ["cuisinerai", "cuisineras", "cuisinera", "cuisinerons", "cuisinerez", "cuisineront"],
+        "cond.pres": ["cuisinerais", "cuisinerais", "cuisinerait", "cuisinerions", "cuisineriez", "cuisineraient"],
+        "subj.pres": ["cuisine", "cuisines", "cuisine", "cuisinions", "cuisiniez", "cuisinent"],
+        "subj.imp": ["cuisinasse", "cuisinasses", "cuisinât", "cuisinassions", "cuisinassiez", "cuisinassent"],
+        "imper.pres": ["cuisine", "cuisinons", "cuisinez"]
+      },
+      "participe_present": "cuisinant",
+      "participe_passe": ["cuisiné", "cuisinée", "cuisinés", "cuisinées"]
     }
   ]
 }
