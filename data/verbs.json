@@ -32665,6 +32665,24 @@
       },
       "participe_present": "ébauchant",
       "participe_passe": ["ébauché", "ébauchée", "ébauchés", "ébauchées"]
+    },
+    {
+      "id": "égrener",
+      "infinitif": "égrener",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["égrène", "égrènes", "égrène", "égrenons", "égrenez", "égrènent"],
+        "ind.imp": ["égrenais", "égrenais", "égrenait", "égrenions", "égreniez", "égrenaient"],
+        "ind.ps": ["égrenai", "égrenas", "égrena", "égrenâmes", "égrenâtes", "égrenèrent"],
+        "ind.fut": ["égrènerai", "égrèneras", "égrènera", "égrènerons", "égrènerez", "égrèneront"],
+        "cond.pres": ["égrènerais", "égrènerais", "égrènerait", "égrènerions", "égrèneriez", "égrèneraient"],
+        "subj.pres": ["égrène", "égrènes", "égrène", "égrenions", "égreniez", "égrènent"],
+        "subj.imp": ["égrenasse", "égrenasses", "égrenât", "égrenassions", "égrenassiez", "égrenassent"],
+        "imper.pres": ["égrène", "égrenons", "égrenez"]
+      },
+      "participe_present": "égrenant",
+      "participe_passe": ["égrené", "égrenée", "égrenés", "égrenées"]
     }
   ]
 }
