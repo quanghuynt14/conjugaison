@@ -27285,6 +27285,24 @@
       },
       "participe_present": "incluant",
       "participe_passe": ["inclus", "incluse", "inclus", "incluses"]
+    },
+    {
+      "id": "tortiller",
+      "infinitif": "tortiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tortille", "tortilles", "tortille", "tortillons", "tortillez", "tortillent"],
+        "ind.imp": ["tortillais", "tortillais", "tortillait", "tortillions", "tortilliez", "tortillaient"],
+        "ind.ps": ["tortillai", "tortillas", "tortilla", "tortillâmes", "tortillâtes", "tortillèrent"],
+        "ind.fut": ["tortillerai", "tortilleras", "tortillera", "tortillerons", "tortillerez", "tortilleront"],
+        "cond.pres": ["tortillerais", "tortillerais", "tortillerait", "tortillerions", "tortilleriez", "tortilleraient"],
+        "subj.pres": ["tortille", "tortilles", "tortille", "tortillions", "tortilliez", "tortillent"],
+        "subj.imp": ["tortillasse", "tortillasses", "tortillât", "tortillassions", "tortillassiez", "tortillassent"],
+        "imper.pres": ["tortille", "tortillons", "tortillez"]
+      },
+      "participe_present": "tortillant",
+      "participe_passe": ["tortillé", "tortillée", "tortillés", "tortillées"]
     }
   ]
 }
