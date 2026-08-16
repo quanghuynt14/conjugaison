@@ -25753,6 +25753,24 @@
       },
       "participe_present": "scellant",
       "participe_passe": ["scellé", "scellée", "scellés", "scellées"]
+    },
+    {
+      "id": "ravager",
+      "infinitif": "ravager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ravage", "ravages", "ravage", "ravageons", "ravagez", "ravagent"],
+        "ind.imp": ["ravageais", "ravageais", "ravageait", "ravagions", "ravagiez", "ravageaient"],
+        "ind.ps": ["ravageai", "ravageas", "ravagea", "ravageâmes", "ravageâtes", "ravagèrent"],
+        "ind.fut": ["ravagerai", "ravageras", "ravagera", "ravagerons", "ravagerez", "ravageront"],
+        "cond.pres": ["ravagerais", "ravagerais", "ravagerait", "ravagerions", "ravageriez", "ravageraient"],
+        "subj.pres": ["ravage", "ravages", "ravage", "ravagions", "ravagiez", "ravagent"],
+        "subj.imp": ["ravageasse", "ravageasses", "ravageât", "ravageassions", "ravageassiez", "ravageassent"],
+        "imper.pres": ["ravage", "ravageons", "ravagez"]
+      },
+      "participe_present": "ravageant",
+      "participe_passe": ["ravagé", "ravagée", "ravagés", "ravagées"]
     }
   ]
 }
