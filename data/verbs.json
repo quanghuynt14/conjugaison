@@ -8597,6 +8597,24 @@
       },
       "participe_present": "rapprochant",
       "participe_passe": ["rapproché", "rapprochée", "rapprochés", "rapprochées"]
+    },
+    {
+      "id": "déchirer",
+      "infinitif": "déchirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déchire", "déchires", "déchire", "déchirons", "déchirez", "déchirent"],
+        "ind.imp": ["déchirais", "déchirais", "déchirait", "déchirions", "déchiriez", "déchiraient"],
+        "ind.ps": ["déchirai", "déchiras", "déchira", "déchirâmes", "déchirâtes", "déchirèrent"],
+        "ind.fut": ["déchirerai", "déchireras", "déchirera", "déchirerons", "déchirerez", "déchireront"],
+        "cond.pres": ["déchirerais", "déchirerais", "déchirerait", "déchirerions", "déchireriez", "déchireraient"],
+        "subj.pres": ["déchire", "déchires", "déchire", "déchirions", "déchiriez", "déchirent"],
+        "subj.imp": ["déchirasse", "déchirasses", "déchirât", "déchirassions", "déchirassiez", "déchirassent"],
+        "imper.pres": ["déchire", "déchirons", "déchirez"]
+      },
+      "participe_present": "déchirant",
+      "participe_passe": ["déchiré", "déchirée", "déchirés", "déchirées"]
     }
   ]
 }
