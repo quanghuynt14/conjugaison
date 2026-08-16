@@ -4486,6 +4486,24 @@
       },
       "participe_present": "obtenant",
       "participe_passe": ["obtenu", "obtenue", "obtenus", "obtenues"]
+    },
+    {
+      "id": "couler",
+      "infinitif": "couler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["coule", "coules", "coule", "coulons", "coulez", "coulent"],
+        "ind.imp": ["coulais", "coulais", "coulait", "coulions", "couliez", "coulaient"],
+        "ind.ps": ["coulai", "coulas", "coula", "coulâmes", "coulâtes", "coulèrent"],
+        "ind.fut": ["coulerai", "couleras", "coulera", "coulerons", "coulerez", "couleront"],
+        "cond.pres": ["coulerais", "coulerais", "coulerait", "coulerions", "couleriez", "couleraient"],
+        "subj.pres": ["coule", "coules", "coule", "coulions", "couliez", "coulent"],
+        "subj.imp": ["coulasse", "coulasses", "coulât", "coulassions", "coulassiez", "coulassent"],
+        "imper.pres": ["coule", "coulons", "coulez"]
+      },
+      "participe_present": "coulant",
+      "participe_passe": ["coulé", "coulée", "coulés", "coulées"]
     }
   ]
 }
