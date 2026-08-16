@@ -4016,6 +4016,24 @@
       },
       "participe_present": "devinant",
       "participe_passe": ["deviné", "devinée", "devinés", "devinées"]
+    },
+    {
+      "id": "pardonner",
+      "infinitif": "pardonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pardonne", "pardonnes", "pardonne", "pardonnons", "pardonnez", "pardonnent"],
+        "ind.imp": ["pardonnais", "pardonnais", "pardonnait", "pardonnions", "pardonniez", "pardonnaient"],
+        "ind.ps": ["pardonnai", "pardonnas", "pardonna", "pardonnâmes", "pardonnâtes", "pardonnèrent"],
+        "ind.fut": ["pardonnerai", "pardonneras", "pardonnera", "pardonnerons", "pardonnerez", "pardonneront"],
+        "cond.pres": ["pardonnerais", "pardonnerais", "pardonnerait", "pardonnerions", "pardonneriez", "pardonneraient"],
+        "subj.pres": ["pardonne", "pardonnes", "pardonne", "pardonnions", "pardonniez", "pardonnent"],
+        "subj.imp": ["pardonnasse", "pardonnasses", "pardonnât", "pardonnassions", "pardonnassiez", "pardonnassent"],
+        "imper.pres": ["pardonne", "pardonnons", "pardonnez"]
+      },
+      "participe_present": "pardonnant",
+      "participe_passe": ["pardonné", "pardonnée", "pardonnés", "pardonnées"]
     }
   ]
 }
