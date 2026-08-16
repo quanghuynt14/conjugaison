@@ -1644,6 +1644,24 @@
       },
       "participe_present": "jetant",
       "participe_passe": ["jeté", "jetée", "jetés", "jetées"]
+    },
+    {
+      "id": "raconter",
+      "infinitif": "raconter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["raconte", "racontes", "raconte", "racontons", "racontez", "racontent"],
+        "ind.imp": ["racontais", "racontais", "racontait", "racontions", "racontiez", "racontaient"],
+        "ind.ps": ["racontai", "racontas", "raconta", "racontâmes", "racontâtes", "racontèrent"],
+        "ind.fut": ["raconterai", "raconteras", "racontera", "raconterons", "raconterez", "raconteront"],
+        "cond.pres": ["raconterais", "raconterais", "raconterait", "raconterions", "raconteriez", "raconteraient"],
+        "subj.pres": ["raconte", "racontes", "raconte", "racontions", "racontiez", "racontent"],
+        "subj.imp": ["racontasse", "racontasses", "racontât", "racontassions", "racontassiez", "racontassent"],
+        "imper.pres": ["raconte", "racontons", "racontez"]
+      },
+      "participe_present": "racontant",
+      "participe_passe": ["raconté", "racontée", "racontés", "racontées"]
     }
   ]
 }
