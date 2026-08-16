@@ -9610,6 +9610,24 @@
       },
       "participe_present": "baignant",
       "participe_passe": ["baigné", "baignée", "baignés", "baignées"]
+    },
+    {
+      "id": "bénir",
+      "infinitif": "bénir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bénis", "bénis", "bénit", "bénissons", "bénissez", "bénissent"],
+        "ind.imp": ["bénissais", "bénissais", "bénissait", "bénissions", "bénissiez", "bénissaient"],
+        "ind.ps": ["bénis", "bénis", "bénit", "bénîmes", "bénîtes", "bénirent"],
+        "ind.fut": ["bénirai", "béniras", "bénira", "bénirons", "bénirez", "béniront"],
+        "cond.pres": ["bénirais", "bénirais", "bénirait", "bénirions", "béniriez", "béniraient"],
+        "subj.pres": ["bénisse", "bénisses", "bénisse", "bénissions", "bénissiez", "bénissent"],
+        "subj.imp": ["bénisse", "bénisses", "bénît", "bénissions", "bénissiez", "bénissent"],
+        "imper.pres": ["bénis", "bénissons", "bénissez"]
+      },
+      "participe_present": "bénissant",
+      "participe_passe": ["béni", "bénie", "bénis", "bénies"]
     }
   ]
 }
