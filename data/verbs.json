@@ -32994,6 +32994,24 @@
       },
       "participe_present": "déraillant",
       "participe_passe": ["déraillé", null, null, null]
+    },
+    {
+      "id": "hypnotiser",
+      "infinitif": "hypnotiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["hypnotise", "hypnotises", "hypnotise", "hypnotisons", "hypnotisez", "hypnotisent"],
+        "ind.imp": ["hypnotisais", "hypnotisais", "hypnotisait", "hypnotisions", "hypnotisiez", "hypnotisaient"],
+        "ind.ps": ["hypnotisai", "hypnotisas", "hypnotisa", "hypnotisâmes", "hypnotisâtes", "hypnotisèrent"],
+        "ind.fut": ["hypnotiserai", "hypnotiseras", "hypnotisera", "hypnotiserons", "hypnotiserez", "hypnotiseront"],
+        "cond.pres": ["hypnotiserais", "hypnotiserais", "hypnotiserait", "hypnotiserions", "hypnotiseriez", "hypnotiseraient"],
+        "subj.pres": ["hypnotise", "hypnotises", "hypnotise", "hypnotisions", "hypnotisiez", "hypnotisent"],
+        "subj.imp": ["hypnotisasse", "hypnotisasses", "hypnotisât", "hypnotisassions", "hypnotisassiez", "hypnotisassent"],
+        "imper.pres": ["hypnotise", "hypnotisons", "hypnotisez"]
+      },
+      "participe_present": "hypnotisant",
+      "participe_passe": ["hypnotisé", "hypnotisée", "hypnotisés", "hypnotisées"]
     }
   ]
 }
