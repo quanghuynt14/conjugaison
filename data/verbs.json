@@ -6804,6 +6804,25 @@
       },
       "participe_present": "admettant",
       "participe_passe": ["admis", "admise", "admis", "admises"]
+    },
+    {
+      "id": "insister",
+      "infinitif": "insister",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « insisté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["insiste", "insistes", "insiste", "insistons", "insistez", "insistent"],
+        "ind.imp": ["insistais", "insistais", "insistait", "insistions", "insistiez", "insistaient"],
+        "ind.ps": ["insistai", "insistas", "insista", "insistâmes", "insistâtes", "insistèrent"],
+        "ind.fut": ["insisterai", "insisteras", "insistera", "insisterons", "insisterez", "insisteront"],
+        "cond.pres": ["insisterais", "insisterais", "insisterait", "insisterions", "insisteriez", "insisteraient"],
+        "subj.pres": ["insiste", "insistes", "insiste", "insistions", "insistiez", "insistent"],
+        "subj.imp": ["insistasse", "insistasses", "insistât", "insistassions", "insistassiez", "insistassent"],
+        "imper.pres": ["insiste", "insistons", "insistez"]
+      },
+      "participe_present": "insistant",
+      "participe_passe": ["insisté", null, null, null]
     }
   ]
 }
