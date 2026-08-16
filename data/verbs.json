@@ -26135,6 +26135,24 @@
       },
       "participe_present": "finançant",
       "participe_passe": ["financé", "financée", "financés", "financées"]
+    },
+    {
+      "id": "rayonner",
+      "infinitif": "rayonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rayonne", "rayonnes", "rayonne", "rayonnons", "rayonnez", "rayonnent"],
+        "ind.imp": ["rayonnais", "rayonnais", "rayonnait", "rayonnions", "rayonniez", "rayonnaient"],
+        "ind.ps": ["rayonnai", "rayonnas", "rayonna", "rayonnâmes", "rayonnâtes", "rayonnèrent"],
+        "ind.fut": ["rayonnerai", "rayonneras", "rayonnera", "rayonnerons", "rayonnerez", "rayonneront"],
+        "cond.pres": ["rayonnerais", "rayonnerais", "rayonnerait", "rayonnerions", "rayonneriez", "rayonneraient"],
+        "subj.pres": ["rayonne", "rayonnes", "rayonne", "rayonnions", "rayonniez", "rayonnent"],
+        "subj.imp": ["rayonnasse", "rayonnasses", "rayonnât", "rayonnassions", "rayonnassiez", "rayonnassent"],
+        "imper.pres": ["rayonne", "rayonnons", "rayonnez"]
+      },
+      "participe_present": "rayonnant",
+      "participe_passe": ["rayonné", "rayonnée", "rayonnés", "rayonnées"]
     }
   ]
 }
