@@ -8290,6 +8290,24 @@
       },
       "participe_present": "évoquant",
       "participe_passe": ["évoqué", "évoquée", "évoqués", "évoquées"]
+    },
+    {
+      "id": "commettre",
+      "infinitif": "commettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["commets", "commets", "commet", "commettons", "commettez", "commettent"],
+        "ind.imp": ["commettais", "commettais", "commettait", "commettions", "commettiez", "commettaient"],
+        "ind.ps": ["commis", "commis", "commit", "commîmes", "commîtes", "commirent"],
+        "ind.fut": ["commettrai", "commettras", "commettra", "commettrons", "commettrez", "commettront"],
+        "cond.pres": ["commettrais", "commettrais", "commettrait", "commettrions", "commettriez", "commettraient"],
+        "subj.pres": ["commette", "commettes", "commette", "commettions", "commettiez", "commettent"],
+        "subj.imp": ["commisse", "commisses", "commît", "commissions", "commissiez", "commissent"],
+        "imper.pres": ["commets", "commettons", "commettez"]
+      },
+      "participe_present": "commettant",
+      "participe_passe": ["commis", "commise", "commis", "commises"]
     }
   ]
 }
