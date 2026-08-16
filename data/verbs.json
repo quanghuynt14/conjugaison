@@ -16042,6 +16042,24 @@
       },
       "participe_present": "rachetant",
       "participe_passe": ["racheté", "rachetée", "rachetés", "rachetées"]
+    },
+    {
+      "id": "convoquer",
+      "infinitif": "convoquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["convoque", "convoques", "convoque", "convoquons", "convoquez", "convoquent"],
+        "ind.imp": ["convoquais", "convoquais", "convoquait", "convoquions", "convoquiez", "convoquaient"],
+        "ind.ps": ["convoquai", "convoquas", "convoqua", "convoquâmes", "convoquâtes", "convoquèrent"],
+        "ind.fut": ["convoquerai", "convoqueras", "convoquera", "convoquerons", "convoquerez", "convoqueront"],
+        "cond.pres": ["convoquerais", "convoquerais", "convoquerait", "convoquerions", "convoqueriez", "convoqueraient"],
+        "subj.pres": ["convoque", "convoques", "convoque", "convoquions", "convoquiez", "convoquent"],
+        "subj.imp": ["convoquasse", "convoquasses", "convoquât", "convoquassions", "convoquassiez", "convoquassent"],
+        "imper.pres": ["convoque", "convoquons", "convoquez"]
+      },
+      "participe_present": "convoquant",
+      "participe_passe": ["convoqué", "convoquée", "convoqués", "convoquées"]
     }
   ]
 }
