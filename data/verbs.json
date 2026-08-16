@@ -16641,6 +16641,24 @@
       },
       "participe_present": "agenouillant",
       "participe_passe": ["agenouillé", "agenouillée", "agenouillés", "agenouillées"]
+    },
+    {
+      "id": "brancher",
+      "infinitif": "brancher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["branche", "branches", "branche", "branchons", "branchez", "branchent"],
+        "ind.imp": ["branchais", "branchais", "branchait", "branchions", "branchiez", "branchaient"],
+        "ind.ps": ["branchai", "branchas", "brancha", "branchâmes", "branchâtes", "branchèrent"],
+        "ind.fut": ["brancherai", "brancheras", "branchera", "brancherons", "brancherez", "brancheront"],
+        "cond.pres": ["brancherais", "brancherais", "brancherait", "brancherions", "brancheriez", "brancheraient"],
+        "subj.pres": ["branche", "branches", "branche", "branchions", "branchiez", "branchent"],
+        "subj.imp": ["branchasse", "branchasses", "branchât", "branchassions", "branchassiez", "branchassent"],
+        "imper.pres": ["branche", "branchons", "branchez"]
+      },
+      "participe_present": "branchant",
+      "participe_passe": ["branché", "branchée", "branchés", "branchées"]
     }
   ]
 }
