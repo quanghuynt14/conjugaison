@@ -10155,6 +10155,24 @@
       },
       "participe_present": "empruntant",
       "participe_passe": ["emprunté", "empruntée", "empruntés", "empruntées"]
+    },
+    {
+      "id": "venger",
+      "infinitif": "venger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["venge", "venges", "venge", "vengeons", "vengez", "vengent"],
+        "ind.imp": ["vengeais", "vengeais", "vengeait", "vengions", "vengiez", "vengeaient"],
+        "ind.ps": ["vengeai", "vengeas", "vengea", "vengeâmes", "vengeâtes", "vengèrent"],
+        "ind.fut": ["vengerai", "vengeras", "vengera", "vengerons", "vengerez", "vengeront"],
+        "cond.pres": ["vengerais", "vengerais", "vengerait", "vengerions", "vengeriez", "vengeraient"],
+        "subj.pres": ["venge", "venges", "venge", "vengions", "vengiez", "vengent"],
+        "subj.imp": ["vengeasse", "vengeasses", "vengeât", "vengeassions", "vengeassiez", "vengeassent"],
+        "imper.pres": ["venge", "vengeons", "vengez"]
+      },
+      "participe_present": "vengeant",
+      "participe_passe": ["vengé", "vengée", "vengés", "vengées"]
     }
   ]
 }
