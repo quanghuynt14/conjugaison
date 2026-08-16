@@ -3836,6 +3836,24 @@
       },
       "participe_present": "invitant",
       "participe_passe": ["invité", "invitée", "invités", "invitées"]
+    },
+    {
+      "id": "éviter",
+      "infinitif": "éviter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["évite", "évites", "évite", "évitons", "évitez", "évitent"],
+        "ind.imp": ["évitais", "évitais", "évitait", "évitions", "évitiez", "évitaient"],
+        "ind.ps": ["évitai", "évitas", "évita", "évitâmes", "évitâtes", "évitèrent"],
+        "ind.fut": ["éviterai", "éviteras", "évitera", "éviterons", "éviterez", "éviteront"],
+        "cond.pres": ["éviterais", "éviterais", "éviterait", "éviterions", "éviteriez", "éviteraient"],
+        "subj.pres": ["évite", "évites", "évite", "évitions", "évitiez", "évitent"],
+        "subj.imp": ["évitasse", "évitasses", "évitât", "évitassions", "évitassiez", "évitassent"],
+        "imper.pres": ["évite", "évitons", "évitez"]
+      },
+      "participe_present": "évitant",
+      "participe_passe": ["évité", "évitée", "évités", "évitées"]
     }
   ]
 }
