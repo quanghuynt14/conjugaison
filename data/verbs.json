@@ -30950,6 +30950,25 @@
       },
       "participe_present": "éprenant",
       "participe_passe": ["épris", "éprise", "épris", "éprises"]
+    },
+    {
+      "id": "loucher",
+      "infinitif": "loucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « louché » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["louche", "louches", "louche", "louchons", "louchez", "louchent"],
+        "ind.imp": ["louchais", "louchais", "louchait", "louchions", "louchiez", "louchaient"],
+        "ind.ps": ["louchai", "louchas", "loucha", "louchâmes", "louchâtes", "louchèrent"],
+        "ind.fut": ["loucherai", "loucheras", "louchera", "loucherons", "loucherez", "loucheront"],
+        "cond.pres": ["loucherais", "loucherais", "loucherait", "loucherions", "loucheriez", "loucheraient"],
+        "subj.pres": ["louche", "louches", "louche", "louchions", "louchiez", "louchent"],
+        "subj.imp": ["louchasse", "louchasses", "louchât", "louchassions", "louchassiez", "louchassent"],
+        "imper.pres": ["louche", "louchons", "louchez"]
+      },
+      "participe_present": "louchant",
+      "participe_passe": ["louché", null, null, null]
     }
   ]
 }
