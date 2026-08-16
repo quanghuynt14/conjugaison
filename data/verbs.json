@@ -26935,6 +26935,25 @@
       },
       "participe_present": "éduquant",
       "participe_passe": ["éduqué", "éduquée", "éduqués", "éduquées"]
+    },
+    {
+      "id": "ronronner",
+      "infinitif": "ronronner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « ronronné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["ronronne", "ronronnes", "ronronne", "ronronnons", "ronronnez", "ronronnent"],
+        "ind.imp": ["ronronnais", "ronronnais", "ronronnait", "ronronnions", "ronronniez", "ronronnaient"],
+        "ind.ps": ["ronronnai", "ronronnas", "ronronna", "ronronnâmes", "ronronnâtes", "ronronnèrent"],
+        "ind.fut": ["ronronnerai", "ronronneras", "ronronnera", "ronronnerons", "ronronnerez", "ronronneront"],
+        "cond.pres": ["ronronnerais", "ronronnerais", "ronronnerait", "ronronnerions", "ronronneriez", "ronronneraient"],
+        "subj.pres": ["ronronne", "ronronnes", "ronronne", "ronronnions", "ronronniez", "ronronnent"],
+        "subj.imp": ["ronronnasse", "ronronnasses", "ronronnât", "ronronnassions", "ronronnassiez", "ronronnassent"],
+        "imper.pres": ["ronronne", "ronronnons", "ronronnez"]
+      },
+      "participe_present": "ronronnant",
+      "participe_passe": ["ronronné", null, null, null]
     }
   ]
 }
