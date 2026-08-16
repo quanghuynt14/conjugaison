@@ -35168,6 +35168,25 @@
       },
       "participe_present": "enlisant",
       "participe_passe": ["enlisé", "enlisée", "enlisés", "enlisées"]
+    },
+    {
+      "id": "référer",
+      "infinitif": "référer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je référerai » ou « je réfèrerai ». Les deux sont admises. Le participe passé « référé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["réfère", "réfères", "réfère", "référons", "référez", "réfèrent"],
+        "ind.imp": ["référais", "référais", "référait", "référions", "référiez", "référaient"],
+        "ind.ps": ["référai", "référas", "référa", "référâmes", "référâtes", "référèrent"],
+        "ind.fut": [["référerai", "réfèrerai"], ["référeras", "réfèreras"], ["référera", "réfèrera"], ["référerons", "réfèrerons"], ["référerez", "réfèrerez"], ["référeront", "réfèreront"]],
+        "cond.pres": [["référerais", "réfèrerais"], ["référerais", "réfèrerais"], ["référerait", "réfèrerait"], ["référerions", "réfèrerions"], ["référeriez", "réfèreriez"], ["référeraient", "réfèreraient"]],
+        "subj.pres": ["réfère", "réfères", "réfère", "référions", "référiez", "réfèrent"],
+        "subj.imp": ["référasse", "référasses", "référât", "référassions", "référassiez", "référassent"],
+        "imper.pres": ["réfère", "référons", "référez"]
+      },
+      "participe_present": "référant",
+      "participe_passe": ["référé", null, null, null]
     }
   ]
 }
