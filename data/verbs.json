@@ -23945,6 +23945,24 @@
       },
       "participe_present": "déclinant",
       "participe_passe": ["décliné", "déclinée", "déclinés", "déclinées"]
+    },
+    {
+      "id": "resserrer",
+      "infinitif": "resserrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["resserre", "resserres", "resserre", "resserrons", "resserrez", "resserrent"],
+        "ind.imp": ["resserrais", "resserrais", "resserrait", "resserrions", "resserriez", "resserraient"],
+        "ind.ps": ["resserrai", "resserras", "resserra", "resserrâmes", "resserrâtes", "resserrèrent"],
+        "ind.fut": ["resserrerai", "resserreras", "resserrera", "resserrerons", "resserrerez", "resserreront"],
+        "cond.pres": ["resserrerais", "resserrerais", "resserrerait", "resserrerions", "resserreriez", "resserreraient"],
+        "subj.pres": ["resserre", "resserres", "resserre", "resserrions", "resserriez", "resserrent"],
+        "subj.imp": ["resserrasse", "resserrasses", "resserrât", "resserrassions", "resserrassiez", "resserrassent"],
+        "imper.pres": ["resserre", "resserrons", "resserrez"]
+      },
+      "participe_present": "resserrant",
+      "participe_passe": ["resserré", "resserrée", "resserrés", "resserrées"]
     }
   ]
 }
