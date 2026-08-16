@@ -13646,6 +13646,24 @@
       },
       "participe_present": "gelant",
       "participe_passe": ["gelé", "gelée", "gelés", "gelées"]
+    },
+    {
+      "id": "réciter",
+      "infinitif": "réciter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["récite", "récites", "récite", "récitons", "récitez", "récitent"],
+        "ind.imp": ["récitais", "récitais", "récitait", "récitions", "récitiez", "récitaient"],
+        "ind.ps": ["récitai", "récitas", "récita", "récitâmes", "récitâtes", "récitèrent"],
+        "ind.fut": ["réciterai", "réciteras", "récitera", "réciterons", "réciterez", "réciteront"],
+        "cond.pres": ["réciterais", "réciterais", "réciterait", "réciterions", "réciteriez", "réciteraient"],
+        "subj.pres": ["récite", "récites", "récite", "récitions", "récitiez", "récitent"],
+        "subj.imp": ["récitasse", "récitasses", "récitât", "récitassions", "récitassiez", "récitassent"],
+        "imper.pres": ["récite", "récitons", "récitez"]
+      },
+      "participe_present": "récitant",
+      "participe_passe": ["récité", "récitée", "récités", "récitées"]
     }
   ]
 }
