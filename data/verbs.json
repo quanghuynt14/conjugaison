@@ -4287,6 +4287,24 @@
       },
       "participe_present": "fixant",
       "participe_passe": ["fixé", "fixée", "fixés", "fixées"]
+    },
+    {
+      "id": "surprendre",
+      "infinitif": "surprendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["surprends", "surprends", "surprend", "surprenons", "surprenez", "surprennent"],
+        "ind.imp": ["surprenais", "surprenais", "surprenait", "surprenions", "surpreniez", "surprenaient"],
+        "ind.ps": ["surpris", "surpris", "surprit", "surprîmes", "surprîtes", "surprirent"],
+        "ind.fut": ["surprendrai", "surprendras", "surprendra", "surprendrons", "surprendrez", "surprendront"],
+        "cond.pres": ["surprendrais", "surprendrais", "surprendrait", "surprendrions", "surprendriez", "surprendraient"],
+        "subj.pres": ["surprenne", "surprennes", "surprenne", "surprenions", "surpreniez", "surprennent"],
+        "subj.imp": ["surprisse", "surprisses", "surprît", "surprissions", "surprissiez", "surprissent"],
+        "imper.pres": ["surprends", "surprenons", "surprenez"]
+      },
+      "participe_present": "surprenant",
+      "participe_passe": ["surpris", "surprise", "surpris", "surprises"]
     }
   ]
 }
