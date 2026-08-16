@@ -30457,6 +30457,24 @@
       },
       "participe_present": "happant",
       "participe_passe": ["happé", "happée", "happés", "happées"]
+    },
+    {
+      "id": "jaunir",
+      "infinitif": "jaunir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["jaunis", "jaunis", "jaunit", "jaunissons", "jaunissez", "jaunissent"],
+        "ind.imp": ["jaunissais", "jaunissais", "jaunissait", "jaunissions", "jaunissiez", "jaunissaient"],
+        "ind.ps": ["jaunis", "jaunis", "jaunit", "jaunîmes", "jaunîtes", "jaunirent"],
+        "ind.fut": ["jaunirai", "jauniras", "jaunira", "jaunirons", "jaunirez", "jauniront"],
+        "cond.pres": ["jaunirais", "jaunirais", "jaunirait", "jaunirions", "jauniriez", "jauniraient"],
+        "subj.pres": ["jaunisse", "jaunisses", "jaunisse", "jaunissions", "jaunissiez", "jaunissent"],
+        "subj.imp": ["jaunisse", "jaunisses", "jaunît", "jaunissions", "jaunissiez", "jaunissent"],
+        "imper.pres": ["jaunis", "jaunissons", "jaunissez"]
+      },
+      "participe_present": "jaunissant",
+      "participe_passe": ["jauni", "jaunie", "jaunis", "jaunies"]
     }
   ]
 }
