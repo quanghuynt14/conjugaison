@@ -11118,6 +11118,24 @@
       },
       "participe_present": "comportant",
       "participe_passe": ["comporté", "comportée", "comportés", "comportées"]
+    },
+    {
+      "id": "soumettre",
+      "infinitif": "soumettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["soumets", "soumets", "soumet", "soumettons", "soumettez", "soumettent"],
+        "ind.imp": ["soumettais", "soumettais", "soumettait", "soumettions", "soumettiez", "soumettaient"],
+        "ind.ps": ["soumis", "soumis", "soumit", "soumîmes", "soumîtes", "soumirent"],
+        "ind.fut": ["soumettrai", "soumettras", "soumettra", "soumettrons", "soumettrez", "soumettront"],
+        "cond.pres": ["soumettrais", "soumettrais", "soumettrait", "soumettrions", "soumettriez", "soumettraient"],
+        "subj.pres": ["soumette", "soumettes", "soumette", "soumettions", "soumettiez", "soumettent"],
+        "subj.imp": ["soumisse", "soumisses", "soumît", "soumissions", "soumissiez", "soumissent"],
+        "imper.pres": ["soumets", "soumettons", "soumettez"]
+      },
+      "participe_present": "soumettant",
+      "participe_passe": ["soumis", "soumise", "soumis", "soumises"]
     }
   ]
 }
