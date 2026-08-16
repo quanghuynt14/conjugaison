@@ -13664,6 +13664,24 @@
       },
       "participe_present": "récitant",
       "participe_passe": ["récité", "récitée", "récités", "récitées"]
+    },
+    {
+      "id": "féliciter",
+      "infinitif": "féliciter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["félicite", "félicites", "félicite", "félicitons", "félicitez", "félicitent"],
+        "ind.imp": ["félicitais", "félicitais", "félicitait", "félicitions", "félicitiez", "félicitaient"],
+        "ind.ps": ["félicitai", "félicitas", "félicita", "félicitâmes", "félicitâtes", "félicitèrent"],
+        "ind.fut": ["féliciterai", "féliciteras", "félicitera", "féliciterons", "féliciterez", "féliciteront"],
+        "cond.pres": ["féliciterais", "féliciterais", "féliciterait", "féliciterions", "féliciteriez", "féliciteraient"],
+        "subj.pres": ["félicite", "félicites", "félicite", "félicitions", "félicitiez", "félicitent"],
+        "subj.imp": ["félicitasse", "félicitasses", "félicitât", "félicitassions", "félicitassiez", "félicitassent"],
+        "imper.pres": ["félicite", "félicitons", "félicitez"]
+      },
+      "participe_present": "félicitant",
+      "participe_passe": ["félicité", "félicitée", "félicités", "félicitées"]
     }
   ]
 }
