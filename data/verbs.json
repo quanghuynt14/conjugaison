@@ -25570,6 +25570,25 @@
       },
       "participe_present": "vautrant",
       "participe_passe": ["vautré", "vautrée", "vautrés", "vautrées"]
+    },
+    {
+      "id": "coopérer",
+      "infinitif": "coopérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je coopérerai » ou « je coopèrerai ». Les deux sont admises. Le participe passé « coopéré » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["coopère", "coopères", "coopère", "coopérons", "coopérez", "coopèrent"],
+        "ind.imp": ["coopérais", "coopérais", "coopérait", "coopérions", "coopériez", "coopéraient"],
+        "ind.ps": ["coopérai", "coopéras", "coopéra", "coopérâmes", "coopérâtes", "coopérèrent"],
+        "ind.fut": [["coopérerai", "coopèrerai"], ["coopéreras", "coopèreras"], ["coopérera", "coopèrera"], ["coopérerons", "coopèrerons"], ["coopérerez", "coopèrerez"], ["coopéreront", "coopèreront"]],
+        "cond.pres": [["coopérerais", "coopèrerais"], ["coopérerais", "coopèrerais"], ["coopérerait", "coopèrerait"], ["coopérerions", "coopèrerions"], ["coopéreriez", "coopèreriez"], ["coopéreraient", "coopèreraient"]],
+        "subj.pres": ["coopère", "coopères", "coopère", "coopérions", "coopériez", "coopèrent"],
+        "subj.imp": ["coopérasse", "coopérasses", "coopérât", "coopérassions", "coopérassiez", "coopérassent"],
+        "imper.pres": ["coopère", "coopérons", "coopérez"]
+      },
+      "participe_present": "coopérant",
+      "participe_passe": ["coopéré", null, null, null]
     }
   ]
 }
