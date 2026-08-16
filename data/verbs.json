@@ -32830,6 +32830,24 @@
       },
       "participe_present": "endossant",
       "participe_passe": ["endossé", "endossée", "endossés", "endossées"]
+    },
+    {
+      "id": "revendiquer",
+      "infinitif": "revendiquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["revendique", "revendiques", "revendique", "revendiquons", "revendiquez", "revendiquent"],
+        "ind.imp": ["revendiquais", "revendiquais", "revendiquait", "revendiquions", "revendiquiez", "revendiquaient"],
+        "ind.ps": ["revendiquai", "revendiquas", "revendiqua", "revendiquâmes", "revendiquâtes", "revendiquèrent"],
+        "ind.fut": ["revendiquerai", "revendiqueras", "revendiquera", "revendiquerons", "revendiquerez", "revendiqueront"],
+        "cond.pres": ["revendiquerais", "revendiquerais", "revendiquerait", "revendiquerions", "revendiqueriez", "revendiqueraient"],
+        "subj.pres": ["revendique", "revendiques", "revendique", "revendiquions", "revendiquiez", "revendiquent"],
+        "subj.imp": ["revendiquasse", "revendiquasses", "revendiquât", "revendiquassions", "revendiquassiez", "revendiquassent"],
+        "imper.pres": ["revendique", "revendiquons", "revendiquez"]
+      },
+      "participe_present": "revendiquant",
+      "participe_passe": ["revendiqué", "revendiquée", "revendiqués", "revendiquées"]
     }
   ]
 }
