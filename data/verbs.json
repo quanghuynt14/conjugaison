@@ -20582,6 +20582,26 @@
       },
       "participe_present": "répliquant",
       "participe_passe": ["répliqué", "répliquée", "répliqués", "répliquées"]
+    },
+    {
+      "id": "harceler",
+      "infinitif": "harceler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "h_aspire": true,
+      "note": "Deux conjugaisons également correctes : « je harcelle » ou « je harcèle ».",
+      "tenses": {
+        "ind.pres": [["harcelle", "harcèle"], ["harcelles", "harcèles"], ["harcelle", "harcèle"], "harcelons", "harcelez", ["harcellent", "harcèlent"]],
+        "ind.imp": ["harcelais", "harcelais", "harcelait", "harcelions", "harceliez", "harcelaient"],
+        "ind.ps": ["harcelai", "harcelas", "harcela", "harcelâmes", "harcelâtes", "harcelèrent"],
+        "ind.fut": [["harcellerai", "harcèlerai"], ["harcelleras", "harcèleras"], ["harcellera", "harcèlera"], ["harcellerons", "harcèlerons"], ["harcellerez", "harcèlerez"], ["harcelleront", "harcèleront"]],
+        "cond.pres": [["harcellerais", "harcèlerais"], ["harcellerais", "harcèlerais"], ["harcellerait", "harcèlerait"], ["harcellerions", "harcèlerions"], ["harcelleriez", "harcèleriez"], ["harcelleraient", "harcèleraient"]],
+        "subj.pres": [["harcelle", "harcèle"], ["harcelles", "harcèles"], ["harcelle", "harcèle"], "harcelions", "harceliez", ["harcellent", "harcèlent"]],
+        "subj.imp": ["harcelasse", "harcelasses", "harcelât", "harcelassions", "harcelassiez", "harcelassent"],
+        "imper.pres": [["harcelle", "harcèle"], "harcelons", "harcelez"]
+      },
+      "participe_present": "harcelant",
+      "participe_passe": ["harcelé", "harcelée", "harcelés", "harcelées"]
     }
   ]
 }
