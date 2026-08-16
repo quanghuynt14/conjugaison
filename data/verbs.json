@@ -2860,6 +2860,24 @@
       },
       "participe_present": "ramenant",
       "participe_passe": ["ramené", "ramenée", "ramenés", "ramenées"]
+    },
+    {
+      "id": "embrasser",
+      "infinitif": "embrasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["embrasse", "embrasses", "embrasse", "embrassons", "embrassez", "embrassent"],
+        "ind.imp": ["embrassais", "embrassais", "embrassait", "embrassions", "embrassiez", "embrassaient"],
+        "ind.ps": ["embrassai", "embrassas", "embrassa", "embrassâmes", "embrassâtes", "embrassèrent"],
+        "ind.fut": ["embrasserai", "embrasseras", "embrassera", "embrasserons", "embrasserez", "embrasseront"],
+        "cond.pres": ["embrasserais", "embrasserais", "embrasserait", "embrasserions", "embrasseriez", "embrasseraient"],
+        "subj.pres": ["embrasse", "embrasses", "embrasse", "embrassions", "embrassiez", "embrassent"],
+        "subj.imp": ["embrassasse", "embrassasses", "embrassât", "embrassassions", "embrassassiez", "embrassassent"],
+        "imper.pres": ["embrasse", "embrassons", "embrassez"]
+      },
+      "participe_present": "embrassant",
+      "participe_passe": ["embrassé", "embrassée", "embrassés", "embrassées"]
     }
   ]
 }
