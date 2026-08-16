@@ -12899,6 +12899,24 @@
       },
       "participe_present": "logeant",
       "participe_passe": ["logé", "logée", "logés", "logées"]
+    },
+    {
+      "id": "pourrir",
+      "infinitif": "pourrir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pourris", "pourris", "pourrit", "pourrissons", "pourrissez", "pourrissent"],
+        "ind.imp": ["pourrissais", "pourrissais", "pourrissait", "pourrissions", "pourrissiez", "pourrissaient"],
+        "ind.ps": ["pourris", "pourris", "pourrit", "pourrîmes", "pourrîtes", "pourrirent"],
+        "ind.fut": ["pourrirai", "pourriras", "pourrira", "pourrirons", "pourrirez", "pourriront"],
+        "cond.pres": ["pourrirais", "pourrirais", "pourrirait", "pourririons", "pourririez", "pourriraient"],
+        "subj.pres": ["pourrisse", "pourrisses", "pourrisse", "pourrissions", "pourrissiez", "pourrissent"],
+        "subj.imp": ["pourrisse", "pourrisses", "pourrît", "pourrissions", "pourrissiez", "pourrissent"],
+        "imper.pres": ["pourris", "pourrissons", "pourrissez"]
+      },
+      "participe_present": "pourrissant",
+      "participe_passe": ["pourri", "pourrie", "pourris", "pourries"]
     }
   ]
 }
