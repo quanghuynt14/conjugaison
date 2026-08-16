@@ -25115,6 +25115,24 @@
       },
       "participe_present": "acquiesçant",
       "participe_passe": ["acquiescé", null, null, null]
+    },
+    {
+      "id": "confronter",
+      "infinitif": "confronter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["confronte", "confrontes", "confronte", "confrontons", "confrontez", "confrontent"],
+        "ind.imp": ["confrontais", "confrontais", "confrontait", "confrontions", "confrontiez", "confrontaient"],
+        "ind.ps": ["confrontai", "confrontas", "confronta", "confrontâmes", "confrontâtes", "confrontèrent"],
+        "ind.fut": ["confronterai", "confronteras", "confrontera", "confronterons", "confronterez", "confronteront"],
+        "cond.pres": ["confronterais", "confronterais", "confronterait", "confronterions", "confronteriez", "confronteraient"],
+        "subj.pres": ["confronte", "confrontes", "confronte", "confrontions", "confrontiez", "confrontent"],
+        "subj.imp": ["confrontasse", "confrontasses", "confrontât", "confrontassions", "confrontassiez", "confrontassent"],
+        "imper.pres": ["confronte", "confrontons", "confrontez"]
+      },
+      "participe_present": "confrontant",
+      "participe_passe": ["confronté", "confrontée", "confrontés", "confrontées"]
     }
   ]
 }
