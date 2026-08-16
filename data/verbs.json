@@ -24679,6 +24679,24 @@
       },
       "participe_present": "compensant",
       "participe_passe": ["compensé", "compensée", "compensés", "compensées"]
+    },
+    {
+      "id": "dégringoler",
+      "infinitif": "dégringoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dégringole", "dégringoles", "dégringole", "dégringolons", "dégringolez", "dégringolent"],
+        "ind.imp": ["dégringolais", "dégringolais", "dégringolait", "dégringolions", "dégringoliez", "dégringolaient"],
+        "ind.ps": ["dégringolai", "dégringolas", "dégringola", "dégringolâmes", "dégringolâtes", "dégringolèrent"],
+        "ind.fut": ["dégringolerai", "dégringoleras", "dégringolera", "dégringolerons", "dégringolerez", "dégringoleront"],
+        "cond.pres": ["dégringolerais", "dégringolerais", "dégringolerait", "dégringolerions", "dégringoleriez", "dégringoleraient"],
+        "subj.pres": ["dégringole", "dégringoles", "dégringole", "dégringolions", "dégringoliez", "dégringolent"],
+        "subj.imp": ["dégringolasse", "dégringolasses", "dégringolât", "dégringolassions", "dégringolassiez", "dégringolassent"],
+        "imper.pres": ["dégringole", "dégringolons", "dégringolez"]
+      },
+      "participe_present": "dégringolant",
+      "participe_passe": ["dégringolé", "dégringolée", "dégringolés", "dégringolées"]
     }
   ]
 }
