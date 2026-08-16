@@ -10357,6 +10357,24 @@
       },
       "participe_present": "efforçant",
       "participe_passe": ["efforcé", "efforcée", "efforcés", "efforcées"]
+    },
+    {
+      "id": "débarquer",
+      "infinitif": "débarquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["débarque", "débarques", "débarque", "débarquons", "débarquez", "débarquent"],
+        "ind.imp": ["débarquais", "débarquais", "débarquait", "débarquions", "débarquiez", "débarquaient"],
+        "ind.ps": ["débarquai", "débarquas", "débarqua", "débarquâmes", "débarquâtes", "débarquèrent"],
+        "ind.fut": ["débarquerai", "débarqueras", "débarquera", "débarquerons", "débarquerez", "débarqueront"],
+        "cond.pres": ["débarquerais", "débarquerais", "débarquerait", "débarquerions", "débarqueriez", "débarqueraient"],
+        "subj.pres": ["débarque", "débarques", "débarque", "débarquions", "débarquiez", "débarquent"],
+        "subj.imp": ["débarquasse", "débarquasses", "débarquât", "débarquassions", "débarquassiez", "débarquassent"],
+        "imper.pres": ["débarque", "débarquons", "débarquez"]
+      },
+      "participe_present": "débarquant",
+      "participe_passe": ["débarqué", "débarquée", "débarqués", "débarquées"]
     }
   ]
 }
