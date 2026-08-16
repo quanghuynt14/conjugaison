@@ -4233,6 +4233,24 @@
       },
       "participe_present": "durant",
       "participe_passe": ["duré", null, null, null]
+    },
+    {
+      "id": "éloigner",
+      "infinitif": "éloigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éloigne", "éloignes", "éloigne", "éloignons", "éloignez", "éloignent"],
+        "ind.imp": ["éloignais", "éloignais", "éloignait", "éloignions", "éloigniez", "éloignaient"],
+        "ind.ps": ["éloignai", "éloignas", "éloigna", "éloignâmes", "éloignâtes", "éloignèrent"],
+        "ind.fut": ["éloignerai", "éloigneras", "éloignera", "éloignerons", "éloignerez", "éloigneront"],
+        "cond.pres": ["éloignerais", "éloignerais", "éloignerait", "éloignerions", "éloigneriez", "éloigneraient"],
+        "subj.pres": ["éloigne", "éloignes", "éloigne", "éloignions", "éloigniez", "éloignent"],
+        "subj.imp": ["éloignasse", "éloignasses", "éloignât", "éloignassions", "éloignassiez", "éloignassent"],
+        "imper.pres": ["éloigne", "éloignons", "éloignez"]
+      },
+      "participe_present": "éloignant",
+      "participe_passe": ["éloigné", "éloignée", "éloignés", "éloignées"]
     }
   ]
 }
