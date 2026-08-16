@@ -1314,6 +1314,24 @@
       },
       "participe_present": "posant",
       "participe_passe": ["posé", "posée", "posés", "posées"]
+    },
+    {
+      "id": "boire",
+      "infinitif": "boire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bois", "bois", "boit", "buvons", "buvez", "boivent"],
+        "ind.imp": ["buvais", "buvais", "buvait", "buvions", "buviez", "buvaient"],
+        "ind.ps": ["bus", "bus", "but", "bûmes", "bûtes", "burent"],
+        "ind.fut": ["boirai", "boiras", "boira", "boirons", "boirez", "boiront"],
+        "cond.pres": ["boirais", "boirais", "boirait", "boirions", "boiriez", "boiraient"],
+        "subj.pres": ["boive", "boives", "boive", "buvions", "buviez", "boivent"],
+        "subj.imp": ["busse", "busses", "bût", "bussions", "bussiez", "bussent"],
+        "imper.pres": ["bois", "buvons", "buvez"]
+      },
+      "participe_present": "buvant",
+      "participe_passe": ["bu", "bue", "bus", "bues"]
     }
   ]
 }
