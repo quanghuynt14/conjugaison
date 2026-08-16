@@ -24751,6 +24751,24 @@
       },
       "participe_present": "raclant",
       "participe_passe": ["raclé", "raclée", "raclés", "raclées"]
+    },
+    {
+      "id": "dénicher",
+      "infinitif": "dénicher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déniche", "déniches", "déniche", "dénichons", "dénichez", "dénichent"],
+        "ind.imp": ["dénichais", "dénichais", "dénichait", "dénichions", "dénichiez", "dénichaient"],
+        "ind.ps": ["dénichai", "dénichas", "dénicha", "dénichâmes", "dénichâtes", "dénichèrent"],
+        "ind.fut": ["dénicherai", "dénicheras", "dénichera", "dénicherons", "dénicherez", "dénicheront"],
+        "cond.pres": ["dénicherais", "dénicherais", "dénicherait", "dénicherions", "dénicheriez", "dénicheraient"],
+        "subj.pres": ["déniche", "déniches", "déniche", "dénichions", "dénichiez", "dénichent"],
+        "subj.imp": ["dénichasse", "dénichasses", "dénichât", "dénichassions", "dénichassiez", "dénichassent"],
+        "imper.pres": ["déniche", "dénichons", "dénichez"]
+      },
+      "participe_present": "dénichant",
+      "participe_passe": ["déniché", "dénichée", "dénichés", "dénichées"]
     }
   ]
 }
