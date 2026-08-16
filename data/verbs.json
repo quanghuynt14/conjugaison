@@ -14610,6 +14610,24 @@
       },
       "participe_present": "imprimant",
       "participe_passe": ["imprimé", "imprimée", "imprimés", "imprimées"]
+    },
+    {
+      "id": "trancher",
+      "infinitif": "trancher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tranche", "tranches", "tranche", "tranchons", "tranchez", "tranchent"],
+        "ind.imp": ["tranchais", "tranchais", "tranchait", "tranchions", "tranchiez", "tranchaient"],
+        "ind.ps": ["tranchai", "tranchas", "trancha", "tranchâmes", "tranchâtes", "tranchèrent"],
+        "ind.fut": ["trancherai", "trancheras", "tranchera", "trancherons", "trancherez", "trancheront"],
+        "cond.pres": ["trancherais", "trancherais", "trancherait", "trancherions", "trancheriez", "trancheraient"],
+        "subj.pres": ["tranche", "tranches", "tranche", "tranchions", "tranchiez", "tranchent"],
+        "subj.imp": ["tranchasse", "tranchasses", "tranchât", "tranchassions", "tranchassiez", "tranchassent"],
+        "imper.pres": ["tranche", "tranchons", "tranchez"]
+      },
+      "participe_present": "tranchant",
+      "participe_passe": ["tranché", "tranchée", "tranchés", "tranchées"]
     }
   ]
 }
