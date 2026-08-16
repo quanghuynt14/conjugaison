@@ -27596,6 +27596,25 @@
       },
       "participe_present": "fusant",
       "participe_passe": ["fusé", null, null, null]
+    },
+    {
+      "id": "frire",
+      "infinitif": "frire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Défectif : le présent s'arrête à trois personnes, l'impératif à une, et il n'y a ni imparfait, ni passé simple, ni participe présent. Pour le reste, on passe par faire : « nous faisons frire ».",
+      "tenses": {
+        "ind.pres": ["fris", "fris", "frit", null, null, null],
+        "ind.imp": [null, null, null, null, null, null],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": ["frirai", "friras", "frira", "frirons", "frirez", "friront"],
+        "cond.pres": ["frirais", "frirais", "frirait", "fririons", "fririez", "friraient"],
+        "subj.pres": [null, null, null, null, null, null],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": ["fris", null, null]
+      },
+      "participe_present": null,
+      "participe_passe": ["frit", "frite", "frits", "frites"]
     }
   ]
 }
