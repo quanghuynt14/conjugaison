@@ -9502,6 +9502,24 @@
       },
       "participe_present": "avertissant",
       "participe_passe": ["averti", "avertie", "avertis", "averties"]
+    },
+    {
+      "id": "inscrire",
+      "infinitif": "inscrire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["inscris", "inscris", "inscrit", "inscrivons", "inscrivez", "inscrivent"],
+        "ind.imp": ["inscrivais", "inscrivais", "inscrivait", "inscrivions", "inscriviez", "inscrivaient"],
+        "ind.ps": ["inscrivis", "inscrivis", "inscrivit", "inscrivîmes", "inscrivîtes", "inscrivirent"],
+        "ind.fut": ["inscrirai", "inscriras", "inscrira", "inscrirons", "inscrirez", "inscriront"],
+        "cond.pres": ["inscrirais", "inscrirais", "inscrirait", "inscririons", "inscririez", "inscriraient"],
+        "subj.pres": ["inscrive", "inscrives", "inscrive", "inscrivions", "inscriviez", "inscrivent"],
+        "subj.imp": ["inscrivisse", "inscrivisses", "inscrivît", "inscrivissions", "inscrivissiez", "inscrivissent"],
+        "imper.pres": ["inscris", "inscrivons", "inscrivez"]
+      },
+      "participe_present": "inscrivant",
+      "participe_passe": ["inscrit", "inscrite", "inscrits", "inscrites"]
     }
   ]
 }
