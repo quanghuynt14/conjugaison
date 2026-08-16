@@ -15533,6 +15533,25 @@
       },
       "participe_present": "crispant",
       "participe_passe": ["crispé", "crispée", "crispés", "crispées"]
+    },
+    {
+      "id": "tousser",
+      "infinitif": "tousser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « toussé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["tousse", "tousses", "tousse", "toussons", "toussez", "toussent"],
+        "ind.imp": ["toussais", "toussais", "toussait", "toussions", "toussiez", "toussaient"],
+        "ind.ps": ["toussai", "toussas", "toussa", "toussâmes", "toussâtes", "toussèrent"],
+        "ind.fut": ["tousserai", "tousseras", "toussera", "tousserons", "tousserez", "tousseront"],
+        "cond.pres": ["tousserais", "tousserais", "tousserait", "tousserions", "tousseriez", "tousseraient"],
+        "subj.pres": ["tousse", "tousses", "tousse", "toussions", "toussiez", "toussent"],
+        "subj.imp": ["toussasse", "toussasses", "toussât", "toussassions", "toussassiez", "toussassent"],
+        "imper.pres": ["tousse", "toussons", "toussez"]
+      },
+      "participe_present": "toussant",
+      "participe_passe": ["toussé", null, null, null]
     }
   ]
 }
