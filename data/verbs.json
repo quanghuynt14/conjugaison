@@ -19670,6 +19670,24 @@
       },
       "participe_present": "épiant",
       "participe_passe": ["épié", "épiée", "épiés", "épiées"]
+    },
+    {
+      "id": "renier",
+      "infinitif": "renier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["renie", "renies", "renie", "renions", "reniez", "renient"],
+        "ind.imp": ["reniais", "reniais", "reniait", "reniions", "reniiez", "reniaient"],
+        "ind.ps": ["reniai", "renias", "renia", "reniâmes", "reniâtes", "renièrent"],
+        "ind.fut": ["renierai", "renieras", "reniera", "renierons", "renierez", "renieront"],
+        "cond.pres": ["renierais", "renierais", "renierait", "renierions", "renieriez", "renieraient"],
+        "subj.pres": ["renie", "renies", "renie", "reniions", "reniiez", "renient"],
+        "subj.imp": ["reniasse", "reniasses", "reniât", "reniassions", "reniassiez", "reniassent"],
+        "imper.pres": ["renie", "renions", "reniez"]
+      },
+      "participe_present": "reniant",
+      "participe_passe": ["renié", "reniée", "reniés", "reniées"]
     }
   ]
 }
