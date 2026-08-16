@@ -19488,6 +19488,24 @@
       },
       "participe_present": "trinquant",
       "participe_passe": ["trinqué", null, null, null]
+    },
+    {
+      "id": "faciliter",
+      "infinitif": "faciliter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["facilite", "facilites", "facilite", "facilitons", "facilitez", "facilitent"],
+        "ind.imp": ["facilitais", "facilitais", "facilitait", "facilitions", "facilitiez", "facilitaient"],
+        "ind.ps": ["facilitai", "facilitas", "facilita", "facilitâmes", "facilitâtes", "facilitèrent"],
+        "ind.fut": ["faciliterai", "faciliteras", "facilitera", "faciliterons", "faciliterez", "faciliteront"],
+        "cond.pres": ["faciliterais", "faciliterais", "faciliterait", "faciliterions", "faciliteriez", "faciliteraient"],
+        "subj.pres": ["facilite", "facilites", "facilite", "facilitions", "facilitiez", "facilitent"],
+        "subj.imp": ["facilitasse", "facilitasses", "facilitât", "facilitassions", "facilitassiez", "facilitassent"],
+        "imper.pres": ["facilite", "facilitons", "facilitez"]
+      },
+      "participe_present": "facilitant",
+      "participe_passe": ["facilité", "facilitée", "facilités", "facilitées"]
     }
   ]
 }
