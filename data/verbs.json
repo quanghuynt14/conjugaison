@@ -35786,6 +35786,24 @@
       },
       "participe_present": "ressassant",
       "participe_passe": ["ressassé", "ressassée", "ressassés", "ressassées"]
+    },
+    {
+      "id": "amocher",
+      "infinitif": "amocher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["amoche", "amoches", "amoche", "amochons", "amochez", "amochent"],
+        "ind.imp": ["amochais", "amochais", "amochait", "amochions", "amochiez", "amochaient"],
+        "ind.ps": ["amochai", "amochas", "amocha", "amochâmes", "amochâtes", "amochèrent"],
+        "ind.fut": ["amocherai", "amocheras", "amochera", "amocherons", "amocherez", "amocheront"],
+        "cond.pres": ["amocherais", "amocherais", "amocherait", "amocherions", "amocheriez", "amocheraient"],
+        "subj.pres": ["amoche", "amoches", "amoche", "amochions", "amochiez", "amochent"],
+        "subj.imp": ["amochasse", "amochasses", "amochât", "amochassions", "amochassiez", "amochassent"],
+        "imper.pres": ["amoche", "amochons", "amochez"]
+      },
+      "participe_present": "amochant",
+      "participe_passe": ["amoché", "amochée", "amochés", "amochées"]
     }
   ]
 }
