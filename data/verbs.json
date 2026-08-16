@@ -3329,6 +3329,24 @@
       },
       "participe_present": "mentant",
       "participe_passe": ["menti", null, null, null]
+    },
+    {
+      "id": "naître",
+      "infinitif": "naître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["nais", "nais", "naît", "naissons", "naissez", "naissent"],
+        "ind.imp": ["naissais", "naissais", "naissait", "naissions", "naissiez", "naissaient"],
+        "ind.ps": ["naquis", "naquis", "naquit", "naquîmes", "naquîtes", "naquirent"],
+        "ind.fut": ["naîtrai", "naîtras", "naîtra", "naîtrons", "naîtrez", "naîtront"],
+        "cond.pres": ["naîtrais", "naîtrais", "naîtrait", "naîtrions", "naîtriez", "naîtraient"],
+        "subj.pres": ["naisse", "naisses", "naisse", "naissions", "naissiez", "naissent"],
+        "subj.imp": ["naquisse", "naquisses", "naquît", "naquissions", "naquissiez", "naquissent"],
+        "imper.pres": ["nais", "naissons", "naissez"]
+      },
+      "participe_present": "naissant",
+      "participe_passe": ["né", "née", "nés", "nées"]
     }
   ]
 }
