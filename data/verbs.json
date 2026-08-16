@@ -28996,6 +28996,24 @@
       },
       "participe_present": "interceptant",
       "participe_passe": ["intercepté", "interceptée", "interceptés", "interceptées"]
+    },
+    {
+      "id": "amplifier",
+      "infinitif": "amplifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["amplifie", "amplifies", "amplifie", "amplifions", "amplifiez", "amplifient"],
+        "ind.imp": ["amplifiais", "amplifiais", "amplifiait", "amplifiions", "amplifiiez", "amplifiaient"],
+        "ind.ps": ["amplifiai", "amplifias", "amplifia", "amplifiâmes", "amplifiâtes", "amplifièrent"],
+        "ind.fut": ["amplifierai", "amplifieras", "amplifiera", "amplifierons", "amplifierez", "amplifieront"],
+        "cond.pres": ["amplifierais", "amplifierais", "amplifierait", "amplifierions", "amplifieriez", "amplifieraient"],
+        "subj.pres": ["amplifie", "amplifies", "amplifie", "amplifiions", "amplifiiez", "amplifient"],
+        "subj.imp": ["amplifiasse", "amplifiasses", "amplifiât", "amplifiassions", "amplifiassiez", "amplifiassent"],
+        "imper.pres": ["amplifie", "amplifions", "amplifiez"]
+      },
+      "participe_present": "amplifiant",
+      "participe_passe": ["amplifié", "amplifiée", "amplifiés", "amplifiées"]
     }
   ]
 }
