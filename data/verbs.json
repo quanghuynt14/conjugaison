@@ -35915,6 +35915,24 @@
       },
       "participe_present": "emmêlant",
       "participe_passe": ["emmêlé", "emmêlée", "emmêlés", "emmêlées"]
+    },
+    {
+      "id": "beugler",
+      "infinitif": "beugler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["beugle", "beugles", "beugle", "beuglons", "beuglez", "beuglent"],
+        "ind.imp": ["beuglais", "beuglais", "beuglait", "beuglions", "beugliez", "beuglaient"],
+        "ind.ps": ["beuglai", "beuglas", "beugla", "beuglâmes", "beuglâtes", "beuglèrent"],
+        "ind.fut": ["beuglerai", "beugleras", "beuglera", "beuglerons", "beuglerez", "beugleront"],
+        "cond.pres": ["beuglerais", "beuglerais", "beuglerait", "beuglerions", "beugleriez", "beugleraient"],
+        "subj.pres": ["beugle", "beugles", "beugle", "beuglions", "beugliez", "beuglent"],
+        "subj.imp": ["beuglasse", "beuglasses", "beuglât", "beuglassions", "beuglassiez", "beuglassent"],
+        "imper.pres": ["beugle", "beuglons", "beuglez"]
+      },
+      "participe_present": "beuglant",
+      "participe_passe": ["beuglé", "beuglée", "beuglés", "beuglées"]
     }
   ]
 }
