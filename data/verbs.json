@@ -26461,6 +26461,24 @@
       },
       "participe_present": "hébergeant",
       "participe_passe": ["hébergé", "hébergée", "hébergés", "hébergées"]
+    },
+    {
+      "id": "affaisser",
+      "infinitif": "affaisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affaisse", "affaisses", "affaisse", "affaissons", "affaissez", "affaissent"],
+        "ind.imp": ["affaissais", "affaissais", "affaissait", "affaissions", "affaissiez", "affaissaient"],
+        "ind.ps": ["affaissai", "affaissas", "affaissa", "affaissâmes", "affaissâtes", "affaissèrent"],
+        "ind.fut": ["affaisserai", "affaisseras", "affaissera", "affaisserons", "affaisserez", "affaisseront"],
+        "cond.pres": ["affaisserais", "affaisserais", "affaisserait", "affaisserions", "affaisseriez", "affaisseraient"],
+        "subj.pres": ["affaisse", "affaisses", "affaisse", "affaissions", "affaissiez", "affaissent"],
+        "subj.imp": ["affaissasse", "affaissasses", "affaissât", "affaissassions", "affaissassiez", "affaissassent"],
+        "imper.pres": ["affaisse", "affaissons", "affaissez"]
+      },
+      "participe_present": "affaissant",
+      "participe_passe": ["affaissé", "affaissée", "affaissés", "affaissées"]
     }
   ]
 }
