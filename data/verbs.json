@@ -17968,6 +17968,25 @@
       },
       "participe_present": "fusillant",
       "participe_passe": ["fusillé", "fusillée", "fusillés", "fusillées"]
+    },
+    {
+      "id": "ronfler",
+      "infinitif": "ronfler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « ronflé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["ronfle", "ronfles", "ronfle", "ronflons", "ronflez", "ronflent"],
+        "ind.imp": ["ronflais", "ronflais", "ronflait", "ronflions", "ronfliez", "ronflaient"],
+        "ind.ps": ["ronflai", "ronflas", "ronfla", "ronflâmes", "ronflâtes", "ronflèrent"],
+        "ind.fut": ["ronflerai", "ronfleras", "ronflera", "ronflerons", "ronflerez", "ronfleront"],
+        "cond.pres": ["ronflerais", "ronflerais", "ronflerait", "ronflerions", "ronfleriez", "ronfleraient"],
+        "subj.pres": ["ronfle", "ronfles", "ronfle", "ronflions", "ronfliez", "ronflent"],
+        "subj.imp": ["ronflasse", "ronflasses", "ronflât", "ronflassions", "ronflassiez", "ronflassent"],
+        "imper.pres": ["ronfle", "ronflons", "ronflez"]
+      },
+      "participe_present": "ronflant",
+      "participe_passe": ["ronflé", null, null, null]
     }
   ]
 }
