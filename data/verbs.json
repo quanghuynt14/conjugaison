@@ -16350,6 +16350,24 @@
       },
       "participe_present": "enchaînant",
       "participe_passe": ["enchaîné", "enchaînée", "enchaînés", "enchaînées"]
+    },
+    {
+      "id": "négliger",
+      "infinitif": "négliger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["néglige", "négliges", "néglige", "négligeons", "négligez", "négligent"],
+        "ind.imp": ["négligeais", "négligeais", "négligeait", "négligions", "négligiez", "négligeaient"],
+        "ind.ps": ["négligeai", "négligeas", "négligea", "négligeâmes", "négligeâtes", "négligèrent"],
+        "ind.fut": ["négligerai", "négligeras", "négligera", "négligerons", "négligerez", "négligeront"],
+        "cond.pres": ["négligerais", "négligerais", "négligerait", "négligerions", "négligeriez", "négligeraient"],
+        "subj.pres": ["néglige", "négliges", "néglige", "négligions", "négligiez", "négligent"],
+        "subj.imp": ["négligeasse", "négligeasses", "négligeât", "négligeassions", "négligeassiez", "négligeassent"],
+        "imper.pres": ["néglige", "négligeons", "négligez"]
+      },
+      "participe_present": "négligeant",
+      "participe_passe": ["négligé", "négligée", "négligés", "négligées"]
     }
   ]
 }
