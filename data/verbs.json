@@ -19652,6 +19652,24 @@
       },
       "participe_present": "forgeant",
       "participe_passe": ["forgé", "forgée", "forgés", "forgées"]
+    },
+    {
+      "id": "épier",
+      "infinitif": "épier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["épie", "épies", "épie", "épions", "épiez", "épient"],
+        "ind.imp": ["épiais", "épiais", "épiait", "épiions", "épiiez", "épiaient"],
+        "ind.ps": ["épiai", "épias", "épia", "épiâmes", "épiâtes", "épièrent"],
+        "ind.fut": ["épierai", "épieras", "épiera", "épierons", "épierez", "épieront"],
+        "cond.pres": ["épierais", "épierais", "épierait", "épierions", "épieriez", "épieraient"],
+        "subj.pres": ["épie", "épies", "épie", "épiions", "épiiez", "épient"],
+        "subj.imp": ["épiasse", "épiasses", "épiât", "épiassions", "épiassiez", "épiassent"],
+        "imper.pres": ["épie", "épions", "épiez"]
+      },
+      "participe_present": "épiant",
+      "participe_passe": ["épié", "épiée", "épiés", "épiées"]
     }
   ]
 }
