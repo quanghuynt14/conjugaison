@@ -1458,6 +1458,24 @@
       },
       "participe_present": "occupant",
       "participe_passe": ["occupé", "occupée", "occupés", "occupées"]
+    },
+    {
+      "id": "tourner",
+      "infinitif": "tourner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tourne", "tournes", "tourne", "tournons", "tournez", "tournent"],
+        "ind.imp": ["tournais", "tournais", "tournait", "tournions", "tourniez", "tournaient"],
+        "ind.ps": ["tournai", "tournas", "tourna", "tournâmes", "tournâtes", "tournèrent"],
+        "ind.fut": ["tournerai", "tourneras", "tournera", "tournerons", "tournerez", "tourneront"],
+        "cond.pres": ["tournerais", "tournerais", "tournerait", "tournerions", "tourneriez", "tourneraient"],
+        "subj.pres": ["tourne", "tournes", "tourne", "tournions", "tourniez", "tournent"],
+        "subj.imp": ["tournasse", "tournasses", "tournât", "tournassions", "tournassiez", "tournassent"],
+        "imper.pres": ["tourne", "tournons", "tournez"]
+      },
+      "participe_present": "tournant",
+      "participe_passe": ["tourné", "tournée", "tournés", "tournées"]
     }
   ]
 }
