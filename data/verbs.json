@@ -26479,6 +26479,24 @@
       },
       "participe_present": "affaissant",
       "participe_passe": ["affaissé", "affaissée", "affaissés", "affaissées"]
+    },
+    {
+      "id": "conjurer",
+      "infinitif": "conjurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conjure", "conjures", "conjure", "conjurons", "conjurez", "conjurent"],
+        "ind.imp": ["conjurais", "conjurais", "conjurait", "conjurions", "conjuriez", "conjuraient"],
+        "ind.ps": ["conjurai", "conjuras", "conjura", "conjurâmes", "conjurâtes", "conjurèrent"],
+        "ind.fut": ["conjurerai", "conjureras", "conjurera", "conjurerons", "conjurerez", "conjureront"],
+        "cond.pres": ["conjurerais", "conjurerais", "conjurerait", "conjurerions", "conjureriez", "conjureraient"],
+        "subj.pres": ["conjure", "conjures", "conjure", "conjurions", "conjuriez", "conjurent"],
+        "subj.imp": ["conjurasse", "conjurasses", "conjurât", "conjurassions", "conjurassiez", "conjurassent"],
+        "imper.pres": ["conjure", "conjurons", "conjurez"]
+      },
+      "participe_present": "conjurant",
+      "participe_passe": ["conjuré", "conjurée", "conjurés", "conjurées"]
     }
   ]
 }
