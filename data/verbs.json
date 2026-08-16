@@ -20218,6 +20218,25 @@
       },
       "participe_present": "naviguant",
       "participe_passe": ["navigué", null, null, null]
+    },
+    {
+      "id": "merder",
+      "infinitif": "merder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « merdé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["merde", "merdes", "merde", "merdons", "merdez", "merdent"],
+        "ind.imp": ["merdais", "merdais", "merdait", "merdions", "merdiez", "merdaient"],
+        "ind.ps": ["merdai", "merdas", "merda", "merdâmes", "merdâtes", "merdèrent"],
+        "ind.fut": ["merderai", "merderas", "merdera", "merderons", "merderez", "merderont"],
+        "cond.pres": ["merderais", "merderais", "merderait", "merderions", "merderiez", "merderaient"],
+        "subj.pres": ["merde", "merdes", "merde", "merdions", "merdiez", "merdent"],
+        "subj.imp": ["merdasse", "merdasses", "merdât", "merdassions", "merdassiez", "merdassent"],
+        "imper.pres": ["merde", "merdons", "merdez"]
+      },
+      "participe_present": "merdant",
+      "participe_passe": ["merdé", null, null, null]
     }
   ]
 }
