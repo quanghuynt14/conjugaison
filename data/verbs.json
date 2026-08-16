@@ -4685,6 +4685,24 @@
       },
       "participe_present": "doutant",
       "participe_passe": ["douté", null, null, null]
+    },
+    {
+      "id": "regretter",
+      "infinitif": "regretter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["regrette", "regrettes", "regrette", "regrettons", "regrettez", "regrettent"],
+        "ind.imp": ["regrettais", "regrettais", "regrettait", "regrettions", "regrettiez", "regrettaient"],
+        "ind.ps": ["regrettai", "regrettas", "regretta", "regrettâmes", "regrettâtes", "regrettèrent"],
+        "ind.fut": ["regretterai", "regretteras", "regrettera", "regretterons", "regretterez", "regretteront"],
+        "cond.pres": ["regretterais", "regretterais", "regretterait", "regretterions", "regretteriez", "regretteraient"],
+        "subj.pres": ["regrette", "regrettes", "regrette", "regrettions", "regrettiez", "regrettent"],
+        "subj.imp": ["regrettasse", "regrettasses", "regrettât", "regrettassions", "regrettassiez", "regrettassent"],
+        "imper.pres": ["regrette", "regrettons", "regrettez"]
+      },
+      "participe_present": "regrettant",
+      "participe_passe": ["regretté", "regrettée", "regrettés", "regrettées"]
     }
   ]
 }
