@@ -9628,6 +9628,24 @@
       },
       "participe_present": "bénissant",
       "participe_passe": ["béni", "bénie", "bénis", "bénies"]
+    },
+    {
+      "id": "débrouiller",
+      "infinitif": "débrouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["débrouille", "débrouilles", "débrouille", "débrouillons", "débrouillez", "débrouillent"],
+        "ind.imp": ["débrouillais", "débrouillais", "débrouillait", "débrouillions", "débrouilliez", "débrouillaient"],
+        "ind.ps": ["débrouillai", "débrouillas", "débrouilla", "débrouillâmes", "débrouillâtes", "débrouillèrent"],
+        "ind.fut": ["débrouillerai", "débrouilleras", "débrouillera", "débrouillerons", "débrouillerez", "débrouilleront"],
+        "cond.pres": ["débrouillerais", "débrouillerais", "débrouillerait", "débrouillerions", "débrouilleriez", "débrouilleraient"],
+        "subj.pres": ["débrouille", "débrouilles", "débrouille", "débrouillions", "débrouilliez", "débrouillent"],
+        "subj.imp": ["débrouillasse", "débrouillasses", "débrouillât", "débrouillassions", "débrouillassiez", "débrouillassent"],
+        "imper.pres": ["débrouille", "débrouillons", "débrouillez"]
+      },
+      "participe_present": "débrouillant",
+      "participe_passe": ["débrouillé", "débrouillée", "débrouillés", "débrouillées"]
     }
   ]
 }
