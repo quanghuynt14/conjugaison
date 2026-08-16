@@ -34303,6 +34303,24 @@
       },
       "participe_present": "gazant",
       "participe_passe": ["gazé", "gazée", "gazés", "gazées"]
+    },
+    {
+      "id": "reformer",
+      "infinitif": "reformer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reforme", "reformes", "reforme", "reformons", "reformez", "reforment"],
+        "ind.imp": ["reformais", "reformais", "reformait", "reformions", "reformiez", "reformaient"],
+        "ind.ps": ["reformai", "reformas", "reforma", "reformâmes", "reformâtes", "reformèrent"],
+        "ind.fut": ["reformerai", "reformeras", "reformera", "reformerons", "reformerez", "reformeront"],
+        "cond.pres": ["reformerais", "reformerais", "reformerait", "reformerions", "reformeriez", "reformeraient"],
+        "subj.pres": ["reforme", "reformes", "reforme", "reformions", "reformiez", "reforment"],
+        "subj.imp": ["reformasse", "reformasses", "reformât", "reformassions", "reformassiez", "reformassent"],
+        "imper.pres": ["reforme", "reformons", "reformez"]
+      },
+      "participe_present": "reformant",
+      "participe_passe": ["reformé", "reformée", "reformés", "reformées"]
     }
   ]
 }
