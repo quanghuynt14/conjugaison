@@ -1278,6 +1278,24 @@
       },
       "participe_present": "écrivant",
       "participe_passe": ["écrit", "écrite", "écrits", "écrites"]
+    },
+    {
+      "id": "apprendre",
+      "infinitif": "apprendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["apprends", "apprends", "apprend", "apprenons", "apprenez", "apprennent"],
+        "ind.imp": ["apprenais", "apprenais", "apprenait", "apprenions", "appreniez", "apprenaient"],
+        "ind.ps": ["appris", "appris", "apprit", "apprîmes", "apprîtes", "apprirent"],
+        "ind.fut": ["apprendrai", "apprendras", "apprendra", "apprendrons", "apprendrez", "apprendront"],
+        "cond.pres": ["apprendrais", "apprendrais", "apprendrait", "apprendrions", "apprendriez", "apprendraient"],
+        "subj.pres": ["apprenne", "apprennes", "apprenne", "apprenions", "appreniez", "apprennent"],
+        "subj.imp": ["apprisse", "apprisses", "apprît", "apprissions", "apprissiez", "apprissent"],
+        "imper.pres": ["apprends", "apprenons", "apprenez"]
+      },
+      "participe_present": "apprenant",
+      "participe_passe": ["appris", "apprise", "appris", "apprises"]
     }
   ]
 }
