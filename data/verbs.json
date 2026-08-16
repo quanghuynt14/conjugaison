@@ -14301,6 +14301,24 @@
       },
       "participe_present": "figeant",
       "participe_passe": ["figé", "figée", "figés", "figées"]
+    },
+    {
+      "id": "déboucher",
+      "infinitif": "déboucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["débouche", "débouches", "débouche", "débouchons", "débouchez", "débouchent"],
+        "ind.imp": ["débouchais", "débouchais", "débouchait", "débouchions", "débouchiez", "débouchaient"],
+        "ind.ps": ["débouchai", "débouchas", "déboucha", "débouchâmes", "débouchâtes", "débouchèrent"],
+        "ind.fut": ["déboucherai", "déboucheras", "débouchera", "déboucherons", "déboucherez", "déboucheront"],
+        "cond.pres": ["déboucherais", "déboucherais", "déboucherait", "déboucherions", "déboucheriez", "déboucheraient"],
+        "subj.pres": ["débouche", "débouches", "débouche", "débouchions", "débouchiez", "débouchent"],
+        "subj.imp": ["débouchasse", "débouchasses", "débouchât", "débouchassions", "débouchassiez", "débouchassent"],
+        "imper.pres": ["débouche", "débouchons", "débouchez"]
+      },
+      "participe_present": "débouchant",
+      "participe_passe": ["débouché", "débouchée", "débouchés", "débouchées"]
     }
   ]
 }
