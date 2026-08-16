@@ -35713,6 +35713,24 @@
       },
       "participe_present": "démangeant",
       "participe_passe": ["démangé", "démangée", "démangés", "démangées"]
+    },
+    {
+      "id": "empester",
+      "infinitif": "empester",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["empeste", "empestes", "empeste", "empestons", "empestez", "empestent"],
+        "ind.imp": ["empestais", "empestais", "empestait", "empestions", "empestiez", "empestaient"],
+        "ind.ps": ["empestai", "empestas", "empesta", "empestâmes", "empestâtes", "empestèrent"],
+        "ind.fut": ["empesterai", "empesteras", "empestera", "empesterons", "empesterez", "empesteront"],
+        "cond.pres": ["empesterais", "empesterais", "empesterait", "empesterions", "empesteriez", "empesteraient"],
+        "subj.pres": ["empeste", "empestes", "empeste", "empestions", "empestiez", "empestent"],
+        "subj.imp": ["empestasse", "empestasses", "empestât", "empestassions", "empestassiez", "empestassent"],
+        "imper.pres": ["empeste", "empestons", "empestez"]
+      },
+      "participe_present": "empestant",
+      "participe_passe": ["empesté", "empestée", "empestés", "empestées"]
     }
   ]
 }
