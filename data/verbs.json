@@ -17349,6 +17349,24 @@
       },
       "participe_present": "émettant",
       "participe_passe": ["émis", "émise", "émis", "émises"]
+    },
+    {
+      "id": "hanter",
+      "infinitif": "hanter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["hante", "hantes", "hante", "hantons", "hantez", "hantent"],
+        "ind.imp": ["hantais", "hantais", "hantait", "hantions", "hantiez", "hantaient"],
+        "ind.ps": ["hantai", "hantas", "hanta", "hantâmes", "hantâtes", "hantèrent"],
+        "ind.fut": ["hanterai", "hanteras", "hantera", "hanterons", "hanterez", "hanteront"],
+        "cond.pres": ["hanterais", "hanterais", "hanterait", "hanterions", "hanteriez", "hanteraient"],
+        "subj.pres": ["hante", "hantes", "hante", "hantions", "hantiez", "hantent"],
+        "subj.imp": ["hantasse", "hantasses", "hantât", "hantassions", "hantassiez", "hantassent"],
+        "imper.pres": ["hante", "hantons", "hantez"]
+      },
+      "participe_present": "hantant",
+      "participe_passe": ["hanté", "hantée", "hantés", "hantées"]
     }
   ]
 }
