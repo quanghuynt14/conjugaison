@@ -19506,6 +19506,24 @@
       },
       "participe_present": "facilitant",
       "participe_passe": ["facilité", "facilitée", "facilités", "facilitées"]
+    },
+    {
+      "id": "pressentir",
+      "infinitif": "pressentir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pressens", "pressens", "pressent", "pressentons", "pressentez", "pressentent"],
+        "ind.imp": ["pressentais", "pressentais", "pressentait", "pressentions", "pressentiez", "pressentaient"],
+        "ind.ps": ["pressentis", "pressentis", "pressentit", "pressentîmes", "pressentîtes", "pressentirent"],
+        "ind.fut": ["pressentirai", "pressentiras", "pressentira", "pressentirons", "pressentirez", "pressentiront"],
+        "cond.pres": ["pressentirais", "pressentirais", "pressentirait", "pressentirions", "pressentiriez", "pressentiraient"],
+        "subj.pres": ["pressente", "pressentes", "pressente", "pressentions", "pressentiez", "pressentent"],
+        "subj.imp": ["pressentisse", "pressentisses", "pressentît", "pressentissions", "pressentissiez", "pressentissent"],
+        "imper.pres": ["pressens", "pressentons", "pressentez"]
+      },
+      "participe_present": "pressentant",
+      "participe_passe": ["pressenti", "pressentie", "pressentis", "pressenties"]
     }
   ]
 }
