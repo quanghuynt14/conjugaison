@@ -3782,6 +3782,24 @@
       },
       "participe_present": "protégeant",
       "participe_passe": ["protégé", "protégée", "protégés", "protégées"]
+    },
+    {
+      "id": "risquer",
+      "infinitif": "risquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["risque", "risques", "risque", "risquons", "risquez", "risquent"],
+        "ind.imp": ["risquais", "risquais", "risquait", "risquions", "risquiez", "risquaient"],
+        "ind.ps": ["risquai", "risquas", "risqua", "risquâmes", "risquâtes", "risquèrent"],
+        "ind.fut": ["risquerai", "risqueras", "risquera", "risquerons", "risquerez", "risqueront"],
+        "cond.pres": ["risquerais", "risquerais", "risquerait", "risquerions", "risqueriez", "risqueraient"],
+        "subj.pres": ["risque", "risques", "risque", "risquions", "risquiez", "risquent"],
+        "subj.imp": ["risquasse", "risquasses", "risquât", "risquassions", "risquassiez", "risquassent"],
+        "imper.pres": ["risque", "risquons", "risquez"]
+      },
+      "participe_present": "risquant",
+      "participe_passe": ["risqué", "risquée", "risqués", "risquées"]
     }
   ]
 }
