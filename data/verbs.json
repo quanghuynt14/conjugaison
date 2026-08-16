@@ -14209,6 +14209,25 @@
       },
       "participe_present": "acquérant",
       "participe_passe": ["acquis", "acquise", "acquis", "acquises"]
+    },
+    {
+      "id": "grouiller",
+      "infinitif": "grouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « grouillé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["grouille", "grouilles", "grouille", "grouillons", "grouillez", "grouillent"],
+        "ind.imp": ["grouillais", "grouillais", "grouillait", "grouillions", "grouilliez", "grouillaient"],
+        "ind.ps": ["grouillai", "grouillas", "grouilla", "grouillâmes", "grouillâtes", "grouillèrent"],
+        "ind.fut": ["grouillerai", "grouilleras", "grouillera", "grouillerons", "grouillerez", "grouilleront"],
+        "cond.pres": ["grouillerais", "grouillerais", "grouillerait", "grouillerions", "grouilleriez", "grouilleraient"],
+        "subj.pres": ["grouille", "grouilles", "grouille", "grouillions", "grouilliez", "grouillent"],
+        "subj.imp": ["grouillasse", "grouillasses", "grouillât", "grouillassions", "grouillassiez", "grouillassent"],
+        "imper.pres": ["grouille", "grouillons", "grouillez"]
+      },
+      "participe_present": "grouillant",
+      "participe_passe": ["grouillé", null, null, null]
     }
   ]
 }
