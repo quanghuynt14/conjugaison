@@ -35804,6 +35804,24 @@
       },
       "participe_present": "amochant",
       "participe_passe": ["amoché", "amochée", "amochés", "amochées"]
+    },
+    {
+      "id": "effilocher",
+      "infinitif": "effilocher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["effiloche", "effiloches", "effiloche", "effilochons", "effilochez", "effilochent"],
+        "ind.imp": ["effilochais", "effilochais", "effilochait", "effilochions", "effilochiez", "effilochaient"],
+        "ind.ps": ["effilochai", "effilochas", "effilocha", "effilochâmes", "effilochâtes", "effilochèrent"],
+        "ind.fut": ["effilocherai", "effilocheras", "effilochera", "effilocherons", "effilocherez", "effilocheront"],
+        "cond.pres": ["effilocherais", "effilocherais", "effilocherait", "effilocherions", "effilocheriez", "effilocheraient"],
+        "subj.pres": ["effiloche", "effiloches", "effiloche", "effilochions", "effilochiez", "effilochent"],
+        "subj.imp": ["effilochasse", "effilochasses", "effilochât", "effilochassions", "effilochassiez", "effilochassent"],
+        "imper.pres": ["effiloche", "effilochons", "effilochez"]
+      },
+      "participe_present": "effilochant",
+      "participe_passe": ["effiloché", "effilochée", "effilochés", "effilochées"]
     }
   ]
 }
