@@ -12701,6 +12701,24 @@
       },
       "participe_present": "gémissant",
       "participe_passe": ["gémi", "gémie", "gémis", "gémies"]
+    },
+    {
+      "id": "sacrifier",
+      "infinitif": "sacrifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sacrifie", "sacrifies", "sacrifie", "sacrifions", "sacrifiez", "sacrifient"],
+        "ind.imp": ["sacrifiais", "sacrifiais", "sacrifiait", "sacrifiions", "sacrifiiez", "sacrifiaient"],
+        "ind.ps": ["sacrifiai", "sacrifias", "sacrifia", "sacrifiâmes", "sacrifiâtes", "sacrifièrent"],
+        "ind.fut": ["sacrifierai", "sacrifieras", "sacrifiera", "sacrifierons", "sacrifierez", "sacrifieront"],
+        "cond.pres": ["sacrifierais", "sacrifierais", "sacrifierait", "sacrifierions", "sacrifieriez", "sacrifieraient"],
+        "subj.pres": ["sacrifie", "sacrifies", "sacrifie", "sacrifiions", "sacrifiiez", "sacrifient"],
+        "subj.imp": ["sacrifiasse", "sacrifiasses", "sacrifiât", "sacrifiassions", "sacrifiassiez", "sacrifiassent"],
+        "imper.pres": ["sacrifie", "sacrifions", "sacrifiez"]
+      },
+      "participe_present": "sacrifiant",
+      "participe_passe": ["sacrifié", "sacrifiée", "sacrifiés", "sacrifiées"]
     }
   ]
 }
