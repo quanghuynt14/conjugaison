@@ -12428,6 +12428,24 @@
       },
       "participe_present": "bouclant",
       "participe_passe": ["bouclé", "bouclée", "bouclés", "bouclées"]
+    },
+    {
+      "id": "tremper",
+      "infinitif": "tremper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trempe", "trempes", "trempe", "trempons", "trempez", "trempent"],
+        "ind.imp": ["trempais", "trempais", "trempait", "trempions", "trempiez", "trempaient"],
+        "ind.ps": ["trempai", "trempas", "trempa", "trempâmes", "trempâtes", "trempèrent"],
+        "ind.fut": ["tremperai", "tremperas", "trempera", "tremperons", "tremperez", "tremperont"],
+        "cond.pres": ["tremperais", "tremperais", "tremperait", "tremperions", "tremperiez", "tremperaient"],
+        "subj.pres": ["trempe", "trempes", "trempe", "trempions", "trempiez", "trempent"],
+        "subj.imp": ["trempasse", "trempasses", "trempât", "trempassions", "trempassiez", "trempassent"],
+        "imper.pres": ["trempe", "trempons", "trempez"]
+      },
+      "participe_present": "trempant",
+      "participe_passe": ["trempé", "trempée", "trempés", "trempées"]
     }
   ]
 }
