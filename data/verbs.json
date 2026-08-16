@@ -4992,6 +4992,24 @@
       },
       "participe_present": "fuyant",
       "participe_passe": ["fui", "fuie", "fuis", "fuies"]
+    },
+    {
+      "id": "juger",
+      "infinitif": "juger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["juge", "juges", "juge", "jugeons", "jugez", "jugent"],
+        "ind.imp": ["jugeais", "jugeais", "jugeait", "jugions", "jugiez", "jugeaient"],
+        "ind.ps": ["jugeai", "jugeas", "jugea", "jugeâmes", "jugeâtes", "jugèrent"],
+        "ind.fut": ["jugerai", "jugeras", "jugera", "jugerons", "jugerez", "jugeront"],
+        "cond.pres": ["jugerais", "jugerais", "jugerait", "jugerions", "jugeriez", "jugeraient"],
+        "subj.pres": ["juge", "juges", "juge", "jugions", "jugiez", "jugent"],
+        "subj.imp": ["jugeasse", "jugeasses", "jugeât", "jugeassions", "jugeassiez", "jugeassent"],
+        "imper.pres": ["juge", "jugeons", "jugez"]
+      },
+      "participe_present": "jugeant",
+      "participe_passe": ["jugé", "jugée", "jugés", "jugées"]
     }
   ]
 }
