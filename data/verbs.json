@@ -20602,6 +20602,24 @@
       },
       "participe_present": "harcelant",
       "participe_passe": ["harcelé", "harcelée", "harcelés", "harcelées"]
+    },
+    {
+      "id": "rafraîchir",
+      "infinitif": "rafraîchir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rafraîchis", "rafraîchis", "rafraîchit", "rafraîchissons", "rafraîchissez", "rafraîchissent"],
+        "ind.imp": ["rafraîchissais", "rafraîchissais", "rafraîchissait", "rafraîchissions", "rafraîchissiez", "rafraîchissaient"],
+        "ind.ps": ["rafraîchis", "rafraîchis", "rafraîchit", "rafraîchîmes", "rafraîchîtes", "rafraîchirent"],
+        "ind.fut": ["rafraîchirai", "rafraîchiras", "rafraîchira", "rafraîchirons", "rafraîchirez", "rafraîchiront"],
+        "cond.pres": ["rafraîchirais", "rafraîchirais", "rafraîchirait", "rafraîchirions", "rafraîchiriez", "rafraîchiraient"],
+        "subj.pres": ["rafraîchisse", "rafraîchisses", "rafraîchisse", "rafraîchissions", "rafraîchissiez", "rafraîchissent"],
+        "subj.imp": ["rafraîchisse", "rafraîchisses", "rafraîchît", "rafraîchissions", "rafraîchissiez", "rafraîchissent"],
+        "imper.pres": ["rafraîchis", "rafraîchissons", "rafraîchissez"]
+      },
+      "participe_present": "rafraîchissant",
+      "participe_passe": ["rafraîchi", "rafraîchie", "rafraîchis", "rafraîchies"]
     }
   ]
 }
