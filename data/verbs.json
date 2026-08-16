@@ -35768,6 +35768,24 @@
       },
       "participe_present": "rehaussant",
       "participe_passe": ["rehaussé", "rehaussée", "rehaussés", "rehaussées"]
+    },
+    {
+      "id": "ressasser",
+      "infinitif": "ressasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ressasse", "ressasses", "ressasse", "ressassons", "ressassez", "ressassent"],
+        "ind.imp": ["ressassais", "ressassais", "ressassait", "ressassions", "ressassiez", "ressassaient"],
+        "ind.ps": ["ressassai", "ressassas", "ressassa", "ressassâmes", "ressassâtes", "ressassèrent"],
+        "ind.fut": ["ressasserai", "ressasseras", "ressassera", "ressasserons", "ressasserez", "ressasseront"],
+        "cond.pres": ["ressasserais", "ressasserais", "ressasserait", "ressasserions", "ressasseriez", "ressasseraient"],
+        "subj.pres": ["ressasse", "ressasses", "ressasse", "ressassions", "ressassiez", "ressassent"],
+        "subj.imp": ["ressassasse", "ressassasses", "ressassât", "ressassassions", "ressassassiez", "ressassassent"],
+        "imper.pres": ["ressasse", "ressassons", "ressassez"]
+      },
+      "participe_present": "ressassant",
+      "participe_passe": ["ressassé", "ressassée", "ressassés", "ressassées"]
     }
   ]
 }
