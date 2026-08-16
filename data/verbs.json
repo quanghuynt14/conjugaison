@@ -14916,6 +14916,24 @@
       },
       "participe_present": "débattant",
       "participe_passe": ["débattu", "débattue", "débattus", "débattues"]
+    },
+    {
+      "id": "relâcher",
+      "infinitif": "relâcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["relâche", "relâches", "relâche", "relâchons", "relâchez", "relâchent"],
+        "ind.imp": ["relâchais", "relâchais", "relâchait", "relâchions", "relâchiez", "relâchaient"],
+        "ind.ps": ["relâchai", "relâchas", "relâcha", "relâchâmes", "relâchâtes", "relâchèrent"],
+        "ind.fut": ["relâcherai", "relâcheras", "relâchera", "relâcherons", "relâcherez", "relâcheront"],
+        "cond.pres": ["relâcherais", "relâcherais", "relâcherait", "relâcherions", "relâcheriez", "relâcheraient"],
+        "subj.pres": ["relâche", "relâches", "relâche", "relâchions", "relâchiez", "relâchent"],
+        "subj.imp": ["relâchasse", "relâchasses", "relâchât", "relâchassions", "relâchassiez", "relâchassent"],
+        "imper.pres": ["relâche", "relâchons", "relâchez"]
+      },
+      "participe_present": "relâchant",
+      "participe_passe": ["relâché", "relâchée", "relâchés", "relâchées"]
     }
   ]
 }
