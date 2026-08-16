@@ -9990,6 +9990,24 @@
       },
       "participe_present": "pointant",
       "participe_passe": ["pointé", "pointée", "pointés", "pointées"]
+    },
+    {
+      "id": "renverser",
+      "infinitif": "renverser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["renverse", "renverses", "renverse", "renversons", "renversez", "renversent"],
+        "ind.imp": ["renversais", "renversais", "renversait", "renversions", "renversiez", "renversaient"],
+        "ind.ps": ["renversai", "renversas", "renversa", "renversâmes", "renversâtes", "renversèrent"],
+        "ind.fut": ["renverserai", "renverseras", "renversera", "renverserons", "renverserez", "renverseront"],
+        "cond.pres": ["renverserais", "renverserais", "renverserait", "renverserions", "renverseriez", "renverseraient"],
+        "subj.pres": ["renverse", "renverses", "renverse", "renversions", "renversiez", "renversent"],
+        "subj.imp": ["renversasse", "renversasses", "renversât", "renversassions", "renversassiez", "renversassent"],
+        "imper.pres": ["renverse", "renversons", "renversez"]
+      },
+      "participe_present": "renversant",
+      "participe_passe": ["renversé", "renversée", "renversés", "renversées"]
     }
   ]
 }
