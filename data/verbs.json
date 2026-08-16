@@ -2605,6 +2605,24 @@
       },
       "participe_present": "présentant",
       "participe_passe": ["présenté", "présentée", "présentés", "présentées"]
+    },
+    {
+      "id": "vendre",
+      "infinitif": "vendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vends", "vends", "vend", "vendons", "vendez", "vendent"],
+        "ind.imp": ["vendais", "vendais", "vendait", "vendions", "vendiez", "vendaient"],
+        "ind.ps": ["vendis", "vendis", "vendit", "vendîmes", "vendîtes", "vendirent"],
+        "ind.fut": ["vendrai", "vendras", "vendra", "vendrons", "vendrez", "vendront"],
+        "cond.pres": ["vendrais", "vendrais", "vendrait", "vendrions", "vendriez", "vendraient"],
+        "subj.pres": ["vende", "vendes", "vende", "vendions", "vendiez", "vendent"],
+        "subj.imp": ["vendisse", "vendisses", "vendît", "vendissions", "vendissiez", "vendissent"],
+        "imper.pres": ["vends", "vendons", "vendez"]
+      },
+      "participe_present": "vendant",
+      "participe_passe": ["vendu", "vendue", "vendus", "vendues"]
     }
   ]
 }
