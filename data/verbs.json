@@ -16549,6 +16549,24 @@
       },
       "participe_present": "cernant",
       "participe_passe": ["cerné", "cernée", "cernés", "cernées"]
+    },
+    {
+      "id": "décorer",
+      "infinitif": "décorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décore", "décores", "décore", "décorons", "décorez", "décorent"],
+        "ind.imp": ["décorais", "décorais", "décorait", "décorions", "décoriez", "décoraient"],
+        "ind.ps": ["décorai", "décoras", "décora", "décorâmes", "décorâtes", "décorèrent"],
+        "ind.fut": ["décorerai", "décoreras", "décorera", "décorerons", "décorerez", "décoreront"],
+        "cond.pres": ["décorerais", "décorerais", "décorerait", "décorerions", "décoreriez", "décoreraient"],
+        "subj.pres": ["décore", "décores", "décore", "décorions", "décoriez", "décorent"],
+        "subj.imp": ["décorasse", "décorasses", "décorât", "décorassions", "décorassiez", "décorassent"],
+        "imper.pres": ["décore", "décorons", "décorez"]
+      },
+      "participe_present": "décorant",
+      "participe_passe": ["décoré", "décorée", "décorés", "décorées"]
     }
   ]
 }
