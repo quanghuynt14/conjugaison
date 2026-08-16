@@ -24769,6 +24769,25 @@
       },
       "participe_present": "dénichant",
       "participe_passe": ["déniché", "dénichée", "dénichés", "dénichées"]
+    },
+    {
+      "id": "officier",
+      "infinitif": "officier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « officié » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["officie", "officies", "officie", "officions", "officiez", "officient"],
+        "ind.imp": ["officiais", "officiais", "officiait", "officiions", "officiiez", "officiaient"],
+        "ind.ps": ["officiai", "officias", "officia", "officiâmes", "officiâtes", "officièrent"],
+        "ind.fut": ["officierai", "officieras", "officiera", "officierons", "officierez", "officieront"],
+        "cond.pres": ["officierais", "officierais", "officierait", "officierions", "officieriez", "officieraient"],
+        "subj.pres": ["officie", "officies", "officie", "officiions", "officiiez", "officient"],
+        "subj.imp": ["officiasse", "officiasses", "officiât", "officiassions", "officiassiez", "officiassent"],
+        "imper.pres": ["officie", "officions", "officiez"]
+      },
+      "participe_present": "officiant",
+      "participe_passe": ["officié", null, null, null]
     }
   ]
 }
