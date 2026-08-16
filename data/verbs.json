@@ -20638,6 +20638,24 @@
       },
       "participe_present": "alertant",
       "participe_passe": ["alerté", "alertée", "alertés", "alertées"]
+    },
+    {
+      "id": "régaler",
+      "infinitif": "régaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["régale", "régales", "régale", "régalons", "régalez", "régalent"],
+        "ind.imp": ["régalais", "régalais", "régalait", "régalions", "régaliez", "régalaient"],
+        "ind.ps": ["régalai", "régalas", "régala", "régalâmes", "régalâtes", "régalèrent"],
+        "ind.fut": ["régalerai", "régaleras", "régalera", "régalerons", "régalerez", "régaleront"],
+        "cond.pres": ["régalerais", "régalerais", "régalerait", "régalerions", "régaleriez", "régaleraient"],
+        "subj.pres": ["régale", "régales", "régale", "régalions", "régaliez", "régalent"],
+        "subj.imp": ["régalasse", "régalasses", "régalât", "régalassions", "régalassiez", "régalassent"],
+        "imper.pres": ["régale", "régalons", "régalez"]
+      },
+      "participe_present": "régalant",
+      "participe_passe": ["régalé", "régalée", "régalés", "régalées"]
     }
   ]
 }
