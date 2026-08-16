@@ -32483,6 +32483,26 @@
       },
       "participe_present": "amarrant",
       "participe_passe": ["amarré", "amarrée", "amarrés", "amarrées"]
+    },
+    {
+      "id": "ébrouer",
+      "infinitif": "ébrouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’ébroue » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["ébroue", "ébroues", "ébroue", "ébrouons", "ébrouez", "ébrouent"],
+        "ind.imp": ["ébrouais", "ébrouais", "ébrouait", "ébrouions", "ébrouiez", "ébrouaient"],
+        "ind.ps": ["ébrouai", "ébrouas", "ébroua", "ébrouâmes", "ébrouâtes", "ébrouèrent"],
+        "ind.fut": ["ébrouerai", "ébroueras", "ébrouera", "ébrouerons", "ébrouerez", "ébroueront"],
+        "cond.pres": ["ébrouerais", "ébrouerais", "ébrouerait", "ébrouerions", "ébroueriez", "ébroueraient"],
+        "subj.pres": ["ébroue", "ébroues", "ébroue", "ébrouions", "ébrouiez", "ébrouent"],
+        "subj.imp": ["ébrouasse", "ébrouasses", "ébrouât", "ébrouassions", "ébrouassiez", "ébrouassent"],
+        "imper.pres": ["ébroue", "ébrouons", "ébrouez"]
+      },
+      "participe_present": "ébrouant",
+      "participe_passe": ["ébroué", "ébrouée", "ébroués", "ébrouées"]
     }
   ]
 }
