@@ -711,6 +711,24 @@
       },
       "participe_present": "tenant",
       "participe_passe": ["tenu", "tenue", "tenus", "tenues"]
+    },
+    {
+      "id": "chercher",
+      "infinitif": "chercher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cherche", "cherches", "cherche", "cherchons", "cherchez", "cherchent"],
+        "ind.imp": ["cherchais", "cherchais", "cherchait", "cherchions", "cherchiez", "cherchaient"],
+        "ind.ps": ["cherchai", "cherchas", "chercha", "cherchâmes", "cherchâtes", "cherchèrent"],
+        "ind.fut": ["chercherai", "chercheras", "cherchera", "chercherons", "chercherez", "chercheront"],
+        "cond.pres": ["chercherais", "chercherais", "chercherait", "chercherions", "chercheriez", "chercheraient"],
+        "subj.pres": ["cherche", "cherches", "cherche", "cherchions", "cherchiez", "cherchent"],
+        "subj.imp": ["cherchasse", "cherchasses", "cherchât", "cherchassions", "cherchassiez", "cherchassent"],
+        "imper.pres": ["cherche", "cherchons", "cherchez"]
+      },
+      "participe_present": "cherchant",
+      "participe_passe": ["cherché", "cherchée", "cherchés", "cherchées"]
     }
   ]
 }
