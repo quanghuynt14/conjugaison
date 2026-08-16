@@ -21186,6 +21186,24 @@
       },
       "participe_present": "manipulant",
       "participe_passe": ["manipulé", "manipulée", "manipulés", "manipulées"]
+    },
+    {
+      "id": "récompenser",
+      "infinitif": "récompenser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["récompense", "récompenses", "récompense", "récompensons", "récompensez", "récompensent"],
+        "ind.imp": ["récompensais", "récompensais", "récompensait", "récompensions", "récompensiez", "récompensaient"],
+        "ind.ps": ["récompensai", "récompensas", "récompensa", "récompensâmes", "récompensâtes", "récompensèrent"],
+        "ind.fut": ["récompenserai", "récompenseras", "récompensera", "récompenserons", "récompenserez", "récompenseront"],
+        "cond.pres": ["récompenserais", "récompenserais", "récompenserait", "récompenserions", "récompenseriez", "récompenseraient"],
+        "subj.pres": ["récompense", "récompenses", "récompense", "récompensions", "récompensiez", "récompensent"],
+        "subj.imp": ["récompensasse", "récompensasses", "récompensât", "récompensassions", "récompensassiez", "récompensassent"],
+        "imper.pres": ["récompense", "récompensons", "récompensez"]
+      },
+      "participe_present": "récompensant",
+      "participe_passe": ["récompensé", "récompensée", "récompensés", "récompensées"]
     }
   ]
 }
