@@ -11771,6 +11771,24 @@
       },
       "participe_present": "taillant",
       "participe_passe": ["taillé", "taillée", "taillés", "taillées"]
+    },
+    {
+      "id": "dérouler",
+      "infinitif": "dérouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déroule", "déroules", "déroule", "déroulons", "déroulez", "déroulent"],
+        "ind.imp": ["déroulais", "déroulais", "déroulait", "déroulions", "dérouliez", "déroulaient"],
+        "ind.ps": ["déroulai", "déroulas", "déroula", "déroulâmes", "déroulâtes", "déroulèrent"],
+        "ind.fut": ["déroulerai", "dérouleras", "déroulera", "déroulerons", "déroulerez", "dérouleront"],
+        "cond.pres": ["déroulerais", "déroulerais", "déroulerait", "déroulerions", "dérouleriez", "dérouleraient"],
+        "subj.pres": ["déroule", "déroules", "déroule", "déroulions", "dérouliez", "déroulent"],
+        "subj.imp": ["déroulasse", "déroulasses", "déroulât", "déroulassions", "déroulassiez", "déroulassent"],
+        "imper.pres": ["déroule", "déroulons", "déroulez"]
+      },
+      "participe_present": "déroulant",
+      "participe_passe": ["déroulé", "déroulée", "déroulés", "déroulées"]
     }
   ]
 }
