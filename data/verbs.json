@@ -24131,6 +24131,26 @@
       },
       "participe_present": "mijotant",
       "participe_passe": ["mijoté", "mijotée", "mijotés", "mijotées"]
+    },
+    {
+      "id": "blottir",
+      "infinitif": "blottir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me blottis » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["blottis", "blottis", "blottit", "blottissons", "blottissez", "blottissent"],
+        "ind.imp": ["blottissais", "blottissais", "blottissait", "blottissions", "blottissiez", "blottissaient"],
+        "ind.ps": ["blottis", "blottis", "blottit", "blottîmes", "blottîtes", "blottirent"],
+        "ind.fut": ["blottirai", "blottiras", "blottira", "blottirons", "blottirez", "blottiront"],
+        "cond.pres": ["blottirais", "blottirais", "blottirait", "blottirions", "blottiriez", "blottiraient"],
+        "subj.pres": ["blottisse", "blottisses", "blottisse", "blottissions", "blottissiez", "blottissent"],
+        "subj.imp": ["blottisse", "blottisses", "blottît", "blottissions", "blottissiez", "blottissent"],
+        "imper.pres": ["blottis", "blottissons", "blottissez"]
+      },
+      "participe_present": "blottissant",
+      "participe_passe": ["blotti", "blottie", "blottis", "blotties"]
     }
   ]
 }
