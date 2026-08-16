@@ -28650,6 +28650,25 @@
       },
       "participe_present": "pétrifiant",
       "participe_passe": ["pétrifié", "pétrifiée", "pétrifiés", "pétrifiées"]
+    },
+    {
+      "id": "alléger",
+      "infinitif": "alléger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’allégerai » ou « j’allègerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["allège", "allèges", "allège", "allégeons", "allégez", "allègent"],
+        "ind.imp": ["allégeais", "allégeais", "allégeait", "allégions", "allégiez", "allégeaient"],
+        "ind.ps": ["allégeai", "allégeas", "allégea", "allégeâmes", "allégeâtes", "allégèrent"],
+        "ind.fut": [["allégerai", "allègerai"], ["allégeras", "allègeras"], ["allégera", "allègera"], ["allégerons", "allègerons"], ["allégerez", "allègerez"], ["allégeront", "allègeront"]],
+        "cond.pres": [["allégerais", "allègerais"], ["allégerais", "allègerais"], ["allégerait", "allègerait"], ["allégerions", "allègerions"], ["allégeriez", "allègeriez"], ["allégeraient", "allègeraient"]],
+        "subj.pres": ["allège", "allèges", "allège", "allégions", "allégiez", "allègent"],
+        "subj.imp": ["allégeasse", "allégeasses", "allégeât", "allégeassions", "allégeassiez", "allégeassent"],
+        "imper.pres": ["allège", "allégeons", "allégez"]
+      },
+      "participe_present": "allégeant",
+      "participe_passe": ["allégé", "allégée", "allégés", "allégées"]
     }
   ]
 }
