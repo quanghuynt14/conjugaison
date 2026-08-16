@@ -35497,6 +35497,24 @@
       },
       "participe_present": "écossant",
       "participe_passe": ["écossé", "écossée", "écossés", "écossées"]
+    },
+    {
+      "id": "brasser",
+      "infinitif": "brasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["brasse", "brasses", "brasse", "brassons", "brassez", "brassent"],
+        "ind.imp": ["brassais", "brassais", "brassait", "brassions", "brassiez", "brassaient"],
+        "ind.ps": ["brassai", "brassas", "brassa", "brassâmes", "brassâtes", "brassèrent"],
+        "ind.fut": ["brasserai", "brasseras", "brassera", "brasserons", "brasserez", "brasseront"],
+        "cond.pres": ["brasserais", "brasserais", "brasserait", "brasserions", "brasseriez", "brasseraient"],
+        "subj.pres": ["brasse", "brasses", "brasse", "brassions", "brassiez", "brassent"],
+        "subj.imp": ["brassasse", "brassasses", "brassât", "brassassions", "brassassiez", "brassassent"],
+        "imper.pres": ["brasse", "brassons", "brassez"]
+      },
+      "participe_present": "brassant",
+      "participe_passe": ["brassé", "brassée", "brassés", "brassées"]
     }
   ]
 }
