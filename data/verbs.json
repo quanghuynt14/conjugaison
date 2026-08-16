@@ -18997,6 +18997,24 @@
       },
       "participe_present": "interprétant",
       "participe_passe": ["interprété", "interprétée", "interprétés", "interprétées"]
+    },
+    {
+      "id": "offenser",
+      "infinitif": "offenser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["offense", "offenses", "offense", "offensons", "offensez", "offensent"],
+        "ind.imp": ["offensais", "offensais", "offensait", "offensions", "offensiez", "offensaient"],
+        "ind.ps": ["offensai", "offensas", "offensa", "offensâmes", "offensâtes", "offensèrent"],
+        "ind.fut": ["offenserai", "offenseras", "offensera", "offenserons", "offenserez", "offenseront"],
+        "cond.pres": ["offenserais", "offenserais", "offenserait", "offenserions", "offenseriez", "offenseraient"],
+        "subj.pres": ["offense", "offenses", "offense", "offensions", "offensiez", "offensent"],
+        "subj.imp": ["offensasse", "offensasses", "offensât", "offensassions", "offensassiez", "offensassent"],
+        "imper.pres": ["offense", "offensons", "offensez"]
+      },
+      "participe_present": "offensant",
+      "participe_passe": ["offensé", "offensée", "offensés", "offensées"]
     }
   ]
 }
