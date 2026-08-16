@@ -29490,6 +29490,25 @@
       },
       "participe_present": "jactant",
       "participe_passe": ["jacté", "jactée", "jactés", "jactées"]
+    },
+    {
+      "id": "cheminer",
+      "infinitif": "cheminer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « cheminé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["chemine", "chemines", "chemine", "cheminons", "cheminez", "cheminent"],
+        "ind.imp": ["cheminais", "cheminais", "cheminait", "cheminions", "cheminiez", "cheminaient"],
+        "ind.ps": ["cheminai", "cheminas", "chemina", "cheminâmes", "cheminâtes", "cheminèrent"],
+        "ind.fut": ["cheminerai", "chemineras", "cheminera", "cheminerons", "cheminerez", "chemineront"],
+        "cond.pres": ["cheminerais", "cheminerais", "cheminerait", "cheminerions", "chemineriez", "chemineraient"],
+        "subj.pres": ["chemine", "chemines", "chemine", "cheminions", "cheminiez", "cheminent"],
+        "subj.imp": ["cheminasse", "cheminasses", "cheminât", "cheminassions", "cheminassiez", "cheminassent"],
+        "imper.pres": ["chemine", "cheminons", "cheminez"]
+      },
+      "participe_present": "cheminant",
+      "participe_passe": ["cheminé", null, null, null]
     }
   ]
 }
