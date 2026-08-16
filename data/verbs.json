@@ -34340,6 +34340,25 @@
       },
       "participe_present": "insérant",
       "participe_passe": ["inséré", "insérée", "insérés", "insérées"]
+    },
+    {
+      "id": "assiéger",
+      "infinitif": "assiéger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’assiégerai » ou « j’assiègerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["assiège", "assièges", "assiège", "assiégeons", "assiégez", "assiègent"],
+        "ind.imp": ["assiégeais", "assiégeais", "assiégeait", "assiégions", "assiégiez", "assiégeaient"],
+        "ind.ps": ["assiégeai", "assiégeas", "assiégea", "assiégeâmes", "assiégeâtes", "assiégèrent"],
+        "ind.fut": [["assiégerai", "assiègerai"], ["assiégeras", "assiègeras"], ["assiégera", "assiègera"], ["assiégerons", "assiègerons"], ["assiégerez", "assiègerez"], ["assiégeront", "assiègeront"]],
+        "cond.pres": [["assiégerais", "assiègerais"], ["assiégerais", "assiègerais"], ["assiégerait", "assiègerait"], ["assiégerions", "assiègerions"], ["assiégeriez", "assiègeriez"], ["assiégeraient", "assiègeraient"]],
+        "subj.pres": ["assiège", "assièges", "assiège", "assiégions", "assiégiez", "assiègent"],
+        "subj.imp": ["assiégeasse", "assiégeasses", "assiégeât", "assiégeassions", "assiégeassiez", "assiégeassent"],
+        "imper.pres": ["assiège", "assiégeons", "assiégez"]
+      },
+      "participe_present": "assiégeant",
+      "participe_passe": ["assiégé", "assiégée", "assiégés", "assiégées"]
     }
   ]
 }
