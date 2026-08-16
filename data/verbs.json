@@ -34781,6 +34781,24 @@
       },
       "participe_present": "tondant",
       "participe_passe": ["tondu", "tondue", "tondus", "tondues"]
+    },
+    {
+      "id": "outrager",
+      "infinitif": "outrager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["outrage", "outrages", "outrage", "outrageons", "outragez", "outragent"],
+        "ind.imp": ["outrageais", "outrageais", "outrageait", "outragions", "outragiez", "outrageaient"],
+        "ind.ps": ["outrageai", "outrageas", "outragea", "outrageâmes", "outrageâtes", "outragèrent"],
+        "ind.fut": ["outragerai", "outrageras", "outragera", "outragerons", "outragerez", "outrageront"],
+        "cond.pres": ["outragerais", "outragerais", "outragerait", "outragerions", "outrageriez", "outrageraient"],
+        "subj.pres": ["outrage", "outrages", "outrage", "outragions", "outragiez", "outragent"],
+        "subj.imp": ["outrageasse", "outrageasses", "outrageât", "outrageassions", "outrageassiez", "outrageassent"],
+        "imper.pres": ["outrage", "outrageons", "outragez"]
+      },
+      "participe_present": "outrageant",
+      "participe_passe": ["outragé", "outragée", "outragés", "outragées"]
     }
   ]
 }
