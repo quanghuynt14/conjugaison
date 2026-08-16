@@ -4974,6 +4974,24 @@
       },
       "participe_present": "signant",
       "participe_passe": ["signé", "signée", "signés", "signées"]
+    },
+    {
+      "id": "fuir",
+      "infinitif": "fuir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fuis", "fuis", "fuit", "fuyons", "fuyez", "fuient"],
+        "ind.imp": ["fuyais", "fuyais", "fuyait", "fuyions", "fuyiez", "fuyaient"],
+        "ind.ps": ["fuis", "fuis", "fuit", "fuîmes", "fuîtes", "fuirent"],
+        "ind.fut": ["fuirai", "fuiras", "fuira", "fuirons", "fuirez", "fuiront"],
+        "cond.pres": ["fuirais", "fuirais", "fuirait", "fuirions", "fuiriez", "fuiraient"],
+        "subj.pres": ["fuie", "fuies", "fuie", "fuyions", "fuyiez", "fuient"],
+        "subj.imp": ["fuisse", "fuisses", "fuît", "fuissions", "fuissiez", "fuissent"],
+        "imper.pres": ["fuis", "fuyons", "fuyez"]
+      },
+      "participe_present": "fuyant",
+      "participe_passe": ["fui", "fuie", "fuis", "fuies"]
     }
   ]
 }
