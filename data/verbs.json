@@ -36113,6 +36113,24 @@
       },
       "participe_present": "ballottant",
       "participe_passe": ["ballotté", "ballottée", "ballottés", "ballottées"]
+    },
+    {
+      "id": "amputer",
+      "infinitif": "amputer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ampute", "amputes", "ampute", "amputons", "amputez", "amputent"],
+        "ind.imp": ["amputais", "amputais", "amputait", "amputions", "amputiez", "amputaient"],
+        "ind.ps": ["amputai", "amputas", "amputa", "amputâmes", "amputâtes", "amputèrent"],
+        "ind.fut": ["amputerai", "amputeras", "amputera", "amputerons", "amputerez", "amputeront"],
+        "cond.pres": ["amputerais", "amputerais", "amputerait", "amputerions", "amputeriez", "amputeraient"],
+        "subj.pres": ["ampute", "amputes", "ampute", "amputions", "amputiez", "amputent"],
+        "subj.imp": ["amputasse", "amputasses", "amputât", "amputassions", "amputassiez", "amputassent"],
+        "imper.pres": ["ampute", "amputons", "amputez"]
+      },
+      "participe_present": "amputant",
+      "participe_passe": ["amputé", "amputée", "amputés", "amputées"]
     }
   ]
 }
