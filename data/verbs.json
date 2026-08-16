@@ -6297,6 +6297,24 @@
       },
       "participe_present": "ramassant",
       "participe_passe": ["ramassé", "ramassée", "ramassés", "ramassées"]
+    },
+    {
+      "id": "plonger",
+      "infinitif": "plonger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["plonge", "plonges", "plonge", "plongeons", "plongez", "plongent"],
+        "ind.imp": ["plongeais", "plongeais", "plongeait", "plongions", "plongiez", "plongeaient"],
+        "ind.ps": ["plongeai", "plongeas", "plongea", "plongeâmes", "plongeâtes", "plongèrent"],
+        "ind.fut": ["plongerai", "plongeras", "plongera", "plongerons", "plongerez", "plongeront"],
+        "cond.pres": ["plongerais", "plongerais", "plongerait", "plongerions", "plongeriez", "plongeraient"],
+        "subj.pres": ["plonge", "plonges", "plonge", "plongions", "plongiez", "plongent"],
+        "subj.imp": ["plongeasse", "plongeasses", "plongeât", "plongeassions", "plongeassiez", "plongeassent"],
+        "imper.pres": ["plonge", "plongeons", "plongez"]
+      },
+      "participe_present": "plongeant",
+      "participe_passe": ["plongé", "plongée", "plongés", "plongées"]
     }
   ]
 }
