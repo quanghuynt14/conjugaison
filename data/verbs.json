@@ -24315,6 +24315,26 @@
       },
       "participe_present": "rivant",
       "participe_passe": ["rivé", "rivée", "rivés", "rivées"]
+    },
+    {
+      "id": "recroqueviller",
+      "infinitif": "recroqueviller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me recroqueville » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["recroqueville", "recroquevilles", "recroqueville", "recroquevillons", "recroquevillez", "recroquevillent"],
+        "ind.imp": ["recroquevillais", "recroquevillais", "recroquevillait", "recroquevillions", "recroquevilliez", "recroquevillaient"],
+        "ind.ps": ["recroquevillai", "recroquevillas", "recroquevilla", "recroquevillâmes", "recroquevillâtes", "recroquevillèrent"],
+        "ind.fut": ["recroquevillerai", "recroquevilleras", "recroquevillera", "recroquevillerons", "recroquevillerez", "recroquevilleront"],
+        "cond.pres": ["recroquevillerais", "recroquevillerais", "recroquevillerait", "recroquevillerions", "recroquevilleriez", "recroquevilleraient"],
+        "subj.pres": ["recroqueville", "recroquevilles", "recroqueville", "recroquevillions", "recroquevilliez", "recroquevillent"],
+        "subj.imp": ["recroquevillasse", "recroquevillasses", "recroquevillât", "recroquevillassions", "recroquevillassiez", "recroquevillassent"],
+        "imper.pres": ["recroqueville", "recroquevillons", "recroquevillez"]
+      },
+      "participe_present": "recroquevillant",
+      "participe_passe": ["recroquevillé", "recroquevillée", "recroquevillés", "recroquevillées"]
     }
   ]
 }
