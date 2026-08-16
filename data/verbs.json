@@ -1568,6 +1568,25 @@
       },
       "participe_present": "envoyant",
       "participe_passe": ["envoyé", "envoyée", "envoyés", "envoyées"]
+    },
+    {
+      "id": "descendre",
+      "infinitif": "descendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis descendu ». Avec un complément d'objet direct, avoir : « j'ai descendu l'escalier ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["descends", "descends", "descend", "descendons", "descendez", "descendent"],
+        "ind.imp": ["descendais", "descendais", "descendait", "descendions", "descendiez", "descendaient"],
+        "ind.ps": ["descendis", "descendis", "descendit", "descendîmes", "descendîtes", "descendirent"],
+        "ind.fut": ["descendrai", "descendras", "descendra", "descendrons", "descendrez", "descendront"],
+        "cond.pres": ["descendrais", "descendrais", "descendrait", "descendrions", "descendriez", "descendraient"],
+        "subj.pres": ["descende", "descendes", "descende", "descendions", "descendiez", "descendent"],
+        "subj.imp": ["descendisse", "descendisses", "descendît", "descendissions", "descendissiez", "descendissent"],
+        "imper.pres": ["descends", "descendons", "descendez"]
+      },
+      "participe_present": "descendant",
+      "participe_passe": ["descendu", "descendue", "descendus", "descendues"]
     }
   ]
 }
