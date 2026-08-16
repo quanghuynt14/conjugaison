@@ -31203,6 +31203,24 @@
       },
       "participe_present": "torchant",
       "participe_passe": ["torché", "torchée", "torchés", "torchées"]
+    },
+    {
+      "id": "alarmer",
+      "infinitif": "alarmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["alarme", "alarmes", "alarme", "alarmons", "alarmez", "alarment"],
+        "ind.imp": ["alarmais", "alarmais", "alarmait", "alarmions", "alarmiez", "alarmaient"],
+        "ind.ps": ["alarmai", "alarmas", "alarma", "alarmâmes", "alarmâtes", "alarmèrent"],
+        "ind.fut": ["alarmerai", "alarmeras", "alarmera", "alarmerons", "alarmerez", "alarmeront"],
+        "cond.pres": ["alarmerais", "alarmerais", "alarmerait", "alarmerions", "alarmeriez", "alarmeraient"],
+        "subj.pres": ["alarme", "alarmes", "alarme", "alarmions", "alarmiez", "alarment"],
+        "subj.imp": ["alarmasse", "alarmasses", "alarmât", "alarmassions", "alarmassiez", "alarmassent"],
+        "imper.pres": ["alarme", "alarmons", "alarmez"]
+      },
+      "participe_present": "alarmant",
+      "participe_passe": ["alarmé", "alarmée", "alarmés", "alarmées"]
     }
   ]
 }
