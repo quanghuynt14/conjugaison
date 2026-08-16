@@ -10648,6 +10648,24 @@
       },
       "participe_present": "épuisant",
       "participe_passe": ["épuisé", "épuisée", "épuisés", "épuisées"]
+    },
+    {
+      "id": "concentrer",
+      "infinitif": "concentrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["concentre", "concentres", "concentre", "concentrons", "concentrez", "concentrent"],
+        "ind.imp": ["concentrais", "concentrais", "concentrait", "concentrions", "concentriez", "concentraient"],
+        "ind.ps": ["concentrai", "concentras", "concentra", "concentrâmes", "concentrâtes", "concentrèrent"],
+        "ind.fut": ["concentrerai", "concentreras", "concentrera", "concentrerons", "concentrerez", "concentreront"],
+        "cond.pres": ["concentrerais", "concentrerais", "concentrerait", "concentrerions", "concentreriez", "concentreraient"],
+        "subj.pres": ["concentre", "concentres", "concentre", "concentrions", "concentriez", "concentrent"],
+        "subj.imp": ["concentrasse", "concentrasses", "concentrât", "concentrassions", "concentrassiez", "concentrassent"],
+        "imper.pres": ["concentre", "concentrons", "concentrez"]
+      },
+      "participe_present": "concentrant",
+      "participe_passe": ["concentré", "concentrée", "concentrés", "concentrées"]
     }
   ]
 }
