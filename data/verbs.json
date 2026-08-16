@@ -20089,6 +20089,24 @@
       },
       "participe_present": "dépliant",
       "participe_passe": ["déplié", "dépliée", "dépliés", "dépliées"]
+    },
+    {
+      "id": "méditer",
+      "infinitif": "méditer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["médite", "médites", "médite", "méditons", "méditez", "méditent"],
+        "ind.imp": ["méditais", "méditais", "méditait", "méditions", "méditiez", "méditaient"],
+        "ind.ps": ["méditai", "méditas", "médita", "méditâmes", "méditâtes", "méditèrent"],
+        "ind.fut": ["méditerai", "méditeras", "méditera", "méditerons", "méditerez", "méditeront"],
+        "cond.pres": ["méditerais", "méditerais", "méditerait", "méditerions", "méditeriez", "méditeraient"],
+        "subj.pres": ["médite", "médites", "médite", "méditions", "méditiez", "méditent"],
+        "subj.imp": ["méditasse", "méditasses", "méditât", "méditassions", "méditassiez", "méditassent"],
+        "imper.pres": ["médite", "méditons", "méditez"]
+      },
+      "participe_present": "méditant",
+      "participe_passe": ["médité", "méditée", "médités", "méditées"]
     }
   ]
 }
