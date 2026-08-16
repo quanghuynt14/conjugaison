@@ -26443,6 +26443,24 @@
       },
       "participe_present": "prodiguant",
       "participe_passe": ["prodigué", "prodiguée", "prodigués", "prodiguées"]
+    },
+    {
+      "id": "héberger",
+      "infinitif": "héberger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["héberge", "héberges", "héberge", "hébergeons", "hébergez", "hébergent"],
+        "ind.imp": ["hébergeais", "hébergeais", "hébergeait", "hébergions", "hébergiez", "hébergeaient"],
+        "ind.ps": ["hébergeai", "hébergeas", "hébergea", "hébergeâmes", "hébergeâtes", "hébergèrent"],
+        "ind.fut": ["hébergerai", "hébergeras", "hébergera", "hébergerons", "hébergerez", "hébergeront"],
+        "cond.pres": ["hébergerais", "hébergerais", "hébergerait", "hébergerions", "hébergeriez", "hébergeraient"],
+        "subj.pres": ["héberge", "héberges", "héberge", "hébergions", "hébergiez", "hébergent"],
+        "subj.imp": ["hébergeasse", "hébergeasses", "hébergeât", "hébergeassions", "hébergeassiez", "hébergeassent"],
+        "imper.pres": ["héberge", "hébergeons", "hébergez"]
+      },
+      "participe_present": "hébergeant",
+      "participe_passe": ["hébergé", "hébergée", "hébergés", "hébergées"]
     }
   ]
 }
