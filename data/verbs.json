@@ -24498,6 +24498,24 @@
       },
       "participe_present": "scintillant",
       "participe_passe": ["scintillé", null, null, null]
+    },
+    {
+      "id": "tisser",
+      "infinitif": "tisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tisse", "tisses", "tisse", "tissons", "tissez", "tissent"],
+        "ind.imp": ["tissais", "tissais", "tissait", "tissions", "tissiez", "tissaient"],
+        "ind.ps": ["tissai", "tissas", "tissa", "tissâmes", "tissâtes", "tissèrent"],
+        "ind.fut": ["tisserai", "tisseras", "tissera", "tisserons", "tisserez", "tisseront"],
+        "cond.pres": ["tisserais", "tisserais", "tisserait", "tisserions", "tisseriez", "tisseraient"],
+        "subj.pres": ["tisse", "tisses", "tisse", "tissions", "tissiez", "tissent"],
+        "subj.imp": ["tissasse", "tissasses", "tissât", "tissassions", "tissassiez", "tissassent"],
+        "imper.pres": ["tisse", "tissons", "tissez"]
+      },
+      "participe_present": "tissant",
+      "participe_passe": ["tissé", "tissée", "tissés", "tissées"]
     }
   ]
 }
