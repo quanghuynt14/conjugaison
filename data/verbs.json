@@ -25133,6 +25133,25 @@
       },
       "participe_present": "confrontant",
       "participe_passe": ["confronté", "confrontée", "confrontés", "confrontées"]
+    },
+    {
+      "id": "bénéficier",
+      "infinitif": "bénéficier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « bénéficié » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["bénéficie", "bénéficies", "bénéficie", "bénéficions", "bénéficiez", "bénéficient"],
+        "ind.imp": ["bénéficiais", "bénéficiais", "bénéficiait", "bénéficiions", "bénéficiiez", "bénéficiaient"],
+        "ind.ps": ["bénéficiai", "bénéficias", "bénéficia", "bénéficiâmes", "bénéficiâtes", "bénéficièrent"],
+        "ind.fut": ["bénéficierai", "bénéficieras", "bénéficiera", "bénéficierons", "bénéficierez", "bénéficieront"],
+        "cond.pres": ["bénéficierais", "bénéficierais", "bénéficierait", "bénéficierions", "bénéficieriez", "bénéficieraient"],
+        "subj.pres": ["bénéficie", "bénéficies", "bénéficie", "bénéficiions", "bénéficiiez", "bénéficient"],
+        "subj.imp": ["bénéficiasse", "bénéficiasses", "bénéficiât", "bénéficiassions", "bénéficiassiez", "bénéficiassent"],
+        "imper.pres": ["bénéficie", "bénéficions", "bénéficiez"]
+      },
+      "participe_present": "bénéficiant",
+      "participe_passe": ["bénéficié", null, null, null]
     }
   ]
 }
