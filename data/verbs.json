@@ -9574,6 +9574,24 @@
       },
       "participe_present": "détendant",
       "participe_passe": ["détendu", "détendue", "détendus", "détendues"]
+    },
+    {
+      "id": "rechercher",
+      "infinitif": "rechercher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recherche", "recherches", "recherche", "recherchons", "recherchez", "recherchent"],
+        "ind.imp": ["recherchais", "recherchais", "recherchait", "recherchions", "recherchiez", "recherchaient"],
+        "ind.ps": ["recherchai", "recherchas", "rechercha", "recherchâmes", "recherchâtes", "recherchèrent"],
+        "ind.fut": ["rechercherai", "rechercheras", "recherchera", "rechercherons", "rechercherez", "rechercheront"],
+        "cond.pres": ["rechercherais", "rechercherais", "rechercherait", "rechercherions", "rechercheriez", "rechercheraient"],
+        "subj.pres": ["recherche", "recherches", "recherche", "recherchions", "recherchiez", "recherchent"],
+        "subj.imp": ["recherchasse", "recherchasses", "recherchât", "recherchassions", "recherchassiez", "recherchassent"],
+        "imper.pres": ["recherche", "recherchons", "recherchez"]
+      },
+      "participe_present": "recherchant",
+      "participe_passe": ["recherché", "recherchée", "recherchés", "recherchées"]
     }
   ]
 }
