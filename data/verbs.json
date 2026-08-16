@@ -11353,6 +11353,25 @@
       },
       "participe_present": "raccrochant",
       "participe_passe": ["raccroché", "raccrochée", "raccrochés", "raccrochées"]
+    },
+    {
+      "id": "opérer",
+      "infinitif": "opérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’opérerai » ou « j’opèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["opère", "opères", "opère", "opérons", "opérez", "opèrent"],
+        "ind.imp": ["opérais", "opérais", "opérait", "opérions", "opériez", "opéraient"],
+        "ind.ps": ["opérai", "opéras", "opéra", "opérâmes", "opérâtes", "opérèrent"],
+        "ind.fut": [["opérerai", "opèrerai"], ["opéreras", "opèreras"], ["opérera", "opèrera"], ["opérerons", "opèrerons"], ["opérerez", "opèrerez"], ["opéreront", "opèreront"]],
+        "cond.pres": [["opérerais", "opèrerais"], ["opérerais", "opèrerais"], ["opérerait", "opèrerait"], ["opérerions", "opèrerions"], ["opéreriez", "opèreriez"], ["opéreraient", "opèreraient"]],
+        "subj.pres": ["opère", "opères", "opère", "opérions", "opériez", "opèrent"],
+        "subj.imp": ["opérasse", "opérasses", "opérât", "opérassions", "opérassiez", "opérassent"],
+        "imper.pres": ["opère", "opérons", "opérez"]
+      },
+      "participe_present": "opérant",
+      "participe_passe": ["opéré", "opérée", "opérés", "opérées"]
     }
   ]
 }
