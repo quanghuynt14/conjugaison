@@ -12611,6 +12611,24 @@
       },
       "participe_present": "émouvant",
       "participe_passe": ["ému", "émue", "émus", "émues"]
+    },
+    {
+      "id": "réjouir",
+      "infinitif": "réjouir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réjouis", "réjouis", "réjouit", "réjouissons", "réjouissez", "réjouissent"],
+        "ind.imp": ["réjouissais", "réjouissais", "réjouissait", "réjouissions", "réjouissiez", "réjouissaient"],
+        "ind.ps": ["réjouis", "réjouis", "réjouit", "réjouîmes", "réjouîtes", "réjouirent"],
+        "ind.fut": ["réjouirai", "réjouiras", "réjouira", "réjouirons", "réjouirez", "réjouiront"],
+        "cond.pres": ["réjouirais", "réjouirais", "réjouirait", "réjouirions", "réjouiriez", "réjouiraient"],
+        "subj.pres": ["réjouisse", "réjouisses", "réjouisse", "réjouissions", "réjouissiez", "réjouissent"],
+        "subj.imp": ["réjouisse", "réjouisses", "réjouît", "réjouissions", "réjouissiez", "réjouissent"],
+        "imper.pres": ["réjouis", "réjouissons", "réjouissez"]
+      },
+      "participe_present": "réjouissant",
+      "participe_passe": ["réjoui", "réjouie", "réjouis", "réjouies"]
     }
   ]
 }
