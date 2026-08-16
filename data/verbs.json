@@ -31095,6 +31095,24 @@
       },
       "participe_present": "raflant",
       "participe_passe": ["raflé", "raflée", "raflés", "raflées"]
+    },
+    {
+      "id": "divertir",
+      "infinitif": "divertir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["divertis", "divertis", "divertit", "divertissons", "divertissez", "divertissent"],
+        "ind.imp": ["divertissais", "divertissais", "divertissait", "divertissions", "divertissiez", "divertissaient"],
+        "ind.ps": ["divertis", "divertis", "divertit", "divertîmes", "divertîtes", "divertirent"],
+        "ind.fut": ["divertirai", "divertiras", "divertira", "divertirons", "divertirez", "divertiront"],
+        "cond.pres": ["divertirais", "divertirais", "divertirait", "divertirions", "divertiriez", "divertiraient"],
+        "subj.pres": ["divertisse", "divertisses", "divertisse", "divertissions", "divertissiez", "divertissent"],
+        "subj.imp": ["divertisse", "divertisses", "divertît", "divertissions", "divertissiez", "divertissent"],
+        "imper.pres": ["divertis", "divertissons", "divertissez"]
+      },
+      "participe_present": "divertissant",
+      "participe_passe": ["diverti", "divertie", "divertis", "diverties"]
     }
   ]
 }
