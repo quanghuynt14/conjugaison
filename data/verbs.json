@@ -5990,6 +5990,25 @@
       },
       "participe_present": "possédant",
       "participe_passe": ["possédé", "possédée", "possédés", "possédées"]
+    },
+    {
+      "id": "libérer",
+      "infinitif": "libérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je libérerai » ou « je libèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["libère", "libères", "libère", "libérons", "libérez", "libèrent"],
+        "ind.imp": ["libérais", "libérais", "libérait", "libérions", "libériez", "libéraient"],
+        "ind.ps": ["libérai", "libéras", "libéra", "libérâmes", "libérâtes", "libérèrent"],
+        "ind.fut": [["libérerai", "libèrerai"], ["libéreras", "libèreras"], ["libérera", "libèrera"], ["libérerons", "libèrerons"], ["libérerez", "libèrerez"], ["libéreront", "libèreront"]],
+        "cond.pres": [["libérerais", "libèrerais"], ["libérerais", "libèrerais"], ["libérerait", "libèrerait"], ["libérerions", "libèrerions"], ["libéreriez", "libèreriez"], ["libéreraient", "libèreraient"]],
+        "subj.pres": ["libère", "libères", "libère", "libérions", "libériez", "libèrent"],
+        "subj.imp": ["libérasse", "libérasses", "libérât", "libérassions", "libérassiez", "libérassent"],
+        "imper.pres": ["libère", "libérons", "libérez"]
+      },
+      "participe_present": "libérant",
+      "participe_passe": ["libéré", "libérée", "libérés", "libérées"]
     }
   ]
 }
