@@ -25644,6 +25644,24 @@
       },
       "participe_present": "collaborant",
       "participe_passe": ["collaboré", "collaborée", "collaborés", "collaborées"]
+    },
+    {
+      "id": "apprivoiser",
+      "infinitif": "apprivoiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["apprivoise", "apprivoises", "apprivoise", "apprivoisons", "apprivoisez", "apprivoisent"],
+        "ind.imp": ["apprivoisais", "apprivoisais", "apprivoisait", "apprivoisions", "apprivoisiez", "apprivoisaient"],
+        "ind.ps": ["apprivoisai", "apprivoisas", "apprivoisa", "apprivoisâmes", "apprivoisâtes", "apprivoisèrent"],
+        "ind.fut": ["apprivoiserai", "apprivoiseras", "apprivoisera", "apprivoiserons", "apprivoiserez", "apprivoiseront"],
+        "cond.pres": ["apprivoiserais", "apprivoiserais", "apprivoiserait", "apprivoiserions", "apprivoiseriez", "apprivoiseraient"],
+        "subj.pres": ["apprivoise", "apprivoises", "apprivoise", "apprivoisions", "apprivoisiez", "apprivoisent"],
+        "subj.imp": ["apprivoisasse", "apprivoisasses", "apprivoisât", "apprivoisassions", "apprivoisassiez", "apprivoisassent"],
+        "imper.pres": ["apprivoise", "apprivoisons", "apprivoisez"]
+      },
+      "participe_present": "apprivoisant",
+      "participe_passe": ["apprivoisé", "apprivoisée", "apprivoisés", "apprivoisées"]
     }
   ]
 }
