@@ -20071,6 +20071,24 @@
       },
       "participe_present": "agrippant",
       "participe_passe": ["agrippé", "agrippée", "agrippés", "agrippées"]
+    },
+    {
+      "id": "déplier",
+      "infinitif": "déplier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déplie", "déplies", "déplie", "déplions", "dépliez", "déplient"],
+        "ind.imp": ["dépliais", "dépliais", "dépliait", "dépliions", "dépliiez", "dépliaient"],
+        "ind.ps": ["dépliai", "déplias", "déplia", "dépliâmes", "dépliâtes", "déplièrent"],
+        "ind.fut": ["déplierai", "déplieras", "dépliera", "déplierons", "déplierez", "déplieront"],
+        "cond.pres": ["déplierais", "déplierais", "déplierait", "déplierions", "déplieriez", "déplieraient"],
+        "subj.pres": ["déplie", "déplies", "déplie", "dépliions", "dépliiez", "déplient"],
+        "subj.imp": ["dépliasse", "dépliasses", "dépliât", "dépliassions", "dépliassiez", "dépliassent"],
+        "imper.pres": ["déplie", "déplions", "dépliez"]
+      },
+      "participe_present": "dépliant",
+      "participe_passe": ["déplié", "dépliée", "dépliés", "dépliées"]
     }
   ]
 }
