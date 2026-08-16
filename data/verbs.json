@@ -31439,6 +31439,24 @@
       },
       "participe_present": "enfreignant",
       "participe_passe": ["enfreint", "enfreinte", "enfreints", "enfreintes"]
+    },
+    {
+      "id": "boxer",
+      "infinitif": "boxer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["boxe", "boxes", "boxe", "boxons", "boxez", "boxent"],
+        "ind.imp": ["boxais", "boxais", "boxait", "boxions", "boxiez", "boxaient"],
+        "ind.ps": ["boxai", "boxas", "boxa", "boxâmes", "boxâtes", "boxèrent"],
+        "ind.fut": ["boxerai", "boxeras", "boxera", "boxerons", "boxerez", "boxeront"],
+        "cond.pres": ["boxerais", "boxerais", "boxerait", "boxerions", "boxeriez", "boxeraient"],
+        "subj.pres": ["boxe", "boxes", "boxe", "boxions", "boxiez", "boxent"],
+        "subj.imp": ["boxasse", "boxasses", "boxât", "boxassions", "boxassiez", "boxassent"],
+        "imper.pres": ["boxe", "boxons", "boxez"]
+      },
+      "participe_present": "boxant",
+      "participe_passe": ["boxé", "boxée", "boxés", "boxées"]
     }
   ]
 }
