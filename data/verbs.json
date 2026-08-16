@@ -17932,6 +17932,24 @@
       },
       "participe_present": "fouettant",
       "participe_passe": ["fouetté", "fouettée", "fouettés", "fouettées"]
+    },
+    {
+      "id": "mentionner",
+      "infinitif": "mentionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mentionne", "mentionnes", "mentionne", "mentionnons", "mentionnez", "mentionnent"],
+        "ind.imp": ["mentionnais", "mentionnais", "mentionnait", "mentionnions", "mentionniez", "mentionnaient"],
+        "ind.ps": ["mentionnai", "mentionnas", "mentionna", "mentionnâmes", "mentionnâtes", "mentionnèrent"],
+        "ind.fut": ["mentionnerai", "mentionneras", "mentionnera", "mentionnerons", "mentionnerez", "mentionneront"],
+        "cond.pres": ["mentionnerais", "mentionnerais", "mentionnerait", "mentionnerions", "mentionneriez", "mentionneraient"],
+        "subj.pres": ["mentionne", "mentionnes", "mentionne", "mentionnions", "mentionniez", "mentionnent"],
+        "subj.imp": ["mentionnasse", "mentionnasses", "mentionnât", "mentionnassions", "mentionnassiez", "mentionnassent"],
+        "imper.pres": ["mentionne", "mentionnons", "mentionnez"]
+      },
+      "participe_present": "mentionnant",
+      "participe_passe": ["mentionné", "mentionnée", "mentionnés", "mentionnées"]
     }
   ]
 }
