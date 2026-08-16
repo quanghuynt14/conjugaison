@@ -14808,6 +14808,24 @@
       },
       "participe_present": "préservant",
       "participe_passe": ["préservé", "préservée", "préservés", "préservées"]
+    },
+    {
+      "id": "écouler",
+      "infinitif": "écouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["écoule", "écoules", "écoule", "écoulons", "écoulez", "écoulent"],
+        "ind.imp": ["écoulais", "écoulais", "écoulait", "écoulions", "écouliez", "écoulaient"],
+        "ind.ps": ["écoulai", "écoulas", "écoula", "écoulâmes", "écoulâtes", "écoulèrent"],
+        "ind.fut": ["écoulerai", "écouleras", "écoulera", "écoulerons", "écoulerez", "écouleront"],
+        "cond.pres": ["écoulerais", "écoulerais", "écoulerait", "écoulerions", "écouleriez", "écouleraient"],
+        "subj.pres": ["écoule", "écoules", "écoule", "écoulions", "écouliez", "écoulent"],
+        "subj.imp": ["écoulasse", "écoulasses", "écoulât", "écoulassions", "écoulassiez", "écoulassent"],
+        "imper.pres": ["écoule", "écoulons", "écoulez"]
+      },
+      "participe_present": "écoulant",
+      "participe_passe": ["écoulé", "écoulée", "écoulés", "écoulées"]
     }
   ]
 }
