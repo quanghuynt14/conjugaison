@@ -27009,6 +27009,26 @@
       },
       "participe_present": "recouchant",
       "participe_passe": ["recouché", "recouchée", "recouchés", "recouchées"]
+    },
+    {
+      "id": "démerder",
+      "infinitif": "démerder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me démerde » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["démerde", "démerdes", "démerde", "démerdons", "démerdez", "démerdent"],
+        "ind.imp": ["démerdais", "démerdais", "démerdait", "démerdions", "démerdiez", "démerdaient"],
+        "ind.ps": ["démerdai", "démerdas", "démerda", "démerdâmes", "démerdâtes", "démerdèrent"],
+        "ind.fut": ["démerderai", "démerderas", "démerdera", "démerderons", "démerderez", "démerderont"],
+        "cond.pres": ["démerderais", "démerderais", "démerderait", "démerderions", "démerderiez", "démerderaient"],
+        "subj.pres": ["démerde", "démerdes", "démerde", "démerdions", "démerdiez", "démerdent"],
+        "subj.imp": ["démerdasse", "démerdasses", "démerdât", "démerdassions", "démerdassiez", "démerdassent"],
+        "imper.pres": ["démerde", "démerdons", "démerdez"]
+      },
+      "participe_present": "démerdant",
+      "participe_passe": ["démerdé", "démerdée", "démerdés", "démerdées"]
     }
   ]
 }
