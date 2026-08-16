@@ -31883,6 +31883,24 @@
       },
       "participe_present": "coffrant",
       "participe_passe": ["coffré", "coffrée", "coffrés", "coffrées"]
+    },
+    {
+      "id": "raccourcir",
+      "infinitif": "raccourcir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["raccourcis", "raccourcis", "raccourcit", "raccourcissons", "raccourcissez", "raccourcissent"],
+        "ind.imp": ["raccourcissais", "raccourcissais", "raccourcissait", "raccourcissions", "raccourcissiez", "raccourcissaient"],
+        "ind.ps": ["raccourcis", "raccourcis", "raccourcit", "raccourcîmes", "raccourcîtes", "raccourcirent"],
+        "ind.fut": ["raccourcirai", "raccourciras", "raccourcira", "raccourcirons", "raccourcirez", "raccourciront"],
+        "cond.pres": ["raccourcirais", "raccourcirais", "raccourcirait", "raccourcirions", "raccourciriez", "raccourciraient"],
+        "subj.pres": ["raccourcisse", "raccourcisses", "raccourcisse", "raccourcissions", "raccourcissiez", "raccourcissent"],
+        "subj.imp": ["raccourcisse", "raccourcisses", "raccourcît", "raccourcissions", "raccourcissiez", "raccourcissent"],
+        "imper.pres": ["raccourcis", "raccourcissons", "raccourcissez"]
+      },
+      "participe_present": "raccourcissant",
+      "participe_passe": ["raccourci", "raccourcie", "raccourcis", "raccourcies"]
     }
   ]
 }
