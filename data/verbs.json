@@ -3094,6 +3094,24 @@
       },
       "participe_present": "cassant",
       "participe_passe": ["cassé", "cassée", "cassés", "cassées"]
+    },
+    {
+      "id": "enlever",
+      "infinitif": "enlever",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enlève", "enlèves", "enlève", "enlevons", "enlevez", "enlèvent"],
+        "ind.imp": ["enlevais", "enlevais", "enlevait", "enlevions", "enleviez", "enlevaient"],
+        "ind.ps": ["enlevai", "enlevas", "enleva", "enlevâmes", "enlevâtes", "enlevèrent"],
+        "ind.fut": ["enlèverai", "enlèveras", "enlèvera", "enlèverons", "enlèverez", "enlèveront"],
+        "cond.pres": ["enlèverais", "enlèverais", "enlèverait", "enlèverions", "enlèveriez", "enlèveraient"],
+        "subj.pres": ["enlève", "enlèves", "enlève", "enlevions", "enleviez", "enlèvent"],
+        "subj.imp": ["enlevasse", "enlevasses", "enlevât", "enlevassions", "enlevassiez", "enlevassent"],
+        "imper.pres": ["enlève", "enlevons", "enlevez"]
+      },
+      "participe_present": "enlevant",
+      "participe_passe": ["enlevé", "enlevée", "enlevés", "enlevées"]
     }
   ]
 }
