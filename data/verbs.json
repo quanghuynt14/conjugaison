@@ -15552,6 +15552,24 @@
       },
       "participe_present": "toussant",
       "participe_passe": ["toussé", null, null, null]
+    },
+    {
+      "id": "saurer",
+      "infinitif": "saurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["saure", "saures", "saure", "saurons", "saurez", "saurent"],
+        "ind.imp": ["saurais", "saurais", "saurait", "saurions", "sauriez", "sauraient"],
+        "ind.ps": ["saurai", "sauras", "saura", "saurâmes", "saurâtes", "saurèrent"],
+        "ind.fut": ["saurerai", "saureras", "saurera", "saurerons", "saurerez", "saureront"],
+        "cond.pres": ["saurerais", "saurerais", "saurerait", "saurerions", "saureriez", "saureraient"],
+        "subj.pres": ["saure", "saures", "saure", "saurions", "sauriez", "saurent"],
+        "subj.imp": ["saurasse", "saurasses", "saurât", "saurassions", "saurassiez", "saurassent"],
+        "imper.pres": ["saure", "saurons", "saurez"]
+      },
+      "participe_present": "saurant",
+      "participe_passe": ["sauré", "saurée", "saurés", "saurées"]
     }
   ]
 }
