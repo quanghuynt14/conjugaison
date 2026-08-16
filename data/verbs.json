@@ -35515,6 +35515,24 @@
       },
       "participe_present": "brassant",
       "participe_passe": ["brassé", "brassée", "brassés", "brassées"]
+    },
+    {
+      "id": "percuter",
+      "infinitif": "percuter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["percute", "percutes", "percute", "percutons", "percutez", "percutent"],
+        "ind.imp": ["percutais", "percutais", "percutait", "percutions", "percutiez", "percutaient"],
+        "ind.ps": ["percutai", "percutas", "percuta", "percutâmes", "percutâtes", "percutèrent"],
+        "ind.fut": ["percuterai", "percuteras", "percutera", "percuterons", "percuterez", "percuteront"],
+        "cond.pres": ["percuterais", "percuterais", "percuterait", "percuterions", "percuteriez", "percuteraient"],
+        "subj.pres": ["percute", "percutes", "percute", "percutions", "percutiez", "percutent"],
+        "subj.imp": ["percutasse", "percutasses", "percutât", "percutassions", "percutassiez", "percutassent"],
+        "imper.pres": ["percute", "percutons", "percutez"]
+      },
+      "participe_present": "percutant",
+      "participe_passe": ["percuté", "percutée", "percutés", "percutées"]
     }
   ]
 }
