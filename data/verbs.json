@@ -9846,6 +9846,24 @@
       },
       "participe_present": "visant",
       "participe_passe": ["visé", "visée", "visés", "visées"]
+    },
+    {
+      "id": "pisser",
+      "infinitif": "pisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pisse", "pisses", "pisse", "pissons", "pissez", "pissent"],
+        "ind.imp": ["pissais", "pissais", "pissait", "pissions", "pissiez", "pissaient"],
+        "ind.ps": ["pissai", "pissas", "pissa", "pissâmes", "pissâtes", "pissèrent"],
+        "ind.fut": ["pisserai", "pisseras", "pissera", "pisserons", "pisserez", "pisseront"],
+        "cond.pres": ["pisserais", "pisserais", "pisserait", "pisserions", "pisseriez", "pisseraient"],
+        "subj.pres": ["pisse", "pisses", "pisse", "pissions", "pissiez", "pissent"],
+        "subj.imp": ["pissasse", "pissasses", "pissât", "pissassions", "pissassiez", "pissassent"],
+        "imper.pres": ["pisse", "pissons", "pissez"]
+      },
+      "participe_present": "pissant",
+      "participe_passe": ["pissé", "pissée", "pissés", "pissées"]
     }
   ]
 }
