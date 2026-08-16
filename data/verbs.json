@@ -5227,6 +5227,24 @@
       },
       "participe_present": "repartant",
       "participe_passe": ["reparti", "repartie", "repartis", "reparties"]
+    },
+    {
+      "id": "écraser",
+      "infinitif": "écraser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["écrase", "écrases", "écrase", "écrasons", "écrasez", "écrasent"],
+        "ind.imp": ["écrasais", "écrasais", "écrasait", "écrasions", "écrasiez", "écrasaient"],
+        "ind.ps": ["écrasai", "écrasas", "écrasa", "écrasâmes", "écrasâtes", "écrasèrent"],
+        "ind.fut": ["écraserai", "écraseras", "écrasera", "écraserons", "écraserez", "écraseront"],
+        "cond.pres": ["écraserais", "écraserais", "écraserait", "écraserions", "écraseriez", "écraseraient"],
+        "subj.pres": ["écrase", "écrases", "écrase", "écrasions", "écrasiez", "écrasent"],
+        "subj.imp": ["écrasasse", "écrasasses", "écrasât", "écrasassions", "écrasassiez", "écrasassent"],
+        "imper.pres": ["écrase", "écrasons", "écrasez"]
+      },
+      "participe_present": "écrasant",
+      "participe_passe": ["écrasé", "écrasée", "écrasés", "écrasées"]
     }
   ]
 }
