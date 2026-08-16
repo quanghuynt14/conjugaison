@@ -18169,6 +18169,24 @@
       },
       "participe_present": "accourant",
       "participe_passe": ["accouru", "accourue", "accourus", "accourues"]
+    },
+    {
+      "id": "résigner",
+      "infinitif": "résigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["résigne", "résignes", "résigne", "résignons", "résignez", "résignent"],
+        "ind.imp": ["résignais", "résignais", "résignait", "résignions", "résigniez", "résignaient"],
+        "ind.ps": ["résignai", "résignas", "résigna", "résignâmes", "résignâtes", "résignèrent"],
+        "ind.fut": ["résignerai", "résigneras", "résignera", "résignerons", "résignerez", "résigneront"],
+        "cond.pres": ["résignerais", "résignerais", "résignerait", "résignerions", "résigneriez", "résigneraient"],
+        "subj.pres": ["résigne", "résignes", "résigne", "résignions", "résigniez", "résignent"],
+        "subj.imp": ["résignasse", "résignasses", "résignât", "résignassions", "résignassiez", "résignassent"],
+        "imper.pres": ["résigne", "résignons", "résignez"]
+      },
+      "participe_present": "résignant",
+      "participe_passe": ["résigné", "résignée", "résignés", "résignées"]
     }
   ]
 }
