@@ -16713,6 +16713,24 @@
       },
       "participe_present": "corrigeant",
       "participe_passe": ["corrigé", "corrigée", "corrigés", "corrigées"]
+    },
+    {
+      "id": "faucher",
+      "infinitif": "faucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fauche", "fauches", "fauche", "fauchons", "fauchez", "fauchent"],
+        "ind.imp": ["fauchais", "fauchais", "fauchait", "fauchions", "fauchiez", "fauchaient"],
+        "ind.ps": ["fauchai", "fauchas", "faucha", "fauchâmes", "fauchâtes", "fauchèrent"],
+        "ind.fut": ["faucherai", "faucheras", "fauchera", "faucherons", "faucherez", "faucheront"],
+        "cond.pres": ["faucherais", "faucherais", "faucherait", "faucherions", "faucheriez", "faucheraient"],
+        "subj.pres": ["fauche", "fauches", "fauche", "fauchions", "fauchiez", "fauchent"],
+        "subj.imp": ["fauchasse", "fauchasses", "fauchât", "fauchassions", "fauchassiez", "fauchassent"],
+        "imper.pres": ["fauche", "fauchons", "fauchez"]
+      },
+      "participe_present": "fauchant",
+      "participe_passe": ["fauché", "fauchée", "fauchés", "fauchées"]
     }
   ]
 }
