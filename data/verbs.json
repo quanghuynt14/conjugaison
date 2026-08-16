@@ -22181,6 +22181,24 @@
       },
       "participe_present": "copiant",
       "participe_passe": ["copié", "copiée", "copiés", "copiées"]
+    },
+    {
+      "id": "reparaître",
+      "infinitif": "reparaître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reparais", "reparais", "reparaît", "reparaissons", "reparaissez", "reparaissent"],
+        "ind.imp": ["reparaissais", "reparaissais", "reparaissait", "reparaissions", "reparaissiez", "reparaissaient"],
+        "ind.ps": ["reparus", "reparus", "reparut", "reparûmes", "reparûtes", "reparurent"],
+        "ind.fut": ["reparaîtrai", "reparaîtras", "reparaîtra", "reparaîtrons", "reparaîtrez", "reparaîtront"],
+        "cond.pres": ["reparaîtrais", "reparaîtrais", "reparaîtrait", "reparaîtrions", "reparaîtriez", "reparaîtraient"],
+        "subj.pres": ["reparaisse", "reparaisses", "reparaisse", "reparaissions", "reparaissiez", "reparaissent"],
+        "subj.imp": ["reparusse", "reparusses", "reparût", "reparussions", "reparussiez", "reparussent"],
+        "imper.pres": ["reparais", "reparaissons", "reparaissez"]
+      },
+      "participe_present": "reparaissant",
+      "participe_passe": ["reparu", "reparue", "reparus", "reparues"]
     }
   ]
 }
