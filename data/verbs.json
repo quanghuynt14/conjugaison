@@ -13754,6 +13754,24 @@
       },
       "participe_present": "animant",
       "participe_passe": ["animé", "animée", "animés", "animées"]
+    },
+    {
+      "id": "ronger",
+      "infinitif": "ronger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ronge", "ronges", "ronge", "rongeons", "rongez", "rongent"],
+        "ind.imp": ["rongeais", "rongeais", "rongeait", "rongions", "rongiez", "rongeaient"],
+        "ind.ps": ["rongeai", "rongeas", "rongea", "rongeâmes", "rongeâtes", "rongèrent"],
+        "ind.fut": ["rongerai", "rongeras", "rongera", "rongerons", "rongerez", "rongeront"],
+        "cond.pres": ["rongerais", "rongerais", "rongerait", "rongerions", "rongeriez", "rongeraient"],
+        "subj.pres": ["ronge", "ronges", "ronge", "rongions", "rongiez", "rongent"],
+        "subj.imp": ["rongeasse", "rongeasses", "rongeât", "rongeassions", "rongeassiez", "rongeassent"],
+        "imper.pres": ["ronge", "rongeons", "rongez"]
+      },
+      "participe_present": "rongeant",
+      "participe_passe": ["rongé", "rongée", "rongés", "rongées"]
     }
   ]
 }
