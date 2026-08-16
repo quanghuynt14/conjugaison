@@ -27194,6 +27194,24 @@
       },
       "participe_present": "fracassant",
       "participe_passe": ["fracassé", "fracassée", "fracassés", "fracassées"]
+    },
+    {
+      "id": "ensevelir",
+      "infinitif": "ensevelir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ensevelis", "ensevelis", "ensevelit", "ensevelissons", "ensevelissez", "ensevelissent"],
+        "ind.imp": ["ensevelissais", "ensevelissais", "ensevelissait", "ensevelissions", "ensevelissiez", "ensevelissaient"],
+        "ind.ps": ["ensevelis", "ensevelis", "ensevelit", "ensevelîmes", "ensevelîtes", "ensevelirent"],
+        "ind.fut": ["ensevelirai", "enseveliras", "ensevelira", "ensevelirons", "ensevelirez", "enseveliront"],
+        "cond.pres": ["ensevelirais", "ensevelirais", "ensevelirait", "ensevelirions", "enseveliriez", "enseveliraient"],
+        "subj.pres": ["ensevelisse", "ensevelisses", "ensevelisse", "ensevelissions", "ensevelissiez", "ensevelissent"],
+        "subj.imp": ["ensevelisse", "ensevelisses", "ensevelît", "ensevelissions", "ensevelissiez", "ensevelissent"],
+        "imper.pres": ["ensevelis", "ensevelissons", "ensevelissez"]
+      },
+      "participe_present": "ensevelissant",
+      "participe_passe": ["enseveli", "ensevelie", "ensevelis", "ensevelies"]
     }
   ]
 }
