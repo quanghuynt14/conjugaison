@@ -494,6 +494,24 @@
       },
       "participe_present": "arrivant",
       "participe_passe": ["arrivé", "arrivée", "arrivés", "arrivées"]
+    },
+    {
+      "id": "demander",
+      "infinitif": "demander",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["demande", "demandes", "demande", "demandons", "demandez", "demandent"],
+        "ind.imp": ["demandais", "demandais", "demandait", "demandions", "demandiez", "demandaient"],
+        "ind.ps": ["demandai", "demandas", "demanda", "demandâmes", "demandâtes", "demandèrent"],
+        "ind.fut": ["demanderai", "demanderas", "demandera", "demanderons", "demanderez", "demanderont"],
+        "cond.pres": ["demanderais", "demanderais", "demanderait", "demanderions", "demanderiez", "demanderaient"],
+        "subj.pres": ["demande", "demandes", "demande", "demandions", "demandiez", "demandent"],
+        "subj.imp": ["demandasse", "demandasses", "demandât", "demandassions", "demandassiez", "demandassent"],
+        "imper.pres": ["demande", "demandons", "demandez"]
+      },
+      "participe_present": "demandant",
+      "participe_passe": ["demandé", "demandée", "demandés", "demandées"]
     }
   ]
 }
