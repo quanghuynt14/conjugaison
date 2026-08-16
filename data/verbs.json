@@ -6677,6 +6677,24 @@
       },
       "participe_present": "soufflant",
       "participe_passe": ["soufflé", "soufflée", "soufflés", "soufflées"]
+    },
+    {
+      "id": "prononcer",
+      "infinitif": "prononcer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prononce", "prononces", "prononce", "prononçons", "prononcez", "prononcent"],
+        "ind.imp": ["prononçais", "prononçais", "prononçait", "prononcions", "prononciez", "prononçaient"],
+        "ind.ps": ["prononçai", "prononças", "prononça", "prononçâmes", "prononçâtes", "prononcèrent"],
+        "ind.fut": ["prononcerai", "prononceras", "prononcera", "prononcerons", "prononcerez", "prononceront"],
+        "cond.pres": ["prononcerais", "prononcerais", "prononcerait", "prononcerions", "prononceriez", "prononceraient"],
+        "subj.pres": ["prononce", "prononces", "prononce", "prononcions", "prononciez", "prononcent"],
+        "subj.imp": ["prononçasse", "prononçasses", "prononçât", "prononçassions", "prononçassiez", "prononçassent"],
+        "imper.pres": ["prononce", "prononçons", "prononcez"]
+      },
+      "participe_present": "prononçant",
+      "participe_passe": ["prononcé", "prononcée", "prononcés", "prononcées"]
     }
   ]
 }
