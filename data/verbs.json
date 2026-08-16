@@ -32629,6 +32629,24 @@
       },
       "participe_present": "importunant",
       "participe_passe": ["importuné", "importunée", "importunés", "importunées"]
+    },
+    {
+      "id": "teindre",
+      "infinitif": "teindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["teins", "teins", "teint", "teignons", "teignez", "teignent"],
+        "ind.imp": ["teignais", "teignais", "teignait", "teignions", "teigniez", "teignaient"],
+        "ind.ps": ["teignis", "teignis", "teignit", "teignîmes", "teignîtes", "teignirent"],
+        "ind.fut": ["teindrai", "teindras", "teindra", "teindrons", "teindrez", "teindront"],
+        "cond.pres": ["teindrais", "teindrais", "teindrait", "teindrions", "teindriez", "teindraient"],
+        "subj.pres": ["teigne", "teignes", "teigne", "teignions", "teigniez", "teignent"],
+        "subj.imp": ["teignisse", "teignisses", "teignît", "teignissions", "teignissiez", "teignissent"],
+        "imper.pres": ["teins", "teignons", "teignez"]
+      },
+      "participe_present": "teignant",
+      "participe_passe": ["teint", "teinte", "teints", "teintes"]
     }
   ]
 }
