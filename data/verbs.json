@@ -7620,6 +7620,24 @@
       },
       "participe_present": "réparant",
       "participe_passe": ["réparé", "réparée", "réparés", "réparées"]
+    },
+    {
+      "id": "assister",
+      "infinitif": "assister",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assiste", "assistes", "assiste", "assistons", "assistez", "assistent"],
+        "ind.imp": ["assistais", "assistais", "assistait", "assistions", "assistiez", "assistaient"],
+        "ind.ps": ["assistai", "assistas", "assista", "assistâmes", "assistâtes", "assistèrent"],
+        "ind.fut": ["assisterai", "assisteras", "assistera", "assisterons", "assisterez", "assisteront"],
+        "cond.pres": ["assisterais", "assisterais", "assisterait", "assisterions", "assisteriez", "assisteraient"],
+        "subj.pres": ["assiste", "assistes", "assiste", "assistions", "assistiez", "assistent"],
+        "subj.imp": ["assistasse", "assistasses", "assistât", "assistassions", "assistassiez", "assistassent"],
+        "imper.pres": ["assiste", "assistons", "assistez"]
+      },
+      "participe_present": "assistant",
+      "participe_passe": ["assisté", "assistée", "assistés", "assistées"]
     }
   ]
 }
