@@ -27724,6 +27724,24 @@
       },
       "participe_present": "écoeurant",
       "participe_passe": ["écoeuré", "écoeurée", "écoeurés", "écoeurées"]
+    },
+    {
+      "id": "approprier",
+      "infinitif": "approprier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["approprie", "appropries", "approprie", "approprions", "appropriez", "approprient"],
+        "ind.imp": ["appropriais", "appropriais", "appropriait", "appropriions", "appropriiez", "appropriaient"],
+        "ind.ps": ["appropriai", "approprias", "appropria", "appropriâmes", "appropriâtes", "approprièrent"],
+        "ind.fut": ["approprierai", "approprieras", "appropriera", "approprierons", "approprierez", "approprieront"],
+        "cond.pres": ["approprierais", "approprierais", "approprierait", "approprierions", "approprieriez", "approprieraient"],
+        "subj.pres": ["approprie", "appropries", "approprie", "appropriions", "appropriiez", "approprient"],
+        "subj.imp": ["appropriasse", "appropriasses", "appropriât", "appropriassions", "appropriassiez", "appropriassent"],
+        "imper.pres": ["approprie", "approprions", "appropriez"]
+      },
+      "participe_present": "appropriant",
+      "participe_passe": ["approprié", "appropriée", "appropriés", "appropriées"]
     }
   ]
 }
