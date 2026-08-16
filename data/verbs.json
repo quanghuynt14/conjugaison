@@ -18704,6 +18704,24 @@
       },
       "participe_present": "analysant",
       "participe_passe": ["analysé", "analysée", "analysés", "analysées"]
+    },
+    {
+      "id": "branler",
+      "infinitif": "branler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["branle", "branles", "branle", "branlons", "branlez", "branlent"],
+        "ind.imp": ["branlais", "branlais", "branlait", "branlions", "branliez", "branlaient"],
+        "ind.ps": ["branlai", "branlas", "branla", "branlâmes", "branlâtes", "branlèrent"],
+        "ind.fut": ["branlerai", "branleras", "branlera", "branlerons", "branlerez", "branleront"],
+        "cond.pres": ["branlerais", "branlerais", "branlerait", "branlerions", "branleriez", "branleraient"],
+        "subj.pres": ["branle", "branles", "branle", "branlions", "branliez", "branlent"],
+        "subj.imp": ["branlasse", "branlasses", "branlât", "branlassions", "branlassiez", "branlassent"],
+        "imper.pres": ["branle", "branlons", "branlez"]
+      },
+      "participe_present": "branlant",
+      "participe_passe": ["branlé", "branlée", "branlés", "branlées"]
     }
   ]
 }
