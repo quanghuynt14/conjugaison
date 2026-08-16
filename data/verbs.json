@@ -3419,6 +3419,25 @@
       },
       "participe_present": "rejoignant",
       "participe_passe": ["rejoint", "rejointe", "rejoints", "rejointes"]
+    },
+    {
+      "id": "remonter",
+      "infinitif": "remonter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis remonté ». Avec un complément d'objet direct, avoir : « j'ai remonté la pendule ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["remonte", "remontes", "remonte", "remontons", "remontez", "remontent"],
+        "ind.imp": ["remontais", "remontais", "remontait", "remontions", "remontiez", "remontaient"],
+        "ind.ps": ["remontai", "remontas", "remonta", "remontâmes", "remontâtes", "remontèrent"],
+        "ind.fut": ["remonterai", "remonteras", "remontera", "remonterons", "remonterez", "remonteront"],
+        "cond.pres": ["remonterais", "remonterais", "remonterait", "remonterions", "remonteriez", "remonteraient"],
+        "subj.pres": ["remonte", "remontes", "remonte", "remontions", "remontiez", "remontent"],
+        "subj.imp": ["remontasse", "remontasses", "remontât", "remontassions", "remontassiez", "remontassent"],
+        "imper.pres": ["remonte", "remontons", "remontez"]
+      },
+      "participe_present": "remontant",
+      "participe_passe": ["remonté", "remontée", "remontés", "remontées"]
     }
   ]
 }
