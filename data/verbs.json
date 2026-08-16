@@ -17422,6 +17422,24 @@
       },
       "participe_present": "affolant",
       "participe_passe": ["affolé", "affolée", "affolés", "affolées"]
+    },
+    {
+      "id": "illuminer",
+      "infinitif": "illuminer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["illumine", "illumines", "illumine", "illuminons", "illuminez", "illuminent"],
+        "ind.imp": ["illuminais", "illuminais", "illuminait", "illuminions", "illuminiez", "illuminaient"],
+        "ind.ps": ["illuminai", "illuminas", "illumina", "illuminâmes", "illuminâtes", "illuminèrent"],
+        "ind.fut": ["illuminerai", "illumineras", "illuminera", "illuminerons", "illuminerez", "illumineront"],
+        "cond.pres": ["illuminerais", "illuminerais", "illuminerait", "illuminerions", "illumineriez", "illumineraient"],
+        "subj.pres": ["illumine", "illumines", "illumine", "illuminions", "illuminiez", "illuminent"],
+        "subj.imp": ["illuminasse", "illuminasses", "illuminât", "illuminassions", "illuminassiez", "illuminassent"],
+        "imper.pres": ["illumine", "illuminons", "illuminez"]
+      },
+      "participe_present": "illuminant",
+      "participe_passe": ["illuminé", "illuminée", "illuminés", "illuminées"]
     }
   ]
 }
