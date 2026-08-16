@@ -24279,6 +24279,24 @@
       },
       "participe_present": "dispensant",
       "participe_passe": ["dispensé", "dispensée", "dispensés", "dispensées"]
+    },
+    {
+      "id": "chatouiller",
+      "infinitif": "chatouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chatouille", "chatouilles", "chatouille", "chatouillons", "chatouillez", "chatouillent"],
+        "ind.imp": ["chatouillais", "chatouillais", "chatouillait", "chatouillions", "chatouilliez", "chatouillaient"],
+        "ind.ps": ["chatouillai", "chatouillas", "chatouilla", "chatouillâmes", "chatouillâtes", "chatouillèrent"],
+        "ind.fut": ["chatouillerai", "chatouilleras", "chatouillera", "chatouillerons", "chatouillerez", "chatouilleront"],
+        "cond.pres": ["chatouillerais", "chatouillerais", "chatouillerait", "chatouillerions", "chatouilleriez", "chatouilleraient"],
+        "subj.pres": ["chatouille", "chatouilles", "chatouille", "chatouillions", "chatouilliez", "chatouillent"],
+        "subj.imp": ["chatouillasse", "chatouillasses", "chatouillât", "chatouillassions", "chatouillassiez", "chatouillassent"],
+        "imper.pres": ["chatouille", "chatouillons", "chatouillez"]
+      },
+      "participe_present": "chatouillant",
+      "participe_passe": ["chatouillé", "chatouillée", "chatouillés", "chatouillées"]
     }
   ]
 }
