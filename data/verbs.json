@@ -16404,6 +16404,24 @@
       },
       "participe_present": "provenant",
       "participe_passe": ["provenu", "provenue", "provenus", "provenues"]
+    },
+    {
+      "id": "accumuler",
+      "infinitif": "accumuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accumule", "accumules", "accumule", "accumulons", "accumulez", "accumulent"],
+        "ind.imp": ["accumulais", "accumulais", "accumulait", "accumulions", "accumuliez", "accumulaient"],
+        "ind.ps": ["accumulai", "accumulas", "accumula", "accumulâmes", "accumulâtes", "accumulèrent"],
+        "ind.fut": ["accumulerai", "accumuleras", "accumulera", "accumulerons", "accumulerez", "accumuleront"],
+        "cond.pres": ["accumulerais", "accumulerais", "accumulerait", "accumulerions", "accumuleriez", "accumuleraient"],
+        "subj.pres": ["accumule", "accumules", "accumule", "accumulions", "accumuliez", "accumulent"],
+        "subj.imp": ["accumulasse", "accumulasses", "accumulât", "accumulassions", "accumulassiez", "accumulassent"],
+        "imper.pres": ["accumule", "accumulons", "accumulez"]
+      },
+      "participe_present": "accumulant",
+      "participe_passe": ["accumulé", "accumulée", "accumulés", "accumulées"]
     }
   ]
 }
