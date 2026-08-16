@@ -14952,6 +14952,24 @@
       },
       "participe_present": "rétablissant",
       "participe_passe": ["rétabli", "rétablie", "rétablis", "rétablies"]
+    },
+    {
+      "id": "combler",
+      "infinitif": "combler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["comble", "combles", "comble", "comblons", "comblez", "comblent"],
+        "ind.imp": ["comblais", "comblais", "comblait", "comblions", "combliez", "comblaient"],
+        "ind.ps": ["comblai", "comblas", "combla", "comblâmes", "comblâtes", "comblèrent"],
+        "ind.fut": ["comblerai", "combleras", "comblera", "comblerons", "comblerez", "combleront"],
+        "cond.pres": ["comblerais", "comblerais", "comblerait", "comblerions", "combleriez", "combleraient"],
+        "subj.pres": ["comble", "combles", "comble", "comblions", "combliez", "comblent"],
+        "subj.imp": ["comblasse", "comblasses", "comblât", "comblassions", "comblassiez", "comblassent"],
+        "imper.pres": ["comble", "comblons", "comblez"]
+      },
+      "participe_present": "comblant",
+      "participe_passe": ["comblé", "comblée", "comblés", "comblées"]
     }
   ]
 }
