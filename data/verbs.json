@@ -31736,6 +31736,24 @@
       },
       "participe_present": "embellissant",
       "participe_passe": ["embelli", "embellie", "embellis", "embellies"]
+    },
+    {
+      "id": "entêter",
+      "infinitif": "entêter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entête", "entêtes", "entête", "entêtons", "entêtez", "entêtent"],
+        "ind.imp": ["entêtais", "entêtais", "entêtait", "entêtions", "entêtiez", "entêtaient"],
+        "ind.ps": ["entêtai", "entêtas", "entêta", "entêtâmes", "entêtâtes", "entêtèrent"],
+        "ind.fut": ["entêterai", "entêteras", "entêtera", "entêterons", "entêterez", "entêteront"],
+        "cond.pres": ["entêterais", "entêterais", "entêterait", "entêterions", "entêteriez", "entêteraient"],
+        "subj.pres": ["entête", "entêtes", "entête", "entêtions", "entêtiez", "entêtent"],
+        "subj.imp": ["entêtasse", "entêtasses", "entêtât", "entêtassions", "entêtassiez", "entêtassent"],
+        "imper.pres": ["entête", "entêtons", "entêtez"]
+      },
+      "participe_present": "entêtant",
+      "participe_passe": ["entêté", "entêtée", "entêtés", "entêtées"]
     }
   ]
 }
