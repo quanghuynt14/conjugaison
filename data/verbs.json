@@ -6841,6 +6841,24 @@
       },
       "participe_present": "nommant",
       "participe_passe": ["nommé", "nommée", "nommés", "nommées"]
+    },
+    {
+      "id": "balancer",
+      "infinitif": "balancer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["balance", "balances", "balance", "balançons", "balancez", "balancent"],
+        "ind.imp": ["balançais", "balançais", "balançait", "balancions", "balanciez", "balançaient"],
+        "ind.ps": ["balançai", "balanças", "balança", "balançâmes", "balançâtes", "balancèrent"],
+        "ind.fut": ["balancerai", "balanceras", "balancera", "balancerons", "balancerez", "balanceront"],
+        "cond.pres": ["balancerais", "balancerais", "balancerait", "balancerions", "balanceriez", "balanceraient"],
+        "subj.pres": ["balance", "balances", "balance", "balancions", "balanciez", "balancent"],
+        "subj.imp": ["balançasse", "balançasses", "balançât", "balançassions", "balançassiez", "balançassent"],
+        "imper.pres": ["balance", "balançons", "balancez"]
+      },
+      "participe_present": "balançant",
+      "participe_passe": ["balancé", "balancée", "balancés", "balancées"]
     }
   ]
 }
