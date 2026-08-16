@@ -16677,6 +16677,24 @@
       },
       "participe_present": "traquant",
       "participe_passe": ["traqué", "traquée", "traqués", "traquées"]
+    },
+    {
+      "id": "cingler",
+      "infinitif": "cingler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cingle", "cingles", "cingle", "cinglons", "cinglez", "cinglent"],
+        "ind.imp": ["cinglais", "cinglais", "cinglait", "cinglions", "cingliez", "cinglaient"],
+        "ind.ps": ["cinglai", "cinglas", "cingla", "cinglâmes", "cinglâtes", "cinglèrent"],
+        "ind.fut": ["cinglerai", "cingleras", "cinglera", "cinglerons", "cinglerez", "cingleront"],
+        "cond.pres": ["cinglerais", "cinglerais", "cinglerait", "cinglerions", "cingleriez", "cingleraient"],
+        "subj.pres": ["cingle", "cingles", "cingle", "cinglions", "cingliez", "cinglent"],
+        "subj.imp": ["cinglasse", "cinglasses", "cinglât", "cinglassions", "cinglassiez", "cinglassent"],
+        "imper.pres": ["cingle", "cinglons", "cinglez"]
+      },
+      "participe_present": "cinglant",
+      "participe_passe": ["cinglé", "cinglée", "cinglés", "cinglées"]
     }
   ]
 }
