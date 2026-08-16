@@ -657,6 +657,24 @@
       },
       "participe_present": "entendant",
       "participe_passe": ["entendu", "entendue", "entendus", "entendues"]
+    },
+    {
+      "id": "mourir",
+      "infinitif": "mourir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["meurs", "meurs", "meurt", "mourons", "mourez", "meurent"],
+        "ind.imp": ["mourais", "mourais", "mourait", "mourions", "mouriez", "mouraient"],
+        "ind.ps": ["mourus", "mourus", "mourut", "mourûmes", "mourûtes", "moururent"],
+        "ind.fut": ["mourrai", "mourras", "mourra", "mourrons", "mourrez", "mourront"],
+        "cond.pres": ["mourrais", "mourrais", "mourrait", "mourrions", "mourriez", "mourraient"],
+        "subj.pres": ["meure", "meures", "meure", "mourions", "mouriez", "meurent"],
+        "subj.imp": ["mourusse", "mourusses", "mourût", "mourussions", "mourussiez", "mourussent"],
+        "imper.pres": ["meurs", "mourons", "mourez"]
+      },
+      "participe_present": "mourant",
+      "participe_passe": ["mort", "morte", "morts", "mortes"]
     }
   ]
 }
