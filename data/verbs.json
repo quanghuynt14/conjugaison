@@ -3456,6 +3456,24 @@
       },
       "participe_present": "jurant",
       "participe_passe": ["juré", "jurée", "jurés", "jurées"]
+    },
+    {
+      "id": "danser",
+      "infinitif": "danser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["danse", "danses", "danse", "dansons", "dansez", "dansent"],
+        "ind.imp": ["dansais", "dansais", "dansait", "dansions", "dansiez", "dansaient"],
+        "ind.ps": ["dansai", "dansas", "dansa", "dansâmes", "dansâtes", "dansèrent"],
+        "ind.fut": ["danserai", "danseras", "dansera", "danserons", "danserez", "danseront"],
+        "cond.pres": ["danserais", "danserais", "danserait", "danserions", "danseriez", "danseraient"],
+        "subj.pres": ["danse", "danses", "danse", "dansions", "dansiez", "dansent"],
+        "subj.imp": ["dansasse", "dansasses", "dansât", "dansassions", "dansassiez", "dansassent"],
+        "imper.pres": ["danse", "dansons", "dansez"]
+      },
+      "participe_present": "dansant",
+      "participe_passe": ["dansé", "dansée", "dansés", "dansées"]
     }
   ]
 }
