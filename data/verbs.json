@@ -26245,6 +26245,24 @@
       },
       "participe_present": "noircissant",
       "participe_passe": ["noirci", "noircie", "noircis", "noircies"]
+    },
+    {
+      "id": "transpercer",
+      "infinitif": "transpercer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["transperce", "transperces", "transperce", "transperçons", "transpercez", "transpercent"],
+        "ind.imp": ["transperçais", "transperçais", "transperçait", "transpercions", "transperciez", "transperçaient"],
+        "ind.ps": ["transperçai", "transperças", "transperça", "transperçâmes", "transperçâtes", "transpercèrent"],
+        "ind.fut": ["transpercerai", "transperceras", "transpercera", "transpercerons", "transpercerez", "transperceront"],
+        "cond.pres": ["transpercerais", "transpercerais", "transpercerait", "transpercerions", "transperceriez", "transperceraient"],
+        "subj.pres": ["transperce", "transperces", "transperce", "transpercions", "transperciez", "transpercent"],
+        "subj.imp": ["transperçasse", "transperçasses", "transperçât", "transperçassions", "transperçassiez", "transperçassent"],
+        "imper.pres": ["transperce", "transperçons", "transpercez"]
+      },
+      "participe_present": "transperçant",
+      "participe_passe": ["transpercé", "transpercée", "transpercés", "transpercées"]
     }
   ]
 }
