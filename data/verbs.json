@@ -9936,6 +9936,24 @@
       },
       "participe_present": "pliant",
       "participe_passe": ["plié", "pliée", "pliés", "pliées"]
+    },
+    {
+      "id": "opposer",
+      "infinitif": "opposer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["oppose", "opposes", "oppose", "opposons", "opposez", "opposent"],
+        "ind.imp": ["opposais", "opposais", "opposait", "opposions", "opposiez", "opposaient"],
+        "ind.ps": ["opposai", "opposas", "opposa", "opposâmes", "opposâtes", "opposèrent"],
+        "ind.fut": ["opposerai", "opposeras", "opposera", "opposerons", "opposerez", "opposeront"],
+        "cond.pres": ["opposerais", "opposerais", "opposerait", "opposerions", "opposeriez", "opposeraient"],
+        "subj.pres": ["oppose", "opposes", "oppose", "opposions", "opposiez", "opposent"],
+        "subj.imp": ["opposasse", "opposasses", "opposât", "opposassions", "opposassiez", "opposassent"],
+        "imper.pres": ["oppose", "opposons", "opposez"]
+      },
+      "participe_present": "opposant",
+      "participe_passe": ["opposé", "opposée", "opposés", "opposées"]
     }
   ]
 }
