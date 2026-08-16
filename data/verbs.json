@@ -14118,6 +14118,24 @@
       },
       "participe_present": "doublant",
       "participe_passe": ["doublé", "doublée", "doublés", "doublées"]
+    },
+    {
+      "id": "fasciner",
+      "infinitif": "fasciner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fascine", "fascines", "fascine", "fascinons", "fascinez", "fascinent"],
+        "ind.imp": ["fascinais", "fascinais", "fascinait", "fascinions", "fasciniez", "fascinaient"],
+        "ind.ps": ["fascinai", "fascinas", "fascina", "fascinâmes", "fascinâtes", "fascinèrent"],
+        "ind.fut": ["fascinerai", "fascineras", "fascinera", "fascinerons", "fascinerez", "fascineront"],
+        "cond.pres": ["fascinerais", "fascinerais", "fascinerait", "fascinerions", "fascineriez", "fascineraient"],
+        "subj.pres": ["fascine", "fascines", "fascine", "fascinions", "fasciniez", "fascinent"],
+        "subj.imp": ["fascinasse", "fascinasses", "fascinât", "fascinassions", "fascinassiez", "fascinassent"],
+        "imper.pres": ["fascine", "fascinons", "fascinez"]
+      },
+      "participe_present": "fascinant",
+      "participe_passe": ["fasciné", "fascinée", "fascinés", "fascinées"]
     }
   ]
 }
