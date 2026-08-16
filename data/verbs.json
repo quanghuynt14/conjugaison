@@ -26881,6 +26881,24 @@
       },
       "participe_present": "prélevant",
       "participe_passe": ["prélevé", "prélevée", "prélevés", "prélevées"]
+    },
+    {
+      "id": "marteler",
+      "infinitif": "marteler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["martèle", "martèles", "martèle", "martelons", "martelez", "martèlent"],
+        "ind.imp": ["martelais", "martelais", "martelait", "martelions", "marteliez", "martelaient"],
+        "ind.ps": ["martelai", "martelas", "martela", "martelâmes", "martelâtes", "martelèrent"],
+        "ind.fut": ["martèlerai", "martèleras", "martèlera", "martèlerons", "martèlerez", "martèleront"],
+        "cond.pres": ["martèlerais", "martèlerais", "martèlerait", "martèlerions", "martèleriez", "martèleraient"],
+        "subj.pres": ["martèle", "martèles", "martèle", "martelions", "marteliez", "martèlent"],
+        "subj.imp": ["martelasse", "martelasses", "martelât", "martelassions", "martelassiez", "martelassent"],
+        "imper.pres": ["martèle", "martelons", "martelez"]
+      },
+      "participe_present": "martelant",
+      "participe_passe": ["martelé", "martelée", "martelés", "martelées"]
     }
   ]
 }
