@@ -21909,6 +21909,24 @@
       },
       "participe_present": "plissant",
       "participe_passe": ["plissé", "plissée", "plissés", "plissées"]
+    },
+    {
+      "id": "interpeller",
+      "infinitif": "interpeller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["interpelle", "interpelles", "interpelle", "interpellons", "interpellez", "interpellent"],
+        "ind.imp": ["interpellais", "interpellais", "interpellait", "interpellions", "interpelliez", "interpellaient"],
+        "ind.ps": ["interpellai", "interpellas", "interpella", "interpellâmes", "interpellâtes", "interpellèrent"],
+        "ind.fut": ["interpellerai", "interpelleras", "interpellera", "interpellerons", "interpellerez", "interpelleront"],
+        "cond.pres": ["interpellerais", "interpellerais", "interpellerait", "interpellerions", "interpelleriez", "interpelleraient"],
+        "subj.pres": ["interpelle", "interpelles", "interpelle", "interpellions", "interpelliez", "interpellent"],
+        "subj.imp": ["interpellasse", "interpellasses", "interpellât", "interpellassions", "interpellassiez", "interpellassent"],
+        "imper.pres": ["interpelle", "interpellons", "interpellez"]
+      },
+      "participe_present": "interpellant",
+      "participe_passe": ["interpellé", "interpellée", "interpellés", "interpellées"]
     }
   ]
 }
