@@ -21078,6 +21078,24 @@
       },
       "participe_present": "patientant",
       "participe_passe": ["patienté", null, null, null]
+    },
+    {
+      "id": "masser",
+      "infinitif": "masser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["masse", "masses", "masse", "massons", "massez", "massent"],
+        "ind.imp": ["massais", "massais", "massait", "massions", "massiez", "massaient"],
+        "ind.ps": ["massai", "massas", "massa", "massâmes", "massâtes", "massèrent"],
+        "ind.fut": ["masserai", "masseras", "massera", "masserons", "masserez", "masseront"],
+        "cond.pres": ["masserais", "masserais", "masserait", "masserions", "masseriez", "masseraient"],
+        "subj.pres": ["masse", "masses", "masse", "massions", "massiez", "massent"],
+        "subj.imp": ["massasse", "massasses", "massât", "massassions", "massassiez", "massassent"],
+        "imper.pres": ["masse", "massons", "massez"]
+      },
+      "participe_present": "massant",
+      "participe_passe": ["massé", "massée", "massés", "massées"]
     }
   ]
 }
