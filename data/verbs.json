@@ -19379,6 +19379,24 @@
       },
       "participe_present": "périssant",
       "participe_passe": ["péri", null, null, null]
+    },
+    {
+      "id": "inspecter",
+      "infinitif": "inspecter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["inspecte", "inspectes", "inspecte", "inspectons", "inspectez", "inspectent"],
+        "ind.imp": ["inspectais", "inspectais", "inspectait", "inspections", "inspectiez", "inspectaient"],
+        "ind.ps": ["inspectai", "inspectas", "inspecta", "inspectâmes", "inspectâtes", "inspectèrent"],
+        "ind.fut": ["inspecterai", "inspecteras", "inspectera", "inspecterons", "inspecterez", "inspecteront"],
+        "cond.pres": ["inspecterais", "inspecterais", "inspecterait", "inspecterions", "inspecteriez", "inspecteraient"],
+        "subj.pres": ["inspecte", "inspectes", "inspecte", "inspections", "inspectiez", "inspectent"],
+        "subj.imp": ["inspectasse", "inspectasses", "inspectât", "inspectassions", "inspectassiez", "inspectassent"],
+        "imper.pres": ["inspecte", "inspectons", "inspectez"]
+      },
+      "participe_present": "inspectant",
+      "participe_passe": ["inspecté", "inspectée", "inspectés", "inspectées"]
     }
   ]
 }
