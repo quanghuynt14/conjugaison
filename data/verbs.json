@@ -21782,6 +21782,25 @@
       },
       "participe_present": "puisant",
       "participe_passe": ["puisé", "puisée", "puisés", "puisées"]
+    },
+    {
+      "id": "advenir",
+      "infinitif": "advenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "note": "Verbe impersonnel ou de troisième personne : « il advient que », « quoi qu'il advienne », « les malheurs advenus ». Pas d'impératif.",
+      "tenses": {
+        "ind.pres": [null, null, "advient", null, null, "adviennent"],
+        "ind.imp": [null, null, "advenait", null, null, "advenaient"],
+        "ind.ps": [null, null, "advint", null, null, "advinrent"],
+        "ind.fut": [null, null, "adviendra", null, null, "adviendront"],
+        "cond.pres": [null, null, "adviendrait", null, null, "adviendraient"],
+        "subj.pres": [null, null, "advienne", null, null, "adviennent"],
+        "subj.imp": [null, null, "advînt", null, null, "advinssent"],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": "advenant",
+      "participe_passe": ["advenu", "advenue", "advenus", "advenues"]
     }
   ]
 }
