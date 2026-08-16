@@ -22037,6 +22037,24 @@
       },
       "participe_present": "détaillant",
       "participe_passe": ["détaillé", "détaillée", "détaillés", "détaillées"]
+    },
+    {
+      "id": "foirer",
+      "infinitif": "foirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["foire", "foires", "foire", "foirons", "foirez", "foirent"],
+        "ind.imp": ["foirais", "foirais", "foirait", "foirions", "foiriez", "foiraient"],
+        "ind.ps": ["foirai", "foiras", "foira", "foirâmes", "foirâtes", "foirèrent"],
+        "ind.fut": ["foirerai", "foireras", "foirera", "foirerons", "foirerez", "foireront"],
+        "cond.pres": ["foirerais", "foirerais", "foirerait", "foirerions", "foireriez", "foireraient"],
+        "subj.pres": ["foire", "foires", "foire", "foirions", "foiriez", "foirent"],
+        "subj.imp": ["foirasse", "foirasses", "foirât", "foirassions", "foirassiez", "foirassent"],
+        "imper.pres": ["foire", "foirons", "foirez"]
+      },
+      "participe_present": "foirant",
+      "participe_passe": ["foiré", "foirée", "foirés", "foirées"]
     }
   ]
 }
