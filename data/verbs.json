@@ -25334,6 +25334,24 @@
       },
       "participe_present": "impatientant",
       "participe_passe": ["impatienté", "impatientée", "impatientés", "impatientées"]
+    },
+    {
+      "id": "infiltrer",
+      "infinitif": "infiltrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["infiltre", "infiltres", "infiltre", "infiltrons", "infiltrez", "infiltrent"],
+        "ind.imp": ["infiltrais", "infiltrais", "infiltrait", "infiltrions", "infiltriez", "infiltraient"],
+        "ind.ps": ["infiltrai", "infiltras", "infiltra", "infiltrâmes", "infiltrâtes", "infiltrèrent"],
+        "ind.fut": ["infiltrerai", "infiltreras", "infiltrera", "infiltrerons", "infiltrerez", "infiltreront"],
+        "cond.pres": ["infiltrerais", "infiltrerais", "infiltrerait", "infiltrerions", "infiltreriez", "infiltreraient"],
+        "subj.pres": ["infiltre", "infiltres", "infiltre", "infiltrions", "infiltriez", "infiltrent"],
+        "subj.imp": ["infiltrasse", "infiltrasses", "infiltrât", "infiltrassions", "infiltrassiez", "infiltrassent"],
+        "imper.pres": ["infiltre", "infiltrons", "infiltrez"]
+      },
+      "participe_present": "infiltrant",
+      "participe_passe": ["infiltré", "infiltrée", "infiltrés", "infiltrées"]
     }
   ]
 }
