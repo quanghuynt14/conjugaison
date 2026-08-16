@@ -9484,6 +9484,24 @@
       },
       "participe_present": "décrivant",
       "participe_passe": ["décrit", "décrite", "décrits", "décrites"]
+    },
+    {
+      "id": "avertir",
+      "infinitif": "avertir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["avertis", "avertis", "avertit", "avertissons", "avertissez", "avertissent"],
+        "ind.imp": ["avertissais", "avertissais", "avertissait", "avertissions", "avertissiez", "avertissaient"],
+        "ind.ps": ["avertis", "avertis", "avertit", "avertîmes", "avertîtes", "avertirent"],
+        "ind.fut": ["avertirai", "avertiras", "avertira", "avertirons", "avertirez", "avertiront"],
+        "cond.pres": ["avertirais", "avertirais", "avertirait", "avertirions", "avertiriez", "avertiraient"],
+        "subj.pres": ["avertisse", "avertisses", "avertisse", "avertissions", "avertissiez", "avertissent"],
+        "subj.imp": ["avertisse", "avertisses", "avertît", "avertissions", "avertissiez", "avertissent"],
+        "imper.pres": ["avertis", "avertissons", "avertissez"]
+      },
+      "participe_present": "avertissant",
+      "participe_passe": ["averti", "avertie", "avertis", "averties"]
     }
   ]
 }
