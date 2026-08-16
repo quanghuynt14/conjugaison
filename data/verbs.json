@@ -14046,6 +14046,24 @@
       },
       "participe_present": "réchauffant",
       "participe_passe": ["réchauffé", "réchauffée", "réchauffés", "réchauffées"]
+    },
+    {
+      "id": "éliminer",
+      "infinitif": "éliminer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["élimine", "élimines", "élimine", "éliminons", "éliminez", "éliminent"],
+        "ind.imp": ["éliminais", "éliminais", "éliminait", "éliminions", "éliminiez", "éliminaient"],
+        "ind.ps": ["éliminai", "éliminas", "élimina", "éliminâmes", "éliminâtes", "éliminèrent"],
+        "ind.fut": ["éliminerai", "élimineras", "éliminera", "éliminerons", "éliminerez", "élimineront"],
+        "cond.pres": ["éliminerais", "éliminerais", "éliminerait", "éliminerions", "élimineriez", "élimineraient"],
+        "subj.pres": ["élimine", "élimines", "élimine", "éliminions", "éliminiez", "éliminent"],
+        "subj.imp": ["éliminasse", "éliminasses", "éliminât", "éliminassions", "éliminassiez", "éliminassent"],
+        "imper.pres": ["élimine", "éliminons", "éliminez"]
+      },
+      "participe_present": "éliminant",
+      "participe_passe": ["éliminé", "éliminée", "éliminés", "éliminées"]
     }
   ]
 }
