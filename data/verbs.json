@@ -20053,6 +20053,24 @@
       },
       "participe_present": "bâillant",
       "participe_passe": ["bâillé", null, null, null]
+    },
+    {
+      "id": "agripper",
+      "infinitif": "agripper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["agrippe", "agrippes", "agrippe", "agrippons", "agrippez", "agrippent"],
+        "ind.imp": ["agrippais", "agrippais", "agrippait", "agrippions", "agrippiez", "agrippaient"],
+        "ind.ps": ["agrippai", "agrippas", "agrippa", "agrippâmes", "agrippâtes", "agrippèrent"],
+        "ind.fut": ["agripperai", "agripperas", "agrippera", "agripperons", "agripperez", "agripperont"],
+        "cond.pres": ["agripperais", "agripperais", "agripperait", "agripperions", "agripperiez", "agripperaient"],
+        "subj.pres": ["agrippe", "agrippes", "agrippe", "agrippions", "agrippiez", "agrippent"],
+        "subj.imp": ["agrippasse", "agrippasses", "agrippât", "agrippassions", "agrippassiez", "agrippassent"],
+        "imper.pres": ["agrippe", "agrippons", "agrippez"]
+      },
+      "participe_present": "agrippant",
+      "participe_passe": ["agrippé", "agrippée", "agrippés", "agrippées"]
     }
   ]
 }
