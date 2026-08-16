@@ -30930,6 +30930,26 @@
       },
       "participe_present": "ferrant",
       "participe_passe": ["ferré", "ferrée", "ferrés", "ferrées"]
+    },
+    {
+      "id": "éprendre",
+      "infinitif": "éprendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’éprends » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["éprends", "éprends", "éprend", "éprenons", "éprenez", "éprennent"],
+        "ind.imp": ["éprenais", "éprenais", "éprenait", "éprenions", "épreniez", "éprenaient"],
+        "ind.ps": ["épris", "épris", "éprit", "éprîmes", "éprîtes", "éprirent"],
+        "ind.fut": ["éprendrai", "éprendras", "éprendra", "éprendrons", "éprendrez", "éprendront"],
+        "cond.pres": ["éprendrais", "éprendrais", "éprendrait", "éprendrions", "éprendriez", "éprendraient"],
+        "subj.pres": ["éprenne", "éprennes", "éprenne", "éprenions", "épreniez", "éprennent"],
+        "subj.imp": ["éprisse", "éprisses", "éprît", "éprissions", "éprissiez", "éprissent"],
+        "imper.pres": ["éprends", "éprenons", "éprenez"]
+      },
+      "participe_present": "éprenant",
+      "participe_passe": ["épris", "éprise", "épris", "éprises"]
     }
   ]
 }
