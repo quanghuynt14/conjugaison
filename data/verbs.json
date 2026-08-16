@@ -3654,6 +3654,24 @@
       },
       "participe_present": "accompagnant",
       "participe_passe": ["accompagné", "accompagnée", "accompagnés", "accompagnées"]
+    },
+    {
+      "id": "brûler",
+      "infinitif": "brûler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["brûle", "brûles", "brûle", "brûlons", "brûlez", "brûlent"],
+        "ind.imp": ["brûlais", "brûlais", "brûlait", "brûlions", "brûliez", "brûlaient"],
+        "ind.ps": ["brûlai", "brûlas", "brûla", "brûlâmes", "brûlâtes", "brûlèrent"],
+        "ind.fut": ["brûlerai", "brûleras", "brûlera", "brûlerons", "brûlerez", "brûleront"],
+        "cond.pres": ["brûlerais", "brûlerais", "brûlerait", "brûlerions", "brûleriez", "brûleraient"],
+        "subj.pres": ["brûle", "brûles", "brûle", "brûlions", "brûliez", "brûlent"],
+        "subj.imp": ["brûlasse", "brûlasses", "brûlât", "brûlassions", "brûlassiez", "brûlassent"],
+        "imper.pres": ["brûle", "brûlons", "brûlez"]
+      },
+      "participe_present": "brûlant",
+      "participe_passe": ["brûlé", "brûlée", "brûlés", "brûlées"]
     }
   ]
 }
