@@ -23526,6 +23526,24 @@
       },
       "participe_present": "minant",
       "participe_passe": ["miné", "minée", "minés", "minées"]
+    },
+    {
+      "id": "ajuster",
+      "infinitif": "ajuster",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ajuste", "ajustes", "ajuste", "ajustons", "ajustez", "ajustent"],
+        "ind.imp": ["ajustais", "ajustais", "ajustait", "ajustions", "ajustiez", "ajustaient"],
+        "ind.ps": ["ajustai", "ajustas", "ajusta", "ajustâmes", "ajustâtes", "ajustèrent"],
+        "ind.fut": ["ajusterai", "ajusteras", "ajustera", "ajusterons", "ajusterez", "ajusteront"],
+        "cond.pres": ["ajusterais", "ajusterais", "ajusterait", "ajusterions", "ajusteriez", "ajusteraient"],
+        "subj.pres": ["ajuste", "ajustes", "ajuste", "ajustions", "ajustiez", "ajustent"],
+        "subj.imp": ["ajustasse", "ajustasses", "ajustât", "ajustassions", "ajustassiez", "ajustassent"],
+        "imper.pres": ["ajuste", "ajustons", "ajustez"]
+      },
+      "participe_present": "ajustant",
+      "participe_passe": ["ajusté", "ajustée", "ajustés", "ajustées"]
     }
   ]
 }
