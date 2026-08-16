@@ -2587,6 +2587,24 @@
       },
       "participe_present": "réveillant",
       "participe_passe": ["réveillé", "réveillée", "réveillés", "réveillées"]
+    },
+    {
+      "id": "présenter",
+      "infinitif": "présenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["présente", "présentes", "présente", "présentons", "présentez", "présentent"],
+        "ind.imp": ["présentais", "présentais", "présentait", "présentions", "présentiez", "présentaient"],
+        "ind.ps": ["présentai", "présentas", "présenta", "présentâmes", "présentâtes", "présentèrent"],
+        "ind.fut": ["présenterai", "présenteras", "présentera", "présenterons", "présenterez", "présenteront"],
+        "cond.pres": ["présenterais", "présenterais", "présenterait", "présenterions", "présenteriez", "présenteraient"],
+        "subj.pres": ["présente", "présentes", "présente", "présentions", "présentiez", "présentent"],
+        "subj.imp": ["présentasse", "présentasses", "présentât", "présentassions", "présentassiez", "présentassent"],
+        "imper.pres": ["présente", "présentons", "présentez"]
+      },
+      "participe_present": "présentant",
+      "participe_passe": ["présenté", "présentée", "présentés", "présentées"]
     }
   ]
 }
