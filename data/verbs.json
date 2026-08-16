@@ -13482,6 +13482,24 @@
       },
       "participe_present": "aspirant",
       "participe_passe": ["aspiré", "aspirée", "aspirés", "aspirées"]
+    },
+    {
+      "id": "décoller",
+      "infinitif": "décoller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décolle", "décolles", "décolle", "décollons", "décollez", "décollent"],
+        "ind.imp": ["décollais", "décollais", "décollait", "décollions", "décolliez", "décollaient"],
+        "ind.ps": ["décollai", "décollas", "décolla", "décollâmes", "décollâtes", "décollèrent"],
+        "ind.fut": ["décollerai", "décolleras", "décollera", "décollerons", "décollerez", "décolleront"],
+        "cond.pres": ["décollerais", "décollerais", "décollerait", "décollerions", "décolleriez", "décolleraient"],
+        "subj.pres": ["décolle", "décolles", "décolle", "décollions", "décolliez", "décollent"],
+        "subj.imp": ["décollasse", "décollasses", "décollât", "décollassions", "décollassiez", "décollassent"],
+        "imper.pres": ["décolle", "décollons", "décollez"]
+      },
+      "participe_present": "décollant",
+      "participe_passe": ["décollé", "décollée", "décollés", "décollées"]
     }
   ]
 }
