@@ -30202,6 +30202,25 @@
       },
       "participe_present": "programmant",
       "participe_passe": ["programmé", "programmée", "programmés", "programmées"]
+    },
+    {
+      "id": "séjourner",
+      "infinitif": "séjourner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « séjourné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["séjourne", "séjournes", "séjourne", "séjournons", "séjournez", "séjournent"],
+        "ind.imp": ["séjournais", "séjournais", "séjournait", "séjournions", "séjourniez", "séjournaient"],
+        "ind.ps": ["séjournai", "séjournas", "séjourna", "séjournâmes", "séjournâtes", "séjournèrent"],
+        "ind.fut": ["séjournerai", "séjourneras", "séjournera", "séjournerons", "séjournerez", "séjourneront"],
+        "cond.pres": ["séjournerais", "séjournerais", "séjournerait", "séjournerions", "séjourneriez", "séjourneraient"],
+        "subj.pres": ["séjourne", "séjournes", "séjourne", "séjournions", "séjourniez", "séjournent"],
+        "subj.imp": ["séjournasse", "séjournasses", "séjournât", "séjournassions", "séjournassiez", "séjournassent"],
+        "imper.pres": ["séjourne", "séjournons", "séjournez"]
+      },
+      "participe_present": "séjournant",
+      "participe_passe": ["séjourné", null, null, null]
     }
   ]
 }
