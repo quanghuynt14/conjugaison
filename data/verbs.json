@@ -36369,6 +36369,24 @@
       },
       "participe_present": "enthousiasmant",
       "participe_passe": ["enthousiasmé", "enthousiasmée", "enthousiasmés", "enthousiasmées"]
+    },
+    {
+      "id": "desservir",
+      "infinitif": "desservir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dessers", "dessers", "dessert", "desservons", "desservez", "desservent"],
+        "ind.imp": ["desservais", "desservais", "desservait", "desservions", "desserviez", "desservaient"],
+        "ind.ps": ["desservis", "desservis", "desservit", "desservîmes", "desservîtes", "desservirent"],
+        "ind.fut": ["desservirai", "desserviras", "desservira", "desservirons", "desservirez", "desserviront"],
+        "cond.pres": ["desservirais", "desservirais", "desservirait", "desservirions", "desserviriez", "desserviraient"],
+        "subj.pres": ["desserve", "desserves", "desserve", "desservions", "desserviez", "desservent"],
+        "subj.imp": ["desservisse", "desservisses", "desservît", "desservissions", "desservissiez", "desservissent"],
+        "imper.pres": ["dessers", "desservons", "desservez"]
+      },
+      "participe_present": "desservant",
+      "participe_passe": ["desservi", "desservie", "desservis", "desservies"]
     }
   ]
 }
