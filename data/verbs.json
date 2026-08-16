@@ -34139,6 +34139,25 @@
       },
       "participe_present": "équilibrant",
       "participe_passe": ["équilibré", "équilibrée", "équilibrés", "équilibrées"]
+    },
+    {
+      "id": "miauler",
+      "infinitif": "miauler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « miaulé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["miaule", "miaules", "miaule", "miaulons", "miaulez", "miaulent"],
+        "ind.imp": ["miaulais", "miaulais", "miaulait", "miaulions", "miauliez", "miaulaient"],
+        "ind.ps": ["miaulai", "miaulas", "miaula", "miaulâmes", "miaulâtes", "miaulèrent"],
+        "ind.fut": ["miaulerai", "miauleras", "miaulera", "miaulerons", "miaulerez", "miauleront"],
+        "cond.pres": ["miaulerais", "miaulerais", "miaulerait", "miaulerions", "miauleriez", "miauleraient"],
+        "subj.pres": ["miaule", "miaules", "miaule", "miaulions", "miauliez", "miaulent"],
+        "subj.imp": ["miaulasse", "miaulasses", "miaulât", "miaulassions", "miaulassiez", "miaulassent"],
+        "imper.pres": ["miaule", "miaulons", "miaulez"]
+      },
+      "participe_present": "miaulant",
+      "participe_passe": ["miaulé", null, null, null]
     }
   ]
 }
