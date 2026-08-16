@@ -16368,6 +16368,24 @@
       },
       "participe_present": "négligeant",
       "participe_passe": ["négligé", "négligée", "négligés", "négligées"]
+    },
+    {
+      "id": "vibrer",
+      "infinitif": "vibrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vibre", "vibres", "vibre", "vibrons", "vibrez", "vibrent"],
+        "ind.imp": ["vibrais", "vibrais", "vibrait", "vibrions", "vibriez", "vibraient"],
+        "ind.ps": ["vibrai", "vibras", "vibra", "vibrâmes", "vibrâtes", "vibrèrent"],
+        "ind.fut": ["vibrerai", "vibreras", "vibrera", "vibrerons", "vibrerez", "vibreront"],
+        "cond.pres": ["vibrerais", "vibrerais", "vibrerait", "vibrerions", "vibreriez", "vibreraient"],
+        "subj.pres": ["vibre", "vibres", "vibre", "vibrions", "vibriez", "vibrent"],
+        "subj.imp": ["vibrasse", "vibrasses", "vibrât", "vibrassions", "vibrassiez", "vibrassent"],
+        "imper.pres": ["vibre", "vibrons", "vibrez"]
+      },
+      "participe_present": "vibrant",
+      "participe_passe": ["vibré", "vibrée", "vibrés", "vibrées"]
     }
   ]
 }
