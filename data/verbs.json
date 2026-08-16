@@ -29821,6 +29821,24 @@
       },
       "participe_present": "faiblissant",
       "participe_passe": ["faibli", null, null, null]
+    },
+    {
+      "id": "écarquiller",
+      "infinitif": "écarquiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["écarquille", "écarquilles", "écarquille", "écarquillons", "écarquillez", "écarquillent"],
+        "ind.imp": ["écarquillais", "écarquillais", "écarquillait", "écarquillions", "écarquilliez", "écarquillaient"],
+        "ind.ps": ["écarquillai", "écarquillas", "écarquilla", "écarquillâmes", "écarquillâtes", "écarquillèrent"],
+        "ind.fut": ["écarquillerai", "écarquilleras", "écarquillera", "écarquillerons", "écarquillerez", "écarquilleront"],
+        "cond.pres": ["écarquillerais", "écarquillerais", "écarquillerait", "écarquillerions", "écarquilleriez", "écarquilleraient"],
+        "subj.pres": ["écarquille", "écarquilles", "écarquille", "écarquillions", "écarquilliez", "écarquillent"],
+        "subj.imp": ["écarquillasse", "écarquillasses", "écarquillât", "écarquillassions", "écarquillassiez", "écarquillassent"],
+        "imper.pres": ["écarquille", "écarquillons", "écarquillez"]
+      },
+      "participe_present": "écarquillant",
+      "participe_passe": ["écarquillé", "écarquillée", "écarquillés", "écarquillées"]
     }
   ]
 }
