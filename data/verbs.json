@@ -4576,6 +4576,24 @@
       },
       "participe_present": "souhaitant",
       "participe_passe": ["souhaité", "souhaitée", "souhaités", "souhaitées"]
+    },
+    {
+      "id": "arracher",
+      "infinitif": "arracher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["arrache", "arraches", "arrache", "arrachons", "arrachez", "arrachent"],
+        "ind.imp": ["arrachais", "arrachais", "arrachait", "arrachions", "arrachiez", "arrachaient"],
+        "ind.ps": ["arrachai", "arrachas", "arracha", "arrachâmes", "arrachâtes", "arrachèrent"],
+        "ind.fut": ["arracherai", "arracheras", "arrachera", "arracherons", "arracherez", "arracheront"],
+        "cond.pres": ["arracherais", "arracherais", "arracherait", "arracherions", "arracheriez", "arracheraient"],
+        "subj.pres": ["arrache", "arraches", "arrache", "arrachions", "arrachiez", "arrachent"],
+        "subj.imp": ["arrachasse", "arrachasses", "arrachât", "arrachassions", "arrachassiez", "arrachassent"],
+        "imper.pres": ["arrache", "arrachons", "arrachez"]
+      },
+      "participe_present": "arrachant",
+      "participe_passe": ["arraché", "arrachée", "arrachés", "arrachées"]
     }
   ]
 }
