@@ -5047,6 +5047,24 @@
       },
       "participe_present": "entraînant",
       "participe_passe": ["entraîné", "entraînée", "entraînés", "entraînées"]
+    },
+    {
+      "id": "mériter",
+      "infinitif": "mériter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mérite", "mérites", "mérite", "méritons", "méritez", "méritent"],
+        "ind.imp": ["méritais", "méritais", "méritait", "méritions", "méritiez", "méritaient"],
+        "ind.ps": ["méritai", "méritas", "mérita", "méritâmes", "méritâtes", "méritèrent"],
+        "ind.fut": ["mériterai", "mériteras", "méritera", "mériterons", "mériterez", "mériteront"],
+        "cond.pres": ["mériterais", "mériterais", "mériterait", "mériterions", "mériteriez", "mériteraient"],
+        "subj.pres": ["mérite", "mérites", "mérite", "méritions", "méritiez", "méritent"],
+        "subj.imp": ["méritasse", "méritasses", "méritât", "méritassions", "méritassiez", "méritassent"],
+        "imper.pres": ["mérite", "méritons", "méritez"]
+      },
+      "participe_present": "méritant",
+      "participe_passe": ["mérité", "méritée", "mérités", "méritées"]
     }
   ]
 }
