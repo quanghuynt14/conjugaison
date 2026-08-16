@@ -31475,6 +31475,24 @@
       },
       "participe_present": "inculpant",
       "participe_passe": ["inculpé", "inculpée", "inculpés", "inculpées"]
+    },
+    {
+      "id": "griffonner",
+      "infinitif": "griffonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["griffonne", "griffonnes", "griffonne", "griffonnons", "griffonnez", "griffonnent"],
+        "ind.imp": ["griffonnais", "griffonnais", "griffonnait", "griffonnions", "griffonniez", "griffonnaient"],
+        "ind.ps": ["griffonnai", "griffonnas", "griffonna", "griffonnâmes", "griffonnâtes", "griffonnèrent"],
+        "ind.fut": ["griffonnerai", "griffonneras", "griffonnera", "griffonnerons", "griffonnerez", "griffonneront"],
+        "cond.pres": ["griffonnerais", "griffonnerais", "griffonnerait", "griffonnerions", "griffonneriez", "griffonneraient"],
+        "subj.pres": ["griffonne", "griffonnes", "griffonne", "griffonnions", "griffonniez", "griffonnent"],
+        "subj.imp": ["griffonnasse", "griffonnasses", "griffonnât", "griffonnassions", "griffonnassiez", "griffonnassent"],
+        "imper.pres": ["griffonne", "griffonnons", "griffonnez"]
+      },
+      "participe_present": "griffonnant",
+      "participe_passe": ["griffonné", "griffonnée", "griffonnés", "griffonnées"]
     }
   ]
 }
