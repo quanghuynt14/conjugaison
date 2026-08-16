@@ -28431,6 +28431,24 @@
       },
       "participe_present": "modelant",
       "participe_passe": ["modelé", "modelée", "modelés", "modelées"]
+    },
+    {
+      "id": "épaissir",
+      "infinitif": "épaissir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["épaissis", "épaissis", "épaissit", "épaississons", "épaississez", "épaississent"],
+        "ind.imp": ["épaississais", "épaississais", "épaississait", "épaississions", "épaississiez", "épaississaient"],
+        "ind.ps": ["épaissis", "épaissis", "épaissit", "épaissîmes", "épaissîtes", "épaissirent"],
+        "ind.fut": ["épaissirai", "épaissiras", "épaissira", "épaissirons", "épaissirez", "épaissiront"],
+        "cond.pres": ["épaissirais", "épaissirais", "épaissirait", "épaissirions", "épaissiriez", "épaissiraient"],
+        "subj.pres": ["épaississe", "épaississes", "épaississe", "épaississions", "épaississiez", "épaississent"],
+        "subj.imp": ["épaississe", "épaississes", "épaissît", "épaississions", "épaississiez", "épaississent"],
+        "imper.pres": ["épaissis", "épaississons", "épaississez"]
+      },
+      "participe_present": "épaississant",
+      "participe_passe": ["épaissi", "épaissie", "épaissis", "épaissies"]
     }
   ]
 }
