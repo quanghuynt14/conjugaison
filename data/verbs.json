@@ -10684,6 +10684,25 @@
       },
       "participe_present": "craquant",
       "participe_passe": ["craqué", "craquée", "craqués", "craquées"]
+    },
+    {
+      "id": "repérer",
+      "infinitif": "repérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je repérerai » ou « je repèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["repère", "repères", "repère", "repérons", "repérez", "repèrent"],
+        "ind.imp": ["repérais", "repérais", "repérait", "repérions", "repériez", "repéraient"],
+        "ind.ps": ["repérai", "repéras", "repéra", "repérâmes", "repérâtes", "repérèrent"],
+        "ind.fut": [["repérerai", "repèrerai"], ["repéreras", "repèreras"], ["repérera", "repèrera"], ["repérerons", "repèrerons"], ["repérerez", "repèrerez"], ["repéreront", "repèreront"]],
+        "cond.pres": [["repérerais", "repèrerais"], ["repérerais", "repèrerais"], ["repérerait", "repèrerait"], ["repérerions", "repèrerions"], ["repéreriez", "repèreriez"], ["repéreraient", "repèreraient"]],
+        "subj.pres": ["repère", "repères", "repère", "repérions", "repériez", "repèrent"],
+        "subj.imp": ["repérasse", "repérasses", "repérât", "repérassions", "repérassiez", "repérassent"],
+        "imper.pres": ["repère", "repérons", "repérez"]
+      },
+      "participe_present": "repérant",
+      "participe_passe": ["repéré", "repérée", "repérés", "repérées"]
     }
   ]
 }
