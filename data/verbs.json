@@ -9682,6 +9682,25 @@
       },
       "participe_present": "mesurant",
       "participe_passe": ["mesuré", "mesurée", "mesurés", "mesurées"]
+    },
+    {
+      "id": "effrayer",
+      "infinitif": "effrayer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « j’effraie » ou « j’effraye ».",
+      "tenses": {
+        "ind.pres": [["effraie", "effraye"], ["effraies", "effrayes"], ["effraie", "effraye"], "effrayons", "effrayez", ["effraient", "effrayent"]],
+        "ind.imp": ["effrayais", "effrayais", "effrayait", "effrayions", "effrayiez", "effrayaient"],
+        "ind.ps": ["effrayai", "effrayas", "effraya", "effrayâmes", "effrayâtes", "effrayèrent"],
+        "ind.fut": [["effraierai", "effrayerai"], ["effraieras", "effrayeras"], ["effraiera", "effrayera"], ["effraierons", "effrayerons"], ["effraierez", "effrayerez"], ["effraieront", "effrayeront"]],
+        "cond.pres": [["effraierais", "effrayerais"], ["effraierais", "effrayerais"], ["effraierait", "effrayerait"], ["effraierions", "effrayerions"], ["effraieriez", "effrayeriez"], ["effraieraient", "effrayeraient"]],
+        "subj.pres": [["effraie", "effraye"], ["effraies", "effrayes"], ["effraie", "effraye"], "effrayions", "effrayiez", ["effraient", "effrayent"]],
+        "subj.imp": ["effrayasse", "effrayasses", "effrayât", "effrayassions", "effrayassiez", "effrayassent"],
+        "imper.pres": [["effraie", "effraye"], "effrayons", "effrayez"]
+      },
+      "participe_present": "effrayant",
+      "participe_passe": ["effrayé", "effrayée", "effrayés", "effrayées"]
     }
   ]
 }
