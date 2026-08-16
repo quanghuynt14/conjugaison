@@ -35406,6 +35406,25 @@
       },
       "participe_present": "réquisitionnant",
       "participe_passe": ["réquisitionné", "réquisitionnée", "réquisitionnés", "réquisitionnées"]
+    },
+    {
+      "id": "agoniser",
+      "infinitif": "agoniser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « agonisé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["agonise", "agonises", "agonise", "agonisons", "agonisez", "agonisent"],
+        "ind.imp": ["agonisais", "agonisais", "agonisait", "agonisions", "agonisiez", "agonisaient"],
+        "ind.ps": ["agonisai", "agonisas", "agonisa", "agonisâmes", "agonisâtes", "agonisèrent"],
+        "ind.fut": ["agoniserai", "agoniseras", "agonisera", "agoniserons", "agoniserez", "agoniseront"],
+        "cond.pres": ["agoniserais", "agoniserais", "agoniserait", "agoniserions", "agoniseriez", "agoniseraient"],
+        "subj.pres": ["agonise", "agonises", "agonise", "agonisions", "agonisiez", "agonisent"],
+        "subj.imp": ["agonisasse", "agonisasses", "agonisât", "agonisassions", "agonisassiez", "agonisassent"],
+        "imper.pres": ["agonise", "agonisons", "agonisez"]
+      },
+      "participe_present": "agonisant",
+      "participe_passe": ["agonisé", null, null, null]
     }
   ]
 }
