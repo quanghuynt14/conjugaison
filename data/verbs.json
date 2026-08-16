@@ -29965,6 +29965,25 @@
       },
       "participe_present": "gorgeant",
       "participe_passe": ["gorgé", "gorgée", "gorgés", "gorgées"]
+    },
+    {
+      "id": "déambuler",
+      "infinitif": "déambuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « déambulé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["déambule", "déambules", "déambule", "déambulons", "déambulez", "déambulent"],
+        "ind.imp": ["déambulais", "déambulais", "déambulait", "déambulions", "déambuliez", "déambulaient"],
+        "ind.ps": ["déambulai", "déambulas", "déambula", "déambulâmes", "déambulâtes", "déambulèrent"],
+        "ind.fut": ["déambulerai", "déambuleras", "déambulera", "déambulerons", "déambulerez", "déambuleront"],
+        "cond.pres": ["déambulerais", "déambulerais", "déambulerait", "déambulerions", "déambuleriez", "déambuleraient"],
+        "subj.pres": ["déambule", "déambules", "déambule", "déambulions", "déambuliez", "déambulent"],
+        "subj.imp": ["déambulasse", "déambulasses", "déambulât", "déambulassions", "déambulassiez", "déambulassent"],
+        "imper.pres": ["déambule", "déambulons", "déambulez"]
+      },
+      "participe_present": "déambulant",
+      "participe_passe": ["déambulé", null, null, null]
     }
   ]
 }
