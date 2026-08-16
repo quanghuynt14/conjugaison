@@ -3926,6 +3926,24 @@
       },
       "participe_present": "annonçant",
       "participe_passe": ["annoncé", "annoncée", "annoncés", "annoncées"]
+    },
+    {
+      "id": "filer",
+      "infinitif": "filer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["file", "files", "file", "filons", "filez", "filent"],
+        "ind.imp": ["filais", "filais", "filait", "filions", "filiez", "filaient"],
+        "ind.ps": ["filai", "filas", "fila", "filâmes", "filâtes", "filèrent"],
+        "ind.fut": ["filerai", "fileras", "filera", "filerons", "filerez", "fileront"],
+        "cond.pres": ["filerais", "filerais", "filerait", "filerions", "fileriez", "fileraient"],
+        "subj.pres": ["file", "files", "file", "filions", "filiez", "filent"],
+        "subj.imp": ["filasse", "filasses", "filât", "filassions", "filassiez", "filassent"],
+        "imper.pres": ["file", "filons", "filez"]
+      },
+      "participe_present": "filant",
+      "participe_passe": ["filé", "filée", "filés", "filées"]
     }
   ]
 }
