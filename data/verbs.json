@@ -240,6 +240,24 @@
       },
       "participe_present": "prenant",
       "participe_passe": ["pris", "prise", "pris", "prises"]
+    },
+    {
+      "id": "parler",
+      "infinitif": "parler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["parle", "parles", "parle", "parlons", "parlez", "parlent"],
+        "ind.imp": ["parlais", "parlais", "parlait", "parlions", "parliez", "parlaient"],
+        "ind.ps": ["parlai", "parlas", "parla", "parlâmes", "parlâtes", "parlèrent"],
+        "ind.fut": ["parlerai", "parleras", "parlera", "parlerons", "parlerez", "parleront"],
+        "cond.pres": ["parlerais", "parlerais", "parlerait", "parlerions", "parleriez", "parleraient"],
+        "subj.pres": ["parle", "parles", "parle", "parlions", "parliez", "parlent"],
+        "subj.imp": ["parlasse", "parlasses", "parlât", "parlassions", "parlassiez", "parlassent"],
+        "imper.pres": ["parle", "parlons", "parlez"]
+      },
+      "participe_present": "parlant",
+      "participe_passe": ["parlé", "parlée", "parlés", "parlées"]
     }
   ]
 }
