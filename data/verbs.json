@@ -11462,6 +11462,24 @@
       },
       "participe_present": "sifflant",
       "participe_passe": ["sifflé", "sifflée", "sifflés", "sifflées"]
+    },
+    {
+      "id": "affronter",
+      "infinitif": "affronter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affronte", "affrontes", "affronte", "affrontons", "affrontez", "affrontent"],
+        "ind.imp": ["affrontais", "affrontais", "affrontait", "affrontions", "affrontiez", "affrontaient"],
+        "ind.ps": ["affrontai", "affrontas", "affronta", "affrontâmes", "affrontâtes", "affrontèrent"],
+        "ind.fut": ["affronterai", "affronteras", "affrontera", "affronterons", "affronterez", "affronteront"],
+        "cond.pres": ["affronterais", "affronterais", "affronterait", "affronterions", "affronteriez", "affronteraient"],
+        "subj.pres": ["affronte", "affrontes", "affronte", "affrontions", "affrontiez", "affrontent"],
+        "subj.imp": ["affrontasse", "affrontasses", "affrontât", "affrontassions", "affrontassiez", "affrontassent"],
+        "imper.pres": ["affronte", "affrontons", "affrontez"]
+      },
+      "participe_present": "affrontant",
+      "participe_passe": ["affronté", "affrontée", "affrontés", "affrontées"]
     }
   ]
 }
