@@ -13573,6 +13573,24 @@
       },
       "participe_present": "étranglant",
       "participe_passe": ["étranglé", "étranglée", "étranglés", "étranglées"]
+    },
+    {
+      "id": "planquer",
+      "infinitif": "planquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["planque", "planques", "planque", "planquons", "planquez", "planquent"],
+        "ind.imp": ["planquais", "planquais", "planquait", "planquions", "planquiez", "planquaient"],
+        "ind.ps": ["planquai", "planquas", "planqua", "planquâmes", "planquâtes", "planquèrent"],
+        "ind.fut": ["planquerai", "planqueras", "planquera", "planquerons", "planquerez", "planqueront"],
+        "cond.pres": ["planquerais", "planquerais", "planquerait", "planquerions", "planqueriez", "planqueraient"],
+        "subj.pres": ["planque", "planques", "planque", "planquions", "planquiez", "planquent"],
+        "subj.imp": ["planquasse", "planquasses", "planquât", "planquassions", "planquassiez", "planquassent"],
+        "imper.pres": ["planque", "planquons", "planquez"]
+      },
+      "participe_present": "planquant",
+      "participe_passe": ["planqué", "planquée", "planqués", "planquées"]
     }
   ]
 }
