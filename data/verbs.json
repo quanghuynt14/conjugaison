@@ -36131,6 +36131,25 @@
       },
       "participe_present": "amputant",
       "participe_passe": ["amputé", "amputée", "amputés", "amputées"]
+    },
+    {
+      "id": "absoudre",
+      "infinitif": "absoudre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Ni passé simple, ni subjonctif imparfait. Le participe passé est « absous, absoute ».",
+      "tenses": {
+        "ind.pres": ["absous", "absous", "absout", "absolvons", "absolvez", "absolvent"],
+        "ind.imp": ["absolvais", "absolvais", "absolvait", "absolvions", "absolviez", "absolvaient"],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": ["absoudrai", "absoudras", "absoudra", "absoudrons", "absoudrez", "absoudront"],
+        "cond.pres": ["absoudrais", "absoudrais", "absoudrait", "absoudrions", "absoudriez", "absoudraient"],
+        "subj.pres": ["absolve", "absolves", "absolve", "absolvions", "absolviez", "absolvent"],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": ["absous", "absolvons", "absolvez"]
+      },
+      "participe_present": "absolvant",
+      "participe_passe": ["absous", "absoute", "absous", "absoutes"]
     }
   ]
 }
