@@ -17987,6 +17987,25 @@
       },
       "participe_present": "ronflant",
       "participe_passe": ["ronflé", null, null, null]
+    },
+    {
+      "id": "sombrer",
+      "infinitif": "sombrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « sombré » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["sombre", "sombres", "sombre", "sombrons", "sombrez", "sombrent"],
+        "ind.imp": ["sombrais", "sombrais", "sombrait", "sombrions", "sombriez", "sombraient"],
+        "ind.ps": ["sombrai", "sombras", "sombra", "sombrâmes", "sombrâtes", "sombrèrent"],
+        "ind.fut": ["sombrerai", "sombreras", "sombrera", "sombrerons", "sombrerez", "sombreront"],
+        "cond.pres": ["sombrerais", "sombrerais", "sombrerait", "sombrerions", "sombreriez", "sombreraient"],
+        "subj.pres": ["sombre", "sombres", "sombre", "sombrions", "sombriez", "sombrent"],
+        "subj.imp": ["sombrasse", "sombrasses", "sombrât", "sombrassions", "sombrassiez", "sombrassent"],
+        "imper.pres": ["sombre", "sombrons", "sombrez"]
+      },
+      "participe_present": "sombrant",
+      "participe_passe": ["sombré", null, null, null]
     }
   ]
 }
