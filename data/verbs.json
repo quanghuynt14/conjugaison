@@ -30529,6 +30529,24 @@
       },
       "participe_present": "fardant",
       "participe_passe": ["fardé", "fardée", "fardés", "fardées"]
+    },
+    {
+      "id": "promouvoir",
+      "infinitif": "promouvoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["promeus", "promeus", "promeut", "promouvons", "promouvez", "promeuvent"],
+        "ind.imp": ["promouvais", "promouvais", "promouvait", "promouvions", "promouviez", "promouvaient"],
+        "ind.ps": ["promus", "promus", "promut", "promûmes", "promûtes", "promurent"],
+        "ind.fut": ["promouvrai", "promouvras", "promouvra", "promouvrons", "promouvrez", "promouvront"],
+        "cond.pres": ["promouvrais", "promouvrais", "promouvrait", "promouvrions", "promouvriez", "promouvraient"],
+        "subj.pres": ["promeuve", "promeuves", "promeuve", "promouvions", "promouviez", "promeuvent"],
+        "subj.imp": ["promusse", "promusses", "promût", "promussions", "promussiez", "promussent"],
+        "imper.pres": ["promeus", "promouvons", "promouvez"]
+      },
+      "participe_present": "promouvant",
+      "participe_passe": ["promu", "promue", "promus", "promues"]
     }
   ]
 }
