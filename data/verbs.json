@@ -24806,6 +24806,24 @@
       },
       "participe_present": "rallumant",
       "participe_passe": ["rallumé", "rallumée", "rallumés", "rallumées"]
+    },
+    {
+      "id": "désarmer",
+      "infinitif": "désarmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["désarme", "désarmes", "désarme", "désarmons", "désarmez", "désarment"],
+        "ind.imp": ["désarmais", "désarmais", "désarmait", "désarmions", "désarmiez", "désarmaient"],
+        "ind.ps": ["désarmai", "désarmas", "désarma", "désarmâmes", "désarmâtes", "désarmèrent"],
+        "ind.fut": ["désarmerai", "désarmeras", "désarmera", "désarmerons", "désarmerez", "désarmeront"],
+        "cond.pres": ["désarmerais", "désarmerais", "désarmerait", "désarmerions", "désarmeriez", "désarmeraient"],
+        "subj.pres": ["désarme", "désarmes", "désarme", "désarmions", "désarmiez", "désarment"],
+        "subj.imp": ["désarmasse", "désarmasses", "désarmât", "désarmassions", "désarmassiez", "désarmassent"],
+        "imper.pres": ["désarme", "désarmons", "désarmez"]
+      },
+      "participe_present": "désarmant",
+      "participe_passe": ["désarmé", "désarmée", "désarmés", "désarmées"]
     }
   ]
 }
