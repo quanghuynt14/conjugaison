@@ -874,6 +874,24 @@
       },
       "participe_present": "jouant",
       "participe_passe": ["joué", "jouée", "joués", "jouées"]
+    },
+    {
+      "id": "ouvrir",
+      "infinitif": "ouvrir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ouvre", "ouvres", "ouvre", "ouvrons", "ouvrez", "ouvrent"],
+        "ind.imp": ["ouvrais", "ouvrais", "ouvrait", "ouvrions", "ouvriez", "ouvraient"],
+        "ind.ps": ["ouvris", "ouvris", "ouvrit", "ouvrîmes", "ouvrîtes", "ouvrirent"],
+        "ind.fut": ["ouvrirai", "ouvriras", "ouvrira", "ouvrirons", "ouvrirez", "ouvriront"],
+        "cond.pres": ["ouvrirais", "ouvrirais", "ouvrirait", "ouvririons", "ouvririez", "ouvriraient"],
+        "subj.pres": ["ouvre", "ouvres", "ouvre", "ouvrions", "ouvriez", "ouvrent"],
+        "subj.imp": ["ouvrisse", "ouvrisses", "ouvrît", "ouvrissions", "ouvrissiez", "ouvrissent"],
+        "imper.pres": ["ouvre", "ouvrons", "ouvrez"]
+      },
+      "participe_present": "ouvrant",
+      "participe_passe": ["ouvert", "ouverte", "ouverts", "ouvertes"]
     }
   ]
 }
