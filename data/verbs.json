@@ -14154,6 +14154,25 @@
       },
       "participe_present": "votant",
       "participe_passe": ["voté", "votée", "votés", "votées"]
+    },
+    {
+      "id": "succéder",
+      "infinitif": "succéder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je succéderai » ou « je succèderai ». Les deux sont admises. Le participe passé « succédé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["succède", "succèdes", "succède", "succédons", "succédez", "succèdent"],
+        "ind.imp": ["succédais", "succédais", "succédait", "succédions", "succédiez", "succédaient"],
+        "ind.ps": ["succédai", "succédas", "succéda", "succédâmes", "succédâtes", "succédèrent"],
+        "ind.fut": [["succéderai", "succèderai"], ["succéderas", "succèderas"], ["succédera", "succèdera"], ["succéderons", "succèderons"], ["succéderez", "succèderez"], ["succéderont", "succèderont"]],
+        "cond.pres": [["succéderais", "succèderais"], ["succéderais", "succèderais"], ["succéderait", "succèderait"], ["succéderions", "succèderions"], ["succéderiez", "succèderiez"], ["succéderaient", "succèderaient"]],
+        "subj.pres": ["succède", "succèdes", "succède", "succédions", "succédiez", "succèdent"],
+        "subj.imp": ["succédasse", "succédasses", "succédât", "succédassions", "succédassiez", "succédassent"],
+        "imper.pres": ["succède", "succédons", "succédez"]
+      },
+      "participe_present": "succédant",
+      "participe_passe": ["succédé", null, null, null]
     }
   ]
 }
