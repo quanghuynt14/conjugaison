@@ -8831,6 +8831,24 @@
       },
       "participe_present": "rattrapant",
       "participe_passe": ["rattrapé", "rattrapée", "rattrapés", "rattrapées"]
+    },
+    {
+      "id": "énerver",
+      "infinitif": "énerver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["énerve", "énerves", "énerve", "énervons", "énervez", "énervent"],
+        "ind.imp": ["énervais", "énervais", "énervait", "énervions", "énerviez", "énervaient"],
+        "ind.ps": ["énervai", "énervas", "énerva", "énervâmes", "énervâtes", "énervèrent"],
+        "ind.fut": ["énerverai", "énerveras", "énervera", "énerverons", "énerverez", "énerveront"],
+        "cond.pres": ["énerverais", "énerverais", "énerverait", "énerverions", "énerveriez", "énerveraient"],
+        "subj.pres": ["énerve", "énerves", "énerve", "énervions", "énerviez", "énervent"],
+        "subj.imp": ["énervasse", "énervasses", "énervât", "énervassions", "énervassiez", "énervassent"],
+        "imper.pres": ["énerve", "énervons", "énervez"]
+      },
+      "participe_present": "énervant",
+      "participe_passe": ["énervé", "énervée", "énervés", "énervées"]
     }
   ]
 }
