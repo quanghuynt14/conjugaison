@@ -22890,6 +22890,24 @@
       },
       "participe_present": "alourdissant",
       "participe_passe": ["alourdi", "alourdie", "alourdis", "alourdies"]
+    },
+    {
+      "id": "farcir",
+      "infinitif": "farcir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["farcis", "farcis", "farcit", "farcissons", "farcissez", "farcissent"],
+        "ind.imp": ["farcissais", "farcissais", "farcissait", "farcissions", "farcissiez", "farcissaient"],
+        "ind.ps": ["farcis", "farcis", "farcit", "farcîmes", "farcîtes", "farcirent"],
+        "ind.fut": ["farcirai", "farciras", "farcira", "farcirons", "farcirez", "farciront"],
+        "cond.pres": ["farcirais", "farcirais", "farcirait", "farcirions", "farciriez", "farciraient"],
+        "subj.pres": ["farcisse", "farcisses", "farcisse", "farcissions", "farcissiez", "farcissent"],
+        "subj.imp": ["farcisse", "farcisses", "farcît", "farcissions", "farcissiez", "farcissent"],
+        "imper.pres": ["farcis", "farcissons", "farcissez"]
+      },
+      "participe_present": "farcissant",
+      "participe_passe": ["farci", "farcie", "farcis", "farcies"]
     }
   ]
 }
