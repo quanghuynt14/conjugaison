@@ -13863,6 +13863,24 @@
       },
       "participe_present": "distribuant",
       "participe_passe": ["distribué", "distribuée", "distribués", "distribuées"]
+    },
+    {
+      "id": "chuchoter",
+      "infinitif": "chuchoter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chuchote", "chuchotes", "chuchote", "chuchotons", "chuchotez", "chuchotent"],
+        "ind.imp": ["chuchotais", "chuchotais", "chuchotait", "chuchotions", "chuchotiez", "chuchotaient"],
+        "ind.ps": ["chuchotai", "chuchotas", "chuchota", "chuchotâmes", "chuchotâtes", "chuchotèrent"],
+        "ind.fut": ["chuchoterai", "chuchoteras", "chuchotera", "chuchoterons", "chuchoterez", "chuchoteront"],
+        "cond.pres": ["chuchoterais", "chuchoterais", "chuchoterait", "chuchoterions", "chuchoteriez", "chuchoteraient"],
+        "subj.pres": ["chuchote", "chuchotes", "chuchote", "chuchotions", "chuchotiez", "chuchotent"],
+        "subj.imp": ["chuchotasse", "chuchotasses", "chuchotât", "chuchotassions", "chuchotassiez", "chuchotassent"],
+        "imper.pres": ["chuchote", "chuchotons", "chuchotez"]
+      },
+      "participe_present": "chuchotant",
+      "participe_passe": ["chuchoté", "chuchotée", "chuchotés", "chuchotées"]
     }
   ]
 }
