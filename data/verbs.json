@@ -31791,6 +31791,24 @@
       },
       "participe_present": "déléguant",
       "participe_passe": ["délégué", "déléguée", "délégués", "déléguées"]
+    },
+    {
+      "id": "narguer",
+      "infinitif": "narguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["nargue", "nargues", "nargue", "narguons", "narguez", "narguent"],
+        "ind.imp": ["narguais", "narguais", "narguait", "narguions", "narguiez", "narguaient"],
+        "ind.ps": ["narguai", "narguas", "nargua", "narguâmes", "narguâtes", "narguèrent"],
+        "ind.fut": ["narguerai", "nargueras", "narguera", "narguerons", "narguerez", "nargueront"],
+        "cond.pres": ["narguerais", "narguerais", "narguerait", "narguerions", "nargueriez", "nargueraient"],
+        "subj.pres": ["nargue", "nargues", "nargue", "narguions", "narguiez", "narguent"],
+        "subj.imp": ["narguasse", "narguasses", "narguât", "narguassions", "narguassiez", "narguassent"],
+        "imper.pres": ["nargue", "narguons", "narguez"]
+      },
+      "participe_present": "narguant",
+      "participe_passe": ["nargué", "narguée", "nargués", "narguées"]
     }
   ]
 }
