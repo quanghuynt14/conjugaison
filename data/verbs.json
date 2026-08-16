@@ -5463,6 +5463,25 @@
       },
       "participe_present": "surveillant",
       "participe_passe": ["surveillé", "surveillée", "surveillés", "surveillées"]
+    },
+    {
+      "id": "dîner",
+      "infinitif": "dîner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « dîné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["dîne", "dînes", "dîne", "dînons", "dînez", "dînent"],
+        "ind.imp": ["dînais", "dînais", "dînait", "dînions", "dîniez", "dînaient"],
+        "ind.ps": ["dînai", "dînas", "dîna", "dînâmes", "dînâtes", "dînèrent"],
+        "ind.fut": ["dînerai", "dîneras", "dînera", "dînerons", "dînerez", "dîneront"],
+        "cond.pres": ["dînerais", "dînerais", "dînerait", "dînerions", "dîneriez", "dîneraient"],
+        "subj.pres": ["dîne", "dînes", "dîne", "dînions", "dîniez", "dînent"],
+        "subj.imp": ["dînasse", "dînasses", "dînât", "dînassions", "dînassiez", "dînassent"],
+        "imper.pres": ["dîne", "dînons", "dînez"]
+      },
+      "participe_present": "dînant",
+      "participe_passe": ["dîné", null, null, null]
     }
   ]
 }
