@@ -13974,6 +13974,24 @@
       },
       "participe_present": "procédant",
       "participe_passe": ["procédé", null, null, null]
+    },
+    {
+      "id": "séduire",
+      "infinitif": "séduire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["séduis", "séduis", "séduit", "séduisons", "séduisez", "séduisent"],
+        "ind.imp": ["séduisais", "séduisais", "séduisait", "séduisions", "séduisiez", "séduisaient"],
+        "ind.ps": ["séduisis", "séduisis", "séduisit", "séduisîmes", "séduisîtes", "séduisirent"],
+        "ind.fut": ["séduirai", "séduiras", "séduira", "séduirons", "séduirez", "séduiront"],
+        "cond.pres": ["séduirais", "séduirais", "séduirait", "séduirions", "séduiriez", "séduiraient"],
+        "subj.pres": ["séduise", "séduises", "séduise", "séduisions", "séduisiez", "séduisent"],
+        "subj.imp": ["séduisisse", "séduisisses", "séduisît", "séduisissions", "séduisissiez", "séduisissent"],
+        "imper.pres": ["séduis", "séduisons", "séduisez"]
+      },
+      "participe_present": "séduisant",
+      "participe_passe": ["séduit", "séduite", "séduits", "séduites"]
     }
   ]
 }
