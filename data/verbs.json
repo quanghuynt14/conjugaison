@@ -28834,6 +28834,24 @@
       },
       "participe_present": "ravalant",
       "participe_passe": ["ravalé", "ravalée", "ravalés", "ravalées"]
+    },
+    {
+      "id": "estomper",
+      "infinitif": "estomper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["estompe", "estompes", "estompe", "estompons", "estompez", "estompent"],
+        "ind.imp": ["estompais", "estompais", "estompait", "estompions", "estompiez", "estompaient"],
+        "ind.ps": ["estompai", "estompas", "estompa", "estompâmes", "estompâtes", "estompèrent"],
+        "ind.fut": ["estomperai", "estomperas", "estompera", "estomperons", "estomperez", "estomperont"],
+        "cond.pres": ["estomperais", "estomperais", "estomperait", "estomperions", "estomperiez", "estomperaient"],
+        "subj.pres": ["estompe", "estompes", "estompe", "estompions", "estompiez", "estompent"],
+        "subj.imp": ["estompasse", "estompasses", "estompât", "estompassions", "estompassiez", "estompassent"],
+        "imper.pres": ["estompe", "estompons", "estompez"]
+      },
+      "participe_present": "estompant",
+      "participe_passe": ["estompé", "estompée", "estompés", "estompées"]
     }
   ]
 }
