@@ -2061,6 +2061,24 @@
       },
       "participe_present": "courant",
       "participe_passe": ["couru", "courue", "courus", "courues"]
+    },
+    {
+      "id": "offrir",
+      "infinitif": "offrir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["offre", "offres", "offre", "offrons", "offrez", "offrent"],
+        "ind.imp": ["offrais", "offrais", "offrait", "offrions", "offriez", "offraient"],
+        "ind.ps": ["offris", "offris", "offrit", "offrîmes", "offrîtes", "offrirent"],
+        "ind.fut": ["offrirai", "offriras", "offrira", "offrirons", "offrirez", "offriront"],
+        "cond.pres": ["offrirais", "offrirais", "offrirait", "offririons", "offririez", "offriraient"],
+        "subj.pres": ["offre", "offres", "offre", "offrions", "offriez", "offrent"],
+        "subj.imp": ["offrisse", "offrisses", "offrît", "offrissions", "offrissiez", "offrissent"],
+        "imper.pres": ["offre", "offrons", "offrez"]
+      },
+      "participe_present": "offrant",
+      "participe_passe": ["offert", "offerte", "offerts", "offertes"]
     }
   ]
 }
