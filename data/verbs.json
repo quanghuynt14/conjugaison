@@ -36095,6 +36095,24 @@
       },
       "participe_present": "sauvegardant",
       "participe_passe": ["sauvegardé", "sauvegardée", "sauvegardés", "sauvegardées"]
+    },
+    {
+      "id": "ballotter",
+      "infinitif": "ballotter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ballotte", "ballottes", "ballotte", "ballottons", "ballottez", "ballottent"],
+        "ind.imp": ["ballottais", "ballottais", "ballottait", "ballottions", "ballottiez", "ballottaient"],
+        "ind.ps": ["ballottai", "ballottas", "ballotta", "ballottâmes", "ballottâtes", "ballottèrent"],
+        "ind.fut": ["ballotterai", "ballotteras", "ballottera", "ballotterons", "ballotterez", "ballotteront"],
+        "cond.pres": ["ballotterais", "ballotterais", "ballotterait", "ballotterions", "ballotteriez", "ballotteraient"],
+        "subj.pres": ["ballotte", "ballottes", "ballotte", "ballottions", "ballottiez", "ballottent"],
+        "subj.imp": ["ballottasse", "ballottasses", "ballottât", "ballottassions", "ballottassiez", "ballottassent"],
+        "imper.pres": ["ballotte", "ballottons", "ballottez"]
+      },
+      "participe_present": "ballottant",
+      "participe_passe": ["ballotté", "ballottée", "ballottés", "ballottées"]
     }
   ]
 }
