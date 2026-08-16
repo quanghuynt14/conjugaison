@@ -26515,6 +26515,25 @@
       },
       "participe_present": "pondant",
       "participe_passe": ["pondu", "pondue", "pondus", "pondues"]
+    },
+    {
+      "id": "déraper",
+      "infinitif": "déraper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « dérapé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["dérape", "dérapes", "dérape", "dérapons", "dérapez", "dérapent"],
+        "ind.imp": ["dérapais", "dérapais", "dérapait", "dérapions", "dérapiez", "dérapaient"],
+        "ind.ps": ["dérapai", "dérapas", "dérapa", "dérapâmes", "dérapâtes", "dérapèrent"],
+        "ind.fut": ["déraperai", "déraperas", "dérapera", "déraperons", "déraperez", "déraperont"],
+        "cond.pres": ["déraperais", "déraperais", "déraperait", "déraperions", "déraperiez", "déraperaient"],
+        "subj.pres": ["dérape", "dérapes", "dérape", "dérapions", "dérapiez", "dérapent"],
+        "subj.imp": ["dérapasse", "dérapasses", "dérapât", "dérapassions", "dérapassiez", "dérapassent"],
+        "imper.pres": ["dérape", "dérapons", "dérapez"]
+      },
+      "participe_present": "dérapant",
+      "participe_passe": ["dérapé", null, null, null]
     }
   ]
 }
