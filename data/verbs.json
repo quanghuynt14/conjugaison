@@ -36150,6 +36150,24 @@
       },
       "participe_present": "absolvant",
       "participe_passe": ["absous", "absoute", "absous", "absoutes"]
+    },
+    {
+      "id": "manigancer",
+      "infinitif": "manigancer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["manigance", "manigances", "manigance", "manigançons", "manigancez", "manigancent"],
+        "ind.imp": ["manigançais", "manigançais", "manigançait", "manigancions", "maniganciez", "manigançaient"],
+        "ind.ps": ["manigançai", "maniganças", "manigança", "manigançâmes", "manigançâtes", "manigancèrent"],
+        "ind.fut": ["manigancerai", "maniganceras", "manigancera", "manigancerons", "manigancerez", "maniganceront"],
+        "cond.pres": ["manigancerais", "manigancerais", "manigancerait", "manigancerions", "maniganceriez", "maniganceraient"],
+        "subj.pres": ["manigance", "manigances", "manigance", "manigancions", "maniganciez", "manigancent"],
+        "subj.imp": ["manigançasse", "manigançasses", "manigançât", "manigançassions", "manigançassiez", "manigançassent"],
+        "imper.pres": ["manigance", "manigançons", "manigancez"]
+      },
+      "participe_present": "manigançant",
+      "participe_passe": ["manigancé", "manigancée", "manigancés", "manigancées"]
     }
   ]
 }
