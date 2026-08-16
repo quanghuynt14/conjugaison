@@ -15279,6 +15279,24 @@
       },
       "participe_present": "immobilisant",
       "participe_passe": ["immobilisé", "immobilisée", "immobilisés", "immobilisées"]
+    },
+    {
+      "id": "douer",
+      "infinitif": "douer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["doue", "doues", "doue", "douons", "douez", "douent"],
+        "ind.imp": ["douais", "douais", "douait", "douions", "douiez", "douaient"],
+        "ind.ps": ["douai", "douas", "doua", "douâmes", "douâtes", "douèrent"],
+        "ind.fut": ["douerai", "doueras", "douera", "douerons", "douerez", "doueront"],
+        "cond.pres": ["douerais", "douerais", "douerait", "douerions", "doueriez", "doueraient"],
+        "subj.pres": ["doue", "doues", "doue", "douions", "douiez", "douent"],
+        "subj.imp": ["douasse", "douasses", "douât", "douassions", "douassiez", "douassent"],
+        "imper.pres": ["doue", "douons", "douez"]
+      },
+      "participe_present": "douant",
+      "participe_passe": ["doué", "douée", "doués", "douées"]
     }
   ]
 }
