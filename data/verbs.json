@@ -29087,6 +29087,25 @@
       },
       "participe_present": "frisant",
       "participe_passe": ["frisé", "frisée", "frisés", "frisées"]
+    },
+    {
+      "id": "flâner",
+      "infinitif": "flâner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « flâné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["flâne", "flânes", "flâne", "flânons", "flânez", "flânent"],
+        "ind.imp": ["flânais", "flânais", "flânait", "flânions", "flâniez", "flânaient"],
+        "ind.ps": ["flânai", "flânas", "flâna", "flânâmes", "flânâtes", "flânèrent"],
+        "ind.fut": ["flânerai", "flâneras", "flânera", "flânerons", "flânerez", "flâneront"],
+        "cond.pres": ["flânerais", "flânerais", "flânerait", "flânerions", "flâneriez", "flâneraient"],
+        "subj.pres": ["flâne", "flânes", "flâne", "flânions", "flâniez", "flânent"],
+        "subj.imp": ["flânasse", "flânasses", "flânât", "flânassions", "flânassiez", "flânassent"],
+        "imper.pres": ["flâne", "flânons", "flânez"]
+      },
+      "participe_present": "flânant",
+      "participe_passe": ["flâné", null, null, null]
     }
   ]
 }
