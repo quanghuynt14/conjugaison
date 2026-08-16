@@ -4269,6 +4269,24 @@
       },
       "participe_present": "traitant",
       "participe_passe": ["traité", "traitée", "traités", "traitées"]
+    },
+    {
+      "id": "fixer",
+      "infinitif": "fixer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fixe", "fixes", "fixe", "fixons", "fixez", "fixent"],
+        "ind.imp": ["fixais", "fixais", "fixait", "fixions", "fixiez", "fixaient"],
+        "ind.ps": ["fixai", "fixas", "fixa", "fixâmes", "fixâtes", "fixèrent"],
+        "ind.fut": ["fixerai", "fixeras", "fixera", "fixerons", "fixerez", "fixeront"],
+        "cond.pres": ["fixerais", "fixerais", "fixerait", "fixerions", "fixeriez", "fixeraient"],
+        "subj.pres": ["fixe", "fixes", "fixe", "fixions", "fixiez", "fixent"],
+        "subj.imp": ["fixasse", "fixasses", "fixât", "fixassions", "fixassiez", "fixassent"],
+        "imper.pres": ["fixe", "fixons", "fixez"]
+      },
+      "participe_present": "fixant",
+      "participe_passe": ["fixé", "fixée", "fixés", "fixées"]
     }
   ]
 }
