@@ -26772,6 +26772,24 @@
       },
       "participe_present": "repeignant",
       "participe_passe": ["repeint", "repeinte", "repeints", "repeintes"]
+    },
+    {
+      "id": "shooter",
+      "infinitif": "shooter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["shoote", "shootes", "shoote", "shootons", "shootez", "shootent"],
+        "ind.imp": ["shootais", "shootais", "shootait", "shootions", "shootiez", "shootaient"],
+        "ind.ps": ["shootai", "shootas", "shoota", "shootâmes", "shootâtes", "shootèrent"],
+        "ind.fut": ["shooterai", "shooteras", "shootera", "shooterons", "shooterez", "shooteront"],
+        "cond.pres": ["shooterais", "shooterais", "shooterait", "shooterions", "shooteriez", "shooteraient"],
+        "subj.pres": ["shoote", "shootes", "shoote", "shootions", "shootiez", "shootent"],
+        "subj.imp": ["shootasse", "shootasses", "shootât", "shootassions", "shootassiez", "shootassent"],
+        "imper.pres": ["shoote", "shootons", "shootez"]
+      },
+      "participe_present": "shootant",
+      "participe_passe": ["shooté", "shootée", "shootés", "shootées"]
     }
   ]
 }
