@@ -33248,6 +33248,24 @@
       },
       "participe_present": "éternuant",
       "participe_passe": ["éternué", null, null, null]
+    },
+    {
+      "id": "symboliser",
+      "infinitif": "symboliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["symbolise", "symbolises", "symbolise", "symbolisons", "symbolisez", "symbolisent"],
+        "ind.imp": ["symbolisais", "symbolisais", "symbolisait", "symbolisions", "symbolisiez", "symbolisaient"],
+        "ind.ps": ["symbolisai", "symbolisas", "symbolisa", "symbolisâmes", "symbolisâtes", "symbolisèrent"],
+        "ind.fut": ["symboliserai", "symboliseras", "symbolisera", "symboliserons", "symboliserez", "symboliseront"],
+        "cond.pres": ["symboliserais", "symboliserais", "symboliserait", "symboliserions", "symboliseriez", "symboliseraient"],
+        "subj.pres": ["symbolise", "symbolises", "symbolise", "symbolisions", "symbolisiez", "symbolisent"],
+        "subj.imp": ["symbolisasse", "symbolisasses", "symbolisât", "symbolisassions", "symbolisassiez", "symbolisassent"],
+        "imper.pres": ["symbolise", "symbolisons", "symbolisez"]
+      },
+      "participe_present": "symbolisant",
+      "participe_passe": ["symbolisé", "symbolisée", "symbolisés", "symbolisées"]
     }
   ]
 }
