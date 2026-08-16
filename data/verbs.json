@@ -33757,6 +33757,24 @@
       },
       "participe_present": "dupant",
       "participe_passe": ["dupé", "dupée", "dupés", "dupées"]
+    },
+    {
+      "id": "anticiper",
+      "infinitif": "anticiper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["anticipe", "anticipes", "anticipe", "anticipons", "anticipez", "anticipent"],
+        "ind.imp": ["anticipais", "anticipais", "anticipait", "anticipions", "anticipiez", "anticipaient"],
+        "ind.ps": ["anticipai", "anticipas", "anticipa", "anticipâmes", "anticipâtes", "anticipèrent"],
+        "ind.fut": ["anticiperai", "anticiperas", "anticipera", "anticiperons", "anticiperez", "anticiperont"],
+        "cond.pres": ["anticiperais", "anticiperais", "anticiperait", "anticiperions", "anticiperiez", "anticiperaient"],
+        "subj.pres": ["anticipe", "anticipes", "anticipe", "anticipions", "anticipiez", "anticipent"],
+        "subj.imp": ["anticipasse", "anticipasses", "anticipât", "anticipassions", "anticipassiez", "anticipassent"],
+        "imper.pres": ["anticipe", "anticipons", "anticipez"]
+      },
+      "participe_present": "anticipant",
+      "participe_passe": ["anticipé", "anticipée", "anticipés", "anticipées"]
     }
   ]
 }
