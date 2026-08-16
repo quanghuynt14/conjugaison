@@ -25716,6 +25716,25 @@
       },
       "participe_present": "broyant",
       "participe_passe": ["broyé", "broyée", "broyés", "broyées"]
+    },
+    {
+      "id": "trotter",
+      "infinitif": "trotter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « trotté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["trotte", "trottes", "trotte", "trottons", "trottez", "trottent"],
+        "ind.imp": ["trottais", "trottais", "trottait", "trottions", "trottiez", "trottaient"],
+        "ind.ps": ["trottai", "trottas", "trotta", "trottâmes", "trottâtes", "trottèrent"],
+        "ind.fut": ["trotterai", "trotteras", "trottera", "trotterons", "trotterez", "trotteront"],
+        "cond.pres": ["trotterais", "trotterais", "trotterait", "trotterions", "trotteriez", "trotteraient"],
+        "subj.pres": ["trotte", "trottes", "trotte", "trottions", "trottiez", "trottent"],
+        "subj.imp": ["trottasse", "trottasses", "trottât", "trottassions", "trottassiez", "trottassent"],
+        "imper.pres": ["trotte", "trottons", "trottez"]
+      },
+      "participe_present": "trottant",
+      "participe_passe": ["trotté", null, null, null]
     }
   ]
 }
