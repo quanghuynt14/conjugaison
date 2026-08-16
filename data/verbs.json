@@ -35443,6 +35443,24 @@
       },
       "participe_present": "culbutant",
       "participe_passe": ["culbuté", "culbutée", "culbutés", "culbutées"]
+    },
+    {
+      "id": "croupir",
+      "infinitif": "croupir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["croupis", "croupis", "croupit", "croupissons", "croupissez", "croupissent"],
+        "ind.imp": ["croupissais", "croupissais", "croupissait", "croupissions", "croupissiez", "croupissaient"],
+        "ind.ps": ["croupis", "croupis", "croupit", "croupîmes", "croupîtes", "croupirent"],
+        "ind.fut": ["croupirai", "croupiras", "croupira", "croupirons", "croupirez", "croupiront"],
+        "cond.pres": ["croupirais", "croupirais", "croupirait", "croupirions", "croupiriez", "croupiraient"],
+        "subj.pres": ["croupisse", "croupisses", "croupisse", "croupissions", "croupissiez", "croupissent"],
+        "subj.imp": ["croupisse", "croupisses", "croupît", "croupissions", "croupissiez", "croupissent"],
+        "imper.pres": ["croupis", "croupissons", "croupissez"]
+      },
+      "participe_present": "croupissant",
+      "participe_passe": ["croupi", "croupie", "croupis", "croupies"]
     }
   ]
 }
