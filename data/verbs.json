@@ -25424,6 +25424,24 @@
       },
       "participe_present": "paumant",
       "participe_passe": ["paumé", "paumée", "paumés", "paumées"]
+    },
+    {
+      "id": "déceler",
+      "infinitif": "déceler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décèle", "décèles", "décèle", "décelons", "décelez", "décèlent"],
+        "ind.imp": ["décelais", "décelais", "décelait", "décelions", "déceliez", "décelaient"],
+        "ind.ps": ["décelai", "décelas", "décela", "décelâmes", "décelâtes", "décelèrent"],
+        "ind.fut": ["décèlerai", "décèleras", "décèlera", "décèlerons", "décèlerez", "décèleront"],
+        "cond.pres": ["décèlerais", "décèlerais", "décèlerait", "décèlerions", "décèleriez", "décèleraient"],
+        "subj.pres": ["décèle", "décèles", "décèle", "décelions", "déceliez", "décèlent"],
+        "subj.imp": ["décelasse", "décelasses", "décelât", "décelassions", "décelassiez", "décelassent"],
+        "imper.pres": ["décèle", "décelons", "décelez"]
+      },
+      "participe_present": "décelant",
+      "participe_passe": ["décelé", "décelée", "décelés", "décelées"]
     }
   ]
 }
