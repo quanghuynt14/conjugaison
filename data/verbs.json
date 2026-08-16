@@ -8470,6 +8470,24 @@
       },
       "participe_present": "fournissant",
       "participe_passe": ["fourni", "fournie", "fournis", "fournies"]
+    },
+    {
+      "id": "réserver",
+      "infinitif": "réserver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réserve", "réserves", "réserve", "réservons", "réservez", "réservent"],
+        "ind.imp": ["réservais", "réservais", "réservait", "réservions", "réserviez", "réservaient"],
+        "ind.ps": ["réservai", "réservas", "réserva", "réservâmes", "réservâtes", "réservèrent"],
+        "ind.fut": ["réserverai", "réserveras", "réservera", "réserverons", "réserverez", "réserveront"],
+        "cond.pres": ["réserverais", "réserverais", "réserverait", "réserverions", "réserveriez", "réserveraient"],
+        "subj.pres": ["réserve", "réserves", "réserve", "réservions", "réserviez", "réservent"],
+        "subj.imp": ["réservasse", "réservasses", "réservât", "réservassions", "réservassiez", "réservassent"],
+        "imper.pres": ["réserve", "réservons", "réservez"]
+      },
+      "participe_present": "réservant",
+      "participe_passe": ["réservé", "réservée", "réservés", "réservées"]
     }
   ]
 }
