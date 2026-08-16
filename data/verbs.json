@@ -14664,6 +14664,24 @@
       },
       "participe_present": "garantissant",
       "participe_passe": ["garanti", "garantie", "garantis", "garanties"]
+    },
+    {
+      "id": "flatter",
+      "infinitif": "flatter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["flatte", "flattes", "flatte", "flattons", "flattez", "flattent"],
+        "ind.imp": ["flattais", "flattais", "flattait", "flattions", "flattiez", "flattaient"],
+        "ind.ps": ["flattai", "flattas", "flatta", "flattâmes", "flattâtes", "flattèrent"],
+        "ind.fut": ["flatterai", "flatteras", "flattera", "flatterons", "flatterez", "flatteront"],
+        "cond.pres": ["flatterais", "flatterais", "flatterait", "flatterions", "flatteriez", "flatteraient"],
+        "subj.pres": ["flatte", "flattes", "flatte", "flattions", "flattiez", "flattent"],
+        "subj.imp": ["flattasse", "flattasses", "flattât", "flattassions", "flattassiez", "flattassent"],
+        "imper.pres": ["flatte", "flattons", "flattez"]
+      },
+      "participe_present": "flattant",
+      "participe_passe": ["flatté", "flattée", "flattés", "flattées"]
     }
   ]
 }
