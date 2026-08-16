@@ -8615,6 +8615,24 @@
       },
       "participe_present": "déchirant",
       "participe_passe": ["déchiré", "déchirée", "déchirés", "déchirées"]
+    },
+    {
+      "id": "emmerder",
+      "infinitif": "emmerder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emmerde", "emmerdes", "emmerde", "emmerdons", "emmerdez", "emmerdent"],
+        "ind.imp": ["emmerdais", "emmerdais", "emmerdait", "emmerdions", "emmerdiez", "emmerdaient"],
+        "ind.ps": ["emmerdai", "emmerdas", "emmerda", "emmerdâmes", "emmerdâtes", "emmerdèrent"],
+        "ind.fut": ["emmerderai", "emmerderas", "emmerdera", "emmerderons", "emmerderez", "emmerderont"],
+        "cond.pres": ["emmerderais", "emmerderais", "emmerderait", "emmerderions", "emmerderiez", "emmerderaient"],
+        "subj.pres": ["emmerde", "emmerdes", "emmerde", "emmerdions", "emmerdiez", "emmerdent"],
+        "subj.imp": ["emmerdasse", "emmerdasses", "emmerdât", "emmerdassions", "emmerdassiez", "emmerdassent"],
+        "imper.pres": ["emmerde", "emmerdons", "emmerdez"]
+      },
+      "participe_present": "emmerdant",
+      "participe_passe": ["emmerdé", "emmerdée", "emmerdés", "emmerdées"]
     }
   ]
 }
