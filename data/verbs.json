@@ -11789,6 +11789,24 @@
       },
       "participe_present": "déroulant",
       "participe_passe": ["déroulé", "déroulée", "déroulés", "déroulées"]
+    },
+    {
+      "id": "augmenter",
+      "infinitif": "augmenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["augmente", "augmentes", "augmente", "augmentons", "augmentez", "augmentent"],
+        "ind.imp": ["augmentais", "augmentais", "augmentait", "augmentions", "augmentiez", "augmentaient"],
+        "ind.ps": ["augmentai", "augmentas", "augmenta", "augmentâmes", "augmentâtes", "augmentèrent"],
+        "ind.fut": ["augmenterai", "augmenteras", "augmentera", "augmenterons", "augmenterez", "augmenteront"],
+        "cond.pres": ["augmenterais", "augmenterais", "augmenterait", "augmenterions", "augmenteriez", "augmenteraient"],
+        "subj.pres": ["augmente", "augmentes", "augmente", "augmentions", "augmentiez", "augmentent"],
+        "subj.imp": ["augmentasse", "augmentasses", "augmentât", "augmentassions", "augmentassiez", "augmentassent"],
+        "imper.pres": ["augmente", "augmentons", "augmentez"]
+      },
+      "participe_present": "augmentant",
+      "participe_passe": ["augmenté", "augmentée", "augmentés", "augmentées"]
     }
   ]
 }
