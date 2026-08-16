@@ -30002,6 +30002,24 @@
       },
       "participe_present": "surplombant",
       "participe_passe": ["surplombé", "surplombée", "surplombés", "surplombées"]
+    },
+    {
+      "id": "rétorquer",
+      "infinitif": "rétorquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rétorque", "rétorques", "rétorque", "rétorquons", "rétorquez", "rétorquent"],
+        "ind.imp": ["rétorquais", "rétorquais", "rétorquait", "rétorquions", "rétorquiez", "rétorquaient"],
+        "ind.ps": ["rétorquai", "rétorquas", "rétorqua", "rétorquâmes", "rétorquâtes", "rétorquèrent"],
+        "ind.fut": ["rétorquerai", "rétorqueras", "rétorquera", "rétorquerons", "rétorquerez", "rétorqueront"],
+        "cond.pres": ["rétorquerais", "rétorquerais", "rétorquerait", "rétorquerions", "rétorqueriez", "rétorqueraient"],
+        "subj.pres": ["rétorque", "rétorques", "rétorque", "rétorquions", "rétorquiez", "rétorquent"],
+        "subj.imp": ["rétorquasse", "rétorquasses", "rétorquât", "rétorquassions", "rétorquassiez", "rétorquassent"],
+        "imper.pres": ["rétorque", "rétorquons", "rétorquez"]
+      },
+      "participe_present": "rétorquant",
+      "participe_passe": ["rétorqué", "rétorquée", "rétorqués", "rétorquées"]
     }
   ]
 }
