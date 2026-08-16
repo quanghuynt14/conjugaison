@@ -1844,6 +1844,24 @@
       },
       "participe_present": "fermant",
       "participe_passe": ["fermé", "fermée", "fermés", "fermées"]
+    },
+    {
+      "id": "imaginer",
+      "infinitif": "imaginer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["imagine", "imagines", "imagine", "imaginons", "imaginez", "imaginent"],
+        "ind.imp": ["imaginais", "imaginais", "imaginait", "imaginions", "imaginiez", "imaginaient"],
+        "ind.ps": ["imaginai", "imaginas", "imagina", "imaginâmes", "imaginâtes", "imaginèrent"],
+        "ind.fut": ["imaginerai", "imagineras", "imaginera", "imaginerons", "imaginerez", "imagineront"],
+        "cond.pres": ["imaginerais", "imaginerais", "imaginerait", "imaginerions", "imagineriez", "imagineraient"],
+        "subj.pres": ["imagine", "imagines", "imagine", "imaginions", "imaginiez", "imaginent"],
+        "subj.imp": ["imaginasse", "imaginasses", "imaginât", "imaginassions", "imaginassiez", "imaginassent"],
+        "imper.pres": ["imagine", "imaginons", "imaginez"]
+      },
+      "participe_present": "imaginant",
+      "participe_passe": ["imaginé", "imaginée", "imaginés", "imaginées"]
     }
   ]
 }
