@@ -30221,6 +30221,24 @@
       },
       "participe_present": "séjournant",
       "participe_passe": ["séjourné", null, null, null]
+    },
+    {
+      "id": "connecter",
+      "infinitif": "connecter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["connecte", "connectes", "connecte", "connectons", "connectez", "connectent"],
+        "ind.imp": ["connectais", "connectais", "connectait", "connections", "connectiez", "connectaient"],
+        "ind.ps": ["connectai", "connectas", "connecta", "connectâmes", "connectâtes", "connectèrent"],
+        "ind.fut": ["connecterai", "connecteras", "connectera", "connecterons", "connecterez", "connecteront"],
+        "cond.pres": ["connecterais", "connecterais", "connecterait", "connecterions", "connecteriez", "connecteraient"],
+        "subj.pres": ["connecte", "connectes", "connecte", "connections", "connectiez", "connectent"],
+        "subj.imp": ["connectasse", "connectasses", "connectât", "connectassions", "connectassiez", "connectassent"],
+        "imper.pres": ["connecte", "connectons", "connectez"]
+      },
+      "participe_present": "connectant",
+      "participe_passe": ["connecté", "connectée", "connectés", "connectées"]
     }
   ]
 }
