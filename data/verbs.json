@@ -30257,6 +30257,24 @@
       },
       "participe_present": "démentant",
       "participe_passe": ["démenti", "démentie", "démentis", "démenties"]
+    },
+    {
+      "id": "débrancher",
+      "infinitif": "débrancher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["débranche", "débranches", "débranche", "débranchons", "débranchez", "débranchent"],
+        "ind.imp": ["débranchais", "débranchais", "débranchait", "débranchions", "débranchiez", "débranchaient"],
+        "ind.ps": ["débranchai", "débranchas", "débrancha", "débranchâmes", "débranchâtes", "débranchèrent"],
+        "ind.fut": ["débrancherai", "débrancheras", "débranchera", "débrancherons", "débrancherez", "débrancheront"],
+        "cond.pres": ["débrancherais", "débrancherais", "débrancherait", "débrancherions", "débrancheriez", "débrancheraient"],
+        "subj.pres": ["débranche", "débranches", "débranche", "débranchions", "débranchiez", "débranchent"],
+        "subj.imp": ["débranchasse", "débranchasses", "débranchât", "débranchassions", "débranchassiez", "débranchassent"],
+        "imper.pres": ["débranche", "débranchons", "débranchez"]
+      },
+      "participe_present": "débranchant",
+      "participe_passe": ["débranché", "débranchée", "débranchés", "débranchées"]
     }
   ]
 }
