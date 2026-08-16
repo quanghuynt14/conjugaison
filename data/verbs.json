@@ -13281,6 +13281,24 @@
       },
       "participe_present": "déclenchant",
       "participe_passe": ["déclenché", "déclenchée", "déclenchés", "déclenchées"]
+    },
+    {
+      "id": "cuire",
+      "infinitif": "cuire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cuis", "cuis", "cuit", "cuisons", "cuisez", "cuisent"],
+        "ind.imp": ["cuisais", "cuisais", "cuisait", "cuisions", "cuisiez", "cuisaient"],
+        "ind.ps": ["cuisis", "cuisis", "cuisit", "cuisîmes", "cuisîtes", "cuisirent"],
+        "ind.fut": ["cuirai", "cuiras", "cuira", "cuirons", "cuirez", "cuiront"],
+        "cond.pres": ["cuirais", "cuirais", "cuirait", "cuirions", "cuiriez", "cuiraient"],
+        "subj.pres": ["cuise", "cuises", "cuise", "cuisions", "cuisiez", "cuisent"],
+        "subj.imp": ["cuisisse", "cuisisses", "cuisît", "cuisissions", "cuisissiez", "cuisissent"],
+        "imper.pres": ["cuis", "cuisons", "cuisez"]
+      },
+      "participe_present": "cuisant",
+      "participe_passe": ["cuit", "cuite", "cuits", "cuites"]
     }
   ]
 }
