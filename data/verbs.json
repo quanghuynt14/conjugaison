@@ -34653,6 +34653,24 @@
       },
       "participe_present": "égayant",
       "participe_passe": ["égayé", "égayée", "égayés", "égayées"]
+    },
+    {
+      "id": "emboîter",
+      "infinitif": "emboîter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emboîte", "emboîtes", "emboîte", "emboîtons", "emboîtez", "emboîtent"],
+        "ind.imp": ["emboîtais", "emboîtais", "emboîtait", "emboîtions", "emboîtiez", "emboîtaient"],
+        "ind.ps": ["emboîtai", "emboîtas", "emboîta", "emboîtâmes", "emboîtâtes", "emboîtèrent"],
+        "ind.fut": ["emboîterai", "emboîteras", "emboîtera", "emboîterons", "emboîterez", "emboîteront"],
+        "cond.pres": ["emboîterais", "emboîterais", "emboîterait", "emboîterions", "emboîteriez", "emboîteraient"],
+        "subj.pres": ["emboîte", "emboîtes", "emboîte", "emboîtions", "emboîtiez", "emboîtent"],
+        "subj.imp": ["emboîtasse", "emboîtasses", "emboîtât", "emboîtassions", "emboîtassiez", "emboîtassent"],
+        "imper.pres": ["emboîte", "emboîtons", "emboîtez"]
+      },
+      "participe_present": "emboîtant",
+      "participe_passe": ["emboîté", "emboîtée", "emboîtés", "emboîtées"]
     }
   ]
 }
