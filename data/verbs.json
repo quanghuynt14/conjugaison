@@ -5717,6 +5717,24 @@
       },
       "participe_present": "considérant",
       "participe_passe": ["considéré", "considérée", "considérés", "considérées"]
+    },
+    {
+      "id": "attirer",
+      "infinitif": "attirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["attire", "attires", "attire", "attirons", "attirez", "attirent"],
+        "ind.imp": ["attirais", "attirais", "attirait", "attirions", "attiriez", "attiraient"],
+        "ind.ps": ["attirai", "attiras", "attira", "attirâmes", "attirâtes", "attirèrent"],
+        "ind.fut": ["attirerai", "attireras", "attirera", "attirerons", "attirerez", "attireront"],
+        "cond.pres": ["attirerais", "attirerais", "attirerait", "attirerions", "attireriez", "attireraient"],
+        "subj.pres": ["attire", "attires", "attire", "attirions", "attiriez", "attirent"],
+        "subj.imp": ["attirasse", "attirasses", "attirât", "attirassions", "attirassiez", "attirassent"],
+        "imper.pres": ["attire", "attirons", "attirez"]
+      },
+      "participe_present": "attirant",
+      "participe_passe": ["attiré", "attirée", "attirés", "attirées"]
     }
   ]
 }
