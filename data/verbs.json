@@ -33685,6 +33685,24 @@
       },
       "participe_present": "concédant",
       "participe_passe": ["concédé", "concédée", "concédés", "concédées"]
+    },
+    {
+      "id": "klaxonner",
+      "infinitif": "klaxonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["klaxonne", "klaxonnes", "klaxonne", "klaxonnons", "klaxonnez", "klaxonnent"],
+        "ind.imp": ["klaxonnais", "klaxonnais", "klaxonnait", "klaxonnions", "klaxonniez", "klaxonnaient"],
+        "ind.ps": ["klaxonnai", "klaxonnas", "klaxonna", "klaxonnâmes", "klaxonnâtes", "klaxonnèrent"],
+        "ind.fut": ["klaxonnerai", "klaxonneras", "klaxonnera", "klaxonnerons", "klaxonnerez", "klaxonneront"],
+        "cond.pres": ["klaxonnerais", "klaxonnerais", "klaxonnerait", "klaxonnerions", "klaxonneriez", "klaxonneraient"],
+        "subj.pres": ["klaxonne", "klaxonnes", "klaxonne", "klaxonnions", "klaxonniez", "klaxonnent"],
+        "subj.imp": ["klaxonnasse", "klaxonnasses", "klaxonnât", "klaxonnassions", "klaxonnassiez", "klaxonnassent"],
+        "imper.pres": ["klaxonne", "klaxonnons", "klaxonnez"]
+      },
+      "participe_present": "klaxonnant",
+      "participe_passe": ["klaxonné", "klaxonnée", "klaxonnés", "klaxonnées"]
     }
   ]
 }
