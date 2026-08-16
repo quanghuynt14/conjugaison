@@ -9140,6 +9140,24 @@
       },
       "participe_present": "contemplant",
       "participe_passe": ["contemplé", "contemplée", "contemplés", "contemplées"]
+    },
+    {
+      "id": "éveiller",
+      "infinitif": "éveiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éveille", "éveilles", "éveille", "éveillons", "éveillez", "éveillent"],
+        "ind.imp": ["éveillais", "éveillais", "éveillait", "éveillions", "éveilliez", "éveillaient"],
+        "ind.ps": ["éveillai", "éveillas", "éveilla", "éveillâmes", "éveillâtes", "éveillèrent"],
+        "ind.fut": ["éveillerai", "éveilleras", "éveillera", "éveillerons", "éveillerez", "éveilleront"],
+        "cond.pres": ["éveillerais", "éveillerais", "éveillerait", "éveillerions", "éveilleriez", "éveilleraient"],
+        "subj.pres": ["éveille", "éveilles", "éveille", "éveillions", "éveilliez", "éveillent"],
+        "subj.imp": ["éveillasse", "éveillasses", "éveillât", "éveillassions", "éveillassiez", "éveillassent"],
+        "imper.pres": ["éveille", "éveillons", "éveillez"]
+      },
+      "participe_present": "éveillant",
+      "participe_passe": ["éveillé", "éveillée", "éveillés", "éveillées"]
     }
   ]
 }
