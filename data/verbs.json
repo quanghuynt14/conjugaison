@@ -6423,6 +6423,24 @@
       },
       "participe_present": "nourrissant",
       "participe_passe": ["nourri", "nourrie", "nourris", "nourries"]
+    },
+    {
+      "id": "briser",
+      "infinitif": "briser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["brise", "brises", "brise", "brisons", "brisez", "brisent"],
+        "ind.imp": ["brisais", "brisais", "brisait", "brisions", "brisiez", "brisaient"],
+        "ind.ps": ["brisai", "brisas", "brisa", "brisâmes", "brisâtes", "brisèrent"],
+        "ind.fut": ["briserai", "briseras", "brisera", "briserons", "briserez", "briseront"],
+        "cond.pres": ["briserais", "briserais", "briserait", "briserions", "briseriez", "briseraient"],
+        "subj.pres": ["brise", "brises", "brise", "brisions", "brisiez", "brisent"],
+        "subj.imp": ["brisasse", "brisasses", "brisât", "brisassions", "brisassiez", "brisassent"],
+        "imper.pres": ["brise", "brisons", "brisez"]
+      },
+      "participe_present": "brisant",
+      "participe_passe": ["brisé", "brisée", "brisés", "brisées"]
     }
   ]
 }
