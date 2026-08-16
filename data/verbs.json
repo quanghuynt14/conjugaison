@@ -11208,6 +11208,24 @@
       },
       "participe_present": "décevant",
       "participe_passe": ["déçu", "déçue", "déçus", "déçues"]
+    },
+    {
+      "id": "consulter",
+      "infinitif": "consulter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["consulte", "consultes", "consulte", "consultons", "consultez", "consultent"],
+        "ind.imp": ["consultais", "consultais", "consultait", "consultions", "consultiez", "consultaient"],
+        "ind.ps": ["consultai", "consultas", "consulta", "consultâmes", "consultâtes", "consultèrent"],
+        "ind.fut": ["consulterai", "consulteras", "consultera", "consulterons", "consulterez", "consulteront"],
+        "cond.pres": ["consulterais", "consulterais", "consulterait", "consulterions", "consulteriez", "consulteraient"],
+        "subj.pres": ["consulte", "consultes", "consulte", "consultions", "consultiez", "consultent"],
+        "subj.imp": ["consultasse", "consultasses", "consultât", "consultassions", "consultassiez", "consultassent"],
+        "imper.pres": ["consulte", "consultons", "consultez"]
+      },
+      "participe_present": "consultant",
+      "participe_passe": ["consulté", "consultée", "consultés", "consultées"]
     }
   ]
 }
