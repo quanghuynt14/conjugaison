@@ -32136,6 +32136,24 @@
       },
       "participe_present": "neutralisant",
       "participe_passe": ["neutralisé", "neutralisée", "neutralisés", "neutralisées"]
+    },
+    {
+      "id": "rebrousser",
+      "infinitif": "rebrousser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rebrousse", "rebrousses", "rebrousse", "rebroussons", "rebroussez", "rebroussent"],
+        "ind.imp": ["rebroussais", "rebroussais", "rebroussait", "rebroussions", "rebroussiez", "rebroussaient"],
+        "ind.ps": ["rebroussai", "rebroussas", "rebroussa", "rebroussâmes", "rebroussâtes", "rebroussèrent"],
+        "ind.fut": ["rebrousserai", "rebrousseras", "rebroussera", "rebrousserons", "rebrousserez", "rebrousseront"],
+        "cond.pres": ["rebrousserais", "rebrousserais", "rebrousserait", "rebrousserions", "rebrousseriez", "rebrousseraient"],
+        "subj.pres": ["rebrousse", "rebrousses", "rebrousse", "rebroussions", "rebroussiez", "rebroussent"],
+        "subj.imp": ["rebroussasse", "rebroussasses", "rebroussât", "rebroussassions", "rebroussassiez", "rebroussassent"],
+        "imper.pres": ["rebrousse", "rebroussons", "rebroussez"]
+      },
+      "participe_present": "rebroussant",
+      "participe_passe": ["rebroussé", "rebroussée", "rebroussés", "rebroussées"]
     }
   ]
 }
