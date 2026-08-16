@@ -6171,6 +6171,24 @@
       },
       "participe_present": "endormant",
       "participe_passe": ["endormi", "endormie", "endormis", "endormies"]
+    },
+    {
+      "id": "apprécier",
+      "infinitif": "apprécier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["apprécie", "apprécies", "apprécie", "apprécions", "appréciez", "apprécient"],
+        "ind.imp": ["appréciais", "appréciais", "appréciait", "appréciions", "appréciiez", "appréciaient"],
+        "ind.ps": ["appréciai", "apprécias", "apprécia", "appréciâmes", "appréciâtes", "apprécièrent"],
+        "ind.fut": ["apprécierai", "apprécieras", "appréciera", "apprécierons", "apprécierez", "apprécieront"],
+        "cond.pres": ["apprécierais", "apprécierais", "apprécierait", "apprécierions", "apprécieriez", "apprécieraient"],
+        "subj.pres": ["apprécie", "apprécies", "apprécie", "appréciions", "appréciiez", "apprécient"],
+        "subj.imp": ["appréciasse", "appréciasses", "appréciât", "appréciassions", "appréciassiez", "appréciassent"],
+        "imper.pres": ["apprécie", "apprécions", "appréciez"]
+      },
+      "participe_present": "appréciant",
+      "participe_passe": ["apprécié", "appréciée", "appréciés", "appréciées"]
     }
   ]
 }
