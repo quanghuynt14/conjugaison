@@ -35224,6 +35224,24 @@
       },
       "participe_present": "défaillant",
       "participe_passe": ["défailli", null, null, null]
+    },
+    {
+      "id": "dérouiller",
+      "infinitif": "dérouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dérouille", "dérouilles", "dérouille", "dérouillons", "dérouillez", "dérouillent"],
+        "ind.imp": ["dérouillais", "dérouillais", "dérouillait", "dérouillions", "dérouilliez", "dérouillaient"],
+        "ind.ps": ["dérouillai", "dérouillas", "dérouilla", "dérouillâmes", "dérouillâtes", "dérouillèrent"],
+        "ind.fut": ["dérouillerai", "dérouilleras", "dérouillera", "dérouillerons", "dérouillerez", "dérouilleront"],
+        "cond.pres": ["dérouillerais", "dérouillerais", "dérouillerait", "dérouillerions", "dérouilleriez", "dérouilleraient"],
+        "subj.pres": ["dérouille", "dérouilles", "dérouille", "dérouillions", "dérouilliez", "dérouillent"],
+        "subj.imp": ["dérouillasse", "dérouillasses", "dérouillât", "dérouillassions", "dérouillassiez", "dérouillassent"],
+        "imper.pres": ["dérouille", "dérouillons", "dérouillez"]
+      },
+      "participe_present": "dérouillant",
+      "participe_passe": ["dérouillé", "dérouillée", "dérouillés", "dérouillées"]
     }
   ]
 }
