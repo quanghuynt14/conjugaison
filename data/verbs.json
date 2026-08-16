@@ -4178,6 +4178,24 @@
       },
       "participe_present": "détruisant",
       "participe_passe": ["détruit", "détruite", "détruits", "détruites"]
+    },
+    {
+      "id": "épouser",
+      "infinitif": "épouser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["épouse", "épouses", "épouse", "épousons", "épousez", "épousent"],
+        "ind.imp": ["épousais", "épousais", "épousait", "épousions", "épousiez", "épousaient"],
+        "ind.ps": ["épousai", "épousas", "épousa", "épousâmes", "épousâtes", "épousèrent"],
+        "ind.fut": ["épouserai", "épouseras", "épousera", "épouserons", "épouserez", "épouseront"],
+        "cond.pres": ["épouserais", "épouserais", "épouserait", "épouserions", "épouseriez", "épouseraient"],
+        "subj.pres": ["épouse", "épouses", "épouse", "épousions", "épousiez", "épousent"],
+        "subj.imp": ["épousasse", "épousasses", "épousât", "épousassions", "épousassiez", "épousassent"],
+        "imper.pres": ["épouse", "épousons", "épousez"]
+      },
+      "participe_present": "épousant",
+      "participe_passe": ["épousé", "épousée", "épousés", "épousées"]
     }
   ]
 }
