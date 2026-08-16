@@ -5119,6 +5119,24 @@
       },
       "participe_present": "éprouvant",
       "participe_passe": ["éprouvé", "éprouvée", "éprouvés", "éprouvées"]
+    },
+    {
+      "id": "former",
+      "infinitif": "former",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["forme", "formes", "forme", "formons", "formez", "forment"],
+        "ind.imp": ["formais", "formais", "formait", "formions", "formiez", "formaient"],
+        "ind.ps": ["formai", "formas", "forma", "formâmes", "formâtes", "formèrent"],
+        "ind.fut": ["formerai", "formeras", "formera", "formerons", "formerez", "formeront"],
+        "cond.pres": ["formerais", "formerais", "formerait", "formerions", "formeriez", "formeraient"],
+        "subj.pres": ["forme", "formes", "forme", "formions", "formiez", "forment"],
+        "subj.imp": ["formasse", "formasses", "formât", "formassions", "formassiez", "formassent"],
+        "imper.pres": ["forme", "formons", "formez"]
+      },
+      "participe_present": "formant",
+      "participe_passe": ["formé", "formée", "formés", "formées"]
     }
   ]
 }
