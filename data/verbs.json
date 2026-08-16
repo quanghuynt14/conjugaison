@@ -26826,6 +26826,24 @@
       },
       "participe_present": "faussant",
       "participe_passe": ["faussé", "faussée", "faussés", "faussées"]
+    },
+    {
+      "id": "réviser",
+      "infinitif": "réviser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["révise", "révises", "révise", "révisons", "révisez", "révisent"],
+        "ind.imp": ["révisais", "révisais", "révisait", "révisions", "révisiez", "révisaient"],
+        "ind.ps": ["révisai", "révisas", "révisa", "révisâmes", "révisâtes", "révisèrent"],
+        "ind.fut": ["réviserai", "réviseras", "révisera", "réviserons", "réviserez", "réviseront"],
+        "cond.pres": ["réviserais", "réviserais", "réviserait", "réviserions", "réviseriez", "réviseraient"],
+        "subj.pres": ["révise", "révises", "révise", "révisions", "révisiez", "révisent"],
+        "subj.imp": ["révisasse", "révisasses", "révisât", "révisassions", "révisassiez", "révisassent"],
+        "imper.pres": ["révise", "révisons", "révisez"]
+      },
+      "participe_present": "révisant",
+      "participe_passe": ["révisé", "révisée", "révisés", "révisées"]
     }
   ]
 }
