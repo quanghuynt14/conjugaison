@@ -32192,6 +32192,24 @@
       },
       "participe_present": "chutant",
       "participe_passe": ["chuté", null, null, null]
+    },
+    {
+      "id": "répercuter",
+      "infinitif": "répercuter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["répercute", "répercutes", "répercute", "répercutons", "répercutez", "répercutent"],
+        "ind.imp": ["répercutais", "répercutais", "répercutait", "répercutions", "répercutiez", "répercutaient"],
+        "ind.ps": ["répercutai", "répercutas", "répercuta", "répercutâmes", "répercutâtes", "répercutèrent"],
+        "ind.fut": ["répercuterai", "répercuteras", "répercutera", "répercuterons", "répercuterez", "répercuteront"],
+        "cond.pres": ["répercuterais", "répercuterais", "répercuterait", "répercuterions", "répercuteriez", "répercuteraient"],
+        "subj.pres": ["répercute", "répercutes", "répercute", "répercutions", "répercutiez", "répercutent"],
+        "subj.imp": ["répercutasse", "répercutasses", "répercutât", "répercutassions", "répercutassiez", "répercutassent"],
+        "imper.pres": ["répercute", "répercutons", "répercutez"]
+      },
+      "participe_present": "répercutant",
+      "participe_passe": ["répercuté", "répercutée", "répercutés", "répercutées"]
     }
   ]
 }
