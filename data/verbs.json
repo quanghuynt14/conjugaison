@@ -17313,6 +17313,24 @@
       },
       "participe_present": "encadrant",
       "participe_passe": ["encadré", "encadrée", "encadrés", "encadrées"]
+    },
+    {
+      "id": "cirer",
+      "infinitif": "cirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cire", "cires", "cire", "cirons", "cirez", "cirent"],
+        "ind.imp": ["cirais", "cirais", "cirait", "cirions", "ciriez", "ciraient"],
+        "ind.ps": ["cirai", "ciras", "cira", "cirâmes", "cirâtes", "cirèrent"],
+        "ind.fut": ["cirerai", "cireras", "cirera", "cirerons", "cirerez", "cireront"],
+        "cond.pres": ["cirerais", "cirerais", "cirerait", "cirerions", "cireriez", "cireraient"],
+        "subj.pres": ["cire", "cires", "cire", "cirions", "ciriez", "cirent"],
+        "subj.imp": ["cirasse", "cirasses", "cirât", "cirassions", "cirassiez", "cirassent"],
+        "imper.pres": ["cire", "cirons", "cirez"]
+      },
+      "participe_present": "cirant",
+      "participe_passe": ["ciré", "cirée", "cirés", "cirées"]
     }
   ]
 }
