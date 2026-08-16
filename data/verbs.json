@@ -35842,6 +35842,25 @@
       },
       "participe_present": "ensuivant",
       "participe_passe": ["ensuivi", "ensuivie", "ensuivis", "ensuivies"]
+    },
+    {
+      "id": "décamper",
+      "infinitif": "décamper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « décampé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["décampe", "décampes", "décampe", "décampons", "décampez", "décampent"],
+        "ind.imp": ["décampais", "décampais", "décampait", "décampions", "décampiez", "décampaient"],
+        "ind.ps": ["décampai", "décampas", "décampa", "décampâmes", "décampâtes", "décampèrent"],
+        "ind.fut": ["décamperai", "décamperas", "décampera", "décamperons", "décamperez", "décamperont"],
+        "cond.pres": ["décamperais", "décamperais", "décamperait", "décamperions", "décamperiez", "décamperaient"],
+        "subj.pres": ["décampe", "décampes", "décampe", "décampions", "décampiez", "décampent"],
+        "subj.imp": ["décampasse", "décampasses", "décampât", "décampassions", "décampassiez", "décampassent"],
+        "imper.pres": ["décampe", "décampons", "décampez"]
+      },
+      "participe_present": "décampant",
+      "participe_passe": ["décampé", null, null, null]
     }
   ]
 }
