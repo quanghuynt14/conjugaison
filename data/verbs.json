@@ -20545,6 +20545,25 @@
       },
       "participe_present": "captant",
       "participe_passe": ["capté", "captée", "captés", "captées"]
+    },
+    {
+      "id": "imprégner",
+      "infinitif": "imprégner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’imprégnerai » ou « j’imprègnerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["imprègne", "imprègnes", "imprègne", "imprégnons", "imprégnez", "imprègnent"],
+        "ind.imp": ["imprégnais", "imprégnais", "imprégnait", "imprégnions", "imprégniez", "imprégnaient"],
+        "ind.ps": ["imprégnai", "imprégnas", "imprégna", "imprégnâmes", "imprégnâtes", "imprégnèrent"],
+        "ind.fut": [["imprégnerai", "imprègnerai"], ["imprégneras", "imprègneras"], ["imprégnera", "imprègnera"], ["imprégnerons", "imprègnerons"], ["imprégnerez", "imprègnerez"], ["imprégneront", "imprègneront"]],
+        "cond.pres": [["imprégnerais", "imprègnerais"], ["imprégnerais", "imprègnerais"], ["imprégnerait", "imprègnerait"], ["imprégnerions", "imprègnerions"], ["imprégneriez", "imprègneriez"], ["imprégneraient", "imprègneraient"]],
+        "subj.pres": ["imprègne", "imprègnes", "imprègne", "imprégnions", "imprégniez", "imprègnent"],
+        "subj.imp": ["imprégnasse", "imprégnasses", "imprégnât", "imprégnassions", "imprégnassiez", "imprégnassent"],
+        "imper.pres": ["imprègne", "imprégnons", "imprégnez"]
+      },
+      "participe_present": "imprégnant",
+      "participe_passe": ["imprégné", "imprégnée", "imprégnés", "imprégnées"]
     }
   ]
 }
