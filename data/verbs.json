@@ -25460,6 +25460,24 @@
       },
       "participe_present": "boudant",
       "participe_passe": ["boudé", "boudée", "boudés", "boudées"]
+    },
+    {
+      "id": "rajeunir",
+      "infinitif": "rajeunir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rajeunis", "rajeunis", "rajeunit", "rajeunissons", "rajeunissez", "rajeunissent"],
+        "ind.imp": ["rajeunissais", "rajeunissais", "rajeunissait", "rajeunissions", "rajeunissiez", "rajeunissaient"],
+        "ind.ps": ["rajeunis", "rajeunis", "rajeunit", "rajeunîmes", "rajeunîtes", "rajeunirent"],
+        "ind.fut": ["rajeunirai", "rajeuniras", "rajeunira", "rajeunirons", "rajeunirez", "rajeuniront"],
+        "cond.pres": ["rajeunirais", "rajeunirais", "rajeunirait", "rajeunirions", "rajeuniriez", "rajeuniraient"],
+        "subj.pres": ["rajeunisse", "rajeunisses", "rajeunisse", "rajeunissions", "rajeunissiez", "rajeunissent"],
+        "subj.imp": ["rajeunisse", "rajeunisses", "rajeunît", "rajeunissions", "rajeunissiez", "rajeunissent"],
+        "imper.pres": ["rajeunis", "rajeunissons", "rajeunissez"]
+      },
+      "participe_present": "rajeunissant",
+      "participe_passe": ["rajeuni", "rajeunie", "rajeunis", "rajeunies"]
     }
   ]
 }
