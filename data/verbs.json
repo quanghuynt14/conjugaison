@@ -31403,6 +31403,24 @@
       },
       "participe_present": "imbibant",
       "participe_passe": ["imbibé", "imbibée", "imbibés", "imbibées"]
+    },
+    {
+      "id": "retrancher",
+      "infinitif": "retrancher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["retranche", "retranches", "retranche", "retranchons", "retranchez", "retranchent"],
+        "ind.imp": ["retranchais", "retranchais", "retranchait", "retranchions", "retranchiez", "retranchaient"],
+        "ind.ps": ["retranchai", "retranchas", "retrancha", "retranchâmes", "retranchâtes", "retranchèrent"],
+        "ind.fut": ["retrancherai", "retrancheras", "retranchera", "retrancherons", "retrancherez", "retrancheront"],
+        "cond.pres": ["retrancherais", "retrancherais", "retrancherait", "retrancherions", "retrancheriez", "retrancheraient"],
+        "subj.pres": ["retranche", "retranches", "retranche", "retranchions", "retranchiez", "retranchent"],
+        "subj.imp": ["retranchasse", "retranchasses", "retranchât", "retranchassions", "retranchassiez", "retranchassent"],
+        "imper.pres": ["retranche", "retranchons", "retranchez"]
+      },
+      "participe_present": "retranchant",
+      "participe_passe": ["retranché", "retranchée", "retranchés", "retranchées"]
     }
   ]
 }
