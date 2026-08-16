@@ -2950,6 +2950,24 @@
       },
       "participe_present": "glissant",
       "participe_passe": ["glissé", "glissée", "glissés", "glissées"]
+    },
+    {
+      "id": "ajouter",
+      "infinitif": "ajouter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ajoute", "ajoutes", "ajoute", "ajoutons", "ajoutez", "ajoutent"],
+        "ind.imp": ["ajoutais", "ajoutais", "ajoutait", "ajoutions", "ajoutiez", "ajoutaient"],
+        "ind.ps": ["ajoutai", "ajoutas", "ajouta", "ajoutâmes", "ajoutâtes", "ajoutèrent"],
+        "ind.fut": ["ajouterai", "ajouteras", "ajoutera", "ajouterons", "ajouterez", "ajouteront"],
+        "cond.pres": ["ajouterais", "ajouterais", "ajouterait", "ajouterions", "ajouteriez", "ajouteraient"],
+        "subj.pres": ["ajoute", "ajoutes", "ajoute", "ajoutions", "ajoutiez", "ajoutent"],
+        "subj.imp": ["ajoutasse", "ajoutasses", "ajoutât", "ajoutassions", "ajoutassiez", "ajoutassent"],
+        "imper.pres": ["ajoute", "ajoutons", "ajoutez"]
+      },
+      "participe_present": "ajoutant",
+      "participe_passe": ["ajouté", "ajoutée", "ajoutés", "ajoutées"]
     }
   ]
 }
