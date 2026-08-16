@@ -34966,6 +34966,24 @@
       },
       "participe_present": "rêvassant",
       "participe_passe": ["rêvassé", null, null, null]
+    },
+    {
+      "id": "dégainer",
+      "infinitif": "dégainer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dégaine", "dégaines", "dégaine", "dégainons", "dégainez", "dégainent"],
+        "ind.imp": ["dégainais", "dégainais", "dégainait", "dégainions", "dégainiez", "dégainaient"],
+        "ind.ps": ["dégainai", "dégainas", "dégaina", "dégainâmes", "dégainâtes", "dégainèrent"],
+        "ind.fut": ["dégainerai", "dégaineras", "dégainera", "dégainerons", "dégainerez", "dégaineront"],
+        "cond.pres": ["dégainerais", "dégainerais", "dégainerait", "dégainerions", "dégaineriez", "dégaineraient"],
+        "subj.pres": ["dégaine", "dégaines", "dégaine", "dégainions", "dégainiez", "dégainent"],
+        "subj.imp": ["dégainasse", "dégainasses", "dégainât", "dégainassions", "dégainassiez", "dégainassent"],
+        "imper.pres": ["dégaine", "dégainons", "dégainez"]
+      },
+      "participe_present": "dégainant",
+      "participe_passe": ["dégainé", "dégainée", "dégainés", "dégainées"]
     }
   ]
 }
