@@ -17512,6 +17512,24 @@
       },
       "participe_present": "confessant",
       "participe_passe": ["confessé", "confessée", "confessés", "confessées"]
+    },
+    {
+      "id": "défoncer",
+      "infinitif": "défoncer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["défonce", "défonces", "défonce", "défonçons", "défoncez", "défoncent"],
+        "ind.imp": ["défonçais", "défonçais", "défonçait", "défoncions", "défonciez", "défonçaient"],
+        "ind.ps": ["défonçai", "défonças", "défonça", "défonçâmes", "défonçâtes", "défoncèrent"],
+        "ind.fut": ["défoncerai", "défonceras", "défoncera", "défoncerons", "défoncerez", "défonceront"],
+        "cond.pres": ["défoncerais", "défoncerais", "défoncerait", "défoncerions", "défonceriez", "défonceraient"],
+        "subj.pres": ["défonce", "défonces", "défonce", "défoncions", "défonciez", "défoncent"],
+        "subj.imp": ["défonçasse", "défonçasses", "défonçât", "défonçassions", "défonçassiez", "défonçassent"],
+        "imper.pres": ["défonce", "défonçons", "défoncez"]
+      },
+      "participe_present": "défonçant",
+      "participe_passe": ["défoncé", "défoncée", "défoncés", "défoncées"]
     }
   ]
 }
