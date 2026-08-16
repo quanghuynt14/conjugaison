@@ -2642,6 +2642,24 @@
       },
       "participe_present": "répétant",
       "participe_passe": ["répété", "répétée", "répétés", "répétées"]
+    },
+    {
+      "id": "refuser",
+      "infinitif": "refuser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["refuse", "refuses", "refuse", "refusons", "refusez", "refusent"],
+        "ind.imp": ["refusais", "refusais", "refusait", "refusions", "refusiez", "refusaient"],
+        "ind.ps": ["refusai", "refusas", "refusa", "refusâmes", "refusâtes", "refusèrent"],
+        "ind.fut": ["refuserai", "refuseras", "refusera", "refuserons", "refuserez", "refuseront"],
+        "cond.pres": ["refuserais", "refuserais", "refuserait", "refuserions", "refuseriez", "refuseraient"],
+        "subj.pres": ["refuse", "refuses", "refuse", "refusions", "refusiez", "refusent"],
+        "subj.imp": ["refusasse", "refusasses", "refusât", "refusassions", "refusassiez", "refusassent"],
+        "imper.pres": ["refuse", "refusons", "refusez"]
+      },
+      "participe_present": "refusant",
+      "participe_passe": ["refusé", "refusée", "refusés", "refusées"]
     }
   ]
 }
