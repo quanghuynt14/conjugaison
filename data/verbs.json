@@ -34908,6 +34908,25 @@
       },
       "participe_present": "acheminant",
       "participe_passe": ["acheminé", "acheminée", "acheminés", "acheminées"]
+    },
+    {
+      "id": "remédier",
+      "infinitif": "remédier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « remédié » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["remédie", "remédies", "remédie", "remédions", "remédiez", "remédient"],
+        "ind.imp": ["remédiais", "remédiais", "remédiait", "remédiions", "remédiiez", "remédiaient"],
+        "ind.ps": ["remédiai", "remédias", "remédia", "remédiâmes", "remédiâtes", "remédièrent"],
+        "ind.fut": ["remédierai", "remédieras", "remédiera", "remédierons", "remédierez", "remédieront"],
+        "cond.pres": ["remédierais", "remédierais", "remédierait", "remédierions", "remédieriez", "remédieraient"],
+        "subj.pres": ["remédie", "remédies", "remédie", "remédiions", "remédiiez", "remédient"],
+        "subj.imp": ["remédiasse", "remédiasses", "remédiât", "remédiassions", "remédiassiez", "remédiassent"],
+        "imper.pres": ["remédie", "remédions", "remédiez"]
+      },
+      "participe_present": "remédiant",
+      "participe_passe": ["remédié", null, null, null]
     }
   ]
 }
