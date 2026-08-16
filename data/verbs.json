@@ -18376,6 +18376,25 @@
       },
       "participe_present": "cultivant",
       "participe_passe": ["cultivé", "cultivée", "cultivés", "cultivées"]
+    },
+    {
+      "id": "contribuer",
+      "infinitif": "contribuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « contribué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["contribue", "contribues", "contribue", "contribuons", "contribuez", "contribuent"],
+        "ind.imp": ["contribuais", "contribuais", "contribuait", "contribuions", "contribuiez", "contribuaient"],
+        "ind.ps": ["contribuai", "contribuas", "contribua", "contribuâmes", "contribuâtes", "contribuèrent"],
+        "ind.fut": ["contribuerai", "contribueras", "contribuera", "contribuerons", "contribuerez", "contribueront"],
+        "cond.pres": ["contribuerais", "contribuerais", "contribuerait", "contribuerions", "contribueriez", "contribueraient"],
+        "subj.pres": ["contribue", "contribues", "contribue", "contribuions", "contribuiez", "contribuent"],
+        "subj.imp": ["contribuasse", "contribuasses", "contribuât", "contribuassions", "contribuassiez", "contribuassent"],
+        "imper.pres": ["contribue", "contribuons", "contribuez"]
+      },
+      "participe_present": "contribuant",
+      "participe_passe": ["contribué", null, null, null]
     }
   ]
 }
