@@ -15369,6 +15369,24 @@
       },
       "participe_present": "cuisinant",
       "participe_passe": ["cuisiné", "cuisinée", "cuisinés", "cuisinées"]
+    },
+    {
+      "id": "entasser",
+      "infinitif": "entasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entasse", "entasses", "entasse", "entassons", "entassez", "entassent"],
+        "ind.imp": ["entassais", "entassais", "entassait", "entassions", "entassiez", "entassaient"],
+        "ind.ps": ["entassai", "entassas", "entassa", "entassâmes", "entassâtes", "entassèrent"],
+        "ind.fut": ["entasserai", "entasseras", "entassera", "entasserons", "entasserez", "entasseront"],
+        "cond.pres": ["entasserais", "entasserais", "entasserait", "entasserions", "entasseriez", "entasseraient"],
+        "subj.pres": ["entasse", "entasses", "entasse", "entassions", "entassiez", "entassent"],
+        "subj.imp": ["entassasse", "entassasses", "entassât", "entassassions", "entassassiez", "entassassent"],
+        "imper.pres": ["entasse", "entassons", "entassez"]
+      },
+      "participe_present": "entassant",
+      "participe_passe": ["entassé", "entassée", "entassés", "entassées"]
     }
   ]
 }
