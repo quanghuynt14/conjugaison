@@ -32593,6 +32593,24 @@
       },
       "participe_present": "superposant",
       "participe_passe": ["superposé", "superposée", "superposés", "superposées"]
+    },
+    {
+      "id": "attabler",
+      "infinitif": "attabler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["attable", "attables", "attable", "attablons", "attablez", "attablent"],
+        "ind.imp": ["attablais", "attablais", "attablait", "attablions", "attabliez", "attablaient"],
+        "ind.ps": ["attablai", "attablas", "attabla", "attablâmes", "attablâtes", "attablèrent"],
+        "ind.fut": ["attablerai", "attableras", "attablera", "attablerons", "attablerez", "attableront"],
+        "cond.pres": ["attablerais", "attablerais", "attablerait", "attablerions", "attableriez", "attableraient"],
+        "subj.pres": ["attable", "attables", "attable", "attablions", "attabliez", "attablent"],
+        "subj.imp": ["attablasse", "attablasses", "attablât", "attablassions", "attablassiez", "attablassent"],
+        "imper.pres": ["attable", "attablons", "attablez"]
+      },
+      "participe_present": "attablant",
+      "participe_passe": ["attablé", "attablée", "attablés", "attablées"]
     }
   ]
 }
