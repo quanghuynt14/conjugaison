@@ -19779,6 +19779,24 @@
       },
       "participe_present": "enroulant",
       "participe_passe": ["enroulé", "enroulée", "enroulés", "enroulées"]
+    },
+    {
+      "id": "exploiter",
+      "infinitif": "exploiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exploite", "exploites", "exploite", "exploitons", "exploitez", "exploitent"],
+        "ind.imp": ["exploitais", "exploitais", "exploitait", "exploitions", "exploitiez", "exploitaient"],
+        "ind.ps": ["exploitai", "exploitas", "exploita", "exploitâmes", "exploitâtes", "exploitèrent"],
+        "ind.fut": ["exploiterai", "exploiteras", "exploitera", "exploiterons", "exploiterez", "exploiteront"],
+        "cond.pres": ["exploiterais", "exploiterais", "exploiterait", "exploiterions", "exploiteriez", "exploiteraient"],
+        "subj.pres": ["exploite", "exploites", "exploite", "exploitions", "exploitiez", "exploitent"],
+        "subj.imp": ["exploitasse", "exploitasses", "exploitât", "exploitassions", "exploitassiez", "exploitassent"],
+        "imper.pres": ["exploite", "exploitons", "exploitez"]
+      },
+      "participe_present": "exploitant",
+      "participe_passe": ["exploité", "exploitée", "exploités", "exploitées"]
     }
   ]
 }
