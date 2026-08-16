@@ -11046,6 +11046,24 @@
       },
       "participe_present": "redevenant",
       "participe_passe": ["redevenu", "redevenue", "redevenus", "redevenues"]
+    },
+    {
+      "id": "signaler",
+      "infinitif": "signaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["signale", "signales", "signale", "signalons", "signalez", "signalent"],
+        "ind.imp": ["signalais", "signalais", "signalait", "signalions", "signaliez", "signalaient"],
+        "ind.ps": ["signalai", "signalas", "signala", "signalâmes", "signalâtes", "signalèrent"],
+        "ind.fut": ["signalerai", "signaleras", "signalera", "signalerons", "signalerez", "signaleront"],
+        "cond.pres": ["signalerais", "signalerais", "signalerait", "signalerions", "signaleriez", "signaleraient"],
+        "subj.pres": ["signale", "signales", "signale", "signalions", "signaliez", "signalent"],
+        "subj.imp": ["signalasse", "signalasses", "signalât", "signalassions", "signalassiez", "signalassent"],
+        "imper.pres": ["signale", "signalons", "signalez"]
+      },
+      "participe_present": "signalant",
+      "participe_passe": ["signalé", "signalée", "signalés", "signalées"]
     }
   ]
 }
