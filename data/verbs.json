@@ -422,6 +422,24 @@
       },
       "participe_present": "laissant",
       "participe_passe": ["laissé", "laissée", "laissés", "laissées"]
+    },
+    {
+      "id": "donner",
+      "infinitif": "donner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["donne", "donnes", "donne", "donnons", "donnez", "donnent"],
+        "ind.imp": ["donnais", "donnais", "donnait", "donnions", "donniez", "donnaient"],
+        "ind.ps": ["donnai", "donnas", "donna", "donnâmes", "donnâtes", "donnèrent"],
+        "ind.fut": ["donnerai", "donneras", "donnera", "donnerons", "donnerez", "donneront"],
+        "cond.pres": ["donnerais", "donnerais", "donnerait", "donnerions", "donneriez", "donneraient"],
+        "subj.pres": ["donne", "donnes", "donne", "donnions", "donniez", "donnent"],
+        "subj.imp": ["donnasse", "donnasses", "donnât", "donnassions", "donnassiez", "donnassent"],
+        "imper.pres": ["donne", "donnons", "donnez"]
+      },
+      "participe_present": "donnant",
+      "participe_passe": ["donné", "donnée", "donnés", "données"]
     }
   ]
 }
