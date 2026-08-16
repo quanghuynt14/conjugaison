@@ -14246,6 +14246,24 @@
       },
       "participe_present": "contrant",
       "participe_passe": ["contré", "contrée", "contrés", "contrées"]
+    },
+    {
+      "id": "balader",
+      "infinitif": "balader",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["balade", "balades", "balade", "baladons", "baladez", "baladent"],
+        "ind.imp": ["baladais", "baladais", "baladait", "baladions", "baladiez", "baladaient"],
+        "ind.ps": ["baladai", "baladas", "balada", "baladâmes", "baladâtes", "baladèrent"],
+        "ind.fut": ["baladerai", "baladeras", "baladera", "baladerons", "baladerez", "baladeront"],
+        "cond.pres": ["baladerais", "baladerais", "baladerait", "baladerions", "baladeriez", "baladeraient"],
+        "subj.pres": ["balade", "balades", "balade", "baladions", "baladiez", "baladent"],
+        "subj.imp": ["baladasse", "baladasses", "baladât", "baladassions", "baladassiez", "baladassent"],
+        "imper.pres": ["balade", "baladons", "baladez"]
+      },
+      "participe_present": "baladant",
+      "participe_passe": ["baladé", "baladée", "baladés", "baladées"]
     }
   ]
 }
