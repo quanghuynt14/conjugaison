@@ -11807,6 +11807,24 @@
       },
       "participe_present": "augmentant",
       "participe_passe": ["augmenté", "augmentée", "augmentés", "augmentées"]
+    },
+    {
+      "id": "coiffer",
+      "infinitif": "coiffer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["coiffe", "coiffes", "coiffe", "coiffons", "coiffez", "coiffent"],
+        "ind.imp": ["coiffais", "coiffais", "coiffait", "coiffions", "coiffiez", "coiffaient"],
+        "ind.ps": ["coiffai", "coiffas", "coiffa", "coiffâmes", "coiffâtes", "coiffèrent"],
+        "ind.fut": ["coifferai", "coifferas", "coiffera", "coifferons", "coifferez", "coifferont"],
+        "cond.pres": ["coifferais", "coifferais", "coifferait", "coifferions", "coifferiez", "coifferaient"],
+        "subj.pres": ["coiffe", "coiffes", "coiffe", "coiffions", "coiffiez", "coiffent"],
+        "subj.imp": ["coiffasse", "coiffasses", "coiffât", "coiffassions", "coiffassiez", "coiffassent"],
+        "imper.pres": ["coiffe", "coiffons", "coiffez"]
+      },
+      "participe_present": "coiffant",
+      "participe_passe": ["coiffé", "coiffée", "coiffés", "coiffées"]
     }
   ]
 }
