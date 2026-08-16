@@ -4648,6 +4648,24 @@
       },
       "participe_present": "mêlant",
       "participe_passe": ["mêlé", "mêlée", "mêlés", "mêlées"]
+    },
+    {
+      "id": "sonner",
+      "infinitif": "sonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sonne", "sonnes", "sonne", "sonnons", "sonnez", "sonnent"],
+        "ind.imp": ["sonnais", "sonnais", "sonnait", "sonnions", "sonniez", "sonnaient"],
+        "ind.ps": ["sonnai", "sonnas", "sonna", "sonnâmes", "sonnâtes", "sonnèrent"],
+        "ind.fut": ["sonnerai", "sonneras", "sonnera", "sonnerons", "sonnerez", "sonneront"],
+        "cond.pres": ["sonnerais", "sonnerais", "sonnerait", "sonnerions", "sonneriez", "sonneraient"],
+        "subj.pres": ["sonne", "sonnes", "sonne", "sonnions", "sonniez", "sonnent"],
+        "subj.imp": ["sonnasse", "sonnasses", "sonnât", "sonnassions", "sonnassiez", "sonnassent"],
+        "imper.pres": ["sonne", "sonnons", "sonnez"]
+      },
+      "participe_present": "sonnant",
+      "participe_passe": ["sonné", "sonnée", "sonnés", "sonnées"]
     }
   ]
 }
