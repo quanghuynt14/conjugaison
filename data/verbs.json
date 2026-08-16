@@ -12174,6 +12174,24 @@
       },
       "participe_present": "écriant",
       "participe_passe": ["écrié", "écriée", "écriés", "écriées"]
+    },
+    {
+      "id": "soucier",
+      "infinitif": "soucier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["soucie", "soucies", "soucie", "soucions", "souciez", "soucient"],
+        "ind.imp": ["souciais", "souciais", "souciait", "souciions", "souciiez", "souciaient"],
+        "ind.ps": ["souciai", "soucias", "soucia", "souciâmes", "souciâtes", "soucièrent"],
+        "ind.fut": ["soucierai", "soucieras", "souciera", "soucierons", "soucierez", "soucieront"],
+        "cond.pres": ["soucierais", "soucierais", "soucierait", "soucierions", "soucieriez", "soucieraient"],
+        "subj.pres": ["soucie", "soucies", "soucie", "souciions", "souciiez", "soucient"],
+        "subj.imp": ["souciasse", "souciasses", "souciât", "souciassions", "souciassiez", "souciassent"],
+        "imper.pres": ["soucie", "soucions", "souciez"]
+      },
+      "participe_present": "souciant",
+      "participe_passe": ["soucié", "souciée", "souciés", "souciées"]
     }
   ]
 }
