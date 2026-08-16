@@ -34799,6 +34799,24 @@
       },
       "participe_present": "outrageant",
       "participe_passe": ["outragé", "outragée", "outragés", "outragées"]
+    },
+    {
+      "id": "déporter",
+      "infinitif": "déporter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déporte", "déportes", "déporte", "déportons", "déportez", "déportent"],
+        "ind.imp": ["déportais", "déportais", "déportait", "déportions", "déportiez", "déportaient"],
+        "ind.ps": ["déportai", "déportas", "déporta", "déportâmes", "déportâtes", "déportèrent"],
+        "ind.fut": ["déporterai", "déporteras", "déportera", "déporterons", "déporterez", "déporteront"],
+        "cond.pres": ["déporterais", "déporterais", "déporterait", "déporterions", "déporteriez", "déporteraient"],
+        "subj.pres": ["déporte", "déportes", "déporte", "déportions", "déportiez", "déportent"],
+        "subj.imp": ["déportasse", "déportasses", "déportât", "déportassions", "déportassiez", "déportassent"],
+        "imper.pres": ["déporte", "déportons", "déportez"]
+      },
+      "participe_present": "déportant",
+      "participe_passe": ["déporté", "déportée", "déportés", "déportées"]
     }
   ]
 }
