@@ -14862,6 +14862,24 @@
       },
       "participe_present": "calculant",
       "participe_passe": ["calculé", "calculée", "calculés", "calculées"]
+    },
+    {
+      "id": "absorber",
+      "infinitif": "absorber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["absorbe", "absorbes", "absorbe", "absorbons", "absorbez", "absorbent"],
+        "ind.imp": ["absorbais", "absorbais", "absorbait", "absorbions", "absorbiez", "absorbaient"],
+        "ind.ps": ["absorbai", "absorbas", "absorba", "absorbâmes", "absorbâtes", "absorbèrent"],
+        "ind.fut": ["absorberai", "absorberas", "absorbera", "absorberons", "absorberez", "absorberont"],
+        "cond.pres": ["absorberais", "absorberais", "absorberait", "absorberions", "absorberiez", "absorberaient"],
+        "subj.pres": ["absorbe", "absorbes", "absorbe", "absorbions", "absorbiez", "absorbent"],
+        "subj.imp": ["absorbasse", "absorbasses", "absorbât", "absorbassions", "absorbassiez", "absorbassent"],
+        "imper.pres": ["absorbe", "absorbons", "absorbez"]
+      },
+      "participe_present": "absorbant",
+      "participe_passe": ["absorbé", "absorbée", "absorbés", "absorbées"]
     }
   ]
 }
