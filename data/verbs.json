@@ -24224,6 +24224,25 @@
       },
       "participe_present": "péchant",
       "participe_passe": ["péché", null, null, null]
+    },
+    {
+      "id": "succomber",
+      "infinitif": "succomber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « succombé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["succombe", "succombes", "succombe", "succombons", "succombez", "succombent"],
+        "ind.imp": ["succombais", "succombais", "succombait", "succombions", "succombiez", "succombaient"],
+        "ind.ps": ["succombai", "succombas", "succomba", "succombâmes", "succombâtes", "succombèrent"],
+        "ind.fut": ["succomberai", "succomberas", "succombera", "succomberons", "succomberez", "succomberont"],
+        "cond.pres": ["succomberais", "succomberais", "succomberait", "succomberions", "succomberiez", "succomberaient"],
+        "subj.pres": ["succombe", "succombes", "succombe", "succombions", "succombiez", "succombent"],
+        "subj.imp": ["succombasse", "succombasses", "succombât", "succombassions", "succombassiez", "succombassent"],
+        "imper.pres": ["succombe", "succombons", "succombez"]
+      },
+      "participe_present": "succombant",
+      "participe_passe": ["succombé", null, null, null]
     }
   ]
 }
