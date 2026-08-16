@@ -36387,6 +36387,25 @@
       },
       "participe_present": "desservant",
       "participe_passe": ["desservi", "desservie", "desservis", "desservies"]
+    },
+    {
+      "id": "jubiler",
+      "infinitif": "jubiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « jubilé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["jubile", "jubiles", "jubile", "jubilons", "jubilez", "jubilent"],
+        "ind.imp": ["jubilais", "jubilais", "jubilait", "jubilions", "jubiliez", "jubilaient"],
+        "ind.ps": ["jubilai", "jubilas", "jubila", "jubilâmes", "jubilâtes", "jubilèrent"],
+        "ind.fut": ["jubilerai", "jubileras", "jubilera", "jubilerons", "jubilerez", "jubileront"],
+        "cond.pres": ["jubilerais", "jubilerais", "jubilerait", "jubilerions", "jubileriez", "jubileraient"],
+        "subj.pres": ["jubile", "jubiles", "jubile", "jubilions", "jubiliez", "jubilent"],
+        "subj.imp": ["jubilasse", "jubilasses", "jubilât", "jubilassions", "jubilassiez", "jubilassent"],
+        "imper.pres": ["jubile", "jubilons", "jubilez"]
+      },
+      "participe_present": "jubilant",
+      "participe_passe": ["jubilé", null, null, null]
     }
   ]
 }
