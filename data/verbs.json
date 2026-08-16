@@ -30166,6 +30166,24 @@
       },
       "participe_present": "sautillant",
       "participe_passe": ["sautillé", null, null, null]
+    },
+    {
+      "id": "ponctuer",
+      "infinitif": "ponctuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ponctue", "ponctues", "ponctue", "ponctuons", "ponctuez", "ponctuent"],
+        "ind.imp": ["ponctuais", "ponctuais", "ponctuait", "ponctuions", "ponctuiez", "ponctuaient"],
+        "ind.ps": ["ponctuai", "ponctuas", "ponctua", "ponctuâmes", "ponctuâtes", "ponctuèrent"],
+        "ind.fut": ["ponctuerai", "ponctueras", "ponctuera", "ponctuerons", "ponctuerez", "ponctueront"],
+        "cond.pres": ["ponctuerais", "ponctuerais", "ponctuerait", "ponctuerions", "ponctueriez", "ponctueraient"],
+        "subj.pres": ["ponctue", "ponctues", "ponctue", "ponctuions", "ponctuiez", "ponctuent"],
+        "subj.imp": ["ponctuasse", "ponctuasses", "ponctuât", "ponctuassions", "ponctuassiez", "ponctuassent"],
+        "imper.pres": ["ponctue", "ponctuons", "ponctuez"]
+      },
+      "participe_present": "ponctuant",
+      "participe_passe": ["ponctué", "ponctuée", "ponctués", "ponctuées"]
     }
   ]
 }
