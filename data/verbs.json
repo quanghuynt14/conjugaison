@@ -32283,6 +32283,24 @@
       },
       "participe_present": "siégeant",
       "participe_passe": ["siégé", null, null, null]
+    },
+    {
+      "id": "déchiqueter",
+      "infinitif": "déchiqueter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déchiquette", "déchiquettes", "déchiquette", "déchiquetons", "déchiquetez", "déchiquettent"],
+        "ind.imp": ["déchiquetais", "déchiquetais", "déchiquetait", "déchiquetions", "déchiquetiez", "déchiquetaient"],
+        "ind.ps": ["déchiquetai", "déchiquetas", "déchiqueta", "déchiquetâmes", "déchiquetâtes", "déchiquetèrent"],
+        "ind.fut": ["déchiquetterai", "déchiquetteras", "déchiquettera", "déchiquetterons", "déchiquetterez", "déchiquetteront"],
+        "cond.pres": ["déchiquetterais", "déchiquetterais", "déchiquetterait", "déchiquetterions", "déchiquetteriez", "déchiquetteraient"],
+        "subj.pres": ["déchiquette", "déchiquettes", "déchiquette", "déchiquetions", "déchiquetiez", "déchiquettent"],
+        "subj.imp": ["déchiquetasse", "déchiquetasses", "déchiquetât", "déchiquetassions", "déchiquetassiez", "déchiquetassent"],
+        "imper.pres": ["déchiquette", "déchiquetons", "déchiquetez"]
+      },
+      "participe_present": "déchiquetant",
+      "participe_passe": ["déchiqueté", "déchiquetée", "déchiquetés", "déchiquetées"]
     }
   ]
 }
