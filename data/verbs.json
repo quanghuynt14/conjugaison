@@ -1476,6 +1476,25 @@
       },
       "participe_present": "tournant",
       "participe_passe": ["tourné", "tournée", "tournés", "tournées"]
+    },
+    {
+      "id": "foutre",
+      "infinitif": "foutre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Défectif : pas de passé simple, pas de subjonctif imparfait.",
+      "tenses": {
+        "ind.pres": ["fous", "fous", "fout", "foutons", "foutez", "foutent"],
+        "ind.imp": ["foutais", "foutais", "foutait", "foutions", "foutiez", "foutaient"],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": ["foutrai", "foutras", "foutra", "foutrons", "foutrez", "foutront"],
+        "cond.pres": ["foutrais", "foutrais", "foutrait", "foutrions", "foutriez", "foutraient"],
+        "subj.pres": ["foute", "foutes", "foute", "foutions", "foutiez", "foutent"],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": ["fous", "foutons", "foutez"]
+      },
+      "participe_present": "foutant",
+      "participe_passe": ["foutu", "foutue", "foutus", "foutues"]
     }
   ]
 }
