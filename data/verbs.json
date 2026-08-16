@@ -9646,6 +9646,24 @@
       },
       "participe_present": "débrouillant",
       "participe_passe": ["débrouillé", "débrouillée", "débrouillés", "débrouillées"]
+    },
+    {
+      "id": "conseiller",
+      "infinitif": "conseiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conseille", "conseilles", "conseille", "conseillons", "conseillez", "conseillent"],
+        "ind.imp": ["conseillais", "conseillais", "conseillait", "conseillions", "conseilliez", "conseillaient"],
+        "ind.ps": ["conseillai", "conseillas", "conseilla", "conseillâmes", "conseillâtes", "conseillèrent"],
+        "ind.fut": ["conseillerai", "conseilleras", "conseillera", "conseillerons", "conseillerez", "conseilleront"],
+        "cond.pres": ["conseillerais", "conseillerais", "conseillerait", "conseillerions", "conseilleriez", "conseilleraient"],
+        "subj.pres": ["conseille", "conseilles", "conseille", "conseillions", "conseilliez", "conseillent"],
+        "subj.imp": ["conseillasse", "conseillasses", "conseillât", "conseillassions", "conseillassiez", "conseillassent"],
+        "imper.pres": ["conseille", "conseillons", "conseillez"]
+      },
+      "participe_present": "conseillant",
+      "participe_passe": ["conseillé", "conseillée", "conseillés", "conseillées"]
     }
   ]
 }
