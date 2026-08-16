@@ -14826,6 +14826,24 @@
       },
       "participe_present": "écoulant",
       "participe_passe": ["écoulé", "écoulée", "écoulés", "écoulées"]
+    },
+    {
+      "id": "divorcer",
+      "infinitif": "divorcer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["divorce", "divorces", "divorce", "divorçons", "divorcez", "divorcent"],
+        "ind.imp": ["divorçais", "divorçais", "divorçait", "divorcions", "divorciez", "divorçaient"],
+        "ind.ps": ["divorçai", "divorças", "divorça", "divorçâmes", "divorçâtes", "divorcèrent"],
+        "ind.fut": ["divorcerai", "divorceras", "divorcera", "divorcerons", "divorcerez", "divorceront"],
+        "cond.pres": ["divorcerais", "divorcerais", "divorcerait", "divorcerions", "divorceriez", "divorceraient"],
+        "subj.pres": ["divorce", "divorces", "divorce", "divorcions", "divorciez", "divorcent"],
+        "subj.imp": ["divorçasse", "divorçasses", "divorçât", "divorçassions", "divorçassiez", "divorçassent"],
+        "imper.pres": ["divorce", "divorçons", "divorcez"]
+      },
+      "participe_present": "divorçant",
+      "participe_passe": ["divorcé", "divorcée", "divorcés", "divorcées"]
     }
   ]
 }
