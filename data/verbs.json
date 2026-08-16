@@ -27577,6 +27577,25 @@
       },
       "participe_present": "extirpant",
       "participe_passe": ["extirpé", "extirpée", "extirpés", "extirpées"]
+    },
+    {
+      "id": "fuser",
+      "infinitif": "fuser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « fusé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["fuse", "fuses", "fuse", "fusons", "fusez", "fusent"],
+        "ind.imp": ["fusais", "fusais", "fusait", "fusions", "fusiez", "fusaient"],
+        "ind.ps": ["fusai", "fusas", "fusa", "fusâmes", "fusâtes", "fusèrent"],
+        "ind.fut": ["fuserai", "fuseras", "fusera", "fuserons", "fuserez", "fuseront"],
+        "cond.pres": ["fuserais", "fuserais", "fuserait", "fuserions", "fuseriez", "fuseraient"],
+        "subj.pres": ["fuse", "fuses", "fuse", "fusions", "fusiez", "fusent"],
+        "subj.imp": ["fusasse", "fusasses", "fusât", "fusassions", "fusassiez", "fusassent"],
+        "imper.pres": ["fuse", "fusons", "fusez"]
+      },
+      "participe_present": "fusant",
+      "participe_passe": ["fusé", null, null, null]
     }
   ]
 }
