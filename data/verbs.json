@@ -10412,6 +10412,24 @@
       },
       "participe_present": "entretenant",
       "participe_passe": ["entretenu", "entretenue", "entretenus", "entretenues"]
+    },
+    {
+      "id": "dissimuler",
+      "infinitif": "dissimuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dissimule", "dissimules", "dissimule", "dissimulons", "dissimulez", "dissimulent"],
+        "ind.imp": ["dissimulais", "dissimulais", "dissimulait", "dissimulions", "dissimuliez", "dissimulaient"],
+        "ind.ps": ["dissimulai", "dissimulas", "dissimula", "dissimulâmes", "dissimulâtes", "dissimulèrent"],
+        "ind.fut": ["dissimulerai", "dissimuleras", "dissimulera", "dissimulerons", "dissimulerez", "dissimuleront"],
+        "cond.pres": ["dissimulerais", "dissimulerais", "dissimulerait", "dissimulerions", "dissimuleriez", "dissimuleraient"],
+        "subj.pres": ["dissimule", "dissimules", "dissimule", "dissimulions", "dissimuliez", "dissimulent"],
+        "subj.imp": ["dissimulasse", "dissimulasses", "dissimulât", "dissimulassions", "dissimulassiez", "dissimulassent"],
+        "imper.pres": ["dissimule", "dissimulons", "dissimulez"]
+      },
+      "participe_present": "dissimulant",
+      "participe_passe": ["dissimulé", "dissimulée", "dissimulés", "dissimulées"]
     }
   ]
 }
