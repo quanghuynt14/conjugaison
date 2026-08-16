@@ -2786,6 +2786,25 @@
       },
       "participe_present": "mariant",
       "participe_passe": ["marié", "mariée", "mariés", "mariées"]
+    },
+    {
+      "id": "exister",
+      "infinitif": "exister",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « existé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["existe", "existes", "existe", "existons", "existez", "existent"],
+        "ind.imp": ["existais", "existais", "existait", "existions", "existiez", "existaient"],
+        "ind.ps": ["existai", "existas", "exista", "existâmes", "existâtes", "existèrent"],
+        "ind.fut": ["existerai", "existeras", "existera", "existerons", "existerez", "existeront"],
+        "cond.pres": ["existerais", "existerais", "existerait", "existerions", "existeriez", "existeraient"],
+        "subj.pres": ["existe", "existes", "existe", "existions", "existiez", "existent"],
+        "subj.imp": ["existasse", "existasses", "existât", "existassions", "existassiez", "existassent"],
+        "imper.pres": ["existe", "existons", "existez"]
+      },
+      "participe_present": "existant",
+      "participe_passe": ["existé", null, null, null]
     }
   ]
 }
