@@ -27466,6 +27466,25 @@
       },
       "participe_present": "triant",
       "participe_passe": ["trié", "triée", "triés", "triées"]
+    },
+    {
+      "id": "crépiter",
+      "infinitif": "crépiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « crépité » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["crépite", "crépites", "crépite", "crépitons", "crépitez", "crépitent"],
+        "ind.imp": ["crépitais", "crépitais", "crépitait", "crépitions", "crépitiez", "crépitaient"],
+        "ind.ps": ["crépitai", "crépitas", "crépita", "crépitâmes", "crépitâtes", "crépitèrent"],
+        "ind.fut": ["crépiterai", "crépiteras", "crépitera", "crépiterons", "crépiterez", "crépiteront"],
+        "cond.pres": ["crépiterais", "crépiterais", "crépiterait", "crépiterions", "crépiteriez", "crépiteraient"],
+        "subj.pres": ["crépite", "crépites", "crépite", "crépitions", "crépitiez", "crépitent"],
+        "subj.imp": ["crépitasse", "crépitasses", "crépitât", "crépitassions", "crépitassiez", "crépitassent"],
+        "imper.pres": ["crépite", "crépitons", "crépitez"]
+      },
+      "participe_present": "crépitant",
+      "participe_passe": ["crépité", null, null, null]
     }
   ]
 }
