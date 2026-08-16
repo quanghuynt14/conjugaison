@@ -12863,6 +12863,24 @@
       },
       "participe_present": "redoutant",
       "participe_passe": ["redouté", "redoutée", "redoutés", "redoutées"]
+    },
+    {
+      "id": "adopter",
+      "infinitif": "adopter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["adopte", "adoptes", "adopte", "adoptons", "adoptez", "adoptent"],
+        "ind.imp": ["adoptais", "adoptais", "adoptait", "adoptions", "adoptiez", "adoptaient"],
+        "ind.ps": ["adoptai", "adoptas", "adopta", "adoptâmes", "adoptâtes", "adoptèrent"],
+        "ind.fut": ["adopterai", "adopteras", "adoptera", "adopterons", "adopterez", "adopteront"],
+        "cond.pres": ["adopterais", "adopterais", "adopterait", "adopterions", "adopteriez", "adopteraient"],
+        "subj.pres": ["adopte", "adoptes", "adopte", "adoptions", "adoptiez", "adoptent"],
+        "subj.imp": ["adoptasse", "adoptasses", "adoptât", "adoptassions", "adoptassiez", "adoptassent"],
+        "imper.pres": ["adopte", "adoptons", "adoptez"]
+      },
+      "participe_present": "adoptant",
+      "participe_passe": ["adopté", "adoptée", "adoptés", "adoptées"]
     }
   ]
 }
