@@ -693,6 +693,24 @@
       },
       "participe_present": "sentant",
       "participe_passe": ["senti", "sentie", "sentis", "senties"]
+    },
+    {
+      "id": "tenir",
+      "infinitif": "tenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tiens", "tiens", "tient", "tenons", "tenez", "tiennent"],
+        "ind.imp": ["tenais", "tenais", "tenait", "tenions", "teniez", "tenaient"],
+        "ind.ps": ["tins", "tins", "tint", "tînmes", "tîntes", "tinrent"],
+        "ind.fut": ["tiendrai", "tiendras", "tiendra", "tiendrons", "tiendrez", "tiendront"],
+        "cond.pres": ["tiendrais", "tiendrais", "tiendrait", "tiendrions", "tiendriez", "tiendraient"],
+        "subj.pres": ["tienne", "tiennes", "tienne", "tenions", "teniez", "tiennent"],
+        "subj.imp": ["tinsse", "tinsses", "tînt", "tinssions", "tinssiez", "tinssent"],
+        "imper.pres": ["tiens", "tenons", "tenez"]
+      },
+      "participe_present": "tenant",
+      "participe_passe": ["tenu", "tenue", "tenus", "tenues"]
     }
   ]
 }
