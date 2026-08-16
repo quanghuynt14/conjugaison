@@ -21530,6 +21530,24 @@
       },
       "participe_present": "chantonnant",
       "participe_passe": ["chantonné", "chantonnée", "chantonnés", "chantonnées"]
+    },
+    {
+      "id": "adosser",
+      "infinitif": "adosser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["adosse", "adosses", "adosse", "adossons", "adossez", "adossent"],
+        "ind.imp": ["adossais", "adossais", "adossait", "adossions", "adossiez", "adossaient"],
+        "ind.ps": ["adossai", "adossas", "adossa", "adossâmes", "adossâtes", "adossèrent"],
+        "ind.fut": ["adosserai", "adosseras", "adossera", "adosserons", "adosserez", "adosseront"],
+        "cond.pres": ["adosserais", "adosserais", "adosserait", "adosserions", "adosseriez", "adosseraient"],
+        "subj.pres": ["adosse", "adosses", "adosse", "adossions", "adossiez", "adossent"],
+        "subj.imp": ["adossasse", "adossasses", "adossât", "adossassions", "adossassiez", "adossassent"],
+        "imper.pres": ["adosse", "adossons", "adossez"]
+      },
+      "participe_present": "adossant",
+      "participe_passe": ["adossé", "adossée", "adossés", "adossées"]
     }
   ]
 }
