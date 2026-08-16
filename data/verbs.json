@@ -17076,6 +17076,26 @@
       },
       "participe_present": "maquillant",
       "participe_passe": ["maquillé", "maquillée", "maquillés", "maquillées"]
+    },
+    {
+      "id": "accroupir",
+      "infinitif": "accroupir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’accroupis » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["accroupis", "accroupis", "accroupit", "accroupissons", "accroupissez", "accroupissent"],
+        "ind.imp": ["accroupissais", "accroupissais", "accroupissait", "accroupissions", "accroupissiez", "accroupissaient"],
+        "ind.ps": ["accroupis", "accroupis", "accroupit", "accroupîmes", "accroupîtes", "accroupirent"],
+        "ind.fut": ["accroupirai", "accroupiras", "accroupira", "accroupirons", "accroupirez", "accroupiront"],
+        "cond.pres": ["accroupirais", "accroupirais", "accroupirait", "accroupirions", "accroupiriez", "accroupiraient"],
+        "subj.pres": ["accroupisse", "accroupisses", "accroupisse", "accroupissions", "accroupissiez", "accroupissent"],
+        "subj.imp": ["accroupisse", "accroupisses", "accroupît", "accroupissions", "accroupissiez", "accroupissent"],
+        "imper.pres": ["accroupis", "accroupissons", "accroupissez"]
+      },
+      "participe_present": "accroupissant",
+      "participe_passe": ["accroupi", "accroupie", "accroupis", "accroupies"]
     }
   ]
 }
