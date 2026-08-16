@@ -8452,6 +8452,24 @@
       },
       "participe_present": "goûtant",
       "participe_passe": ["goûté", "goûtée", "goûtés", "goûtées"]
+    },
+    {
+      "id": "fournir",
+      "infinitif": "fournir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fournis", "fournis", "fournit", "fournissons", "fournissez", "fournissent"],
+        "ind.imp": ["fournissais", "fournissais", "fournissait", "fournissions", "fournissiez", "fournissaient"],
+        "ind.ps": ["fournis", "fournis", "fournit", "fournîmes", "fournîtes", "fournirent"],
+        "ind.fut": ["fournirai", "fourniras", "fournira", "fournirons", "fournirez", "fourniront"],
+        "cond.pres": ["fournirais", "fournirais", "fournirait", "fournirions", "fourniriez", "fourniraient"],
+        "subj.pres": ["fournisse", "fournisses", "fournisse", "fournissions", "fournissiez", "fournissent"],
+        "subj.imp": ["fournisse", "fournisses", "fournît", "fournissions", "fournissiez", "fournissent"],
+        "imper.pres": ["fournis", "fournissons", "fournissez"]
+      },
+      "participe_present": "fournissant",
+      "participe_passe": ["fourni", "fournie", "fournis", "fournies"]
     }
   ]
 }
