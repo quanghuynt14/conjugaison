@@ -15588,6 +15588,24 @@
       },
       "participe_present": "reproduisant",
       "participe_passe": ["reproduit", "reproduite", "reproduits", "reproduites"]
+    },
+    {
+      "id": "mater",
+      "infinitif": "mater",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mate", "mates", "mate", "matons", "matez", "matent"],
+        "ind.imp": ["matais", "matais", "matait", "mations", "matiez", "mataient"],
+        "ind.ps": ["matai", "matas", "mata", "matâmes", "matâtes", "matèrent"],
+        "ind.fut": ["materai", "materas", "matera", "materons", "materez", "materont"],
+        "cond.pres": ["materais", "materais", "materait", "materions", "materiez", "materaient"],
+        "subj.pres": ["mate", "mates", "mate", "mations", "matiez", "matent"],
+        "subj.imp": ["matasse", "matasses", "matât", "matassions", "matassiez", "matassent"],
+        "imper.pres": ["mate", "matons", "matez"]
+      },
+      "participe_present": "matant",
+      "participe_passe": ["maté", "matée", "matés", "matées"]
     }
   ]
 }
