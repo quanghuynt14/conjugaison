@@ -19833,6 +19833,24 @@
       },
       "participe_present": "infligeant",
       "participe_passe": ["infligé", "infligée", "infligés", "infligées"]
+    },
+    {
+      "id": "embarrasser",
+      "infinitif": "embarrasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["embarrasse", "embarrasses", "embarrasse", "embarrassons", "embarrassez", "embarrassent"],
+        "ind.imp": ["embarrassais", "embarrassais", "embarrassait", "embarrassions", "embarrassiez", "embarrassaient"],
+        "ind.ps": ["embarrassai", "embarrassas", "embarrassa", "embarrassâmes", "embarrassâtes", "embarrassèrent"],
+        "ind.fut": ["embarrasserai", "embarrasseras", "embarrassera", "embarrasserons", "embarrasserez", "embarrasseront"],
+        "cond.pres": ["embarrasserais", "embarrasserais", "embarrasserait", "embarrasserions", "embarrasseriez", "embarrasseraient"],
+        "subj.pres": ["embarrasse", "embarrasses", "embarrasse", "embarrassions", "embarrassiez", "embarrassent"],
+        "subj.imp": ["embarrassasse", "embarrassasses", "embarrassât", "embarrassassions", "embarrassassiez", "embarrassassent"],
+        "imper.pres": ["embarrasse", "embarrassons", "embarrassez"]
+      },
+      "participe_present": "embarrassant",
+      "participe_passe": ["embarrassé", "embarrassée", "embarrassés", "embarrassées"]
     }
   ]
 }
