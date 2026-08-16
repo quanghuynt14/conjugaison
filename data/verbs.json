@@ -3854,6 +3854,24 @@
       },
       "participe_present": "évitant",
       "participe_passe": ["évité", "évitée", "évités", "évitées"]
+    },
+    {
+      "id": "arranger",
+      "infinitif": "arranger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["arrange", "arranges", "arrange", "arrangeons", "arrangez", "arrangent"],
+        "ind.imp": ["arrangeais", "arrangeais", "arrangeait", "arrangions", "arrangiez", "arrangeaient"],
+        "ind.ps": ["arrangeai", "arrangeas", "arrangea", "arrangeâmes", "arrangeâtes", "arrangèrent"],
+        "ind.fut": ["arrangerai", "arrangeras", "arrangera", "arrangerons", "arrangerez", "arrangeront"],
+        "cond.pres": ["arrangerais", "arrangerais", "arrangerait", "arrangerions", "arrangeriez", "arrangeraient"],
+        "subj.pres": ["arrange", "arranges", "arrange", "arrangions", "arrangiez", "arrangent"],
+        "subj.imp": ["arrangeasse", "arrangeasses", "arrangeât", "arrangeassions", "arrangeassiez", "arrangeassent"],
+        "imper.pres": ["arrange", "arrangeons", "arrangez"]
+      },
+      "participe_present": "arrangeant",
+      "participe_passe": ["arrangé", "arrangée", "arrangés", "arrangées"]
     }
   ]
 }
