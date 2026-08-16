@@ -21982,6 +21982,25 @@
       },
       "participe_present": "droguant",
       "participe_passe": ["drogué", "droguée", "drogués", "droguées"]
+    },
+    {
+      "id": "sangloter",
+      "infinitif": "sangloter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « sangloté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["sanglote", "sanglotes", "sanglote", "sanglotons", "sanglotez", "sanglotent"],
+        "ind.imp": ["sanglotais", "sanglotais", "sanglotait", "sanglotions", "sanglotiez", "sanglotaient"],
+        "ind.ps": ["sanglotai", "sanglotas", "sanglota", "sanglotâmes", "sanglotâtes", "sanglotèrent"],
+        "ind.fut": ["sangloterai", "sangloteras", "sanglotera", "sangloterons", "sangloterez", "sangloteront"],
+        "cond.pres": ["sangloterais", "sangloterais", "sangloterait", "sangloterions", "sangloteriez", "sangloteraient"],
+        "subj.pres": ["sanglote", "sanglotes", "sanglote", "sanglotions", "sanglotiez", "sanglotent"],
+        "subj.imp": ["sanglotasse", "sanglotasses", "sanglotât", "sanglotassions", "sanglotassiez", "sanglotassent"],
+        "imper.pres": ["sanglote", "sanglotons", "sanglotez"]
+      },
+      "participe_present": "sanglotant",
+      "participe_passe": ["sangloté", null, null, null]
     }
   ]
 }
