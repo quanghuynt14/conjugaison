@@ -14446,6 +14446,24 @@
       },
       "participe_present": "déployant",
       "participe_passe": ["déployé", "déployée", "déployés", "déployées"]
+    },
+    {
+      "id": "longer",
+      "infinitif": "longer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["longe", "longes", "longe", "longeons", "longez", "longent"],
+        "ind.imp": ["longeais", "longeais", "longeait", "longions", "longiez", "longeaient"],
+        "ind.ps": ["longeai", "longeas", "longea", "longeâmes", "longeâtes", "longèrent"],
+        "ind.fut": ["longerai", "longeras", "longera", "longerons", "longerez", "longeront"],
+        "cond.pres": ["longerais", "longerais", "longerait", "longerions", "longeriez", "longeraient"],
+        "subj.pres": ["longe", "longes", "longe", "longions", "longiez", "longent"],
+        "subj.imp": ["longeasse", "longeasses", "longeât", "longeassions", "longeassiez", "longeassent"],
+        "imper.pres": ["longe", "longeons", "longez"]
+      },
+      "participe_present": "longeant",
+      "participe_passe": ["longé", "longée", "longés", "longées"]
     }
   ]
 }
