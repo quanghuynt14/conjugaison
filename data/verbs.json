@@ -15824,6 +15824,24 @@
       },
       "participe_present": "enfouissant",
       "participe_passe": ["enfoui", "enfouie", "enfouis", "enfouies"]
+    },
+    {
+      "id": "revivre",
+      "infinitif": "revivre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["revis", "revis", "revit", "revivons", "revivez", "revivent"],
+        "ind.imp": ["revivais", "revivais", "revivait", "revivions", "reviviez", "revivaient"],
+        "ind.ps": ["revécus", "revécus", "revécut", "revécûmes", "revécûtes", "revécurent"],
+        "ind.fut": ["revivrai", "revivras", "revivra", "revivrons", "revivrez", "revivront"],
+        "cond.pres": ["revivrais", "revivrais", "revivrait", "revivrions", "revivriez", "revivraient"],
+        "subj.pres": ["revive", "revives", "revive", "revivions", "reviviez", "revivent"],
+        "subj.imp": ["revécusse", "revécusses", "revécût", "revécussions", "revécussiez", "revécussent"],
+        "imper.pres": ["revis", "revivons", "revivez"]
+      },
+      "participe_present": "revivant",
+      "participe_passe": ["revécu", "revécue", "revécus", "revécues"]
     }
   ]
 }
