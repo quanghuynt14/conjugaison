@@ -24353,6 +24353,24 @@
       },
       "participe_present": "adoucissant",
       "participe_passe": ["adouci", "adoucie", "adoucis", "adoucies"]
+    },
+    {
+      "id": "intituler",
+      "infinitif": "intituler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["intitule", "intitules", "intitule", "intitulons", "intitulez", "intitulent"],
+        "ind.imp": ["intitulais", "intitulais", "intitulait", "intitulions", "intituliez", "intitulaient"],
+        "ind.ps": ["intitulai", "intitulas", "intitula", "intitulâmes", "intitulâtes", "intitulèrent"],
+        "ind.fut": ["intitulerai", "intituleras", "intitulera", "intitulerons", "intitulerez", "intituleront"],
+        "cond.pres": ["intitulerais", "intitulerais", "intitulerait", "intitulerions", "intituleriez", "intituleraient"],
+        "subj.pres": ["intitule", "intitules", "intitule", "intitulions", "intituliez", "intitulent"],
+        "subj.imp": ["intitulasse", "intitulasses", "intitulât", "intitulassions", "intitulassiez", "intitulassent"],
+        "imper.pres": ["intitule", "intitulons", "intitulez"]
+      },
+      "participe_present": "intitulant",
+      "participe_passe": ["intitulé", "intitulée", "intitulés", "intitulées"]
     }
   ]
 }
