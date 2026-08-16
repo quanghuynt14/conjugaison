@@ -23345,6 +23345,24 @@
       },
       "participe_present": "restaurant",
       "participe_passe": ["restauré", "restaurée", "restaurés", "restaurées"]
+    },
+    {
+      "id": "évaluer",
+      "infinitif": "évaluer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["évalue", "évalues", "évalue", "évaluons", "évaluez", "évaluent"],
+        "ind.imp": ["évaluais", "évaluais", "évaluait", "évaluions", "évaluiez", "évaluaient"],
+        "ind.ps": ["évaluai", "évaluas", "évalua", "évaluâmes", "évaluâtes", "évaluèrent"],
+        "ind.fut": ["évaluerai", "évalueras", "évaluera", "évaluerons", "évaluerez", "évalueront"],
+        "cond.pres": ["évaluerais", "évaluerais", "évaluerait", "évaluerions", "évalueriez", "évalueraient"],
+        "subj.pres": ["évalue", "évalues", "évalue", "évaluions", "évaluiez", "évaluent"],
+        "subj.imp": ["évaluasse", "évaluasses", "évaluât", "évaluassions", "évaluassiez", "évaluassent"],
+        "imper.pres": ["évalue", "évaluons", "évaluez"]
+      },
+      "participe_present": "évaluant",
+      "participe_passe": ["évalué", "évaluée", "évalués", "évaluées"]
     }
   ]
 }
