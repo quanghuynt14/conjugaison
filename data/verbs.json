@@ -7259,6 +7259,24 @@
       },
       "participe_present": "avalant",
       "participe_passe": ["avalé", "avalée", "avalés", "avalées"]
+    },
+    {
+      "id": "pendre",
+      "infinitif": "pendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pends", "pends", "pend", "pendons", "pendez", "pendent"],
+        "ind.imp": ["pendais", "pendais", "pendait", "pendions", "pendiez", "pendaient"],
+        "ind.ps": ["pendis", "pendis", "pendit", "pendîmes", "pendîtes", "pendirent"],
+        "ind.fut": ["pendrai", "pendras", "pendra", "pendrons", "pendrez", "pendront"],
+        "cond.pres": ["pendrais", "pendrais", "pendrait", "pendrions", "pendriez", "pendraient"],
+        "subj.pres": ["pende", "pendes", "pende", "pendions", "pendiez", "pendent"],
+        "subj.imp": ["pendisse", "pendisses", "pendît", "pendissions", "pendissiez", "pendissent"],
+        "imper.pres": ["pends", "pendons", "pendez"]
+      },
+      "participe_present": "pendant",
+      "participe_passe": ["pendu", "pendue", "pendus", "pendues"]
     }
   ]
 }
