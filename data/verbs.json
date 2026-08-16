@@ -17205,6 +17205,24 @@
       },
       "participe_present": "triomphant",
       "participe_passe": ["triomphé", null, null, null]
+    },
+    {
+      "id": "accabler",
+      "infinitif": "accabler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accable", "accables", "accable", "accablons", "accablez", "accablent"],
+        "ind.imp": ["accablais", "accablais", "accablait", "accablions", "accabliez", "accablaient"],
+        "ind.ps": ["accablai", "accablas", "accabla", "accablâmes", "accablâtes", "accablèrent"],
+        "ind.fut": ["accablerai", "accableras", "accablera", "accablerons", "accablerez", "accableront"],
+        "cond.pres": ["accablerais", "accablerais", "accablerait", "accablerions", "accableriez", "accableraient"],
+        "subj.pres": ["accable", "accables", "accable", "accablions", "accabliez", "accablent"],
+        "subj.imp": ["accablasse", "accablasses", "accablât", "accablassions", "accablassiez", "accablassent"],
+        "imper.pres": ["accable", "accablons", "accablez"]
+      },
+      "participe_present": "accablant",
+      "participe_passe": ["accablé", "accablée", "accablés", "accablées"]
     }
   ]
 }
