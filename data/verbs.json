@@ -31937,6 +31937,24 @@
       },
       "participe_present": "boutonnant",
       "participe_passe": ["boutonné", "boutonnée", "boutonnés", "boutonnées"]
+    },
+    {
+      "id": "gamberger",
+      "infinitif": "gamberger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gamberge", "gamberges", "gamberge", "gambergeons", "gambergez", "gambergent"],
+        "ind.imp": ["gambergeais", "gambergeais", "gambergeait", "gambergions", "gambergiez", "gambergeaient"],
+        "ind.ps": ["gambergeai", "gambergeas", "gambergea", "gambergeâmes", "gambergeâtes", "gambergèrent"],
+        "ind.fut": ["gambergerai", "gambergeras", "gambergera", "gambergerons", "gambergerez", "gambergeront"],
+        "cond.pres": ["gambergerais", "gambergerais", "gambergerait", "gambergerions", "gambergeriez", "gambergeraient"],
+        "subj.pres": ["gamberge", "gamberges", "gamberge", "gambergions", "gambergiez", "gambergent"],
+        "subj.imp": ["gambergeasse", "gambergeasses", "gambergeât", "gambergeassions", "gambergeassiez", "gambergeassent"],
+        "imper.pres": ["gamberge", "gambergeons", "gambergez"]
+      },
+      "participe_present": "gambergeant",
+      "participe_passe": ["gambergé", "gambergée", "gambergés", "gambergées"]
     }
   ]
 }
