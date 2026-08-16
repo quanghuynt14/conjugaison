@@ -30858,6 +30858,24 @@
       },
       "participe_present": "déterrant",
       "participe_passe": ["déterré", "déterrée", "déterrés", "déterrées"]
+    },
+    {
+      "id": "riposter",
+      "infinitif": "riposter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["riposte", "ripostes", "riposte", "ripostons", "ripostez", "ripostent"],
+        "ind.imp": ["ripostais", "ripostais", "ripostait", "ripostions", "ripostiez", "ripostaient"],
+        "ind.ps": ["ripostai", "ripostas", "riposta", "ripostâmes", "ripostâtes", "ripostèrent"],
+        "ind.fut": ["riposterai", "riposteras", "ripostera", "riposterons", "riposterez", "riposteront"],
+        "cond.pres": ["riposterais", "riposterais", "riposterait", "riposterions", "riposteriez", "riposteraient"],
+        "subj.pres": ["riposte", "ripostes", "riposte", "ripostions", "ripostiez", "ripostent"],
+        "subj.imp": ["ripostasse", "ripostasses", "ripostât", "ripostassions", "ripostassiez", "ripostassent"],
+        "imper.pres": ["riposte", "ripostons", "ripostez"]
+      },
+      "participe_present": "ripostant",
+      "participe_passe": ["riposté", "ripostée", "ripostés", "ripostées"]
     }
   ]
 }
