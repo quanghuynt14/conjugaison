@@ -17842,6 +17842,24 @@
       },
       "participe_present": "intriguant",
       "participe_passe": ["intrigué", "intriguée", "intrigués", "intriguées"]
+    },
+    {
+      "id": "gâter",
+      "infinitif": "gâter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gâte", "gâtes", "gâte", "gâtons", "gâtez", "gâtent"],
+        "ind.imp": ["gâtais", "gâtais", "gâtait", "gâtions", "gâtiez", "gâtaient"],
+        "ind.ps": ["gâtai", "gâtas", "gâta", "gâtâmes", "gâtâtes", "gâtèrent"],
+        "ind.fut": ["gâterai", "gâteras", "gâtera", "gâterons", "gâterez", "gâteront"],
+        "cond.pres": ["gâterais", "gâterais", "gâterait", "gâterions", "gâteriez", "gâteraient"],
+        "subj.pres": ["gâte", "gâtes", "gâte", "gâtions", "gâtiez", "gâtent"],
+        "subj.imp": ["gâtasse", "gâtasses", "gâtât", "gâtassions", "gâtassiez", "gâtassent"],
+        "imper.pres": ["gâte", "gâtons", "gâtez"]
+      },
+      "participe_present": "gâtant",
+      "participe_passe": ["gâté", "gâtée", "gâtés", "gâtées"]
     }
   ]
 }
