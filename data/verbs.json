@@ -2350,6 +2350,24 @@
       },
       "participe_present": "préparant",
       "participe_passe": ["préparé", "préparée", "préparés", "préparées"]
+    },
+    {
+      "id": "frapper",
+      "infinitif": "frapper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["frappe", "frappes", "frappe", "frappons", "frappez", "frappent"],
+        "ind.imp": ["frappais", "frappais", "frappait", "frappions", "frappiez", "frappaient"],
+        "ind.ps": ["frappai", "frappas", "frappa", "frappâmes", "frappâtes", "frappèrent"],
+        "ind.fut": ["frapperai", "frapperas", "frappera", "frapperons", "frapperez", "frapperont"],
+        "cond.pres": ["frapperais", "frapperais", "frapperait", "frapperions", "frapperiez", "frapperaient"],
+        "subj.pres": ["frappe", "frappes", "frappe", "frappions", "frappiez", "frappent"],
+        "subj.imp": ["frappasse", "frappasses", "frappât", "frappassions", "frappassiez", "frappassent"],
+        "imper.pres": ["frappe", "frappons", "frappez"]
+      },
+      "participe_present": "frappant",
+      "participe_passe": ["frappé", "frappée", "frappés", "frappées"]
     }
   ]
 }
