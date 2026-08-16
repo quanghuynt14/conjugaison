@@ -33540,6 +33540,24 @@
       },
       "participe_present": "convoitant",
       "participe_passe": ["convoité", "convoitée", "convoités", "convoitées"]
+    },
+    {
+      "id": "assouvir",
+      "infinitif": "assouvir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assouvis", "assouvis", "assouvit", "assouvissons", "assouvissez", "assouvissent"],
+        "ind.imp": ["assouvissais", "assouvissais", "assouvissait", "assouvissions", "assouvissiez", "assouvissaient"],
+        "ind.ps": ["assouvis", "assouvis", "assouvit", "assouvîmes", "assouvîtes", "assouvirent"],
+        "ind.fut": ["assouvirai", "assouviras", "assouvira", "assouvirons", "assouvirez", "assouviront"],
+        "cond.pres": ["assouvirais", "assouvirais", "assouvirait", "assouvirions", "assouviriez", "assouviraient"],
+        "subj.pres": ["assouvisse", "assouvisses", "assouvisse", "assouvissions", "assouvissiez", "assouvissent"],
+        "subj.imp": ["assouvisse", "assouvisses", "assouvît", "assouvissions", "assouvissiez", "assouvissent"],
+        "imper.pres": ["assouvis", "assouvissons", "assouvissez"]
+      },
+      "participe_present": "assouvissant",
+      "participe_passe": ["assouvi", "assouvie", "assouvis", "assouvies"]
     }
   ]
 }
