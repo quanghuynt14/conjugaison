@@ -33885,6 +33885,24 @@
       },
       "participe_present": "télégraphiant",
       "participe_passe": ["télégraphié", "télégraphiée", "télégraphiés", "télégraphiées"]
+    },
+    {
+      "id": "empocher",
+      "infinitif": "empocher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["empoche", "empoches", "empoche", "empochons", "empochez", "empochent"],
+        "ind.imp": ["empochais", "empochais", "empochait", "empochions", "empochiez", "empochaient"],
+        "ind.ps": ["empochai", "empochas", "empocha", "empochâmes", "empochâtes", "empochèrent"],
+        "ind.fut": ["empocherai", "empocheras", "empochera", "empocherons", "empocherez", "empocheront"],
+        "cond.pres": ["empocherais", "empocherais", "empocherait", "empocherions", "empocheriez", "empocheraient"],
+        "subj.pres": ["empoche", "empoches", "empoche", "empochions", "empochiez", "empochent"],
+        "subj.imp": ["empochasse", "empochasses", "empochât", "empochassions", "empochassiez", "empochassent"],
+        "imper.pres": ["empoche", "empochons", "empochez"]
+      },
+      "participe_present": "empochant",
+      "participe_passe": ["empoché", "empochée", "empochés", "empochées"]
     }
   ]
 }
