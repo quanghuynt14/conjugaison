@@ -34030,6 +34030,25 @@
       },
       "participe_present": "ancrant",
       "participe_passe": ["ancré", "ancrée", "ancrés", "ancrées"]
+    },
+    {
+      "id": "bagarrer",
+      "infinitif": "bagarrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « bagarré » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["bagarre", "bagarres", "bagarre", "bagarrons", "bagarrez", "bagarrent"],
+        "ind.imp": ["bagarrais", "bagarrais", "bagarrait", "bagarrions", "bagarriez", "bagarraient"],
+        "ind.ps": ["bagarrai", "bagarras", "bagarra", "bagarrâmes", "bagarrâtes", "bagarrèrent"],
+        "ind.fut": ["bagarrerai", "bagarreras", "bagarrera", "bagarrerons", "bagarrerez", "bagarreront"],
+        "cond.pres": ["bagarrerais", "bagarrerais", "bagarrerait", "bagarrerions", "bagarreriez", "bagarreraient"],
+        "subj.pres": ["bagarre", "bagarres", "bagarre", "bagarrions", "bagarriez", "bagarrent"],
+        "subj.imp": ["bagarrasse", "bagarrasses", "bagarrât", "bagarrassions", "bagarrassiez", "bagarrassent"],
+        "imper.pres": ["bagarre", "bagarrons", "bagarrez"]
+      },
+      "participe_present": "bagarrant",
+      "participe_passe": ["bagarré", null, null, null]
     }
   ]
 }
