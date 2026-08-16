@@ -36351,6 +36351,24 @@
       },
       "participe_present": "dépannant",
       "participe_passe": ["dépanné", "dépannée", "dépannés", "dépannées"]
+    },
+    {
+      "id": "enthousiasmer",
+      "infinitif": "enthousiasmer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enthousiasme", "enthousiasmes", "enthousiasme", "enthousiasmons", "enthousiasmez", "enthousiasment"],
+        "ind.imp": ["enthousiasmais", "enthousiasmais", "enthousiasmait", "enthousiasmions", "enthousiasmiez", "enthousiasmaient"],
+        "ind.ps": ["enthousiasmai", "enthousiasmas", "enthousiasma", "enthousiasmâmes", "enthousiasmâtes", "enthousiasmèrent"],
+        "ind.fut": ["enthousiasmerai", "enthousiasmeras", "enthousiasmera", "enthousiasmerons", "enthousiasmerez", "enthousiasmeront"],
+        "cond.pres": ["enthousiasmerais", "enthousiasmerais", "enthousiasmerait", "enthousiasmerions", "enthousiasmeriez", "enthousiasmeraient"],
+        "subj.pres": ["enthousiasme", "enthousiasmes", "enthousiasme", "enthousiasmions", "enthousiasmiez", "enthousiasment"],
+        "subj.imp": ["enthousiasmasse", "enthousiasmasses", "enthousiasmât", "enthousiasmassions", "enthousiasmassiez", "enthousiasmassent"],
+        "imper.pres": ["enthousiasme", "enthousiasmons", "enthousiasmez"]
+      },
+      "participe_present": "enthousiasmant",
+      "participe_passe": ["enthousiasmé", "enthousiasmée", "enthousiasmés", "enthousiasmées"]
     }
   ]
 }
