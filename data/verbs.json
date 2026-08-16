@@ -34085,6 +34085,24 @@
       },
       "participe_present": "bafouant",
       "participe_passe": ["bafoué", "bafouée", "bafoués", "bafouées"]
+    },
+    {
+      "id": "propulser",
+      "infinitif": "propulser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["propulse", "propulses", "propulse", "propulsons", "propulsez", "propulsent"],
+        "ind.imp": ["propulsais", "propulsais", "propulsait", "propulsions", "propulsiez", "propulsaient"],
+        "ind.ps": ["propulsai", "propulsas", "propulsa", "propulsâmes", "propulsâtes", "propulsèrent"],
+        "ind.fut": ["propulserai", "propulseras", "propulsera", "propulserons", "propulserez", "propulseront"],
+        "cond.pres": ["propulserais", "propulserais", "propulserait", "propulserions", "propulseriez", "propulseraient"],
+        "subj.pres": ["propulse", "propulses", "propulse", "propulsions", "propulsiez", "propulsent"],
+        "subj.imp": ["propulsasse", "propulsasses", "propulsât", "propulsassions", "propulsassiez", "propulsassent"],
+        "imper.pres": ["propulse", "propulsons", "propulsez"]
+      },
+      "participe_present": "propulsant",
+      "participe_passe": ["propulsé", "propulsée", "propulsés", "propulsées"]
     }
   ]
 }
