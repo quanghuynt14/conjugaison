@@ -5010,6 +5010,25 @@
       },
       "participe_present": "jugeant",
       "participe_passe": ["jugé", "jugée", "jugés", "jugées"]
+    },
+    {
+      "id": "hésiter",
+      "infinitif": "hésiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « hésité » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["hésite", "hésites", "hésite", "hésitons", "hésitez", "hésitent"],
+        "ind.imp": ["hésitais", "hésitais", "hésitait", "hésitions", "hésitiez", "hésitaient"],
+        "ind.ps": ["hésitai", "hésitas", "hésita", "hésitâmes", "hésitâtes", "hésitèrent"],
+        "ind.fut": ["hésiterai", "hésiteras", "hésitera", "hésiterons", "hésiterez", "hésiteront"],
+        "cond.pres": ["hésiterais", "hésiterais", "hésiterait", "hésiterions", "hésiteriez", "hésiteraient"],
+        "subj.pres": ["hésite", "hésites", "hésite", "hésitions", "hésitiez", "hésitent"],
+        "subj.imp": ["hésitasse", "hésitasses", "hésitât", "hésitassions", "hésitassiez", "hésitassent"],
+        "imper.pres": ["hésite", "hésitons", "hésitez"]
+      },
+      "participe_present": "hésitant",
+      "participe_passe": ["hésité", null, null, null]
     }
   ]
 }
