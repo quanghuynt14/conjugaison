@@ -16169,6 +16169,24 @@
       },
       "participe_present": "modifiant",
       "participe_passe": ["modifié", "modifiée", "modifiés", "modifiées"]
+    },
+    {
+      "id": "chérir",
+      "infinitif": "chérir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chéris", "chéris", "chérit", "chérissons", "chérissez", "chérissent"],
+        "ind.imp": ["chérissais", "chérissais", "chérissait", "chérissions", "chérissiez", "chérissaient"],
+        "ind.ps": ["chéris", "chéris", "chérit", "chérîmes", "chérîtes", "chérirent"],
+        "ind.fut": ["chérirai", "chériras", "chérira", "chérirons", "chérirez", "chériront"],
+        "cond.pres": ["chérirais", "chérirais", "chérirait", "chéririons", "chéririez", "chériraient"],
+        "subj.pres": ["chérisse", "chérisses", "chérisse", "chérissions", "chérissiez", "chérissent"],
+        "subj.imp": ["chérisse", "chérisses", "chérît", "chérissions", "chérissiez", "chérissent"],
+        "imper.pres": ["chéris", "chérissons", "chérissez"]
+      },
+      "participe_present": "chérissant",
+      "participe_passe": ["chéri", "chérie", "chéris", "chéries"]
     }
   ]
 }
