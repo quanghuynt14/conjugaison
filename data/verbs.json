@@ -621,6 +621,24 @@
       },
       "participe_present": "comprenant",
       "participe_passe": ["compris", "comprise", "compris", "comprises"]
+    },
+    {
+      "id": "arrêter",
+      "infinitif": "arrêter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["arrête", "arrêtes", "arrête", "arrêtons", "arrêtez", "arrêtent"],
+        "ind.imp": ["arrêtais", "arrêtais", "arrêtait", "arrêtions", "arrêtiez", "arrêtaient"],
+        "ind.ps": ["arrêtai", "arrêtas", "arrêta", "arrêtâmes", "arrêtâtes", "arrêtèrent"],
+        "ind.fut": ["arrêterai", "arrêteras", "arrêtera", "arrêterons", "arrêterez", "arrêteront"],
+        "cond.pres": ["arrêterais", "arrêterais", "arrêterait", "arrêterions", "arrêteriez", "arrêteraient"],
+        "subj.pres": ["arrête", "arrêtes", "arrête", "arrêtions", "arrêtiez", "arrêtent"],
+        "subj.imp": ["arrêtasse", "arrêtasses", "arrêtât", "arrêtassions", "arrêtassiez", "arrêtassent"],
+        "imper.pres": ["arrête", "arrêtons", "arrêtez"]
+      },
+      "participe_present": "arrêtant",
+      "participe_passe": ["arrêté", "arrêtée", "arrêtés", "arrêtées"]
     }
   ]
 }
