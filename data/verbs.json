@@ -14898,6 +14898,24 @@
       },
       "participe_present": "entamant",
       "participe_passe": ["entamé", "entamée", "entamés", "entamées"]
+    },
+    {
+      "id": "débattre",
+      "infinitif": "débattre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["débats", "débats", "débat", "débattons", "débattez", "débattent"],
+        "ind.imp": ["débattais", "débattais", "débattait", "débattions", "débattiez", "débattaient"],
+        "ind.ps": ["débattis", "débattis", "débattit", "débattîmes", "débattîtes", "débattirent"],
+        "ind.fut": ["débattrai", "débattras", "débattra", "débattrons", "débattrez", "débattront"],
+        "cond.pres": ["débattrais", "débattrais", "débattrait", "débattrions", "débattriez", "débattraient"],
+        "subj.pres": ["débatte", "débattes", "débatte", "débattions", "débattiez", "débattent"],
+        "subj.imp": ["débattisse", "débattisses", "débattît", "débattissions", "débattissiez", "débattissent"],
+        "imper.pres": ["débats", "débattons", "débattez"]
+      },
+      "participe_present": "débattant",
+      "participe_passe": ["débattu", "débattue", "débattus", "débattues"]
     }
   ]
 }
