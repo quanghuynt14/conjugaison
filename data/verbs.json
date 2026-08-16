@@ -3763,6 +3763,25 @@
       },
       "participe_present": "prévenant",
       "participe_passe": ["prévenu", "prévenue", "prévenus", "prévenues"]
+    },
+    {
+      "id": "protéger",
+      "infinitif": "protéger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je protégerai » ou « je protègerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["protège", "protèges", "protège", "protégeons", "protégez", "protègent"],
+        "ind.imp": ["protégeais", "protégeais", "protégeait", "protégions", "protégiez", "protégeaient"],
+        "ind.ps": ["protégeai", "protégeas", "protégea", "protégeâmes", "protégeâtes", "protégèrent"],
+        "ind.fut": [["protégerai", "protègerai"], ["protégeras", "protègeras"], ["protégera", "protègera"], ["protégerons", "protègerons"], ["protégerez", "protègerez"], ["protégeront", "protègeront"]],
+        "cond.pres": [["protégerais", "protègerais"], ["protégerais", "protègerais"], ["protégerait", "protègerait"], ["protégerions", "protègerions"], ["protégeriez", "protègeriez"], ["protégeraient", "protègeraient"]],
+        "subj.pres": ["protège", "protèges", "protège", "protégions", "protégiez", "protègent"],
+        "subj.imp": ["protégeasse", "protégeasses", "protégeât", "protégeassions", "protégeassiez", "protégeassent"],
+        "imper.pres": ["protège", "protégeons", "protégez"]
+      },
+      "participe_present": "protégeant",
+      "participe_passe": ["protégé", "protégée", "protégés", "protégées"]
     }
   ]
 }
