@@ -5354,6 +5354,24 @@
       },
       "participe_present": "éclatant",
       "participe_passe": ["éclaté", "éclatée", "éclatés", "éclatées"]
+    },
+    {
+      "id": "livrer",
+      "infinitif": "livrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["livre", "livres", "livre", "livrons", "livrez", "livrent"],
+        "ind.imp": ["livrais", "livrais", "livrait", "livrions", "livriez", "livraient"],
+        "ind.ps": ["livrai", "livras", "livra", "livrâmes", "livrâtes", "livrèrent"],
+        "ind.fut": ["livrerai", "livreras", "livrera", "livrerons", "livrerez", "livreront"],
+        "cond.pres": ["livrerais", "livrerais", "livrerait", "livrerions", "livreriez", "livreraient"],
+        "subj.pres": ["livre", "livres", "livre", "livrions", "livriez", "livrent"],
+        "subj.imp": ["livrasse", "livrasses", "livrât", "livrassions", "livrassiez", "livrassent"],
+        "imper.pres": ["livre", "livrons", "livrez"]
+      },
+      "participe_present": "livrant",
+      "participe_passe": ["livré", "livrée", "livrés", "livrées"]
     }
   ]
 }
