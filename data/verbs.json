@@ -34321,6 +34321,25 @@
       },
       "participe_present": "reformant",
       "participe_passe": ["reformé", "reformée", "reformés", "reformées"]
+    },
+    {
+      "id": "insérer",
+      "infinitif": "insérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’insérerai » ou « j’insèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["insère", "insères", "insère", "insérons", "insérez", "insèrent"],
+        "ind.imp": ["insérais", "insérais", "insérait", "insérions", "insériez", "inséraient"],
+        "ind.ps": ["insérai", "inséras", "inséra", "insérâmes", "insérâtes", "insérèrent"],
+        "ind.fut": [["insérerai", "insèrerai"], ["inséreras", "insèreras"], ["insérera", "insèrera"], ["insérerons", "insèrerons"], ["insérerez", "insèrerez"], ["inséreront", "insèreront"]],
+        "cond.pres": [["insérerais", "insèrerais"], ["insérerais", "insèrerais"], ["insérerait", "insèrerait"], ["insérerions", "insèrerions"], ["inséreriez", "insèreriez"], ["inséreraient", "insèreraient"]],
+        "subj.pres": ["insère", "insères", "insère", "insérions", "insériez", "insèrent"],
+        "subj.imp": ["insérasse", "insérasses", "insérât", "insérassions", "insérassiez", "insérassent"],
+        "imper.pres": ["insère", "insérons", "insérez"]
+      },
+      "participe_present": "insérant",
+      "participe_passe": ["inséré", "insérée", "insérés", "insérées"]
     }
   ]
 }
