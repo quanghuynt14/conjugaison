@@ -10956,6 +10956,24 @@
       },
       "participe_present": "enfilant",
       "participe_passe": ["enfilé", "enfilée", "enfilés", "enfilées"]
+    },
+    {
+      "id": "emplir",
+      "infinitif": "emplir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emplis", "emplis", "emplit", "emplissons", "emplissez", "emplissent"],
+        "ind.imp": ["emplissais", "emplissais", "emplissait", "emplissions", "emplissiez", "emplissaient"],
+        "ind.ps": ["emplis", "emplis", "emplit", "emplîmes", "emplîtes", "emplirent"],
+        "ind.fut": ["emplirai", "empliras", "emplira", "emplirons", "emplirez", "empliront"],
+        "cond.pres": ["emplirais", "emplirais", "emplirait", "emplirions", "empliriez", "empliraient"],
+        "subj.pres": ["emplisse", "emplisses", "emplisse", "emplissions", "emplissiez", "emplissent"],
+        "subj.imp": ["emplisse", "emplisses", "emplît", "emplissions", "emplissiez", "emplissent"],
+        "imper.pres": ["emplis", "emplissons", "emplissez"]
+      },
+      "participe_present": "emplissant",
+      "participe_passe": ["empli", "emplie", "emplis", "emplies"]
     }
   ]
 }
