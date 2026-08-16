@@ -17623,6 +17623,24 @@
       },
       "participe_present": "nuisant",
       "participe_passe": ["nui", null, null, null]
+    },
+    {
+      "id": "paniquer",
+      "infinitif": "paniquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["panique", "paniques", "panique", "paniquons", "paniquez", "paniquent"],
+        "ind.imp": ["paniquais", "paniquais", "paniquait", "paniquions", "paniquiez", "paniquaient"],
+        "ind.ps": ["paniquai", "paniquas", "paniqua", "paniquâmes", "paniquâtes", "paniquèrent"],
+        "ind.fut": ["paniquerai", "paniqueras", "paniquera", "paniquerons", "paniquerez", "paniqueront"],
+        "cond.pres": ["paniquerais", "paniquerais", "paniquerait", "paniquerions", "paniqueriez", "paniqueraient"],
+        "subj.pres": ["panique", "paniques", "panique", "paniquions", "paniquiez", "paniquent"],
+        "subj.imp": ["paniquasse", "paniquasses", "paniquât", "paniquassions", "paniquassiez", "paniquassent"],
+        "imper.pres": ["panique", "paniquons", "paniquez"]
+      },
+      "participe_present": "paniquant",
+      "participe_passe": ["paniqué", "paniquée", "paniqués", "paniquées"]
     }
   ]
 }
