@@ -35479,6 +35479,24 @@
       },
       "participe_present": "recourant",
       "participe_passe": ["recouru", "recourue", "recourus", "recourues"]
+    },
+    {
+      "id": "écosser",
+      "infinitif": "écosser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["écosse", "écosses", "écosse", "écossons", "écossez", "écossent"],
+        "ind.imp": ["écossais", "écossais", "écossait", "écossions", "écossiez", "écossaient"],
+        "ind.ps": ["écossai", "écossas", "écossa", "écossâmes", "écossâtes", "écossèrent"],
+        "ind.fut": ["écosserai", "écosseras", "écossera", "écosserons", "écosserez", "écosseront"],
+        "cond.pres": ["écosserais", "écosserais", "écosserait", "écosserions", "écosseriez", "écosseraient"],
+        "subj.pres": ["écosse", "écosses", "écosse", "écossions", "écossiez", "écossent"],
+        "subj.imp": ["écossasse", "écossasses", "écossât", "écossassions", "écossassiez", "écossassent"],
+        "imper.pres": ["écosse", "écossons", "écossez"]
+      },
+      "participe_present": "écossant",
+      "participe_passe": ["écossé", "écossée", "écossés", "écossées"]
     }
   ]
 }
