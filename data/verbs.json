@@ -28286,6 +28286,24 @@
       },
       "participe_present": "débloquant",
       "participe_passe": ["débloqué", "débloquée", "débloqués", "débloquées"]
+    },
+    {
+      "id": "lamenter",
+      "infinitif": "lamenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["lamente", "lamentes", "lamente", "lamentons", "lamentez", "lamentent"],
+        "ind.imp": ["lamentais", "lamentais", "lamentait", "lamentions", "lamentiez", "lamentaient"],
+        "ind.ps": ["lamentai", "lamentas", "lamenta", "lamentâmes", "lamentâtes", "lamentèrent"],
+        "ind.fut": ["lamenterai", "lamenteras", "lamentera", "lamenterons", "lamenterez", "lamenteront"],
+        "cond.pres": ["lamenterais", "lamenterais", "lamenterait", "lamenterions", "lamenteriez", "lamenteraient"],
+        "subj.pres": ["lamente", "lamentes", "lamente", "lamentions", "lamentiez", "lamentent"],
+        "subj.imp": ["lamentasse", "lamentasses", "lamentât", "lamentassions", "lamentassiez", "lamentassent"],
+        "imper.pres": ["lamente", "lamentons", "lamentez"]
+      },
+      "participe_present": "lamentant",
+      "participe_passe": ["lamenté", "lamentée", "lamentés", "lamentées"]
     }
   ]
 }
