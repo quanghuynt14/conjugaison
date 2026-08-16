@@ -33066,6 +33066,24 @@
       },
       "participe_present": "assourdissant",
       "participe_passe": ["assourdi", "assourdie", "assourdis", "assourdies"]
+    },
+    {
+      "id": "barricader",
+      "infinitif": "barricader",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["barricade", "barricades", "barricade", "barricadons", "barricadez", "barricadent"],
+        "ind.imp": ["barricadais", "barricadais", "barricadait", "barricadions", "barricadiez", "barricadaient"],
+        "ind.ps": ["barricadai", "barricadas", "barricada", "barricadâmes", "barricadâtes", "barricadèrent"],
+        "ind.fut": ["barricaderai", "barricaderas", "barricadera", "barricaderons", "barricaderez", "barricaderont"],
+        "cond.pres": ["barricaderais", "barricaderais", "barricaderait", "barricaderions", "barricaderiez", "barricaderaient"],
+        "subj.pres": ["barricade", "barricades", "barricade", "barricadions", "barricadiez", "barricadent"],
+        "subj.imp": ["barricadasse", "barricadasses", "barricadât", "barricadassions", "barricadassiez", "barricadassent"],
+        "imper.pres": ["barricade", "barricadons", "barricadez"]
+      },
+      "participe_present": "barricadant",
+      "participe_passe": ["barricadé", "barricadée", "barricadés", "barricadées"]
     }
   ]
 }
