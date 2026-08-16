@@ -22781,6 +22781,24 @@
       },
       "participe_present": "emménageant",
       "participe_passe": ["emménagé", "emménagée", "emménagés", "emménagées"]
+    },
+    {
+      "id": "réconforter",
+      "infinitif": "réconforter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réconforte", "réconfortes", "réconforte", "réconfortons", "réconfortez", "réconfortent"],
+        "ind.imp": ["réconfortais", "réconfortais", "réconfortait", "réconfortions", "réconfortiez", "réconfortaient"],
+        "ind.ps": ["réconfortai", "réconfortas", "réconforta", "réconfortâmes", "réconfortâtes", "réconfortèrent"],
+        "ind.fut": ["réconforterai", "réconforteras", "réconfortera", "réconforterons", "réconforterez", "réconforteront"],
+        "cond.pres": ["réconforterais", "réconforterais", "réconforterait", "réconforterions", "réconforteriez", "réconforteraient"],
+        "subj.pres": ["réconforte", "réconfortes", "réconforte", "réconfortions", "réconfortiez", "réconfortent"],
+        "subj.imp": ["réconfortasse", "réconfortasses", "réconfortât", "réconfortassions", "réconfortassiez", "réconfortassent"],
+        "imper.pres": ["réconforte", "réconfortons", "réconfortez"]
+      },
+      "participe_present": "réconfortant",
+      "participe_passe": ["réconforté", "réconfortée", "réconfortés", "réconfortées"]
     }
   ]
 }
