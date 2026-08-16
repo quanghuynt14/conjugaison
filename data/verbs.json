@@ -21764,6 +21764,24 @@
       },
       "participe_present": "braillant",
       "participe_passe": ["braillé", "braillée", "braillés", "braillées"]
+    },
+    {
+      "id": "puiser",
+      "infinitif": "puiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["puise", "puises", "puise", "puisons", "puisez", "puisent"],
+        "ind.imp": ["puisais", "puisais", "puisait", "puisions", "puisiez", "puisaient"],
+        "ind.ps": ["puisai", "puisas", "puisa", "puisâmes", "puisâtes", "puisèrent"],
+        "ind.fut": ["puiserai", "puiseras", "puisera", "puiserons", "puiserez", "puiseront"],
+        "cond.pres": ["puiserais", "puiserais", "puiserait", "puiserions", "puiseriez", "puiseraient"],
+        "subj.pres": ["puise", "puises", "puise", "puisions", "puisiez", "puisent"],
+        "subj.imp": ["puisasse", "puisasses", "puisât", "puisassions", "puisassiez", "puisassent"],
+        "imper.pres": ["puise", "puisons", "puisez"]
+      },
+      "participe_present": "puisant",
+      "participe_passe": ["puisé", "puisée", "puisés", "puisées"]
     }
   ]
 }
