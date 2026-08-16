@@ -12773,6 +12773,24 @@
       },
       "participe_present": "communiquant",
       "participe_passe": ["communiqué", "communiquée", "communiqués", "communiquées"]
+    },
+    {
+      "id": "découper",
+      "infinitif": "découper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["découpe", "découpes", "découpe", "découpons", "découpez", "découpent"],
+        "ind.imp": ["découpais", "découpais", "découpait", "découpions", "découpiez", "découpaient"],
+        "ind.ps": ["découpai", "découpas", "découpa", "découpâmes", "découpâtes", "découpèrent"],
+        "ind.fut": ["découperai", "découperas", "découpera", "découperons", "découperez", "découperont"],
+        "cond.pres": ["découperais", "découperais", "découperait", "découperions", "découperiez", "découperaient"],
+        "subj.pres": ["découpe", "découpes", "découpe", "découpions", "découpiez", "découpent"],
+        "subj.imp": ["découpasse", "découpasses", "découpât", "découpassions", "découpassiez", "découpassent"],
+        "imper.pres": ["découpe", "découpons", "découpez"]
+      },
+      "participe_present": "découpant",
+      "participe_passe": ["découpé", "découpée", "découpés", "découpées"]
     }
   ]
 }
