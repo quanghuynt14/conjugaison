@@ -14988,6 +14988,24 @@
       },
       "participe_present": "empoisonnant",
       "participe_passe": ["empoisonné", "empoisonnée", "empoisonnés", "empoisonnées"]
+    },
+    {
+      "id": "aligner",
+      "infinitif": "aligner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aligne", "alignes", "aligne", "alignons", "alignez", "alignent"],
+        "ind.imp": ["alignais", "alignais", "alignait", "alignions", "aligniez", "alignaient"],
+        "ind.ps": ["alignai", "alignas", "aligna", "alignâmes", "alignâtes", "alignèrent"],
+        "ind.fut": ["alignerai", "aligneras", "alignera", "alignerons", "alignerez", "aligneront"],
+        "cond.pres": ["alignerais", "alignerais", "alignerait", "alignerions", "aligneriez", "aligneraient"],
+        "subj.pres": ["aligne", "alignes", "aligne", "alignions", "aligniez", "alignent"],
+        "subj.imp": ["alignasse", "alignasses", "alignât", "alignassions", "alignassiez", "alignassent"],
+        "imper.pres": ["aligne", "alignons", "alignez"]
+      },
+      "participe_present": "alignant",
+      "participe_passe": ["aligné", "alignée", "alignés", "alignées"]
     }
   ]
 }
