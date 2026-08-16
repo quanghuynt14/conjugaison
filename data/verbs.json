@@ -26263,6 +26263,24 @@
       },
       "participe_present": "transperçant",
       "participe_passe": ["transpercé", "transpercée", "transpercés", "transpercées"]
+    },
+    {
+      "id": "pétrir",
+      "infinitif": "pétrir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pétris", "pétris", "pétrit", "pétrissons", "pétrissez", "pétrissent"],
+        "ind.imp": ["pétrissais", "pétrissais", "pétrissait", "pétrissions", "pétrissiez", "pétrissaient"],
+        "ind.ps": ["pétris", "pétris", "pétrit", "pétrîmes", "pétrîtes", "pétrirent"],
+        "ind.fut": ["pétrirai", "pétriras", "pétrira", "pétrirons", "pétrirez", "pétriront"],
+        "cond.pres": ["pétrirais", "pétrirais", "pétrirait", "pétririons", "pétririez", "pétriraient"],
+        "subj.pres": ["pétrisse", "pétrisses", "pétrisse", "pétrissions", "pétrissiez", "pétrissent"],
+        "subj.imp": ["pétrisse", "pétrisses", "pétrît", "pétrissions", "pétrissiez", "pétrissent"],
+        "imper.pres": ["pétris", "pétrissons", "pétrissez"]
+      },
+      "participe_present": "pétrissant",
+      "participe_passe": ["pétri", "pétrie", "pétris", "pétries"]
     }
   ]
 }
