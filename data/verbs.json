@@ -20255,6 +20255,24 @@
       },
       "participe_present": "étreignant",
       "participe_passe": ["étreint", "étreinte", "étreints", "étreintes"]
+    },
+    {
+      "id": "camper",
+      "infinitif": "camper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["campe", "campes", "campe", "campons", "campez", "campent"],
+        "ind.imp": ["campais", "campais", "campait", "campions", "campiez", "campaient"],
+        "ind.ps": ["campai", "campas", "campa", "campâmes", "campâtes", "campèrent"],
+        "ind.fut": ["camperai", "camperas", "campera", "camperons", "camperez", "camperont"],
+        "cond.pres": ["camperais", "camperais", "camperait", "camperions", "camperiez", "camperaient"],
+        "subj.pres": ["campe", "campes", "campe", "campions", "campiez", "campent"],
+        "subj.imp": ["campasse", "campasses", "campât", "campassions", "campassiez", "campassent"],
+        "imper.pres": ["campe", "campons", "campez"]
+      },
+      "participe_present": "campant",
+      "participe_passe": ["campé", "campée", "campés", "campées"]
     }
   ]
 }
