@@ -5245,6 +5245,24 @@
       },
       "participe_present": "écrasant",
       "participe_passe": ["écrasé", "écrasée", "écrasés", "écrasées"]
+    },
+    {
+      "id": "marquer",
+      "infinitif": "marquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["marque", "marques", "marque", "marquons", "marquez", "marquent"],
+        "ind.imp": ["marquais", "marquais", "marquait", "marquions", "marquiez", "marquaient"],
+        "ind.ps": ["marquai", "marquas", "marqua", "marquâmes", "marquâtes", "marquèrent"],
+        "ind.fut": ["marquerai", "marqueras", "marquera", "marquerons", "marquerez", "marqueront"],
+        "cond.pres": ["marquerais", "marquerais", "marquerait", "marquerions", "marqueriez", "marqueraient"],
+        "subj.pres": ["marque", "marques", "marque", "marquions", "marquiez", "marquent"],
+        "subj.imp": ["marquasse", "marquasses", "marquât", "marquassions", "marquassiez", "marquassent"],
+        "imper.pres": ["marque", "marquons", "marquez"]
+      },
+      "participe_present": "marquant",
+      "participe_passe": ["marqué", "marquée", "marqués", "marquées"]
     }
   ]
 }
