@@ -27633,6 +27633,24 @@
       },
       "participe_present": "foudroyant",
       "participe_passe": ["foudroyé", "foudroyée", "foudroyés", "foudroyées"]
+    },
+    {
+      "id": "fredonner",
+      "infinitif": "fredonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fredonne", "fredonnes", "fredonne", "fredonnons", "fredonnez", "fredonnent"],
+        "ind.imp": ["fredonnais", "fredonnais", "fredonnait", "fredonnions", "fredonniez", "fredonnaient"],
+        "ind.ps": ["fredonnai", "fredonnas", "fredonna", "fredonnâmes", "fredonnâtes", "fredonnèrent"],
+        "ind.fut": ["fredonnerai", "fredonneras", "fredonnera", "fredonnerons", "fredonnerez", "fredonneront"],
+        "cond.pres": ["fredonnerais", "fredonnerais", "fredonnerait", "fredonnerions", "fredonneriez", "fredonneraient"],
+        "subj.pres": ["fredonne", "fredonnes", "fredonne", "fredonnions", "fredonniez", "fredonnent"],
+        "subj.imp": ["fredonnasse", "fredonnasses", "fredonnât", "fredonnassions", "fredonnassiez", "fredonnassent"],
+        "imper.pres": ["fredonne", "fredonnons", "fredonnez"]
+      },
+      "participe_present": "fredonnant",
+      "participe_passe": ["fredonné", "fredonnée", "fredonnés", "fredonnées"]
     }
   ]
 }
