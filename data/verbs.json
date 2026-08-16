@@ -21132,6 +21132,24 @@
       },
       "participe_present": "transpirant",
       "participe_passe": ["transpiré", "transpirée", "transpirés", "transpirées"]
+    },
+    {
+      "id": "maudire",
+      "infinitif": "maudire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["maudis", "maudis", "maudit", "maudissons", "maudissez", "maudissent"],
+        "ind.imp": ["maudissais", "maudissais", "maudissait", "maudissions", "maudissiez", "maudissaient"],
+        "ind.ps": ["maudis", "maudis", "maudit", "maudîmes", "maudîtes", "maudirent"],
+        "ind.fut": ["maudirai", "maudiras", "maudira", "maudirons", "maudirez", "maudiront"],
+        "cond.pres": ["maudirais", "maudirais", "maudirait", "maudirions", "maudiriez", "maudiraient"],
+        "subj.pres": ["maudisse", "maudisses", "maudisse", "maudissions", "maudissiez", "maudissent"],
+        "subj.imp": ["maudisse", "maudisses", "maudît", "maudissions", "maudissiez", "maudissent"],
+        "imper.pres": ["maudis", "maudissons", "maudissez"]
+      },
+      "participe_present": "maudissant",
+      "participe_passe": ["maudit", "maudite", "maudits", "maudites"]
     }
   ]
 }
