@@ -22307,6 +22307,24 @@
       },
       "participe_present": "aplatissant",
       "participe_passe": ["aplati", "aplatie", "aplatis", "aplaties"]
+    },
+    {
+      "id": "chevaucher",
+      "infinitif": "chevaucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chevauche", "chevauches", "chevauche", "chevauchons", "chevauchez", "chevauchent"],
+        "ind.imp": ["chevauchais", "chevauchais", "chevauchait", "chevauchions", "chevauchiez", "chevauchaient"],
+        "ind.ps": ["chevauchai", "chevauchas", "chevaucha", "chevauchâmes", "chevauchâtes", "chevauchèrent"],
+        "ind.fut": ["chevaucherai", "chevaucheras", "chevauchera", "chevaucherons", "chevaucherez", "chevaucheront"],
+        "cond.pres": ["chevaucherais", "chevaucherais", "chevaucherait", "chevaucherions", "chevaucheriez", "chevaucheraient"],
+        "subj.pres": ["chevauche", "chevauches", "chevauche", "chevauchions", "chevauchiez", "chevauchent"],
+        "subj.imp": ["chevauchasse", "chevauchasses", "chevauchât", "chevauchassions", "chevauchassiez", "chevauchassent"],
+        "imper.pres": ["chevauche", "chevauchons", "chevauchez"]
+      },
+      "participe_present": "chevauchant",
+      "participe_passe": ["chevauché", "chevauchée", "chevauchés", "chevauchées"]
     }
   ]
 }
