@@ -7766,6 +7766,24 @@
       },
       "participe_present": "obéissant",
       "participe_passe": ["obéi", "obéie", "obéis", "obéies"]
+    },
+    {
+      "id": "soigner",
+      "infinitif": "soigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["soigne", "soignes", "soigne", "soignons", "soignez", "soignent"],
+        "ind.imp": ["soignais", "soignais", "soignait", "soignions", "soigniez", "soignaient"],
+        "ind.ps": ["soignai", "soignas", "soigna", "soignâmes", "soignâtes", "soignèrent"],
+        "ind.fut": ["soignerai", "soigneras", "soignera", "soignerons", "soignerez", "soigneront"],
+        "cond.pres": ["soignerais", "soignerais", "soignerait", "soignerions", "soigneriez", "soigneraient"],
+        "subj.pres": ["soigne", "soignes", "soigne", "soignions", "soigniez", "soignent"],
+        "subj.imp": ["soignasse", "soignasses", "soignât", "soignassions", "soignassiez", "soignassent"],
+        "imper.pres": ["soigne", "soignons", "soignez"]
+      },
+      "participe_present": "soignant",
+      "participe_passe": ["soigné", "soignée", "soignés", "soignées"]
     }
   ]
 }
