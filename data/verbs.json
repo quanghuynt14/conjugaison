@@ -32647,6 +32647,24 @@
       },
       "participe_present": "teignant",
       "participe_passe": ["teint", "teinte", "teints", "teintes"]
+    },
+    {
+      "id": "ébaucher",
+      "infinitif": "ébaucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ébauche", "ébauches", "ébauche", "ébauchons", "ébauchez", "ébauchent"],
+        "ind.imp": ["ébauchais", "ébauchais", "ébauchait", "ébauchions", "ébauchiez", "ébauchaient"],
+        "ind.ps": ["ébauchai", "ébauchas", "ébaucha", "ébauchâmes", "ébauchâtes", "ébauchèrent"],
+        "ind.fut": ["ébaucherai", "ébaucheras", "ébauchera", "ébaucherons", "ébaucherez", "ébaucheront"],
+        "cond.pres": ["ébaucherais", "ébaucherais", "ébaucherait", "ébaucherions", "ébaucheriez", "ébaucheraient"],
+        "subj.pres": ["ébauche", "ébauches", "ébauche", "ébauchions", "ébauchiez", "ébauchent"],
+        "subj.imp": ["ébauchasse", "ébauchasses", "ébauchât", "ébauchassions", "ébauchassiez", "ébauchassent"],
+        "imper.pres": ["ébauche", "ébauchons", "ébauchez"]
+      },
+      "participe_present": "ébauchant",
+      "participe_passe": ["ébauché", "ébauchée", "ébauchés", "ébauchées"]
     }
   ]
 }
