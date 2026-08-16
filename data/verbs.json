@@ -14754,6 +14754,24 @@
       },
       "participe_present": "nouant",
       "participe_passe": ["noué", "nouée", "noués", "nouées"]
+    },
+    {
+      "id": "dégoûter",
+      "infinitif": "dégoûter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dégoûte", "dégoûtes", "dégoûte", "dégoûtons", "dégoûtez", "dégoûtent"],
+        "ind.imp": ["dégoûtais", "dégoûtais", "dégoûtait", "dégoûtions", "dégoûtiez", "dégoûtaient"],
+        "ind.ps": ["dégoûtai", "dégoûtas", "dégoûta", "dégoûtâmes", "dégoûtâtes", "dégoûtèrent"],
+        "ind.fut": ["dégoûterai", "dégoûteras", "dégoûtera", "dégoûterons", "dégoûterez", "dégoûteront"],
+        "cond.pres": ["dégoûterais", "dégoûterais", "dégoûterait", "dégoûterions", "dégoûteriez", "dégoûteraient"],
+        "subj.pres": ["dégoûte", "dégoûtes", "dégoûte", "dégoûtions", "dégoûtiez", "dégoûtent"],
+        "subj.imp": ["dégoûtasse", "dégoûtasses", "dégoûtât", "dégoûtassions", "dégoûtassiez", "dégoûtassent"],
+        "imper.pres": ["dégoûte", "dégoûtons", "dégoûtez"]
+      },
+      "participe_present": "dégoûtant",
+      "participe_passe": ["dégoûté", "dégoûtée", "dégoûtés", "dégoûtées"]
     }
   ]
 }
