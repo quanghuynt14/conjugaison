@@ -6969,6 +6969,24 @@
       },
       "participe_present": "achevant",
       "participe_passe": ["achevé", "achevée", "achevés", "achevées"]
+    },
+    {
+      "id": "disposer",
+      "infinitif": "disposer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dispose", "disposes", "dispose", "disposons", "disposez", "disposent"],
+        "ind.imp": ["disposais", "disposais", "disposait", "disposions", "disposiez", "disposaient"],
+        "ind.ps": ["disposai", "disposas", "disposa", "disposâmes", "disposâtes", "disposèrent"],
+        "ind.fut": ["disposerai", "disposeras", "disposera", "disposerons", "disposerez", "disposeront"],
+        "cond.pres": ["disposerais", "disposerais", "disposerait", "disposerions", "disposeriez", "disposeraient"],
+        "subj.pres": ["dispose", "disposes", "dispose", "disposions", "disposiez", "disposent"],
+        "subj.imp": ["disposasse", "disposasses", "disposât", "disposassions", "disposassiez", "disposassent"],
+        "imper.pres": ["dispose", "disposons", "disposez"]
+      },
+      "participe_present": "disposant",
+      "participe_passe": ["disposé", "disposée", "disposés", "disposées"]
     }
   ]
 }
