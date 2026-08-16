@@ -26679,6 +26679,25 @@
       },
       "participe_present": "engourdissant",
       "participe_passe": ["engourdi", "engourdie", "engourdis", "engourdies"]
+    },
+    {
+      "id": "choir",
+      "infinitif": "choir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Défectif, et littéraire. Ni imparfait, ni subjonctif, ni impératif, et pas de participe présent — « choyant » est celui de choyer. Le futur se dit « je choirai » ou « je cherrai ».",
+      "tenses": {
+        "ind.pres": ["chois", "chois", "choit", "choyons", "choyez", "choient"],
+        "ind.imp": [null, null, null, null, null, null],
+        "ind.ps": ["chus", "chus", "chut", "chûmes", "chûtes", "churent"],
+        "ind.fut": [["choirai", "cherrai"], ["choiras", "cherras"], ["choira", "cherra"], ["choirons", "cherrons"], ["choirez", "cherrez"], ["choiront", "cherront"]],
+        "cond.pres": [["choirais", "cherrais"], ["choirais", "cherrais"], ["choirait", "cherrait"], ["choirions", "cherrions"], ["choiriez", "cherriez"], ["choiraient", "cherraient"]],
+        "subj.pres": [null, null, null, null, null, null],
+        "subj.imp": [null, null, "chût", null, null, null],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": null,
+      "participe_passe": ["chu", "chue", "chus", "chues"]
     }
   ]
 }
