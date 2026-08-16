@@ -14428,6 +14428,24 @@
       },
       "participe_present": "surmontant",
       "participe_passe": ["surmonté", "surmontée", "surmontés", "surmontées"]
+    },
+    {
+      "id": "déployer",
+      "infinitif": "déployer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déploie", "déploies", "déploie", "déployons", "déployez", "déploient"],
+        "ind.imp": ["déployais", "déployais", "déployait", "déployions", "déployiez", "déployaient"],
+        "ind.ps": ["déployai", "déployas", "déploya", "déployâmes", "déployâtes", "déployèrent"],
+        "ind.fut": ["déploierai", "déploieras", "déploiera", "déploierons", "déploierez", "déploieront"],
+        "cond.pres": ["déploierais", "déploierais", "déploierait", "déploierions", "déploieriez", "déploieraient"],
+        "subj.pres": ["déploie", "déploies", "déploie", "déployions", "déployiez", "déploient"],
+        "subj.imp": ["déployasse", "déployasses", "déployât", "déployassions", "déployassiez", "déployassent"],
+        "imper.pres": ["déploie", "déployons", "déployez"]
+      },
+      "participe_present": "déployant",
+      "participe_passe": ["déployé", "déployée", "déployés", "déployées"]
     }
   ]
 }
