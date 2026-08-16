@@ -8633,6 +8633,24 @@
       },
       "participe_present": "emmerdant",
       "participe_passe": ["emmerdé", "emmerdée", "emmerdés", "emmerdées"]
+    },
+    {
+      "id": "combattre",
+      "infinitif": "combattre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["combats", "combats", "combat", "combattons", "combattez", "combattent"],
+        "ind.imp": ["combattais", "combattais", "combattait", "combattions", "combattiez", "combattaient"],
+        "ind.ps": ["combattis", "combattis", "combattit", "combattîmes", "combattîtes", "combattirent"],
+        "ind.fut": ["combattrai", "combattras", "combattra", "combattrons", "combattrez", "combattront"],
+        "cond.pres": ["combattrais", "combattrais", "combattrait", "combattrions", "combattriez", "combattraient"],
+        "subj.pres": ["combatte", "combattes", "combatte", "combattions", "combattiez", "combattent"],
+        "subj.imp": ["combattisse", "combattisses", "combattît", "combattissions", "combattissiez", "combattissent"],
+        "imper.pres": ["combats", "combattons", "combattez"]
+      },
+      "participe_present": "combattant",
+      "participe_passe": ["combattu", "combattue", "combattus", "combattues"]
     }
   ]
 }
