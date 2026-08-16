@@ -10721,6 +10721,24 @@
       },
       "participe_present": "mouillant",
       "participe_passe": ["mouillé", "mouillée", "mouillés", "mouillées"]
+    },
+    {
+      "id": "armer",
+      "infinitif": "armer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["arme", "armes", "arme", "armons", "armez", "arment"],
+        "ind.imp": ["armais", "armais", "armait", "armions", "armiez", "armaient"],
+        "ind.ps": ["armai", "armas", "arma", "armâmes", "armâtes", "armèrent"],
+        "ind.fut": ["armerai", "armeras", "armera", "armerons", "armerez", "armeront"],
+        "cond.pres": ["armerais", "armerais", "armerait", "armerions", "armeriez", "armeraient"],
+        "subj.pres": ["arme", "armes", "arme", "armions", "armiez", "arment"],
+        "subj.imp": ["armasse", "armasses", "armât", "armassions", "armassiez", "armassent"],
+        "imper.pres": ["arme", "armons", "armez"]
+      },
+      "participe_present": "armant",
+      "participe_passe": ["armé", "armée", "armés", "armées"]
     }
   ]
 }
