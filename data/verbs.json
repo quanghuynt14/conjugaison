@@ -19415,6 +19415,24 @@
       },
       "participe_present": "loupant",
       "participe_passe": ["loupé", "loupée", "loupés", "loupées"]
+    },
+    {
+      "id": "larguer",
+      "infinitif": "larguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["largue", "largues", "largue", "larguons", "larguez", "larguent"],
+        "ind.imp": ["larguais", "larguais", "larguait", "larguions", "larguiez", "larguaient"],
+        "ind.ps": ["larguai", "larguas", "largua", "larguâmes", "larguâtes", "larguèrent"],
+        "ind.fut": ["larguerai", "largueras", "larguera", "larguerons", "larguerez", "largueront"],
+        "cond.pres": ["larguerais", "larguerais", "larguerait", "larguerions", "largueriez", "largueraient"],
+        "subj.pres": ["largue", "largues", "largue", "larguions", "larguiez", "larguent"],
+        "subj.imp": ["larguasse", "larguasses", "larguât", "larguassions", "larguassiez", "larguassent"],
+        "imper.pres": ["largue", "larguons", "larguez"]
+      },
+      "participe_present": "larguant",
+      "participe_passe": ["largué", "larguée", "largués", "larguées"]
     }
   ]
 }
