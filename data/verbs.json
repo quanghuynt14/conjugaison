@@ -34176,6 +34176,24 @@
       },
       "participe_present": "instaurant",
       "participe_passe": ["instauré", "instaurée", "instaurés", "instaurées"]
+    },
+    {
+      "id": "recouvrer",
+      "infinitif": "recouvrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recouvre", "recouvres", "recouvre", "recouvrons", "recouvrez", "recouvrent"],
+        "ind.imp": ["recouvrais", "recouvrais", "recouvrait", "recouvrions", "recouvriez", "recouvraient"],
+        "ind.ps": ["recouvrai", "recouvras", "recouvra", "recouvrâmes", "recouvrâtes", "recouvrèrent"],
+        "ind.fut": ["recouvrerai", "recouvreras", "recouvrera", "recouvrerons", "recouvrerez", "recouvreront"],
+        "cond.pres": ["recouvrerais", "recouvrerais", "recouvrerait", "recouvrerions", "recouvreriez", "recouvreraient"],
+        "subj.pres": ["recouvre", "recouvres", "recouvre", "recouvrions", "recouvriez", "recouvrent"],
+        "subj.imp": ["recouvrasse", "recouvrasses", "recouvrât", "recouvrassions", "recouvrassiez", "recouvrassent"],
+        "imper.pres": ["recouvre", "recouvrons", "recouvrez"]
+      },
+      "participe_present": "recouvrant",
+      "participe_passe": ["recouvré", "recouvrée", "recouvrés", "recouvrées"]
     }
   ]
 }
