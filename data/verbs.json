@@ -18231,6 +18231,24 @@
       },
       "participe_present": "plaidant",
       "participe_passe": ["plaidé", "plaidée", "plaidés", "plaidées"]
+    },
+    {
+      "id": "intimider",
+      "infinitif": "intimider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["intimide", "intimides", "intimide", "intimidons", "intimidez", "intimident"],
+        "ind.imp": ["intimidais", "intimidais", "intimidait", "intimidions", "intimidiez", "intimidaient"],
+        "ind.ps": ["intimidai", "intimidas", "intimida", "intimidâmes", "intimidâtes", "intimidèrent"],
+        "ind.fut": ["intimiderai", "intimideras", "intimidera", "intimiderons", "intimiderez", "intimideront"],
+        "cond.pres": ["intimiderais", "intimiderais", "intimiderait", "intimiderions", "intimideriez", "intimideraient"],
+        "subj.pres": ["intimide", "intimides", "intimide", "intimidions", "intimidiez", "intimident"],
+        "subj.imp": ["intimidasse", "intimidasses", "intimidât", "intimidassions", "intimidassiez", "intimidassent"],
+        "imper.pres": ["intimide", "intimidons", "intimidez"]
+      },
+      "participe_present": "intimidant",
+      "participe_passe": ["intimidé", "intimidée", "intimidés", "intimidées"]
     }
   ]
 }
