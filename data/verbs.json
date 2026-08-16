@@ -18524,6 +18524,24 @@
       },
       "participe_present": "fiant",
       "participe_passe": ["fié", "fiée", "fiés", "fiées"]
+    },
+    {
+      "id": "passionner",
+      "infinitif": "passionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["passionne", "passionnes", "passionne", "passionnons", "passionnez", "passionnent"],
+        "ind.imp": ["passionnais", "passionnais", "passionnait", "passionnions", "passionniez", "passionnaient"],
+        "ind.ps": ["passionnai", "passionnas", "passionna", "passionnâmes", "passionnâtes", "passionnèrent"],
+        "ind.fut": ["passionnerai", "passionneras", "passionnera", "passionnerons", "passionnerez", "passionneront"],
+        "cond.pres": ["passionnerais", "passionnerais", "passionnerait", "passionnerions", "passionneriez", "passionneraient"],
+        "subj.pres": ["passionne", "passionnes", "passionne", "passionnions", "passionniez", "passionnent"],
+        "subj.imp": ["passionnasse", "passionnasses", "passionnât", "passionnassions", "passionnassiez", "passionnassent"],
+        "imper.pres": ["passionne", "passionnons", "passionnez"]
+      },
+      "participe_present": "passionnant",
+      "participe_passe": ["passionné", "passionnée", "passionnés", "passionnées"]
     }
   ]
 }
