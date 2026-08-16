@@ -7892,6 +7892,24 @@
       },
       "participe_present": "claquant",
       "participe_passe": ["claqué", "claquée", "claqués", "claquées"]
+    },
+    {
+      "id": "creuser",
+      "infinitif": "creuser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["creuse", "creuses", "creuse", "creusons", "creusez", "creusent"],
+        "ind.imp": ["creusais", "creusais", "creusait", "creusions", "creusiez", "creusaient"],
+        "ind.ps": ["creusai", "creusas", "creusa", "creusâmes", "creusâtes", "creusèrent"],
+        "ind.fut": ["creuserai", "creuseras", "creusera", "creuserons", "creuserez", "creuseront"],
+        "cond.pres": ["creuserais", "creuserais", "creuserait", "creuserions", "creuseriez", "creuseraient"],
+        "subj.pres": ["creuse", "creuses", "creuse", "creusions", "creusiez", "creusent"],
+        "subj.imp": ["creusasse", "creusasses", "creusât", "creusassions", "creusassiez", "creusassent"],
+        "imper.pres": ["creuse", "creusons", "creusez"]
+      },
+      "participe_present": "creusant",
+      "participe_passe": ["creusé", "creusée", "creusés", "creusées"]
     }
   ]
 }
