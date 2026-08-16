@@ -20418,6 +20418,24 @@
       },
       "participe_present": "réconciliant",
       "participe_passe": ["réconcilié", "réconciliée", "réconciliés", "réconciliées"]
+    },
+    {
+      "id": "insinuer",
+      "infinitif": "insinuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["insinue", "insinues", "insinue", "insinuons", "insinuez", "insinuent"],
+        "ind.imp": ["insinuais", "insinuais", "insinuait", "insinuions", "insinuiez", "insinuaient"],
+        "ind.ps": ["insinuai", "insinuas", "insinua", "insinuâmes", "insinuâtes", "insinuèrent"],
+        "ind.fut": ["insinuerai", "insinueras", "insinuera", "insinuerons", "insinuerez", "insinueront"],
+        "cond.pres": ["insinuerais", "insinuerais", "insinuerait", "insinuerions", "insinueriez", "insinueraient"],
+        "subj.pres": ["insinue", "insinues", "insinue", "insinuions", "insinuiez", "insinuent"],
+        "subj.imp": ["insinuasse", "insinuasses", "insinuât", "insinuassions", "insinuassiez", "insinuassent"],
+        "imper.pres": ["insinue", "insinuons", "insinuez"]
+      },
+      "participe_present": "insinuant",
+      "participe_passe": ["insinué", "insinuée", "insinués", "insinuées"]
     }
   ]
 }
