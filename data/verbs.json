@@ -30239,6 +30239,24 @@
       },
       "participe_present": "connectant",
       "participe_passe": ["connecté", "connectée", "connectés", "connectées"]
+    },
+    {
+      "id": "démentir",
+      "infinitif": "démentir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["démens", "démens", "dément", "démentons", "démentez", "démentent"],
+        "ind.imp": ["démentais", "démentais", "démentait", "démentions", "démentiez", "démentaient"],
+        "ind.ps": ["démentis", "démentis", "démentit", "démentîmes", "démentîtes", "démentirent"],
+        "ind.fut": ["démentirai", "démentiras", "démentira", "démentirons", "démentirez", "démentiront"],
+        "cond.pres": ["démentirais", "démentirais", "démentirait", "démentirions", "démentiriez", "démentiraient"],
+        "subj.pres": ["démente", "démentes", "démente", "démentions", "démentiez", "démentent"],
+        "subj.imp": ["démentisse", "démentisses", "démentît", "démentissions", "démentissiez", "démentissent"],
+        "imper.pres": ["démens", "démentons", "démentez"]
+      },
+      "participe_present": "démentant",
+      "participe_passe": ["démenti", "démentie", "démentis", "démenties"]
     }
   ]
 }
