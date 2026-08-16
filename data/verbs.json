@@ -6531,6 +6531,24 @@
       },
       "participe_present": "piquant",
       "participe_passe": ["piqué", "piquée", "piqués", "piquées"]
+    },
+    {
+      "id": "déclarer",
+      "infinitif": "déclarer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déclare", "déclares", "déclare", "déclarons", "déclarez", "déclarent"],
+        "ind.imp": ["déclarais", "déclarais", "déclarait", "déclarions", "déclariez", "déclaraient"],
+        "ind.ps": ["déclarai", "déclaras", "déclara", "déclarâmes", "déclarâtes", "déclarèrent"],
+        "ind.fut": ["déclarerai", "déclareras", "déclarera", "déclarerons", "déclarerez", "déclareront"],
+        "cond.pres": ["déclarerais", "déclarerais", "déclarerait", "déclarerions", "déclareriez", "déclareraient"],
+        "subj.pres": ["déclare", "déclares", "déclare", "déclarions", "déclariez", "déclarent"],
+        "subj.imp": ["déclarasse", "déclarasses", "déclarât", "déclarassions", "déclarassiez", "déclarassent"],
+        "imper.pres": ["déclare", "déclarons", "déclarez"]
+      },
+      "participe_present": "déclarant",
+      "participe_passe": ["déclaré", "déclarée", "déclarés", "déclarées"]
     }
   ]
 }
