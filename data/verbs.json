@@ -12809,6 +12809,24 @@
       },
       "participe_present": "insultant",
       "participe_passe": ["insulté", "insultée", "insultés", "insultées"]
+    },
+    {
+      "id": "semer",
+      "infinitif": "semer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sème", "sèmes", "sème", "semons", "semez", "sèment"],
+        "ind.imp": ["semais", "semais", "semait", "semions", "semiez", "semaient"],
+        "ind.ps": ["semai", "semas", "sema", "semâmes", "semâtes", "semèrent"],
+        "ind.fut": ["sèmerai", "sèmeras", "sèmera", "sèmerons", "sèmerez", "sèmeront"],
+        "cond.pres": ["sèmerais", "sèmerais", "sèmerait", "sèmerions", "sèmeriez", "sèmeraient"],
+        "subj.pres": ["sème", "sèmes", "sème", "semions", "semiez", "sèment"],
+        "subj.imp": ["semasse", "semasses", "semât", "semassions", "semassiez", "semassent"],
+        "imper.pres": ["sème", "semons", "semez"]
+      },
+      "participe_present": "semant",
+      "participe_passe": ["semé", "semée", "semés", "semées"]
     }
   ]
 }
