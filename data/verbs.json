@@ -28196,6 +28196,24 @@
       },
       "participe_present": "combinant",
       "participe_passe": ["combiné", "combinée", "combinés", "combinées"]
+    },
+    {
+      "id": "jucher",
+      "infinitif": "jucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["juche", "juches", "juche", "juchons", "juchez", "juchent"],
+        "ind.imp": ["juchais", "juchais", "juchait", "juchions", "juchiez", "juchaient"],
+        "ind.ps": ["juchai", "juchas", "jucha", "juchâmes", "juchâtes", "juchèrent"],
+        "ind.fut": ["jucherai", "jucheras", "juchera", "jucherons", "jucherez", "jucheront"],
+        "cond.pres": ["jucherais", "jucherais", "jucherait", "jucherions", "jucheriez", "jucheraient"],
+        "subj.pres": ["juche", "juches", "juche", "juchions", "juchiez", "juchent"],
+        "subj.imp": ["juchasse", "juchasses", "juchât", "juchassions", "juchassiez", "juchassent"],
+        "imper.pres": ["juche", "juchons", "juchez"]
+      },
+      "participe_present": "juchant",
+      "participe_passe": ["juché", "juchée", "juchés", "juchées"]
     }
   ]
 }
