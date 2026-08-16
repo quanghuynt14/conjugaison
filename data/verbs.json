@@ -26790,6 +26790,24 @@
       },
       "participe_present": "shootant",
       "participe_passe": ["shooté", "shootée", "shootés", "shootées"]
+    },
+    {
+      "id": "devancer",
+      "infinitif": "devancer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["devance", "devances", "devance", "devançons", "devancez", "devancent"],
+        "ind.imp": ["devançais", "devançais", "devançait", "devancions", "devanciez", "devançaient"],
+        "ind.ps": ["devançai", "devanças", "devança", "devançâmes", "devançâtes", "devancèrent"],
+        "ind.fut": ["devancerai", "devanceras", "devancera", "devancerons", "devancerez", "devanceront"],
+        "cond.pres": ["devancerais", "devancerais", "devancerait", "devancerions", "devanceriez", "devanceraient"],
+        "subj.pres": ["devance", "devances", "devance", "devancions", "devanciez", "devancent"],
+        "subj.imp": ["devançasse", "devançasses", "devançât", "devançassions", "devançassiez", "devançassent"],
+        "imper.pres": ["devance", "devançons", "devancez"]
+      },
+      "participe_present": "devançant",
+      "participe_passe": ["devancé", "devancée", "devancés", "devancées"]
     }
   ]
 }
