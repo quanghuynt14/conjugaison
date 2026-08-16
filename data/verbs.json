@@ -18650,6 +18650,24 @@
       },
       "participe_present": "proclamant",
       "participe_passe": ["proclamé", "proclamée", "proclamés", "proclamées"]
+    },
+    {
+      "id": "navrer",
+      "infinitif": "navrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["navre", "navres", "navre", "navrons", "navrez", "navrent"],
+        "ind.imp": ["navrais", "navrais", "navrait", "navrions", "navriez", "navraient"],
+        "ind.ps": ["navrai", "navras", "navra", "navrâmes", "navrâtes", "navrèrent"],
+        "ind.fut": ["navrerai", "navreras", "navrera", "navrerons", "navrerez", "navreront"],
+        "cond.pres": ["navrerais", "navrerais", "navrerait", "navrerions", "navreriez", "navreraient"],
+        "subj.pres": ["navre", "navres", "navre", "navrions", "navriez", "navrent"],
+        "subj.imp": ["navrasse", "navrasses", "navrât", "navrassions", "navrassiez", "navrassent"],
+        "imper.pres": ["navre", "navrons", "navrez"]
+      },
+      "participe_present": "navrant",
+      "participe_passe": ["navré", "navrée", "navrés", "navrées"]
     }
   ]
 }
