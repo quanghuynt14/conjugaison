@@ -31131,6 +31131,24 @@
       },
       "participe_present": "enduisant",
       "participe_passe": ["enduit", "enduite", "enduits", "enduites"]
+    },
+    {
+      "id": "apitoyer",
+      "infinitif": "apitoyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["apitoie", "apitoies", "apitoie", "apitoyons", "apitoyez", "apitoient"],
+        "ind.imp": ["apitoyais", "apitoyais", "apitoyait", "apitoyions", "apitoyiez", "apitoyaient"],
+        "ind.ps": ["apitoyai", "apitoyas", "apitoya", "apitoyâmes", "apitoyâtes", "apitoyèrent"],
+        "ind.fut": ["apitoierai", "apitoieras", "apitoiera", "apitoierons", "apitoierez", "apitoieront"],
+        "cond.pres": ["apitoierais", "apitoierais", "apitoierait", "apitoierions", "apitoieriez", "apitoieraient"],
+        "subj.pres": ["apitoie", "apitoies", "apitoie", "apitoyions", "apitoyiez", "apitoient"],
+        "subj.imp": ["apitoyasse", "apitoyasses", "apitoyât", "apitoyassions", "apitoyassiez", "apitoyassent"],
+        "imper.pres": ["apitoie", "apitoyons", "apitoyez"]
+      },
+      "participe_present": "apitoyant",
+      "participe_passe": ["apitoyé", "apitoyée", "apitoyés", "apitoyées"]
     }
   ]
 }
