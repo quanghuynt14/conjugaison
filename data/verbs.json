@@ -30093,6 +30093,24 @@
       },
       "participe_present": "oyant",
       "participe_passe": ["ouï", "ouïe", "ouïs", "ouïes"]
+    },
+    {
+      "id": "embraser",
+      "infinitif": "embraser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["embrase", "embrases", "embrase", "embrasons", "embrasez", "embrasent"],
+        "ind.imp": ["embrasais", "embrasais", "embrasait", "embrasions", "embrasiez", "embrasaient"],
+        "ind.ps": ["embrasai", "embrasas", "embrasa", "embrasâmes", "embrasâtes", "embrasèrent"],
+        "ind.fut": ["embraserai", "embraseras", "embrasera", "embraserons", "embraserez", "embraseront"],
+        "cond.pres": ["embraserais", "embraserais", "embraserait", "embraserions", "embraseriez", "embraseraient"],
+        "subj.pres": ["embrase", "embrases", "embrase", "embrasions", "embrasiez", "embrasent"],
+        "subj.imp": ["embrasasse", "embrasasses", "embrasât", "embrasassions", "embrasassiez", "embrasassent"],
+        "imper.pres": ["embrase", "embrasons", "embrasez"]
+      },
+      "participe_present": "embrasant",
+      "participe_passe": ["embrasé", "embrasée", "embrasés", "embrasées"]
     }
   ]
 }
