@@ -21168,6 +21168,24 @@
       },
       "participe_present": "brodant",
       "participe_passe": ["brodé", "brodée", "brodés", "brodées"]
+    },
+    {
+      "id": "manipuler",
+      "infinitif": "manipuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["manipule", "manipules", "manipule", "manipulons", "manipulez", "manipulent"],
+        "ind.imp": ["manipulais", "manipulais", "manipulait", "manipulions", "manipuliez", "manipulaient"],
+        "ind.ps": ["manipulai", "manipulas", "manipula", "manipulâmes", "manipulâtes", "manipulèrent"],
+        "ind.fut": ["manipulerai", "manipuleras", "manipulera", "manipulerons", "manipulerez", "manipuleront"],
+        "cond.pres": ["manipulerais", "manipulerais", "manipulerait", "manipulerions", "manipuleriez", "manipuleraient"],
+        "subj.pres": ["manipule", "manipules", "manipule", "manipulions", "manipuliez", "manipulent"],
+        "subj.imp": ["manipulasse", "manipulasses", "manipulât", "manipulassions", "manipulassiez", "manipulassent"],
+        "imper.pres": ["manipule", "manipulons", "manipulez"]
+      },
+      "participe_present": "manipulant",
+      "participe_passe": ["manipulé", "manipulée", "manipulés", "manipulées"]
     }
   ]
 }
