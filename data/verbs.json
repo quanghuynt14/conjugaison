@@ -23817,6 +23817,24 @@
       },
       "participe_present": "mouvant",
       "participe_passe": [["mû", "mu"], "mue", "mus", "mues"]
+    },
+    {
+      "id": "déguster",
+      "infinitif": "déguster",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déguste", "dégustes", "déguste", "dégustons", "dégustez", "dégustent"],
+        "ind.imp": ["dégustais", "dégustais", "dégustait", "dégustions", "dégustiez", "dégustaient"],
+        "ind.ps": ["dégustai", "dégustas", "dégusta", "dégustâmes", "dégustâtes", "dégustèrent"],
+        "ind.fut": ["dégusterai", "dégusteras", "dégustera", "dégusterons", "dégusterez", "dégusteront"],
+        "cond.pres": ["dégusterais", "dégusterais", "dégusterait", "dégusterions", "dégusteriez", "dégusteraient"],
+        "subj.pres": ["déguste", "dégustes", "déguste", "dégustions", "dégustiez", "dégustent"],
+        "subj.imp": ["dégustasse", "dégustasses", "dégustât", "dégustassions", "dégustassiez", "dégustassent"],
+        "imper.pres": ["déguste", "dégustons", "dégustez"]
+      },
+      "participe_present": "dégustant",
+      "participe_passe": ["dégusté", "dégustée", "dégustés", "dégustées"]
     }
   ]
 }
