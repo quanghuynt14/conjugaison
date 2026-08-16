@@ -16695,6 +16695,24 @@
       },
       "participe_present": "cinglant",
       "participe_passe": ["cinglé", "cinglée", "cinglés", "cinglées"]
+    },
+    {
+      "id": "corriger",
+      "infinitif": "corriger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["corrige", "corriges", "corrige", "corrigeons", "corrigez", "corrigent"],
+        "ind.imp": ["corrigeais", "corrigeais", "corrigeait", "corrigions", "corrigiez", "corrigeaient"],
+        "ind.ps": ["corrigeai", "corrigeas", "corrigea", "corrigeâmes", "corrigeâtes", "corrigèrent"],
+        "ind.fut": ["corrigerai", "corrigeras", "corrigera", "corrigerons", "corrigerez", "corrigeront"],
+        "cond.pres": ["corrigerais", "corrigerais", "corrigerait", "corrigerions", "corrigeriez", "corrigeraient"],
+        "subj.pres": ["corrige", "corriges", "corrige", "corrigions", "corrigiez", "corrigent"],
+        "subj.imp": ["corrigeasse", "corrigeasses", "corrigeât", "corrigeassions", "corrigeassiez", "corrigeassent"],
+        "imper.pres": ["corrige", "corrigeons", "corrigez"]
+      },
+      "participe_present": "corrigeant",
+      "participe_passe": ["corrigé", "corrigée", "corrigés", "corrigées"]
     }
   ]
 }
