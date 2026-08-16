@@ -12027,6 +12027,24 @@
       },
       "participe_present": "balayant",
       "participe_passe": ["balayé", "balayée", "balayés", "balayées"]
+    },
+    {
+      "id": "embêter",
+      "infinitif": "embêter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["embête", "embêtes", "embête", "embêtons", "embêtez", "embêtent"],
+        "ind.imp": ["embêtais", "embêtais", "embêtait", "embêtions", "embêtiez", "embêtaient"],
+        "ind.ps": ["embêtai", "embêtas", "embêta", "embêtâmes", "embêtâtes", "embêtèrent"],
+        "ind.fut": ["embêterai", "embêteras", "embêtera", "embêterons", "embêterez", "embêteront"],
+        "cond.pres": ["embêterais", "embêterais", "embêterait", "embêterions", "embêteriez", "embêteraient"],
+        "subj.pres": ["embête", "embêtes", "embête", "embêtions", "embêtiez", "embêtent"],
+        "subj.imp": ["embêtasse", "embêtasses", "embêtât", "embêtassions", "embêtassiez", "embêtassent"],
+        "imper.pres": ["embête", "embêtons", "embêtez"]
+      },
+      "participe_present": "embêtant",
+      "participe_passe": ["embêté", "embêtée", "embêtés", "embêtées"]
     }
   ]
 }
