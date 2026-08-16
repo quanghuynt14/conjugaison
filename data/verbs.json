@@ -35659,6 +35659,24 @@
       },
       "participe_present": "amortissant",
       "participe_passe": ["amorti", "amortie", "amortis", "amorties"]
+    },
+    {
+      "id": "recréer",
+      "infinitif": "recréer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recrée", "recrées", "recrée", "recréons", "recréez", "recréent"],
+        "ind.imp": ["recréais", "recréais", "recréait", "recréions", "recréiez", "recréaient"],
+        "ind.ps": ["recréai", "recréas", "recréa", "recréâmes", "recréâtes", "recréèrent"],
+        "ind.fut": ["recréerai", "recréeras", "recréera", "recréerons", "recréerez", "recréeront"],
+        "cond.pres": ["recréerais", "recréerais", "recréerait", "recréerions", "recréeriez", "recréeraient"],
+        "subj.pres": ["recrée", "recrées", "recrée", "recréions", "recréiez", "recréent"],
+        "subj.imp": ["recréasse", "recréasses", "recréât", "recréassions", "recréassiez", "recréassent"],
+        "imper.pres": ["recrée", "recréons", "recréez"]
+      },
+      "participe_present": "recréant",
+      "participe_passe": ["recréé", "recréée", "recréés", "recréées"]
     }
   ]
 }
