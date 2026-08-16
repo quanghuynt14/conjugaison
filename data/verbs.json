@@ -27103,6 +27103,25 @@
       },
       "participe_present": "résidant",
       "participe_passe": ["résidé", null, null, null]
+    },
+    {
+      "id": "bourdonner",
+      "infinitif": "bourdonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « bourdonné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["bourdonne", "bourdonnes", "bourdonne", "bourdonnons", "bourdonnez", "bourdonnent"],
+        "ind.imp": ["bourdonnais", "bourdonnais", "bourdonnait", "bourdonnions", "bourdonniez", "bourdonnaient"],
+        "ind.ps": ["bourdonnai", "bourdonnas", "bourdonna", "bourdonnâmes", "bourdonnâtes", "bourdonnèrent"],
+        "ind.fut": ["bourdonnerai", "bourdonneras", "bourdonnera", "bourdonnerons", "bourdonnerez", "bourdonneront"],
+        "cond.pres": ["bourdonnerais", "bourdonnerais", "bourdonnerait", "bourdonnerions", "bourdonneriez", "bourdonneraient"],
+        "subj.pres": ["bourdonne", "bourdonnes", "bourdonne", "bourdonnions", "bourdonniez", "bourdonnent"],
+        "subj.imp": ["bourdonnasse", "bourdonnasses", "bourdonnât", "bourdonnassions", "bourdonnassiez", "bourdonnassent"],
+        "imper.pres": ["bourdonne", "bourdonnons", "bourdonnez"]
+      },
+      "participe_present": "bourdonnant",
+      "participe_passe": ["bourdonné", null, null, null]
     }
   ]
 }
