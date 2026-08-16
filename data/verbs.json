@@ -12392,6 +12392,24 @@
       },
       "participe_present": "manifestant",
       "participe_passe": ["manifesté", "manifestée", "manifestés", "manifestées"]
+    },
+    {
+      "id": "situer",
+      "infinitif": "situer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["situe", "situes", "situe", "situons", "situez", "situent"],
+        "ind.imp": ["situais", "situais", "situait", "situions", "situiez", "situaient"],
+        "ind.ps": ["situai", "situas", "situa", "situâmes", "situâtes", "situèrent"],
+        "ind.fut": ["situerai", "situeras", "situera", "situerons", "situerez", "situeront"],
+        "cond.pres": ["situerais", "situerais", "situerait", "situerions", "situeriez", "situeraient"],
+        "subj.pres": ["situe", "situes", "situe", "situions", "situiez", "situent"],
+        "subj.imp": ["situasse", "situasses", "situât", "situassions", "situassiez", "situassent"],
+        "imper.pres": ["situe", "situons", "situez"]
+      },
+      "participe_present": "situant",
+      "participe_passe": ["situé", "située", "situés", "situées"]
     }
   ]
 }
