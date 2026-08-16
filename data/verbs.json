@@ -32719,6 +32719,24 @@
       },
       "participe_present": "éventrant",
       "participe_passe": ["éventré", "éventrée", "éventrés", "éventrées"]
+    },
+    {
+      "id": "frimer",
+      "infinitif": "frimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["frime", "frimes", "frime", "frimons", "frimez", "friment"],
+        "ind.imp": ["frimais", "frimais", "frimait", "frimions", "frimiez", "frimaient"],
+        "ind.ps": ["frimai", "frimas", "frima", "frimâmes", "frimâtes", "frimèrent"],
+        "ind.fut": ["frimerai", "frimeras", "frimera", "frimerons", "frimerez", "frimeront"],
+        "cond.pres": ["frimerais", "frimerais", "frimerait", "frimerions", "frimeriez", "frimeraient"],
+        "subj.pres": ["frime", "frimes", "frime", "frimions", "frimiez", "friment"],
+        "subj.imp": ["frimasse", "frimasses", "frimât", "frimassions", "frimassiez", "frimassent"],
+        "imper.pres": ["frime", "frimons", "frimez"]
+      },
+      "participe_present": "frimant",
+      "participe_passe": ["frimé", "frimée", "frimés", "frimées"]
     }
   ]
 }
