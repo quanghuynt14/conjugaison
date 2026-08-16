@@ -18150,6 +18150,25 @@
       },
       "participe_present": "diminuant",
       "participe_passe": ["diminué", "diminuée", "diminués", "diminuées"]
+    },
+    {
+      "id": "accourir",
+      "infinitif": "accourir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "note": "Les deux auxiliaires s'emploient : « il est accouru » regarde le résultat, « il a accouru » le mouvement.",
+      "tenses": {
+        "ind.pres": ["accours", "accours", "accourt", "accourons", "accourez", "accourent"],
+        "ind.imp": ["accourais", "accourais", "accourait", "accourions", "accouriez", "accouraient"],
+        "ind.ps": ["accourus", "accourus", "accourut", "accourûmes", "accourûtes", "accoururent"],
+        "ind.fut": ["accourrai", "accourras", "accourra", "accourrons", "accourrez", "accourront"],
+        "cond.pres": ["accourrais", "accourrais", "accourrait", "accourrions", "accourriez", "accourraient"],
+        "subj.pres": ["accoure", "accoures", "accoure", "accourions", "accouriez", "accourent"],
+        "subj.imp": ["accourusse", "accourusses", "accourût", "accourussions", "accourussiez", "accourussent"],
+        "imper.pres": ["accours", "accourons", "accourez"]
+      },
+      "participe_present": "accourant",
+      "participe_passe": ["accouru", "accourue", "accourus", "accourues"]
     }
   ]
 }
