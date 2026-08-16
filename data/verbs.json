@@ -1422,6 +1422,24 @@
       },
       "participe_present": "gardant",
       "participe_passe": ["gardé", "gardée", "gardés", "gardées"]
+    },
+    {
+      "id": "quitter",
+      "infinitif": "quitter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["quitte", "quittes", "quitte", "quittons", "quittez", "quittent"],
+        "ind.imp": ["quittais", "quittais", "quittait", "quittions", "quittiez", "quittaient"],
+        "ind.ps": ["quittai", "quittas", "quitta", "quittâmes", "quittâtes", "quittèrent"],
+        "ind.fut": ["quitterai", "quitteras", "quittera", "quitterons", "quitterez", "quitteront"],
+        "cond.pres": ["quitterais", "quitterais", "quitterait", "quitterions", "quitteriez", "quitteraient"],
+        "subj.pres": ["quitte", "quittes", "quitte", "quittions", "quittiez", "quittent"],
+        "subj.imp": ["quittasse", "quittasses", "quittât", "quittassions", "quittassiez", "quittassent"],
+        "imper.pres": ["quitte", "quittons", "quittez"]
+      },
+      "participe_present": "quittant",
+      "participe_passe": ["quitté", "quittée", "quittés", "quittées"]
     }
   ]
 }
