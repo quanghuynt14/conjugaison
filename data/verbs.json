@@ -14628,6 +14628,24 @@
       },
       "participe_present": "tranchant",
       "participe_passe": ["tranché", "tranchée", "tranchés", "tranchées"]
+    },
+    {
+      "id": "basculer",
+      "infinitif": "basculer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bascule", "bascules", "bascule", "basculons", "basculez", "basculent"],
+        "ind.imp": ["basculais", "basculais", "basculait", "basculions", "basculiez", "basculaient"],
+        "ind.ps": ["basculai", "basculas", "bascula", "basculâmes", "basculâtes", "basculèrent"],
+        "ind.fut": ["basculerai", "basculeras", "basculera", "basculerons", "basculerez", "basculeront"],
+        "cond.pres": ["basculerais", "basculerais", "basculerait", "basculerions", "basculeriez", "basculeraient"],
+        "subj.pres": ["bascule", "bascules", "bascule", "basculions", "basculiez", "basculent"],
+        "subj.imp": ["basculasse", "basculasses", "basculât", "basculassions", "basculassiez", "basculassent"],
+        "imper.pres": ["bascule", "basculons", "basculez"]
+      },
+      "participe_present": "basculant",
+      "participe_passe": ["basculé", "basculée", "basculés", "basculées"]
     }
   ]
 }
