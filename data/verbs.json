@@ -16332,6 +16332,24 @@
       },
       "participe_present": "ressuscitant",
       "participe_passe": ["ressuscité", "ressuscitée", "ressuscités", "ressuscitées"]
+    },
+    {
+      "id": "enchaîner",
+      "infinitif": "enchaîner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enchaîne", "enchaînes", "enchaîne", "enchaînons", "enchaînez", "enchaînent"],
+        "ind.imp": ["enchaînais", "enchaînais", "enchaînait", "enchaînions", "enchaîniez", "enchaînaient"],
+        "ind.ps": ["enchaînai", "enchaînas", "enchaîna", "enchaînâmes", "enchaînâtes", "enchaînèrent"],
+        "ind.fut": ["enchaînerai", "enchaîneras", "enchaînera", "enchaînerons", "enchaînerez", "enchaîneront"],
+        "cond.pres": ["enchaînerais", "enchaînerais", "enchaînerait", "enchaînerions", "enchaîneriez", "enchaîneraient"],
+        "subj.pres": ["enchaîne", "enchaînes", "enchaîne", "enchaînions", "enchaîniez", "enchaînent"],
+        "subj.imp": ["enchaînasse", "enchaînasses", "enchaînât", "enchaînassions", "enchaînassiez", "enchaînassent"],
+        "imper.pres": ["enchaîne", "enchaînons", "enchaînez"]
+      },
+      "participe_present": "enchaînant",
+      "participe_passe": ["enchaîné", "enchaînée", "enchaînés", "enchaînées"]
     }
   ]
 }
