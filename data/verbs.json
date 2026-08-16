@@ -14646,6 +14646,24 @@
       },
       "participe_present": "basculant",
       "participe_passe": ["basculé", "basculée", "basculés", "basculées"]
+    },
+    {
+      "id": "garantir",
+      "infinitif": "garantir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["garantis", "garantis", "garantit", "garantissons", "garantissez", "garantissent"],
+        "ind.imp": ["garantissais", "garantissais", "garantissait", "garantissions", "garantissiez", "garantissaient"],
+        "ind.ps": ["garantis", "garantis", "garantit", "garantîmes", "garantîtes", "garantirent"],
+        "ind.fut": ["garantirai", "garantiras", "garantira", "garantirons", "garantirez", "garantiront"],
+        "cond.pres": ["garantirais", "garantirais", "garantirait", "garantirions", "garantiriez", "garantiraient"],
+        "subj.pres": ["garantisse", "garantisses", "garantisse", "garantissions", "garantissiez", "garantissent"],
+        "subj.imp": ["garantisse", "garantisses", "garantît", "garantissions", "garantissiez", "garantissent"],
+        "imper.pres": ["garantis", "garantissons", "garantissez"]
+      },
+      "participe_present": "garantissant",
+      "participe_passe": ["garanti", "garantie", "garantis", "garanties"]
     }
   ]
 }
