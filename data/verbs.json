@@ -14283,6 +14283,24 @@
       },
       "participe_present": "errant",
       "participe_passe": ["erré", null, null, null]
+    },
+    {
+      "id": "figer",
+      "infinitif": "figer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fige", "figes", "fige", "figeons", "figez", "figent"],
+        "ind.imp": ["figeais", "figeais", "figeait", "figions", "figiez", "figeaient"],
+        "ind.ps": ["figeai", "figeas", "figea", "figeâmes", "figeâtes", "figèrent"],
+        "ind.fut": ["figerai", "figeras", "figera", "figerons", "figerez", "figeront"],
+        "cond.pres": ["figerais", "figerais", "figerait", "figerions", "figeriez", "figeraient"],
+        "subj.pres": ["fige", "figes", "fige", "figions", "figiez", "figent"],
+        "subj.imp": ["figeasse", "figeasses", "figeât", "figeassions", "figeassiez", "figeassent"],
+        "imper.pres": ["fige", "figeons", "figez"]
+      },
+      "participe_present": "figeant",
+      "participe_passe": ["figé", "figée", "figés", "figées"]
     }
   ]
 }
