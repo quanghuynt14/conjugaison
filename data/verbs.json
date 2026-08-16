@@ -32775,6 +32775,25 @@
       },
       "participe_present": "extasiant",
       "participe_passe": ["extasié", "extasiée", "extasiés", "extasiées"]
+    },
+    {
+      "id": "fouiner",
+      "infinitif": "fouiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « fouiné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["fouine", "fouines", "fouine", "fouinons", "fouinez", "fouinent"],
+        "ind.imp": ["fouinais", "fouinais", "fouinait", "fouinions", "fouiniez", "fouinaient"],
+        "ind.ps": ["fouinai", "fouinas", "fouina", "fouinâmes", "fouinâtes", "fouinèrent"],
+        "ind.fut": ["fouinerai", "fouineras", "fouinera", "fouinerons", "fouinerez", "fouineront"],
+        "cond.pres": ["fouinerais", "fouinerais", "fouinerait", "fouinerions", "fouineriez", "fouineraient"],
+        "subj.pres": ["fouine", "fouines", "fouine", "fouinions", "fouiniez", "fouinent"],
+        "subj.imp": ["fouinasse", "fouinasses", "fouinât", "fouinassions", "fouinassiez", "fouinassent"],
+        "imper.pres": ["fouine", "fouinons", "fouinez"]
+      },
+      "participe_present": "fouinant",
+      "participe_passe": ["fouiné", null, null, null]
     }
   ]
 }
