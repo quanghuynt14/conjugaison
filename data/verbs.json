@@ -26153,6 +26153,24 @@
       },
       "participe_present": "rayonnant",
       "participe_passe": ["rayonné", "rayonnée", "rayonnés", "rayonnées"]
+    },
+    {
+      "id": "infecter",
+      "infinitif": "infecter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["infecte", "infectes", "infecte", "infectons", "infectez", "infectent"],
+        "ind.imp": ["infectais", "infectais", "infectait", "infections", "infectiez", "infectaient"],
+        "ind.ps": ["infectai", "infectas", "infecta", "infectâmes", "infectâtes", "infectèrent"],
+        "ind.fut": ["infecterai", "infecteras", "infectera", "infecterons", "infecterez", "infecteront"],
+        "cond.pres": ["infecterais", "infecterais", "infecterait", "infecterions", "infecteriez", "infecteraient"],
+        "subj.pres": ["infecte", "infectes", "infecte", "infections", "infectiez", "infectent"],
+        "subj.imp": ["infectasse", "infectasses", "infectât", "infectassions", "infectassiez", "infectassent"],
+        "imper.pres": ["infecte", "infectons", "infectez"]
+      },
+      "participe_present": "infectant",
+      "participe_passe": ["infecté", "infectée", "infectés", "infectées"]
     }
   ]
 }
