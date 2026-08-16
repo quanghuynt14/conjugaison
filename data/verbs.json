@@ -24056,6 +24056,25 @@
       },
       "participe_present": "titubant",
       "participe_passe": ["titubé", null, null, null]
+    },
+    {
+      "id": "hérisser",
+      "infinitif": "hérisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "h_aspire": true,
+      "tenses": {
+        "ind.pres": ["hérisse", "hérisses", "hérisse", "hérissons", "hérissez", "hérissent"],
+        "ind.imp": ["hérissais", "hérissais", "hérissait", "hérissions", "hérissiez", "hérissaient"],
+        "ind.ps": ["hérissai", "hérissas", "hérissa", "hérissâmes", "hérissâtes", "hérissèrent"],
+        "ind.fut": ["hérisserai", "hérisseras", "hérissera", "hérisserons", "hérisserez", "hérisseront"],
+        "cond.pres": ["hérisserais", "hérisserais", "hérisserait", "hérisserions", "hérisseriez", "hérisseraient"],
+        "subj.pres": ["hérisse", "hérisses", "hérisse", "hérissions", "hérissiez", "hérissent"],
+        "subj.imp": ["hérissasse", "hérissasses", "hérissât", "hérissassions", "hérissassiez", "hérissassent"],
+        "imper.pres": ["hérisse", "hérissons", "hérissez"]
+      },
+      "participe_present": "hérissant",
+      "participe_passe": ["hérissé", "hérissée", "hérissés", "hérissées"]
     }
   ]
 }
