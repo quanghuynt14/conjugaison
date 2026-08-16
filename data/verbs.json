@@ -26588,6 +26588,24 @@
       },
       "participe_present": "absentant",
       "participe_passe": ["absenté", "absentée", "absentés", "absentées"]
+    },
+    {
+      "id": "acquitter",
+      "infinitif": "acquitter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["acquitte", "acquittes", "acquitte", "acquittons", "acquittez", "acquittent"],
+        "ind.imp": ["acquittais", "acquittais", "acquittait", "acquittions", "acquittiez", "acquittaient"],
+        "ind.ps": ["acquittai", "acquittas", "acquitta", "acquittâmes", "acquittâtes", "acquittèrent"],
+        "ind.fut": ["acquitterai", "acquitteras", "acquittera", "acquitterons", "acquitterez", "acquitteront"],
+        "cond.pres": ["acquitterais", "acquitterais", "acquitterait", "acquitterions", "acquitteriez", "acquitteraient"],
+        "subj.pres": ["acquitte", "acquittes", "acquitte", "acquittions", "acquittiez", "acquittent"],
+        "subj.imp": ["acquittasse", "acquittasses", "acquittât", "acquittassions", "acquittassiez", "acquittassent"],
+        "imper.pres": ["acquitte", "acquittons", "acquittez"]
+      },
+      "participe_present": "acquittant",
+      "participe_passe": ["acquitté", "acquittée", "acquittés", "acquittées"]
     }
   ]
 }
