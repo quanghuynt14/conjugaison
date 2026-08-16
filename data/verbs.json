@@ -33395,6 +33395,24 @@
       },
       "participe_present": "broutant",
       "participe_passe": ["brouté", "broutée", "broutés", "broutées"]
+    },
+    {
+      "id": "scander",
+      "infinitif": "scander",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["scande", "scandes", "scande", "scandons", "scandez", "scandent"],
+        "ind.imp": ["scandais", "scandais", "scandait", "scandions", "scandiez", "scandaient"],
+        "ind.ps": ["scandai", "scandas", "scanda", "scandâmes", "scandâtes", "scandèrent"],
+        "ind.fut": ["scanderai", "scanderas", "scandera", "scanderons", "scanderez", "scanderont"],
+        "cond.pres": ["scanderais", "scanderais", "scanderait", "scanderions", "scanderiez", "scanderaient"],
+        "subj.pres": ["scande", "scandes", "scande", "scandions", "scandiez", "scandent"],
+        "subj.imp": ["scandasse", "scandasses", "scandât", "scandassions", "scandassiez", "scandassent"],
+        "imper.pres": ["scande", "scandons", "scandez"]
+      },
+      "participe_present": "scandant",
+      "participe_passe": ["scandé", "scandée", "scandés", "scandées"]
     }
   ]
 }
