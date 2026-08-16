@@ -30475,6 +30475,24 @@
       },
       "participe_present": "jaunissant",
       "participe_passe": ["jauni", "jaunie", "jaunis", "jaunies"]
+    },
+    {
+      "id": "rugir",
+      "infinitif": "rugir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rugis", "rugis", "rugit", "rugissons", "rugissez", "rugissent"],
+        "ind.imp": ["rugissais", "rugissais", "rugissait", "rugissions", "rugissiez", "rugissaient"],
+        "ind.ps": ["rugis", "rugis", "rugit", "rugîmes", "rugîtes", "rugirent"],
+        "ind.fut": ["rugirai", "rugiras", "rugira", "rugirons", "rugirez", "rugiront"],
+        "cond.pres": ["rugirais", "rugirais", "rugirait", "rugirions", "rugiriez", "rugiraient"],
+        "subj.pres": ["rugisse", "rugisses", "rugisse", "rugissions", "rugissiez", "rugissent"],
+        "subj.imp": ["rugisse", "rugisses", "rugît", "rugissions", "rugissiez", "rugissent"],
+        "imper.pres": ["rugis", "rugissons", "rugissez"]
+      },
+      "participe_present": "rugissant",
+      "participe_passe": ["rugi", "rugie", "rugis", "rugies"]
     }
   ]
 }
