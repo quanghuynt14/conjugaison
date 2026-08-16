@@ -32503,6 +32503,24 @@
       },
       "participe_present": "ébrouant",
       "participe_passe": ["ébroué", "ébrouée", "ébroués", "ébrouées"]
+    },
+    {
+      "id": "obscurcir",
+      "infinitif": "obscurcir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["obscurcis", "obscurcis", "obscurcit", "obscurcissons", "obscurcissez", "obscurcissent"],
+        "ind.imp": ["obscurcissais", "obscurcissais", "obscurcissait", "obscurcissions", "obscurcissiez", "obscurcissaient"],
+        "ind.ps": ["obscurcis", "obscurcis", "obscurcit", "obscurcîmes", "obscurcîtes", "obscurcirent"],
+        "ind.fut": ["obscurcirai", "obscurciras", "obscurcira", "obscurcirons", "obscurcirez", "obscurciront"],
+        "cond.pres": ["obscurcirais", "obscurcirais", "obscurcirait", "obscurcirions", "obscurciriez", "obscurciraient"],
+        "subj.pres": ["obscurcisse", "obscurcisses", "obscurcisse", "obscurcissions", "obscurcissiez", "obscurcissent"],
+        "subj.imp": ["obscurcisse", "obscurcisses", "obscurcît", "obscurcissions", "obscurcissiez", "obscurcissent"],
+        "imper.pres": ["obscurcis", "obscurcissons", "obscurcissez"]
+      },
+      "participe_present": "obscurcissant",
+      "participe_passe": ["obscurci", "obscurcie", "obscurcis", "obscurcies"]
     }
   ]
 }
