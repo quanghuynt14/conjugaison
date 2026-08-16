@@ -2696,6 +2696,24 @@
       },
       "participe_present": "taisant",
       "participe_passe": ["tu", "tue", "tus", "tues"]
+    },
+    {
+      "id": "empêcher",
+      "infinitif": "empêcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["empêche", "empêches", "empêche", "empêchons", "empêchez", "empêchent"],
+        "ind.imp": ["empêchais", "empêchais", "empêchait", "empêchions", "empêchiez", "empêchaient"],
+        "ind.ps": ["empêchai", "empêchas", "empêcha", "empêchâmes", "empêchâtes", "empêchèrent"],
+        "ind.fut": ["empêcherai", "empêcheras", "empêchera", "empêcherons", "empêcherez", "empêcheront"],
+        "cond.pres": ["empêcherais", "empêcherais", "empêcherait", "empêcherions", "empêcheriez", "empêcheraient"],
+        "subj.pres": ["empêche", "empêches", "empêche", "empêchions", "empêchiez", "empêchent"],
+        "subj.imp": ["empêchasse", "empêchasses", "empêchât", "empêchassions", "empêchassiez", "empêchassent"],
+        "imper.pres": ["empêche", "empêchons", "empêchez"]
+      },
+      "participe_present": "empêchant",
+      "participe_passe": ["empêché", "empêchée", "empêchés", "empêchées"]
     }
   ]
 }
