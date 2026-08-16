@@ -10974,6 +10974,24 @@
       },
       "participe_present": "emplissant",
       "participe_passe": ["empli", "emplie", "emplis", "emplies"]
+    },
+    {
+      "id": "imiter",
+      "infinitif": "imiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["imite", "imites", "imite", "imitons", "imitez", "imitent"],
+        "ind.imp": ["imitais", "imitais", "imitait", "imitions", "imitiez", "imitaient"],
+        "ind.ps": ["imitai", "imitas", "imita", "imitâmes", "imitâtes", "imitèrent"],
+        "ind.fut": ["imiterai", "imiteras", "imitera", "imiterons", "imiterez", "imiteront"],
+        "cond.pres": ["imiterais", "imiterais", "imiterait", "imiterions", "imiteriez", "imiteraient"],
+        "subj.pres": ["imite", "imites", "imite", "imitions", "imitiez", "imitent"],
+        "subj.imp": ["imitasse", "imitasses", "imitât", "imitassions", "imitassiez", "imitassent"],
+        "imper.pres": ["imite", "imitons", "imitez"]
+      },
+      "participe_present": "imitant",
+      "participe_passe": ["imité", "imitée", "imités", "imitées"]
     }
   ]
 }
