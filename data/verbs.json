@@ -2296,6 +2296,24 @@
       },
       "participe_present": "disparaissant",
       "participe_passe": ["disparu", "disparue", "disparus", "disparues"]
+    },
+    {
+      "id": "remettre",
+      "infinitif": "remettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["remets", "remets", "remet", "remettons", "remettez", "remettent"],
+        "ind.imp": ["remettais", "remettais", "remettait", "remettions", "remettiez", "remettaient"],
+        "ind.ps": ["remis", "remis", "remit", "remîmes", "remîtes", "remirent"],
+        "ind.fut": ["remettrai", "remettras", "remettra", "remettrons", "remettrez", "remettront"],
+        "cond.pres": ["remettrais", "remettrais", "remettrait", "remettrions", "remettriez", "remettraient"],
+        "subj.pres": ["remette", "remettes", "remette", "remettions", "remettiez", "remettent"],
+        "subj.imp": ["remisse", "remisses", "remît", "remissions", "remissiez", "remissent"],
+        "imper.pres": ["remets", "remettons", "remettez"]
+      },
+      "participe_present": "remettant",
+      "participe_passe": ["remis", "remise", "remis", "remises"]
     }
   ]
 }
