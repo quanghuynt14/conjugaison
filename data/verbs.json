@@ -8705,6 +8705,24 @@
       },
       "participe_present": "concluant",
       "participe_passe": ["conclu", "conclue", "conclus", "conclues"]
+    },
+    {
+      "id": "précipiter",
+      "infinitif": "précipiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["précipite", "précipites", "précipite", "précipitons", "précipitez", "précipitent"],
+        "ind.imp": ["précipitais", "précipitais", "précipitait", "précipitions", "précipitiez", "précipitaient"],
+        "ind.ps": ["précipitai", "précipitas", "précipita", "précipitâmes", "précipitâtes", "précipitèrent"],
+        "ind.fut": ["précipiterai", "précipiteras", "précipitera", "précipiterons", "précipiterez", "précipiteront"],
+        "cond.pres": ["précipiterais", "précipiterais", "précipiterait", "précipiterions", "précipiteriez", "précipiteraient"],
+        "subj.pres": ["précipite", "précipites", "précipite", "précipitions", "précipitiez", "précipitent"],
+        "subj.imp": ["précipitasse", "précipitasses", "précipitât", "précipitassions", "précipitassiez", "précipitassent"],
+        "imper.pres": ["précipite", "précipitons", "précipitez"]
+      },
+      "participe_present": "précipitant",
+      "participe_passe": ["précipité", "précipitée", "précipités", "précipitées"]
     }
   ]
 }
