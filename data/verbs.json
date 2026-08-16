@@ -30129,6 +30129,24 @@
       },
       "participe_present": "pilant",
       "participe_passe": ["pilé", "pilée", "pilés", "pilées"]
+    },
+    {
+      "id": "renouer",
+      "infinitif": "renouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["renoue", "renoues", "renoue", "renouons", "renouez", "renouent"],
+        "ind.imp": ["renouais", "renouais", "renouait", "renouions", "renouiez", "renouaient"],
+        "ind.ps": ["renouai", "renouas", "renoua", "renouâmes", "renouâtes", "renouèrent"],
+        "ind.fut": ["renouerai", "renoueras", "renouera", "renouerons", "renouerez", "renoueront"],
+        "cond.pres": ["renouerais", "renouerais", "renouerait", "renouerions", "renoueriez", "renoueraient"],
+        "subj.pres": ["renoue", "renoues", "renoue", "renouions", "renouiez", "renouent"],
+        "subj.imp": ["renouasse", "renouasses", "renouât", "renouassions", "renouassiez", "renouassent"],
+        "imper.pres": ["renoue", "renouons", "renouez"]
+      },
+      "participe_present": "renouant",
+      "participe_passe": ["renoué", "renouée", "renoués", "renouées"]
     }
   ]
 }
