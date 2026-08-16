@@ -11844,6 +11844,24 @@
       },
       "participe_present": "déconnant",
       "participe_passe": ["déconné", null, null, null]
+    },
+    {
+      "id": "soulager",
+      "infinitif": "soulager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["soulage", "soulages", "soulage", "soulageons", "soulagez", "soulagent"],
+        "ind.imp": ["soulageais", "soulageais", "soulageait", "soulagions", "soulagiez", "soulageaient"],
+        "ind.ps": ["soulageai", "soulageas", "soulagea", "soulageâmes", "soulageâtes", "soulagèrent"],
+        "ind.fut": ["soulagerai", "soulageras", "soulagera", "soulagerons", "soulagerez", "soulageront"],
+        "cond.pres": ["soulagerais", "soulagerais", "soulagerait", "soulagerions", "soulageriez", "soulageraient"],
+        "subj.pres": ["soulage", "soulages", "soulage", "soulagions", "soulagiez", "soulagent"],
+        "subj.imp": ["soulageasse", "soulageasses", "soulageât", "soulageassions", "soulageassiez", "soulageassent"],
+        "imper.pres": ["soulage", "soulageons", "soulagez"]
+      },
+      "participe_present": "soulageant",
+      "participe_passe": ["soulagé", "soulagée", "soulagés", "soulagées"]
     }
   ]
 }
