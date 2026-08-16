@@ -28304,6 +28304,24 @@
       },
       "participe_present": "lamentant",
       "participe_passe": ["lamenté", "lamentée", "lamentés", "lamentées"]
+    },
+    {
+      "id": "mimer",
+      "infinitif": "mimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mime", "mimes", "mime", "mimons", "mimez", "miment"],
+        "ind.imp": ["mimais", "mimais", "mimait", "mimions", "mimiez", "mimaient"],
+        "ind.ps": ["mimai", "mimas", "mima", "mimâmes", "mimâtes", "mimèrent"],
+        "ind.fut": ["mimerai", "mimeras", "mimera", "mimerons", "mimerez", "mimeront"],
+        "cond.pres": ["mimerais", "mimerais", "mimerait", "mimerions", "mimeriez", "mimeraient"],
+        "subj.pres": ["mime", "mimes", "mime", "mimions", "mimiez", "miment"],
+        "subj.imp": ["mimasse", "mimasses", "mimât", "mimassions", "mimassiez", "mimassent"],
+        "imper.pres": ["mime", "mimons", "mimez"]
+      },
+      "participe_present": "mimant",
+      "participe_passe": ["mimé", "mimée", "mimés", "mimées"]
     }
   ]
 }
