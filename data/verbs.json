@@ -30822,6 +30822,24 @@
       },
       "participe_present": "affluant",
       "participe_passe": ["afflué", null, null, null]
+    },
+    {
+      "id": "corrompre",
+      "infinitif": "corrompre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["corromps", "corromps", "corrompt", "corrompons", "corrompez", "corrompent"],
+        "ind.imp": ["corrompais", "corrompais", "corrompait", "corrompions", "corrompiez", "corrompaient"],
+        "ind.ps": ["corrompis", "corrompis", "corrompit", "corrompîmes", "corrompîtes", "corrompirent"],
+        "ind.fut": ["corromprai", "corrompras", "corrompra", "corromprons", "corromprez", "corrompront"],
+        "cond.pres": ["corromprais", "corromprais", "corromprait", "corromprions", "corrompriez", "corrompraient"],
+        "subj.pres": ["corrompe", "corrompes", "corrompe", "corrompions", "corrompiez", "corrompent"],
+        "subj.imp": ["corrompisse", "corrompisses", "corrompît", "corrompissions", "corrompissiez", "corrompissent"],
+        "imper.pres": ["corromps", "corrompons", "corrompez"]
+      },
+      "participe_present": "corrompant",
+      "participe_passe": ["corrompu", "corrompue", "corrompus", "corrompues"]
     }
   ]
 }
