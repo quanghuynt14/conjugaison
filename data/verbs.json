@@ -30583,6 +30583,24 @@
       },
       "participe_present": "sommant",
       "participe_passe": ["sommé", "sommée", "sommés", "sommées"]
+    },
+    {
+      "id": "affliger",
+      "infinitif": "affliger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["afflige", "affliges", "afflige", "affligeons", "affligez", "affligent"],
+        "ind.imp": ["affligeais", "affligeais", "affligeait", "affligions", "affligiez", "affligeaient"],
+        "ind.ps": ["affligeai", "affligeas", "affligea", "affligeâmes", "affligeâtes", "affligèrent"],
+        "ind.fut": ["affligerai", "affligeras", "affligera", "affligerons", "affligerez", "affligeront"],
+        "cond.pres": ["affligerais", "affligerais", "affligerait", "affligerions", "affligeriez", "affligeraient"],
+        "subj.pres": ["afflige", "affliges", "afflige", "affligions", "affligiez", "affligent"],
+        "subj.imp": ["affligeasse", "affligeasses", "affligeât", "affligeassions", "affligeassiez", "affligeassent"],
+        "imper.pres": ["afflige", "affligeons", "affligez"]
+      },
+      "participe_present": "affligeant",
+      "participe_passe": ["affligé", "affligée", "affligés", "affligées"]
     }
   ]
 }
