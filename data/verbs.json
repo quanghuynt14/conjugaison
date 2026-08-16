@@ -23508,6 +23508,24 @@
       },
       "participe_present": "présidant",
       "participe_passe": ["présidé", "présidée", "présidés", "présidées"]
+    },
+    {
+      "id": "miner",
+      "infinitif": "miner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mine", "mines", "mine", "minons", "minez", "minent"],
+        "ind.imp": ["minais", "minais", "minait", "minions", "miniez", "minaient"],
+        "ind.ps": ["minai", "minas", "mina", "minâmes", "minâtes", "minèrent"],
+        "ind.fut": ["minerai", "mineras", "minera", "minerons", "minerez", "mineront"],
+        "cond.pres": ["minerais", "minerais", "minerait", "minerions", "mineriez", "mineraient"],
+        "subj.pres": ["mine", "mines", "mine", "minions", "miniez", "minent"],
+        "subj.imp": ["minasse", "minasses", "minât", "minassions", "minassiez", "minassent"],
+        "imper.pres": ["mine", "minons", "minez"]
+      },
+      "participe_present": "minant",
+      "participe_passe": ["miné", "minée", "minés", "minées"]
     }
   ]
 }
