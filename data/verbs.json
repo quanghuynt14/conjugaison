@@ -1260,6 +1260,24 @@
       },
       "participe_present": "dormant",
       "participe_passe": ["dormi", null, null, null]
+    },
+    {
+      "id": "écrire",
+      "infinitif": "écrire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["écris", "écris", "écrit", "écrivons", "écrivez", "écrivent"],
+        "ind.imp": ["écrivais", "écrivais", "écrivait", "écrivions", "écriviez", "écrivaient"],
+        "ind.ps": ["écrivis", "écrivis", "écrivit", "écrivîmes", "écrivîtes", "écrivirent"],
+        "ind.fut": ["écrirai", "écriras", "écrira", "écrirons", "écrirez", "écriront"],
+        "cond.pres": ["écrirais", "écrirais", "écrirait", "écririons", "écririez", "écriraient"],
+        "subj.pres": ["écrive", "écrives", "écrive", "écrivions", "écriviez", "écrivent"],
+        "subj.imp": ["écrivisse", "écrivisses", "écrivît", "écrivissions", "écrivissiez", "écrivissent"],
+        "imper.pres": ["écris", "écrivons", "écrivez"]
+      },
+      "participe_present": "écrivant",
+      "participe_passe": ["écrit", "écrite", "écrits", "écrites"]
     }
   ]
 }
