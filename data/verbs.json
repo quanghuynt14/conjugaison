@@ -22019,6 +22019,24 @@
       },
       "participe_present": "chaussant",
       "participe_passe": ["chaussé", "chaussée", "chaussés", "chaussées"]
+    },
+    {
+      "id": "détailler",
+      "infinitif": "détailler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["détaille", "détailles", "détaille", "détaillons", "détaillez", "détaillent"],
+        "ind.imp": ["détaillais", "détaillais", "détaillait", "détaillions", "détailliez", "détaillaient"],
+        "ind.ps": ["détaillai", "détaillas", "détailla", "détaillâmes", "détaillâtes", "détaillèrent"],
+        "ind.fut": ["détaillerai", "détailleras", "détaillera", "détaillerons", "détaillerez", "détailleront"],
+        "cond.pres": ["détaillerais", "détaillerais", "détaillerait", "détaillerions", "détailleriez", "détailleraient"],
+        "subj.pres": ["détaille", "détailles", "détaille", "détaillions", "détailliez", "détaillent"],
+        "subj.imp": ["détaillasse", "détaillasses", "détaillât", "détaillassions", "détaillassiez", "détaillassent"],
+        "imper.pres": ["détaille", "détaillons", "détaillez"]
+      },
+      "participe_present": "détaillant",
+      "participe_passe": ["détaillé", "détaillée", "détaillés", "détaillées"]
     }
   ]
 }
