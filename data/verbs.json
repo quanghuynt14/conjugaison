@@ -30803,6 +30803,25 @@
       },
       "participe_present": "sabotant",
       "participe_passe": ["saboté", "sabotée", "sabotés", "sabotées"]
+    },
+    {
+      "id": "affluer",
+      "infinitif": "affluer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « afflué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["afflue", "afflues", "afflue", "affluons", "affluez", "affluent"],
+        "ind.imp": ["affluais", "affluais", "affluait", "affluions", "affluiez", "affluaient"],
+        "ind.ps": ["affluai", "affluas", "afflua", "affluâmes", "affluâtes", "affluèrent"],
+        "ind.fut": ["affluerai", "afflueras", "affluera", "affluerons", "affluerez", "afflueront"],
+        "cond.pres": ["affluerais", "affluerais", "affluerait", "affluerions", "afflueriez", "afflueraient"],
+        "subj.pres": ["afflue", "afflues", "afflue", "affluions", "affluiez", "affluent"],
+        "subj.imp": ["affluasse", "affluasses", "affluât", "affluassions", "affluassiez", "affluassent"],
+        "imper.pres": ["afflue", "affluons", "affluez"]
+      },
+      "participe_present": "affluant",
+      "participe_passe": ["afflué", null, null, null]
     }
   ]
 }
