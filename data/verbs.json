@@ -35205,6 +35205,25 @@
       },
       "participe_present": "agglutinant",
       "participe_passe": ["agglutiné", "agglutinée", "agglutinés", "agglutinées"]
+    },
+    {
+      "id": "défaillir",
+      "infinitif": "défaillir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « défailli » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["défaille", "défailles", "défaille", "défaillons", "défaillez", "défaillent"],
+        "ind.imp": ["défaillais", "défaillais", "défaillait", "défaillions", "défailliez", "défaillaient"],
+        "ind.ps": ["défaillis", "défaillis", "défaillit", "défaillîmes", "défaillîtes", "défaillirent"],
+        "ind.fut": ["défaillirai", "défailliras", "défaillira", "défaillirons", "défaillirez", "défailliront"],
+        "cond.pres": ["défaillirais", "défaillirais", "défaillirait", "défaillirions", "défailliriez", "défailliraient"],
+        "subj.pres": ["défaille", "défailles", "défaille", "défaillions", "défailliez", "défaillent"],
+        "subj.imp": ["défaillisse", "défaillisses", "défaillît", "défaillissions", "défaillissiez", "défaillissent"],
+        "imper.pres": ["défaille", "défaillons", "défaillez"]
+      },
+      "participe_present": "défaillant",
+      "participe_passe": ["défailli", null, null, null]
     }
   ]
 }
