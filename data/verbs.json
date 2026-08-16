@@ -1149,6 +1149,24 @@
       },
       "participe_present": ["asseyant", "assoyant"],
       "participe_passe": ["assis", "assise", "assis", "assises"]
+    },
+    {
+      "id": "retrouver",
+      "infinitif": "retrouver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["retrouve", "retrouves", "retrouve", "retrouvons", "retrouvez", "retrouvent"],
+        "ind.imp": ["retrouvais", "retrouvais", "retrouvait", "retrouvions", "retrouviez", "retrouvaient"],
+        "ind.ps": ["retrouvai", "retrouvas", "retrouva", "retrouvâmes", "retrouvâtes", "retrouvèrent"],
+        "ind.fut": ["retrouverai", "retrouveras", "retrouvera", "retrouverons", "retrouverez", "retrouveront"],
+        "cond.pres": ["retrouverais", "retrouverais", "retrouverait", "retrouverions", "retrouveriez", "retrouveraient"],
+        "subj.pres": ["retrouve", "retrouves", "retrouve", "retrouvions", "retrouviez", "retrouvent"],
+        "subj.imp": ["retrouvasse", "retrouvasses", "retrouvât", "retrouvassions", "retrouvassiez", "retrouvassent"],
+        "imper.pres": ["retrouve", "retrouvons", "retrouvez"]
+      },
+      "participe_present": "retrouvant",
+      "participe_passe": ["retrouvé", "retrouvée", "retrouvés", "retrouvées"]
     }
   ]
 }
