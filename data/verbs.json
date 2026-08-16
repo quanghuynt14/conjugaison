@@ -26606,6 +26606,24 @@
       },
       "participe_present": "acquittant",
       "participe_passe": ["acquitté", "acquittée", "acquittés", "acquittées"]
+    },
+    {
+      "id": "ranimer",
+      "infinitif": "ranimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ranime", "ranimes", "ranime", "ranimons", "ranimez", "raniment"],
+        "ind.imp": ["ranimais", "ranimais", "ranimait", "ranimions", "ranimiez", "ranimaient"],
+        "ind.ps": ["ranimai", "ranimas", "ranima", "ranimâmes", "ranimâtes", "ranimèrent"],
+        "ind.fut": ["ranimerai", "ranimeras", "ranimera", "ranimerons", "ranimerez", "ranimeront"],
+        "cond.pres": ["ranimerais", "ranimerais", "ranimerait", "ranimerions", "ranimeriez", "ranimeraient"],
+        "subj.pres": ["ranime", "ranimes", "ranime", "ranimions", "ranimiez", "raniment"],
+        "subj.imp": ["ranimasse", "ranimasses", "ranimât", "ranimassions", "ranimassiez", "ranimassent"],
+        "imper.pres": ["ranime", "ranimons", "ranimez"]
+      },
+      "participe_present": "ranimant",
+      "participe_passe": ["ranimé", "ranimée", "ranimés", "ranimées"]
     }
   ]
 }
