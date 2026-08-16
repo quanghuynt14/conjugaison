@@ -11154,6 +11154,24 @@
       },
       "participe_present": "enseignant",
       "participe_passe": ["enseigné", "enseignée", "enseignés", "enseignées"]
+    },
+    {
+      "id": "publier",
+      "infinitif": "publier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["publie", "publies", "publie", "publions", "publiez", "publient"],
+        "ind.imp": ["publiais", "publiais", "publiait", "publiions", "publiiez", "publiaient"],
+        "ind.ps": ["publiai", "publias", "publia", "publiâmes", "publiâtes", "publièrent"],
+        "ind.fut": ["publierai", "publieras", "publiera", "publierons", "publierez", "publieront"],
+        "cond.pres": ["publierais", "publierais", "publierait", "publierions", "publieriez", "publieraient"],
+        "subj.pres": ["publie", "publies", "publie", "publiions", "publiiez", "publient"],
+        "subj.imp": ["publiasse", "publiasses", "publiât", "publiassions", "publiassiez", "publiassent"],
+        "imper.pres": ["publie", "publions", "publiez"]
+      },
+      "participe_present": "publiant",
+      "participe_passe": ["publié", "publiée", "publiés", "publiées"]
     }
   ]
 }
