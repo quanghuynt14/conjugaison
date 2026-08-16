@@ -24113,6 +24113,24 @@
       },
       "participe_present": "empressant",
       "participe_passe": ["empressé", "empressée", "empressés", "empressées"]
+    },
+    {
+      "id": "mijoter",
+      "infinitif": "mijoter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mijote", "mijotes", "mijote", "mijotons", "mijotez", "mijotent"],
+        "ind.imp": ["mijotais", "mijotais", "mijotait", "mijotions", "mijotiez", "mijotaient"],
+        "ind.ps": ["mijotai", "mijotas", "mijota", "mijotâmes", "mijotâtes", "mijotèrent"],
+        "ind.fut": ["mijoterai", "mijoteras", "mijotera", "mijoterons", "mijoterez", "mijoteront"],
+        "cond.pres": ["mijoterais", "mijoterais", "mijoterait", "mijoterions", "mijoteriez", "mijoteraient"],
+        "subj.pres": ["mijote", "mijotes", "mijote", "mijotions", "mijotiez", "mijotent"],
+        "subj.imp": ["mijotasse", "mijotasses", "mijotât", "mijotassions", "mijotassiez", "mijotassent"],
+        "imper.pres": ["mijote", "mijotons", "mijotez"]
+      },
+      "participe_present": "mijotant",
+      "participe_passe": ["mijoté", "mijotée", "mijotés", "mijotées"]
     }
   ]
 }
