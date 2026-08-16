@@ -29673,6 +29673,25 @@
       },
       "participe_present": "assimilant",
       "participe_passe": ["assimilé", "assimilée", "assimilés", "assimilées"]
+    },
+    {
+      "id": "surfer",
+      "infinitif": "surfer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « surfé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["surfe", "surfes", "surfe", "surfons", "surfez", "surfent"],
+        "ind.imp": ["surfais", "surfais", "surfait", "surfions", "surfiez", "surfaient"],
+        "ind.ps": ["surfai", "surfas", "surfa", "surfâmes", "surfâtes", "surfèrent"],
+        "ind.fut": ["surferai", "surferas", "surfera", "surferons", "surferez", "surferont"],
+        "cond.pres": ["surferais", "surferais", "surferait", "surferions", "surferiez", "surferaient"],
+        "subj.pres": ["surfe", "surfes", "surfe", "surfions", "surfiez", "surfent"],
+        "subj.imp": ["surfasse", "surfasses", "surfât", "surfassions", "surfassiez", "surfassent"],
+        "imper.pres": ["surfe", "surfons", "surfez"]
+      },
+      "participe_present": "surfant",
+      "participe_passe": ["surfé", null, null, null]
     }
   ]
 }
