@@ -16422,6 +16422,24 @@
       },
       "participe_present": "accumulant",
       "participe_passe": ["accumulé", "accumulée", "accumulés", "accumulées"]
+    },
+    {
+      "id": "multiplier",
+      "infinitif": "multiplier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["multiplie", "multiplies", "multiplie", "multiplions", "multipliez", "multiplient"],
+        "ind.imp": ["multipliais", "multipliais", "multipliait", "multipliions", "multipliiez", "multipliaient"],
+        "ind.ps": ["multipliai", "multiplias", "multiplia", "multipliâmes", "multipliâtes", "multiplièrent"],
+        "ind.fut": ["multiplierai", "multiplieras", "multipliera", "multiplierons", "multiplierez", "multiplieront"],
+        "cond.pres": ["multiplierais", "multiplierais", "multiplierait", "multiplierions", "multiplieriez", "multiplieraient"],
+        "subj.pres": ["multiplie", "multiplies", "multiplie", "multipliions", "multipliiez", "multiplient"],
+        "subj.imp": ["multipliasse", "multipliasses", "multipliât", "multipliassions", "multipliassiez", "multipliassent"],
+        "imper.pres": ["multiplie", "multiplions", "multipliez"]
+      },
+      "participe_present": "multipliant",
+      "participe_passe": ["multiplié", "multipliée", "multipliés", "multipliées"]
     }
   ]
 }
