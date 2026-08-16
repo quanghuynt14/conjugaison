@@ -31588,6 +31588,26 @@
       },
       "participe_present": "tanguant",
       "participe_passe": ["tangué", null, null, null]
+    },
+    {
+      "id": "magner",
+      "infinitif": "magner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me magne » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["magne", "magnes", "magne", "magnons", "magnez", "magnent"],
+        "ind.imp": ["magnais", "magnais", "magnait", "magnions", "magniez", "magnaient"],
+        "ind.ps": ["magnai", "magnas", "magna", "magnâmes", "magnâtes", "magnèrent"],
+        "ind.fut": ["magnerai", "magneras", "magnera", "magnerons", "magnerez", "magneront"],
+        "cond.pres": ["magnerais", "magnerais", "magnerait", "magnerions", "magneriez", "magneraient"],
+        "subj.pres": ["magne", "magnes", "magne", "magnions", "magniez", "magnent"],
+        "subj.imp": ["magnasse", "magnasses", "magnât", "magnassions", "magnassiez", "magnassent"],
+        "imper.pres": ["magne", "magnons", "magnez"]
+      },
+      "participe_present": "magnant",
+      "participe_passe": ["magné", "magnée", "magnés", "magnées"]
     }
   ]
 }
