@@ -13317,6 +13317,24 @@
       },
       "participe_present": "sacrant",
       "participe_passe": ["sacré", "sacrée", "sacrés", "sacrées"]
+    },
+    {
+      "id": "sucer",
+      "infinitif": "sucer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["suce", "suces", "suce", "suçons", "sucez", "sucent"],
+        "ind.imp": ["suçais", "suçais", "suçait", "sucions", "suciez", "suçaient"],
+        "ind.ps": ["suçai", "suças", "suça", "suçâmes", "suçâtes", "sucèrent"],
+        "ind.fut": ["sucerai", "suceras", "sucera", "sucerons", "sucerez", "suceront"],
+        "cond.pres": ["sucerais", "sucerais", "sucerait", "sucerions", "suceriez", "suceraient"],
+        "subj.pres": ["suce", "suces", "suce", "sucions", "suciez", "sucent"],
+        "subj.imp": ["suçasse", "suçasses", "suçât", "suçassions", "suçassiez", "suçassent"],
+        "imper.pres": ["suce", "suçons", "sucez"]
+      },
+      "participe_present": "suçant",
+      "participe_passe": ["sucé", "sucée", "sucés", "sucées"]
     }
   ]
 }
