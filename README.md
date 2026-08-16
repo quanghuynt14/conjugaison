@@ -222,7 +222,7 @@ partagé entre des verbes transitifs et d'autres qui ne le sont pas. La liste
 vient des étiquettes de transitivité de Grammalecte.
 
 **Les notes**, quand il y a quelque chose à dire : une case vide, deux formes
-concurrentes, un auxiliaire qui hésite. **138 verbes sur 1 004** en ont une. Un
+concurrentes, un auxiliaire qui hésite. **135 verbes sur 1 004** en ont une. Un
 verbe régulier n'en reçoit pas ; le tableau en dit déjà plus.
 
 ### Deux sources valent mieux qu'une
