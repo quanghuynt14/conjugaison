@@ -35058,6 +35058,24 @@
       },
       "participe_present": "dénuant",
       "participe_passe": ["dénué", "dénuée", "dénués", "dénuées"]
+    },
+    {
+      "id": "rétracter",
+      "infinitif": "rétracter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rétracte", "rétractes", "rétracte", "rétractons", "rétractez", "rétractent"],
+        "ind.imp": ["rétractais", "rétractais", "rétractait", "rétractions", "rétractiez", "rétractaient"],
+        "ind.ps": ["rétractai", "rétractas", "rétracta", "rétractâmes", "rétractâtes", "rétractèrent"],
+        "ind.fut": ["rétracterai", "rétracteras", "rétractera", "rétracterons", "rétracterez", "rétracteront"],
+        "cond.pres": ["rétracterais", "rétracterais", "rétracterait", "rétracterions", "rétracteriez", "rétracteraient"],
+        "subj.pres": ["rétracte", "rétractes", "rétracte", "rétractions", "rétractiez", "rétractent"],
+        "subj.imp": ["rétractasse", "rétractasses", "rétractât", "rétractassions", "rétractassiez", "rétractassent"],
+        "imper.pres": ["rétracte", "rétractons", "rétractez"]
+      },
+      "participe_present": "rétractant",
+      "participe_passe": ["rétracté", "rétractée", "rétractés", "rétractées"]
     }
   ]
 }
