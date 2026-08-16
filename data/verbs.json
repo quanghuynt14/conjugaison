@@ -28669,6 +28669,25 @@
       },
       "participe_present": "allégeant",
       "participe_passe": ["allégé", "allégée", "allégés", "allégées"]
+    },
+    {
+      "id": "trôner",
+      "infinitif": "trôner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « trôné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["trône", "trônes", "trône", "trônons", "trônez", "trônent"],
+        "ind.imp": ["trônais", "trônais", "trônait", "trônions", "trôniez", "trônaient"],
+        "ind.ps": ["trônai", "trônas", "trôna", "trônâmes", "trônâtes", "trônèrent"],
+        "ind.fut": ["trônerai", "trôneras", "trônera", "trônerons", "trônerez", "trôneront"],
+        "cond.pres": ["trônerais", "trônerais", "trônerait", "trônerions", "trôneriez", "trôneraient"],
+        "subj.pres": ["trône", "trônes", "trône", "trônions", "trôniez", "trônent"],
+        "subj.imp": ["trônasse", "trônasses", "trônât", "trônassions", "trônassiez", "trônassent"],
+        "imper.pres": ["trône", "trônons", "trônez"]
+      },
+      "participe_present": "trônant",
+      "participe_passe": ["trôné", null, null, null]
     }
   ]
 }
