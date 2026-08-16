@@ -27066,6 +27066,24 @@
       },
       "participe_present": "ramant",
       "participe_passe": ["ramé", "ramée", "ramés", "ramées"]
+    },
+    {
+      "id": "éclabousser",
+      "infinitif": "éclabousser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éclabousse", "éclabousses", "éclabousse", "éclaboussons", "éclaboussez", "éclaboussent"],
+        "ind.imp": ["éclaboussais", "éclaboussais", "éclaboussait", "éclaboussions", "éclaboussiez", "éclaboussaient"],
+        "ind.ps": ["éclaboussai", "éclaboussas", "éclaboussa", "éclaboussâmes", "éclaboussâtes", "éclaboussèrent"],
+        "ind.fut": ["éclabousserai", "éclabousseras", "éclaboussera", "éclabousserons", "éclabousserez", "éclabousseront"],
+        "cond.pres": ["éclabousserais", "éclabousserais", "éclabousserait", "éclabousserions", "éclabousseriez", "éclabousseraient"],
+        "subj.pres": ["éclabousse", "éclabousses", "éclabousse", "éclaboussions", "éclaboussiez", "éclaboussent"],
+        "subj.imp": ["éclaboussasse", "éclaboussasses", "éclaboussât", "éclaboussassions", "éclaboussassiez", "éclaboussassent"],
+        "imper.pres": ["éclabousse", "éclaboussons", "éclaboussez"]
+      },
+      "participe_present": "éclaboussant",
+      "participe_passe": ["éclaboussé", "éclaboussée", "éclaboussés", "éclaboussées"]
     }
   ]
 }
