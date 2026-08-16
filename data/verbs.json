@@ -31608,6 +31608,24 @@
       },
       "participe_present": "magnant",
       "participe_passe": ["magné", "magnée", "magnés", "magnées"]
+    },
+    {
+      "id": "scandaliser",
+      "infinitif": "scandaliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["scandalise", "scandalises", "scandalise", "scandalisons", "scandalisez", "scandalisent"],
+        "ind.imp": ["scandalisais", "scandalisais", "scandalisait", "scandalisions", "scandalisiez", "scandalisaient"],
+        "ind.ps": ["scandalisai", "scandalisas", "scandalisa", "scandalisâmes", "scandalisâtes", "scandalisèrent"],
+        "ind.fut": ["scandaliserai", "scandaliseras", "scandalisera", "scandaliserons", "scandaliserez", "scandaliseront"],
+        "cond.pres": ["scandaliserais", "scandaliserais", "scandaliserait", "scandaliserions", "scandaliseriez", "scandaliseraient"],
+        "subj.pres": ["scandalise", "scandalises", "scandalise", "scandalisions", "scandalisiez", "scandalisent"],
+        "subj.imp": ["scandalisasse", "scandalisasses", "scandalisât", "scandalisassions", "scandalisassiez", "scandalisassent"],
+        "imper.pres": ["scandalise", "scandalisons", "scandalisez"]
+      },
+      "participe_present": "scandalisant",
+      "participe_passe": ["scandalisé", "scandalisée", "scandalisés", "scandalisées"]
     }
   ]
 }
