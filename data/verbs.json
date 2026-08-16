@@ -6225,6 +6225,24 @@
       },
       "participe_present": "construisant",
       "participe_passe": ["construit", "construite", "construits", "construites"]
+    },
+    {
+      "id": "accorder",
+      "infinitif": "accorder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accorde", "accordes", "accorde", "accordons", "accordez", "accordent"],
+        "ind.imp": ["accordais", "accordais", "accordait", "accordions", "accordiez", "accordaient"],
+        "ind.ps": ["accordai", "accordas", "accorda", "accordâmes", "accordâtes", "accordèrent"],
+        "ind.fut": ["accorderai", "accorderas", "accordera", "accorderons", "accorderez", "accorderont"],
+        "cond.pres": ["accorderais", "accorderais", "accorderait", "accorderions", "accorderiez", "accorderaient"],
+        "subj.pres": ["accorde", "accordes", "accorde", "accordions", "accordiez", "accordent"],
+        "subj.imp": ["accordasse", "accordasses", "accordât", "accordassions", "accordassiez", "accordassent"],
+        "imper.pres": ["accorde", "accordons", "accordez"]
+      },
+      "participe_present": "accordant",
+      "participe_passe": ["accordé", "accordée", "accordés", "accordées"]
     }
   ]
 }
