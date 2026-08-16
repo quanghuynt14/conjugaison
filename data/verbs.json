@@ -35020,6 +35020,24 @@
       },
       "participe_present": "expérimentant",
       "participe_passe": ["expérimenté", "expérimentée", "expérimentés", "expérimentées"]
+    },
+    {
+      "id": "cabrer",
+      "infinitif": "cabrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cabre", "cabres", "cabre", "cabrons", "cabrez", "cabrent"],
+        "ind.imp": ["cabrais", "cabrais", "cabrait", "cabrions", "cabriez", "cabraient"],
+        "ind.ps": ["cabrai", "cabras", "cabra", "cabrâmes", "cabrâtes", "cabrèrent"],
+        "ind.fut": ["cabrerai", "cabreras", "cabrera", "cabrerons", "cabrerez", "cabreront"],
+        "cond.pres": ["cabrerais", "cabrerais", "cabrerait", "cabrerions", "cabreriez", "cabreraient"],
+        "subj.pres": ["cabre", "cabres", "cabre", "cabrions", "cabriez", "cabrent"],
+        "subj.imp": ["cabrasse", "cabrasses", "cabrât", "cabrassions", "cabrassiez", "cabrassent"],
+        "imper.pres": ["cabre", "cabrons", "cabrez"]
+      },
+      "participe_present": "cabrant",
+      "participe_passe": ["cabré", "cabrée", "cabrés", "cabrées"]
     }
   ]
 }
