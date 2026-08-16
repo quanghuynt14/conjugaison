@@ -33192,6 +33192,24 @@
       },
       "participe_present": "châtiant",
       "participe_passe": ["châtié", "châtiée", "châtiés", "châtiées"]
+    },
+    {
+      "id": "ruser",
+      "infinitif": "ruser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ruse", "ruses", "ruse", "rusons", "rusez", "rusent"],
+        "ind.imp": ["rusais", "rusais", "rusait", "rusions", "rusiez", "rusaient"],
+        "ind.ps": ["rusai", "rusas", "rusa", "rusâmes", "rusâtes", "rusèrent"],
+        "ind.fut": ["ruserai", "ruseras", "rusera", "ruserons", "ruserez", "ruseront"],
+        "cond.pres": ["ruserais", "ruserais", "ruserait", "ruserions", "ruseriez", "ruseraient"],
+        "subj.pres": ["ruse", "ruses", "ruse", "rusions", "rusiez", "rusent"],
+        "subj.imp": ["rusasse", "rusasses", "rusât", "rusassions", "rusassiez", "rusassent"],
+        "imper.pres": ["ruse", "rusons", "rusez"]
+      },
+      "participe_present": "rusant",
+      "participe_passe": ["rusé", "rusée", "rusés", "rusées"]
     }
   ]
 }
