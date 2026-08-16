@@ -15060,6 +15060,24 @@
       },
       "participe_present": "dérobant",
       "participe_passe": ["dérobé", "dérobée", "dérobés", "dérobées"]
+    },
+    {
+      "id": "abuser",
+      "infinitif": "abuser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["abuse", "abuses", "abuse", "abusons", "abusez", "abusent"],
+        "ind.imp": ["abusais", "abusais", "abusait", "abusions", "abusiez", "abusaient"],
+        "ind.ps": ["abusai", "abusas", "abusa", "abusâmes", "abusâtes", "abusèrent"],
+        "ind.fut": ["abuserai", "abuseras", "abusera", "abuserons", "abuserez", "abuseront"],
+        "cond.pres": ["abuserais", "abuserais", "abuserait", "abuserions", "abuseriez", "abuseraient"],
+        "subj.pres": ["abuse", "abuses", "abuse", "abusions", "abusiez", "abusent"],
+        "subj.imp": ["abusasse", "abusasses", "abusât", "abusassions", "abusassiez", "abusassent"],
+        "imper.pres": ["abuse", "abusons", "abusez"]
+      },
+      "participe_present": "abusant",
+      "participe_passe": ["abusé", "abusée", "abusés", "abusées"]
     }
   ]
 }
