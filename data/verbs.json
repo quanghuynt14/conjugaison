@@ -22670,6 +22670,24 @@
       },
       "participe_present": "filtrant",
       "participe_passe": ["filtré", "filtrée", "filtrés", "filtrées"]
+    },
+    {
+      "id": "bousiller",
+      "infinitif": "bousiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bousille", "bousilles", "bousille", "bousillons", "bousillez", "bousillent"],
+        "ind.imp": ["bousillais", "bousillais", "bousillait", "bousillions", "bousilliez", "bousillaient"],
+        "ind.ps": ["bousillai", "bousillas", "bousilla", "bousillâmes", "bousillâtes", "bousillèrent"],
+        "ind.fut": ["bousillerai", "bousilleras", "bousillera", "bousillerons", "bousillerez", "bousilleront"],
+        "cond.pres": ["bousillerais", "bousillerais", "bousillerait", "bousillerions", "bousilleriez", "bousilleraient"],
+        "subj.pres": ["bousille", "bousilles", "bousille", "bousillions", "bousilliez", "bousillent"],
+        "subj.imp": ["bousillasse", "bousillasses", "bousillât", "bousillassions", "bousillassiez", "bousillassent"],
+        "imper.pres": ["bousille", "bousillons", "bousillez"]
+      },
+      "participe_present": "bousillant",
+      "participe_passe": ["bousillé", "bousillée", "bousillés", "bousillées"]
     }
   ]
 }
