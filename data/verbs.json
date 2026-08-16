@@ -10938,6 +10938,24 @@
       },
       "participe_present": "persuadant",
       "participe_passe": ["persuadé", "persuadée", "persuadés", "persuadées"]
+    },
+    {
+      "id": "enfiler",
+      "infinitif": "enfiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enfile", "enfiles", "enfile", "enfilons", "enfilez", "enfilent"],
+        "ind.imp": ["enfilais", "enfilais", "enfilait", "enfilions", "enfiliez", "enfilaient"],
+        "ind.ps": ["enfilai", "enfilas", "enfila", "enfilâmes", "enfilâtes", "enfilèrent"],
+        "ind.fut": ["enfilerai", "enfileras", "enfilera", "enfilerons", "enfilerez", "enfileront"],
+        "cond.pres": ["enfilerais", "enfilerais", "enfilerait", "enfilerions", "enfileriez", "enfileraient"],
+        "subj.pres": ["enfile", "enfiles", "enfile", "enfilions", "enfiliez", "enfilent"],
+        "subj.imp": ["enfilasse", "enfilasses", "enfilât", "enfilassions", "enfilassiez", "enfilassent"],
+        "imper.pres": ["enfile", "enfilons", "enfilez"]
+      },
+      "participe_present": "enfilant",
+      "participe_passe": ["enfilé", "enfilée", "enfilés", "enfilées"]
     }
   ]
 }
