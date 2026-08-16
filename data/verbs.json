@@ -25735,6 +25735,24 @@
       },
       "participe_present": "trottant",
       "participe_passe": ["trotté", null, null, null]
+    },
+    {
+      "id": "sceller",
+      "infinitif": "sceller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["scelle", "scelles", "scelle", "scellons", "scellez", "scellent"],
+        "ind.imp": ["scellais", "scellais", "scellait", "scellions", "scelliez", "scellaient"],
+        "ind.ps": ["scellai", "scellas", "scella", "scellâmes", "scellâtes", "scellèrent"],
+        "ind.fut": ["scellerai", "scelleras", "scellera", "scellerons", "scellerez", "scelleront"],
+        "cond.pres": ["scellerais", "scellerais", "scellerait", "scellerions", "scelleriez", "scelleraient"],
+        "subj.pres": ["scelle", "scelles", "scelle", "scellions", "scelliez", "scellent"],
+        "subj.imp": ["scellasse", "scellasses", "scellât", "scellassions", "scellassiez", "scellassent"],
+        "imper.pres": ["scelle", "scellons", "scellez"]
+      },
+      "participe_present": "scellant",
+      "participe_passe": ["scellé", "scellée", "scellés", "scellées"]
     }
   ]
 }
