@@ -8127,6 +8127,24 @@
       },
       "participe_present": "examinant",
       "participe_passe": ["examiné", "examinée", "examinés", "examinées"]
+    },
+    {
+      "id": "distinguer",
+      "infinitif": "distinguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["distingue", "distingues", "distingue", "distinguons", "distinguez", "distinguent"],
+        "ind.imp": ["distinguais", "distinguais", "distinguait", "distinguions", "distinguiez", "distinguaient"],
+        "ind.ps": ["distinguai", "distinguas", "distingua", "distinguâmes", "distinguâtes", "distinguèrent"],
+        "ind.fut": ["distinguerai", "distingueras", "distinguera", "distinguerons", "distinguerez", "distingueront"],
+        "cond.pres": ["distinguerais", "distinguerais", "distinguerait", "distinguerions", "distingueriez", "distingueraient"],
+        "subj.pres": ["distingue", "distingues", "distingue", "distinguions", "distinguiez", "distinguent"],
+        "subj.imp": ["distinguasse", "distinguasses", "distinguât", "distinguassions", "distinguassiez", "distinguassent"],
+        "imper.pres": ["distingue", "distinguons", "distinguez"]
+      },
+      "participe_present": "distinguant",
+      "participe_passe": ["distingué", "distinguée", "distingués", "distinguées"]
     }
   ]
 }
