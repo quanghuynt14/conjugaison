@@ -8579,6 +8579,24 @@
       },
       "participe_present": "parfaisant",
       "participe_passe": ["parfait", "parfaite", "parfaits", "parfaites"]
+    },
+    {
+      "id": "rapprocher",
+      "infinitif": "rapprocher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rapproche", "rapproches", "rapproche", "rapprochons", "rapprochez", "rapprochent"],
+        "ind.imp": ["rapprochais", "rapprochais", "rapprochait", "rapprochions", "rapprochiez", "rapprochaient"],
+        "ind.ps": ["rapprochai", "rapprochas", "rapprocha", "rapprochâmes", "rapprochâtes", "rapprochèrent"],
+        "ind.fut": ["rapprocherai", "rapprocheras", "rapprochera", "rapprocherons", "rapprocherez", "rapprocheront"],
+        "cond.pres": ["rapprocherais", "rapprocherais", "rapprocherait", "rapprocherions", "rapprocheriez", "rapprocheraient"],
+        "subj.pres": ["rapproche", "rapproches", "rapproche", "rapprochions", "rapprochiez", "rapprochent"],
+        "subj.imp": ["rapprochasse", "rapprochasses", "rapprochât", "rapprochassions", "rapprochassiez", "rapprochassent"],
+        "imper.pres": ["rapproche", "rapprochons", "rapprochez"]
+      },
+      "participe_present": "rapprochant",
+      "participe_passe": ["rapproché", "rapprochée", "rapprochés", "rapprochées"]
     }
   ]
 }
