@@ -6659,6 +6659,24 @@
       },
       "participe_present": "convenant",
       "participe_passe": ["convenu", "convenue", "convenus", "convenues"]
+    },
+    {
+      "id": "souffler",
+      "infinitif": "souffler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["souffle", "souffles", "souffle", "soufflons", "soufflez", "soufflent"],
+        "ind.imp": ["soufflais", "soufflais", "soufflait", "soufflions", "souffliez", "soufflaient"],
+        "ind.ps": ["soufflai", "soufflas", "souffla", "soufflâmes", "soufflâtes", "soufflèrent"],
+        "ind.fut": ["soufflerai", "souffleras", "soufflera", "soufflerons", "soufflerez", "souffleront"],
+        "cond.pres": ["soufflerais", "soufflerais", "soufflerait", "soufflerions", "souffleriez", "souffleraient"],
+        "subj.pres": ["souffle", "souffles", "souffle", "soufflions", "souffliez", "soufflent"],
+        "subj.imp": ["soufflasse", "soufflasses", "soufflât", "soufflassions", "soufflassiez", "soufflassent"],
+        "imper.pres": ["souffle", "soufflons", "soufflez"]
+      },
+      "participe_present": "soufflant",
+      "participe_passe": ["soufflé", "soufflée", "soufflés", "soufflées"]
     }
   ]
 }
