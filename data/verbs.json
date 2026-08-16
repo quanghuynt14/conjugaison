@@ -14555,6 +14555,25 @@
       },
       "participe_present": "agaçant",
       "participe_passe": ["agacé", "agacée", "agacés", "agacées"]
+    },
+    {
+      "id": "résonner",
+      "infinitif": "résonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « résonné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["résonne", "résonnes", "résonne", "résonnons", "résonnez", "résonnent"],
+        "ind.imp": ["résonnais", "résonnais", "résonnait", "résonnions", "résonniez", "résonnaient"],
+        "ind.ps": ["résonnai", "résonnas", "résonna", "résonnâmes", "résonnâtes", "résonnèrent"],
+        "ind.fut": ["résonnerai", "résonneras", "résonnera", "résonnerons", "résonnerez", "résonneront"],
+        "cond.pres": ["résonnerais", "résonnerais", "résonnerait", "résonnerions", "résonneriez", "résonneraient"],
+        "subj.pres": ["résonne", "résonnes", "résonne", "résonnions", "résonniez", "résonnent"],
+        "subj.imp": ["résonnasse", "résonnasses", "résonnât", "résonnassions", "résonnassiez", "résonnassent"],
+        "imper.pres": ["résonne", "résonnons", "résonnez"]
+      },
+      "participe_present": "résonnant",
+      "participe_passe": ["résonné", null, null, null]
     }
   ]
 }
