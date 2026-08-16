@@ -13772,6 +13772,25 @@
       },
       "participe_present": "rongeant",
       "participe_passe": ["rongé", "rongée", "rongés", "rongées"]
+    },
+    {
+      "id": "redescendre",
+      "infinitif": "redescendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis redescendu ». Avec un complément d'objet direct, avoir : « j'ai redescendu les valises ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["redescends", "redescends", "redescend", "redescendons", "redescendez", "redescendent"],
+        "ind.imp": ["redescendais", "redescendais", "redescendait", "redescendions", "redescendiez", "redescendaient"],
+        "ind.ps": ["redescendis", "redescendis", "redescendit", "redescendîmes", "redescendîtes", "redescendirent"],
+        "ind.fut": ["redescendrai", "redescendras", "redescendra", "redescendrons", "redescendrez", "redescendront"],
+        "cond.pres": ["redescendrais", "redescendrais", "redescendrait", "redescendrions", "redescendriez", "redescendraient"],
+        "subj.pres": ["redescende", "redescendes", "redescende", "redescendions", "redescendiez", "redescendent"],
+        "subj.imp": ["redescendisse", "redescendisses", "redescendît", "redescendissions", "redescendissiez", "redescendissent"],
+        "imper.pres": ["redescends", "redescendons", "redescendez"]
+      },
+      "participe_present": "redescendant",
+      "participe_passe": ["redescendu", "redescendue", "redescendus", "redescendues"]
     }
   ]
 }
