@@ -18413,6 +18413,24 @@
       },
       "participe_present": "feuilletant",
       "participe_passe": ["feuilleté", "feuilletée", "feuilletés", "feuilletées"]
+    },
+    {
+      "id": "éblouir",
+      "infinitif": "éblouir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éblouis", "éblouis", "éblouit", "éblouissons", "éblouissez", "éblouissent"],
+        "ind.imp": ["éblouissais", "éblouissais", "éblouissait", "éblouissions", "éblouissiez", "éblouissaient"],
+        "ind.ps": ["éblouis", "éblouis", "éblouit", "éblouîmes", "éblouîtes", "éblouirent"],
+        "ind.fut": ["éblouirai", "éblouiras", "éblouira", "éblouirons", "éblouirez", "éblouiront"],
+        "cond.pres": ["éblouirais", "éblouirais", "éblouirait", "éblouirions", "éblouiriez", "éblouiraient"],
+        "subj.pres": ["éblouisse", "éblouisses", "éblouisse", "éblouissions", "éblouissiez", "éblouissent"],
+        "subj.imp": ["éblouisse", "éblouisses", "éblouît", "éblouissions", "éblouissiez", "éblouissent"],
+        "imper.pres": ["éblouis", "éblouissons", "éblouissez"]
+      },
+      "participe_present": "éblouissant",
+      "participe_passe": ["ébloui", "éblouie", "éblouis", "éblouies"]
     }
   ]
 }
