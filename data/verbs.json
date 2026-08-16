@@ -33503,6 +33503,25 @@
       },
       "participe_present": "ternissant",
       "participe_passe": ["terni", "ternie", "ternis", "ternies"]
+    },
+    {
+      "id": "téter",
+      "infinitif": "téter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je téterai » ou « je tèterai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["tète", "tètes", "tète", "tétons", "tétez", "tètent"],
+        "ind.imp": ["tétais", "tétais", "tétait", "tétions", "tétiez", "tétaient"],
+        "ind.ps": ["tétai", "tétas", "téta", "tétâmes", "tétâtes", "tétèrent"],
+        "ind.fut": [["téterai", "tèterai"], ["téteras", "tèteras"], ["tétera", "tètera"], ["téterons", "tèterons"], ["téterez", "tèterez"], ["téteront", "tèteront"]],
+        "cond.pres": [["téterais", "tèterais"], ["téterais", "tèterais"], ["téterait", "tèterait"], ["téterions", "tèterions"], ["téteriez", "tèteriez"], ["téteraient", "tèteraient"]],
+        "subj.pres": ["tète", "tètes", "tète", "tétions", "tétiez", "tètent"],
+        "subj.imp": ["tétasse", "tétasses", "tétât", "tétassions", "tétassiez", "tétassent"],
+        "imper.pres": ["tète", "tétons", "tétez"]
+      },
+      "participe_present": "tétant",
+      "participe_passe": ["tété", "tétée", "tétés", "tétées"]
     }
   ]
 }
