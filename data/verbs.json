@@ -12791,6 +12791,24 @@
       },
       "participe_present": "découpant",
       "participe_passe": ["découpé", "découpée", "découpés", "découpées"]
+    },
+    {
+      "id": "insulter",
+      "infinitif": "insulter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["insulte", "insultes", "insulte", "insultons", "insultez", "insultent"],
+        "ind.imp": ["insultais", "insultais", "insultait", "insultions", "insultiez", "insultaient"],
+        "ind.ps": ["insultai", "insultas", "insulta", "insultâmes", "insultâtes", "insultèrent"],
+        "ind.fut": ["insulterai", "insulteras", "insultera", "insulterons", "insulterez", "insulteront"],
+        "cond.pres": ["insulterais", "insulterais", "insulterait", "insulterions", "insulteriez", "insulteraient"],
+        "subj.pres": ["insulte", "insultes", "insulte", "insultions", "insultiez", "insultent"],
+        "subj.imp": ["insultasse", "insultasses", "insultât", "insultassions", "insultassiez", "insultassent"],
+        "imper.pres": ["insulte", "insultons", "insultez"]
+      },
+      "participe_present": "insultant",
+      "participe_passe": ["insulté", "insultée", "insultés", "insultées"]
     }
   ]
 }
