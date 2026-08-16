@@ -13064,6 +13064,24 @@
       },
       "participe_present": "filmant",
       "participe_passe": ["filmé", "filmée", "filmés", "filmées"]
+    },
+    {
+      "id": "apaiser",
+      "infinitif": "apaiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["apaise", "apaises", "apaise", "apaisons", "apaisez", "apaisent"],
+        "ind.imp": ["apaisais", "apaisais", "apaisait", "apaisions", "apaisiez", "apaisaient"],
+        "ind.ps": ["apaisai", "apaisas", "apaisa", "apaisâmes", "apaisâtes", "apaisèrent"],
+        "ind.fut": ["apaiserai", "apaiseras", "apaisera", "apaiserons", "apaiserez", "apaiseront"],
+        "cond.pres": ["apaiserais", "apaiserais", "apaiserait", "apaiserions", "apaiseriez", "apaiseraient"],
+        "subj.pres": ["apaise", "apaises", "apaise", "apaisions", "apaisiez", "apaisent"],
+        "subj.imp": ["apaisasse", "apaisasses", "apaisât", "apaisassions", "apaisassiez", "apaisassent"],
+        "imper.pres": ["apaise", "apaisons", "apaisez"]
+      },
+      "participe_present": "apaisant",
+      "participe_passe": ["apaisé", "apaisée", "apaisés", "apaisées"]
     }
   ]
 }
