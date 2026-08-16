@@ -36333,6 +36333,24 @@
       },
       "participe_present": "conjuguant",
       "participe_passe": ["conjugué", "conjuguée", "conjugués", "conjuguées"]
+    },
+    {
+      "id": "dépanner",
+      "infinitif": "dépanner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dépanne", "dépannes", "dépanne", "dépannons", "dépannez", "dépannent"],
+        "ind.imp": ["dépannais", "dépannais", "dépannait", "dépannions", "dépanniez", "dépannaient"],
+        "ind.ps": ["dépannai", "dépannas", "dépanna", "dépannâmes", "dépannâtes", "dépannèrent"],
+        "ind.fut": ["dépannerai", "dépanneras", "dépannera", "dépannerons", "dépannerez", "dépanneront"],
+        "cond.pres": ["dépannerais", "dépannerais", "dépannerait", "dépannerions", "dépanneriez", "dépanneraient"],
+        "subj.pres": ["dépanne", "dépannes", "dépanne", "dépannions", "dépanniez", "dépannent"],
+        "subj.imp": ["dépannasse", "dépannasses", "dépannât", "dépannassions", "dépannassiez", "dépannassent"],
+        "imper.pres": ["dépanne", "dépannons", "dépannez"]
+      },
+      "participe_present": "dépannant",
+      "participe_passe": ["dépanné", "dépannée", "dépannés", "dépannées"]
     }
   ]
 }
