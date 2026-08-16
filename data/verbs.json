@@ -16495,6 +16495,24 @@
       },
       "participe_present": "piégeant",
       "participe_passe": ["piégé", "piégée", "piégés", "piégées"]
+    },
+    {
+      "id": "ménager",
+      "infinitif": "ménager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ménage", "ménages", "ménage", "ménageons", "ménagez", "ménagent"],
+        "ind.imp": ["ménageais", "ménageais", "ménageait", "ménagions", "ménagiez", "ménageaient"],
+        "ind.ps": ["ménageai", "ménageas", "ménagea", "ménageâmes", "ménageâtes", "ménagèrent"],
+        "ind.fut": ["ménagerai", "ménageras", "ménagera", "ménagerons", "ménagerez", "ménageront"],
+        "cond.pres": ["ménagerais", "ménagerais", "ménagerait", "ménagerions", "ménageriez", "ménageraient"],
+        "subj.pres": ["ménage", "ménages", "ménage", "ménagions", "ménagiez", "ménagent"],
+        "subj.imp": ["ménageasse", "ménageasses", "ménageât", "ménageassions", "ménageassiez", "ménageassent"],
+        "imper.pres": ["ménage", "ménageons", "ménagez"]
+      },
+      "participe_present": "ménageant",
+      "participe_passe": ["ménagé", "ménagée", "ménagés", "ménagées"]
     }
   ]
 }
