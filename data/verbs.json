@@ -14736,6 +14736,24 @@
       },
       "participe_present": "atterrissant",
       "participe_passe": ["atterri", "atterrie", "atterris", "atterries"]
+    },
+    {
+      "id": "nouer",
+      "infinitif": "nouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["noue", "noues", "noue", "nouons", "nouez", "nouent"],
+        "ind.imp": ["nouais", "nouais", "nouait", "nouions", "nouiez", "nouaient"],
+        "ind.ps": ["nouai", "nouas", "noua", "nouâmes", "nouâtes", "nouèrent"],
+        "ind.fut": ["nouerai", "noueras", "nouera", "nouerons", "nouerez", "noueront"],
+        "cond.pres": ["nouerais", "nouerais", "nouerait", "nouerions", "noueriez", "noueraient"],
+        "subj.pres": ["noue", "noues", "noue", "nouions", "nouiez", "nouent"],
+        "subj.imp": ["nouasse", "nouasses", "nouât", "nouassions", "nouassiez", "nouassent"],
+        "imper.pres": ["noue", "nouons", "nouez"]
+      },
+      "participe_present": "nouant",
+      "participe_passe": ["noué", "nouée", "noués", "nouées"]
     }
   ]
 }
