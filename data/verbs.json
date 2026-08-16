@@ -11753,6 +11753,24 @@
       },
       "participe_present": "guidant",
       "participe_passe": ["guidé", "guidée", "guidés", "guidées"]
+    },
+    {
+      "id": "tailler",
+      "infinitif": "tailler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["taille", "tailles", "taille", "taillons", "taillez", "taillent"],
+        "ind.imp": ["taillais", "taillais", "taillait", "taillions", "tailliez", "taillaient"],
+        "ind.ps": ["taillai", "taillas", "tailla", "taillâmes", "taillâtes", "taillèrent"],
+        "ind.fut": ["taillerai", "tailleras", "taillera", "taillerons", "taillerez", "tailleront"],
+        "cond.pres": ["taillerais", "taillerais", "taillerait", "taillerions", "tailleriez", "tailleraient"],
+        "subj.pres": ["taille", "tailles", "taille", "taillions", "tailliez", "taillent"],
+        "subj.imp": ["taillasse", "taillasses", "taillât", "taillassions", "taillassiez", "taillassent"],
+        "imper.pres": ["taille", "taillons", "taillez"]
+      },
+      "participe_present": "taillant",
+      "participe_passe": ["taillé", "taillée", "taillés", "taillées"]
     }
   ]
 }
