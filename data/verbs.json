@@ -23616,6 +23616,24 @@
       },
       "participe_present": "aventurant",
       "participe_passe": ["aventuré", "aventurée", "aventurés", "aventurées"]
+    },
+    {
+      "id": "déformer",
+      "infinitif": "déformer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déforme", "déformes", "déforme", "déformons", "déformez", "déforment"],
+        "ind.imp": ["déformais", "déformais", "déformait", "déformions", "déformiez", "déformaient"],
+        "ind.ps": ["déformai", "déformas", "déforma", "déformâmes", "déformâtes", "déformèrent"],
+        "ind.fut": ["déformerai", "déformeras", "déformera", "déformerons", "déformerez", "déformeront"],
+        "cond.pres": ["déformerais", "déformerais", "déformerait", "déformerions", "déformeriez", "déformeraient"],
+        "subj.pres": ["déforme", "déformes", "déforme", "déformions", "déformiez", "déforment"],
+        "subj.imp": ["déformasse", "déformasses", "déformât", "déformassions", "déformassiez", "déformassent"],
+        "imper.pres": ["déforme", "déformons", "déformez"]
+      },
+      "participe_present": "déformant",
+      "participe_passe": ["déformé", "déformée", "déformés", "déformées"]
     }
   ]
 }
