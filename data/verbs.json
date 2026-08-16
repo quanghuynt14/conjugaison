@@ -32428,6 +32428,24 @@
       },
       "participe_present": "dégradant",
       "participe_passe": ["dégradé", "dégradée", "dégradés", "dégradées"]
+    },
+    {
+      "id": "perler",
+      "infinitif": "perler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["perle", "perles", "perle", "perlons", "perlez", "perlent"],
+        "ind.imp": ["perlais", "perlais", "perlait", "perlions", "perliez", "perlaient"],
+        "ind.ps": ["perlai", "perlas", "perla", "perlâmes", "perlâtes", "perlèrent"],
+        "ind.fut": ["perlerai", "perleras", "perlera", "perlerons", "perlerez", "perleront"],
+        "cond.pres": ["perlerais", "perlerais", "perlerait", "perlerions", "perleriez", "perleraient"],
+        "subj.pres": ["perle", "perles", "perle", "perlions", "perliez", "perlent"],
+        "subj.imp": ["perlasse", "perlasses", "perlât", "perlassions", "perlassiez", "perlassent"],
+        "imper.pres": ["perle", "perlons", "perlez"]
+      },
+      "participe_present": "perlant",
+      "participe_passe": ["perlé", "perlée", "perlés", "perlées"]
     }
   ]
 }
