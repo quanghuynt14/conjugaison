@@ -1662,6 +1662,24 @@
       },
       "participe_present": "racontant",
       "participe_passe": ["raconté", "racontée", "racontés", "racontées"]
+    },
+    {
+      "id": "rappeler",
+      "infinitif": "rappeler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rappelle", "rappelles", "rappelle", "rappelons", "rappelez", "rappellent"],
+        "ind.imp": ["rappelais", "rappelais", "rappelait", "rappelions", "rappeliez", "rappelaient"],
+        "ind.ps": ["rappelai", "rappelas", "rappela", "rappelâmes", "rappelâtes", "rappelèrent"],
+        "ind.fut": ["rappellerai", "rappelleras", "rappellera", "rappellerons", "rappellerez", "rappelleront"],
+        "cond.pres": ["rappellerais", "rappellerais", "rappellerait", "rappellerions", "rappelleriez", "rappelleraient"],
+        "subj.pres": ["rappelle", "rappelles", "rappelle", "rappelions", "rappeliez", "rappellent"],
+        "subj.imp": ["rappelasse", "rappelasses", "rappelât", "rappelassions", "rappelassiez", "rappelassent"],
+        "imper.pres": ["rappelle", "rappelons", "rappelez"]
+      },
+      "participe_present": "rappelant",
+      "participe_passe": ["rappelé", "rappelée", "rappelés", "rappelées"]
     }
   ]
 }
