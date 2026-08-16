@@ -31331,6 +31331,24 @@
       },
       "participe_present": "esclaffant",
       "participe_passe": ["esclaffé", "esclaffée", "esclaffés", "esclaffées"]
+    },
+    {
+      "id": "bluffer",
+      "infinitif": "bluffer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bluffe", "bluffes", "bluffe", "bluffons", "bluffez", "bluffent"],
+        "ind.imp": ["bluffais", "bluffais", "bluffait", "bluffions", "bluffiez", "bluffaient"],
+        "ind.ps": ["bluffai", "bluffas", "bluffa", "bluffâmes", "bluffâtes", "bluffèrent"],
+        "ind.fut": ["blufferai", "blufferas", "bluffera", "blufferons", "blufferez", "blufferont"],
+        "cond.pres": ["blufferais", "blufferais", "blufferait", "blufferions", "blufferiez", "blufferaient"],
+        "subj.pres": ["bluffe", "bluffes", "bluffe", "bluffions", "bluffiez", "bluffent"],
+        "subj.imp": ["bluffasse", "bluffasses", "bluffât", "bluffassions", "bluffassiez", "bluffassent"],
+        "imper.pres": ["bluffe", "bluffons", "bluffez"]
+      },
+      "participe_present": "bluffant",
+      "participe_passe": ["bluffé", "bluffée", "bluffés", "bluffées"]
     }
   ]
 }
