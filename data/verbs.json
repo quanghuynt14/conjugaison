@@ -23035,6 +23035,26 @@
       },
       "participe_present": "escortant",
       "participe_passe": ["escorté", "escortée", "escortés", "escortées"]
+    },
+    {
+      "id": "repentir",
+      "infinitif": "repentir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me repens » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["repens", "repens", "repent", "repentons", "repentez", "repentent"],
+        "ind.imp": ["repentais", "repentais", "repentait", "repentions", "repentiez", "repentaient"],
+        "ind.ps": ["repentis", "repentis", "repentit", "repentîmes", "repentîtes", "repentirent"],
+        "ind.fut": ["repentirai", "repentiras", "repentira", "repentirons", "repentirez", "repentiront"],
+        "cond.pres": ["repentirais", "repentirais", "repentirait", "repentirions", "repentiriez", "repentiraient"],
+        "subj.pres": ["repente", "repentes", "repente", "repentions", "repentiez", "repentent"],
+        "subj.imp": ["repentisse", "repentisses", "repentît", "repentissions", "repentissiez", "repentissent"],
+        "imper.pres": ["repens", "repentons", "repentez"]
+      },
+      "participe_present": "repentant",
+      "participe_passe": ["repenti", "repentie", "repentis", "repenties"]
     }
   ]
 }
