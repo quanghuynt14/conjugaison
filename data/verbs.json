@@ -27522,6 +27522,24 @@
       },
       "participe_present": "havant",
       "participe_passe": ["havé", "havée", "havés", "havées"]
+    },
+    {
+      "id": "teinter",
+      "infinitif": "teinter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["teinte", "teintes", "teinte", "teintons", "teintez", "teintent"],
+        "ind.imp": ["teintais", "teintais", "teintait", "teintions", "teintiez", "teintaient"],
+        "ind.ps": ["teintai", "teintas", "teinta", "teintâmes", "teintâtes", "teintèrent"],
+        "ind.fut": ["teinterai", "teinteras", "teintera", "teinterons", "teinterez", "teinteront"],
+        "cond.pres": ["teinterais", "teinterais", "teinterait", "teinterions", "teinteriez", "teinteraient"],
+        "subj.pres": ["teinte", "teintes", "teinte", "teintions", "teintiez", "teintent"],
+        "subj.imp": ["teintasse", "teintasses", "teintât", "teintassions", "teintassiez", "teintassent"],
+        "imper.pres": ["teinte", "teintons", "teintez"]
+      },
+      "participe_present": "teintant",
+      "participe_passe": ["teinté", "teintée", "teintés", "teintées"]
     }
   ]
 }
