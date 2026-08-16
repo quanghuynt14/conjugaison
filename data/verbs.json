@@ -24169,6 +24169,24 @@
       },
       "participe_present": "aménageant",
       "participe_passe": ["aménagé", "aménagée", "aménagés", "aménagées"]
+    },
+    {
+      "id": "affaiblir",
+      "infinitif": "affaiblir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affaiblis", "affaiblis", "affaiblit", "affaiblissons", "affaiblissez", "affaiblissent"],
+        "ind.imp": ["affaiblissais", "affaiblissais", "affaiblissait", "affaiblissions", "affaiblissiez", "affaiblissaient"],
+        "ind.ps": ["affaiblis", "affaiblis", "affaiblit", "affaiblîmes", "affaiblîtes", "affaiblirent"],
+        "ind.fut": ["affaiblirai", "affaibliras", "affaiblira", "affaiblirons", "affaiblirez", "affaibliront"],
+        "cond.pres": ["affaiblirais", "affaiblirais", "affaiblirait", "affaiblirions", "affaibliriez", "affaibliraient"],
+        "subj.pres": ["affaiblisse", "affaiblisses", "affaiblisse", "affaiblissions", "affaiblissiez", "affaiblissent"],
+        "subj.imp": ["affaiblisse", "affaiblisses", "affaiblît", "affaiblissions", "affaiblissiez", "affaiblissent"],
+        "imper.pres": ["affaiblis", "affaiblissons", "affaiblissez"]
+      },
+      "participe_present": "affaiblissant",
+      "participe_passe": ["affaibli", "affaiblie", "affaiblis", "affaiblies"]
     }
   ]
 }
