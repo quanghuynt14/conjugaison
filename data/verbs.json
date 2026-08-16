@@ -17896,6 +17896,24 @@
       },
       "participe_present": "dépouillant",
       "participe_passe": ["dépouillé", "dépouillée", "dépouillés", "dépouillées"]
+    },
+    {
+      "id": "stopper",
+      "infinitif": "stopper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["stoppe", "stoppes", "stoppe", "stoppons", "stoppez", "stoppent"],
+        "ind.imp": ["stoppais", "stoppais", "stoppait", "stoppions", "stoppiez", "stoppaient"],
+        "ind.ps": ["stoppai", "stoppas", "stoppa", "stoppâmes", "stoppâtes", "stoppèrent"],
+        "ind.fut": ["stopperai", "stopperas", "stoppera", "stopperons", "stopperez", "stopperont"],
+        "cond.pres": ["stopperais", "stopperais", "stopperait", "stopperions", "stopperiez", "stopperaient"],
+        "subj.pres": ["stoppe", "stoppes", "stoppe", "stoppions", "stoppiez", "stoppent"],
+        "subj.imp": ["stoppasse", "stoppasses", "stoppât", "stoppassions", "stoppassiez", "stoppassent"],
+        "imper.pres": ["stoppe", "stoppons", "stoppez"]
+      },
+      "participe_present": "stoppant",
+      "participe_passe": ["stoppé", "stoppée", "stoppés", "stoppées"]
     }
   ]
 }
