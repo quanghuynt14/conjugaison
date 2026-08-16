@@ -9176,6 +9176,24 @@
       },
       "participe_present": "ordonnant",
       "participe_passe": ["ordonné", "ordonnée", "ordonnés", "ordonnées"]
+    },
+    {
+      "id": "raser",
+      "infinitif": "raser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rase", "rases", "rase", "rasons", "rasez", "rasent"],
+        "ind.imp": ["rasais", "rasais", "rasait", "rasions", "rasiez", "rasaient"],
+        "ind.ps": ["rasai", "rasas", "rasa", "rasâmes", "rasâtes", "rasèrent"],
+        "ind.fut": ["raserai", "raseras", "rasera", "raserons", "raserez", "raseront"],
+        "cond.pres": ["raserais", "raserais", "raserait", "raserions", "raseriez", "raseraient"],
+        "subj.pres": ["rase", "rases", "rase", "rasions", "rasiez", "rasent"],
+        "subj.imp": ["rasasse", "rasasses", "rasât", "rasassions", "rasassiez", "rasassent"],
+        "imper.pres": ["rase", "rasons", "rasez"]
+      },
+      "participe_present": "rasant",
+      "participe_passe": ["rasé", "rasée", "rasés", "rasées"]
     }
   ]
 }
