@@ -9810,6 +9810,24 @@
       },
       "participe_present": "appliquant",
       "participe_passe": ["appliqué", "appliquée", "appliqués", "appliquées"]
+    },
+    {
+      "id": "employer",
+      "infinitif": "employer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emploie", "emploies", "emploie", "employons", "employez", "emploient"],
+        "ind.imp": ["employais", "employais", "employait", "employions", "employiez", "employaient"],
+        "ind.ps": ["employai", "employas", "employa", "employâmes", "employâtes", "employèrent"],
+        "ind.fut": ["emploierai", "emploieras", "emploiera", "emploierons", "emploierez", "emploieront"],
+        "cond.pres": ["emploierais", "emploierais", "emploierait", "emploierions", "emploieriez", "emploieraient"],
+        "subj.pres": ["emploie", "emploies", "emploie", "employions", "employiez", "emploient"],
+        "subj.imp": ["employasse", "employasses", "employât", "employassions", "employassiez", "employassent"],
+        "imper.pres": ["emploie", "employons", "employez"]
+      },
+      "participe_present": "employant",
+      "participe_passe": ["employé", "employée", "employés", "employées"]
     }
   ]
 }
