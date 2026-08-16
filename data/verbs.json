@@ -28960,6 +28960,24 @@
       },
       "participe_present": "barbouillant",
       "participe_passe": ["barbouillé", "barbouillée", "barbouillés", "barbouillées"]
+    },
+    {
+      "id": "décomposer",
+      "infinitif": "décomposer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décompose", "décomposes", "décompose", "décomposons", "décomposez", "décomposent"],
+        "ind.imp": ["décomposais", "décomposais", "décomposait", "décomposions", "décomposiez", "décomposaient"],
+        "ind.ps": ["décomposai", "décomposas", "décomposa", "décomposâmes", "décomposâtes", "décomposèrent"],
+        "ind.fut": ["décomposerai", "décomposeras", "décomposera", "décomposerons", "décomposerez", "décomposeront"],
+        "cond.pres": ["décomposerais", "décomposerais", "décomposerait", "décomposerions", "décomposeriez", "décomposeraient"],
+        "subj.pres": ["décompose", "décomposes", "décompose", "décomposions", "décomposiez", "décomposent"],
+        "subj.imp": ["décomposasse", "décomposasses", "décomposât", "décomposassions", "décomposassiez", "décomposassent"],
+        "imper.pres": ["décompose", "décomposons", "décomposez"]
+      },
+      "participe_present": "décomposant",
+      "participe_passe": ["décomposé", "décomposée", "décomposés", "décomposées"]
     }
   ]
 }
