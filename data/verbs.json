@@ -18450,6 +18450,24 @@
       },
       "participe_present": "transférant",
       "participe_passe": ["transféré", "transférée", "transférés", "transférées"]
+    },
+    {
+      "id": "capturer",
+      "infinitif": "capturer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["capture", "captures", "capture", "capturons", "capturez", "capturent"],
+        "ind.imp": ["capturais", "capturais", "capturait", "capturions", "capturiez", "capturaient"],
+        "ind.ps": ["capturai", "capturas", "captura", "capturâmes", "capturâtes", "capturèrent"],
+        "ind.fut": ["capturerai", "captureras", "capturera", "capturerons", "capturerez", "captureront"],
+        "cond.pres": ["capturerais", "capturerais", "capturerait", "capturerions", "captureriez", "captureraient"],
+        "subj.pres": ["capture", "captures", "capture", "capturions", "capturiez", "capturent"],
+        "subj.imp": ["capturasse", "capturasses", "capturât", "capturassions", "capturassiez", "capturassent"],
+        "imper.pres": ["capture", "capturons", "capturez"]
+      },
+      "participe_present": "capturant",
+      "participe_passe": ["capturé", "capturée", "capturés", "capturées"]
     }
   ]
 }
