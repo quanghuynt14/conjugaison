@@ -16950,6 +16950,24 @@
       },
       "participe_present": "piétinant",
       "participe_passe": ["piétiné", "piétinée", "piétinés", "piétinées"]
+    },
+    {
+      "id": "vexer",
+      "infinitif": "vexer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vexe", "vexes", "vexe", "vexons", "vexez", "vexent"],
+        "ind.imp": ["vexais", "vexais", "vexait", "vexions", "vexiez", "vexaient"],
+        "ind.ps": ["vexai", "vexas", "vexa", "vexâmes", "vexâtes", "vexèrent"],
+        "ind.fut": ["vexerai", "vexeras", "vexera", "vexerons", "vexerez", "vexeront"],
+        "cond.pres": ["vexerais", "vexerais", "vexerait", "vexerions", "vexeriez", "vexeraient"],
+        "subj.pres": ["vexe", "vexes", "vexe", "vexions", "vexiez", "vexent"],
+        "subj.imp": ["vexasse", "vexasses", "vexât", "vexassions", "vexassiez", "vexassent"],
+        "imper.pres": ["vexe", "vexons", "vexez"]
+      },
+      "participe_present": "vexant",
+      "participe_passe": ["vexé", "vexée", "vexés", "vexées"]
     }
   ]
 }
