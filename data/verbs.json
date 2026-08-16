@@ -7313,6 +7313,24 @@
       },
       "participe_present": "admirant",
       "participe_passe": ["admiré", "admirée", "admirés", "admirées"]
+    },
+    {
+      "id": "concerner",
+      "infinitif": "concerner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["concerne", "concernes", "concerne", "concernons", "concernez", "concernent"],
+        "ind.imp": ["concernais", "concernais", "concernait", "concernions", "concerniez", "concernaient"],
+        "ind.ps": ["concernai", "concernas", "concerna", "concernâmes", "concernâtes", "concernèrent"],
+        "ind.fut": ["concernerai", "concerneras", "concernera", "concernerons", "concernerez", "concerneront"],
+        "cond.pres": ["concernerais", "concernerais", "concernerait", "concernerions", "concerneriez", "concerneraient"],
+        "subj.pres": ["concerne", "concernes", "concerne", "concernions", "concerniez", "concernent"],
+        "subj.imp": ["concernasse", "concernasses", "concernât", "concernassions", "concernassiez", "concernassent"],
+        "imper.pres": ["concerne", "concernons", "concernez"]
+      },
+      "participe_present": "concernant",
+      "participe_passe": ["concerné", "concernée", "concernés", "concernées"]
     }
   ]
 }
