@@ -14028,6 +14028,24 @@
       },
       "participe_present": "pratiquant",
       "participe_passe": ["pratiqué", "pratiquée", "pratiqués", "pratiquées"]
+    },
+    {
+      "id": "réchauffer",
+      "infinitif": "réchauffer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réchauffe", "réchauffes", "réchauffe", "réchauffons", "réchauffez", "réchauffent"],
+        "ind.imp": ["réchauffais", "réchauffais", "réchauffait", "réchauffions", "réchauffiez", "réchauffaient"],
+        "ind.ps": ["réchauffai", "réchauffas", "réchauffa", "réchauffâmes", "réchauffâtes", "réchauffèrent"],
+        "ind.fut": ["réchaufferai", "réchaufferas", "réchauffera", "réchaufferons", "réchaufferez", "réchaufferont"],
+        "cond.pres": ["réchaufferais", "réchaufferais", "réchaufferait", "réchaufferions", "réchaufferiez", "réchaufferaient"],
+        "subj.pres": ["réchauffe", "réchauffes", "réchauffe", "réchauffions", "réchauffiez", "réchauffent"],
+        "subj.imp": ["réchauffasse", "réchauffasses", "réchauffât", "réchauffassions", "réchauffassiez", "réchauffassent"],
+        "imper.pres": ["réchauffe", "réchauffons", "réchauffez"]
+      },
+      "participe_present": "réchauffant",
+      "participe_passe": ["réchauffé", "réchauffée", "réchauffés", "réchauffées"]
     }
   ]
 }
