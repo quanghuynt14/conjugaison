@@ -6695,6 +6695,24 @@
       },
       "participe_present": "prononçant",
       "participe_passe": ["prononcé", "prononcée", "prononcés", "prononcées"]
+    },
+    {
+      "id": "confier",
+      "infinitif": "confier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["confie", "confies", "confie", "confions", "confiez", "confient"],
+        "ind.imp": ["confiais", "confiais", "confiait", "confiions", "confiiez", "confiaient"],
+        "ind.ps": ["confiai", "confias", "confia", "confiâmes", "confiâtes", "confièrent"],
+        "ind.fut": ["confierai", "confieras", "confiera", "confierons", "confierez", "confieront"],
+        "cond.pres": ["confierais", "confierais", "confierait", "confierions", "confieriez", "confieraient"],
+        "subj.pres": ["confie", "confies", "confie", "confiions", "confiiez", "confient"],
+        "subj.imp": ["confiasse", "confiasses", "confiât", "confiassions", "confiassiez", "confiassent"],
+        "imper.pres": ["confie", "confions", "confiez"]
+      },
+      "participe_present": "confiant",
+      "participe_passe": ["confié", "confiée", "confiés", "confiées"]
     }
   ]
 }
