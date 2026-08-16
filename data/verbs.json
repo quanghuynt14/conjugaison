@@ -13299,6 +13299,24 @@
       },
       "participe_present": "cuisant",
       "participe_passe": ["cuit", "cuite", "cuits", "cuites"]
+    },
+    {
+      "id": "sacrer",
+      "infinitif": "sacrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sacre", "sacres", "sacre", "sacrons", "sacrez", "sacrent"],
+        "ind.imp": ["sacrais", "sacrais", "sacrait", "sacrions", "sacriez", "sacraient"],
+        "ind.ps": ["sacrai", "sacras", "sacra", "sacrâmes", "sacrâtes", "sacrèrent"],
+        "ind.fut": ["sacrerai", "sacreras", "sacrera", "sacrerons", "sacrerez", "sacreront"],
+        "cond.pres": ["sacrerais", "sacrerais", "sacrerait", "sacrerions", "sacreriez", "sacreraient"],
+        "subj.pres": ["sacre", "sacres", "sacre", "sacrions", "sacriez", "sacrent"],
+        "subj.imp": ["sacrasse", "sacrasses", "sacrât", "sacrassions", "sacrassiez", "sacrassent"],
+        "imper.pres": ["sacre", "sacrons", "sacrez"]
+      },
+      "participe_present": "sacrant",
+      "participe_passe": ["sacré", "sacrée", "sacrés", "sacrées"]
     }
   ]
 }
