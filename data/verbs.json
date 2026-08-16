@@ -7349,6 +7349,24 @@
       },
       "participe_present": "caressant",
       "participe_passe": ["caressé", "caressée", "caressés", "caressées"]
+    },
+    {
+      "id": "effacer",
+      "infinitif": "effacer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["efface", "effaces", "efface", "effaçons", "effacez", "effacent"],
+        "ind.imp": ["effaçais", "effaçais", "effaçait", "effacions", "effaciez", "effaçaient"],
+        "ind.ps": ["effaçai", "effaças", "effaça", "effaçâmes", "effaçâtes", "effacèrent"],
+        "ind.fut": ["effacerai", "effaceras", "effacera", "effacerons", "effacerez", "effaceront"],
+        "cond.pres": ["effacerais", "effacerais", "effacerait", "effacerions", "effaceriez", "effaceraient"],
+        "subj.pres": ["efface", "effaces", "efface", "effacions", "effaciez", "effacent"],
+        "subj.imp": ["effaçasse", "effaçasses", "effaçât", "effaçassions", "effaçassiez", "effaçassent"],
+        "imper.pres": ["efface", "effaçons", "effacez"]
+      },
+      "participe_present": "effaçant",
+      "participe_passe": ["effacé", "effacée", "effacés", "effacées"]
     }
   ]
 }
