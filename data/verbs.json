@@ -36186,6 +36186,25 @@
       },
       "participe_present": "énonçant",
       "participe_passe": ["énoncé", "énoncée", "énoncés", "énoncées"]
+    },
+    {
+      "id": "rivaliser",
+      "infinitif": "rivaliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « rivalisé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["rivalise", "rivalises", "rivalise", "rivalisons", "rivalisez", "rivalisent"],
+        "ind.imp": ["rivalisais", "rivalisais", "rivalisait", "rivalisions", "rivalisiez", "rivalisaient"],
+        "ind.ps": ["rivalisai", "rivalisas", "rivalisa", "rivalisâmes", "rivalisâtes", "rivalisèrent"],
+        "ind.fut": ["rivaliserai", "rivaliseras", "rivalisera", "rivaliserons", "rivaliserez", "rivaliseront"],
+        "cond.pres": ["rivaliserais", "rivaliserais", "rivaliserait", "rivaliserions", "rivaliseriez", "rivaliseraient"],
+        "subj.pres": ["rivalise", "rivalises", "rivalise", "rivalisions", "rivalisiez", "rivalisent"],
+        "subj.imp": ["rivalisasse", "rivalisasses", "rivalisât", "rivalisassions", "rivalisassiez", "rivalisassent"],
+        "imper.pres": ["rivalise", "rivalisons", "rivalisez"]
+      },
+      "participe_present": "rivalisant",
+      "participe_passe": ["rivalisé", null, null, null]
     }
   ]
 }
