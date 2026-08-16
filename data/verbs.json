@@ -22688,6 +22688,26 @@
       },
       "participe_present": "bousillant",
       "participe_passe": ["bousillé", "bousillée", "bousillés", "bousillées"]
+    },
+    {
+      "id": "affairer",
+      "infinitif": "affairer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’affaire » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["affaire", "affaires", "affaire", "affairons", "affairez", "affairent"],
+        "ind.imp": ["affairais", "affairais", "affairait", "affairions", "affairiez", "affairaient"],
+        "ind.ps": ["affairai", "affairas", "affaira", "affairâmes", "affairâtes", "affairèrent"],
+        "ind.fut": ["affairerai", "affaireras", "affairera", "affairerons", "affairerez", "affaireront"],
+        "cond.pres": ["affairerais", "affairerais", "affairerait", "affairerions", "affaireriez", "affaireraient"],
+        "subj.pres": ["affaire", "affaires", "affaire", "affairions", "affairiez", "affairent"],
+        "subj.imp": ["affairasse", "affairasses", "affairât", "affairassions", "affairassiez", "affairassent"],
+        "imper.pres": ["affaire", "affairons", "affairez"]
+      },
+      "participe_present": "affairant",
+      "participe_passe": ["affairé", "affairée", "affairés", "affairées"]
     }
   ]
 }
