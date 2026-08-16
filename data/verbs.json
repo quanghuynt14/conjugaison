@@ -15006,6 +15006,24 @@
       },
       "participe_present": "alignant",
       "participe_passe": ["aligné", "alignée", "alignés", "alignées"]
+    },
+    {
+      "id": "pincer",
+      "infinitif": "pincer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pince", "pinces", "pince", "pinçons", "pincez", "pincent"],
+        "ind.imp": ["pinçais", "pinçais", "pinçait", "pincions", "pinciez", "pinçaient"],
+        "ind.ps": ["pinçai", "pinças", "pinça", "pinçâmes", "pinçâtes", "pincèrent"],
+        "ind.fut": ["pincerai", "pinceras", "pincera", "pincerons", "pincerez", "pinceront"],
+        "cond.pres": ["pincerais", "pincerais", "pincerait", "pincerions", "pinceriez", "pinceraient"],
+        "subj.pres": ["pince", "pinces", "pince", "pincions", "pinciez", "pincent"],
+        "subj.imp": ["pinçasse", "pinçasses", "pinçât", "pinçassions", "pinçassiez", "pinçassent"],
+        "imper.pres": ["pince", "pinçons", "pincez"]
+      },
+      "participe_present": "pinçant",
+      "participe_passe": ["pincé", "pincée", "pincés", "pincées"]
     }
   ]
 }
