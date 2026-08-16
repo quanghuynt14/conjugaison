@@ -1,7 +1,7 @@
 # Conjugaison — une conjugaison inversée pour macOS
 
-Preuve de concept. Vous sélectionnez `vis` dans n'importe quelle application,
-vous faites ⌃⌘D, et la page s'ouvre sur ceci :
+Vous sélectionnez `vis` dans n'importe quelle application, vous faites ⌃⌘D, et
+la page s'ouvre sur ceci :
 
 ***vivre***
 
@@ -21,8 +21,8 @@ vous faites ⌃⌘D, et la page s'ouvre sur ceci :
 Puis la conjugaison complète de *vivre* et de *voir*, les cases d'où vient la
 forme surlignées.
 
-Quatre verbes : **faire**, **avoir**, **vivre**, **voir**. 162 formes,
-564 analyses.
+**1 004 verbes** : les mille plus fréquents du français, plus les quatre écrits
+à la main avant que l'import existe. 38 917 formes, 96 435 analyses.
 
 ## Essayer
 
@@ -31,7 +31,8 @@ Le dictionnaire est compilé et installé. Il reste à le cocher :
 1. Ouvrez **Dictionary.app**.
 2. **Dictionnaire › Réglages** (⌘,).
 3. Cochez **Conjugaison**, et montez-le en tête si vous voulez.
-4. Cherchez `vis`, puis `fasse`, puis `faites`.
+4. Cherchez `vis`, puis `fasse`, puis `faites`. Puis `souviens`, `faut`,
+   `paye`, `pris`.
 
 Sans ouvrir l'app :
 
@@ -143,9 +144,13 @@ et muet sur les quarante-cinq cases où la forme travaille — alors que celui q
 sélectionne `vécu` l'a presque toujours lu dans « j'ai vécu ». Son tableau fait
 maintenant 46 lignes.
 
-`ai` est la trouvaille. Il ouvre **quatre** tableaux : avoir, où il est le
-présent puis l'auxiliaire du passé composé, et faire, vivre, voir, où il n'est
-que l'auxiliaire. Le dictionnaire ne disait nulle part qu'`ai` est un auxiliaire.
+`ai` était la trouvaille. À quatre verbes, il ouvrait **quatre** tableaux :
+avoir, où il est le présent puis l'auxiliaire du passé composé, et faire,
+vivre, voir, où il n'est que l'auxiliaire. Le dictionnaire ne disait nulle part
+qu'`ai` est un auxiliaire.
+
+À mille verbes, il en ouvre **neuf cent cinquante-six** — sept mégaoctets, la
+même ligne recopiée. Voir plus bas ce qu'on en a fait.
 
 Ces lignes ne sont pas groupées à part : elles prennent leur rang dans l'ordre
 des temps, comme les autres. Pour `vécu`, `Participe passé` arrive donc en
@@ -159,9 +164,10 @@ perd. Sur quarante-six lignes, l'œil trouve la bonne sans lire la colonne des
 temps. `check.py` exige par ailleurs qu'aucune entrée ne soit faite que de lignes
 citées : une clé est d'abord une forme.
 
-Le nombre de clés, lui, ne bouge pas — 162 avant, 162 après. Une case composée
-ne cite que des formes déjà indexées. On ajoute des lignes, jamais des entrées,
-et « ai fait » reste introuvable en tant que tel.
+Le nombre de clés, lui, ne bouge pas — 162 avant, 162 après, sur les quatre
+verbes d'alors. Une case composée ne cite que des formes déjà indexées. On
+ajoute des lignes, jamais des entrées, et « ai fait » reste introuvable en tant
+que tel.
 
 ### Les accents se plient, et c'est voulu
 
@@ -173,6 +179,117 @@ L'effet de bord : `fit` ramène deux entrées, `fit` et `fît`. Le passé simple
 le subjonctif imparfait de *faire*, côte à côte. Utile. Même chose pour `eut` /
 `eût` et `vit` / `vît`. `verify_lookup.py` l'autorise explicitement : une seule
 entrée **exacte**, et les autres doivent être la même forme aux accents près.
+
+## Mille verbes, et d'où ils viennent
+
+Quatre verbes s'écrivent à la main. Mille, non : ce sont mille occasions de se
+tromper d'un accent circonflexe. Ils viennent de deux sources citables, et
+`scripts/import_verbs.py` n'invente rien entre les deux.
+
+**Verbiste** (Pierre Sarrazin, GPL) donne les formes : 146 modèles de
+terminaisons, et chaque verbe rattaché au sien. `parler` plus le modèle `aim:er`
+donne `je parle`. C'est la méthode d'un Bescherelle — un tableau, un renvoi. On
+le prend chez [verbecc](https://github.com/bretttolbert/verbecc), qui
+l'entretient.
+
+**Lexique 3.83** (New & Pallier) donne l'ordre, et « les mille plus fréquents »
+veut dire quelque chose de précis : la moyenne des fréquences par lemme dans les
+sous-titres de films et dans les livres, par million de mots. Le classement est
+versionné dans `data/frequence.txt` — mille imports n'ont pas à relire
+vingt-cinq mégaoctets chacun.
+
+Le premier essai a porté sur les quatre verbes déjà écrits : l'import devait les
+retrouver **case pour case**. Zéro écart. C'est ce qui a autorisé les mille
+suivants, et `import_verbs.py --verifie` le rejoue sur les 1 004.
+
+### Ce que les sources ne disent pas
+
+Quatre tables, en toutes lettres dans le script pour qu'on puisse les discuter.
+
+**L'auxiliaire**, que Verbiste ne donne pas. La liste des verbes qui prennent
+`être` est fermée — mouvement, changement d'état, et tous les pronominaux. Onze
+prennent les deux, selon qu'ils ont un complément d'objet : « je suis sorti »,
+mais « j'ai sorti la poubelle ». Leur note le dit avec l'exemple.
+
+**Les seize verbes essentiellement pronominaux.** « je souviens » ne se dit pas.
+Le lemme s'écrit *se souvenir*, se range à *souvenir*, et la conjugaison porte
+le pronom : `je me souviens`, `souviens-toi`, `je me suis souvenu`.
+
+**Les soixante-trois participes invariables.** Un modèle Verbiste décline les
+quatre accords, parce qu'un modèle est un jeu de terminaisons ; mais « j'ai
+dormi » ne donnera jamais « dormie ». Le modèle ne peut pas le savoir — il est
+partagé entre des verbes transitifs et d'autres qui ne le sont pas. La liste
+vient des étiquettes de transitivité de Grammalecte.
+
+**Les notes**, quand il y a quelque chose à dire : une case vide, deux formes
+concurrentes, un auxiliaire qui hésite. **138 verbes sur 1 004** en ont une. Un
+verbe régulier n'en reçoit pas ; le tableau en dit déjà plus.
+
+### Deux sources valent mieux qu'une
+
+Verbiste donne les formes par modèle, Lexique les donne une par une avec leur
+étiquette. Les croiser est le seul contrôle qui vaille sur des données qu'on n'a
+pas écrites. Il faut trier — Lexique mélange les homographes et propose `pincer`
+comme deuxième personne du pluriel de *pouvoir* — mais deux écarts réels sont
+ressortis du bruit.
+
+**Sept participes** étaient donnés invariables à tort : la règle du complément
+d'objet oubliait l'accord par le sujet et l'emploi adjectival. « La revue est
+parue », « les terres émergées », « un projet abouti ».
+
+**Deux modèles** ne donnaient qu'une graphie du futur là où la langue en admet
+deux. Verbiste note « je céderai ou je cèderai » pour huit modèles en `é_er`,
+mais ne connaît que « je protègerai », et que « je sécherai ». La manquante est
+rétablie, l'ancienne devant, comme dans les modèles voisins.
+
+### Ce qu'un verbe irrégulier apprend à un générateur
+
+Le générateur avait quatre verbes réguliers pour toute expérience, et en avait
+tiré quatre conclusions fausses.
+
+**Une case peut être vide.** Un temps composé se construisait sur les six
+personnes de l'auxiliaire : le passé composé de *falloir* donnait « j'ai
+fallu ». C'est le verbe qui décide des cases, pas l'auxiliaire — « il faut » au
+présent, donc « il a fallu » et rien d'autre. La case absente s'écrit `null`, et
+la page imprime *n'existe pas* plutôt qu'un blanc, qui se lirait comme un oubli.
+
+**Une case peut avoir deux formes.** « je paie » et « je paye » sont toutes deux
+correctes. La case en porte la liste, la ligne les montre ensemble, les deux
+mots sont cherchables : une case, une ligne, une surbrillance.
+
+**Le participe s'accorde quand l'auxiliaire est `être`.** « nous sommes monté »
+n'est pas du français. Avec `avoir` il ne s'accorde pas ici — il ne le ferait
+qu'avec un complément d'objet direct placé devant, et un tableau n'en a aucun.
+
+**Un verbe peut n'exister qu'avec son pronom**, qui suit l'élision comme le
+reste (`je m'évanouis`) et passe derrière à l'impératif (`souviens-toi`).
+L'impératif passé disparaît : « sois-toi souvenu » ne se dit pas non plus.
+
+Et `pris` est le masculin singulier **et** le masculin pluriel de *prendre* : la
+même forme dans deux cases. Le tableau ne montrant plus l'accord, les deux
+lignes étaient identiques — une seule ligne désormais, mais les deux cases
+surlignées.
+
+### Ce que l'échelle a repris
+
+Deux règles justes à quatre verbes deviennent fausses à mille.
+
+`tu` est le participe passé de *taire*. C'est aussi le mot que le générateur
+écrit devant chaque case composée, et les citations se cherchaient dans la case
+entière : l'entrée `tu` ouvrait **mille tableaux** pour dire que « tu as pris »
+contient « tu ». On ne cherche plus que dans la partie verbale de la case —
+`as pris`, jamais le sujet qu'on vient d'ajouter.
+
+Et un verbe dont **toutes** les lignes sont citées ne possède pas la forme : il
+la tient de son auxiliaire. Ces verbes-là ne sortent plus leur conjugaison ; une
+phrase les compte, en tête de l'entrée, avec trois exemples :
+
+> **Auxiliaire** : cette forme construit aussi les temps composés de 957 autres
+> verbes du dictionnaire — « il a abandonné », « il a abattu », « il a
+> abordé »…
+
+`vécu` ne bouge pas : ses quarante-six lignes sont dans le tableau de *vivre*,
+et *vivre* possède la forme. L'entrée `a` passe de **7 Mo à 7 ko**.
 
 ## Réinstaller par-dessus casse la fenêtre de consultation
 
@@ -268,7 +385,8 @@ trois répondent.
 Le Multidictionnaire est excellent, mais il répond en lexicographe — la
 prononciation, les sens, les emplois. Il ne vous dit pas *quelle personne de
 quel temps* vous avez sous les yeux. C'est le seul trou que celui-ci remplit,
-et il vaut la peine d'être pesé avant d'encoder six mille verbes.
+et c'est ce qui décidait s'il valait la peine d'encoder mille verbes. Il les a
+maintenant ; les six mille autres coûtent le même geste, répété.
 
 ## Construire
 
@@ -276,6 +394,7 @@ et il vaut la peine d'être pesé avant d'encoder six mille verbes.
 make            # setup + xml + compilation + installation
 make check      # l'analyse est-elle écrite, et juste ?
 make verify     # le bundle installé sait-il y répondre ?
+make verbe      # le prochain verbe de data/frequence.txt entre (N=10 : dix)
 make uninstall
 ```
 
@@ -305,23 +424,40 @@ passe `-v 10.11`, qui produit `Contents/Resources/`, un index trie et
 
 ## Ce que ça coûte à l'échelle
 
-Mesuré sur 501 verbes synthétiques, les deux découpages compilés :
+Ce n'est plus une estimation sur des verbes synthétiques. Mesuré sur les mille :
 
-| | par verbe | par forme |
+| | 4 verbes | 1 004 verbes |
 |---|---|---|
-| entrées | 276 | 11 869 |
-| XML source | 3,1 Mo | 79 Mo |
-| **bundle** | **2,88 Mo** | **2,82 Mo** |
-| compilation | rapide | 80 s |
+| entrées | 162 | 38 917 |
+| XML source | 1,2 Mo | 291 Mo |
+| **bundle** | 356 ko | **10 Mo** |
+| compilation | 1 s | **4 min 27 s** |
 
-Le disque ne bouge pas : les tableaux quasi identiques se compressent entre eux,
-et l'index rétrécit autant que le corps grossit. À 6 000 verbes, comptez ~34 Mo
-et **une quinzaine de minutes de compilation**. C'est le seul vrai coût.
+Le XML est énorme et le bundle ne l'est pas — vingt-sept fois plus petit. C'est
+le découpage par forme qui le veut : chaque forme d'un verbe reçoit sa copie de
+la même conjugaison, et quarante copies quasi identiques se compressent entre
+elles. Le coût est payé une fois, à la compilation.
+
+Il l'était deux fois plus cher avant qu'on arrête d'ouvrir neuf cent
+cinquante-six tableaux sur `ai` : 548 Mo de source, dont la moitié en lignes
+d'auxiliaire recopiées.
+
+À 7 011 verbes — tout Verbiste — comptez, au même rythme, une source de deux
+gigaoctets et une demi-heure de compilation. C'est le seul vrai mur, et il est
+loin.
 
 ## Disposition
 
 - `data/verbs.json` — les verbes. Six formes par temps, dans l'ordre
-  je / tu / il / nous / vous / ils ; trois pour l'impératif.
+  je / tu / il / nous / vous / ils ; trois pour l'impératif. Une case porte une
+  chaîne, une liste quand la langue admet deux formes, ou `null` quand la forme
+  n'existe pas.
+- `data/frequence.txt` — l'ordre d'entrée : les mille verbes les plus
+  fréquents, avec leur fréquence. Engendré depuis Lexique 3, versionné.
+- `scripts/import_verbs.py` — l'import. Verbiste pour les formes, Lexique pour
+  l'ordre, et quatre tables écrites à la main pour ce que ni l'un ni l'autre ne
+  dit : l'auxiliaire, les pronominaux, les participes invariables, les notes.
+  `--verifie` relit tout le fichier contre les sources.
 - `scripts/build_xml.py` — le générateur. `analyses_of()` produit les analyses
   d'un verbe, `build_index()` les fusionne par forme, `render_entry()` écrit
   l'entrée. `build_index()` est isolé pour que le vérificateur puisse comparer le
@@ -336,19 +472,30 @@ et **une quinzaine de minutes de compilation**. C'est le seul vrai coût.
   sont ce qu'on lit ici.
 - `src/Info.plist` — l'identité du bundle. Le DDK engendre le reste.
 
-## Après la preuve de concept
+## Ce qui reste
 
-Le générateur est écrit pour l'échelle ; ce sont les **données** qui manquent.
+Les trois manques de la preuve de concept sont comblés : la source libre est
+Verbiste, les pronominaux ont leur pronom, le participe s'accorde avec le sujet
+quand l'auxiliaire est `être`. Restent ceux-ci.
 
-- **Une source libre.** Wiktionnaire est en CC-BY-SA et stocke déjà la bonne
-  forme — « Première personne du singulier du passé simple de voir » est une
-  analyse inversée en prose. Pour du volume, **Morphalou** (CNRTL, LGPL-LR) ou
-  **Lexique 3** donnent la même chose en tables étiquetées.
+- **Les six mille autres verbes.** Verbiste en connaît 7 011 ; le classement
+  s'arrête à mille parce que c'est ce qui a été relu, pas parce que le
+  générateur bute. `make verbe N=100` continue la série.
+- **Les verbes occasionnellement pronominaux.** *se laver*, *s'appeler*,
+  *se demander* : le dictionnaire les conjugue à la voix active seulement.
+  Seize verbes ont le pronom parce qu'ils n'existent pas sans lui ; les autres
+  auraient besoin d'un second tableau, pas d'un pronom en plus.
+- **L'accord du participe avec le complément d'objet direct placé devant.** Un
+  tableau de conjugaison n'en a pas à montrer, donc la question ne se pose pas
+  ici — mais c'est elle qu'on cherche quand on hésite sur « les lettres que j'ai
+  écrites ».
 - **leconjugueur n'est pas une source.** C'est celui du Figaro, et il est
   protégé. Il peut arbitrer une réponse qu'on lui soumet ; il ne peut pas
   fournir de contenu. Même règle que les volumes CLE dans *rappel*.
-- **Les pronominaux et l'accord avec `être`**, qui ne se déduit pas de
-  l'auxiliaire seul.
 
-Rien de tout ça ne change l'architecture. Un verbe de plus est un objet de plus
-dans `verbs.json`.
+### Ce que les sources imposent
+
+Verbiste est sous **GPL**, Lexique 3 sous **CC BY-SA**. `data/verbs.json` en
+dérive : il en hérite les conditions, et les deux sources se citent. Aucune
+n'est commitée — `make verbe` les télécharge dans `data/sources/`, ignoré par
+git, comme le Dictionary Development Kit dans `tools/`.
