@@ -15479,6 +15479,24 @@
       },
       "participe_present": "conquérant",
       "participe_passe": ["conquis", "conquise", "conquis", "conquises"]
+    },
+    {
+      "id": "ruiner",
+      "infinitif": "ruiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ruine", "ruines", "ruine", "ruinons", "ruinez", "ruinent"],
+        "ind.imp": ["ruinais", "ruinais", "ruinait", "ruinions", "ruiniez", "ruinaient"],
+        "ind.ps": ["ruinai", "ruinas", "ruina", "ruinâmes", "ruinâtes", "ruinèrent"],
+        "ind.fut": ["ruinerai", "ruineras", "ruinera", "ruinerons", "ruinerez", "ruineront"],
+        "cond.pres": ["ruinerais", "ruinerais", "ruinerait", "ruinerions", "ruineriez", "ruineraient"],
+        "subj.pres": ["ruine", "ruines", "ruine", "ruinions", "ruiniez", "ruinent"],
+        "subj.imp": ["ruinasse", "ruinasses", "ruinât", "ruinassions", "ruinassiez", "ruinassent"],
+        "imper.pres": ["ruine", "ruinons", "ruinez"]
+      },
+      "participe_present": "ruinant",
+      "participe_passe": ["ruiné", "ruinée", "ruinés", "ruinées"]
     }
   ]
 }
