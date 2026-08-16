@@ -20143,6 +20143,24 @@
       },
       "participe_present": "décourageant",
       "participe_passe": ["découragé", "découragée", "découragés", "découragées"]
+    },
+    {
+      "id": "enlacer",
+      "infinitif": "enlacer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enlace", "enlaces", "enlace", "enlaçons", "enlacez", "enlacent"],
+        "ind.imp": ["enlaçais", "enlaçais", "enlaçait", "enlacions", "enlaciez", "enlaçaient"],
+        "ind.ps": ["enlaçai", "enlaças", "enlaça", "enlaçâmes", "enlaçâtes", "enlacèrent"],
+        "ind.fut": ["enlacerai", "enlaceras", "enlacera", "enlacerons", "enlacerez", "enlaceront"],
+        "cond.pres": ["enlacerais", "enlacerais", "enlacerait", "enlacerions", "enlaceriez", "enlaceraient"],
+        "subj.pres": ["enlace", "enlaces", "enlace", "enlacions", "enlaciez", "enlacent"],
+        "subj.imp": ["enlaçasse", "enlaçasses", "enlaçât", "enlaçassions", "enlaçassiez", "enlaçassent"],
+        "imper.pres": ["enlace", "enlaçons", "enlacez"]
+      },
+      "participe_present": "enlaçant",
+      "participe_passe": ["enlacé", "enlacée", "enlacés", "enlacées"]
     }
   ]
 }
