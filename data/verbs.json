@@ -6441,6 +6441,24 @@
       },
       "participe_present": "brisant",
       "participe_passe": ["brisé", "brisée", "brisés", "brisées"]
+    },
+    {
+      "id": "peindre",
+      "infinitif": "peindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["peins", "peins", "peint", "peignons", "peignez", "peignent"],
+        "ind.imp": ["peignais", "peignais", "peignait", "peignions", "peigniez", "peignaient"],
+        "ind.ps": ["peignis", "peignis", "peignit", "peignîmes", "peignîtes", "peignirent"],
+        "ind.fut": ["peindrai", "peindras", "peindra", "peindrons", "peindrez", "peindront"],
+        "cond.pres": ["peindrais", "peindrais", "peindrait", "peindrions", "peindriez", "peindraient"],
+        "subj.pres": ["peigne", "peignes", "peigne", "peignions", "peigniez", "peignent"],
+        "subj.imp": ["peignisse", "peignisses", "peignît", "peignissions", "peignissiez", "peignissent"],
+        "imper.pres": ["peins", "peignons", "peignez"]
+      },
+      "participe_present": "peignant",
+      "participe_passe": ["peint", "peinte", "peints", "peintes"]
     }
   ]
 }
