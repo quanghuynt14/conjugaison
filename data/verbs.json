@@ -33648,6 +33648,24 @@
       },
       "participe_present": "retapant",
       "participe_passe": ["retapé", "retapée", "retapés", "retapées"]
+    },
+    {
+      "id": "fourguer",
+      "infinitif": "fourguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fourgue", "fourgues", "fourgue", "fourguons", "fourguez", "fourguent"],
+        "ind.imp": ["fourguais", "fourguais", "fourguait", "fourguions", "fourguiez", "fourguaient"],
+        "ind.ps": ["fourguai", "fourguas", "fourgua", "fourguâmes", "fourguâtes", "fourguèrent"],
+        "ind.fut": ["fourguerai", "fourgueras", "fourguera", "fourguerons", "fourguerez", "fourgueront"],
+        "cond.pres": ["fourguerais", "fourguerais", "fourguerait", "fourguerions", "fourgueriez", "fourgueraient"],
+        "subj.pres": ["fourgue", "fourgues", "fourgue", "fourguions", "fourguiez", "fourguent"],
+        "subj.imp": ["fourguasse", "fourguasses", "fourguât", "fourguassions", "fourguassiez", "fourguassent"],
+        "imper.pres": ["fourgue", "fourguons", "fourguez"]
+      },
+      "participe_present": "fourguant",
+      "participe_passe": ["fourgué", "fourguée", "fourgués", "fourguées"]
     }
   ]
 }
