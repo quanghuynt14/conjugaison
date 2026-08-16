@@ -29929,6 +29929,24 @@
       },
       "participe_present": "ligotant",
       "participe_passe": ["ligoté", "ligotée", "ligotés", "ligotées"]
+    },
+    {
+      "id": "appréhender",
+      "infinitif": "appréhender",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["appréhende", "appréhendes", "appréhende", "appréhendons", "appréhendez", "appréhendent"],
+        "ind.imp": ["appréhendais", "appréhendais", "appréhendait", "appréhendions", "appréhendiez", "appréhendaient"],
+        "ind.ps": ["appréhendai", "appréhendas", "appréhenda", "appréhendâmes", "appréhendâtes", "appréhendèrent"],
+        "ind.fut": ["appréhenderai", "appréhenderas", "appréhendera", "appréhenderons", "appréhenderez", "appréhenderont"],
+        "cond.pres": ["appréhenderais", "appréhenderais", "appréhenderait", "appréhenderions", "appréhenderiez", "appréhenderaient"],
+        "subj.pres": ["appréhende", "appréhendes", "appréhende", "appréhendions", "appréhendiez", "appréhendent"],
+        "subj.imp": ["appréhendasse", "appréhendasses", "appréhendât", "appréhendassions", "appréhendassiez", "appréhendassent"],
+        "imper.pres": ["appréhende", "appréhendons", "appréhendez"]
+      },
+      "participe_present": "appréhendant",
+      "participe_passe": ["appréhendé", "appréhendée", "appréhendés", "appréhendées"]
     }
   ]
 }
