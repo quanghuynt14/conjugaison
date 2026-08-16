@@ -16567,6 +16567,24 @@
       },
       "participe_present": "décorant",
       "participe_passe": ["décoré", "décorée", "décorés", "décorées"]
+    },
+    {
+      "id": "graver",
+      "infinitif": "graver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["grave", "graves", "grave", "gravons", "gravez", "gravent"],
+        "ind.imp": ["gravais", "gravais", "gravait", "gravions", "graviez", "gravaient"],
+        "ind.ps": ["gravai", "gravas", "grava", "gravâmes", "gravâtes", "gravèrent"],
+        "ind.fut": ["graverai", "graveras", "gravera", "graverons", "graverez", "graveront"],
+        "cond.pres": ["graverais", "graverais", "graverait", "graverions", "graveriez", "graveraient"],
+        "subj.pres": ["grave", "graves", "grave", "gravions", "graviez", "gravent"],
+        "subj.imp": ["gravasse", "gravasses", "gravât", "gravassions", "gravassiez", "gravassent"],
+        "imper.pres": ["grave", "gravons", "gravez"]
+      },
+      "participe_present": "gravant",
+      "participe_passe": ["gravé", "gravée", "gravés", "gravées"]
     }
   ]
 }
