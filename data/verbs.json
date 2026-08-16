@@ -22926,6 +22926,25 @@
       },
       "participe_present": "lovant",
       "participe_passe": ["lové", "lovée", "lovés", "lovées"]
+    },
+    {
+      "id": "prédire",
+      "infinitif": "prédire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « vous prédites » ou « vous prédisez ».",
+      "tenses": {
+        "ind.pres": ["prédis", "prédis", "prédit", "prédisons", ["prédites", "prédisez"], "prédisent"],
+        "ind.imp": ["prédisais", "prédisais", "prédisait", "prédisions", "prédisiez", "prédisaient"],
+        "ind.ps": ["prédis", "prédis", "prédit", "prédîmes", "prédîtes", "prédirent"],
+        "ind.fut": ["prédirai", "prédiras", "prédira", "prédirons", "prédirez", "prédiront"],
+        "cond.pres": ["prédirais", "prédirais", "prédirait", "prédirions", "prédiriez", "prédiraient"],
+        "subj.pres": ["prédise", "prédises", "prédise", "prédisions", "prédisiez", "prédisent"],
+        "subj.imp": ["prédisse", "prédisses", "prédît", "prédissions", "prédissiez", "prédissent"],
+        "imper.pres": ["prédis", "prédisons", ["prédites", "prédisez"]]
+      },
+      "participe_present": "prédisant",
+      "participe_passe": ["prédit", "prédite", "prédits", "prédites"]
     }
   ]
 }
