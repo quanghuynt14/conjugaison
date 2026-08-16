@@ -386,6 +386,24 @@
       },
       "participe_present": "trouvant",
       "participe_passe": ["trouvé", "trouvée", "trouvés", "trouvées"]
+    },
+    {
+      "id": "regarder",
+      "infinitif": "regarder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["regarde", "regardes", "regarde", "regardons", "regardez", "regardent"],
+        "ind.imp": ["regardais", "regardais", "regardait", "regardions", "regardiez", "regardaient"],
+        "ind.ps": ["regardai", "regardas", "regarda", "regardâmes", "regardâtes", "regardèrent"],
+        "ind.fut": ["regarderai", "regarderas", "regardera", "regarderons", "regarderez", "regarderont"],
+        "cond.pres": ["regarderais", "regarderais", "regarderait", "regarderions", "regarderiez", "regarderaient"],
+        "subj.pres": ["regarde", "regardes", "regarde", "regardions", "regardiez", "regardent"],
+        "subj.imp": ["regardasse", "regardasses", "regardât", "regardassions", "regardassiez", "regardassent"],
+        "imper.pres": ["regarde", "regardons", "regardez"]
+      },
+      "participe_present": "regardant",
+      "participe_passe": ["regardé", "regardée", "regardés", "regardées"]
     }
   ]
 }
