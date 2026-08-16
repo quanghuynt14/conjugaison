@@ -18777,6 +18777,25 @@
       },
       "participe_present": "enquêtant",
       "participe_passe": ["enquêté", null, null, null]
+    },
+    {
+      "id": "frissonner",
+      "infinitif": "frissonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « frissonné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["frissonne", "frissonnes", "frissonne", "frissonnons", "frissonnez", "frissonnent"],
+        "ind.imp": ["frissonnais", "frissonnais", "frissonnait", "frissonnions", "frissonniez", "frissonnaient"],
+        "ind.ps": ["frissonnai", "frissonnas", "frissonna", "frissonnâmes", "frissonnâtes", "frissonnèrent"],
+        "ind.fut": ["frissonnerai", "frissonneras", "frissonnera", "frissonnerons", "frissonnerez", "frissonneront"],
+        "cond.pres": ["frissonnerais", "frissonnerais", "frissonnerait", "frissonnerions", "frissonneriez", "frissonneraient"],
+        "subj.pres": ["frissonne", "frissonnes", "frissonne", "frissonnions", "frissonniez", "frissonnent"],
+        "subj.imp": ["frissonnasse", "frissonnasses", "frissonnât", "frissonnassions", "frissonnassiez", "frissonnassent"],
+        "imper.pres": ["frissonne", "frissonnons", "frissonnez"]
+      },
+      "participe_present": "frissonnant",
+      "participe_passe": ["frissonné", null, null, null]
     }
   ]
 }
