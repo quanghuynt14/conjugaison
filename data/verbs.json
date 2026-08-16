@@ -6477,6 +6477,24 @@
       },
       "participe_present": "déposant",
       "participe_passe": ["déposé", "déposée", "déposés", "déposées"]
+    },
+    {
+      "id": "ranger",
+      "infinitif": "ranger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["range", "ranges", "range", "rangeons", "rangez", "rangent"],
+        "ind.imp": ["rangeais", "rangeais", "rangeait", "rangions", "rangiez", "rangeaient"],
+        "ind.ps": ["rangeai", "rangeas", "rangea", "rangeâmes", "rangeâtes", "rangèrent"],
+        "ind.fut": ["rangerai", "rangeras", "rangera", "rangerons", "rangerez", "rangeront"],
+        "cond.pres": ["rangerais", "rangerais", "rangerait", "rangerions", "rangeriez", "rangeraient"],
+        "subj.pres": ["range", "ranges", "range", "rangions", "rangiez", "rangent"],
+        "subj.imp": ["rangeasse", "rangeasses", "rangeât", "rangeassions", "rangeassiez", "rangeassent"],
+        "imper.pres": ["range", "rangeons", "rangez"]
+      },
+      "participe_present": "rangeant",
+      "participe_passe": ["rangé", "rangée", "rangés", "rangées"]
     }
   ]
 }
