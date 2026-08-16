@@ -440,6 +440,24 @@
       },
       "participe_present": "donnant",
       "participe_passe": ["donné", "donnée", "donnés", "données"]
+    },
+    {
+      "id": "mettre",
+      "infinitif": "mettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mets", "mets", "met", "mettons", "mettez", "mettent"],
+        "ind.imp": ["mettais", "mettais", "mettait", "mettions", "mettiez", "mettaient"],
+        "ind.ps": ["mis", "mis", "mit", "mîmes", "mîtes", "mirent"],
+        "ind.fut": ["mettrai", "mettras", "mettra", "mettrons", "mettrez", "mettront"],
+        "cond.pres": ["mettrais", "mettrais", "mettrait", "mettrions", "mettriez", "mettraient"],
+        "subj.pres": ["mette", "mettes", "mette", "mettions", "mettiez", "mettent"],
+        "subj.imp": ["misse", "misses", "mît", "missions", "missiez", "missent"],
+        "imper.pres": ["mets", "mettons", "mettez"]
+      },
+      "participe_present": "mettant",
+      "participe_passe": ["mis", "mise", "mis", "mises"]
     }
   ]
 }
