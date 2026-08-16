@@ -35750,6 +35750,24 @@
       },
       "participe_present": "gloussant",
       "participe_passe": ["gloussé", null, null, null]
+    },
+    {
+      "id": "rehausser",
+      "infinitif": "rehausser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rehausse", "rehausses", "rehausse", "rehaussons", "rehaussez", "rehaussent"],
+        "ind.imp": ["rehaussais", "rehaussais", "rehaussait", "rehaussions", "rehaussiez", "rehaussaient"],
+        "ind.ps": ["rehaussai", "rehaussas", "rehaussa", "rehaussâmes", "rehaussâtes", "rehaussèrent"],
+        "ind.fut": ["rehausserai", "rehausseras", "rehaussera", "rehausserons", "rehausserez", "rehausseront"],
+        "cond.pres": ["rehausserais", "rehausserais", "rehausserait", "rehausserions", "rehausseriez", "rehausseraient"],
+        "subj.pres": ["rehausse", "rehausses", "rehausse", "rehaussions", "rehaussiez", "rehaussent"],
+        "subj.imp": ["rehaussasse", "rehaussasses", "rehaussât", "rehaussassions", "rehaussassiez", "rehaussassent"],
+        "imper.pres": ["rehausse", "rehaussons", "rehaussez"]
+      },
+      "participe_present": "rehaussant",
+      "participe_passe": ["rehaussé", "rehaussée", "rehaussés", "rehaussées"]
     }
   ]
 }
