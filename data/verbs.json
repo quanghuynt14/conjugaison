@@ -20161,6 +20161,26 @@
       },
       "participe_present": "enlaçant",
       "participe_passe": ["enlacé", "enlacée", "enlacés", "enlacées"]
+    },
+    {
+      "id": "obstiner",
+      "infinitif": "obstiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’obstine » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["obstine", "obstines", "obstine", "obstinons", "obstinez", "obstinent"],
+        "ind.imp": ["obstinais", "obstinais", "obstinait", "obstinions", "obstiniez", "obstinaient"],
+        "ind.ps": ["obstinai", "obstinas", "obstina", "obstinâmes", "obstinâtes", "obstinèrent"],
+        "ind.fut": ["obstinerai", "obstineras", "obstinera", "obstinerons", "obstinerez", "obstineront"],
+        "cond.pres": ["obstinerais", "obstinerais", "obstinerait", "obstinerions", "obstineriez", "obstineraient"],
+        "subj.pres": ["obstine", "obstines", "obstine", "obstinions", "obstiniez", "obstinent"],
+        "subj.imp": ["obstinasse", "obstinasses", "obstinât", "obstinassions", "obstinassiez", "obstinassent"],
+        "imper.pres": ["obstine", "obstinons", "obstinez"]
+      },
+      "participe_present": "obstinant",
+      "participe_passe": ["obstiné", "obstinée", "obstinés", "obstinées"]
     }
   ]
 }
