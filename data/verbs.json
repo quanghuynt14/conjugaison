@@ -9828,6 +9828,24 @@
       },
       "participe_present": "employant",
       "participe_passe": ["employé", "employée", "employés", "employées"]
+    },
+    {
+      "id": "viser",
+      "infinitif": "viser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vise", "vises", "vise", "visons", "visez", "visent"],
+        "ind.imp": ["visais", "visais", "visait", "visions", "visiez", "visaient"],
+        "ind.ps": ["visai", "visas", "visa", "visâmes", "visâtes", "visèrent"],
+        "ind.fut": ["viserai", "viseras", "visera", "viserons", "viserez", "viseront"],
+        "cond.pres": ["viserais", "viserais", "viserait", "viserions", "viseriez", "viseraient"],
+        "subj.pres": ["vise", "vises", "vise", "visions", "visiez", "visent"],
+        "subj.imp": ["visasse", "visasses", "visât", "visassions", "visassiez", "visassent"],
+        "imper.pres": ["vise", "visons", "visez"]
+      },
+      "participe_present": "visant",
+      "participe_passe": ["visé", "visée", "visés", "visées"]
     }
   ]
 }
