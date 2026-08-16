@@ -7692,6 +7692,25 @@
       },
       "participe_present": "interrompant",
       "participe_passe": ["interrompu", "interrompue", "interrompus", "interrompues"]
+    },
+    {
+      "id": "survivre",
+      "infinitif": "survivre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « survécu » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["survis", "survis", "survit", "survivons", "survivez", "survivent"],
+        "ind.imp": ["survivais", "survivais", "survivait", "survivions", "surviviez", "survivaient"],
+        "ind.ps": ["survécus", "survécus", "survécut", "survécûmes", "survécûtes", "survécurent"],
+        "ind.fut": ["survivrai", "survivras", "survivra", "survivrons", "survivrez", "survivront"],
+        "cond.pres": ["survivrais", "survivrais", "survivrait", "survivrions", "survivriez", "survivraient"],
+        "subj.pres": ["survive", "survives", "survive", "survivions", "surviviez", "survivent"],
+        "subj.imp": ["survécusse", "survécusses", "survécût", "survécussions", "survécussiez", "survécussent"],
+        "imper.pres": ["survis", "survivons", "survivez"]
+      },
+      "participe_present": "survivant",
+      "participe_passe": ["survécu", null, null, null]
     }
   ]
 }
