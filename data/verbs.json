@@ -6081,6 +6081,24 @@
       },
       "participe_present": "chassant",
       "participe_passe": ["chassé", "chassée", "chassés", "chassées"]
+    },
+    {
+      "id": "hurler",
+      "infinitif": "hurler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["hurle", "hurles", "hurle", "hurlons", "hurlez", "hurlent"],
+        "ind.imp": ["hurlais", "hurlais", "hurlait", "hurlions", "hurliez", "hurlaient"],
+        "ind.ps": ["hurlai", "hurlas", "hurla", "hurlâmes", "hurlâtes", "hurlèrent"],
+        "ind.fut": ["hurlerai", "hurleras", "hurlera", "hurlerons", "hurlerez", "hurleront"],
+        "cond.pres": ["hurlerais", "hurlerais", "hurlerait", "hurlerions", "hurleriez", "hurleraient"],
+        "subj.pres": ["hurle", "hurles", "hurle", "hurlions", "hurliez", "hurlent"],
+        "subj.imp": ["hurlasse", "hurlasses", "hurlât", "hurlassions", "hurlassiez", "hurlassent"],
+        "imper.pres": ["hurle", "hurlons", "hurlez"]
+      },
+      "participe_present": "hurlant",
+      "participe_passe": ["hurlé", "hurlée", "hurlés", "hurlées"]
     }
   ]
 }
