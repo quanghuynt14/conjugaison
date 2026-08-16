@@ -34872,6 +34872,24 @@
       },
       "participe_present": "raffolant",
       "participe_passe": ["raffolé", null, null, null]
+    },
+    {
+      "id": "glapir",
+      "infinitif": "glapir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["glapis", "glapis", "glapit", "glapissons", "glapissez", "glapissent"],
+        "ind.imp": ["glapissais", "glapissais", "glapissait", "glapissions", "glapissiez", "glapissaient"],
+        "ind.ps": ["glapis", "glapis", "glapit", "glapîmes", "glapîtes", "glapirent"],
+        "ind.fut": ["glapirai", "glapiras", "glapira", "glapirons", "glapirez", "glapiront"],
+        "cond.pres": ["glapirais", "glapirais", "glapirait", "glapirions", "glapiriez", "glapiraient"],
+        "subj.pres": ["glapisse", "glapisses", "glapisse", "glapissions", "glapissiez", "glapissent"],
+        "subj.imp": ["glapisse", "glapisses", "glapît", "glapissions", "glapissiez", "glapissent"],
+        "imper.pres": ["glapis", "glapissons", "glapissez"]
+      },
+      "participe_present": "glapissant",
+      "participe_passe": ["glapi", "glapie", "glapis", "glapies"]
     }
   ]
 }
