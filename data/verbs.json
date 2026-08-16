@@ -33431,6 +33431,24 @@
       },
       "participe_present": "éjectant",
       "participe_passe": ["éjecté", "éjectée", "éjectés", "éjectées"]
+    },
+    {
+      "id": "reluquer",
+      "infinitif": "reluquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reluque", "reluques", "reluque", "reluquons", "reluquez", "reluquent"],
+        "ind.imp": ["reluquais", "reluquais", "reluquait", "reluquions", "reluquiez", "reluquaient"],
+        "ind.ps": ["reluquai", "reluquas", "reluqua", "reluquâmes", "reluquâtes", "reluquèrent"],
+        "ind.fut": ["reluquerai", "reluqueras", "reluquera", "reluquerons", "reluquerez", "reluqueront"],
+        "cond.pres": ["reluquerais", "reluquerais", "reluquerait", "reluquerions", "reluqueriez", "reluqueraient"],
+        "subj.pres": ["reluque", "reluques", "reluque", "reluquions", "reluquiez", "reluquent"],
+        "subj.imp": ["reluquasse", "reluquasses", "reluquât", "reluquassions", "reluquassiez", "reluquassent"],
+        "imper.pres": ["reluque", "reluquons", "reluquez"]
+      },
+      "participe_present": "reluquant",
+      "participe_passe": ["reluqué", "reluquée", "reluqués", "reluquées"]
     }
   ]
 }
