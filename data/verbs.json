@@ -27048,6 +27048,24 @@
       },
       "participe_present": "neigeant",
       "participe_passe": ["neigé", null, null, null]
+    },
+    {
+      "id": "ramer",
+      "infinitif": "ramer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rame", "rames", "rame", "ramons", "ramez", "rament"],
+        "ind.imp": ["ramais", "ramais", "ramait", "ramions", "ramiez", "ramaient"],
+        "ind.ps": ["ramai", "ramas", "rama", "ramâmes", "ramâtes", "ramèrent"],
+        "ind.fut": ["ramerai", "rameras", "ramera", "ramerons", "ramerez", "rameront"],
+        "cond.pres": ["ramerais", "ramerais", "ramerait", "ramerions", "rameriez", "rameraient"],
+        "subj.pres": ["rame", "rames", "rame", "ramions", "ramiez", "rament"],
+        "subj.imp": ["ramasse", "ramasses", "ramât", "ramassions", "ramassiez", "ramassent"],
+        "imper.pres": ["rame", "ramons", "ramez"]
+      },
+      "participe_present": "ramant",
+      "participe_passe": ["ramé", "ramée", "ramés", "ramées"]
     }
   ]
 }
