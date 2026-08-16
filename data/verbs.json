@@ -20509,6 +20509,24 @@
       },
       "participe_present": "bombardant",
       "participe_passe": ["bombardé", "bombardée", "bombardés", "bombardées"]
+    },
+    {
+      "id": "enrichir",
+      "infinitif": "enrichir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enrichis", "enrichis", "enrichit", "enrichissons", "enrichissez", "enrichissent"],
+        "ind.imp": ["enrichissais", "enrichissais", "enrichissait", "enrichissions", "enrichissiez", "enrichissaient"],
+        "ind.ps": ["enrichis", "enrichis", "enrichit", "enrichîmes", "enrichîtes", "enrichirent"],
+        "ind.fut": ["enrichirai", "enrichiras", "enrichira", "enrichirons", "enrichirez", "enrichiront"],
+        "cond.pres": ["enrichirais", "enrichirais", "enrichirait", "enrichirions", "enrichiriez", "enrichiraient"],
+        "subj.pres": ["enrichisse", "enrichisses", "enrichisse", "enrichissions", "enrichissiez", "enrichissent"],
+        "subj.imp": ["enrichisse", "enrichisses", "enrichît", "enrichissions", "enrichissiez", "enrichissent"],
+        "imper.pres": ["enrichis", "enrichissons", "enrichissez"]
+      },
+      "participe_present": "enrichissant",
+      "participe_passe": ["enrichi", "enrichie", "enrichis", "enrichies"]
     }
   ]
 }
