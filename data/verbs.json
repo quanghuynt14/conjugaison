@@ -24697,6 +24697,24 @@
       },
       "participe_present": "dégringolant",
       "participe_passe": ["dégringolé", "dégringolée", "dégringolés", "dégringolées"]
+    },
+    {
+      "id": "entraver",
+      "infinitif": "entraver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entrave", "entraves", "entrave", "entravons", "entravez", "entravent"],
+        "ind.imp": ["entravais", "entravais", "entravait", "entravions", "entraviez", "entravaient"],
+        "ind.ps": ["entravai", "entravas", "entrava", "entravâmes", "entravâtes", "entravèrent"],
+        "ind.fut": ["entraverai", "entraveras", "entravera", "entraverons", "entraverez", "entraveront"],
+        "cond.pres": ["entraverais", "entraverais", "entraverait", "entraverions", "entraveriez", "entraveraient"],
+        "subj.pres": ["entrave", "entraves", "entrave", "entravions", "entraviez", "entravent"],
+        "subj.imp": ["entravasse", "entravasses", "entravât", "entravassions", "entravassiez", "entravassent"],
+        "imper.pres": ["entrave", "entravons", "entravez"]
+      },
+      "participe_present": "entravant",
+      "participe_passe": ["entravé", "entravée", "entravés", "entravées"]
     }
   ]
 }
