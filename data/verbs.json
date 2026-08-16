@@ -25698,6 +25698,24 @@
       },
       "participe_present": "présumant",
       "participe_passe": ["présumé", "présumée", "présumés", "présumées"]
+    },
+    {
+      "id": "broyer",
+      "infinitif": "broyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["broie", "broies", "broie", "broyons", "broyez", "broient"],
+        "ind.imp": ["broyais", "broyais", "broyait", "broyions", "broyiez", "broyaient"],
+        "ind.ps": ["broyai", "broyas", "broya", "broyâmes", "broyâtes", "broyèrent"],
+        "ind.fut": ["broierai", "broieras", "broiera", "broierons", "broierez", "broieront"],
+        "cond.pres": ["broierais", "broierais", "broierait", "broierions", "broieriez", "broieraient"],
+        "subj.pres": ["broie", "broies", "broie", "broyions", "broyiez", "broient"],
+        "subj.imp": ["broyasse", "broyasses", "broyât", "broyassions", "broyassiez", "broyassent"],
+        "imper.pres": ["broie", "broyons", "broyez"]
+      },
+      "participe_present": "broyant",
+      "participe_passe": ["broyé", "broyée", "broyés", "broyées"]
     }
   ]
 }
