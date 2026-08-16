@@ -4414,6 +4414,24 @@
       },
       "participe_present": "dérangeant",
       "participe_passe": ["dérangé", "dérangée", "dérangés", "dérangées"]
+    },
+    {
+      "id": "étonner",
+      "infinitif": "étonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["étonne", "étonnes", "étonne", "étonnons", "étonnez", "étonnent"],
+        "ind.imp": ["étonnais", "étonnais", "étonnait", "étonnions", "étonniez", "étonnaient"],
+        "ind.ps": ["étonnai", "étonnas", "étonna", "étonnâmes", "étonnâtes", "étonnèrent"],
+        "ind.fut": ["étonnerai", "étonneras", "étonnera", "étonnerons", "étonnerez", "étonneront"],
+        "cond.pres": ["étonnerais", "étonnerais", "étonnerait", "étonnerions", "étonneriez", "étonneraient"],
+        "subj.pres": ["étonne", "étonnes", "étonne", "étonnions", "étonniez", "étonnent"],
+        "subj.imp": ["étonnasse", "étonnasses", "étonnât", "étonnassions", "étonnassiez", "étonnassent"],
+        "imper.pres": ["étonne", "étonnons", "étonnez"]
+      },
+      "participe_present": "étonnant",
+      "participe_passe": ["étonné", "étonnée", "étonnés", "étonnées"]
     }
   ]
 }
