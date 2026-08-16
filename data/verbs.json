@@ -28121,6 +28121,25 @@
       },
       "participe_present": "assemblant",
       "participe_passe": ["assemblé", "assemblée", "assemblés", "assemblées"]
+    },
+    {
+      "id": "poindre",
+      "infinitif": "poindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le jour point, les bourgeons poignent — verbe littéraire, surtout à la troisième personne, et sans impératif.",
+      "tenses": {
+        "ind.pres": ["poins", "poins", "point", "poignons", "poignez", "poignent"],
+        "ind.imp": ["poignais", "poignais", "poignait", "poignions", "poigniez", "poignaient"],
+        "ind.ps": ["poignis", "poignis", "poignit", "poignîmes", "poignîtes", "poignirent"],
+        "ind.fut": ["poindrai", "poindras", "poindra", "poindrons", "poindrez", "poindront"],
+        "cond.pres": ["poindrais", "poindrais", "poindrait", "poindrions", "poindriez", "poindraient"],
+        "subj.pres": ["poigne", "poignes", "poigne", "poignions", "poigniez", "poignent"],
+        "subj.imp": ["poignisse", "poignisses", "poignît", "poignissions", "poignissiez", "poignissent"],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": "poignant",
+      "participe_passe": ["point", "pointe", "points", "pointes"]
     }
   ]
 }
