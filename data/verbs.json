@@ -5808,6 +5808,24 @@
       },
       "participe_present": "gênant",
       "participe_passe": ["gêné", "gênée", "gênés", "gênées"]
+    },
+    {
+      "id": "adresser",
+      "infinitif": "adresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["adresse", "adresses", "adresse", "adressons", "adressez", "adressent"],
+        "ind.imp": ["adressais", "adressais", "adressait", "adressions", "adressiez", "adressaient"],
+        "ind.ps": ["adressai", "adressas", "adressa", "adressâmes", "adressâtes", "adressèrent"],
+        "ind.fut": ["adresserai", "adresseras", "adressera", "adresserons", "adresserez", "adresseront"],
+        "cond.pres": ["adresserais", "adresserais", "adresserait", "adresserions", "adresseriez", "adresseraient"],
+        "subj.pres": ["adresse", "adresses", "adresse", "adressions", "adressiez", "adressent"],
+        "subj.imp": ["adressasse", "adressasses", "adressât", "adressassions", "adressassiez", "adressassent"],
+        "imper.pres": ["adresse", "adressons", "adressez"]
+      },
+      "participe_present": "adressant",
+      "participe_passe": ["adressé", "adressée", "adressés", "adressées"]
     }
   ]
 }
