@@ -12064,6 +12064,24 @@
       },
       "participe_present": "exagérant",
       "participe_passe": ["exagéré", "exagérée", "exagérés", "exagérées"]
+    },
+    {
+      "id": "transmettre",
+      "infinitif": "transmettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["transmets", "transmets", "transmet", "transmettons", "transmettez", "transmettent"],
+        "ind.imp": ["transmettais", "transmettais", "transmettait", "transmettions", "transmettiez", "transmettaient"],
+        "ind.ps": ["transmis", "transmis", "transmit", "transmîmes", "transmîtes", "transmirent"],
+        "ind.fut": ["transmettrai", "transmettras", "transmettra", "transmettrons", "transmettrez", "transmettront"],
+        "cond.pres": ["transmettrais", "transmettrais", "transmettrait", "transmettrions", "transmettriez", "transmettraient"],
+        "subj.pres": ["transmette", "transmettes", "transmette", "transmettions", "transmettiez", "transmettent"],
+        "subj.imp": ["transmisse", "transmisses", "transmît", "transmissions", "transmissiez", "transmissent"],
+        "imper.pres": ["transmets", "transmettons", "transmettez"]
+      },
+      "participe_present": "transmettant",
+      "participe_passe": ["transmis", "transmise", "transmis", "transmises"]
     }
   ]
 }
