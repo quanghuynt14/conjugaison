@@ -31754,6 +31754,24 @@
       },
       "participe_present": "entêtant",
       "participe_passe": ["entêté", "entêtée", "entêtés", "entêtées"]
+    },
+    {
+      "id": "toiser",
+      "infinitif": "toiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["toise", "toises", "toise", "toisons", "toisez", "toisent"],
+        "ind.imp": ["toisais", "toisais", "toisait", "toisions", "toisiez", "toisaient"],
+        "ind.ps": ["toisai", "toisas", "toisa", "toisâmes", "toisâtes", "toisèrent"],
+        "ind.fut": ["toiserai", "toiseras", "toisera", "toiserons", "toiserez", "toiseront"],
+        "cond.pres": ["toiserais", "toiserais", "toiserait", "toiserions", "toiseriez", "toiseraient"],
+        "subj.pres": ["toise", "toises", "toise", "toisions", "toisiez", "toisent"],
+        "subj.imp": ["toisasse", "toisasses", "toisât", "toisassions", "toisassiez", "toisassent"],
+        "imper.pres": ["toise", "toisons", "toisez"]
+      },
+      "participe_present": "toisant",
+      "participe_passe": ["toisé", "toisée", "toisés", "toisées"]
     }
   ]
 }
