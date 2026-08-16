@@ -21638,6 +21638,24 @@
       },
       "participe_present": "gaspillant",
       "participe_passe": ["gaspillé", "gaspillée", "gaspillés", "gaspillées"]
+    },
+    {
+      "id": "blanchir",
+      "infinitif": "blanchir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["blanchis", "blanchis", "blanchit", "blanchissons", "blanchissez", "blanchissent"],
+        "ind.imp": ["blanchissais", "blanchissais", "blanchissait", "blanchissions", "blanchissiez", "blanchissaient"],
+        "ind.ps": ["blanchis", "blanchis", "blanchit", "blanchîmes", "blanchîtes", "blanchirent"],
+        "ind.fut": ["blanchirai", "blanchiras", "blanchira", "blanchirons", "blanchirez", "blanchiront"],
+        "cond.pres": ["blanchirais", "blanchirais", "blanchirait", "blanchirions", "blanchiriez", "blanchiraient"],
+        "subj.pres": ["blanchisse", "blanchisses", "blanchisse", "blanchissions", "blanchissiez", "blanchissent"],
+        "subj.imp": ["blanchisse", "blanchisses", "blanchît", "blanchissions", "blanchissiez", "blanchissent"],
+        "imper.pres": ["blanchis", "blanchissons", "blanchissez"]
+      },
+      "participe_present": "blanchissant",
+      "participe_passe": ["blanchi", "blanchie", "blanchis", "blanchies"]
     }
   ]
 }
