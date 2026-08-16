@@ -5953,6 +5953,24 @@
       },
       "participe_present": "fichant",
       "participe_passe": ["fiché", "fichée", "fichés", "fichées"]
+    },
+    {
+      "id": "habiller",
+      "infinitif": "habiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["habille", "habilles", "habille", "habillons", "habillez", "habillent"],
+        "ind.imp": ["habillais", "habillais", "habillait", "habillions", "habilliez", "habillaient"],
+        "ind.ps": ["habillai", "habillas", "habilla", "habillâmes", "habillâtes", "habillèrent"],
+        "ind.fut": ["habillerai", "habilleras", "habillera", "habillerons", "habillerez", "habilleront"],
+        "cond.pres": ["habillerais", "habillerais", "habillerait", "habillerions", "habilleriez", "habilleraient"],
+        "subj.pres": ["habille", "habilles", "habille", "habillions", "habilliez", "habillent"],
+        "subj.imp": ["habillasse", "habillasses", "habillât", "habillassions", "habillassiez", "habillassent"],
+        "imper.pres": ["habille", "habillons", "habillez"]
+      },
+      "participe_present": "habillant",
+      "participe_passe": ["habillé", "habillée", "habillés", "habillées"]
     }
   ]
 }
