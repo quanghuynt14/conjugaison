@@ -25880,6 +25880,24 @@
       },
       "participe_present": "astiquant",
       "participe_passe": ["astiqué", "astiquée", "astiqués", "astiquées"]
+    },
+    {
+      "id": "répartir",
+      "infinitif": "répartir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["répartis", "répartis", "répartit", "répartissons", "répartissez", "répartissent"],
+        "ind.imp": ["répartissais", "répartissais", "répartissait", "répartissions", "répartissiez", "répartissaient"],
+        "ind.ps": ["répartis", "répartis", "répartit", "répartîmes", "répartîtes", "répartirent"],
+        "ind.fut": ["répartirai", "répartiras", "répartira", "répartirons", "répartirez", "répartiront"],
+        "cond.pres": ["répartirais", "répartirais", "répartirait", "répartirions", "répartiriez", "répartiraient"],
+        "subj.pres": ["répartisse", "répartisses", "répartisse", "répartissions", "répartissiez", "répartissent"],
+        "subj.imp": ["répartisse", "répartisses", "répartît", "répartissions", "répartissiez", "répartissent"],
+        "imper.pres": ["répartis", "répartissons", "répartissez"]
+      },
+      "participe_present": "répartissant",
+      "participe_passe": ["réparti", "répartie", "répartis", "réparties"]
     }
   ]
 }
