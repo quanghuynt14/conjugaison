@@ -19015,6 +19015,24 @@
       },
       "participe_present": "offensant",
       "participe_passe": ["offensé", "offensée", "offensés", "offensées"]
+    },
+    {
+      "id": "explorer",
+      "infinitif": "explorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["explore", "explores", "explore", "explorons", "explorez", "explorent"],
+        "ind.imp": ["explorais", "explorais", "explorait", "explorions", "exploriez", "exploraient"],
+        "ind.ps": ["explorai", "exploras", "explora", "explorâmes", "explorâtes", "explorèrent"],
+        "ind.fut": ["explorerai", "exploreras", "explorera", "explorerons", "explorerez", "exploreront"],
+        "cond.pres": ["explorerais", "explorerais", "explorerait", "explorerions", "exploreriez", "exploreraient"],
+        "subj.pres": ["explore", "explores", "explore", "explorions", "exploriez", "explorent"],
+        "subj.imp": ["explorasse", "explorasses", "explorât", "explorassions", "explorassiez", "explorassent"],
+        "imper.pres": ["explore", "explorons", "explorez"]
+      },
+      "participe_present": "explorant",
+      "participe_passe": ["exploré", "explorée", "explorés", "explorées"]
     }
   ]
 }
