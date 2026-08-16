@@ -23853,6 +23853,25 @@
       },
       "participe_present": "répugnant",
       "participe_passe": ["répugné", "répugnée", "répugnés", "répugnées"]
+    },
+    {
+      "id": "intégrer",
+      "infinitif": "intégrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’intégrerai » ou « j’intègrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["intègre", "intègres", "intègre", "intégrons", "intégrez", "intègrent"],
+        "ind.imp": ["intégrais", "intégrais", "intégrait", "intégrions", "intégriez", "intégraient"],
+        "ind.ps": ["intégrai", "intégras", "intégra", "intégrâmes", "intégrâtes", "intégrèrent"],
+        "ind.fut": [["intégrerai", "intègrerai"], ["intégreras", "intègreras"], ["intégrera", "intègrera"], ["intégrerons", "intègrerons"], ["intégrerez", "intègrerez"], ["intégreront", "intègreront"]],
+        "cond.pres": [["intégrerais", "intègrerais"], ["intégrerais", "intègrerais"], ["intégrerait", "intègrerait"], ["intégrerions", "intègrerions"], ["intégreriez", "intègreriez"], ["intégreraient", "intègreraient"]],
+        "subj.pres": ["intègre", "intègres", "intègre", "intégrions", "intégriez", "intègrent"],
+        "subj.imp": ["intégrasse", "intégrasses", "intégrât", "intégrassions", "intégrassiez", "intégrassent"],
+        "imper.pres": ["intègre", "intégrons", "intégrez"]
+      },
+      "participe_present": "intégrant",
+      "participe_passe": ["intégré", "intégrée", "intégrés", "intégrées"]
     }
   ]
 }
