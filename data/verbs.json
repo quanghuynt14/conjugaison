@@ -15443,6 +15443,24 @@
       },
       "participe_present": "ricanant",
       "participe_passe": ["ricané", null, null, null]
+    },
+    {
+      "id": "encombrer",
+      "infinitif": "encombrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["encombre", "encombres", "encombre", "encombrons", "encombrez", "encombrent"],
+        "ind.imp": ["encombrais", "encombrais", "encombrait", "encombrions", "encombriez", "encombraient"],
+        "ind.ps": ["encombrai", "encombras", "encombra", "encombrâmes", "encombrâtes", "encombrèrent"],
+        "ind.fut": ["encombrerai", "encombreras", "encombrera", "encombrerons", "encombrerez", "encombreront"],
+        "cond.pres": ["encombrerais", "encombrerais", "encombrerait", "encombrerions", "encombreriez", "encombreraient"],
+        "subj.pres": ["encombre", "encombres", "encombre", "encombrions", "encombriez", "encombrent"],
+        "subj.imp": ["encombrasse", "encombrasses", "encombrât", "encombrassions", "encombrassiez", "encombrassent"],
+        "imper.pres": ["encombre", "encombrons", "encombrez"]
+      },
+      "participe_present": "encombrant",
+      "participe_passe": ["encombré", "encombrée", "encombrés", "encombrées"]
     }
   ]
 }
