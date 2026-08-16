@@ -19251,6 +19251,24 @@
       },
       "participe_present": "définissant",
       "participe_passe": ["défini", "définie", "définis", "définies"]
+    },
+    {
+      "id": "dévoiler",
+      "infinitif": "dévoiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dévoile", "dévoiles", "dévoile", "dévoilons", "dévoilez", "dévoilent"],
+        "ind.imp": ["dévoilais", "dévoilais", "dévoilait", "dévoilions", "dévoiliez", "dévoilaient"],
+        "ind.ps": ["dévoilai", "dévoilas", "dévoila", "dévoilâmes", "dévoilâtes", "dévoilèrent"],
+        "ind.fut": ["dévoilerai", "dévoileras", "dévoilera", "dévoilerons", "dévoilerez", "dévoileront"],
+        "cond.pres": ["dévoilerais", "dévoilerais", "dévoilerait", "dévoilerions", "dévoileriez", "dévoileraient"],
+        "subj.pres": ["dévoile", "dévoiles", "dévoile", "dévoilions", "dévoiliez", "dévoilent"],
+        "subj.imp": ["dévoilasse", "dévoilasses", "dévoilât", "dévoilassions", "dévoilassiez", "dévoilassent"],
+        "imper.pres": ["dévoile", "dévoilons", "dévoilez"]
+      },
+      "participe_present": "dévoilant",
+      "participe_passe": ["dévoilé", "dévoilée", "dévoilés", "dévoilées"]
     }
   ]
 }
