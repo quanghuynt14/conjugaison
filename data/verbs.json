@@ -20968,6 +20968,24 @@
       },
       "participe_present": "raisonnant",
       "participe_passe": ["raisonné", "raisonnée", "raisonnés", "raisonnées"]
+    },
+    {
+      "id": "consommer",
+      "infinitif": "consommer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["consomme", "consommes", "consomme", "consommons", "consommez", "consomment"],
+        "ind.imp": ["consommais", "consommais", "consommait", "consommions", "consommiez", "consommaient"],
+        "ind.ps": ["consommai", "consommas", "consomma", "consommâmes", "consommâtes", "consommèrent"],
+        "ind.fut": ["consommerai", "consommeras", "consommera", "consommerons", "consommerez", "consommeront"],
+        "cond.pres": ["consommerais", "consommerais", "consommerait", "consommerions", "consommeriez", "consommeraient"],
+        "subj.pres": ["consomme", "consommes", "consomme", "consommions", "consommiez", "consomment"],
+        "subj.imp": ["consommasse", "consommasses", "consommât", "consommassions", "consommassiez", "consommassent"],
+        "imper.pres": ["consomme", "consommons", "consommez"]
+      },
+      "participe_present": "consommant",
+      "participe_passe": ["consommé", "consommée", "consommés", "consommées"]
     }
   ]
 }
