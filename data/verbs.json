@@ -32866,6 +32866,25 @@
       },
       "participe_present": "assortissant",
       "participe_passe": ["assorti", "assortie", "assortis", "assorties"]
+    },
+    {
+      "id": "gesticuler",
+      "infinitif": "gesticuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « gesticulé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["gesticule", "gesticules", "gesticule", "gesticulons", "gesticulez", "gesticulent"],
+        "ind.imp": ["gesticulais", "gesticulais", "gesticulait", "gesticulions", "gesticuliez", "gesticulaient"],
+        "ind.ps": ["gesticulai", "gesticulas", "gesticula", "gesticulâmes", "gesticulâtes", "gesticulèrent"],
+        "ind.fut": ["gesticulerai", "gesticuleras", "gesticulera", "gesticulerons", "gesticulerez", "gesticuleront"],
+        "cond.pres": ["gesticulerais", "gesticulerais", "gesticulerait", "gesticulerions", "gesticuleriez", "gesticuleraient"],
+        "subj.pres": ["gesticule", "gesticules", "gesticule", "gesticulions", "gesticuliez", "gesticulent"],
+        "subj.imp": ["gesticulasse", "gesticulasses", "gesticulât", "gesticulassions", "gesticulassiez", "gesticulassent"],
+        "imper.pres": ["gesticule", "gesticulons", "gesticulez"]
+      },
+      "participe_present": "gesticulant",
+      "participe_passe": ["gesticulé", null, null, null]
     }
   ]
 }
