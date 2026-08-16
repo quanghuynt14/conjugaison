@@ -25550,6 +25550,26 @@
       },
       "participe_present": "reportant",
       "participe_passe": ["reporté", "reportée", "reportés", "reportées"]
+    },
+    {
+      "id": "vautrer",
+      "infinitif": "vautrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me vautre » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["vautre", "vautres", "vautre", "vautrons", "vautrez", "vautrent"],
+        "ind.imp": ["vautrais", "vautrais", "vautrait", "vautrions", "vautriez", "vautraient"],
+        "ind.ps": ["vautrai", "vautras", "vautra", "vautrâmes", "vautrâtes", "vautrèrent"],
+        "ind.fut": ["vautrerai", "vautreras", "vautrera", "vautrerons", "vautrerez", "vautreront"],
+        "cond.pres": ["vautrerais", "vautrerais", "vautrerait", "vautrerions", "vautreriez", "vautreraient"],
+        "subj.pres": ["vautre", "vautres", "vautre", "vautrions", "vautriez", "vautrent"],
+        "subj.imp": ["vautrasse", "vautrasses", "vautrât", "vautrassions", "vautrassiez", "vautrassent"],
+        "imper.pres": ["vautre", "vautrons", "vautrez"]
+      },
+      "participe_present": "vautrant",
+      "participe_passe": ["vautré", "vautrée", "vautrés", "vautrées"]
     }
   ]
 }
