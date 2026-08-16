@@ -31059,6 +31059,24 @@
       },
       "participe_present": "incorporant",
       "participe_passe": ["incorporé", "incorporée", "incorporés", "incorporées"]
+    },
+    {
+      "id": "étourdir",
+      "infinitif": "étourdir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["étourdis", "étourdis", "étourdit", "étourdissons", "étourdissez", "étourdissent"],
+        "ind.imp": ["étourdissais", "étourdissais", "étourdissait", "étourdissions", "étourdissiez", "étourdissaient"],
+        "ind.ps": ["étourdis", "étourdis", "étourdit", "étourdîmes", "étourdîtes", "étourdirent"],
+        "ind.fut": ["étourdirai", "étourdiras", "étourdira", "étourdirons", "étourdirez", "étourdiront"],
+        "cond.pres": ["étourdirais", "étourdirais", "étourdirait", "étourdirions", "étourdiriez", "étourdiraient"],
+        "subj.pres": ["étourdisse", "étourdisses", "étourdisse", "étourdissions", "étourdissiez", "étourdissent"],
+        "subj.imp": ["étourdisse", "étourdisses", "étourdît", "étourdissions", "étourdissiez", "étourdissent"],
+        "imper.pres": ["étourdis", "étourdissons", "étourdissez"]
+      },
+      "participe_present": "étourdissant",
+      "participe_passe": ["étourdi", "étourdie", "étourdis", "étourdies"]
     }
   ]
 }
