@@ -12338,6 +12338,24 @@
       },
       "participe_present": "niant",
       "participe_passe": ["nié", "niée", "niés", "niées"]
+    },
+    {
+      "id": "percevoir",
+      "infinitif": "percevoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["perçois", "perçois", "perçoit", "percevons", "percevez", "perçoivent"],
+        "ind.imp": ["percevais", "percevais", "percevait", "percevions", "perceviez", "percevaient"],
+        "ind.ps": ["perçus", "perçus", "perçut", "perçûmes", "perçûtes", "perçurent"],
+        "ind.fut": ["percevrai", "percevras", "percevra", "percevrons", "percevrez", "percevront"],
+        "cond.pres": ["percevrais", "percevrais", "percevrait", "percevrions", "percevriez", "percevraient"],
+        "subj.pres": ["perçoive", "perçoives", "perçoive", "percevions", "perceviez", "perçoivent"],
+        "subj.imp": ["perçusse", "perçusses", "perçût", "perçussions", "perçussiez", "perçussent"],
+        "imper.pres": ["perçois", "percevons", "percevez"]
+      },
+      "participe_present": "percevant",
+      "participe_passe": ["perçu", "perçue", "perçus", "perçues"]
     }
   ]
 }
