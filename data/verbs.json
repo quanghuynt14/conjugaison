@@ -11390,6 +11390,24 @@
       },
       "participe_present": "pigeant",
       "participe_passe": ["pigé", "pigée", "pigés", "pigées"]
+    },
+    {
+      "id": "vaincre",
+      "infinitif": "vaincre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vaincs", "vaincs", "vainc", "vainquons", "vainquez", "vainquent"],
+        "ind.imp": ["vainquais", "vainquais", "vainquait", "vainquions", "vainquiez", "vainquaient"],
+        "ind.ps": ["vainquis", "vainquis", "vainquit", "vainquîmes", "vainquîtes", "vainquirent"],
+        "ind.fut": ["vaincrai", "vaincras", "vaincra", "vaincrons", "vaincrez", "vaincront"],
+        "cond.pres": ["vaincrais", "vaincrais", "vaincrait", "vaincrions", "vaincriez", "vaincraient"],
+        "subj.pres": ["vainque", "vainques", "vainque", "vainquions", "vainquiez", "vainquent"],
+        "subj.imp": ["vainquisse", "vainquisses", "vainquît", "vainquissions", "vainquissiez", "vainquissent"],
+        "imper.pres": ["vaincs", "vainquons", "vainquez"]
+      },
+      "participe_present": "vainquant",
+      "participe_passe": ["vaincu", "vaincue", "vaincus", "vaincues"]
     }
   ]
 }
