@@ -7565,6 +7565,24 @@
       },
       "participe_present": "rompant",
       "participe_passe": ["rompu", "rompue", "rompus", "rompues"]
+    },
+    {
+      "id": "mordre",
+      "infinitif": "mordre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mords", "mords", "mord", "mordons", "mordez", "mordent"],
+        "ind.imp": ["mordais", "mordais", "mordait", "mordions", "mordiez", "mordaient"],
+        "ind.ps": ["mordis", "mordis", "mordit", "mordîmes", "mordîtes", "mordirent"],
+        "ind.fut": ["mordrai", "mordras", "mordra", "mordrons", "mordrez", "mordront"],
+        "cond.pres": ["mordrais", "mordrais", "mordrait", "mordrions", "mordriez", "mordraient"],
+        "subj.pres": ["morde", "mordes", "morde", "mordions", "mordiez", "mordent"],
+        "subj.imp": ["mordisse", "mordisses", "mordît", "mordissions", "mordissiez", "mordissent"],
+        "imper.pres": ["mords", "mordons", "mordez"]
+      },
+      "participe_present": "mordant",
+      "participe_passe": ["mordu", "mordue", "mordus", "mordues"]
     }
   ]
 }
