@@ -25952,6 +25952,26 @@
       },
       "participe_present": "contant",
       "participe_passe": ["conté", "contée", "contés", "contées"]
+    },
+    {
+      "id": "tapir",
+      "infinitif": "tapir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me tapis » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["tapis", "tapis", "tapit", "tapissons", "tapissez", "tapissent"],
+        "ind.imp": ["tapissais", "tapissais", "tapissait", "tapissions", "tapissiez", "tapissaient"],
+        "ind.ps": ["tapis", "tapis", "tapit", "tapîmes", "tapîtes", "tapirent"],
+        "ind.fut": ["tapirai", "tapiras", "tapira", "tapirons", "tapirez", "tapiront"],
+        "cond.pres": ["tapirais", "tapirais", "tapirait", "tapirions", "tapiriez", "tapiraient"],
+        "subj.pres": ["tapisse", "tapisses", "tapisse", "tapissions", "tapissiez", "tapissent"],
+        "subj.imp": ["tapisse", "tapisses", "tapît", "tapissions", "tapissiez", "tapissent"],
+        "imper.pres": ["tapis", "tapissons", "tapissez"]
+      },
+      "participe_present": "tapissant",
+      "participe_passe": ["tapi", "tapie", "tapis", "tapies"]
     }
   ]
 }
