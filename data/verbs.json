@@ -25078,6 +25078,24 @@
       },
       "participe_present": "recrutant",
       "participe_passe": ["recruté", "recrutée", "recrutés", "recrutées"]
+    },
+    {
+      "id": "gaver",
+      "infinitif": "gaver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gave", "gaves", "gave", "gavons", "gavez", "gavent"],
+        "ind.imp": ["gavais", "gavais", "gavait", "gavions", "gaviez", "gavaient"],
+        "ind.ps": ["gavai", "gavas", "gava", "gavâmes", "gavâtes", "gavèrent"],
+        "ind.fut": ["gaverai", "gaveras", "gavera", "gaverons", "gaverez", "gaveront"],
+        "cond.pres": ["gaverais", "gaverais", "gaverait", "gaverions", "gaveriez", "gaveraient"],
+        "subj.pres": ["gave", "gaves", "gave", "gavions", "gaviez", "gavent"],
+        "subj.imp": ["gavasse", "gavasses", "gavât", "gavassions", "gavassiez", "gavassent"],
+        "imper.pres": ["gave", "gavons", "gavez"]
+      },
+      "participe_present": "gavant",
+      "participe_passe": ["gavé", "gavée", "gavés", "gavées"]
     }
   ]
 }
