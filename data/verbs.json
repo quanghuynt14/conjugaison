@@ -4034,6 +4034,24 @@
       },
       "participe_present": "pardonnant",
       "participe_passe": ["pardonné", "pardonnée", "pardonnés", "pardonnées"]
+    },
+    {
+      "id": "fumer",
+      "infinitif": "fumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fume", "fumes", "fume", "fumons", "fumez", "fument"],
+        "ind.imp": ["fumais", "fumais", "fumait", "fumions", "fumiez", "fumaient"],
+        "ind.ps": ["fumai", "fumas", "fuma", "fumâmes", "fumâtes", "fumèrent"],
+        "ind.fut": ["fumerai", "fumeras", "fumera", "fumerons", "fumerez", "fumeront"],
+        "cond.pres": ["fumerais", "fumerais", "fumerait", "fumerions", "fumeriez", "fumeraient"],
+        "subj.pres": ["fume", "fumes", "fume", "fumions", "fumiez", "fument"],
+        "subj.imp": ["fumasse", "fumasses", "fumât", "fumassions", "fumassiez", "fumassent"],
+        "imper.pres": ["fume", "fumons", "fumez"]
+      },
+      "participe_present": "fumant",
+      "participe_passe": ["fumé", "fumée", "fumés", "fumées"]
     }
   ]
 }
