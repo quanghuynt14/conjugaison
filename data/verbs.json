@@ -16096,6 +16096,24 @@
       },
       "participe_present": "démolissant",
       "participe_passe": ["démoli", "démolie", "démolis", "démolies"]
+    },
+    {
+      "id": "renifler",
+      "infinitif": "renifler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["renifle", "renifles", "renifle", "reniflons", "reniflez", "reniflent"],
+        "ind.imp": ["reniflais", "reniflais", "reniflait", "reniflions", "renifliez", "reniflaient"],
+        "ind.ps": ["reniflai", "reniflas", "renifla", "reniflâmes", "reniflâtes", "reniflèrent"],
+        "ind.fut": ["reniflerai", "renifleras", "reniflera", "reniflerons", "reniflerez", "renifleront"],
+        "cond.pres": ["reniflerais", "reniflerais", "reniflerait", "reniflerions", "renifleriez", "renifleraient"],
+        "subj.pres": ["renifle", "renifles", "renifle", "reniflions", "renifliez", "reniflent"],
+        "subj.imp": ["reniflasse", "reniflasses", "reniflât", "reniflassions", "reniflassiez", "reniflassent"],
+        "imper.pres": ["renifle", "reniflons", "reniflez"]
+      },
+      "participe_present": "reniflant",
+      "participe_passe": ["reniflé", "reniflée", "reniflés", "reniflées"]
     }
   ]
 }
