@@ -17878,6 +17878,24 @@
       },
       "participe_present": "rouvrant",
       "participe_passe": ["rouvert", "rouverte", "rouverts", "rouvertes"]
+    },
+    {
+      "id": "dépouiller",
+      "infinitif": "dépouiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dépouille", "dépouilles", "dépouille", "dépouillons", "dépouillez", "dépouillent"],
+        "ind.imp": ["dépouillais", "dépouillais", "dépouillait", "dépouillions", "dépouilliez", "dépouillaient"],
+        "ind.ps": ["dépouillai", "dépouillas", "dépouilla", "dépouillâmes", "dépouillâtes", "dépouillèrent"],
+        "ind.fut": ["dépouillerai", "dépouilleras", "dépouillera", "dépouillerons", "dépouillerez", "dépouilleront"],
+        "cond.pres": ["dépouillerais", "dépouillerais", "dépouillerait", "dépouillerions", "dépouilleriez", "dépouilleraient"],
+        "subj.pres": ["dépouille", "dépouilles", "dépouille", "dépouillions", "dépouilliez", "dépouillent"],
+        "subj.imp": ["dépouillasse", "dépouillasses", "dépouillât", "dépouillassions", "dépouillassiez", "dépouillassent"],
+        "imper.pres": ["dépouille", "dépouillons", "dépouillez"]
+      },
+      "participe_present": "dépouillant",
+      "participe_passe": ["dépouillé", "dépouillée", "dépouillés", "dépouillées"]
     }
   ]
 }
