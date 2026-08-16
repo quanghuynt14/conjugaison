@@ -30438,6 +30438,25 @@
       },
       "participe_present": "replaçant",
       "participe_passe": ["replacé", "replacée", "replacés", "replacées"]
+    },
+    {
+      "id": "happer",
+      "infinitif": "happer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "h_aspire": true,
+      "tenses": {
+        "ind.pres": ["happe", "happes", "happe", "happons", "happez", "happent"],
+        "ind.imp": ["happais", "happais", "happait", "happions", "happiez", "happaient"],
+        "ind.ps": ["happai", "happas", "happa", "happâmes", "happâtes", "happèrent"],
+        "ind.fut": ["happerai", "happeras", "happera", "happerons", "happerez", "happeront"],
+        "cond.pres": ["happerais", "happerais", "happerait", "happerions", "happeriez", "happeraient"],
+        "subj.pres": ["happe", "happes", "happe", "happions", "happiez", "happent"],
+        "subj.imp": ["happasse", "happasses", "happât", "happassions", "happassiez", "happassent"],
+        "imper.pres": ["happe", "happons", "happez"]
+      },
+      "participe_present": "happant",
+      "participe_passe": ["happé", "happée", "happés", "happées"]
     }
   ]
 }
