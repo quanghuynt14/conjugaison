@@ -3022,6 +3022,24 @@
       },
       "participe_present": "serrant",
       "participe_passe": ["serré", "serrée", "serrés", "serrées"]
+    },
+    {
+      "id": "intéresser",
+      "infinitif": "intéresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["intéresse", "intéresses", "intéresse", "intéressons", "intéressez", "intéressent"],
+        "ind.imp": ["intéressais", "intéressais", "intéressait", "intéressions", "intéressiez", "intéressaient"],
+        "ind.ps": ["intéressai", "intéressas", "intéressa", "intéressâmes", "intéressâtes", "intéressèrent"],
+        "ind.fut": ["intéresserai", "intéresseras", "intéressera", "intéresserons", "intéresserez", "intéresseront"],
+        "cond.pres": ["intéresserais", "intéresserais", "intéresserait", "intéresserions", "intéresseriez", "intéresseraient"],
+        "subj.pres": ["intéresse", "intéresses", "intéresse", "intéressions", "intéressiez", "intéressent"],
+        "subj.imp": ["intéressasse", "intéressasses", "intéressât", "intéressassions", "intéressassiez", "intéressassent"],
+        "imper.pres": ["intéresse", "intéressons", "intéressez"]
+      },
+      "participe_present": "intéressant",
+      "participe_passe": ["intéressé", "intéressée", "intéressés", "intéressées"]
     }
   ]
 }
