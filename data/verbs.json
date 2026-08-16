@@ -7711,6 +7711,24 @@
       },
       "participe_present": "survivant",
       "participe_passe": ["survécu", null, null, null]
+    },
+    {
+      "id": "haïr",
+      "infinitif": "haïr",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["hais", "hais", "hait", "haïssons", "haïssez", "haïssent"],
+        "ind.imp": ["haïssais", "haïssais", "haïssait", "haïssions", "haïssiez", "haïssaient"],
+        "ind.ps": ["haïs", "haïs", "haït", "haïmes", "haïtes", "haïrent"],
+        "ind.fut": ["haïrai", "haïras", "haïra", "haïrons", "haïrez", "haïront"],
+        "cond.pres": ["haïrais", "haïrais", "haïrait", "haïrions", "haïriez", "haïraient"],
+        "subj.pres": ["haïsse", "haïsses", "haïsse", "haïssions", "haïssiez", "haïssent"],
+        "subj.imp": ["haïsse", "haïsses", "haït", "haïssions", "haïssiez", "haïssent"],
+        "imper.pres": ["hais", "haïssons", "haïssez"]
+      },
+      "participe_present": "haïssant",
+      "participe_passe": ["haï", "haïe", "haïs", "haïes"]
     }
   ]
 }
