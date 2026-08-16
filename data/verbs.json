@@ -23743,6 +23743,24 @@
       },
       "participe_present": "affalant",
       "participe_passe": ["affalé", "affalée", "affalés", "affalées"]
+    },
+    {
+      "id": "rhabiller",
+      "infinitif": "rhabiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rhabille", "rhabilles", "rhabille", "rhabillons", "rhabillez", "rhabillent"],
+        "ind.imp": ["rhabillais", "rhabillais", "rhabillait", "rhabillions", "rhabilliez", "rhabillaient"],
+        "ind.ps": ["rhabillai", "rhabillas", "rhabilla", "rhabillâmes", "rhabillâtes", "rhabillèrent"],
+        "ind.fut": ["rhabillerai", "rhabilleras", "rhabillera", "rhabillerons", "rhabillerez", "rhabilleront"],
+        "cond.pres": ["rhabillerais", "rhabillerais", "rhabillerait", "rhabillerions", "rhabilleriez", "rhabilleraient"],
+        "subj.pres": ["rhabille", "rhabilles", "rhabille", "rhabillions", "rhabilliez", "rhabillent"],
+        "subj.imp": ["rhabillasse", "rhabillasses", "rhabillât", "rhabillassions", "rhabillassiez", "rhabillassent"],
+        "imper.pres": ["rhabille", "rhabillons", "rhabillez"]
+      },
+      "participe_present": "rhabillant",
+      "participe_passe": ["rhabillé", "rhabillée", "rhabillés", "rhabillées"]
     }
   ]
 }
