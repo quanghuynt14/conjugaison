@@ -29509,6 +29509,26 @@
       },
       "participe_present": "cheminant",
       "participe_passe": ["cheminé", null, null, null]
+    },
+    {
+      "id": "enquérir",
+      "infinitif": "enquérir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’enquiers » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["enquiers", "enquiers", "enquiert", "enquérons", "enquérez", "enquièrent"],
+        "ind.imp": ["enquérais", "enquérais", "enquérait", "enquérions", "enquériez", "enquéraient"],
+        "ind.ps": ["enquis", "enquis", "enquit", "enquîmes", "enquîtes", "enquirent"],
+        "ind.fut": ["enquerrai", "enquerras", "enquerra", "enquerrons", "enquerrez", "enquerront"],
+        "cond.pres": ["enquerrais", "enquerrais", "enquerrait", "enquerrions", "enquerriez", "enquerraient"],
+        "subj.pres": ["enquière", "enquières", "enquière", "enquérions", "enquériez", "enquièrent"],
+        "subj.imp": ["enquisse", "enquisses", "enquît", "enquissions", "enquissiez", "enquissent"],
+        "imper.pres": ["enquiers", "enquérons", "enquérez"]
+      },
+      "participe_present": "enquérant",
+      "participe_passe": ["enquis", "enquise", "enquis", "enquises"]
     }
   ]
 }
