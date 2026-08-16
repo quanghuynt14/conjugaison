@@ -17860,6 +17860,24 @@
       },
       "participe_present": "gâtant",
       "participe_passe": ["gâté", "gâtée", "gâtés", "gâtées"]
+    },
+    {
+      "id": "rouvrir",
+      "infinitif": "rouvrir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rouvre", "rouvres", "rouvre", "rouvrons", "rouvrez", "rouvrent"],
+        "ind.imp": ["rouvrais", "rouvrais", "rouvrait", "rouvrions", "rouvriez", "rouvraient"],
+        "ind.ps": ["rouvris", "rouvris", "rouvrit", "rouvrîmes", "rouvrîtes", "rouvrirent"],
+        "ind.fut": ["rouvrirai", "rouvriras", "rouvrira", "rouvrirons", "rouvrirez", "rouvriront"],
+        "cond.pres": ["rouvrirais", "rouvrirais", "rouvrirait", "rouvririons", "rouvririez", "rouvriraient"],
+        "subj.pres": ["rouvre", "rouvres", "rouvre", "rouvrions", "rouvriez", "rouvrent"],
+        "subj.imp": ["rouvrisse", "rouvrisses", "rouvrît", "rouvrissions", "rouvrissiez", "rouvrissent"],
+        "imper.pres": ["rouvre", "rouvrons", "rouvrez"]
+      },
+      "participe_present": "rouvrant",
+      "participe_passe": ["rouvert", "rouverte", "rouverts", "rouvertes"]
     }
   ]
 }
