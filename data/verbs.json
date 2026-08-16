@@ -6387,6 +6387,24 @@
       },
       "participe_present": "interrogeant",
       "participe_passe": ["interrogé", "interrogée", "interrogés", "interrogées"]
+    },
+    {
+      "id": "écarter",
+      "infinitif": "écarter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["écarte", "écartes", "écarte", "écartons", "écartez", "écartent"],
+        "ind.imp": ["écartais", "écartais", "écartait", "écartions", "écartiez", "écartaient"],
+        "ind.ps": ["écartai", "écartas", "écarta", "écartâmes", "écartâtes", "écartèrent"],
+        "ind.fut": ["écarterai", "écarteras", "écartera", "écarterons", "écarterez", "écarteront"],
+        "cond.pres": ["écarterais", "écarterais", "écarterait", "écarterions", "écarteriez", "écarteraient"],
+        "subj.pres": ["écarte", "écartes", "écarte", "écartions", "écartiez", "écartent"],
+        "subj.imp": ["écartasse", "écartasses", "écartât", "écartassions", "écartassiez", "écartassent"],
+        "imper.pres": ["écarte", "écartons", "écartez"]
+      },
+      "participe_present": "écartant",
+      "participe_passe": ["écarté", "écartée", "écartés", "écartées"]
     }
   ]
 }
