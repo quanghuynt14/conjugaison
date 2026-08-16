@@ -10594,6 +10594,24 @@
       },
       "participe_present": "envolant",
       "participe_passe": ["envolé", "envolée", "envolés", "envolées"]
+    },
+    {
+      "id": "violer",
+      "infinitif": "violer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["viole", "violes", "viole", "violons", "violez", "violent"],
+        "ind.imp": ["violais", "violais", "violait", "violions", "violiez", "violaient"],
+        "ind.ps": ["violai", "violas", "viola", "violâmes", "violâtes", "violèrent"],
+        "ind.fut": ["violerai", "violeras", "violera", "violerons", "violerez", "violeront"],
+        "cond.pres": ["violerais", "violerais", "violerait", "violerions", "violeriez", "violeraient"],
+        "subj.pres": ["viole", "violes", "viole", "violions", "violiez", "violent"],
+        "subj.imp": ["violasse", "violasses", "violât", "violassions", "violassiez", "violassent"],
+        "imper.pres": ["viole", "violons", "violez"]
+      },
+      "participe_present": "violant",
+      "participe_passe": ["violé", "violée", "violés", "violées"]
     }
   ]
 }
