@@ -25972,6 +25972,24 @@
       },
       "participe_present": "tapissant",
       "participe_passe": ["tapi", "tapie", "tapis", "tapies"]
+    },
+    {
+      "id": "rectifier",
+      "infinitif": "rectifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rectifie", "rectifies", "rectifie", "rectifions", "rectifiez", "rectifient"],
+        "ind.imp": ["rectifiais", "rectifiais", "rectifiait", "rectifiions", "rectifiiez", "rectifiaient"],
+        "ind.ps": ["rectifiai", "rectifias", "rectifia", "rectifiâmes", "rectifiâtes", "rectifièrent"],
+        "ind.fut": ["rectifierai", "rectifieras", "rectifiera", "rectifierons", "rectifierez", "rectifieront"],
+        "cond.pres": ["rectifierais", "rectifierais", "rectifierait", "rectifierions", "rectifieriez", "rectifieraient"],
+        "subj.pres": ["rectifie", "rectifies", "rectifie", "rectifiions", "rectifiiez", "rectifient"],
+        "subj.imp": ["rectifiasse", "rectifiasses", "rectifiât", "rectifiassions", "rectifiassiez", "rectifiassent"],
+        "imper.pres": ["rectifie", "rectifions", "rectifiez"]
+      },
+      "participe_present": "rectifiant",
+      "participe_passe": ["rectifié", "rectifiée", "rectifiés", "rectifiées"]
     }
   ]
 }
