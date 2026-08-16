@@ -7748,6 +7748,24 @@
       },
       "participe_present": "résistant",
       "participe_passe": ["résisté", null, null, null]
+    },
+    {
+      "id": "obéir",
+      "infinitif": "obéir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["obéis", "obéis", "obéit", "obéissons", "obéissez", "obéissent"],
+        "ind.imp": ["obéissais", "obéissais", "obéissait", "obéissions", "obéissiez", "obéissaient"],
+        "ind.ps": ["obéis", "obéis", "obéit", "obéîmes", "obéîtes", "obéirent"],
+        "ind.fut": ["obéirai", "obéiras", "obéira", "obéirons", "obéirez", "obéiront"],
+        "cond.pres": ["obéirais", "obéirais", "obéirait", "obéirions", "obéiriez", "obéiraient"],
+        "subj.pres": ["obéisse", "obéisses", "obéisse", "obéissions", "obéissiez", "obéissent"],
+        "subj.imp": ["obéisse", "obéisses", "obéît", "obéissions", "obéissiez", "obéissent"],
+        "imper.pres": ["obéis", "obéissons", "obéissez"]
+      },
+      "participe_present": "obéissant",
+      "participe_passe": ["obéi", "obéie", "obéis", "obéies"]
     }
   ]
 }
