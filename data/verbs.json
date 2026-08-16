@@ -15515,6 +15515,24 @@
       },
       "participe_present": "expédiant",
       "participe_passe": ["expédié", "expédiée", "expédiés", "expédiées"]
+    },
+    {
+      "id": "crisper",
+      "infinitif": "crisper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["crispe", "crispes", "crispe", "crispons", "crispez", "crispent"],
+        "ind.imp": ["crispais", "crispais", "crispait", "crispions", "crispiez", "crispaient"],
+        "ind.ps": ["crispai", "crispas", "crispa", "crispâmes", "crispâtes", "crispèrent"],
+        "ind.fut": ["crisperai", "crisperas", "crispera", "crisperons", "crisperez", "crisperont"],
+        "cond.pres": ["crisperais", "crisperais", "crisperait", "crisperions", "crisperiez", "crisperaient"],
+        "subj.pres": ["crispe", "crispes", "crispe", "crispions", "crispiez", "crispent"],
+        "subj.imp": ["crispasse", "crispasses", "crispât", "crispassions", "crispassiez", "crispassent"],
+        "imper.pres": ["crispe", "crispons", "crispez"]
+      },
+      "participe_present": "crispant",
+      "participe_passe": ["crispé", "crispée", "crispés", "crispées"]
     }
   ]
 }
