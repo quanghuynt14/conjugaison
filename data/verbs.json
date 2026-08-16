@@ -8344,6 +8344,24 @@
       },
       "participe_present": "surgissant",
       "participe_passe": ["surgi", "surgie", "surgis", "surgies"]
+    },
+    {
+      "id": "subir",
+      "infinitif": "subir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["subis", "subis", "subit", "subissons", "subissez", "subissent"],
+        "ind.imp": ["subissais", "subissais", "subissait", "subissions", "subissiez", "subissaient"],
+        "ind.ps": ["subis", "subis", "subit", "subîmes", "subîtes", "subirent"],
+        "ind.fut": ["subirai", "subiras", "subira", "subirons", "subirez", "subiront"],
+        "cond.pres": ["subirais", "subirais", "subirait", "subirions", "subiriez", "subiraient"],
+        "subj.pres": ["subisse", "subisses", "subisse", "subissions", "subissiez", "subissent"],
+        "subj.imp": ["subisse", "subisses", "subît", "subissions", "subissiez", "subissent"],
+        "imper.pres": ["subis", "subissons", "subissez"]
+      },
+      "participe_present": "subissant",
+      "participe_passe": ["subi", "subie", "subis", "subies"]
     }
   ]
 }
