@@ -23146,6 +23146,24 @@
       },
       "participe_present": "dérivant",
       "participe_passe": ["dérivé", "dérivée", "dérivés", "dérivées"]
+    },
+    {
+      "id": "manoeuvrer",
+      "infinitif": "manoeuvrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["manoeuvre", "manoeuvres", "manoeuvre", "manoeuvrons", "manoeuvrez", "manoeuvrent"],
+        "ind.imp": ["manoeuvrais", "manoeuvrais", "manoeuvrait", "manoeuvrions", "manoeuvriez", "manoeuvraient"],
+        "ind.ps": ["manoeuvrai", "manoeuvras", "manoeuvra", "manoeuvrâmes", "manoeuvrâtes", "manoeuvrèrent"],
+        "ind.fut": ["manoeuvrerai", "manoeuvreras", "manoeuvrera", "manoeuvrerons", "manoeuvrerez", "manoeuvreront"],
+        "cond.pres": ["manoeuvrerais", "manoeuvrerais", "manoeuvrerait", "manoeuvrerions", "manoeuvreriez", "manoeuvreraient"],
+        "subj.pres": ["manoeuvre", "manoeuvres", "manoeuvre", "manoeuvrions", "manoeuvriez", "manoeuvrent"],
+        "subj.imp": ["manoeuvrasse", "manoeuvrasses", "manoeuvrât", "manoeuvrassions", "manoeuvrassiez", "manoeuvrassent"],
+        "imper.pres": ["manoeuvre", "manoeuvrons", "manoeuvrez"]
+      },
+      "participe_present": "manoeuvrant",
+      "participe_passe": ["manoeuvré", "manoeuvrée", "manoeuvrés", "manoeuvrées"]
     }
   ]
 }
