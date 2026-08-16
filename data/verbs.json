@@ -12246,6 +12246,24 @@
       },
       "participe_present": "impliquant",
       "participe_passe": ["impliqué", "impliquée", "impliqués", "impliquées"]
+    },
+    {
+      "id": "heurter",
+      "infinitif": "heurter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["heurte", "heurtes", "heurte", "heurtons", "heurtez", "heurtent"],
+        "ind.imp": ["heurtais", "heurtais", "heurtait", "heurtions", "heurtiez", "heurtaient"],
+        "ind.ps": ["heurtai", "heurtas", "heurta", "heurtâmes", "heurtâtes", "heurtèrent"],
+        "ind.fut": ["heurterai", "heurteras", "heurtera", "heurterons", "heurterez", "heurteront"],
+        "cond.pres": ["heurterais", "heurterais", "heurterait", "heurterions", "heurteriez", "heurteraient"],
+        "subj.pres": ["heurte", "heurtes", "heurte", "heurtions", "heurtiez", "heurtent"],
+        "subj.imp": ["heurtasse", "heurtasses", "heurtât", "heurtassions", "heurtassiez", "heurtassent"],
+        "imper.pres": ["heurte", "heurtons", "heurtez"]
+      },
+      "participe_present": "heurtant",
+      "participe_passe": ["heurté", "heurtée", "heurtés", "heurtées"]
     }
   ]
 }
