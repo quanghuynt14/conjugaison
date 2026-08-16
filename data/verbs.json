@@ -35132,6 +35132,24 @@
       },
       "participe_present": "instituant",
       "participe_passe": ["institué", "instituée", "institués", "instituées"]
+    },
+    {
+      "id": "sécuriser",
+      "infinitif": "sécuriser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sécurise", "sécurises", "sécurise", "sécurisons", "sécurisez", "sécurisent"],
+        "ind.imp": ["sécurisais", "sécurisais", "sécurisait", "sécurisions", "sécurisiez", "sécurisaient"],
+        "ind.ps": ["sécurisai", "sécurisas", "sécurisa", "sécurisâmes", "sécurisâtes", "sécurisèrent"],
+        "ind.fut": ["sécuriserai", "sécuriseras", "sécurisera", "sécuriserons", "sécuriserez", "sécuriseront"],
+        "cond.pres": ["sécuriserais", "sécuriserais", "sécuriserait", "sécuriserions", "sécuriseriez", "sécuriseraient"],
+        "subj.pres": ["sécurise", "sécurises", "sécurise", "sécurisions", "sécurisiez", "sécurisent"],
+        "subj.imp": ["sécurisasse", "sécurisasses", "sécurisât", "sécurisassions", "sécurisassiez", "sécurisassent"],
+        "imper.pres": ["sécurise", "sécurisons", "sécurisez"]
+      },
+      "participe_present": "sécurisant",
+      "participe_passe": ["sécurisé", "sécurisée", "sécurisés", "sécurisées"]
     }
   ]
 }
