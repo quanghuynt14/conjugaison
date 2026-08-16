@@ -16024,6 +16024,24 @@
       },
       "participe_present": "brouillant",
       "participe_passe": ["brouillé", "brouillée", "brouillés", "brouillées"]
+    },
+    {
+      "id": "racheter",
+      "infinitif": "racheter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rachète", "rachètes", "rachète", "rachetons", "rachetez", "rachètent"],
+        "ind.imp": ["rachetais", "rachetais", "rachetait", "rachetions", "rachetiez", "rachetaient"],
+        "ind.ps": ["rachetai", "rachetas", "racheta", "rachetâmes", "rachetâtes", "rachetèrent"],
+        "ind.fut": ["rachèterai", "rachèteras", "rachètera", "rachèterons", "rachèterez", "rachèteront"],
+        "cond.pres": ["rachèterais", "rachèterais", "rachèterait", "rachèterions", "rachèteriez", "rachèteraient"],
+        "subj.pres": ["rachète", "rachètes", "rachète", "rachetions", "rachetiez", "rachètent"],
+        "subj.imp": ["rachetasse", "rachetasses", "rachetât", "rachetassions", "rachetassiez", "rachetassent"],
+        "imper.pres": ["rachète", "rachetons", "rachetez"]
+      },
+      "participe_present": "rachetant",
+      "participe_passe": ["racheté", "rachetée", "rachetés", "rachetées"]
     }
   ]
 }
