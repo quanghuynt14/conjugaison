@@ -9864,6 +9864,24 @@
       },
       "participe_present": "pissant",
       "participe_passe": ["pissé", "pissée", "pissés", "pissées"]
+    },
+    {
+      "id": "démarrer",
+      "infinitif": "démarrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["démarre", "démarres", "démarre", "démarrons", "démarrez", "démarrent"],
+        "ind.imp": ["démarrais", "démarrais", "démarrait", "démarrions", "démarriez", "démarraient"],
+        "ind.ps": ["démarrai", "démarras", "démarra", "démarrâmes", "démarrâtes", "démarrèrent"],
+        "ind.fut": ["démarrerai", "démarreras", "démarrera", "démarrerons", "démarrerez", "démarreront"],
+        "cond.pres": ["démarrerais", "démarrerais", "démarrerait", "démarrerions", "démarreriez", "démarreraient"],
+        "subj.pres": ["démarre", "démarres", "démarre", "démarrions", "démarriez", "démarrent"],
+        "subj.imp": ["démarrasse", "démarrasses", "démarrât", "démarrassions", "démarrassiez", "démarrassent"],
+        "imper.pres": ["démarre", "démarrons", "démarrez"]
+      },
+      "participe_present": "démarrant",
+      "participe_passe": ["démarré", "démarrée", "démarrés", "démarrées"]
     }
   ]
 }
