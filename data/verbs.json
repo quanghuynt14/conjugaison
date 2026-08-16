@@ -28066,6 +28066,25 @@
       },
       "participe_present": "taquinant",
       "participe_passe": ["taquiné", "taquinée", "taquinés", "taquinées"]
+    },
+    {
+      "id": "somnoler",
+      "infinitif": "somnoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « somnolé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["somnole", "somnoles", "somnole", "somnolons", "somnolez", "somnolent"],
+        "ind.imp": ["somnolais", "somnolais", "somnolait", "somnolions", "somnoliez", "somnolaient"],
+        "ind.ps": ["somnolai", "somnolas", "somnola", "somnolâmes", "somnolâtes", "somnolèrent"],
+        "ind.fut": ["somnolerai", "somnoleras", "somnolera", "somnolerons", "somnolerez", "somnoleront"],
+        "cond.pres": ["somnolerais", "somnolerais", "somnolerait", "somnolerions", "somnoleriez", "somnoleraient"],
+        "subj.pres": ["somnole", "somnoles", "somnole", "somnolions", "somnoliez", "somnolent"],
+        "subj.imp": ["somnolasse", "somnolasses", "somnolât", "somnolassions", "somnolassiez", "somnolassent"],
+        "imper.pres": ["somnole", "somnolons", "somnolez"]
+      },
+      "participe_present": "somnolant",
+      "participe_passe": ["somnolé", null, null, null]
     }
   ]
 }
