@@ -1716,6 +1716,24 @@
       },
       "participe_present": "reprenant",
       "participe_passe": ["repris", "reprise", "repris", "reprises"]
+    },
+    {
+      "id": "excuser",
+      "infinitif": "excuser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["excuse", "excuses", "excuse", "excusons", "excusez", "excusent"],
+        "ind.imp": ["excusais", "excusais", "excusait", "excusions", "excusiez", "excusaient"],
+        "ind.ps": ["excusai", "excusas", "excusa", "excusâmes", "excusâtes", "excusèrent"],
+        "ind.fut": ["excuserai", "excuseras", "excusera", "excuserons", "excuserez", "excuseront"],
+        "cond.pres": ["excuserais", "excuserais", "excuserait", "excuserions", "excuseriez", "excuseraient"],
+        "subj.pres": ["excuse", "excuses", "excuse", "excusions", "excusiez", "excusent"],
+        "subj.imp": ["excusasse", "excusasses", "excusât", "excusassions", "excusassiez", "excusassent"],
+        "imper.pres": ["excuse", "excusons", "excusez"]
+      },
+      "participe_present": "excusant",
+      "participe_passe": ["excusé", "excusée", "excusés", "excusées"]
     }
   ]
 }
