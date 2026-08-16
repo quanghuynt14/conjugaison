@@ -2768,6 +2768,24 @@
       },
       "participe_present": "promettant",
       "participe_passe": ["promis", "promise", "promis", "promises"]
+    },
+    {
+      "id": "marier",
+      "infinitif": "marier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["marie", "maries", "marie", "marions", "mariez", "marient"],
+        "ind.imp": ["mariais", "mariais", "mariait", "mariions", "mariiez", "mariaient"],
+        "ind.ps": ["mariai", "marias", "maria", "mariâmes", "mariâtes", "marièrent"],
+        "ind.fut": ["marierai", "marieras", "mariera", "marierons", "marierez", "marieront"],
+        "cond.pres": ["marierais", "marierais", "marierait", "marierions", "marieriez", "marieraient"],
+        "subj.pres": ["marie", "maries", "marie", "mariions", "mariiez", "marient"],
+        "subj.imp": ["mariasse", "mariasses", "mariât", "mariassions", "mariassiez", "mariassent"],
+        "imper.pres": ["marie", "marions", "mariez"]
+      },
+      "participe_present": "mariant",
+      "participe_passe": ["marié", "mariée", "mariés", "mariées"]
     }
   ]
 }
