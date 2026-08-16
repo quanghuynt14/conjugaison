@@ -20675,6 +20675,24 @@
       },
       "participe_present": "complétant",
       "participe_passe": ["complété", "complétée", "complétés", "complétées"]
+    },
+    {
+      "id": "aboyer",
+      "infinitif": "aboyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aboie", "aboies", "aboie", "aboyons", "aboyez", "aboient"],
+        "ind.imp": ["aboyais", "aboyais", "aboyait", "aboyions", "aboyiez", "aboyaient"],
+        "ind.ps": ["aboyai", "aboyas", "aboya", "aboyâmes", "aboyâtes", "aboyèrent"],
+        "ind.fut": ["aboierai", "aboieras", "aboiera", "aboierons", "aboierez", "aboieront"],
+        "cond.pres": ["aboierais", "aboierais", "aboierait", "aboierions", "aboieriez", "aboieraient"],
+        "subj.pres": ["aboie", "aboies", "aboie", "aboyions", "aboyiez", "aboient"],
+        "subj.imp": ["aboyasse", "aboyasses", "aboyât", "aboyassions", "aboyassiez", "aboyassent"],
+        "imper.pres": ["aboie", "aboyons", "aboyez"]
+      },
+      "participe_present": "aboyant",
+      "participe_passe": ["aboyé", "aboyée", "aboyés", "aboyées"]
     }
   ]
 }
