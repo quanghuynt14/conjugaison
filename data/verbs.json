@@ -10281,6 +10281,25 @@
       },
       "participe_present": "cognant",
       "participe_passe": ["cogné", "cognée", "cognés", "cognées"]
+    },
+    {
+      "id": "jouir",
+      "infinitif": "jouir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « joui » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["jouis", "jouis", "jouit", "jouissons", "jouissez", "jouissent"],
+        "ind.imp": ["jouissais", "jouissais", "jouissait", "jouissions", "jouissiez", "jouissaient"],
+        "ind.ps": ["jouis", "jouis", "jouit", "jouîmes", "jouîtes", "jouirent"],
+        "ind.fut": ["jouirai", "jouiras", "jouira", "jouirons", "jouirez", "jouiront"],
+        "cond.pres": ["jouirais", "jouirais", "jouirait", "jouirions", "jouiriez", "jouiraient"],
+        "subj.pres": ["jouisse", "jouisses", "jouisse", "jouissions", "jouissiez", "jouissent"],
+        "subj.imp": ["jouisse", "jouisses", "jouît", "jouissions", "jouissiez", "jouissent"],
+        "imper.pres": ["jouis", "jouissons", "jouissez"]
+      },
+      "participe_present": "jouissant",
+      "participe_passe": ["joui", null, null, null]
     }
   ]
 }
