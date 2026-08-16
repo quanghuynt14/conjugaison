@@ -5173,6 +5173,24 @@
       },
       "participe_present": "ressentant",
       "participe_passe": ["ressenti", "ressentie", "ressentis", "ressenties"]
+    },
+    {
+      "id": "blesser",
+      "infinitif": "blesser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["blesse", "blesses", "blesse", "blessons", "blessez", "blessent"],
+        "ind.imp": ["blessais", "blessais", "blessait", "blessions", "blessiez", "blessaient"],
+        "ind.ps": ["blessai", "blessas", "blessa", "blessâmes", "blessâtes", "blessèrent"],
+        "ind.fut": ["blesserai", "blesseras", "blessera", "blesserons", "blesserez", "blesseront"],
+        "cond.pres": ["blesserais", "blesserais", "blesserait", "blesserions", "blesseriez", "blesseraient"],
+        "subj.pres": ["blesse", "blesses", "blesse", "blessions", "blessiez", "blessent"],
+        "subj.imp": ["blessasse", "blessasses", "blessât", "blessassions", "blessassiez", "blessassent"],
+        "imper.pres": ["blesse", "blessons", "blessez"]
+      },
+      "participe_present": "blessant",
+      "participe_passe": ["blessé", "blessée", "blessés", "blessées"]
     }
   ]
 }
