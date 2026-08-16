@@ -33174,6 +33174,24 @@
       },
       "participe_present": "prisant",
       "participe_passe": ["prisé", "prisée", "prisés", "prisées"]
+    },
+    {
+      "id": "châtier",
+      "infinitif": "châtier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["châtie", "châties", "châtie", "châtions", "châtiez", "châtient"],
+        "ind.imp": ["châtiais", "châtiais", "châtiait", "châtiions", "châtiiez", "châtiaient"],
+        "ind.ps": ["châtiai", "châtias", "châtia", "châtiâmes", "châtiâtes", "châtièrent"],
+        "ind.fut": ["châtierai", "châtieras", "châtiera", "châtierons", "châtierez", "châtieront"],
+        "cond.pres": ["châtierais", "châtierais", "châtierait", "châtierions", "châtieriez", "châtieraient"],
+        "subj.pres": ["châtie", "châties", "châtie", "châtiions", "châtiiez", "châtient"],
+        "subj.imp": ["châtiasse", "châtiasses", "châtiât", "châtiassions", "châtiassiez", "châtiassent"],
+        "imper.pres": ["châtie", "châtions", "châtiez"]
+      },
+      "participe_present": "châtiant",
+      "participe_passe": ["châtié", "châtiée", "châtiés", "châtiées"]
     }
   ]
 }
