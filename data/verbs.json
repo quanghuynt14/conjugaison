@@ -30601,6 +30601,24 @@
       },
       "participe_present": "affligeant",
       "participe_passe": ["affligé", "affligée", "affligés", "affligées"]
+    },
+    {
+      "id": "omettre",
+      "infinitif": "omettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["omets", "omets", "omet", "omettons", "omettez", "omettent"],
+        "ind.imp": ["omettais", "omettais", "omettait", "omettions", "omettiez", "omettaient"],
+        "ind.ps": ["omis", "omis", "omit", "omîmes", "omîtes", "omirent"],
+        "ind.fut": ["omettrai", "omettras", "omettra", "omettrons", "omettrez", "omettront"],
+        "cond.pres": ["omettrais", "omettrais", "omettrait", "omettrions", "omettriez", "omettraient"],
+        "subj.pres": ["omette", "omettes", "omette", "omettions", "omettiez", "omettent"],
+        "subj.imp": ["omisse", "omisses", "omît", "omissions", "omissiez", "omissent"],
+        "imper.pres": ["omets", "omettons", "omettez"]
+      },
+      "participe_present": "omettant",
+      "participe_passe": ["omis", "omise", "omis", "omises"]
     }
   ]
 }
