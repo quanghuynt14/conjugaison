@@ -33266,6 +33266,25 @@
       },
       "participe_present": "symbolisant",
       "participe_passe": ["symbolisé", "symbolisée", "symbolisés", "symbolisées"]
+    },
+    {
+      "id": "trottiner",
+      "infinitif": "trottiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « trottiné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["trottine", "trottines", "trottine", "trottinons", "trottinez", "trottinent"],
+        "ind.imp": ["trottinais", "trottinais", "trottinait", "trottinions", "trottiniez", "trottinaient"],
+        "ind.ps": ["trottinai", "trottinas", "trottina", "trottinâmes", "trottinâtes", "trottinèrent"],
+        "ind.fut": ["trottinerai", "trottineras", "trottinera", "trottinerons", "trottinerez", "trottineront"],
+        "cond.pres": ["trottinerais", "trottinerais", "trottinerait", "trottinerions", "trottineriez", "trottineraient"],
+        "subj.pres": ["trottine", "trottines", "trottine", "trottinions", "trottiniez", "trottinent"],
+        "subj.imp": ["trottinasse", "trottinasses", "trottinât", "trottinassions", "trottinassiez", "trottinassent"],
+        "imper.pres": ["trottine", "trottinons", "trottinez"]
+      },
+      "participe_present": "trottinant",
+      "participe_passe": ["trottiné", null, null, null]
     }
   ]
 }
