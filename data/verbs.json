@@ -31311,6 +31311,26 @@
       },
       "participe_present": "défigurant",
       "participe_passe": ["défiguré", "défigurée", "défigurés", "défigurées"]
+    },
+    {
+      "id": "esclaffer",
+      "infinitif": "esclaffer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’esclaffe » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["esclaffe", "esclaffes", "esclaffe", "esclaffons", "esclaffez", "esclaffent"],
+        "ind.imp": ["esclaffais", "esclaffais", "esclaffait", "esclaffions", "esclaffiez", "esclaffaient"],
+        "ind.ps": ["esclaffai", "esclaffas", "esclaffa", "esclaffâmes", "esclaffâtes", "esclaffèrent"],
+        "ind.fut": ["esclafferai", "esclafferas", "esclaffera", "esclafferons", "esclafferez", "esclafferont"],
+        "cond.pres": ["esclafferais", "esclafferais", "esclafferait", "esclafferions", "esclafferiez", "esclafferaient"],
+        "subj.pres": ["esclaffe", "esclaffes", "esclaffe", "esclaffions", "esclaffiez", "esclaffent"],
+        "subj.imp": ["esclaffasse", "esclaffasses", "esclaffât", "esclaffassions", "esclaffassiez", "esclaffassent"],
+        "imper.pres": ["esclaffe", "esclaffons", "esclaffez"]
+      },
+      "participe_present": "esclaffant",
+      "participe_passe": ["esclaffé", "esclaffée", "esclaffés", "esclaffées"]
     }
   ]
 }
