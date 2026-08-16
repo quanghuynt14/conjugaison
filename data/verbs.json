@@ -31955,6 +31955,24 @@
       },
       "participe_present": "gambergeant",
       "participe_passe": ["gambergé", "gambergée", "gambergés", "gambergées"]
+    },
+    {
+      "id": "sonder",
+      "infinitif": "sonder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sonde", "sondes", "sonde", "sondons", "sondez", "sondent"],
+        "ind.imp": ["sondais", "sondais", "sondait", "sondions", "sondiez", "sondaient"],
+        "ind.ps": ["sondai", "sondas", "sonda", "sondâmes", "sondâtes", "sondèrent"],
+        "ind.fut": ["sonderai", "sonderas", "sondera", "sonderons", "sonderez", "sonderont"],
+        "cond.pres": ["sonderais", "sonderais", "sonderait", "sonderions", "sonderiez", "sonderaient"],
+        "subj.pres": ["sonde", "sondes", "sonde", "sondions", "sondiez", "sondent"],
+        "subj.imp": ["sondasse", "sondasses", "sondât", "sondassions", "sondassiez", "sondassent"],
+        "imper.pres": ["sonde", "sondons", "sondez"]
+      },
+      "participe_present": "sondant",
+      "participe_passe": ["sondé", "sondée", "sondés", "sondées"]
     }
   ]
 }
