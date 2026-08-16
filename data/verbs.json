@@ -35933,6 +35933,24 @@
       },
       "participe_present": "beuglant",
       "participe_passe": ["beuglé", "beuglée", "beuglés", "beuglées"]
+    },
+    {
+      "id": "désintéresser",
+      "infinitif": "désintéresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["désintéresse", "désintéresses", "désintéresse", "désintéressons", "désintéressez", "désintéressent"],
+        "ind.imp": ["désintéressais", "désintéressais", "désintéressait", "désintéressions", "désintéressiez", "désintéressaient"],
+        "ind.ps": ["désintéressai", "désintéressas", "désintéressa", "désintéressâmes", "désintéressâtes", "désintéressèrent"],
+        "ind.fut": ["désintéresserai", "désintéresseras", "désintéressera", "désintéresserons", "désintéresserez", "désintéresseront"],
+        "cond.pres": ["désintéresserais", "désintéresserais", "désintéresserait", "désintéresserions", "désintéresseriez", "désintéresseraient"],
+        "subj.pres": ["désintéresse", "désintéresses", "désintéresse", "désintéressions", "désintéressiez", "désintéressent"],
+        "subj.imp": ["désintéressasse", "désintéressasses", "désintéressât", "désintéressassions", "désintéressassiez", "désintéressassent"],
+        "imper.pres": ["désintéresse", "désintéressons", "désintéressez"]
+      },
+      "participe_present": "désintéressant",
+      "participe_passe": ["désintéressé", "désintéressée", "désintéressés", "désintéressées"]
     }
   ]
 }
