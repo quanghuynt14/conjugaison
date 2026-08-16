@@ -27084,6 +27084,25 @@
       },
       "participe_present": "éclaboussant",
       "participe_passe": ["éclaboussé", "éclaboussée", "éclaboussés", "éclaboussées"]
+    },
+    {
+      "id": "résider",
+      "infinitif": "résider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « résidé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["réside", "résides", "réside", "résidons", "résidez", "résident"],
+        "ind.imp": ["résidais", "résidais", "résidait", "résidions", "résidiez", "résidaient"],
+        "ind.ps": ["résidai", "résidas", "résida", "résidâmes", "résidâtes", "résidèrent"],
+        "ind.fut": ["résiderai", "résideras", "résidera", "résiderons", "résiderez", "résideront"],
+        "cond.pres": ["résiderais", "résiderais", "résiderait", "résiderions", "résideriez", "résideraient"],
+        "subj.pres": ["réside", "résides", "réside", "résidions", "résidiez", "résident"],
+        "subj.imp": ["résidasse", "résidasses", "résidât", "résidassions", "résidassiez", "résidassent"],
+        "imper.pres": ["réside", "résidons", "résidez"]
+      },
+      "participe_present": "résidant",
+      "participe_passe": ["résidé", null, null, null]
     }
   ]
 }
