@@ -13446,6 +13446,24 @@
       },
       "participe_present": "contactant",
       "participe_passe": ["contacté", "contactée", "contactés", "contactées"]
+    },
+    {
+      "id": "torturer",
+      "infinitif": "torturer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["torture", "tortures", "torture", "torturons", "torturez", "torturent"],
+        "ind.imp": ["torturais", "torturais", "torturait", "torturions", "torturiez", "torturaient"],
+        "ind.ps": ["torturai", "torturas", "tortura", "torturâmes", "torturâtes", "torturèrent"],
+        "ind.fut": ["torturerai", "tortureras", "torturera", "torturerons", "torturerez", "tortureront"],
+        "cond.pres": ["torturerais", "torturerais", "torturerait", "torturerions", "tortureriez", "tortureraient"],
+        "subj.pres": ["torture", "tortures", "torture", "torturions", "torturiez", "torturent"],
+        "subj.imp": ["torturasse", "torturasses", "torturât", "torturassions", "torturassiez", "torturassent"],
+        "imper.pres": ["torture", "torturons", "torturez"]
+      },
+      "participe_present": "torturant",
+      "participe_passe": ["torturé", "torturée", "torturés", "torturées"]
     }
   ]
 }
