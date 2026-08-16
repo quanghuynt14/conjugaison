@@ -26171,6 +26171,24 @@
       },
       "participe_present": "infectant",
       "participe_passe": ["infecté", "infectée", "infectés", "infectées"]
+    },
+    {
+      "id": "allier",
+      "infinitif": "allier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["allie", "allies", "allie", "allions", "alliez", "allient"],
+        "ind.imp": ["alliais", "alliais", "alliait", "alliions", "alliiez", "alliaient"],
+        "ind.ps": ["alliai", "allias", "allia", "alliâmes", "alliâtes", "allièrent"],
+        "ind.fut": ["allierai", "allieras", "alliera", "allierons", "allierez", "allieront"],
+        "cond.pres": ["allierais", "allierais", "allierait", "allierions", "allieriez", "allieraient"],
+        "subj.pres": ["allie", "allies", "allie", "alliions", "alliiez", "allient"],
+        "subj.imp": ["alliasse", "alliasses", "alliât", "alliassions", "alliassiez", "alliassent"],
+        "imper.pres": ["allie", "allions", "alliez"]
+      },
+      "participe_present": "alliant",
+      "participe_passe": ["allié", "alliée", "alliés", "alliées"]
     }
   ]
 }
