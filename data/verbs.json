@@ -31385,6 +31385,24 @@
       },
       "participe_present": "stimulant",
       "participe_passe": ["stimulé", "stimulée", "stimulés", "stimulées"]
+    },
+    {
+      "id": "imbiber",
+      "infinitif": "imbiber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["imbibe", "imbibes", "imbibe", "imbibons", "imbibez", "imbibent"],
+        "ind.imp": ["imbibais", "imbibais", "imbibait", "imbibions", "imbibiez", "imbibaient"],
+        "ind.ps": ["imbibai", "imbibas", "imbiba", "imbibâmes", "imbibâtes", "imbibèrent"],
+        "ind.fut": ["imbiberai", "imbiberas", "imbibera", "imbiberons", "imbiberez", "imbiberont"],
+        "cond.pres": ["imbiberais", "imbiberais", "imbiberait", "imbiberions", "imbiberiez", "imbiberaient"],
+        "subj.pres": ["imbibe", "imbibes", "imbibe", "imbibions", "imbibiez", "imbibent"],
+        "subj.imp": ["imbibasse", "imbibasses", "imbibât", "imbibassions", "imbibassiez", "imbibassent"],
+        "imper.pres": ["imbibe", "imbibons", "imbibez"]
+      },
+      "participe_present": "imbibant",
+      "participe_passe": ["imbibé", "imbibée", "imbibés", "imbibées"]
     }
   ]
 }
