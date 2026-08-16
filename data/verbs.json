@@ -32446,6 +32446,25 @@
       },
       "participe_present": "perlant",
       "participe_passe": ["perlé", "perlée", "perlés", "perlées"]
+    },
+    {
+      "id": "réintégrer",
+      "infinitif": "réintégrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je réintégrerai » ou « je réintègrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["réintègre", "réintègres", "réintègre", "réintégrons", "réintégrez", "réintègrent"],
+        "ind.imp": ["réintégrais", "réintégrais", "réintégrait", "réintégrions", "réintégriez", "réintégraient"],
+        "ind.ps": ["réintégrai", "réintégras", "réintégra", "réintégrâmes", "réintégrâtes", "réintégrèrent"],
+        "ind.fut": [["réintégrerai", "réintègrerai"], ["réintégreras", "réintègreras"], ["réintégrera", "réintègrera"], ["réintégrerons", "réintègrerons"], ["réintégrerez", "réintègrerez"], ["réintégreront", "réintègreront"]],
+        "cond.pres": [["réintégrerais", "réintègrerais"], ["réintégrerais", "réintègrerais"], ["réintégrerait", "réintègrerait"], ["réintégrerions", "réintègrerions"], ["réintégreriez", "réintègreriez"], ["réintégreraient", "réintègreraient"]],
+        "subj.pres": ["réintègre", "réintègres", "réintègre", "réintégrions", "réintégriez", "réintègrent"],
+        "subj.imp": ["réintégrasse", "réintégrasses", "réintégrât", "réintégrassions", "réintégrassiez", "réintégrassent"],
+        "imper.pres": ["réintègre", "réintégrons", "réintégrez"]
+      },
+      "participe_present": "réintégrant",
+      "participe_passe": ["réintégré", "réintégrée", "réintégrés", "réintégrées"]
     }
   ]
 }
