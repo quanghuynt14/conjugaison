@@ -36406,6 +36406,24 @@
       },
       "participe_present": "jubilant",
       "participe_passe": ["jubilé", null, null, null]
+    },
+    {
+      "id": "geindre",
+      "infinitif": "geindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["geins", "geins", "geint", "geignons", "geignez", "geignent"],
+        "ind.imp": ["geignais", "geignais", "geignait", "geignions", "geigniez", "geignaient"],
+        "ind.ps": ["geignis", "geignis", "geignit", "geignîmes", "geignîtes", "geignirent"],
+        "ind.fut": ["geindrai", "geindras", "geindra", "geindrons", "geindrez", "geindront"],
+        "cond.pres": ["geindrais", "geindrais", "geindrait", "geindrions", "geindriez", "geindraient"],
+        "subj.pres": ["geigne", "geignes", "geigne", "geignions", "geigniez", "geignent"],
+        "subj.imp": ["geignisse", "geignisses", "geignît", "geignissions", "geignissiez", "geignissent"],
+        "imper.pres": ["geins", "geignons", "geignez"]
+      },
+      "participe_present": "geignant",
+      "participe_passe": ["geint", "geinte", "geints", "geintes"]
     }
   ]
 }
