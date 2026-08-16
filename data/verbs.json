@@ -10227,6 +10227,24 @@
       },
       "participe_present": "composant",
       "participe_passe": ["composé", "composée", "composés", "composées"]
+    },
+    {
+      "id": "disputer",
+      "infinitif": "disputer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dispute", "disputes", "dispute", "disputons", "disputez", "disputent"],
+        "ind.imp": ["disputais", "disputais", "disputait", "disputions", "disputiez", "disputaient"],
+        "ind.ps": ["disputai", "disputas", "disputa", "disputâmes", "disputâtes", "disputèrent"],
+        "ind.fut": ["disputerai", "disputeras", "disputera", "disputerons", "disputerez", "disputeront"],
+        "cond.pres": ["disputerais", "disputerais", "disputerait", "disputerions", "disputeriez", "disputeraient"],
+        "subj.pres": ["dispute", "disputes", "dispute", "disputions", "disputiez", "disputent"],
+        "subj.imp": ["disputasse", "disputasses", "disputât", "disputassions", "disputassiez", "disputassent"],
+        "imper.pres": ["dispute", "disputons", "disputez"]
+      },
+      "participe_present": "disputant",
+      "participe_passe": ["disputé", "disputée", "disputés", "disputées"]
     }
   ]
 }
