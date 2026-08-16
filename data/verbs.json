@@ -8957,6 +8957,24 @@
       },
       "participe_present": "bouffant",
       "participe_passe": ["bouffé", "bouffée", "bouffés", "bouffées"]
+    },
+    {
+      "id": "soupirer",
+      "infinitif": "soupirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["soupire", "soupires", "soupire", "soupirons", "soupirez", "soupirent"],
+        "ind.imp": ["soupirais", "soupirais", "soupirait", "soupirions", "soupiriez", "soupiraient"],
+        "ind.ps": ["soupirai", "soupiras", "soupira", "soupirâmes", "soupirâtes", "soupirèrent"],
+        "ind.fut": ["soupirerai", "soupireras", "soupirera", "soupirerons", "soupirerez", "soupireront"],
+        "cond.pres": ["soupirerais", "soupirerais", "soupirerait", "soupirerions", "soupireriez", "soupireraient"],
+        "subj.pres": ["soupire", "soupires", "soupire", "soupirions", "soupiriez", "soupirent"],
+        "subj.imp": ["soupirasse", "soupirasses", "soupirât", "soupirassions", "soupirassiez", "soupirassent"],
+        "imper.pres": ["soupire", "soupirons", "soupirez"]
+      },
+      "participe_present": "soupirant",
+      "participe_passe": ["soupiré", "soupirée", "soupirés", "soupirées"]
     }
   ]
 }
