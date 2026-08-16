@@ -7511,6 +7511,24 @@
       },
       "participe_present": "exigeant",
       "participe_passe": ["exigé", "exigée", "exigés", "exigées"]
+    },
+    {
+      "id": "peser",
+      "infinitif": "peser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pèse", "pèses", "pèse", "pesons", "pesez", "pèsent"],
+        "ind.imp": ["pesais", "pesais", "pesait", "pesions", "pesiez", "pesaient"],
+        "ind.ps": ["pesai", "pesas", "pesa", "pesâmes", "pesâtes", "pesèrent"],
+        "ind.fut": ["pèserai", "pèseras", "pèsera", "pèserons", "pèserez", "pèseront"],
+        "cond.pres": ["pèserais", "pèserais", "pèserait", "pèserions", "pèseriez", "pèseraient"],
+        "subj.pres": ["pèse", "pèses", "pèse", "pesions", "pesiez", "pèsent"],
+        "subj.imp": ["pesasse", "pesasses", "pesât", "pesassions", "pesassiez", "pesassent"],
+        "imper.pres": ["pèse", "pesons", "pesez"]
+      },
+      "participe_present": "pesant",
+      "participe_passe": ["pesé", "pesée", "pesés", "pesées"]
     }
   ]
 }
