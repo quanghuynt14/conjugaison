@@ -3600,6 +3600,24 @@
       },
       "participe_present": "maintenant",
       "participe_passe": ["maintenu", "maintenue", "maintenus", "maintenues"]
+    },
+    {
+      "id": "retenir",
+      "infinitif": "retenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["retiens", "retiens", "retient", "retenons", "retenez", "retiennent"],
+        "ind.imp": ["retenais", "retenais", "retenait", "retenions", "reteniez", "retenaient"],
+        "ind.ps": ["retins", "retins", "retint", "retînmes", "retîntes", "retinrent"],
+        "ind.fut": ["retiendrai", "retiendras", "retiendra", "retiendrons", "retiendrez", "retiendront"],
+        "cond.pres": ["retiendrais", "retiendrais", "retiendrait", "retiendrions", "retiendriez", "retiendraient"],
+        "subj.pres": ["retienne", "retiennes", "retienne", "retenions", "reteniez", "retiennent"],
+        "subj.imp": ["retinsse", "retinsses", "retînt", "retinssions", "retinssiez", "retinssent"],
+        "imper.pres": ["retiens", "retenons", "retenez"]
+      },
+      "participe_present": "retenant",
+      "participe_passe": ["retenu", "retenue", "retenus", "retenues"]
     }
   ]
 }
