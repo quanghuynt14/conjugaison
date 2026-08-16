@@ -16823,6 +16823,25 @@
       },
       "participe_present": "empoignant",
       "participe_passe": ["empoigné", "empoignée", "empoignés", "empoignées"]
+    },
+    {
+      "id": "refléter",
+      "infinitif": "refléter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je refléterai » ou « je reflèterai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["reflète", "reflètes", "reflète", "reflétons", "reflétez", "reflètent"],
+        "ind.imp": ["reflétais", "reflétais", "reflétait", "reflétions", "reflétiez", "reflétaient"],
+        "ind.ps": ["reflétai", "reflétas", "refléta", "reflétâmes", "reflétâtes", "reflétèrent"],
+        "ind.fut": [["refléterai", "reflèterai"], ["refléteras", "reflèteras"], ["reflétera", "reflètera"], ["refléterons", "reflèterons"], ["refléterez", "reflèterez"], ["refléteront", "reflèteront"]],
+        "cond.pres": [["refléterais", "reflèterais"], ["refléterais", "reflèterais"], ["refléterait", "reflèterait"], ["refléterions", "reflèterions"], ["refléteriez", "reflèteriez"], ["refléteraient", "reflèteraient"]],
+        "subj.pres": ["reflète", "reflètes", "reflète", "reflétions", "reflétiez", "reflètent"],
+        "subj.imp": ["reflétasse", "reflétasses", "reflétât", "reflétassions", "reflétassiez", "reflétassent"],
+        "imper.pres": ["reflète", "reflétons", "reflétez"]
+      },
+      "participe_present": "reflétant",
+      "participe_passe": ["reflété", "reflétée", "reflétés", "reflétées"]
     }
   ]
 }
