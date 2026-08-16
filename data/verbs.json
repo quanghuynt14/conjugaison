@@ -8380,6 +8380,24 @@
       },
       "participe_present": "franchissant",
       "participe_passe": ["franchi", "franchie", "franchis", "franchies"]
+    },
+    {
+      "id": "lier",
+      "infinitif": "lier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["lie", "lies", "lie", "lions", "liez", "lient"],
+        "ind.imp": ["liais", "liais", "liait", "liions", "liiez", "liaient"],
+        "ind.ps": ["liai", "lias", "lia", "liâmes", "liâtes", "lièrent"],
+        "ind.fut": ["lierai", "lieras", "liera", "lierons", "lierez", "lieront"],
+        "cond.pres": ["lierais", "lierais", "lierait", "lierions", "lieriez", "lieraient"],
+        "subj.pres": ["lie", "lies", "lie", "liions", "liiez", "lient"],
+        "subj.imp": ["liasse", "liasses", "liât", "liassions", "liassiez", "liassent"],
+        "imper.pres": ["lie", "lions", "liez"]
+      },
+      "participe_present": "liant",
+      "participe_passe": ["lié", "liée", "liés", "liées"]
     }
   ]
 }
