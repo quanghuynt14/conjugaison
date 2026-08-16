@@ -36023,6 +36023,24 @@
       },
       "participe_present": "espaçant",
       "participe_passe": ["espacé", "espacée", "espacés", "espacées"]
+    },
+    {
+      "id": "émigrer",
+      "infinitif": "émigrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["émigre", "émigres", "émigre", "émigrons", "émigrez", "émigrent"],
+        "ind.imp": ["émigrais", "émigrais", "émigrait", "émigrions", "émigriez", "émigraient"],
+        "ind.ps": ["émigrai", "émigras", "émigra", "émigrâmes", "émigrâtes", "émigrèrent"],
+        "ind.fut": ["émigrerai", "émigreras", "émigrera", "émigrerons", "émigrerez", "émigreront"],
+        "cond.pres": ["émigrerais", "émigrerais", "émigrerait", "émigrerions", "émigreriez", "émigreraient"],
+        "subj.pres": ["émigre", "émigres", "émigre", "émigrions", "émigriez", "émigrent"],
+        "subj.imp": ["émigrasse", "émigrasses", "émigrât", "émigrassions", "émigrassiez", "émigrassent"],
+        "imper.pres": ["émigre", "émigrons", "émigrez"]
+      },
+      "participe_present": "émigrant",
+      "participe_passe": ["émigré", "émigrée", "émigrés", "émigrées"]
     }
   ]
 }
