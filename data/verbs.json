@@ -27321,6 +27321,24 @@
       },
       "participe_present": "exhalant",
       "participe_passe": ["exhalé", "exhalée", "exhalés", "exhalées"]
+    },
+    {
+      "id": "varier",
+      "infinitif": "varier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["varie", "varies", "varie", "varions", "variez", "varient"],
+        "ind.imp": ["variais", "variais", "variait", "variions", "variiez", "variaient"],
+        "ind.ps": ["variai", "varias", "varia", "variâmes", "variâtes", "varièrent"],
+        "ind.fut": ["varierai", "varieras", "variera", "varierons", "varierez", "varieront"],
+        "cond.pres": ["varierais", "varierais", "varierait", "varierions", "varieriez", "varieraient"],
+        "subj.pres": ["varie", "varies", "varie", "variions", "variiez", "varient"],
+        "subj.imp": ["variasse", "variasses", "variât", "variassions", "variassiez", "variassent"],
+        "imper.pres": ["varie", "varions", "variez"]
+      },
+      "participe_present": "variant",
+      "participe_passe": ["varié", "variée", "variés", "variées"]
     }
   ]
 }
