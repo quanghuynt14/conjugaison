@@ -16114,6 +16114,24 @@
       },
       "participe_present": "reniflant",
       "participe_passe": ["reniflé", "reniflée", "reniflés", "reniflées"]
+    },
+    {
+      "id": "frôler",
+      "infinitif": "frôler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["frôle", "frôles", "frôle", "frôlons", "frôlez", "frôlent"],
+        "ind.imp": ["frôlais", "frôlais", "frôlait", "frôlions", "frôliez", "frôlaient"],
+        "ind.ps": ["frôlai", "frôlas", "frôla", "frôlâmes", "frôlâtes", "frôlèrent"],
+        "ind.fut": ["frôlerai", "frôleras", "frôlera", "frôlerons", "frôlerez", "frôleront"],
+        "cond.pres": ["frôlerais", "frôlerais", "frôlerait", "frôlerions", "frôleriez", "frôleraient"],
+        "subj.pres": ["frôle", "frôles", "frôle", "frôlions", "frôliez", "frôlent"],
+        "subj.imp": ["frôlasse", "frôlasses", "frôlât", "frôlassions", "frôlassiez", "frôlassent"],
+        "imper.pres": ["frôle", "frôlons", "frôlez"]
+      },
+      "participe_present": "frôlant",
+      "participe_passe": ["frôlé", "frôlée", "frôlés", "frôlées"]
     }
   ]
 }
