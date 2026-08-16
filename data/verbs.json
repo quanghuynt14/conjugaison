@@ -21873,6 +21873,24 @@
       },
       "participe_present": "endurant",
       "participe_passe": ["enduré", "endurée", "endurés", "endurées"]
+    },
+    {
+      "id": "incruster",
+      "infinitif": "incruster",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["incruste", "incrustes", "incruste", "incrustons", "incrustez", "incrustent"],
+        "ind.imp": ["incrustais", "incrustais", "incrustait", "incrustions", "incrustiez", "incrustaient"],
+        "ind.ps": ["incrustai", "incrustas", "incrusta", "incrustâmes", "incrustâtes", "incrustèrent"],
+        "ind.fut": ["incrusterai", "incrusteras", "incrustera", "incrusterons", "incrusterez", "incrusteront"],
+        "cond.pres": ["incrusterais", "incrusterais", "incrusterait", "incrusterions", "incrusteriez", "incrusteraient"],
+        "subj.pres": ["incruste", "incrustes", "incruste", "incrustions", "incrustiez", "incrustent"],
+        "subj.imp": ["incrustasse", "incrustasses", "incrustât", "incrustassions", "incrustassiez", "incrustassent"],
+        "imper.pres": ["incruste", "incrustons", "incrustez"]
+      },
+      "participe_present": "incrustant",
+      "participe_passe": ["incrusté", "incrustée", "incrustés", "incrustées"]
     }
   ]
 }
