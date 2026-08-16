@@ -18078,6 +18078,24 @@
       },
       "participe_present": "planant",
       "participe_passe": ["plané", "planée", "planés", "planées"]
+    },
+    {
+      "id": "dissiper",
+      "infinitif": "dissiper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dissipe", "dissipes", "dissipe", "dissipons", "dissipez", "dissipent"],
+        "ind.imp": ["dissipais", "dissipais", "dissipait", "dissipions", "dissipiez", "dissipaient"],
+        "ind.ps": ["dissipai", "dissipas", "dissipa", "dissipâmes", "dissipâtes", "dissipèrent"],
+        "ind.fut": ["dissiperai", "dissiperas", "dissipera", "dissiperons", "dissiperez", "dissiperont"],
+        "cond.pres": ["dissiperais", "dissiperais", "dissiperait", "dissiperions", "dissiperiez", "dissiperaient"],
+        "subj.pres": ["dissipe", "dissipes", "dissipe", "dissipions", "dissipiez", "dissipent"],
+        "subj.imp": ["dissipasse", "dissipasses", "dissipât", "dissipassions", "dissipassiez", "dissipassent"],
+        "imper.pres": ["dissipe", "dissipons", "dissipez"]
+      },
+      "participe_present": "dissipant",
+      "participe_passe": ["dissipé", "dissipée", "dissipés", "dissipées"]
     }
   ]
 }
