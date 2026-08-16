@@ -15680,6 +15680,24 @@
       },
       "participe_present": "déguisant",
       "participe_passe": ["déguisé", "déguisée", "déguisés", "déguisées"]
+    },
+    {
+      "id": "lasser",
+      "infinitif": "lasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["lasse", "lasses", "lasse", "lassons", "lassez", "lassent"],
+        "ind.imp": ["lassais", "lassais", "lassait", "lassions", "lassiez", "lassaient"],
+        "ind.ps": ["lassai", "lassas", "lassa", "lassâmes", "lassâtes", "lassèrent"],
+        "ind.fut": ["lasserai", "lasseras", "lassera", "lasserons", "lasserez", "lasseront"],
+        "cond.pres": ["lasserais", "lasserais", "lasserait", "lasserions", "lasseriez", "lasseraient"],
+        "subj.pres": ["lasse", "lasses", "lasse", "lassions", "lassiez", "lassent"],
+        "subj.imp": ["lassasse", "lassasses", "lassât", "lassassions", "lassassiez", "lassassent"],
+        "imper.pres": ["lasse", "lassons", "lassez"]
+      },
+      "participe_present": "lassant",
+      "participe_passe": ["lassé", "lassée", "lassés", "lassées"]
     }
   ]
 }
