@@ -23671,6 +23671,24 @@
       },
       "participe_present": "croissant",
       "participe_passe": ["crû", "crue", "crus", "crues"]
+    },
+    {
+      "id": "cramponner",
+      "infinitif": "cramponner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cramponne", "cramponnes", "cramponne", "cramponnons", "cramponnez", "cramponnent"],
+        "ind.imp": ["cramponnais", "cramponnais", "cramponnait", "cramponnions", "cramponniez", "cramponnaient"],
+        "ind.ps": ["cramponnai", "cramponnas", "cramponna", "cramponnâmes", "cramponnâtes", "cramponnèrent"],
+        "ind.fut": ["cramponnerai", "cramponneras", "cramponnera", "cramponnerons", "cramponnerez", "cramponneront"],
+        "cond.pres": ["cramponnerais", "cramponnerais", "cramponnerait", "cramponnerions", "cramponneriez", "cramponneraient"],
+        "subj.pres": ["cramponne", "cramponnes", "cramponne", "cramponnions", "cramponniez", "cramponnent"],
+        "subj.imp": ["cramponnasse", "cramponnasses", "cramponnât", "cramponnassions", "cramponnassiez", "cramponnassent"],
+        "imper.pres": ["cramponne", "cramponnons", "cramponnez"]
+      },
+      "participe_present": "cramponnant",
+      "participe_passe": ["cramponné", "cramponnée", "cramponnés", "cramponnées"]
     }
   ]
 }
