@@ -3148,6 +3148,24 @@
       },
       "participe_present": "trompant",
       "participe_passe": ["trompé", "trompée", "trompés", "trompées"]
+    },
+    {
+      "id": "cesser",
+      "infinitif": "cesser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cesse", "cesses", "cesse", "cessons", "cessez", "cessent"],
+        "ind.imp": ["cessais", "cessais", "cessait", "cessions", "cessiez", "cessaient"],
+        "ind.ps": ["cessai", "cessas", "cessa", "cessâmes", "cessâtes", "cessèrent"],
+        "ind.fut": ["cesserai", "cesseras", "cessera", "cesserons", "cesserez", "cesseront"],
+        "cond.pres": ["cesserais", "cesserais", "cesserait", "cesserions", "cesseriez", "cesseraient"],
+        "subj.pres": ["cesse", "cesses", "cesse", "cessions", "cessiez", "cessent"],
+        "subj.imp": ["cessasse", "cessasses", "cessât", "cessassions", "cessassiez", "cessassent"],
+        "imper.pres": ["cesse", "cessons", "cessez"]
+      },
+      "participe_present": "cessant",
+      "participe_passe": ["cessé", "cessée", "cessés", "cessées"]
     }
   ]
 }
