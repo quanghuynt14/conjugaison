@@ -15570,6 +15570,24 @@
       },
       "participe_present": "saurant",
       "participe_passe": ["sauré", "saurée", "saurés", "saurées"]
+    },
+    {
+      "id": "reproduire",
+      "infinitif": "reproduire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["reproduis", "reproduis", "reproduit", "reproduisons", "reproduisez", "reproduisent"],
+        "ind.imp": ["reproduisais", "reproduisais", "reproduisait", "reproduisions", "reproduisiez", "reproduisaient"],
+        "ind.ps": ["reproduisis", "reproduisis", "reproduisit", "reproduisîmes", "reproduisîtes", "reproduisirent"],
+        "ind.fut": ["reproduirai", "reproduiras", "reproduira", "reproduirons", "reproduirez", "reproduiront"],
+        "cond.pres": ["reproduirais", "reproduirais", "reproduirait", "reproduirions", "reproduiriez", "reproduiraient"],
+        "subj.pres": ["reproduise", "reproduises", "reproduise", "reproduisions", "reproduisiez", "reproduisent"],
+        "subj.imp": ["reproduisisse", "reproduisisses", "reproduisît", "reproduisissions", "reproduisissiez", "reproduisissent"],
+        "imper.pres": ["reproduis", "reproduisons", "reproduisez"]
+      },
+      "participe_present": "reproduisant",
+      "participe_passe": ["reproduit", "reproduite", "reproduits", "reproduites"]
     }
   ]
 }
