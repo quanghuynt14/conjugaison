@@ -24571,6 +24571,24 @@
       },
       "participe_present": "frayant",
       "participe_passe": ["frayé", "frayée", "frayés", "frayées"]
+    },
+    {
+      "id": "déverser",
+      "infinitif": "déverser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déverse", "déverses", "déverse", "déversons", "déversez", "déversent"],
+        "ind.imp": ["déversais", "déversais", "déversait", "déversions", "déversiez", "déversaient"],
+        "ind.ps": ["déversai", "déversas", "déversa", "déversâmes", "déversâtes", "déversèrent"],
+        "ind.fut": ["déverserai", "déverseras", "déversera", "déverserons", "déverserez", "déverseront"],
+        "cond.pres": ["déverserais", "déverserais", "déverserait", "déverserions", "déverseriez", "déverseraient"],
+        "subj.pres": ["déverse", "déverses", "déverse", "déversions", "déversiez", "déversent"],
+        "subj.imp": ["déversasse", "déversasses", "déversât", "déversassions", "déversassiez", "déversassent"],
+        "imper.pres": ["déverse", "déversons", "déversez"]
+      },
+      "participe_present": "déversant",
+      "participe_passe": ["déversé", "déversée", "déversés", "déversées"]
     }
   ]
 }
