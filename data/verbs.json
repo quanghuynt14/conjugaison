@@ -31550,6 +31550,25 @@
       },
       "participe_present": "gourant",
       "participe_passe": ["gouré", "gourée", "gourés", "gourées"]
+    },
+    {
+      "id": "pédaler",
+      "infinitif": "pédaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « pédalé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["pédale", "pédales", "pédale", "pédalons", "pédalez", "pédalent"],
+        "ind.imp": ["pédalais", "pédalais", "pédalait", "pédalions", "pédaliez", "pédalaient"],
+        "ind.ps": ["pédalai", "pédalas", "pédala", "pédalâmes", "pédalâtes", "pédalèrent"],
+        "ind.fut": ["pédalerai", "pédaleras", "pédalera", "pédalerons", "pédalerez", "pédaleront"],
+        "cond.pres": ["pédalerais", "pédalerais", "pédalerait", "pédalerions", "pédaleriez", "pédaleraient"],
+        "subj.pres": ["pédale", "pédales", "pédale", "pédalions", "pédaliez", "pédalent"],
+        "subj.imp": ["pédalasse", "pédalasses", "pédalât", "pédalassions", "pédalassiez", "pédalassent"],
+        "imper.pres": ["pédale", "pédalons", "pédalez"]
+      },
+      "participe_present": "pédalant",
+      "participe_passe": ["pédalé", null, null, null]
     }
   ]
 }
