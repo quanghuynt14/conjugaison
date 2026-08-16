@@ -20491,6 +20491,24 @@
       },
       "participe_present": "déchaînant",
       "participe_passe": ["déchaîné", "déchaînée", "déchaînés", "déchaînées"]
+    },
+    {
+      "id": "bombarder",
+      "infinitif": "bombarder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bombarde", "bombardes", "bombarde", "bombardons", "bombardez", "bombardent"],
+        "ind.imp": ["bombardais", "bombardais", "bombardait", "bombardions", "bombardiez", "bombardaient"],
+        "ind.ps": ["bombardai", "bombardas", "bombarda", "bombardâmes", "bombardâtes", "bombardèrent"],
+        "ind.fut": ["bombarderai", "bombarderas", "bombardera", "bombarderons", "bombarderez", "bombarderont"],
+        "cond.pres": ["bombarderais", "bombarderais", "bombarderait", "bombarderions", "bombarderiez", "bombarderaient"],
+        "subj.pres": ["bombarde", "bombardes", "bombarde", "bombardions", "bombardiez", "bombardent"],
+        "subj.imp": ["bombardasse", "bombardasses", "bombardât", "bombardassions", "bombardassiez", "bombardassent"],
+        "imper.pres": ["bombarde", "bombardons", "bombardez"]
+      },
+      "participe_present": "bombardant",
+      "participe_passe": ["bombardé", "bombardée", "bombardés", "bombardées"]
     }
   ]
 }
