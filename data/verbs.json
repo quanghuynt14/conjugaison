@@ -14537,6 +14537,24 @@
       },
       "participe_present": "gueulant",
       "participe_passe": ["gueulé", "gueulée", "gueulés", "gueulées"]
+    },
+    {
+      "id": "agacer",
+      "infinitif": "agacer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["agace", "agaces", "agace", "agaçons", "agacez", "agacent"],
+        "ind.imp": ["agaçais", "agaçais", "agaçait", "agacions", "agaciez", "agaçaient"],
+        "ind.ps": ["agaçai", "agaças", "agaça", "agaçâmes", "agaçâtes", "agacèrent"],
+        "ind.fut": ["agacerai", "agaceras", "agacera", "agacerons", "agacerez", "agaceront"],
+        "cond.pres": ["agacerais", "agacerais", "agacerait", "agacerions", "agaceriez", "agaceraient"],
+        "subj.pres": ["agace", "agaces", "agace", "agacions", "agaciez", "agacent"],
+        "subj.imp": ["agaçasse", "agaçasses", "agaçât", "agaçassions", "agaçassiez", "agaçassent"],
+        "imper.pres": ["agace", "agaçons", "agacez"]
+      },
+      "participe_present": "agaçant",
+      "participe_passe": ["agacé", "agacée", "agacés", "agacées"]
     }
   ]
 }
