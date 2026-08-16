@@ -2116,6 +2116,24 @@
       },
       "participe_present": "cachant",
       "participe_passe": ["caché", "cachée", "cachés", "cachées"]
+    },
+    {
+      "id": "battre",
+      "infinitif": "battre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bats", "bats", "bat", "battons", "battez", "battent"],
+        "ind.imp": ["battais", "battais", "battait", "battions", "battiez", "battaient"],
+        "ind.ps": ["battis", "battis", "battit", "battîmes", "battîtes", "battirent"],
+        "ind.fut": ["battrai", "battras", "battra", "battrons", "battrez", "battront"],
+        "cond.pres": ["battrais", "battrais", "battrait", "battrions", "battriez", "battraient"],
+        "subj.pres": ["batte", "battes", "batte", "battions", "battiez", "battent"],
+        "subj.imp": ["battisse", "battisses", "battît", "battissions", "battissiez", "battissent"],
+        "imper.pres": ["bats", "battons", "battez"]
+      },
+      "participe_present": "battant",
+      "participe_passe": ["battu", "battue", "battus", "battues"]
     }
   ]
 }
