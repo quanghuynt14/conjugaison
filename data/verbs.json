@@ -29565,6 +29565,24 @@
       },
       "participe_present": "entonnant",
       "participe_passe": ["entonné", "entonnée", "entonnés", "entonnées"]
+    },
+    {
+      "id": "pomper",
+      "infinitif": "pomper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pompe", "pompes", "pompe", "pompons", "pompez", "pompent"],
+        "ind.imp": ["pompais", "pompais", "pompait", "pompions", "pompiez", "pompaient"],
+        "ind.ps": ["pompai", "pompas", "pompa", "pompâmes", "pompâtes", "pompèrent"],
+        "ind.fut": ["pomperai", "pomperas", "pompera", "pomperons", "pomperez", "pomperont"],
+        "cond.pres": ["pomperais", "pomperais", "pomperait", "pomperions", "pomperiez", "pomperaient"],
+        "subj.pres": ["pompe", "pompes", "pompe", "pompions", "pompiez", "pompent"],
+        "subj.imp": ["pompasse", "pompasses", "pompât", "pompassions", "pompassiez", "pompassent"],
+        "imper.pres": ["pompe", "pompons", "pompez"]
+      },
+      "participe_present": "pompant",
+      "participe_passe": ["pompé", "pompée", "pompés", "pompées"]
     }
   ]
 }
