@@ -27796,6 +27796,24 @@
       },
       "participe_present": "sapant",
       "participe_passe": ["sapé", "sapée", "sapés", "sapées"]
+    },
+    {
+      "id": "visser",
+      "infinitif": "visser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["visse", "visses", "visse", "vissons", "vissez", "vissent"],
+        "ind.imp": ["vissais", "vissais", "vissait", "vissions", "vissiez", "vissaient"],
+        "ind.ps": ["vissai", "vissas", "vissa", "vissâmes", "vissâtes", "vissèrent"],
+        "ind.fut": ["visserai", "visseras", "vissera", "visserons", "visserez", "visseront"],
+        "cond.pres": ["visserais", "visserais", "visserait", "visserions", "visseriez", "visseraient"],
+        "subj.pres": ["visse", "visses", "visse", "vissions", "vissiez", "vissent"],
+        "subj.imp": ["vissasse", "vissasses", "vissât", "vissassions", "vissassiez", "vissassent"],
+        "imper.pres": ["visse", "vissons", "vissez"]
+      },
+      "participe_present": "vissant",
+      "participe_passe": ["vissé", "vissée", "vissés", "vissées"]
     }
   ]
 }
