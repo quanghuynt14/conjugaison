@@ -1204,6 +1204,25 @@
       },
       "participe_present": "travaillant",
       "participe_passe": ["travaillé", "travaillée", "travaillés", "travaillées"]
+    },
+    {
+      "id": "monter",
+      "infinitif": "monter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis monté ». Avec un complément d'objet direct, avoir : « j'ai monté les valises ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["monte", "montes", "monte", "montons", "montez", "montent"],
+        "ind.imp": ["montais", "montais", "montait", "montions", "montiez", "montaient"],
+        "ind.ps": ["montai", "montas", "monta", "montâmes", "montâtes", "montèrent"],
+        "ind.fut": ["monterai", "monteras", "montera", "monterons", "monterez", "monteront"],
+        "cond.pres": ["monterais", "monterais", "monterait", "monterions", "monteriez", "monteraient"],
+        "subj.pres": ["monte", "montes", "monte", "montions", "montiez", "montent"],
+        "subj.imp": ["montasse", "montasses", "montât", "montassions", "montassiez", "montassent"],
+        "imper.pres": ["monte", "montons", "montez"]
+      },
+      "participe_present": "montant",
+      "participe_passe": ["monté", "montée", "montés", "montées"]
     }
   ]
 }
