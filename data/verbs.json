@@ -26189,6 +26189,24 @@
       },
       "participe_present": "alliant",
       "participe_passe": ["allié", "alliée", "alliés", "alliées"]
+    },
+    {
+      "id": "requérir",
+      "infinitif": "requérir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["requiers", "requiers", "requiert", "requérons", "requérez", "requièrent"],
+        "ind.imp": ["requérais", "requérais", "requérait", "requérions", "requériez", "requéraient"],
+        "ind.ps": ["requis", "requis", "requit", "requîmes", "requîtes", "requirent"],
+        "ind.fut": ["requerrai", "requerras", "requerra", "requerrons", "requerrez", "requerront"],
+        "cond.pres": ["requerrais", "requerrais", "requerrait", "requerrions", "requerriez", "requerraient"],
+        "subj.pres": ["requière", "requières", "requière", "requérions", "requériez", "requièrent"],
+        "subj.imp": ["requisse", "requisses", "requît", "requissions", "requissiez", "requissent"],
+        "imper.pres": ["requiers", "requérons", "requérez"]
+      },
+      "participe_present": "requérant",
+      "participe_passe": ["requis", "requise", "requis", "requises"]
     }
   ]
 }
