@@ -8741,6 +8741,24 @@
       },
       "participe_present": "rassemblant",
       "participe_passe": ["rassemblé", "rassemblée", "rassemblés", "rassemblées"]
+    },
+    {
+      "id": "réduire",
+      "infinitif": "réduire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réduis", "réduis", "réduit", "réduisons", "réduisez", "réduisent"],
+        "ind.imp": ["réduisais", "réduisais", "réduisait", "réduisions", "réduisiez", "réduisaient"],
+        "ind.ps": ["réduisis", "réduisis", "réduisit", "réduisîmes", "réduisîtes", "réduisirent"],
+        "ind.fut": ["réduirai", "réduiras", "réduira", "réduirons", "réduirez", "réduiront"],
+        "cond.pres": ["réduirais", "réduirais", "réduirait", "réduirions", "réduiriez", "réduiraient"],
+        "subj.pres": ["réduise", "réduises", "réduise", "réduisions", "réduisiez", "réduisent"],
+        "subj.imp": ["réduisisse", "réduisisses", "réduisît", "réduisissions", "réduisissiez", "réduisissent"],
+        "imper.pres": ["réduis", "réduisons", "réduisez"]
+      },
+      "participe_present": "réduisant",
+      "participe_passe": ["réduit", "réduite", "réduits", "réduites"]
     }
   ]
 }
