@@ -14319,6 +14319,24 @@
       },
       "participe_present": "débouchant",
       "participe_passe": ["débouché", "débouchée", "débouchés", "débouchées"]
+    },
+    {
+      "id": "fourrer",
+      "infinitif": "fourrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fourre", "fourres", "fourre", "fourrons", "fourrez", "fourrent"],
+        "ind.imp": ["fourrais", "fourrais", "fourrait", "fourrions", "fourriez", "fourraient"],
+        "ind.ps": ["fourrai", "fourras", "fourra", "fourrâmes", "fourrâtes", "fourrèrent"],
+        "ind.fut": ["fourrerai", "fourreras", "fourrera", "fourrerons", "fourrerez", "fourreront"],
+        "cond.pres": ["fourrerais", "fourrerais", "fourrerait", "fourrerions", "fourreriez", "fourreraient"],
+        "subj.pres": ["fourre", "fourres", "fourre", "fourrions", "fourriez", "fourrent"],
+        "subj.imp": ["fourrasse", "fourrasses", "fourrât", "fourrassions", "fourrassiez", "fourrassent"],
+        "imper.pres": ["fourre", "fourrons", "fourrez"]
+      },
+      "participe_present": "fourrant",
+      "participe_passe": ["fourré", "fourrée", "fourrés", "fourrées"]
     }
   ]
 }
