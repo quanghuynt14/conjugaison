@@ -26335,6 +26335,24 @@
       },
       "participe_present": "épluchant",
       "participe_passe": ["épluché", "épluchée", "épluchés", "épluchées"]
+    },
+    {
+      "id": "propager",
+      "infinitif": "propager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["propage", "propages", "propage", "propageons", "propagez", "propagent"],
+        "ind.imp": ["propageais", "propageais", "propageait", "propagions", "propagiez", "propageaient"],
+        "ind.ps": ["propageai", "propageas", "propagea", "propageâmes", "propageâtes", "propagèrent"],
+        "ind.fut": ["propagerai", "propageras", "propagera", "propagerons", "propagerez", "propageront"],
+        "cond.pres": ["propagerais", "propagerais", "propagerait", "propagerions", "propageriez", "propageraient"],
+        "subj.pres": ["propage", "propages", "propage", "propagions", "propagiez", "propagent"],
+        "subj.imp": ["propageasse", "propageasses", "propageât", "propageassions", "propageassiez", "propageassent"],
+        "imper.pres": ["propage", "propageons", "propagez"]
+      },
+      "participe_present": "propageant",
+      "participe_passe": ["propagé", "propagée", "propagés", "propagées"]
     }
   ]
 }
