@@ -12755,6 +12755,24 @@
       },
       "participe_present": "délivrant",
       "participe_passe": ["délivré", "délivrée", "délivrés", "délivrées"]
+    },
+    {
+      "id": "communiquer",
+      "infinitif": "communiquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["communique", "communiques", "communique", "communiquons", "communiquez", "communiquent"],
+        "ind.imp": ["communiquais", "communiquais", "communiquait", "communiquions", "communiquiez", "communiquaient"],
+        "ind.ps": ["communiquai", "communiquas", "communiqua", "communiquâmes", "communiquâtes", "communiquèrent"],
+        "ind.fut": ["communiquerai", "communiqueras", "communiquera", "communiquerons", "communiquerez", "communiqueront"],
+        "cond.pres": ["communiquerais", "communiquerais", "communiquerait", "communiquerions", "communiqueriez", "communiqueraient"],
+        "subj.pres": ["communique", "communiques", "communique", "communiquions", "communiquiez", "communiquent"],
+        "subj.imp": ["communiquasse", "communiquasses", "communiquât", "communiquassions", "communiquassiez", "communiquassent"],
+        "imper.pres": ["communique", "communiquons", "communiquez"]
+      },
+      "participe_present": "communiquant",
+      "participe_passe": ["communiqué", "communiquée", "communiqués", "communiquées"]
     }
   ]
 }
