@@ -19998,6 +19998,24 @@
       },
       "participe_present": ["fleurissant", "florissant"],
       "participe_passe": ["fleuri", "fleurie", "fleuris", "fleuries"]
+    },
+    {
+      "id": "couronner",
+      "infinitif": "couronner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["couronne", "couronnes", "couronne", "couronnons", "couronnez", "couronnent"],
+        "ind.imp": ["couronnais", "couronnais", "couronnait", "couronnions", "couronniez", "couronnaient"],
+        "ind.ps": ["couronnai", "couronnas", "couronna", "couronnâmes", "couronnâtes", "couronnèrent"],
+        "ind.fut": ["couronnerai", "couronneras", "couronnera", "couronnerons", "couronnerez", "couronneront"],
+        "cond.pres": ["couronnerais", "couronnerais", "couronnerait", "couronnerions", "couronneriez", "couronneraient"],
+        "subj.pres": ["couronne", "couronnes", "couronne", "couronnions", "couronniez", "couronnent"],
+        "subj.imp": ["couronnasse", "couronnasses", "couronnât", "couronnassions", "couronnassiez", "couronnassent"],
+        "imper.pres": ["couronne", "couronnons", "couronnez"]
+      },
+      "participe_present": "couronnant",
+      "participe_passe": ["couronné", "couronnée", "couronnés", "couronnées"]
     }
   ]
 }
