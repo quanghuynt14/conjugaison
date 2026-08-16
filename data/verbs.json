@@ -12881,6 +12881,24 @@
       },
       "participe_present": "adoptant",
       "participe_passe": ["adopté", "adoptée", "adoptés", "adoptées"]
+    },
+    {
+      "id": "loger",
+      "infinitif": "loger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["loge", "loges", "loge", "logeons", "logez", "logent"],
+        "ind.imp": ["logeais", "logeais", "logeait", "logions", "logiez", "logeaient"],
+        "ind.ps": ["logeai", "logeas", "logea", "logeâmes", "logeâtes", "logèrent"],
+        "ind.fut": ["logerai", "logeras", "logera", "logerons", "logerez", "logeront"],
+        "cond.pres": ["logerais", "logerais", "logerait", "logerions", "logeriez", "logeraient"],
+        "subj.pres": ["loge", "loges", "loge", "logions", "logiez", "logent"],
+        "subj.imp": ["logeasse", "logeasses", "logeât", "logeassions", "logeassiez", "logeassent"],
+        "imper.pres": ["loge", "logeons", "logez"]
+      },
+      "participe_present": "logeant",
+      "participe_passe": ["logé", "logée", "logés", "logées"]
     }
   ]
 }
