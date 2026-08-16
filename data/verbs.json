@@ -34396,6 +34396,24 @@
       },
       "participe_present": "divaguant",
       "participe_passe": ["divagué", null, null, null]
+    },
+    {
+      "id": "rabaisser",
+      "infinitif": "rabaisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rabaisse", "rabaisses", "rabaisse", "rabaissons", "rabaissez", "rabaissent"],
+        "ind.imp": ["rabaissais", "rabaissais", "rabaissait", "rabaissions", "rabaissiez", "rabaissaient"],
+        "ind.ps": ["rabaissai", "rabaissas", "rabaissa", "rabaissâmes", "rabaissâtes", "rabaissèrent"],
+        "ind.fut": ["rabaisserai", "rabaisseras", "rabaissera", "rabaisserons", "rabaisserez", "rabaisseront"],
+        "cond.pres": ["rabaisserais", "rabaisserais", "rabaisserait", "rabaisserions", "rabaisseriez", "rabaisseraient"],
+        "subj.pres": ["rabaisse", "rabaisses", "rabaisse", "rabaissions", "rabaissiez", "rabaissent"],
+        "subj.imp": ["rabaissasse", "rabaissasses", "rabaissât", "rabaissassions", "rabaissassiez", "rabaissassent"],
+        "imper.pres": ["rabaisse", "rabaissons", "rabaissez"]
+      },
+      "participe_present": "rabaissant",
+      "participe_passe": ["rabaissé", "rabaissée", "rabaissés", "rabaissées"]
     }
   ]
 }
