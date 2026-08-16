@@ -23164,6 +23164,24 @@
       },
       "participe_present": "manoeuvrant",
       "participe_passe": ["manoeuvré", "manoeuvrée", "manoeuvrés", "manoeuvrées"]
+    },
+    {
+      "id": "éparpiller",
+      "infinitif": "éparpiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éparpille", "éparpilles", "éparpille", "éparpillons", "éparpillez", "éparpillent"],
+        "ind.imp": ["éparpillais", "éparpillais", "éparpillait", "éparpillions", "éparpilliez", "éparpillaient"],
+        "ind.ps": ["éparpillai", "éparpillas", "éparpilla", "éparpillâmes", "éparpillâtes", "éparpillèrent"],
+        "ind.fut": ["éparpillerai", "éparpilleras", "éparpillera", "éparpillerons", "éparpillerez", "éparpilleront"],
+        "cond.pres": ["éparpillerais", "éparpillerais", "éparpillerait", "éparpillerions", "éparpilleriez", "éparpilleraient"],
+        "subj.pres": ["éparpille", "éparpilles", "éparpille", "éparpillions", "éparpilliez", "éparpillent"],
+        "subj.imp": ["éparpillasse", "éparpillasses", "éparpillât", "éparpillassions", "éparpillassiez", "éparpillassent"],
+        "imper.pres": ["éparpille", "éparpillons", "éparpillez"]
+      },
+      "participe_present": "éparpillant",
+      "participe_passe": ["éparpillé", "éparpillée", "éparpillés", "éparpillées"]
     }
   ]
 }
