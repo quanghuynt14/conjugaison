@@ -29893,6 +29893,24 @@
       },
       "participe_present": "épinglant",
       "participe_passe": ["épinglé", "épinglée", "épinglés", "épinglées"]
+    },
+    {
+      "id": "déboutonner",
+      "infinitif": "déboutonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déboutonne", "déboutonnes", "déboutonne", "déboutonnons", "déboutonnez", "déboutonnent"],
+        "ind.imp": ["déboutonnais", "déboutonnais", "déboutonnait", "déboutonnions", "déboutonniez", "déboutonnaient"],
+        "ind.ps": ["déboutonnai", "déboutonnas", "déboutonna", "déboutonnâmes", "déboutonnâtes", "déboutonnèrent"],
+        "ind.fut": ["déboutonnerai", "déboutonneras", "déboutonnera", "déboutonnerons", "déboutonnerez", "déboutonneront"],
+        "cond.pres": ["déboutonnerais", "déboutonnerais", "déboutonnerait", "déboutonnerions", "déboutonneriez", "déboutonneraient"],
+        "subj.pres": ["déboutonne", "déboutonnes", "déboutonne", "déboutonnions", "déboutonniez", "déboutonnent"],
+        "subj.imp": ["déboutonnasse", "déboutonnasses", "déboutonnât", "déboutonnassions", "déboutonnassiez", "déboutonnassent"],
+        "imper.pres": ["déboutonne", "déboutonnons", "déboutonnez"]
+      },
+      "participe_present": "déboutonnant",
+      "participe_passe": ["déboutonné", "déboutonnée", "déboutonnés", "déboutonnées"]
     }
   ]
 }
