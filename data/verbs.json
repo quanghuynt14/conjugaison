@@ -29875,6 +29875,24 @@
       },
       "participe_present": "pourchassant",
       "participe_passe": ["pourchassé", "pourchassée", "pourchassés", "pourchassées"]
+    },
+    {
+      "id": "épingler",
+      "infinitif": "épingler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["épingle", "épingles", "épingle", "épinglons", "épinglez", "épinglent"],
+        "ind.imp": ["épinglais", "épinglais", "épinglait", "épinglions", "épingliez", "épinglaient"],
+        "ind.ps": ["épinglai", "épinglas", "épingla", "épinglâmes", "épinglâtes", "épinglèrent"],
+        "ind.fut": ["épinglerai", "épingleras", "épinglera", "épinglerons", "épinglerez", "épingleront"],
+        "cond.pres": ["épinglerais", "épinglerais", "épinglerait", "épinglerions", "épingleriez", "épingleraient"],
+        "subj.pres": ["épingle", "épingles", "épingle", "épinglions", "épingliez", "épinglent"],
+        "subj.imp": ["épinglasse", "épinglasses", "épinglât", "épinglassions", "épinglassiez", "épinglassent"],
+        "imper.pres": ["épingle", "épinglons", "épinglez"]
+      },
+      "participe_present": "épinglant",
+      "participe_passe": ["épinglé", "épinglée", "épinglés", "épinglées"]
     }
   ]
 }
