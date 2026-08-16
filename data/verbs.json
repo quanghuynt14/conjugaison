@@ -16260,6 +16260,24 @@
       },
       "participe_present": "cousant",
       "participe_passe": ["cousu", "cousue", "cousus", "cousues"]
+    },
+    {
+      "id": "attribuer",
+      "infinitif": "attribuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["attribue", "attribues", "attribue", "attribuons", "attribuez", "attribuent"],
+        "ind.imp": ["attribuais", "attribuais", "attribuait", "attribuions", "attribuiez", "attribuaient"],
+        "ind.ps": ["attribuai", "attribuas", "attribua", "attribuâmes", "attribuâtes", "attribuèrent"],
+        "ind.fut": ["attribuerai", "attribueras", "attribuera", "attribuerons", "attribuerez", "attribueront"],
+        "cond.pres": ["attribuerais", "attribuerais", "attribuerait", "attribuerions", "attribueriez", "attribueraient"],
+        "subj.pres": ["attribue", "attribues", "attribue", "attribuions", "attribuiez", "attribuent"],
+        "subj.imp": ["attribuasse", "attribuasses", "attribuât", "attribuassions", "attribuassiez", "attribuassent"],
+        "imper.pres": ["attribue", "attribuons", "attribuez"]
+      },
+      "participe_present": "attribuant",
+      "participe_passe": ["attribué", "attribuée", "attribués", "attribuées"]
     }
   ]
 }
