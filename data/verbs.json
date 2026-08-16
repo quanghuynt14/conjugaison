@@ -17004,6 +17004,24 @@
       },
       "participe_present": "suscitant",
       "participe_passe": ["suscité", "suscitée", "suscités", "suscitées"]
+    },
+    {
+      "id": "draguer",
+      "infinitif": "draguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["drague", "dragues", "drague", "draguons", "draguez", "draguent"],
+        "ind.imp": ["draguais", "draguais", "draguait", "draguions", "draguiez", "draguaient"],
+        "ind.ps": ["draguai", "draguas", "dragua", "draguâmes", "draguâtes", "draguèrent"],
+        "ind.fut": ["draguerai", "dragueras", "draguera", "draguerons", "draguerez", "dragueront"],
+        "cond.pres": ["draguerais", "draguerais", "draguerait", "draguerions", "dragueriez", "dragueraient"],
+        "subj.pres": ["drague", "dragues", "drague", "draguions", "draguiez", "draguent"],
+        "subj.imp": ["draguasse", "draguasses", "draguât", "draguassions", "draguassiez", "draguassent"],
+        "imper.pres": ["drague", "draguons", "draguez"]
+      },
+      "participe_present": "draguant",
+      "participe_passe": ["dragué", "draguée", "dragués", "draguées"]
     }
   ]
 }
