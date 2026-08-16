@@ -15204,6 +15204,24 @@
       },
       "participe_present": "arrosant",
       "participe_passe": ["arrosé", "arrosée", "arrosés", "arrosées"]
+    },
+    {
+      "id": "applaudir",
+      "infinitif": "applaudir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["applaudis", "applaudis", "applaudit", "applaudissons", "applaudissez", "applaudissent"],
+        "ind.imp": ["applaudissais", "applaudissais", "applaudissait", "applaudissions", "applaudissiez", "applaudissaient"],
+        "ind.ps": ["applaudis", "applaudis", "applaudit", "applaudîmes", "applaudîtes", "applaudirent"],
+        "ind.fut": ["applaudirai", "applaudiras", "applaudira", "applaudirons", "applaudirez", "applaudiront"],
+        "cond.pres": ["applaudirais", "applaudirais", "applaudirait", "applaudirions", "applaudiriez", "applaudiraient"],
+        "subj.pres": ["applaudisse", "applaudisses", "applaudisse", "applaudissions", "applaudissiez", "applaudissent"],
+        "subj.imp": ["applaudisse", "applaudisses", "applaudît", "applaudissions", "applaudissiez", "applaudissent"],
+        "imper.pres": ["applaudis", "applaudissons", "applaudissez"]
+      },
+      "participe_present": "applaudissant",
+      "participe_passe": ["applaudi", "applaudie", "applaudis", "applaudies"]
     }
   ]
 }
