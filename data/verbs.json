@@ -30311,6 +30311,24 @@
       },
       "participe_present": "substituant",
       "participe_passe": ["substitué", "substituée", "substitués", "substituées"]
+    },
+    {
+      "id": "doucher",
+      "infinitif": "doucher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["douche", "douches", "douche", "douchons", "douchez", "douchent"],
+        "ind.imp": ["douchais", "douchais", "douchait", "douchions", "douchiez", "douchaient"],
+        "ind.ps": ["douchai", "douchas", "doucha", "douchâmes", "douchâtes", "douchèrent"],
+        "ind.fut": ["doucherai", "doucheras", "douchera", "doucherons", "doucherez", "doucheront"],
+        "cond.pres": ["doucherais", "doucherais", "doucherait", "doucherions", "doucheriez", "doucheraient"],
+        "subj.pres": ["douche", "douches", "douche", "douchions", "douchiez", "douchent"],
+        "subj.imp": ["douchasse", "douchasses", "douchât", "douchassions", "douchassiez", "douchassent"],
+        "imper.pres": ["douche", "douchons", "douchez"]
+      },
+      "participe_present": "douchant",
+      "participe_passe": ["douché", "douchée", "douchés", "douchées"]
     }
   ]
 }
