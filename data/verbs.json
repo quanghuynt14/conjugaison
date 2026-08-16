@@ -24915,6 +24915,25 @@
       },
       "participe_present": "différant",
       "participe_passe": ["différé", "différée", "différés", "différées"]
+    },
+    {
+      "id": "osciller",
+      "infinitif": "osciller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « oscillé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["oscille", "oscilles", "oscille", "oscillons", "oscillez", "oscillent"],
+        "ind.imp": ["oscillais", "oscillais", "oscillait", "oscillions", "oscilliez", "oscillaient"],
+        "ind.ps": ["oscillai", "oscillas", "oscilla", "oscillâmes", "oscillâtes", "oscillèrent"],
+        "ind.fut": ["oscillerai", "oscilleras", "oscillera", "oscillerons", "oscillerez", "oscilleront"],
+        "cond.pres": ["oscillerais", "oscillerais", "oscillerait", "oscillerions", "oscilleriez", "oscilleraient"],
+        "subj.pres": ["oscille", "oscilles", "oscille", "oscillions", "oscilliez", "oscillent"],
+        "subj.imp": ["oscillasse", "oscillasses", "oscillât", "oscillassions", "oscillassiez", "oscillassent"],
+        "imper.pres": ["oscille", "oscillons", "oscillez"]
+      },
+      "participe_present": "oscillant",
+      "participe_passe": ["oscillé", null, null, null]
     }
   ]
 }
