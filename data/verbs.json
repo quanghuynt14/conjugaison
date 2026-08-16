@@ -11499,6 +11499,24 @@
       },
       "participe_present": "luisant",
       "participe_passe": ["lui", null, null, null]
+    },
+    {
+      "id": "fêter",
+      "infinitif": "fêter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fête", "fêtes", "fête", "fêtons", "fêtez", "fêtent"],
+        "ind.imp": ["fêtais", "fêtais", "fêtait", "fêtions", "fêtiez", "fêtaient"],
+        "ind.ps": ["fêtai", "fêtas", "fêta", "fêtâmes", "fêtâtes", "fêtèrent"],
+        "ind.fut": ["fêterai", "fêteras", "fêtera", "fêterons", "fêterez", "fêteront"],
+        "cond.pres": ["fêterais", "fêterais", "fêterait", "fêterions", "fêteriez", "fêteraient"],
+        "subj.pres": ["fête", "fêtes", "fête", "fêtions", "fêtiez", "fêtent"],
+        "subj.imp": ["fêtasse", "fêtasses", "fêtât", "fêtassions", "fêtassiez", "fêtassent"],
+        "imper.pres": ["fête", "fêtons", "fêtez"]
+      },
+      "participe_present": "fêtant",
+      "participe_passe": ["fêté", "fêtée", "fêtés", "fêtées"]
     }
   ]
 }
