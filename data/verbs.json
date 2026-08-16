@@ -20181,6 +20181,24 @@
       },
       "participe_present": "obstinant",
       "participe_passe": ["obstiné", "obstinée", "obstinés", "obstinées"]
+    },
+    {
+      "id": "escalader",
+      "infinitif": "escalader",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["escalade", "escalades", "escalade", "escaladons", "escaladez", "escaladent"],
+        "ind.imp": ["escaladais", "escaladais", "escaladait", "escaladions", "escaladiez", "escaladaient"],
+        "ind.ps": ["escaladai", "escaladas", "escalada", "escaladâmes", "escaladâtes", "escaladèrent"],
+        "ind.fut": ["escaladerai", "escaladeras", "escaladera", "escaladerons", "escaladerez", "escaladeront"],
+        "cond.pres": ["escaladerais", "escaladerais", "escaladerait", "escaladerions", "escaladeriez", "escaladeraient"],
+        "subj.pres": ["escalade", "escalades", "escalade", "escaladions", "escaladiez", "escaladent"],
+        "subj.imp": ["escaladasse", "escaladasses", "escaladât", "escaladassions", "escaladassiez", "escaladassent"],
+        "imper.pres": ["escalade", "escaladons", "escaladez"]
+      },
+      "participe_present": "escaladant",
+      "participe_passe": ["escaladé", "escaladée", "escaladés", "escaladées"]
     }
   ]
 }
