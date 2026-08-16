@@ -22560,6 +22560,24 @@
       },
       "participe_present": "froissant",
       "participe_passe": ["froissé", "froissée", "froissés", "froissées"]
+    },
+    {
+      "id": "tricoter",
+      "infinitif": "tricoter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tricote", "tricotes", "tricote", "tricotons", "tricotez", "tricotent"],
+        "ind.imp": ["tricotais", "tricotais", "tricotait", "tricotions", "tricotiez", "tricotaient"],
+        "ind.ps": ["tricotai", "tricotas", "tricota", "tricotâmes", "tricotâtes", "tricotèrent"],
+        "ind.fut": ["tricoterai", "tricoteras", "tricotera", "tricoterons", "tricoterez", "tricoteront"],
+        "cond.pres": ["tricoterais", "tricoterais", "tricoterait", "tricoterions", "tricoteriez", "tricoteraient"],
+        "subj.pres": ["tricote", "tricotes", "tricote", "tricotions", "tricotiez", "tricotent"],
+        "subj.imp": ["tricotasse", "tricotasses", "tricotât", "tricotassions", "tricotassiez", "tricotassent"],
+        "imper.pres": ["tricote", "tricotons", "tricotez"]
+      },
+      "participe_present": "tricotant",
+      "participe_passe": ["tricoté", "tricotée", "tricotés", "tricotées"]
     }
   ]
 }
