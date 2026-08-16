@@ -26008,6 +26008,25 @@
       },
       "participe_present": "tintant",
       "participe_passe": ["tinté", "tintée", "tintés", "tintées"]
+    },
+    {
+      "id": "émaner",
+      "infinitif": "émaner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « émané » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["émane", "émanes", "émane", "émanons", "émanez", "émanent"],
+        "ind.imp": ["émanais", "émanais", "émanait", "émanions", "émaniez", "émanaient"],
+        "ind.ps": ["émanai", "émanas", "émana", "émanâmes", "émanâtes", "émanèrent"],
+        "ind.fut": ["émanerai", "émaneras", "émanera", "émanerons", "émanerez", "émaneront"],
+        "cond.pres": ["émanerais", "émanerais", "émanerait", "émanerions", "émaneriez", "émaneraient"],
+        "subj.pres": ["émane", "émanes", "émane", "émanions", "émaniez", "émanent"],
+        "subj.imp": ["émanasse", "émanasses", "émanât", "émanassions", "émanassiez", "émanassent"],
+        "imper.pres": ["émane", "émanons", "émanez"]
+      },
+      "participe_present": "émanant",
+      "participe_passe": ["émané", null, null, null]
     }
   ]
 }
