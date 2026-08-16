@@ -20016,6 +20016,24 @@
       },
       "participe_present": "couronnant",
       "participe_passe": ["couronné", "couronnée", "couronnés", "couronnées"]
+    },
+    {
+      "id": "survenir",
+      "infinitif": "survenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["surviens", "surviens", "survient", "survenons", "survenez", "surviennent"],
+        "ind.imp": ["survenais", "survenais", "survenait", "survenions", "surveniez", "survenaient"],
+        "ind.ps": ["survins", "survins", "survint", "survînmes", "survîntes", "survinrent"],
+        "ind.fut": ["surviendrai", "surviendras", "surviendra", "surviendrons", "surviendrez", "surviendront"],
+        "cond.pres": ["surviendrais", "surviendrais", "surviendrait", "surviendrions", "surviendriez", "surviendraient"],
+        "subj.pres": ["survienne", "surviennes", "survienne", "survenions", "surveniez", "surviennent"],
+        "subj.imp": ["survinsse", "survinsses", "survînt", "survinssions", "survinssiez", "survinssent"],
+        "imper.pres": ["surviens", "survenons", "survenez"]
+      },
+      "participe_present": "survenant",
+      "participe_passe": ["survenu", "survenue", "survenus", "survenues"]
     }
   ]
 }
