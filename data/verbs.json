@@ -33903,6 +33903,25 @@
       },
       "participe_present": "empochant",
       "participe_passe": ["empoché", "empochée", "empochés", "empochées"]
+    },
+    {
+      "id": "incomber",
+      "infinitif": "incomber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Troisième personne seulement : « cette tâche lui incombe ». Le verbe désigne ce qui revient à quelqu'un, jamais celui qui parle.",
+      "tenses": {
+        "ind.pres": [null, null, "incombe", null, null, "incombent"],
+        "ind.imp": [null, null, "incombait", null, null, "incombaient"],
+        "ind.ps": [null, null, "incomba", null, null, "incombèrent"],
+        "ind.fut": [null, null, "incombera", null, null, "incomberont"],
+        "cond.pres": [null, null, "incomberait", null, null, "incomberaient"],
+        "subj.pres": [null, null, "incombe", null, null, "incombent"],
+        "subj.imp": [null, null, "incombât", null, null, "incombassent"],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": "incombant",
+      "participe_passe": ["incombé", null, null, null]
     }
   ]
 }
