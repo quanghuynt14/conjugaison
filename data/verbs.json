@@ -28523,6 +28523,25 @@
       },
       "participe_present": "léguant",
       "participe_passe": ["légué", "léguée", "légués", "léguées"]
+    },
+    {
+      "id": "pivoter",
+      "infinitif": "pivoter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « pivoté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["pivote", "pivotes", "pivote", "pivotons", "pivotez", "pivotent"],
+        "ind.imp": ["pivotais", "pivotais", "pivotait", "pivotions", "pivotiez", "pivotaient"],
+        "ind.ps": ["pivotai", "pivotas", "pivota", "pivotâmes", "pivotâtes", "pivotèrent"],
+        "ind.fut": ["pivoterai", "pivoteras", "pivotera", "pivoterons", "pivoterez", "pivoteront"],
+        "cond.pres": ["pivoterais", "pivoterais", "pivoterait", "pivoterions", "pivoteriez", "pivoteraient"],
+        "subj.pres": ["pivote", "pivotes", "pivote", "pivotions", "pivotiez", "pivotent"],
+        "subj.imp": ["pivotasse", "pivotasses", "pivotât", "pivotassions", "pivotassiez", "pivotassent"],
+        "imper.pres": ["pivote", "pivotons", "pivotez"]
+      },
+      "participe_present": "pivotant",
+      "participe_passe": ["pivoté", null, null, null]
     }
   ]
 }
