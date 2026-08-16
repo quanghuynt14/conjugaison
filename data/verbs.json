@@ -16151,6 +16151,24 @@
       },
       "participe_present": "sursautant",
       "participe_passe": ["sursauté", null, null, null]
+    },
+    {
+      "id": "modifier",
+      "infinitif": "modifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["modifie", "modifies", "modifie", "modifions", "modifiez", "modifient"],
+        "ind.imp": ["modifiais", "modifiais", "modifiait", "modifiions", "modifiiez", "modifiaient"],
+        "ind.ps": ["modifiai", "modifias", "modifia", "modifiâmes", "modifiâtes", "modifièrent"],
+        "ind.fut": ["modifierai", "modifieras", "modifiera", "modifierons", "modifierez", "modifieront"],
+        "cond.pres": ["modifierais", "modifierais", "modifierait", "modifierions", "modifieriez", "modifieraient"],
+        "subj.pres": ["modifie", "modifies", "modifie", "modifiions", "modifiiez", "modifient"],
+        "subj.imp": ["modifiasse", "modifiasses", "modifiât", "modifiassions", "modifiassiez", "modifiassent"],
+        "imper.pres": ["modifie", "modifions", "modifiez"]
+      },
+      "participe_present": "modifiant",
+      "participe_passe": ["modifié", "modifiée", "modifiés", "modifiées"]
     }
   ]
 }
