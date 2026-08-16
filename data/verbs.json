@@ -5263,6 +5263,24 @@
       },
       "participe_present": "marquant",
       "participe_passe": ["marqué", "marquée", "marqués", "marquées"]
+    },
+    {
+      "id": "laver",
+      "infinitif": "laver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["lave", "laves", "lave", "lavons", "lavez", "lavent"],
+        "ind.imp": ["lavais", "lavais", "lavait", "lavions", "laviez", "lavaient"],
+        "ind.ps": ["lavai", "lavas", "lava", "lavâmes", "lavâtes", "lavèrent"],
+        "ind.fut": ["laverai", "laveras", "lavera", "laverons", "laverez", "laveront"],
+        "cond.pres": ["laverais", "laverais", "laverait", "laverions", "laveriez", "laveraient"],
+        "subj.pres": ["lave", "laves", "lave", "lavions", "laviez", "lavent"],
+        "subj.imp": ["lavasse", "lavasses", "lavât", "lavassions", "lavassiez", "lavassent"],
+        "imper.pres": ["lave", "lavons", "lavez"]
+      },
+      "participe_present": "lavant",
+      "participe_passe": ["lavé", "lavée", "lavés", "lavées"]
     }
   ]
 }
