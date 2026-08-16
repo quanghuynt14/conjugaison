@@ -22055,6 +22055,24 @@
       },
       "participe_present": "foirant",
       "participe_passe": ["foiré", "foirée", "foirés", "foirées"]
+    },
+    {
+      "id": "inciter",
+      "infinitif": "inciter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["incite", "incites", "incite", "incitons", "incitez", "incitent"],
+        "ind.imp": ["incitais", "incitais", "incitait", "incitions", "incitiez", "incitaient"],
+        "ind.ps": ["incitai", "incitas", "incita", "incitâmes", "incitâtes", "incitèrent"],
+        "ind.fut": ["inciterai", "inciteras", "incitera", "inciterons", "inciterez", "inciteront"],
+        "cond.pres": ["inciterais", "inciterais", "inciterait", "inciterions", "inciteriez", "inciteraient"],
+        "subj.pres": ["incite", "incites", "incite", "incitions", "incitiez", "incitent"],
+        "subj.imp": ["incitasse", "incitasses", "incitât", "incitassions", "incitassiez", "incitassent"],
+        "imper.pres": ["incite", "incitons", "incitez"]
+      },
+      "participe_present": "incitant",
+      "participe_passe": ["incité", "incitée", "incités", "incitées"]
     }
   ]
 }
