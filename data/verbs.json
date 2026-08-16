@@ -24001,6 +24001,24 @@
       },
       "participe_present": "vacillant",
       "participe_passe": ["vacillé", null, null, null]
+    },
+    {
+      "id": "maigrir",
+      "infinitif": "maigrir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["maigris", "maigris", "maigrit", "maigrissons", "maigrissez", "maigrissent"],
+        "ind.imp": ["maigrissais", "maigrissais", "maigrissait", "maigrissions", "maigrissiez", "maigrissaient"],
+        "ind.ps": ["maigris", "maigris", "maigrit", "maigrîmes", "maigrîtes", "maigrirent"],
+        "ind.fut": ["maigrirai", "maigriras", "maigrira", "maigrirons", "maigrirez", "maigriront"],
+        "cond.pres": ["maigrirais", "maigrirais", "maigrirait", "maigririons", "maigririez", "maigriraient"],
+        "subj.pres": ["maigrisse", "maigrisses", "maigrisse", "maigrissions", "maigrissiez", "maigrissent"],
+        "subj.imp": ["maigrisse", "maigrisses", "maigrît", "maigrissions", "maigrissiez", "maigrissent"],
+        "imper.pres": ["maigris", "maigrissons", "maigrissez"]
+      },
+      "participe_present": "maigrissant",
+      "participe_passe": ["maigri", "maigrie", "maigris", "maigries"]
     }
   ]
 }
