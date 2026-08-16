@@ -25898,6 +25898,24 @@
       },
       "participe_present": "répartissant",
       "participe_passe": ["réparti", "répartie", "répartis", "réparties"]
+    },
+    {
+      "id": "purifier",
+      "infinitif": "purifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["purifie", "purifies", "purifie", "purifions", "purifiez", "purifient"],
+        "ind.imp": ["purifiais", "purifiais", "purifiait", "purifiions", "purifiiez", "purifiaient"],
+        "ind.ps": ["purifiai", "purifias", "purifia", "purifiâmes", "purifiâtes", "purifièrent"],
+        "ind.fut": ["purifierai", "purifieras", "purifiera", "purifierons", "purifierez", "purifieront"],
+        "cond.pres": ["purifierais", "purifierais", "purifierait", "purifierions", "purifieriez", "purifieraient"],
+        "subj.pres": ["purifie", "purifies", "purifie", "purifiions", "purifiiez", "purifient"],
+        "subj.imp": ["purifiasse", "purifiasses", "purifiât", "purifiassions", "purifiassiez", "purifiassent"],
+        "imper.pres": ["purifie", "purifions", "purifiez"]
+      },
+      "participe_present": "purifiant",
+      "participe_passe": ["purifié", "purifiée", "purifiés", "purifiées"]
     }
   ]
 }
