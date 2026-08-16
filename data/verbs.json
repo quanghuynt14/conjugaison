@@ -17114,6 +17114,24 @@
       },
       "participe_present": "clouant",
       "participe_passe": ["cloué", "clouée", "cloués", "clouées"]
+    },
+    {
+      "id": "compromettre",
+      "infinitif": "compromettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["compromets", "compromets", "compromet", "compromettons", "compromettez", "compromettent"],
+        "ind.imp": ["compromettais", "compromettais", "compromettait", "compromettions", "compromettiez", "compromettaient"],
+        "ind.ps": ["compromis", "compromis", "compromit", "compromîmes", "compromîtes", "compromirent"],
+        "ind.fut": ["compromettrai", "compromettras", "compromettra", "compromettrons", "compromettrez", "compromettront"],
+        "cond.pres": ["compromettrais", "compromettrais", "compromettrait", "compromettrions", "compromettriez", "compromettraient"],
+        "subj.pres": ["compromette", "compromettes", "compromette", "compromettions", "compromettiez", "compromettent"],
+        "subj.imp": ["compromisse", "compromisses", "compromît", "compromissions", "compromissiez", "compromissent"],
+        "imper.pres": ["compromets", "compromettons", "compromettez"]
+      },
+      "participe_present": "compromettant",
+      "participe_passe": ["compromis", "compromise", "compromis", "compromises"]
     }
   ]
 }
