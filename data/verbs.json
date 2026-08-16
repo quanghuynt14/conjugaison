@@ -13154,6 +13154,25 @@
       },
       "participe_present": "bousculant",
       "participe_passe": ["bousculé", "bousculée", "bousculés", "bousculées"]
+    },
+    {
+      "id": "correspondre",
+      "infinitif": "correspondre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « correspondu » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["corresponds", "corresponds", "correspond", "correspondons", "correspondez", "correspondent"],
+        "ind.imp": ["correspondais", "correspondais", "correspondait", "correspondions", "correspondiez", "correspondaient"],
+        "ind.ps": ["correspondis", "correspondis", "correspondit", "correspondîmes", "correspondîtes", "correspondirent"],
+        "ind.fut": ["correspondrai", "correspondras", "correspondra", "correspondrons", "correspondrez", "correspondront"],
+        "cond.pres": ["correspondrais", "correspondrais", "correspondrait", "correspondrions", "correspondriez", "correspondraient"],
+        "subj.pres": ["corresponde", "correspondes", "corresponde", "correspondions", "correspondiez", "correspondent"],
+        "subj.imp": ["correspondisse", "correspondisses", "correspondît", "correspondissions", "correspondissiez", "correspondissent"],
+        "imper.pres": ["corresponds", "correspondons", "correspondez"]
+      },
+      "participe_present": "correspondant",
+      "participe_passe": ["correspondu", null, null, null]
     }
   ]
 }
