@@ -22945,6 +22945,24 @@
       },
       "participe_present": "prédisant",
       "participe_passe": ["prédit", "prédite", "prédits", "prédites"]
+    },
+    {
+      "id": "empirer",
+      "infinitif": "empirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["empire", "empires", "empire", "empirons", "empirez", "empirent"],
+        "ind.imp": ["empirais", "empirais", "empirait", "empirions", "empiriez", "empiraient"],
+        "ind.ps": ["empirai", "empiras", "empira", "empirâmes", "empirâtes", "empirèrent"],
+        "ind.fut": ["empirerai", "empireras", "empirera", "empirerons", "empirerez", "empireront"],
+        "cond.pres": ["empirerais", "empirerais", "empirerait", "empirerions", "empireriez", "empireraient"],
+        "subj.pres": ["empire", "empires", "empire", "empirions", "empiriez", "empirent"],
+        "subj.imp": ["empirasse", "empirasses", "empirât", "empirassions", "empirassiez", "empirassent"],
+        "imper.pres": ["empire", "empirons", "empirez"]
+      },
+      "participe_present": "empirant",
+      "participe_passe": ["empiré", "empirée", "empirés", "empirées"]
     }
   ]
 }
