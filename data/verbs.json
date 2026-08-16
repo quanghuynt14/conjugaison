@@ -8398,6 +8398,24 @@
       },
       "participe_present": "liant",
       "participe_passe": ["lié", "liée", "liés", "liées"]
+    },
+    {
+      "id": "provoquer",
+      "infinitif": "provoquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["provoque", "provoques", "provoque", "provoquons", "provoquez", "provoquent"],
+        "ind.imp": ["provoquais", "provoquais", "provoquait", "provoquions", "provoquiez", "provoquaient"],
+        "ind.ps": ["provoquai", "provoquas", "provoqua", "provoquâmes", "provoquâtes", "provoquèrent"],
+        "ind.fut": ["provoquerai", "provoqueras", "provoquera", "provoquerons", "provoquerez", "provoqueront"],
+        "cond.pres": ["provoquerais", "provoquerais", "provoquerait", "provoquerions", "provoqueriez", "provoqueraient"],
+        "subj.pres": ["provoque", "provoques", "provoque", "provoquions", "provoquiez", "provoquent"],
+        "subj.imp": ["provoquasse", "provoquasses", "provoquât", "provoquassions", "provoquassiez", "provoquassent"],
+        "imper.pres": ["provoque", "provoquons", "provoquez"]
+      },
+      "participe_present": "provoquant",
+      "participe_passe": ["provoqué", "provoquée", "provoqués", "provoquées"]
     }
   ]
 }
