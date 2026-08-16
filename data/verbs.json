@@ -4793,6 +4793,24 @@
       },
       "participe_present": "observant",
       "participe_passe": ["observé", "observée", "observés", "observées"]
+    },
+    {
+      "id": "coller",
+      "infinitif": "coller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["colle", "colles", "colle", "collons", "collez", "collent"],
+        "ind.imp": ["collais", "collais", "collait", "collions", "colliez", "collaient"],
+        "ind.ps": ["collai", "collas", "colla", "collâmes", "collâtes", "collèrent"],
+        "ind.fut": ["collerai", "colleras", "collera", "collerons", "collerez", "colleront"],
+        "cond.pres": ["collerais", "collerais", "collerait", "collerions", "colleriez", "colleraient"],
+        "subj.pres": ["colle", "colles", "colle", "collions", "colliez", "collent"],
+        "subj.imp": ["collasse", "collasses", "collât", "collassions", "collassiez", "collassent"],
+        "imper.pres": ["colle", "collons", "collez"]
+      },
+      "participe_present": "collant",
+      "participe_passe": ["collé", "collée", "collés", "collées"]
     }
   ]
 }
