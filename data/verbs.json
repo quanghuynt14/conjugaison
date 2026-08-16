@@ -30766,6 +30766,25 @@
       },
       "participe_present": "voguant",
       "participe_passe": ["vogué", null, null, null]
+    },
+    {
+      "id": "coïncider",
+      "infinitif": "coïncider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « coïncidé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["coïncide", "coïncides", "coïncide", "coïncidons", "coïncidez", "coïncident"],
+        "ind.imp": ["coïncidais", "coïncidais", "coïncidait", "coïncidions", "coïncidiez", "coïncidaient"],
+        "ind.ps": ["coïncidai", "coïncidas", "coïncida", "coïncidâmes", "coïncidâtes", "coïncidèrent"],
+        "ind.fut": ["coïnciderai", "coïncideras", "coïncidera", "coïnciderons", "coïnciderez", "coïncideront"],
+        "cond.pres": ["coïnciderais", "coïnciderais", "coïnciderait", "coïnciderions", "coïncideriez", "coïncideraient"],
+        "subj.pres": ["coïncide", "coïncides", "coïncide", "coïncidions", "coïncidiez", "coïncident"],
+        "subj.imp": ["coïncidasse", "coïncidasses", "coïncidât", "coïncidassions", "coïncidassiez", "coïncidassent"],
+        "imper.pres": ["coïncide", "coïncidons", "coïncidez"]
+      },
+      "participe_present": "coïncidant",
+      "participe_passe": ["coïncidé", null, null, null]
     }
   ]
 }
