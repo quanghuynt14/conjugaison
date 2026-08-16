@@ -6878,6 +6878,24 @@
       },
       "participe_present": "récupérant",
       "participe_passe": ["récupéré", "récupérée", "récupérés", "récupérées"]
+    },
+    {
+      "id": "réaliser",
+      "infinitif": "réaliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réalise", "réalises", "réalise", "réalisons", "réalisez", "réalisent"],
+        "ind.imp": ["réalisais", "réalisais", "réalisait", "réalisions", "réalisiez", "réalisaient"],
+        "ind.ps": ["réalisai", "réalisas", "réalisa", "réalisâmes", "réalisâtes", "réalisèrent"],
+        "ind.fut": ["réaliserai", "réaliseras", "réalisera", "réaliserons", "réaliserez", "réaliseront"],
+        "cond.pres": ["réaliserais", "réaliserais", "réaliserait", "réaliserions", "réaliseriez", "réaliseraient"],
+        "subj.pres": ["réalise", "réalises", "réalise", "réalisions", "réalisiez", "réalisent"],
+        "subj.imp": ["réalisasse", "réalisasses", "réalisât", "réalisassions", "réalisassiez", "réalisassent"],
+        "imper.pres": ["réalise", "réalisons", "réalisez"]
+      },
+      "participe_present": "réalisant",
+      "participe_passe": ["réalisé", "réalisée", "réalisés", "réalisées"]
     }
   ]
 }
