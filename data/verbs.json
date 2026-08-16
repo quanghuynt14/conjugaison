@@ -1386,6 +1386,24 @@
       },
       "participe_present": "montrant",
       "participe_passe": ["montré", "montrée", "montrés", "montrées"]
+    },
+    {
+      "id": "servir",
+      "infinitif": "servir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sers", "sers", "sert", "servons", "servez", "servent"],
+        "ind.imp": ["servais", "servais", "servait", "servions", "serviez", "servaient"],
+        "ind.ps": ["servis", "servis", "servit", "servîmes", "servîtes", "servirent"],
+        "ind.fut": ["servirai", "serviras", "servira", "servirons", "servirez", "serviront"],
+        "cond.pres": ["servirais", "servirais", "servirait", "servirions", "serviriez", "serviraient"],
+        "subj.pres": ["serve", "serves", "serve", "servions", "serviez", "servent"],
+        "subj.imp": ["servisse", "servisses", "servît", "servissions", "servissiez", "servissent"],
+        "imper.pres": ["sers", "servons", "servez"]
+      },
+      "participe_present": "servant",
+      "participe_passe": ["servi", "servie", "servis", "servies"]
     }
   ]
 }
