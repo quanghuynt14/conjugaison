@@ -7295,6 +7295,24 @@
       },
       "participe_present": "ravissant",
       "participe_passe": ["ravi", "ravie", "ravis", "ravies"]
+    },
+    {
+      "id": "admirer",
+      "infinitif": "admirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["admire", "admires", "admire", "admirons", "admirez", "admirent"],
+        "ind.imp": ["admirais", "admirais", "admirait", "admirions", "admiriez", "admiraient"],
+        "ind.ps": ["admirai", "admiras", "admira", "admirâmes", "admirâtes", "admirèrent"],
+        "ind.fut": ["admirerai", "admireras", "admirera", "admirerons", "admirerez", "admireront"],
+        "cond.pres": ["admirerais", "admirerais", "admirerait", "admirerions", "admireriez", "admireraient"],
+        "subj.pres": ["admire", "admires", "admire", "admirions", "admiriez", "admirent"],
+        "subj.imp": ["admirasse", "admirasses", "admirât", "admirassions", "admirassiez", "admirassent"],
+        "imper.pres": ["admire", "admirons", "admirez"]
+      },
+      "participe_present": "admirant",
+      "participe_passe": ["admiré", "admirée", "admirés", "admirées"]
     }
   ]
 }
