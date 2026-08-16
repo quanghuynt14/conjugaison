@@ -25188,6 +25188,24 @@
       },
       "participe_present": "contestant",
       "participe_passe": ["contesté", "contestée", "contestés", "contestées"]
+    },
+    {
+      "id": "lisser",
+      "infinitif": "lisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["lisse", "lisses", "lisse", "lissons", "lissez", "lissent"],
+        "ind.imp": ["lissais", "lissais", "lissait", "lissions", "lissiez", "lissaient"],
+        "ind.ps": ["lissai", "lissas", "lissa", "lissâmes", "lissâtes", "lissèrent"],
+        "ind.fut": ["lisserai", "lisseras", "lissera", "lisserons", "lisserez", "lisseront"],
+        "cond.pres": ["lisserais", "lisserais", "lisserait", "lisserions", "lisseriez", "lisseraient"],
+        "subj.pres": ["lisse", "lisses", "lisse", "lissions", "lissiez", "lissent"],
+        "subj.imp": ["lissasse", "lissasses", "lissât", "lissassions", "lissassiez", "lissassent"],
+        "imper.pres": ["lisse", "lissons", "lissez"]
+      },
+      "participe_present": "lissant",
+      "participe_passe": ["lissé", "lissée", "lissés", "lissées"]
     }
   ]
 }
