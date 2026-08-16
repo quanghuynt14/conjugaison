@@ -3112,6 +3112,24 @@
       },
       "participe_present": "enlevant",
       "participe_passe": ["enlevé", "enlevée", "enlevés", "enlevées"]
+    },
+    {
+      "id": "rêver",
+      "infinitif": "rêver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rêve", "rêves", "rêve", "rêvons", "rêvez", "rêvent"],
+        "ind.imp": ["rêvais", "rêvais", "rêvait", "rêvions", "rêviez", "rêvaient"],
+        "ind.ps": ["rêvai", "rêvas", "rêva", "rêvâmes", "rêvâtes", "rêvèrent"],
+        "ind.fut": ["rêverai", "rêveras", "rêvera", "rêverons", "rêverez", "rêveront"],
+        "cond.pres": ["rêverais", "rêverais", "rêverait", "rêverions", "rêveriez", "rêveraient"],
+        "subj.pres": ["rêve", "rêves", "rêve", "rêvions", "rêviez", "rêvent"],
+        "subj.imp": ["rêvasse", "rêvasses", "rêvât", "rêvassions", "rêvassiez", "rêvassent"],
+        "imper.pres": ["rêve", "rêvons", "rêvez"]
+      },
+      "participe_present": "rêvant",
+      "participe_passe": ["rêvé", "rêvée", "rêvés", "rêvées"]
     }
   ]
 }
