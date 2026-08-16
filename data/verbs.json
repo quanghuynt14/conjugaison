@@ -36041,6 +36041,24 @@
       },
       "participe_present": "émigrant",
       "participe_passe": ["émigré", "émigrée", "émigrés", "émigrées"]
+    },
+    {
+      "id": "trimballer",
+      "infinitif": "trimballer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trimballe", "trimballes", "trimballe", "trimballons", "trimballez", "trimballent"],
+        "ind.imp": ["trimballais", "trimballais", "trimballait", "trimballions", "trimballiez", "trimballaient"],
+        "ind.ps": ["trimballai", "trimballas", "trimballa", "trimballâmes", "trimballâtes", "trimballèrent"],
+        "ind.fut": ["trimballerai", "trimballeras", "trimballera", "trimballerons", "trimballerez", "trimballeront"],
+        "cond.pres": ["trimballerais", "trimballerais", "trimballerait", "trimballerions", "trimballeriez", "trimballeraient"],
+        "subj.pres": ["trimballe", "trimballes", "trimballe", "trimballions", "trimballiez", "trimballent"],
+        "subj.imp": ["trimballasse", "trimballasses", "trimballât", "trimballassions", "trimballassiez", "trimballassent"],
+        "imper.pres": ["trimballe", "trimballons", "trimballez"]
+      },
+      "participe_present": "trimballant",
+      "participe_passe": ["trimballé", "trimballée", "trimballés", "trimballées"]
     }
   ]
 }
