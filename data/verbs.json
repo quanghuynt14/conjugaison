@@ -25170,6 +25170,24 @@
       },
       "participe_present": "desserrant",
       "participe_passe": ["desserré", "desserrée", "desserrés", "desserrées"]
+    },
+    {
+      "id": "contester",
+      "infinitif": "contester",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conteste", "contestes", "conteste", "contestons", "contestez", "contestent"],
+        "ind.imp": ["contestais", "contestais", "contestait", "contestions", "contestiez", "contestaient"],
+        "ind.ps": ["contestai", "contestas", "contesta", "contestâmes", "contestâtes", "contestèrent"],
+        "ind.fut": ["contesterai", "contesteras", "contestera", "contesterons", "contesterez", "contesteront"],
+        "cond.pres": ["contesterais", "contesterais", "contesterait", "contesterions", "contesteriez", "contesteraient"],
+        "subj.pres": ["conteste", "contestes", "conteste", "contestions", "contestiez", "contestent"],
+        "subj.imp": ["contestasse", "contestasses", "contestât", "contestassions", "contestassiez", "contestassent"],
+        "imper.pres": ["conteste", "contestons", "contestez"]
+      },
+      "participe_present": "contestant",
+      "participe_passe": ["contesté", "contestée", "contestés", "contestées"]
     }
   ]
 }
