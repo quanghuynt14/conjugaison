@@ -19178,6 +19178,24 @@
       },
       "participe_present": "inondant",
       "participe_passe": ["inondé", "inondée", "inondés", "inondées"]
+    },
+    {
+      "id": "paralyser",
+      "infinitif": "paralyser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["paralyse", "paralyses", "paralyse", "paralysons", "paralysez", "paralysent"],
+        "ind.imp": ["paralysais", "paralysais", "paralysait", "paralysions", "paralysiez", "paralysaient"],
+        "ind.ps": ["paralysai", "paralysas", "paralysa", "paralysâmes", "paralysâtes", "paralysèrent"],
+        "ind.fut": ["paralyserai", "paralyseras", "paralysera", "paralyserons", "paralyserez", "paralyseront"],
+        "cond.pres": ["paralyserais", "paralyserais", "paralyserait", "paralyserions", "paralyseriez", "paralyseraient"],
+        "subj.pres": ["paralyse", "paralyses", "paralyse", "paralysions", "paralysiez", "paralysent"],
+        "subj.imp": ["paralysasse", "paralysasses", "paralysât", "paralysassions", "paralysassiez", "paralysassent"],
+        "imper.pres": ["paralyse", "paralysons", "paralysez"]
+      },
+      "participe_present": "paralysant",
+      "participe_passe": ["paralysé", "paralysée", "paralysés", "paralysées"]
     }
   ]
 }
