@@ -23689,6 +23689,24 @@
       },
       "participe_present": "cramponnant",
       "participe_passe": ["cramponné", "cramponnée", "cramponnés", "cramponnées"]
+    },
+    {
+      "id": "atténuer",
+      "infinitif": "atténuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["atténue", "atténues", "atténue", "atténuons", "atténuez", "atténuent"],
+        "ind.imp": ["atténuais", "atténuais", "atténuait", "atténuions", "atténuiez", "atténuaient"],
+        "ind.ps": ["atténuai", "atténuas", "atténua", "atténuâmes", "atténuâtes", "atténuèrent"],
+        "ind.fut": ["atténuerai", "atténueras", "atténuera", "atténuerons", "atténuerez", "atténueront"],
+        "cond.pres": ["atténuerais", "atténuerais", "atténuerait", "atténuerions", "atténueriez", "atténueraient"],
+        "subj.pres": ["atténue", "atténues", "atténue", "atténuions", "atténuiez", "atténuent"],
+        "subj.imp": ["atténuasse", "atténuasses", "atténuât", "atténuassions", "atténuassiez", "atténuassent"],
+        "imper.pres": ["atténue", "atténuons", "atténuez"]
+      },
+      "participe_present": "atténuant",
+      "participe_passe": ["atténué", "atténuée", "atténués", "atténuées"]
     }
   ]
 }
