@@ -27868,6 +27868,24 @@
       },
       "participe_present": "sifflotant",
       "participe_passe": ["siffloté", "sifflotée", "sifflotés", "sifflotées"]
+    },
+    {
+      "id": "gaffer",
+      "infinitif": "gaffer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gaffe", "gaffes", "gaffe", "gaffons", "gaffez", "gaffent"],
+        "ind.imp": ["gaffais", "gaffais", "gaffait", "gaffions", "gaffiez", "gaffaient"],
+        "ind.ps": ["gaffai", "gaffas", "gaffa", "gaffâmes", "gaffâtes", "gaffèrent"],
+        "ind.fut": ["gafferai", "gafferas", "gaffera", "gafferons", "gafferez", "gafferont"],
+        "cond.pres": ["gafferais", "gafferais", "gafferait", "gafferions", "gafferiez", "gafferaient"],
+        "subj.pres": ["gaffe", "gaffes", "gaffe", "gaffions", "gaffiez", "gaffent"],
+        "subj.imp": ["gaffasse", "gaffasses", "gaffât", "gaffassions", "gaffassiez", "gaffassent"],
+        "imper.pres": ["gaffe", "gaffons", "gaffez"]
+      },
+      "participe_present": "gaffant",
+      "participe_passe": ["gaffé", "gaffée", "gaffés", "gaffées"]
     }
   ]
 }
