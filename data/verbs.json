@@ -36205,6 +36205,26 @@
       },
       "participe_present": "rivalisant",
       "participe_passe": ["rivalisé", null, null, null]
+    },
+    {
+      "id": "démener",
+      "infinitif": "démener",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me démène » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["démène", "démènes", "démène", "démenons", "démenez", "démènent"],
+        "ind.imp": ["démenais", "démenais", "démenait", "démenions", "démeniez", "démenaient"],
+        "ind.ps": ["démenai", "démenas", "démena", "démenâmes", "démenâtes", "démenèrent"],
+        "ind.fut": ["démènerai", "démèneras", "démènera", "démènerons", "démènerez", "démèneront"],
+        "cond.pres": ["démènerais", "démènerais", "démènerait", "démènerions", "démèneriez", "démèneraient"],
+        "subj.pres": ["démène", "démènes", "démène", "démenions", "démeniez", "démènent"],
+        "subj.imp": ["démenasse", "démenasses", "démenât", "démenassions", "démenassiez", "démenassent"],
+        "imper.pres": ["démène", "démenons", "démenez"]
+      },
+      "participe_present": "démenant",
+      "participe_passe": ["démené", "démenée", "démenés", "démenées"]
     }
   ]
 }
