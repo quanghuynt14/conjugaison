@@ -28816,6 +28816,24 @@
       },
       "participe_present": "maltraitant",
       "participe_passe": ["maltraité", "maltraitée", "maltraités", "maltraitées"]
+    },
+    {
+      "id": "ravaler",
+      "infinitif": "ravaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ravale", "ravales", "ravale", "ravalons", "ravalez", "ravalent"],
+        "ind.imp": ["ravalais", "ravalais", "ravalait", "ravalions", "ravaliez", "ravalaient"],
+        "ind.ps": ["ravalai", "ravalas", "ravala", "ravalâmes", "ravalâtes", "ravalèrent"],
+        "ind.fut": ["ravalerai", "ravaleras", "ravalera", "ravalerons", "ravalerez", "ravaleront"],
+        "cond.pres": ["ravalerais", "ravalerais", "ravalerait", "ravalerions", "ravaleriez", "ravaleraient"],
+        "subj.pres": ["ravale", "ravales", "ravale", "ravalions", "ravaliez", "ravalent"],
+        "subj.imp": ["ravalasse", "ravalasses", "ravalât", "ravalassions", "ravalassiez", "ravalassent"],
+        "imper.pres": ["ravale", "ravalons", "ravalez"]
+      },
+      "participe_present": "ravalant",
+      "participe_passe": ["ravalé", "ravalée", "ravalés", "ravalées"]
     }
   ]
 }
