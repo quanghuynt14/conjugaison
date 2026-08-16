@@ -20859,6 +20859,24 @@
       },
       "participe_present": "refroidissant",
       "participe_passe": ["refroidi", "refroidie", "refroidis", "refroidies"]
+    },
+    {
+      "id": "économiser",
+      "infinitif": "économiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["économise", "économises", "économise", "économisons", "économisez", "économisent"],
+        "ind.imp": ["économisais", "économisais", "économisait", "économisions", "économisiez", "économisaient"],
+        "ind.ps": ["économisai", "économisas", "économisa", "économisâmes", "économisâtes", "économisèrent"],
+        "ind.fut": ["économiserai", "économiseras", "économisera", "économiserons", "économiserez", "économiseront"],
+        "cond.pres": ["économiserais", "économiserais", "économiserait", "économiserions", "économiseriez", "économiseraient"],
+        "subj.pres": ["économise", "économises", "économise", "économisions", "économisiez", "économisent"],
+        "subj.imp": ["économisasse", "économisasses", "économisât", "économisassions", "économisassiez", "économisassent"],
+        "imper.pres": ["économise", "économisons", "économisez"]
+      },
+      "participe_present": "économisant",
+      "participe_passe": ["économisé", "économisée", "économisés", "économisées"]
     }
   ]
 }
