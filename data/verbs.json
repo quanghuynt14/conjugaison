@@ -34984,6 +34984,24 @@
       },
       "participe_present": "dégainant",
       "participe_passe": ["dégainé", "dégainée", "dégainés", "dégainées"]
+    },
+    {
+      "id": "suinter",
+      "infinitif": "suinter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["suinte", "suintes", "suinte", "suintons", "suintez", "suintent"],
+        "ind.imp": ["suintais", "suintais", "suintait", "suintions", "suintiez", "suintaient"],
+        "ind.ps": ["suintai", "suintas", "suinta", "suintâmes", "suintâtes", "suintèrent"],
+        "ind.fut": ["suinterai", "suinteras", "suintera", "suinterons", "suinterez", "suinteront"],
+        "cond.pres": ["suinterais", "suinterais", "suinterait", "suinterions", "suinteriez", "suinteraient"],
+        "subj.pres": ["suinte", "suintes", "suinte", "suintions", "suintiez", "suintent"],
+        "subj.imp": ["suintasse", "suintasses", "suintât", "suintassions", "suintassiez", "suintassent"],
+        "imper.pres": ["suinte", "suintons", "suintez"]
+      },
+      "participe_present": "suintant",
+      "participe_passe": ["suinté", "suintée", "suintés", "suintées"]
     }
   ]
 }
