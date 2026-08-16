@@ -20822,6 +20822,25 @@
       },
       "participe_present": "épanouissant",
       "participe_passe": ["épanoui", "épanouie", "épanouis", "épanouies"]
+    },
+    {
+      "id": "dessécher",
+      "infinitif": "dessécher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je dessécherai » ou « je dessècherai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["dessèche", "dessèches", "dessèche", "desséchons", "desséchez", "dessèchent"],
+        "ind.imp": ["desséchais", "desséchais", "desséchait", "desséchions", "desséchiez", "desséchaient"],
+        "ind.ps": ["desséchai", "desséchas", "dessécha", "desséchâmes", "desséchâtes", "desséchèrent"],
+        "ind.fut": [["dessécherai", "dessècherai"], ["dessécheras", "dessècheras"], ["desséchera", "dessèchera"], ["dessécherons", "dessècherons"], ["dessécherez", "dessècherez"], ["dessécheront", "dessècheront"]],
+        "cond.pres": [["dessécherais", "dessècherais"], ["dessécherais", "dessècherais"], ["dessécherait", "dessècherait"], ["dessécherions", "dessècherions"], ["dessécheriez", "dessècheriez"], ["dessécheraient", "dessècheraient"]],
+        "subj.pres": ["dessèche", "dessèches", "dessèche", "desséchions", "desséchiez", "dessèchent"],
+        "subj.imp": ["desséchasse", "desséchasses", "desséchât", "desséchassions", "desséchassiez", "desséchassent"],
+        "imper.pres": ["dessèche", "desséchons", "desséchez"]
+      },
+      "participe_present": "desséchant",
+      "participe_passe": ["desséché", "desséchée", "desséchés", "desséchées"]
     }
   ]
 }
