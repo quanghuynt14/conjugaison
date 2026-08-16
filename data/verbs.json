@@ -12683,6 +12683,24 @@
       },
       "participe_present": "assassinant",
       "participe_passe": ["assassiné", "assassinée", "assassinés", "assassinées"]
+    },
+    {
+      "id": "gémir",
+      "infinitif": "gémir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gémis", "gémis", "gémit", "gémissons", "gémissez", "gémissent"],
+        "ind.imp": ["gémissais", "gémissais", "gémissait", "gémissions", "gémissiez", "gémissaient"],
+        "ind.ps": ["gémis", "gémis", "gémit", "gémîmes", "gémîtes", "gémirent"],
+        "ind.fut": ["gémirai", "gémiras", "gémira", "gémirons", "gémirez", "gémiront"],
+        "cond.pres": ["gémirais", "gémirais", "gémirait", "gémirions", "gémiriez", "gémiraient"],
+        "subj.pres": ["gémisse", "gémisses", "gémisse", "gémissions", "gémissiez", "gémissent"],
+        "subj.imp": ["gémisse", "gémisses", "gémît", "gémissions", "gémissiez", "gémissent"],
+        "imper.pres": ["gémis", "gémissons", "gémissez"]
+      },
+      "participe_present": "gémissant",
+      "participe_passe": ["gémi", "gémie", "gémis", "gémies"]
     }
   ]
 }
