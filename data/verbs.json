@@ -8795,6 +8795,24 @@
       },
       "participe_present": "résolvant",
       "participe_passe": ["résolu", "résolue", "résolus", "résolues"]
+    },
+    {
+      "id": "exploser",
+      "infinitif": "exploser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["explose", "exploses", "explose", "explosons", "explosez", "explosent"],
+        "ind.imp": ["explosais", "explosais", "explosait", "explosions", "explosiez", "explosaient"],
+        "ind.ps": ["explosai", "explosas", "explosa", "explosâmes", "explosâtes", "explosèrent"],
+        "ind.fut": ["exploserai", "exploseras", "explosera", "exploserons", "exploserez", "exploseront"],
+        "cond.pres": ["exploserais", "exploserais", "exploserait", "exploserions", "exploseriez", "exploseraient"],
+        "subj.pres": ["explose", "exploses", "explose", "explosions", "explosiez", "explosent"],
+        "subj.imp": ["explosasse", "explosasses", "explosât", "explosassions", "explosassiez", "explosassent"],
+        "imper.pres": ["explose", "explosons", "explosez"]
+      },
+      "participe_present": "explosant",
+      "participe_passe": ["explosé", "explosée", "explosés", "explosées"]
     }
   ]
 }
