@@ -12264,6 +12264,24 @@
       },
       "participe_present": "heurtant",
       "participe_passe": ["heurté", "heurtée", "heurtés", "heurtées"]
+    },
+    {
+      "id": "protester",
+      "infinitif": "protester",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["proteste", "protestes", "proteste", "protestons", "protestez", "protestent"],
+        "ind.imp": ["protestais", "protestais", "protestait", "protestions", "protestiez", "protestaient"],
+        "ind.ps": ["protestai", "protestas", "protesta", "protestâmes", "protestâtes", "protestèrent"],
+        "ind.fut": ["protesterai", "protesteras", "protestera", "protesterons", "protesterez", "protesteront"],
+        "cond.pres": ["protesterais", "protesterais", "protesterait", "protesterions", "protesteriez", "protesteraient"],
+        "subj.pres": ["proteste", "protestes", "proteste", "protestions", "protestiez", "protestent"],
+        "subj.imp": ["protestasse", "protestasses", "protestât", "protestassions", "protestassiez", "protestassent"],
+        "imper.pres": ["proteste", "protestons", "protestez"]
+      },
+      "participe_present": "protestant",
+      "participe_passe": ["protesté", "protestée", "protestés", "protestées"]
     }
   ]
 }
