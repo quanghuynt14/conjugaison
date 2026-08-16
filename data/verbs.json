@@ -29308,6 +29308,24 @@
       },
       "participe_present": "jonchant",
       "participe_passe": ["jonché", "jonchée", "jonchés", "jonchées"]
+    },
+    {
+      "id": "échauffer",
+      "infinitif": "échauffer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["échauffe", "échauffes", "échauffe", "échauffons", "échauffez", "échauffent"],
+        "ind.imp": ["échauffais", "échauffais", "échauffait", "échauffions", "échauffiez", "échauffaient"],
+        "ind.ps": ["échauffai", "échauffas", "échauffa", "échauffâmes", "échauffâtes", "échauffèrent"],
+        "ind.fut": ["échaufferai", "échaufferas", "échauffera", "échaufferons", "échaufferez", "échaufferont"],
+        "cond.pres": ["échaufferais", "échaufferais", "échaufferait", "échaufferions", "échaufferiez", "échaufferaient"],
+        "subj.pres": ["échauffe", "échauffes", "échauffe", "échauffions", "échauffiez", "échauffent"],
+        "subj.imp": ["échauffasse", "échauffasses", "échauffât", "échauffassions", "échauffassiez", "échauffassent"],
+        "imper.pres": ["échauffe", "échauffons", "échauffez"]
+      },
+      "participe_present": "échauffant",
+      "participe_passe": ["échauffé", "échauffée", "échauffés", "échauffées"]
     }
   ]
 }
