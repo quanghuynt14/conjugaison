@@ -3908,6 +3908,24 @@
       },
       "participe_present": "proposant",
       "participe_passe": ["proposé", "proposée", "proposés", "proposées"]
+    },
+    {
+      "id": "annoncer",
+      "infinitif": "annoncer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["annonce", "annonces", "annonce", "annonçons", "annoncez", "annoncent"],
+        "ind.imp": ["annonçais", "annonçais", "annonçait", "annoncions", "annonciez", "annonçaient"],
+        "ind.ps": ["annonçai", "annonças", "annonça", "annonçâmes", "annonçâtes", "annoncèrent"],
+        "ind.fut": ["annoncerai", "annonceras", "annoncera", "annoncerons", "annoncerez", "annonceront"],
+        "cond.pres": ["annoncerais", "annoncerais", "annoncerait", "annoncerions", "annonceriez", "annonceraient"],
+        "subj.pres": ["annonce", "annonces", "annonce", "annoncions", "annonciez", "annoncent"],
+        "subj.imp": ["annonçasse", "annonçasses", "annonçât", "annonçassions", "annonçassiez", "annonçassent"],
+        "imper.pres": ["annonce", "annonçons", "annoncez"]
+      },
+      "participe_present": "annonçant",
+      "participe_passe": ["annoncé", "annoncée", "annoncés", "annoncées"]
     }
   ]
 }
