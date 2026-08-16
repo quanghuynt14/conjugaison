@@ -20527,6 +20527,24 @@
       },
       "participe_present": "enrichissant",
       "participe_passe": ["enrichi", "enrichie", "enrichis", "enrichies"]
+    },
+    {
+      "id": "capter",
+      "infinitif": "capter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["capte", "captes", "capte", "captons", "captez", "captent"],
+        "ind.imp": ["captais", "captais", "captait", "captions", "captiez", "captaient"],
+        "ind.ps": ["captai", "captas", "capta", "captâmes", "captâtes", "captèrent"],
+        "ind.fut": ["capterai", "capteras", "captera", "capterons", "capterez", "capteront"],
+        "cond.pres": ["capterais", "capterais", "capterait", "capterions", "capteriez", "capteraient"],
+        "subj.pres": ["capte", "captes", "capte", "captions", "captiez", "captent"],
+        "subj.imp": ["captasse", "captasses", "captât", "captassions", "captassiez", "captassent"],
+        "imper.pres": ["capte", "captons", "captez"]
+      },
+      "participe_present": "captant",
+      "participe_passe": ["capté", "captée", "captés", "captées"]
     }
   ]
 }
