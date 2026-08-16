@@ -13335,6 +13335,24 @@
       },
       "participe_present": "suçant",
       "participe_passe": ["sucé", "sucée", "sucés", "sucées"]
+    },
+    {
+      "id": "développer",
+      "infinitif": "développer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["développe", "développes", "développe", "développons", "développez", "développent"],
+        "ind.imp": ["développais", "développais", "développait", "développions", "développiez", "développaient"],
+        "ind.ps": ["développai", "développas", "développa", "développâmes", "développâtes", "développèrent"],
+        "ind.fut": ["développerai", "développeras", "développera", "développerons", "développerez", "développeront"],
+        "cond.pres": ["développerais", "développerais", "développerait", "développerions", "développeriez", "développeraient"],
+        "subj.pres": ["développe", "développes", "développe", "développions", "développiez", "développent"],
+        "subj.imp": ["développasse", "développasses", "développât", "développassions", "développassiez", "développassent"],
+        "imper.pres": ["développe", "développons", "développez"]
+      },
+      "participe_present": "développant",
+      "participe_passe": ["développé", "développée", "développés", "développées"]
     }
   ]
 }
