@@ -9774,6 +9774,24 @@
       },
       "participe_present": "dominant",
       "participe_passe": ["dominé", "dominée", "dominés", "dominées"]
+    },
+    {
+      "id": "noyer",
+      "infinitif": "noyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["noie", "noies", "noie", "noyons", "noyez", "noient"],
+        "ind.imp": ["noyais", "noyais", "noyait", "noyions", "noyiez", "noyaient"],
+        "ind.ps": ["noyai", "noyas", "noya", "noyâmes", "noyâtes", "noyèrent"],
+        "ind.fut": ["noierai", "noieras", "noiera", "noierons", "noierez", "noieront"],
+        "cond.pres": ["noierais", "noierais", "noierait", "noierions", "noieriez", "noieraient"],
+        "subj.pres": ["noie", "noies", "noie", "noyions", "noyiez", "noient"],
+        "subj.imp": ["noyasse", "noyasses", "noyât", "noyassions", "noyassiez", "noyassent"],
+        "imper.pres": ["noie", "noyons", "noyez"]
+      },
+      "participe_present": "noyant",
+      "participe_passe": ["noyé", "noyée", "noyés", "noyées"]
     }
   ]
 }
