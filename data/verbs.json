@@ -20877,6 +20877,24 @@
       },
       "participe_present": "économisant",
       "participe_passe": ["économisé", "économisée", "économisés", "économisées"]
+    },
+    {
+      "id": "invoquer",
+      "infinitif": "invoquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["invoque", "invoques", "invoque", "invoquons", "invoquez", "invoquent"],
+        "ind.imp": ["invoquais", "invoquais", "invoquait", "invoquions", "invoquiez", "invoquaient"],
+        "ind.ps": ["invoquai", "invoquas", "invoqua", "invoquâmes", "invoquâtes", "invoquèrent"],
+        "ind.fut": ["invoquerai", "invoqueras", "invoquera", "invoquerons", "invoquerez", "invoqueront"],
+        "cond.pres": ["invoquerais", "invoquerais", "invoquerait", "invoquerions", "invoqueriez", "invoqueraient"],
+        "subj.pres": ["invoque", "invoques", "invoque", "invoquions", "invoquiez", "invoquent"],
+        "subj.imp": ["invoquasse", "invoquasses", "invoquât", "invoquassions", "invoquassiez", "invoquassent"],
+        "imper.pres": ["invoque", "invoquons", "invoquez"]
+      },
+      "participe_present": "invoquant",
+      "participe_passe": ["invoqué", "invoquée", "invoqués", "invoquées"]
     }
   ]
 }
