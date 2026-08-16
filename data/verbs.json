@@ -29984,6 +29984,24 @@
       },
       "participe_present": "déambulant",
       "participe_passe": ["déambulé", null, null, null]
+    },
+    {
+      "id": "surplomber",
+      "infinitif": "surplomber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["surplombe", "surplombes", "surplombe", "surplombons", "surplombez", "surplombent"],
+        "ind.imp": ["surplombais", "surplombais", "surplombait", "surplombions", "surplombiez", "surplombaient"],
+        "ind.ps": ["surplombai", "surplombas", "surplomba", "surplombâmes", "surplombâtes", "surplombèrent"],
+        "ind.fut": ["surplomberai", "surplomberas", "surplombera", "surplomberons", "surplomberez", "surplomberont"],
+        "cond.pres": ["surplomberais", "surplomberais", "surplomberait", "surplomberions", "surplomberiez", "surplomberaient"],
+        "subj.pres": ["surplombe", "surplombes", "surplombe", "surplombions", "surplombiez", "surplombent"],
+        "subj.imp": ["surplombasse", "surplombasses", "surplombât", "surplombassions", "surplombassiez", "surplombassent"],
+        "imper.pres": ["surplombe", "surplombons", "surplombez"]
+      },
+      "participe_present": "surplombant",
+      "participe_passe": ["surplombé", "surplombée", "surplombés", "surplombées"]
     }
   ]
 }
