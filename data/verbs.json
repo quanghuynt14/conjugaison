@@ -26497,6 +26497,24 @@
       },
       "participe_present": "conjurant",
       "participe_passe": ["conjuré", "conjurée", "conjurés", "conjurées"]
+    },
+    {
+      "id": "pondre",
+      "infinitif": "pondre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ponds", "ponds", "pond", "pondons", "pondez", "pondent"],
+        "ind.imp": ["pondais", "pondais", "pondait", "pondions", "pondiez", "pondaient"],
+        "ind.ps": ["pondis", "pondis", "pondit", "pondîmes", "pondîtes", "pondirent"],
+        "ind.fut": ["pondrai", "pondras", "pondra", "pondrons", "pondrez", "pondront"],
+        "cond.pres": ["pondrais", "pondrais", "pondrait", "pondrions", "pondriez", "pondraient"],
+        "subj.pres": ["ponde", "pondes", "ponde", "pondions", "pondiez", "pondent"],
+        "subj.imp": ["pondisse", "pondisses", "pondît", "pondissions", "pondissiez", "pondissent"],
+        "imper.pres": ["ponds", "pondons", "pondez"]
+      },
+      "participe_present": "pondant",
+      "participe_passe": ["pondu", "pondue", "pondus", "pondues"]
     }
   ]
 }
