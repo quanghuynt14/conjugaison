@@ -1606,6 +1606,26 @@
       },
       "participe_present": "retournant",
       "participe_passe": ["retourné", "retournée", "retournés", "retournées"]
+    },
+    {
+      "id": "souvenir",
+      "infinitif": "souvenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me souviens » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["souviens", "souviens", "souvient", "souvenons", "souvenez", "souviennent"],
+        "ind.imp": ["souvenais", "souvenais", "souvenait", "souvenions", "souveniez", "souvenaient"],
+        "ind.ps": ["souvins", "souvins", "souvint", "souvînmes", "souvîntes", "souvinrent"],
+        "ind.fut": ["souviendrai", "souviendras", "souviendra", "souviendrons", "souviendrez", "souviendront"],
+        "cond.pres": ["souviendrais", "souviendrais", "souviendrait", "souviendrions", "souviendriez", "souviendraient"],
+        "subj.pres": ["souvienne", "souviennes", "souvienne", "souvenions", "souveniez", "souviennent"],
+        "subj.imp": ["souvinsse", "souvinsses", "souvînt", "souvinssions", "souvinssiez", "souvinssent"],
+        "imper.pres": ["souviens", "souvenons", "souvenez"]
+      },
+      "participe_present": "souvenant",
+      "participe_passe": ["souvenu", "souvenue", "souvenus", "souvenues"]
     }
   ]
 }
