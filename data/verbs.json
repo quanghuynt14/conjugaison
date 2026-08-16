@@ -30293,6 +30293,24 @@
       },
       "participe_present": "égalant",
       "participe_passe": ["égalé", "égalée", "égalés", "égalées"]
+    },
+    {
+      "id": "substituer",
+      "infinitif": "substituer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["substitue", "substitues", "substitue", "substituons", "substituez", "substituent"],
+        "ind.imp": ["substituais", "substituais", "substituait", "substituions", "substituiez", "substituaient"],
+        "ind.ps": ["substituai", "substituas", "substitua", "substituâmes", "substituâtes", "substituèrent"],
+        "ind.fut": ["substituerai", "substitueras", "substituera", "substituerons", "substituerez", "substitueront"],
+        "cond.pres": ["substituerais", "substituerais", "substituerait", "substituerions", "substitueriez", "substitueraient"],
+        "subj.pres": ["substitue", "substitues", "substitue", "substituions", "substituiez", "substituent"],
+        "subj.imp": ["substituasse", "substituasses", "substituât", "substituassions", "substituassiez", "substituassent"],
+        "imper.pres": ["substitue", "substituons", "substituez"]
+      },
+      "participe_present": "substituant",
+      "participe_passe": ["substitué", "substituée", "substitués", "substituées"]
     }
   ]
 }
