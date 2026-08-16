@@ -30747,6 +30747,25 @@
       },
       "participe_present": "abrégeant",
       "participe_passe": ["abrégé", "abrégée", "abrégés", "abrégées"]
+    },
+    {
+      "id": "voguer",
+      "infinitif": "voguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « vogué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["vogue", "vogues", "vogue", "voguons", "voguez", "voguent"],
+        "ind.imp": ["voguais", "voguais", "voguait", "voguions", "voguiez", "voguaient"],
+        "ind.ps": ["voguai", "voguas", "vogua", "voguâmes", "voguâtes", "voguèrent"],
+        "ind.fut": ["voguerai", "vogueras", "voguera", "voguerons", "voguerez", "vogueront"],
+        "cond.pres": ["voguerais", "voguerais", "voguerait", "voguerions", "vogueriez", "vogueraient"],
+        "subj.pres": ["vogue", "vogues", "vogue", "voguions", "voguiez", "voguent"],
+        "subj.imp": ["voguasse", "voguasses", "voguât", "voguassions", "voguassiez", "voguassent"],
+        "imper.pres": ["vogue", "voguons", "voguez"]
+      },
+      "participe_present": "voguant",
+      "participe_passe": ["vogué", null, null, null]
     }
   ]
 }
