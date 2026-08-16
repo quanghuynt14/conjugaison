@@ -165,6 +165,32 @@ CORRECTIONS = {
     # « mû » d'abord, « mu » ensuite : l'ancienne graphie devant la rectifiée,
     # comme partout ailleurs ici.
     "mouvoir": {"participe_passe": [["mû", "mu"], "mue", "mus", "mues"]},
+
+}
+
+# Les corrections qui ne portent que sur quelques cases : verbe -> temps ->
+# personne -> forme. Le reste du tableau vient de Verbiste comme d'habitude.
+CELLULES = {
+    # Le circonflexe de croître ne sert qu'à le séparer de croire, et accroître
+    # n'a personne dont se séparer : « j'accrois », « tu accrois », mais « il
+    # accroît », où le î précède un t comme dans tous les verbes en -oître.
+    # Verbiste applique à accroître les circonflexes de croître ; Lexique
+    # atteste « accrois ».
+    "accroître": {"ind.pres": {0: "accrois", 1: "accrois"}},
+    "décroître": {"ind.pres": {0: "décrois", 1: "décrois"}},
+
+    # Verbiste ne donne à advenir que la troisième personne du singulier. Le
+    # pluriel existe — « les malheurs qui adviennent » —, et advenir se
+    # conjugue comme venir, dont il est le préfixé.
+    "advenir": {
+        "ind.pres":  {5: "adviennent"},
+        "ind.imp":   {5: "advenaient"},
+        "ind.ps":    {5: "advinrent"},
+        "ind.fut":   {5: "adviendront"},
+        "cond.pres": {5: "adviendraient"},
+        "subj.pres": {5: "adviennent"},
+        "subj.imp":  {5: "advinssent"},
+    },
 }
 
 # L'autre écart, et il est de méthode. Un modèle Verbiste décline les quatre
@@ -233,6 +259,7 @@ INVARIABLES = {
 # manquante, et l'ancienne passe devant, comme dans les modèles voisins.
 DEUX_GRAPHIES = {
     "abr:éger": ("è", "é", "devant"),   # protégerai / protègerai
+    "l:éguer":  ("è", "é", "devant"),   # léguerai / lèguerai
     "s:écher":  ("é", "è", "derrière"),  # sécherai / sècherai
 }
 
@@ -568,6 +595,9 @@ def fabrique(infinitif, modele_nom, modeles_):
             ]
 
     verbe.update(CORRECTIONS.get(infinitif, {}))
+    for cle, cases in CELLULES.get(infinitif, {}).items():
+        for i, forme in cases.items():
+            verbe["tenses"][cle][i] = forme
 
     verbe["groupe"] = groupe_de(infinitif, forme_seule(verbe["participe_present"]))
     note = note_de(verbe)
