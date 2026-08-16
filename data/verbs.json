@@ -21422,6 +21422,24 @@
       },
       "participe_present": "critiquant",
       "participe_passe": ["critiqué", "critiquée", "critiqués", "critiquées"]
+    },
+    {
+      "id": "dorer",
+      "infinitif": "dorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dore", "dores", "dore", "dorons", "dorez", "dorent"],
+        "ind.imp": ["dorais", "dorais", "dorait", "dorions", "doriez", "doraient"],
+        "ind.ps": ["dorai", "doras", "dora", "dorâmes", "dorâtes", "dorèrent"],
+        "ind.fut": ["dorerai", "doreras", "dorera", "dorerons", "dorerez", "doreront"],
+        "cond.pres": ["dorerais", "dorerais", "dorerait", "dorerions", "doreriez", "doreraient"],
+        "subj.pres": ["dore", "dores", "dore", "dorions", "doriez", "dorent"],
+        "subj.imp": ["dorasse", "dorasses", "dorât", "dorassions", "dorassiez", "dorassent"],
+        "imper.pres": ["dore", "dorons", "dorez"]
+      },
+      "participe_present": "dorant",
+      "participe_passe": ["doré", "dorée", "dorés", "dorées"]
     }
   ]
 }
