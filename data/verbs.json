@@ -20895,6 +20895,25 @@
       },
       "participe_present": "invoquant",
       "participe_passe": ["invoqué", "invoquée", "invoqués", "invoquées"]
+    },
+    {
+      "id": "persister",
+      "infinitif": "persister",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « persisté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["persiste", "persistes", "persiste", "persistons", "persistez", "persistent"],
+        "ind.imp": ["persistais", "persistais", "persistait", "persistions", "persistiez", "persistaient"],
+        "ind.ps": ["persistai", "persistas", "persista", "persistâmes", "persistâtes", "persistèrent"],
+        "ind.fut": ["persisterai", "persisteras", "persistera", "persisterons", "persisterez", "persisteront"],
+        "cond.pres": ["persisterais", "persisterais", "persisterait", "persisterions", "persisteriez", "persisteraient"],
+        "subj.pres": ["persiste", "persistes", "persiste", "persistions", "persistiez", "persistent"],
+        "subj.imp": ["persistasse", "persistasses", "persistât", "persistassions", "persistassiez", "persistassent"],
+        "imper.pres": ["persiste", "persistons", "persistez"]
+      },
+      "participe_present": "persistant",
+      "participe_passe": ["persisté", null, null, null]
     }
   ]
 }
