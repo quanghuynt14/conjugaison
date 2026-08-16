@@ -18923,6 +18923,24 @@
       },
       "participe_present": "évoluant",
       "participe_passe": ["évolué", "évoluée", "évolués", "évoluées"]
+    },
+    {
+      "id": "émerveiller",
+      "infinitif": "émerveiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["émerveille", "émerveilles", "émerveille", "émerveillons", "émerveillez", "émerveillent"],
+        "ind.imp": ["émerveillais", "émerveillais", "émerveillait", "émerveillions", "émerveilliez", "émerveillaient"],
+        "ind.ps": ["émerveillai", "émerveillas", "émerveilla", "émerveillâmes", "émerveillâtes", "émerveillèrent"],
+        "ind.fut": ["émerveillerai", "émerveilleras", "émerveillera", "émerveillerons", "émerveillerez", "émerveilleront"],
+        "cond.pres": ["émerveillerais", "émerveillerais", "émerveillerait", "émerveillerions", "émerveilleriez", "émerveilleraient"],
+        "subj.pres": ["émerveille", "émerveilles", "émerveille", "émerveillions", "émerveilliez", "émerveillent"],
+        "subj.imp": ["émerveillasse", "émerveillasses", "émerveillât", "émerveillassions", "émerveillassiez", "émerveillassent"],
+        "imper.pres": ["émerveille", "émerveillons", "émerveillez"]
+      },
+      "participe_present": "émerveillant",
+      "participe_passe": ["émerveillé", "émerveillée", "émerveillés", "émerveillées"]
     }
   ]
 }
