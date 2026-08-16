@@ -20199,6 +20199,25 @@
       },
       "participe_present": "escaladant",
       "participe_passe": ["escaladé", "escaladée", "escaladés", "escaladées"]
+    },
+    {
+      "id": "naviguer",
+      "infinitif": "naviguer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « navigué » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["navigue", "navigues", "navigue", "naviguons", "naviguez", "naviguent"],
+        "ind.imp": ["naviguais", "naviguais", "naviguait", "naviguions", "naviguiez", "naviguaient"],
+        "ind.ps": ["naviguai", "naviguas", "navigua", "naviguâmes", "naviguâtes", "naviguèrent"],
+        "ind.fut": ["naviguerai", "navigueras", "naviguera", "naviguerons", "naviguerez", "navigueront"],
+        "cond.pres": ["naviguerais", "naviguerais", "naviguerait", "naviguerions", "navigueriez", "navigueraient"],
+        "subj.pres": ["navigue", "navigues", "navigue", "naviguions", "naviguiez", "naviguent"],
+        "subj.imp": ["naviguasse", "naviguasses", "naviguât", "naviguassions", "naviguassiez", "naviguassent"],
+        "imper.pres": ["navigue", "naviguons", "naviguez"]
+      },
+      "participe_present": "naviguant",
+      "participe_passe": ["navigué", null, null, null]
     }
   ]
 }
