@@ -15078,6 +15078,24 @@
       },
       "participe_present": "abusant",
       "participe_passe": ["abusé", "abusée", "abusés", "abusées"]
+    },
+    {
+      "id": "orner",
+      "infinitif": "orner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["orne", "ornes", "orne", "ornons", "ornez", "ornent"],
+        "ind.imp": ["ornais", "ornais", "ornait", "ornions", "orniez", "ornaient"],
+        "ind.ps": ["ornai", "ornas", "orna", "ornâmes", "ornâtes", "ornèrent"],
+        "ind.fut": ["ornerai", "orneras", "ornera", "ornerons", "ornerez", "orneront"],
+        "cond.pres": ["ornerais", "ornerais", "ornerait", "ornerions", "orneriez", "orneraient"],
+        "subj.pres": ["orne", "ornes", "orne", "ornions", "orniez", "ornent"],
+        "subj.imp": ["ornasse", "ornasses", "ornât", "ornassions", "ornassiez", "ornassent"],
+        "imper.pres": ["orne", "ornons", "ornez"]
+      },
+      "participe_present": "ornant",
+      "participe_passe": ["orné", "ornée", "ornés", "ornées"]
     }
   ]
 }
