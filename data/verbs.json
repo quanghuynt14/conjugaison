@@ -5790,6 +5790,24 @@
       },
       "participe_present": "tapant",
       "participe_passe": ["tapé", "tapée", "tapés", "tapées"]
+    },
+    {
+      "id": "gêner",
+      "infinitif": "gêner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gêne", "gênes", "gêne", "gênons", "gênez", "gênent"],
+        "ind.imp": ["gênais", "gênais", "gênait", "gênions", "gêniez", "gênaient"],
+        "ind.ps": ["gênai", "gênas", "gêna", "gênâmes", "gênâtes", "gênèrent"],
+        "ind.fut": ["gênerai", "gêneras", "gênera", "gênerons", "gênerez", "gêneront"],
+        "cond.pres": ["gênerais", "gênerais", "gênerait", "gênerions", "gêneriez", "gêneraient"],
+        "subj.pres": ["gêne", "gênes", "gêne", "gênions", "gêniez", "gênent"],
+        "subj.imp": ["gênasse", "gênasses", "gênât", "gênassions", "gênassiez", "gênassent"],
+        "imper.pres": ["gêne", "gênons", "gênez"]
+      },
+      "participe_present": "gênant",
+      "participe_passe": ["gêné", "gênée", "gênés", "gênées"]
     }
   ]
 }
