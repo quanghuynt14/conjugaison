@@ -35388,6 +35388,24 @@
       },
       "participe_present": "pelant",
       "participe_passe": ["pelé", "pelée", "pelés", "pelées"]
+    },
+    {
+      "id": "réquisitionner",
+      "infinitif": "réquisitionner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["réquisitionne", "réquisitionnes", "réquisitionne", "réquisitionnons", "réquisitionnez", "réquisitionnent"],
+        "ind.imp": ["réquisitionnais", "réquisitionnais", "réquisitionnait", "réquisitionnions", "réquisitionniez", "réquisitionnaient"],
+        "ind.ps": ["réquisitionnai", "réquisitionnas", "réquisitionna", "réquisitionnâmes", "réquisitionnâtes", "réquisitionnèrent"],
+        "ind.fut": ["réquisitionnerai", "réquisitionneras", "réquisitionnera", "réquisitionnerons", "réquisitionnerez", "réquisitionneront"],
+        "cond.pres": ["réquisitionnerais", "réquisitionnerais", "réquisitionnerait", "réquisitionnerions", "réquisitionneriez", "réquisitionneraient"],
+        "subj.pres": ["réquisitionne", "réquisitionnes", "réquisitionne", "réquisitionnions", "réquisitionniez", "réquisitionnent"],
+        "subj.imp": ["réquisitionnasse", "réquisitionnasses", "réquisitionnât", "réquisitionnassions", "réquisitionnassiez", "réquisitionnassent"],
+        "imper.pres": ["réquisitionne", "réquisitionnons", "réquisitionnez"]
+      },
+      "participe_present": "réquisitionnant",
+      "participe_passe": ["réquisitionné", "réquisitionnée", "réquisitionnés", "réquisitionnées"]
     }
   ]
 }
