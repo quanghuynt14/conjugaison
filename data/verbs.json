@@ -10466,6 +10466,24 @@
       },
       "participe_present": "regagnant",
       "participe_passe": ["regagné", "regagnée", "regagnés", "regagnées"]
+    },
+    {
+      "id": "embarquer",
+      "infinitif": "embarquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["embarque", "embarques", "embarque", "embarquons", "embarquez", "embarquent"],
+        "ind.imp": ["embarquais", "embarquais", "embarquait", "embarquions", "embarquiez", "embarquaient"],
+        "ind.ps": ["embarquai", "embarquas", "embarqua", "embarquâmes", "embarquâtes", "embarquèrent"],
+        "ind.fut": ["embarquerai", "embarqueras", "embarquera", "embarquerons", "embarquerez", "embarqueront"],
+        "cond.pres": ["embarquerais", "embarquerais", "embarquerait", "embarquerions", "embarqueriez", "embarqueraient"],
+        "subj.pres": ["embarque", "embarques", "embarque", "embarquions", "embarquiez", "embarquent"],
+        "subj.imp": ["embarquasse", "embarquasses", "embarquât", "embarquassions", "embarquassiez", "embarquassent"],
+        "imper.pres": ["embarque", "embarquons", "embarquez"]
+      },
+      "participe_present": "embarquant",
+      "participe_passe": ["embarqué", "embarquée", "embarqués", "embarquées"]
     }
   ]
 }
