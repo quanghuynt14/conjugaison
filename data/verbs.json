@@ -4848,6 +4848,24 @@
       },
       "participe_present": "partageant",
       "participe_passe": ["partagé", "partagée", "partagés", "partagées"]
+    },
+    {
+      "id": "avouer",
+      "infinitif": "avouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["avoue", "avoues", "avoue", "avouons", "avouez", "avouent"],
+        "ind.imp": ["avouais", "avouais", "avouait", "avouions", "avouiez", "avouaient"],
+        "ind.ps": ["avouai", "avouas", "avoua", "avouâmes", "avouâtes", "avouèrent"],
+        "ind.fut": ["avouerai", "avoueras", "avouera", "avouerons", "avouerez", "avoueront"],
+        "cond.pres": ["avouerais", "avouerais", "avouerait", "avouerions", "avoueriez", "avoueraient"],
+        "subj.pres": ["avoue", "avoues", "avoue", "avouions", "avouiez", "avouent"],
+        "subj.imp": ["avouasse", "avouasses", "avouât", "avouassions", "avouassiez", "avouassent"],
+        "imper.pres": ["avoue", "avouons", "avouez"]
+      },
+      "participe_present": "avouant",
+      "participe_passe": ["avoué", "avouée", "avoués", "avouées"]
     }
   ]
 }
