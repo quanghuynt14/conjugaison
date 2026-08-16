@@ -10394,6 +10394,24 @@
       },
       "participe_present": "séchant",
       "participe_passe": ["séché", "séchée", "séchés", "séchées"]
+    },
+    {
+      "id": "entretenir",
+      "infinitif": "entretenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["entretiens", "entretiens", "entretient", "entretenons", "entretenez", "entretiennent"],
+        "ind.imp": ["entretenais", "entretenais", "entretenait", "entretenions", "entreteniez", "entretenaient"],
+        "ind.ps": ["entretins", "entretins", "entretint", "entretînmes", "entretîntes", "entretinrent"],
+        "ind.fut": ["entretiendrai", "entretiendras", "entretiendra", "entretiendrons", "entretiendrez", "entretiendront"],
+        "cond.pres": ["entretiendrais", "entretiendrais", "entretiendrait", "entretiendrions", "entretiendriez", "entretiendraient"],
+        "subj.pres": ["entretienne", "entretiennes", "entretienne", "entretenions", "entreteniez", "entretiennent"],
+        "subj.imp": ["entretinsse", "entretinsses", "entretînt", "entretinssions", "entretinssiez", "entretinssent"],
+        "imper.pres": ["entretiens", "entretenons", "entretenez"]
+      },
+      "participe_present": "entretenant",
+      "participe_passe": ["entretenu", "entretenue", "entretenus", "entretenues"]
     }
   ]
 }
