@@ -928,6 +928,25 @@
       },
       "participe_present": "tombant",
       "participe_passe": ["tombé", "tombée", "tombés", "tombées"]
+    },
+    {
+      "id": "entrer",
+      "infinitif": "entrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis entré ». Avec un complément d'objet direct, avoir : « j'ai entré les données ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["entre", "entres", "entre", "entrons", "entrez", "entrent"],
+        "ind.imp": ["entrais", "entrais", "entrait", "entrions", "entriez", "entraient"],
+        "ind.ps": ["entrai", "entras", "entra", "entrâmes", "entrâtes", "entrèrent"],
+        "ind.fut": ["entrerai", "entreras", "entrera", "entrerons", "entrerez", "entreront"],
+        "cond.pres": ["entrerais", "entrerais", "entrerait", "entrerions", "entreriez", "entreraient"],
+        "subj.pres": ["entre", "entres", "entre", "entrions", "entriez", "entrent"],
+        "subj.imp": ["entrasse", "entrasses", "entrât", "entrassions", "entrassiez", "entrassent"],
+        "imper.pres": ["entre", "entrons", "entrez"]
+      },
+      "participe_present": "entrant",
+      "participe_passe": ["entré", "entrée", "entrés", "entrées"]
     }
   ]
 }
