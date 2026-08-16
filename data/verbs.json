@@ -18096,6 +18096,24 @@
       },
       "participe_present": "dissipant",
       "participe_passe": ["dissipé", "dissipée", "dissipés", "dissipées"]
+    },
+    {
+      "id": "contrarier",
+      "infinitif": "contrarier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contrarie", "contraries", "contrarie", "contrarions", "contrariez", "contrarient"],
+        "ind.imp": ["contrariais", "contrariais", "contrariait", "contrariions", "contrariiez", "contrariaient"],
+        "ind.ps": ["contrariai", "contrarias", "contraria", "contrariâmes", "contrariâtes", "contrarièrent"],
+        "ind.fut": ["contrarierai", "contrarieras", "contrariera", "contrarierons", "contrarierez", "contrarieront"],
+        "cond.pres": ["contrarierais", "contrarierais", "contrarierait", "contrarierions", "contrarieriez", "contrarieraient"],
+        "subj.pres": ["contrarie", "contraries", "contrarie", "contrariions", "contrariiez", "contrarient"],
+        "subj.imp": ["contrariasse", "contrariasses", "contrariât", "contrariassions", "contrariassiez", "contrariassent"],
+        "imper.pres": ["contrarie", "contrarions", "contrariez"]
+      },
+      "participe_present": "contrariant",
+      "participe_passe": ["contrarié", "contrariée", "contrariés", "contrariées"]
     }
   ]
 }
