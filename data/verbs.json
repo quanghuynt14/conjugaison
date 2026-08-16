@@ -31421,6 +31421,24 @@
       },
       "participe_present": "retranchant",
       "participe_passe": ["retranché", "retranchée", "retranchés", "retranchées"]
+    },
+    {
+      "id": "enfreindre",
+      "infinitif": "enfreindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enfreins", "enfreins", "enfreint", "enfreignons", "enfreignez", "enfreignent"],
+        "ind.imp": ["enfreignais", "enfreignais", "enfreignait", "enfreignions", "enfreigniez", "enfreignaient"],
+        "ind.ps": ["enfreignis", "enfreignis", "enfreignit", "enfreignîmes", "enfreignîtes", "enfreignirent"],
+        "ind.fut": ["enfreindrai", "enfreindras", "enfreindra", "enfreindrons", "enfreindrez", "enfreindront"],
+        "cond.pres": ["enfreindrais", "enfreindrais", "enfreindrait", "enfreindrions", "enfreindriez", "enfreindraient"],
+        "subj.pres": ["enfreigne", "enfreignes", "enfreigne", "enfreignions", "enfreigniez", "enfreignent"],
+        "subj.imp": ["enfreignisse", "enfreignisses", "enfreignît", "enfreignissions", "enfreignissiez", "enfreignissent"],
+        "imper.pres": ["enfreins", "enfreignons", "enfreignez"]
+      },
+      "participe_present": "enfreignant",
+      "participe_passe": ["enfreint", "enfreinte", "enfreints", "enfreintes"]
     }
   ]
 }
