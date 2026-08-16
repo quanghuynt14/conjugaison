@@ -31493,6 +31493,25 @@
       },
       "participe_present": "griffonnant",
       "participe_passe": ["griffonné", "griffonnée", "griffonnés", "griffonnées"]
+    },
+    {
+      "id": "énumérer",
+      "infinitif": "énumérer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’énumérerai » ou « j’énumèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["énumère", "énumères", "énumère", "énumérons", "énumérez", "énumèrent"],
+        "ind.imp": ["énumérais", "énumérais", "énumérait", "énumérions", "énumériez", "énuméraient"],
+        "ind.ps": ["énumérai", "énuméras", "énuméra", "énumérâmes", "énumérâtes", "énumérèrent"],
+        "ind.fut": [["énumérerai", "énumèrerai"], ["énuméreras", "énumèreras"], ["énumérera", "énumèrera"], ["énumérerons", "énumèrerons"], ["énumérerez", "énumèrerez"], ["énuméreront", "énumèreront"]],
+        "cond.pres": [["énumérerais", "énumèrerais"], ["énumérerais", "énumèrerais"], ["énumérerait", "énumèrerait"], ["énumérerions", "énumèrerions"], ["énuméreriez", "énumèreriez"], ["énuméreraient", "énumèreraient"]],
+        "subj.pres": ["énumère", "énumères", "énumère", "énumérions", "énumériez", "énumèrent"],
+        "subj.imp": ["énumérasse", "énumérasses", "énumérât", "énumérassions", "énumérassiez", "énumérassent"],
+        "imper.pres": ["énumère", "énumérons", "énumérez"]
+      },
+      "participe_present": "énumérant",
+      "participe_passe": ["énuméré", "énumérée", "énumérés", "énumérées"]
     }
   ]
 }
