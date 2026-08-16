@@ -3184,6 +3184,24 @@
       },
       "participe_present": "osant",
       "participe_passe": ["osé", "osée", "osés", "osées"]
+    },
+    {
+      "id": "tendre",
+      "infinitif": "tendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tends", "tends", "tend", "tendons", "tendez", "tendent"],
+        "ind.imp": ["tendais", "tendais", "tendait", "tendions", "tendiez", "tendaient"],
+        "ind.ps": ["tendis", "tendis", "tendit", "tendîmes", "tendîtes", "tendirent"],
+        "ind.fut": ["tendrai", "tendras", "tendra", "tendrons", "tendrez", "tendront"],
+        "cond.pres": ["tendrais", "tendrais", "tendrait", "tendrions", "tendriez", "tendraient"],
+        "subj.pres": ["tende", "tendes", "tende", "tendions", "tendiez", "tendent"],
+        "subj.imp": ["tendisse", "tendisses", "tendît", "tendissions", "tendissiez", "tendissent"],
+        "imper.pres": ["tends", "tendons", "tendez"]
+      },
+      "participe_present": "tendant",
+      "participe_passe": ["tendu", "tendue", "tendus", "tendues"]
     }
   ]
 }
