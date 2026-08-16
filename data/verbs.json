@@ -12519,6 +12519,24 @@
       },
       "participe_present": "annulant",
       "participe_passe": ["annulé", "annulée", "annulés", "annulées"]
+    },
+    {
+      "id": "destiner",
+      "infinitif": "destiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["destine", "destines", "destine", "destinons", "destinez", "destinent"],
+        "ind.imp": ["destinais", "destinais", "destinait", "destinions", "destiniez", "destinaient"],
+        "ind.ps": ["destinai", "destinas", "destina", "destinâmes", "destinâtes", "destinèrent"],
+        "ind.fut": ["destinerai", "destineras", "destinera", "destinerons", "destinerez", "destineront"],
+        "cond.pres": ["destinerais", "destinerais", "destinerait", "destinerions", "destineriez", "destineraient"],
+        "subj.pres": ["destine", "destines", "destine", "destinions", "destiniez", "destinent"],
+        "subj.imp": ["destinasse", "destinasses", "destinât", "destinassions", "destinassiez", "destinassent"],
+        "imper.pres": ["destine", "destinons", "destinez"]
+      },
+      "participe_present": "destinant",
+      "participe_passe": ["destiné", "destinée", "destinés", "destinées"]
     }
   ]
 }
