@@ -5390,6 +5390,24 @@
       },
       "participe_present": "prouvant",
       "participe_passe": ["prouvé", "prouvée", "prouvés", "prouvées"]
+    },
+    {
+      "id": "forcer",
+      "infinitif": "forcer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["force", "forces", "force", "forçons", "forcez", "forcent"],
+        "ind.imp": ["forçais", "forçais", "forçait", "forcions", "forciez", "forçaient"],
+        "ind.ps": ["forçai", "forças", "força", "forçâmes", "forçâtes", "forcèrent"],
+        "ind.fut": ["forcerai", "forceras", "forcera", "forcerons", "forcerez", "forceront"],
+        "cond.pres": ["forcerais", "forcerais", "forcerait", "forcerions", "forceriez", "forceraient"],
+        "subj.pres": ["force", "forces", "force", "forcions", "forciez", "forcent"],
+        "subj.imp": ["forçasse", "forçasses", "forçât", "forçassions", "forçassiez", "forçassent"],
+        "imper.pres": ["force", "forçons", "forcez"]
+      },
+      "participe_present": "forçant",
+      "participe_passe": ["forcé", "forcée", "forcés", "forcées"]
     }
   ]
 }
