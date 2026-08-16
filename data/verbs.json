@@ -33102,6 +33102,24 @@
       },
       "participe_present": "flétrissant",
       "participe_passe": ["flétri", "flétrie", "flétris", "flétries"]
+    },
+    {
+      "id": "renfermer",
+      "infinitif": "renfermer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["renferme", "renfermes", "renferme", "renfermons", "renfermez", "renferment"],
+        "ind.imp": ["renfermais", "renfermais", "renfermait", "renfermions", "renfermiez", "renfermaient"],
+        "ind.ps": ["renfermai", "renfermas", "renferma", "renfermâmes", "renfermâtes", "renfermèrent"],
+        "ind.fut": ["renfermerai", "renfermeras", "renfermera", "renfermerons", "renfermerez", "renfermeront"],
+        "cond.pres": ["renfermerais", "renfermerais", "renfermerait", "renfermerions", "renfermeriez", "renfermeraient"],
+        "subj.pres": ["renferme", "renfermes", "renferme", "renfermions", "renfermiez", "renferment"],
+        "subj.imp": ["renfermasse", "renfermasses", "renfermât", "renfermassions", "renfermassiez", "renfermassent"],
+        "imper.pres": ["renferme", "renfermons", "renfermez"]
+      },
+      "participe_present": "renfermant",
+      "participe_passe": ["renfermé", "renfermée", "renfermés", "renfermées"]
     }
   ]
 }
