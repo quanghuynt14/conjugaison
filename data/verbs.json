@@ -5826,6 +5826,24 @@
       },
       "participe_present": "adressant",
       "participe_passe": ["adressé", "adressée", "adressés", "adressées"]
+    },
+    {
+      "id": "enfermer",
+      "infinitif": "enfermer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enferme", "enfermes", "enferme", "enfermons", "enfermez", "enferment"],
+        "ind.imp": ["enfermais", "enfermais", "enfermait", "enfermions", "enfermiez", "enfermaient"],
+        "ind.ps": ["enfermai", "enfermas", "enferma", "enfermâmes", "enfermâtes", "enfermèrent"],
+        "ind.fut": ["enfermerai", "enfermeras", "enfermera", "enfermerons", "enfermerez", "enfermeront"],
+        "cond.pres": ["enfermerais", "enfermerais", "enfermerait", "enfermerions", "enfermeriez", "enfermeraient"],
+        "subj.pres": ["enferme", "enfermes", "enferme", "enfermions", "enfermiez", "enferment"],
+        "subj.imp": ["enfermasse", "enfermasses", "enfermât", "enfermassions", "enfermassiez", "enfermassent"],
+        "imper.pres": ["enferme", "enfermons", "enfermez"]
+      },
+      "participe_present": "enfermant",
+      "participe_passe": ["enfermé", "enfermée", "enfermés", "enfermées"]
     }
   ]
 }
