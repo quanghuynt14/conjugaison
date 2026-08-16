@@ -7493,6 +7493,24 @@
       },
       "participe_present": "organisant",
       "participe_passe": ["organisé", "organisée", "organisés", "organisées"]
+    },
+    {
+      "id": "exiger",
+      "infinitif": "exiger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exige", "exiges", "exige", "exigeons", "exigez", "exigent"],
+        "ind.imp": ["exigeais", "exigeais", "exigeait", "exigions", "exigiez", "exigeaient"],
+        "ind.ps": ["exigeai", "exigeas", "exigea", "exigeâmes", "exigeâtes", "exigèrent"],
+        "ind.fut": ["exigerai", "exigeras", "exigera", "exigerons", "exigerez", "exigeront"],
+        "cond.pres": ["exigerais", "exigerais", "exigerait", "exigerions", "exigeriez", "exigeraient"],
+        "subj.pres": ["exige", "exiges", "exige", "exigions", "exigiez", "exigent"],
+        "subj.imp": ["exigeasse", "exigeasses", "exigeât", "exigeassions", "exigeassiez", "exigeassent"],
+        "imper.pres": ["exige", "exigeons", "exigez"]
+      },
+      "participe_present": "exigeant",
+      "participe_passe": ["exigé", "exigée", "exigés", "exigées"]
     }
   ]
 }
