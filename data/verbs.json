@@ -13100,6 +13100,24 @@
       },
       "participe_present": "défilant",
       "participe_passe": ["défilé", "défilée", "défilés", "défilées"]
+    },
+    {
+      "id": "bâtir",
+      "infinitif": "bâtir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bâtis", "bâtis", "bâtit", "bâtissons", "bâtissez", "bâtissent"],
+        "ind.imp": ["bâtissais", "bâtissais", "bâtissait", "bâtissions", "bâtissiez", "bâtissaient"],
+        "ind.ps": ["bâtis", "bâtis", "bâtit", "bâtîmes", "bâtîtes", "bâtirent"],
+        "ind.fut": ["bâtirai", "bâtiras", "bâtira", "bâtirons", "bâtirez", "bâtiront"],
+        "cond.pres": ["bâtirais", "bâtirais", "bâtirait", "bâtirions", "bâtiriez", "bâtiraient"],
+        "subj.pres": ["bâtisse", "bâtisses", "bâtisse", "bâtissions", "bâtissiez", "bâtissent"],
+        "subj.imp": ["bâtisse", "bâtisses", "bâtît", "bâtissions", "bâtissiez", "bâtissent"],
+        "imper.pres": ["bâtis", "bâtissons", "bâtissez"]
+      },
+      "participe_present": "bâtissant",
+      "participe_passe": ["bâti", "bâtie", "bâtis", "bâties"]
     }
   ]
 }
