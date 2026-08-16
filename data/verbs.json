@@ -3292,6 +3292,24 @@
       },
       "participe_present": "adorant",
       "participe_passe": ["adoré", "adorée", "adorés", "adorées"]
+    },
+    {
+      "id": "mener",
+      "infinitif": "mener",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["mène", "mènes", "mène", "menons", "menez", "mènent"],
+        "ind.imp": ["menais", "menais", "menait", "menions", "meniez", "menaient"],
+        "ind.ps": ["menai", "menas", "mena", "menâmes", "menâtes", "menèrent"],
+        "ind.fut": ["mènerai", "mèneras", "mènera", "mènerons", "mènerez", "mèneront"],
+        "cond.pres": ["mènerais", "mènerais", "mènerait", "mènerions", "mèneriez", "mèneraient"],
+        "subj.pres": ["mène", "mènes", "mène", "menions", "meniez", "mènent"],
+        "subj.imp": ["menasse", "menasses", "menât", "menassions", "menassiez", "menassent"],
+        "imper.pres": ["mène", "menons", "menez"]
+      },
+      "participe_present": "menant",
+      "participe_passe": ["mené", "menée", "menés", "menées"]
     }
   ]
 }
