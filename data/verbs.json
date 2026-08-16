@@ -2043,6 +2043,24 @@
       },
       "participe_present": "valant",
       "participe_passe": ["valu", "value", "valus", "values"]
+    },
+    {
+      "id": "courir",
+      "infinitif": "courir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cours", "cours", "court", "courons", "courez", "courent"],
+        "ind.imp": ["courais", "courais", "courait", "courions", "couriez", "couraient"],
+        "ind.ps": ["courus", "courus", "courut", "courûmes", "courûtes", "coururent"],
+        "ind.fut": ["courrai", "courras", "courra", "courrons", "courrez", "courront"],
+        "cond.pres": ["courrais", "courrais", "courrait", "courrions", "courriez", "courraient"],
+        "subj.pres": ["coure", "coures", "coure", "courions", "couriez", "courent"],
+        "subj.imp": ["courusse", "courusses", "courût", "courussions", "courussiez", "courussent"],
+        "imper.pres": ["cours", "courons", "courez"]
+      },
+      "participe_present": "courant",
+      "participe_passe": ["couru", "courue", "courus", "courues"]
     }
   ]
 }
