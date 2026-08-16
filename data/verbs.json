@@ -17150,6 +17150,24 @@
       },
       "participe_present": "engueulant",
       "participe_passe": ["engueulé", "engueulée", "engueulés", "engueulées"]
+    },
+    {
+      "id": "griller",
+      "infinitif": "griller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["grille", "grilles", "grille", "grillons", "grillez", "grillent"],
+        "ind.imp": ["grillais", "grillais", "grillait", "grillions", "grilliez", "grillaient"],
+        "ind.ps": ["grillai", "grillas", "grilla", "grillâmes", "grillâtes", "grillèrent"],
+        "ind.fut": ["grillerai", "grilleras", "grillera", "grillerons", "grillerez", "grilleront"],
+        "cond.pres": ["grillerais", "grillerais", "grillerait", "grillerions", "grilleriez", "grilleraient"],
+        "subj.pres": ["grille", "grilles", "grille", "grillions", "grilliez", "grillent"],
+        "subj.imp": ["grillasse", "grillasses", "grillât", "grillassions", "grillassiez", "grillassent"],
+        "imper.pres": ["grille", "grillons", "grillez"]
+      },
+      "participe_present": "grillant",
+      "participe_passe": ["grillé", "grillée", "grillés", "grillées"]
     }
   ]
 }
