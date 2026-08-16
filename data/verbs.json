@@ -10920,6 +10920,24 @@
       },
       "participe_present": "consacrant",
       "participe_passe": ["consacré", "consacrée", "consacrés", "consacrées"]
+    },
+    {
+      "id": "persuader",
+      "infinitif": "persuader",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["persuade", "persuades", "persuade", "persuadons", "persuadez", "persuadent"],
+        "ind.imp": ["persuadais", "persuadais", "persuadait", "persuadions", "persuadiez", "persuadaient"],
+        "ind.ps": ["persuadai", "persuadas", "persuada", "persuadâmes", "persuadâtes", "persuadèrent"],
+        "ind.fut": ["persuaderai", "persuaderas", "persuadera", "persuaderons", "persuaderez", "persuaderont"],
+        "cond.pres": ["persuaderais", "persuaderais", "persuaderait", "persuaderions", "persuaderiez", "persuaderaient"],
+        "subj.pres": ["persuade", "persuades", "persuade", "persuadions", "persuadiez", "persuadent"],
+        "subj.imp": ["persuadasse", "persuadasses", "persuadât", "persuadassions", "persuadassiez", "persuadassent"],
+        "imper.pres": ["persuade", "persuadons", "persuadez"]
+      },
+      "participe_present": "persuadant",
+      "participe_passe": ["persuadé", "persuadée", "persuadés", "persuadées"]
     }
   ]
 }
