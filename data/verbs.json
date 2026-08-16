@@ -32903,6 +32903,24 @@
       },
       "participe_present": "inaugurant",
       "participe_passe": ["inauguré", "inaugurée", "inaugurés", "inaugurées"]
+    },
+    {
+      "id": "cambrioler",
+      "infinitif": "cambrioler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cambriole", "cambrioles", "cambriole", "cambriolons", "cambriolez", "cambriolent"],
+        "ind.imp": ["cambriolais", "cambriolais", "cambriolait", "cambriolions", "cambrioliez", "cambriolaient"],
+        "ind.ps": ["cambriolai", "cambriolas", "cambriola", "cambriolâmes", "cambriolâtes", "cambriolèrent"],
+        "ind.fut": ["cambriolerai", "cambrioleras", "cambriolera", "cambriolerons", "cambriolerez", "cambrioleront"],
+        "cond.pres": ["cambriolerais", "cambriolerais", "cambriolerait", "cambriolerions", "cambrioleriez", "cambrioleraient"],
+        "subj.pres": ["cambriole", "cambrioles", "cambriole", "cambriolions", "cambrioliez", "cambriolent"],
+        "subj.imp": ["cambriolasse", "cambriolasses", "cambriolât", "cambriolassions", "cambriolassiez", "cambriolassent"],
+        "imper.pres": ["cambriole", "cambriolons", "cambriolez"]
+      },
+      "participe_present": "cambriolant",
+      "participe_passe": ["cambriolé", "cambriolée", "cambriolés", "cambriolées"]
     }
   ]
 }
