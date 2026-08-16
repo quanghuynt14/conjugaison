@@ -19524,6 +19524,24 @@
       },
       "participe_present": "pressentant",
       "participe_passe": ["pressenti", "pressentie", "pressentis", "pressenties"]
+    },
+    {
+      "id": "bouillir",
+      "infinitif": "bouillir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bous", "bous", "bout", "bouillons", "bouillez", "bouillent"],
+        "ind.imp": ["bouillais", "bouillais", "bouillait", "bouillions", "bouilliez", "bouillaient"],
+        "ind.ps": ["bouillis", "bouillis", "bouillit", "bouillîmes", "bouillîtes", "bouillirent"],
+        "ind.fut": ["bouillirai", "bouilliras", "bouillira", "bouillirons", "bouillirez", "bouilliront"],
+        "cond.pres": ["bouillirais", "bouillirais", "bouillirait", "bouillirions", "bouilliriez", "bouilliraient"],
+        "subj.pres": ["bouille", "bouilles", "bouille", "bouillions", "bouilliez", "bouillent"],
+        "subj.imp": ["bouillisse", "bouillisses", "bouillît", "bouillissions", "bouillissiez", "bouillissent"],
+        "imper.pres": ["bous", "bouillons", "bouillez"]
+      },
+      "participe_present": "bouillant",
+      "participe_passe": ["bouilli", "bouillie", "bouillis", "bouillies"]
     }
   ]
 }
