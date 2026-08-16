@@ -13371,6 +13371,26 @@
       },
       "participe_present": "affectant",
       "participe_passe": ["affecté", "affectée", "affectés", "affectées"]
+    },
+    {
+      "id": "suicider",
+      "infinitif": "suicider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me suicide » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["suicide", "suicides", "suicide", "suicidons", "suicidez", "suicident"],
+        "ind.imp": ["suicidais", "suicidais", "suicidait", "suicidions", "suicidiez", "suicidaient"],
+        "ind.ps": ["suicidai", "suicidas", "suicida", "suicidâmes", "suicidâtes", "suicidèrent"],
+        "ind.fut": ["suiciderai", "suicideras", "suicidera", "suiciderons", "suiciderez", "suicideront"],
+        "cond.pres": ["suiciderais", "suiciderais", "suiciderait", "suiciderions", "suicideriez", "suicideraient"],
+        "subj.pres": ["suicide", "suicides", "suicide", "suicidions", "suicidiez", "suicident"],
+        "subj.imp": ["suicidasse", "suicidasses", "suicidât", "suicidassions", "suicidassiez", "suicidassent"],
+        "imper.pres": ["suicide", "suicidons", "suicidez"]
+      },
+      "participe_present": "suicidant",
+      "participe_passe": ["suicidé", "suicidée", "suicidés", "suicidées"]
     }
   ]
 }
