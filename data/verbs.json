@@ -9756,6 +9756,24 @@
       },
       "participe_present": "privant",
       "participe_passe": ["privé", "privée", "privés", "privées"]
+    },
+    {
+      "id": "dominer",
+      "infinitif": "dominer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["domine", "domines", "domine", "dominons", "dominez", "dominent"],
+        "ind.imp": ["dominais", "dominais", "dominait", "dominions", "dominiez", "dominaient"],
+        "ind.ps": ["dominai", "dominas", "domina", "dominâmes", "dominâtes", "dominèrent"],
+        "ind.fut": ["dominerai", "domineras", "dominera", "dominerons", "dominerez", "domineront"],
+        "cond.pres": ["dominerais", "dominerais", "dominerait", "dominerions", "domineriez", "domineraient"],
+        "subj.pres": ["domine", "domines", "domine", "dominions", "dominiez", "dominent"],
+        "subj.imp": ["dominasse", "dominasses", "dominât", "dominassions", "dominassiez", "dominassent"],
+        "imper.pres": ["domine", "dominons", "dominez"]
+      },
+      "participe_present": "dominant",
+      "participe_passe": ["dominé", "dominée", "dominés", "dominées"]
     }
   ]
 }
