@@ -17950,6 +17950,24 @@
       },
       "participe_present": "mentionnant",
       "participe_passe": ["mentionné", "mentionnée", "mentionnés", "mentionnées"]
+    },
+    {
+      "id": "fusiller",
+      "infinitif": "fusiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fusille", "fusilles", "fusille", "fusillons", "fusillez", "fusillent"],
+        "ind.imp": ["fusillais", "fusillais", "fusillait", "fusillions", "fusilliez", "fusillaient"],
+        "ind.ps": ["fusillai", "fusillas", "fusilla", "fusillâmes", "fusillâtes", "fusillèrent"],
+        "ind.fut": ["fusillerai", "fusilleras", "fusillera", "fusillerons", "fusillerez", "fusilleront"],
+        "cond.pres": ["fusillerais", "fusillerais", "fusillerait", "fusillerions", "fusilleriez", "fusilleraient"],
+        "subj.pres": ["fusille", "fusilles", "fusille", "fusillions", "fusilliez", "fusillent"],
+        "subj.imp": ["fusillasse", "fusillasses", "fusillât", "fusillassions", "fusillassiez", "fusillassent"],
+        "imper.pres": ["fusille", "fusillons", "fusillez"]
+      },
+      "participe_present": "fusillant",
+      "participe_passe": ["fusillé", "fusillée", "fusillés", "fusillées"]
     }
   ]
 }
