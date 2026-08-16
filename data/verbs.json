@@ -1952,6 +1952,24 @@
       },
       "participe_present": "décidant",
       "participe_passe": ["décidé", "décidée", "décidés", "décidées"]
+    },
+    {
+      "id": "prier",
+      "infinitif": "prier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prie", "pries", "prie", "prions", "priez", "prient"],
+        "ind.imp": ["priais", "priais", "priait", "priions", "priiez", "priaient"],
+        "ind.ps": ["priai", "prias", "pria", "priâmes", "priâtes", "prièrent"],
+        "ind.fut": ["prierai", "prieras", "priera", "prierons", "prierez", "prieront"],
+        "cond.pres": ["prierais", "prierais", "prierait", "prierions", "prieriez", "prieraient"],
+        "subj.pres": ["prie", "pries", "prie", "priions", "priiez", "prient"],
+        "subj.imp": ["priasse", "priasses", "priât", "priassions", "priassiez", "priassent"],
+        "imper.pres": ["prie", "prions", "priez"]
+      },
+      "participe_present": "priant",
+      "participe_passe": ["prié", "priée", "priés", "priées"]
     }
   ]
 }
