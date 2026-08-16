@@ -747,6 +747,24 @@
       },
       "participe_present": "revenant",
       "participe_passe": ["revenu", "revenue", "revenus", "revenues"]
+    },
+    {
+      "id": "tuer",
+      "infinitif": "tuer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tue", "tues", "tue", "tuons", "tuez", "tuent"],
+        "ind.imp": ["tuais", "tuais", "tuait", "tuions", "tuiez", "tuaient"],
+        "ind.ps": ["tuai", "tuas", "tua", "tuâmes", "tuâtes", "tuèrent"],
+        "ind.fut": ["tuerai", "tueras", "tuera", "tuerons", "tuerez", "tueront"],
+        "cond.pres": ["tuerais", "tuerais", "tuerait", "tuerions", "tueriez", "tueraient"],
+        "subj.pres": ["tue", "tues", "tue", "tuions", "tuiez", "tuent"],
+        "subj.imp": ["tuasse", "tuasses", "tuât", "tuassions", "tuassiez", "tuassent"],
+        "imper.pres": ["tue", "tuons", "tuez"]
+      },
+      "participe_present": "tuant",
+      "participe_passe": ["tué", "tuée", "tués", "tuées"]
     }
   ]
 }
