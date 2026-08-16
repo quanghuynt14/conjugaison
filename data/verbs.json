@@ -34505,6 +34505,25 @@
       },
       "participe_present": "érigeant",
       "participe_passe": ["érigé", "érigée", "érigés", "érigées"]
+    },
+    {
+      "id": "capituler",
+      "infinitif": "capituler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « capitulé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["capitule", "capitules", "capitule", "capitulons", "capitulez", "capitulent"],
+        "ind.imp": ["capitulais", "capitulais", "capitulait", "capitulions", "capituliez", "capitulaient"],
+        "ind.ps": ["capitulai", "capitulas", "capitula", "capitulâmes", "capitulâtes", "capitulèrent"],
+        "ind.fut": ["capitulerai", "capituleras", "capitulera", "capitulerons", "capitulerez", "capituleront"],
+        "cond.pres": ["capitulerais", "capitulerais", "capitulerait", "capitulerions", "capituleriez", "capituleraient"],
+        "subj.pres": ["capitule", "capitules", "capitule", "capitulions", "capituliez", "capitulent"],
+        "subj.imp": ["capitulasse", "capitulasses", "capitulât", "capitulassions", "capitulassiez", "capitulassent"],
+        "imper.pres": ["capitule", "capitulons", "capitulez"]
+      },
+      "participe_present": "capitulant",
+      "participe_passe": ["capitulé", null, null, null]
     }
   ]
 }
