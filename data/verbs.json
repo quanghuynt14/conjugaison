@@ -34578,6 +34578,25 @@
       },
       "participe_present": "bombant",
       "participe_passe": ["bombé", "bombée", "bombés", "bombées"]
+    },
+    {
+      "id": "resplendir",
+      "infinitif": "resplendir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « resplendi » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["resplendis", "resplendis", "resplendit", "resplendissons", "resplendissez", "resplendissent"],
+        "ind.imp": ["resplendissais", "resplendissais", "resplendissait", "resplendissions", "resplendissiez", "resplendissaient"],
+        "ind.ps": ["resplendis", "resplendis", "resplendit", "resplendîmes", "resplendîtes", "resplendirent"],
+        "ind.fut": ["resplendirai", "resplendiras", "resplendira", "resplendirons", "resplendirez", "resplendiront"],
+        "cond.pres": ["resplendirais", "resplendirais", "resplendirait", "resplendirions", "resplendiriez", "resplendiraient"],
+        "subj.pres": ["resplendisse", "resplendisses", "resplendisse", "resplendissions", "resplendissiez", "resplendissent"],
+        "subj.imp": ["resplendisse", "resplendisses", "resplendît", "resplendissions", "resplendissiez", "resplendissent"],
+        "imper.pres": ["resplendis", "resplendissons", "resplendissez"]
+      },
+      "participe_present": "resplendissant",
+      "participe_passe": ["resplendi", null, null, null]
     }
   ]
 }
