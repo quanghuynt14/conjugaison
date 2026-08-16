@@ -19323,6 +19323,24 @@
       },
       "participe_present": "éclaircissant",
       "participe_passe": ["éclairci", "éclaircie", "éclaircis", "éclaircies"]
+    },
+    {
+      "id": "cligner",
+      "infinitif": "cligner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cligne", "clignes", "cligne", "clignons", "clignez", "clignent"],
+        "ind.imp": ["clignais", "clignais", "clignait", "clignions", "cligniez", "clignaient"],
+        "ind.ps": ["clignai", "clignas", "cligna", "clignâmes", "clignâtes", "clignèrent"],
+        "ind.fut": ["clignerai", "cligneras", "clignera", "clignerons", "clignerez", "cligneront"],
+        "cond.pres": ["clignerais", "clignerais", "clignerait", "clignerions", "cligneriez", "cligneraient"],
+        "subj.pres": ["cligne", "clignes", "cligne", "clignions", "cligniez", "clignent"],
+        "subj.imp": ["clignasse", "clignasses", "clignât", "clignassions", "clignassiez", "clignassent"],
+        "imper.pres": ["cligne", "clignons", "clignez"]
+      },
+      "participe_present": "clignant",
+      "participe_passe": ["cligné", "clignée", "clignés", "clignées"]
     }
   ]
 }
