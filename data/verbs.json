@@ -3980,6 +3980,24 @@
       },
       "participe_present": "traînant",
       "participe_passe": ["traîné", "traînée", "traînés", "traînées"]
+    },
+    {
+      "id": "détester",
+      "infinitif": "détester",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déteste", "détestes", "déteste", "détestons", "détestez", "détestent"],
+        "ind.imp": ["détestais", "détestais", "détestait", "détestions", "détestiez", "détestaient"],
+        "ind.ps": ["détestai", "détestas", "détesta", "détestâmes", "détestâtes", "détestèrent"],
+        "ind.fut": ["détesterai", "détesteras", "détestera", "détesterons", "détesterez", "détesteront"],
+        "cond.pres": ["détesterais", "détesterais", "détesterait", "détesterions", "détesteriez", "détesteraient"],
+        "subj.pres": ["déteste", "détestes", "déteste", "détestions", "détestiez", "détestent"],
+        "subj.imp": ["détestasse", "détestasses", "détestât", "détestassions", "détestassiez", "détestassent"],
+        "imper.pres": ["déteste", "détestons", "détestez"]
+      },
+      "participe_present": "détestant",
+      "participe_passe": ["détesté", "détestée", "détestés", "détestées"]
     }
   ]
 }
