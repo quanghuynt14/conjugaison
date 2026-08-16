@@ -34763,6 +34763,24 @@
       },
       "participe_present": "crucifiant",
       "participe_passe": ["crucifié", "crucifiée", "crucifiés", "crucifiées"]
+    },
+    {
+      "id": "tondre",
+      "infinitif": "tondre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tonds", "tonds", "tond", "tondons", "tondez", "tondent"],
+        "ind.imp": ["tondais", "tondais", "tondait", "tondions", "tondiez", "tondaient"],
+        "ind.ps": ["tondis", "tondis", "tondit", "tondîmes", "tondîtes", "tondirent"],
+        "ind.fut": ["tondrai", "tondras", "tondra", "tondrons", "tondrez", "tondront"],
+        "cond.pres": ["tondrais", "tondrais", "tondrait", "tondrions", "tondriez", "tondraient"],
+        "subj.pres": ["tonde", "tondes", "tonde", "tondions", "tondiez", "tondent"],
+        "subj.imp": ["tondisse", "tondisses", "tondît", "tondissions", "tondissiez", "tondissent"],
+        "imper.pres": ["tonds", "tondons", "tondez"]
+      },
+      "participe_present": "tondant",
+      "participe_passe": ["tondu", "tondue", "tondus", "tondues"]
     }
   ]
 }
