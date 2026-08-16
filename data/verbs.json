@@ -1021,6 +1021,24 @@
       },
       "participe_present": "tirant",
       "participe_passe": ["tiré", "tirée", "tirés", "tirées"]
+    },
+    {
+      "id": "porter",
+      "infinitif": "porter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["porte", "portes", "porte", "portons", "portez", "portent"],
+        "ind.imp": ["portais", "portais", "portait", "portions", "portiez", "portaient"],
+        "ind.ps": ["portai", "portas", "porta", "portâmes", "portâtes", "portèrent"],
+        "ind.fut": ["porterai", "porteras", "portera", "porterons", "porterez", "porteront"],
+        "cond.pres": ["porterais", "porterais", "porterait", "porterions", "porteriez", "porteraient"],
+        "subj.pres": ["porte", "portes", "porte", "portions", "portiez", "portent"],
+        "subj.imp": ["portasse", "portasses", "portât", "portassions", "portassiez", "portassent"],
+        "imper.pres": ["porte", "portons", "portez"]
+      },
+      "participe_present": "portant",
+      "participe_passe": ["porté", "portée", "portés", "portées"]
     }
   ]
 }
