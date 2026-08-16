@@ -368,6 +368,24 @@
       },
       "participe_present": "pensant",
       "participe_passe": ["pensé", "pensée", "pensés", "pensées"]
+    },
+    {
+      "id": "trouver",
+      "infinitif": "trouver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trouve", "trouves", "trouve", "trouvons", "trouvez", "trouvent"],
+        "ind.imp": ["trouvais", "trouvais", "trouvait", "trouvions", "trouviez", "trouvaient"],
+        "ind.ps": ["trouvai", "trouvas", "trouva", "trouvâmes", "trouvâtes", "trouvèrent"],
+        "ind.fut": ["trouverai", "trouveras", "trouvera", "trouverons", "trouverez", "trouveront"],
+        "cond.pres": ["trouverais", "trouverais", "trouverait", "trouverions", "trouveriez", "trouveraient"],
+        "subj.pres": ["trouve", "trouves", "trouve", "trouvions", "trouviez", "trouvent"],
+        "subj.imp": ["trouvasse", "trouvasses", "trouvât", "trouvassions", "trouvassiez", "trouvassent"],
+        "imper.pres": ["trouve", "trouvons", "trouvez"]
+      },
+      "participe_present": "trouvant",
+      "participe_passe": ["trouvé", "trouvée", "trouvés", "trouvées"]
     }
   ]
 }
