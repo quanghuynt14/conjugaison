@@ -15842,6 +15842,24 @@
       },
       "participe_present": "revivant",
       "participe_passe": ["revécu", "revécue", "revécus", "revécues"]
+    },
+    {
+      "id": "améliorer",
+      "infinitif": "améliorer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["améliore", "améliores", "améliore", "améliorons", "améliorez", "améliorent"],
+        "ind.imp": ["améliorais", "améliorais", "améliorait", "améliorions", "amélioriez", "amélioraient"],
+        "ind.ps": ["améliorai", "amélioras", "améliora", "améliorâmes", "améliorâtes", "améliorèrent"],
+        "ind.fut": ["améliorerai", "amélioreras", "améliorera", "améliorerons", "améliorerez", "amélioreront"],
+        "cond.pres": ["améliorerais", "améliorerais", "améliorerait", "améliorerions", "amélioreriez", "amélioreraient"],
+        "subj.pres": ["améliore", "améliores", "améliore", "améliorions", "amélioriez", "améliorent"],
+        "subj.imp": ["améliorasse", "améliorasses", "améliorât", "améliorassions", "améliorassiez", "améliorassent"],
+        "imper.pres": ["améliore", "améliorons", "améliorez"]
+      },
+      "participe_present": "améliorant",
+      "participe_passe": ["amélioré", "améliorée", "améliorés", "améliorées"]
     }
   ]
 }
