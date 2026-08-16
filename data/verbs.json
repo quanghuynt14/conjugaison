@@ -2714,6 +2714,24 @@
       },
       "participe_present": "empêchant",
       "participe_passe": ["empêché", "empêchée", "empêchés", "empêchées"]
+    },
+    {
+      "id": "chanter",
+      "infinitif": "chanter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chante", "chantes", "chante", "chantons", "chantez", "chantent"],
+        "ind.imp": ["chantais", "chantais", "chantait", "chantions", "chantiez", "chantaient"],
+        "ind.ps": ["chantai", "chantas", "chanta", "chantâmes", "chantâtes", "chantèrent"],
+        "ind.fut": ["chanterai", "chanteras", "chantera", "chanterons", "chanterez", "chanteront"],
+        "cond.pres": ["chanterais", "chanterais", "chanterait", "chanterions", "chanteriez", "chanteraient"],
+        "subj.pres": ["chante", "chantes", "chante", "chantions", "chantiez", "chantent"],
+        "subj.imp": ["chantasse", "chantasses", "chantât", "chantassions", "chantassiez", "chantassent"],
+        "imper.pres": ["chante", "chantons", "chantez"]
+      },
+      "participe_present": "chantant",
+      "participe_passe": ["chanté", "chantée", "chantés", "chantées"]
     }
   ]
 }
