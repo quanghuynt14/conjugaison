@@ -3474,6 +3474,24 @@
       },
       "participe_present": "dansant",
       "participe_passe": ["dansé", "dansée", "dansés", "dansées"]
+    },
+    {
+      "id": "échapper",
+      "infinitif": "échapper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["échappe", "échappes", "échappe", "échappons", "échappez", "échappent"],
+        "ind.imp": ["échappais", "échappais", "échappait", "échappions", "échappiez", "échappaient"],
+        "ind.ps": ["échappai", "échappas", "échappa", "échappâmes", "échappâtes", "échappèrent"],
+        "ind.fut": ["échapperai", "échapperas", "échappera", "échapperons", "échapperez", "échapperont"],
+        "cond.pres": ["échapperais", "échapperais", "échapperait", "échapperions", "échapperiez", "échapperaient"],
+        "subj.pres": ["échappe", "échappes", "échappe", "échappions", "échappiez", "échappent"],
+        "subj.imp": ["échappasse", "échappasses", "échappât", "échappassions", "échappassiez", "échappassent"],
+        "imper.pres": ["échappe", "échappons", "échappez"]
+      },
+      "participe_present": "échappant",
+      "participe_passe": ["échappé", "échappée", "échappés", "échappées"]
     }
   ]
 }
