@@ -26027,6 +26027,24 @@
       },
       "participe_present": "émanant",
       "participe_passe": ["émané", null, null, null]
+    },
+    {
+      "id": "déferler",
+      "infinitif": "déferler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déferle", "déferles", "déferle", "déferlons", "déferlez", "déferlent"],
+        "ind.imp": ["déferlais", "déferlais", "déferlait", "déferlions", "déferliez", "déferlaient"],
+        "ind.ps": ["déferlai", "déferlas", "déferla", "déferlâmes", "déferlâtes", "déferlèrent"],
+        "ind.fut": ["déferlerai", "déferleras", "déferlera", "déferlerons", "déferlerez", "déferleront"],
+        "cond.pres": ["déferlerais", "déferlerais", "déferlerait", "déferlerions", "déferleriez", "déferleraient"],
+        "subj.pres": ["déferle", "déferles", "déferle", "déferlions", "déferliez", "déferlent"],
+        "subj.imp": ["déferlasse", "déferlasses", "déferlât", "déferlassions", "déferlassiez", "déferlassent"],
+        "imper.pres": ["déferle", "déferlons", "déferlez"]
+      },
+      "participe_present": "déferlant",
+      "participe_passe": ["déferlé", "déferlée", "déferlés", "déferlées"]
     }
   ]
 }
