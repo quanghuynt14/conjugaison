@@ -33739,6 +33739,24 @@
       },
       "participe_present": "terrassant",
       "participe_passe": ["terrassé", "terrassée", "terrassés", "terrassées"]
+    },
+    {
+      "id": "duper",
+      "infinitif": "duper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dupe", "dupes", "dupe", "dupons", "dupez", "dupent"],
+        "ind.imp": ["dupais", "dupais", "dupait", "dupions", "dupiez", "dupaient"],
+        "ind.ps": ["dupai", "dupas", "dupa", "dupâmes", "dupâtes", "dupèrent"],
+        "ind.fut": ["duperai", "duperas", "dupera", "duperons", "duperez", "duperont"],
+        "cond.pres": ["duperais", "duperais", "duperait", "duperions", "duperiez", "duperaient"],
+        "subj.pres": ["dupe", "dupes", "dupe", "dupions", "dupiez", "dupent"],
+        "subj.imp": ["dupasse", "dupasses", "dupât", "dupassions", "dupassiez", "dupassent"],
+        "imper.pres": ["dupe", "dupons", "dupez"]
+      },
+      "participe_present": "dupant",
+      "participe_passe": ["dupé", "dupée", "dupés", "dupées"]
     }
   ]
 }
