@@ -10430,6 +10430,24 @@
       },
       "participe_present": "dissimulant",
       "participe_passe": ["dissimulé", "dissimulée", "dissimulés", "dissimulées"]
+    },
+    {
+      "id": "guetter",
+      "infinitif": "guetter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["guette", "guettes", "guette", "guettons", "guettez", "guettent"],
+        "ind.imp": ["guettais", "guettais", "guettait", "guettions", "guettiez", "guettaient"],
+        "ind.ps": ["guettai", "guettas", "guetta", "guettâmes", "guettâtes", "guettèrent"],
+        "ind.fut": ["guetterai", "guetteras", "guettera", "guetterons", "guetterez", "guetteront"],
+        "cond.pres": ["guetterais", "guetterais", "guetterait", "guetterions", "guetteriez", "guetteraient"],
+        "subj.pres": ["guette", "guettes", "guette", "guettions", "guettiez", "guettent"],
+        "subj.imp": ["guettasse", "guettasses", "guettât", "guettassions", "guettassiez", "guettassent"],
+        "imper.pres": ["guette", "guettons", "guettez"]
+      },
+      "participe_present": "guettant",
+      "participe_passe": ["guetté", "guettée", "guettés", "guettées"]
     }
   ]
 }
