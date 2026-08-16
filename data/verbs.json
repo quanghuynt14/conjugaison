@@ -25589,6 +25589,24 @@
       },
       "participe_present": "coopérant",
       "participe_passe": ["coopéré", null, null, null]
+    },
+    {
+      "id": "éclipser",
+      "infinitif": "éclipser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["éclipse", "éclipses", "éclipse", "éclipsons", "éclipsez", "éclipsent"],
+        "ind.imp": ["éclipsais", "éclipsais", "éclipsait", "éclipsions", "éclipsiez", "éclipsaient"],
+        "ind.ps": ["éclipsai", "éclipsas", "éclipsa", "éclipsâmes", "éclipsâtes", "éclipsèrent"],
+        "ind.fut": ["éclipserai", "éclipseras", "éclipsera", "éclipserons", "éclipserez", "éclipseront"],
+        "cond.pres": ["éclipserais", "éclipserais", "éclipserait", "éclipserions", "éclipseriez", "éclipseraient"],
+        "subj.pres": ["éclipse", "éclipses", "éclipse", "éclipsions", "éclipsiez", "éclipsent"],
+        "subj.imp": ["éclipsasse", "éclipsasses", "éclipsât", "éclipsassions", "éclipsassiez", "éclipsassent"],
+        "imper.pres": ["éclipse", "éclipsons", "éclipsez"]
+      },
+      "participe_present": "éclipsant",
+      "participe_passe": ["éclipsé", "éclipsée", "éclipsés", "éclipsées"]
     }
   ]
 }
