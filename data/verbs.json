@@ -18740,6 +18740,24 @@
       },
       "participe_present": "giflant",
       "participe_passe": ["giflé", "giflée", "giflés", "giflées"]
+    },
+    {
+      "id": "commenter",
+      "infinitif": "commenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["commente", "commentes", "commente", "commentons", "commentez", "commentent"],
+        "ind.imp": ["commentais", "commentais", "commentait", "commentions", "commentiez", "commentaient"],
+        "ind.ps": ["commentai", "commentas", "commenta", "commentâmes", "commentâtes", "commentèrent"],
+        "ind.fut": ["commenterai", "commenteras", "commentera", "commenterons", "commenterez", "commenteront"],
+        "cond.pres": ["commenterais", "commenterais", "commenterait", "commenterions", "commenteriez", "commenteraient"],
+        "subj.pres": ["commente", "commentes", "commente", "commentions", "commentiez", "commentent"],
+        "subj.imp": ["commentasse", "commentasses", "commentât", "commentassions", "commentassiez", "commentassent"],
+        "imper.pres": ["commente", "commentons", "commentez"]
+      },
+      "participe_present": "commentant",
+      "participe_passe": ["commenté", "commentée", "commentés", "commentées"]
     }
   ]
 }
