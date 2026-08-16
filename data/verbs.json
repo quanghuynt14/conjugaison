@@ -29363,6 +29363,24 @@
       },
       "participe_present": "soustrayant",
       "participe_passe": ["soustrait", "soustraite", "soustraits", "soustraites"]
+    },
+    {
+      "id": "tresser",
+      "infinitif": "tresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tresse", "tresses", "tresse", "tressons", "tressez", "tressent"],
+        "ind.imp": ["tressais", "tressais", "tressait", "tressions", "tressiez", "tressaient"],
+        "ind.ps": ["tressai", "tressas", "tressa", "tressâmes", "tressâtes", "tressèrent"],
+        "ind.fut": ["tresserai", "tresseras", "tressera", "tresserons", "tresserez", "tresseront"],
+        "cond.pres": ["tresserais", "tresserais", "tresserait", "tresserions", "tresseriez", "tresseraient"],
+        "subj.pres": ["tresse", "tresses", "tresse", "tressions", "tressiez", "tressent"],
+        "subj.imp": ["tressasse", "tressasses", "tressât", "tressassions", "tressassiez", "tressassent"],
+        "imper.pres": ["tresse", "tressons", "tressez"]
+      },
+      "participe_present": "tressant",
+      "participe_passe": ["tressé", "tressée", "tressés", "tressées"]
     }
   ]
 }
