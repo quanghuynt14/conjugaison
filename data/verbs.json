@@ -476,6 +476,24 @@
       },
       "participe_present": "attendant",
       "participe_passe": ["attendu", "attendue", "attendus", "attendues"]
+    },
+    {
+      "id": "arriver",
+      "infinitif": "arriver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["arrive", "arrives", "arrive", "arrivons", "arrivez", "arrivent"],
+        "ind.imp": ["arrivais", "arrivais", "arrivait", "arrivions", "arriviez", "arrivaient"],
+        "ind.ps": ["arrivai", "arrivas", "arriva", "arrivâmes", "arrivâtes", "arrivèrent"],
+        "ind.fut": ["arriverai", "arriveras", "arrivera", "arriverons", "arriverez", "arriveront"],
+        "cond.pres": ["arriverais", "arriverais", "arriverait", "arriverions", "arriveriez", "arriveraient"],
+        "subj.pres": ["arrive", "arrives", "arrive", "arrivions", "arriviez", "arrivent"],
+        "subj.imp": ["arrivasse", "arrivasses", "arrivât", "arrivassions", "arrivassiez", "arrivassent"],
+        "imper.pres": ["arrive", "arrivons", "arrivez"]
+      },
+      "participe_present": "arrivant",
+      "participe_passe": ["arrivé", "arrivée", "arrivés", "arrivées"]
     }
   ]
 }
