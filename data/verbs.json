@@ -11262,6 +11262,24 @@
       },
       "participe_present": "excitant",
       "participe_passe": ["excité", "excitée", "excités", "excitées"]
+    },
+    {
+      "id": "voiler",
+      "infinitif": "voiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["voile", "voiles", "voile", "voilons", "voilez", "voilent"],
+        "ind.imp": ["voilais", "voilais", "voilait", "voilions", "voiliez", "voilaient"],
+        "ind.ps": ["voilai", "voilas", "voila", "voilâmes", "voilâtes", "voilèrent"],
+        "ind.fut": ["voilerai", "voileras", "voilera", "voilerons", "voilerez", "voileront"],
+        "cond.pres": ["voilerais", "voilerais", "voilerait", "voilerions", "voileriez", "voileraient"],
+        "subj.pres": ["voile", "voiles", "voile", "voilions", "voiliez", "voilent"],
+        "subj.imp": ["voilasse", "voilasses", "voilât", "voilassions", "voilassiez", "voilassent"],
+        "imper.pres": ["voile", "voilons", "voilez"]
+      },
+      "participe_present": "voilant",
+      "participe_passe": ["voilé", "voilée", "voilés", "voilées"]
     }
   ]
 }
