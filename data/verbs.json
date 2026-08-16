@@ -17715,6 +17715,24 @@
       },
       "participe_present": "vouant",
       "participe_passe": ["voué", "vouée", "voués", "vouées"]
+    },
+    {
+      "id": "défier",
+      "infinitif": "défier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["défie", "défies", "défie", "défions", "défiez", "défient"],
+        "ind.imp": ["défiais", "défiais", "défiait", "défiions", "défiiez", "défiaient"],
+        "ind.ps": ["défiai", "défias", "défia", "défiâmes", "défiâtes", "défièrent"],
+        "ind.fut": ["défierai", "défieras", "défiera", "défierons", "défierez", "défieront"],
+        "cond.pres": ["défierais", "défierais", "défierait", "défierions", "défieriez", "défieraient"],
+        "subj.pres": ["défie", "défies", "défie", "défiions", "défiiez", "défient"],
+        "subj.imp": ["défiasse", "défiasses", "défiât", "défiassions", "défiassiez", "défiassent"],
+        "imper.pres": ["défie", "défions", "défiez"]
+      },
+      "participe_present": "défiant",
+      "participe_passe": ["défié", "défiée", "défiés", "défiées"]
     }
   ]
 }
