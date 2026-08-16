@@ -5191,6 +5191,24 @@
       },
       "participe_present": "blessant",
       "participe_passe": ["blessé", "blessée", "blessés", "blessées"]
+    },
+    {
+      "id": "crever",
+      "infinitif": "crever",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["crève", "crèves", "crève", "crevons", "crevez", "crèvent"],
+        "ind.imp": ["crevais", "crevais", "crevait", "crevions", "creviez", "crevaient"],
+        "ind.ps": ["crevai", "crevas", "creva", "crevâmes", "crevâtes", "crevèrent"],
+        "ind.fut": ["crèverai", "crèveras", "crèvera", "crèverons", "crèverez", "crèveront"],
+        "cond.pres": ["crèverais", "crèverais", "crèverait", "crèverions", "crèveriez", "crèveraient"],
+        "subj.pres": ["crève", "crèves", "crève", "crevions", "creviez", "crèvent"],
+        "subj.imp": ["crevasse", "crevasses", "crevât", "crevassions", "crevassiez", "crevassent"],
+        "imper.pres": ["crève", "crevons", "crevez"]
+      },
+      "participe_present": "crevant",
+      "participe_passe": ["crevé", "crevée", "crevés", "crevées"]
     }
   ]
 }
