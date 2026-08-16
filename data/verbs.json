@@ -5137,6 +5137,24 @@
       },
       "participe_present": "formant",
       "participe_passe": ["formé", "formée", "formés", "formées"]
+    },
+    {
+      "id": "prêter",
+      "infinitif": "prêter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prête", "prêtes", "prête", "prêtons", "prêtez", "prêtent"],
+        "ind.imp": ["prêtais", "prêtais", "prêtait", "prêtions", "prêtiez", "prêtaient"],
+        "ind.ps": ["prêtai", "prêtas", "prêta", "prêtâmes", "prêtâtes", "prêtèrent"],
+        "ind.fut": ["prêterai", "prêteras", "prêtera", "prêterons", "prêterez", "prêteront"],
+        "cond.pres": ["prêterais", "prêterais", "prêterait", "prêterions", "prêteriez", "prêteraient"],
+        "subj.pres": ["prête", "prêtes", "prête", "prêtions", "prêtiez", "prêtent"],
+        "subj.imp": ["prêtasse", "prêtasses", "prêtât", "prêtassions", "prêtassiez", "prêtassent"],
+        "imper.pres": ["prête", "prêtons", "prêtez"]
+      },
+      "participe_present": "prêtant",
+      "participe_passe": ["prêté", "prêtée", "prêtés", "prêtées"]
     }
   ]
 }
