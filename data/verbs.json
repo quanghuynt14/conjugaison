@@ -31626,6 +31626,24 @@
       },
       "participe_present": "scandalisant",
       "participe_passe": ["scandalisé", "scandalisée", "scandalisés", "scandalisées"]
+    },
+    {
+      "id": "abrutir",
+      "infinitif": "abrutir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["abrutis", "abrutis", "abrutit", "abrutissons", "abrutissez", "abrutissent"],
+        "ind.imp": ["abrutissais", "abrutissais", "abrutissait", "abrutissions", "abrutissiez", "abrutissaient"],
+        "ind.ps": ["abrutis", "abrutis", "abrutit", "abrutîmes", "abrutîtes", "abrutirent"],
+        "ind.fut": ["abrutirai", "abrutiras", "abrutira", "abrutirons", "abrutirez", "abrutiront"],
+        "cond.pres": ["abrutirais", "abrutirais", "abrutirait", "abrutirions", "abrutiriez", "abrutiraient"],
+        "subj.pres": ["abrutisse", "abrutisses", "abrutisse", "abrutissions", "abrutissiez", "abrutissent"],
+        "subj.imp": ["abrutisse", "abrutisses", "abrutît", "abrutissions", "abrutissiez", "abrutissent"],
+        "imper.pres": ["abrutis", "abrutissons", "abrutissez"]
+      },
+      "participe_present": "abrutissant",
+      "participe_passe": ["abruti", "abrutie", "abrutis", "abruties"]
     }
   ]
 }
