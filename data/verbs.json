@@ -15114,6 +15114,24 @@
       },
       "participe_present": "abritant",
       "participe_passe": ["abrité", "abritée", "abrités", "abritées"]
+    },
+    {
+      "id": "emballer",
+      "infinitif": "emballer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emballe", "emballes", "emballe", "emballons", "emballez", "emballent"],
+        "ind.imp": ["emballais", "emballais", "emballait", "emballions", "emballiez", "emballaient"],
+        "ind.ps": ["emballai", "emballas", "emballa", "emballâmes", "emballâtes", "emballèrent"],
+        "ind.fut": ["emballerai", "emballeras", "emballera", "emballerons", "emballerez", "emballeront"],
+        "cond.pres": ["emballerais", "emballerais", "emballerait", "emballerions", "emballeriez", "emballeraient"],
+        "subj.pres": ["emballe", "emballes", "emballe", "emballions", "emballiez", "emballent"],
+        "subj.imp": ["emballasse", "emballasses", "emballât", "emballassions", "emballassiez", "emballassent"],
+        "imper.pres": ["emballe", "emballons", "emballez"]
+      },
+      "participe_present": "emballant",
+      "participe_passe": ["emballé", "emballée", "emballés", "emballées"]
     }
   ]
 }
