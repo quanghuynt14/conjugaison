@@ -24151,6 +24151,24 @@
       },
       "participe_present": "blottissant",
       "participe_passe": ["blotti", "blottie", "blottis", "blotties"]
+    },
+    {
+      "id": "aménager",
+      "infinitif": "aménager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aménage", "aménages", "aménage", "aménageons", "aménagez", "aménagent"],
+        "ind.imp": ["aménageais", "aménageais", "aménageait", "aménagions", "aménagiez", "aménageaient"],
+        "ind.ps": ["aménageai", "aménageas", "aménagea", "aménageâmes", "aménageâtes", "aménagèrent"],
+        "ind.fut": ["aménagerai", "aménageras", "aménagera", "aménagerons", "aménagerez", "aménageront"],
+        "cond.pres": ["aménagerais", "aménagerais", "aménagerait", "aménagerions", "aménageriez", "aménageraient"],
+        "subj.pres": ["aménage", "aménages", "aménage", "aménagions", "aménagiez", "aménagent"],
+        "subj.imp": ["aménageasse", "aménageasses", "aménageât", "aménageassions", "aménageassiez", "aménageassent"],
+        "imper.pres": ["aménage", "aménageons", "aménagez"]
+      },
+      "participe_present": "aménageant",
+      "participe_passe": ["aménagé", "aménagée", "aménagés", "aménagées"]
     }
   ]
 }
