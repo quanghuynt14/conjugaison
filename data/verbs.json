@@ -18340,6 +18340,24 @@
       },
       "participe_present": "accouchant",
       "participe_passe": ["accouché", "accouchée", "accouchés", "accouchées"]
+    },
+    {
+      "id": "attendrir",
+      "infinitif": "attendrir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["attendris", "attendris", "attendrit", "attendrissons", "attendrissez", "attendrissent"],
+        "ind.imp": ["attendrissais", "attendrissais", "attendrissait", "attendrissions", "attendrissiez", "attendrissaient"],
+        "ind.ps": ["attendris", "attendris", "attendrit", "attendrîmes", "attendrîtes", "attendrirent"],
+        "ind.fut": ["attendrirai", "attendriras", "attendrira", "attendrirons", "attendrirez", "attendriront"],
+        "cond.pres": ["attendrirais", "attendrirais", "attendrirait", "attendririons", "attendririez", "attendriraient"],
+        "subj.pres": ["attendrisse", "attendrisses", "attendrisse", "attendrissions", "attendrissiez", "attendrissent"],
+        "subj.imp": ["attendrisse", "attendrisses", "attendrît", "attendrissions", "attendrissiez", "attendrissent"],
+        "imper.pres": ["attendris", "attendrissons", "attendrissez"]
+      },
+      "participe_present": "attendrissant",
+      "participe_passe": ["attendri", "attendrie", "attendris", "attendries"]
     }
   ]
 }
