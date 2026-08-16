@@ -22652,6 +22652,24 @@
       },
       "participe_present": "conférant",
       "participe_passe": ["conféré", "conférée", "conférés", "conférées"]
+    },
+    {
+      "id": "filtrer",
+      "infinitif": "filtrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["filtre", "filtres", "filtre", "filtrons", "filtrez", "filtrent"],
+        "ind.imp": ["filtrais", "filtrais", "filtrait", "filtrions", "filtriez", "filtraient"],
+        "ind.ps": ["filtrai", "filtras", "filtra", "filtrâmes", "filtrâtes", "filtrèrent"],
+        "ind.fut": ["filtrerai", "filtreras", "filtrera", "filtrerons", "filtrerez", "filtreront"],
+        "cond.pres": ["filtrerais", "filtrerais", "filtrerait", "filtrerions", "filtreriez", "filtreraient"],
+        "subj.pres": ["filtre", "filtres", "filtre", "filtrions", "filtriez", "filtrent"],
+        "subj.imp": ["filtrasse", "filtrasses", "filtrât", "filtrassions", "filtrassiez", "filtrassent"],
+        "imper.pres": ["filtre", "filtrons", "filtrez"]
+      },
+      "participe_present": "filtrant",
+      "participe_passe": ["filtré", "filtrée", "filtrés", "filtrées"]
     }
   ]
 }
