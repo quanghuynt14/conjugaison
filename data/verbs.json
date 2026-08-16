@@ -12953,6 +12953,24 @@
       },
       "participe_present": "enviant",
       "participe_passe": ["envié", "enviée", "enviés", "enviées"]
+    },
+    {
+      "id": "citer",
+      "infinitif": "citer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cite", "cites", "cite", "citons", "citez", "citent"],
+        "ind.imp": ["citais", "citais", "citait", "citions", "citiez", "citaient"],
+        "ind.ps": ["citai", "citas", "cita", "citâmes", "citâtes", "citèrent"],
+        "ind.fut": ["citerai", "citeras", "citera", "citerons", "citerez", "citeront"],
+        "cond.pres": ["citerais", "citerais", "citerait", "citerions", "citeriez", "citeraient"],
+        "subj.pres": ["cite", "cites", "cite", "citions", "citiez", "citent"],
+        "subj.imp": ["citasse", "citasses", "citât", "citassions", "citassiez", "citassent"],
+        "imper.pres": ["cite", "citons", "citez"]
+      },
+      "participe_present": "citant",
+      "participe_passe": ["cité", "citée", "cités", "citées"]
     }
   ]
 }
