@@ -17788,6 +17788,24 @@
       },
       "participe_present": "acharnant",
       "participe_passe": ["acharné", "acharnée", "acharnés", "acharnées"]
+    },
+    {
+      "id": "tâter",
+      "infinitif": "tâter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tâte", "tâtes", "tâte", "tâtons", "tâtez", "tâtent"],
+        "ind.imp": ["tâtais", "tâtais", "tâtait", "tâtions", "tâtiez", "tâtaient"],
+        "ind.ps": ["tâtai", "tâtas", "tâta", "tâtâmes", "tâtâtes", "tâtèrent"],
+        "ind.fut": ["tâterai", "tâteras", "tâtera", "tâterons", "tâterez", "tâteront"],
+        "cond.pres": ["tâterais", "tâterais", "tâterait", "tâterions", "tâteriez", "tâteraient"],
+        "subj.pres": ["tâte", "tâtes", "tâte", "tâtions", "tâtiez", "tâtent"],
+        "subj.imp": ["tâtasse", "tâtasses", "tâtât", "tâtassions", "tâtassiez", "tâtassent"],
+        "imper.pres": ["tâte", "tâtons", "tâtez"]
+      },
+      "participe_present": "tâtant",
+      "participe_passe": ["tâté", "tâtée", "tâtés", "tâtées"]
     }
   ]
 }
