@@ -32374,6 +32374,24 @@
       },
       "participe_present": "rôtissant",
       "participe_passe": ["rôti", "rôtie", "rôtis", "rôties"]
+    },
+    {
+      "id": "débouler",
+      "infinitif": "débouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déboule", "déboules", "déboule", "déboulons", "déboulez", "déboulent"],
+        "ind.imp": ["déboulais", "déboulais", "déboulait", "déboulions", "débouliez", "déboulaient"],
+        "ind.ps": ["déboulai", "déboulas", "déboula", "déboulâmes", "déboulâtes", "déboulèrent"],
+        "ind.fut": ["déboulerai", "débouleras", "déboulera", "déboulerons", "déboulerez", "débouleront"],
+        "cond.pres": ["déboulerais", "déboulerais", "déboulerait", "déboulerions", "débouleriez", "débouleraient"],
+        "subj.pres": ["déboule", "déboules", "déboule", "déboulions", "débouliez", "déboulent"],
+        "subj.imp": ["déboulasse", "déboulasses", "déboulât", "déboulassions", "déboulassiez", "déboulassent"],
+        "imper.pres": ["déboule", "déboulons", "déboulez"]
+      },
+      "participe_present": "déboulant",
+      "participe_passe": ["déboulé", "déboulée", "déboulés", "déboulées"]
     }
   ]
 }
