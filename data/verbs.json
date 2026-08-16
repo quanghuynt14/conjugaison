@@ -3528,6 +3528,24 @@
       },
       "participe_present": "craignant",
       "participe_passe": ["craint", "crainte", "craints", "craintes"]
+    },
+    {
+      "id": "rouler",
+      "infinitif": "rouler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["roule", "roules", "roule", "roulons", "roulez", "roulent"],
+        "ind.imp": ["roulais", "roulais", "roulait", "roulions", "rouliez", "roulaient"],
+        "ind.ps": ["roulai", "roulas", "roula", "roulâmes", "roulâtes", "roulèrent"],
+        "ind.fut": ["roulerai", "rouleras", "roulera", "roulerons", "roulerez", "rouleront"],
+        "cond.pres": ["roulerais", "roulerais", "roulerait", "roulerions", "rouleriez", "rouleraient"],
+        "subj.pres": ["roule", "roules", "roule", "roulions", "rouliez", "roulent"],
+        "subj.imp": ["roulasse", "roulasses", "roulât", "roulassions", "roulassiez", "roulassent"],
+        "imper.pres": ["roule", "roulons", "roulez"]
+      },
+      "participe_present": "roulant",
+      "participe_passe": ["roulé", "roulée", "roulés", "roulées"]
     }
   ]
 }
