@@ -26371,6 +26371,24 @@
       },
       "participe_present": "terrorisant",
       "participe_passe": ["terrorisé", "terrorisée", "terrorisés", "terrorisées"]
+    },
+    {
+      "id": "abolir",
+      "infinitif": "abolir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["abolis", "abolis", "abolit", "abolissons", "abolissez", "abolissent"],
+        "ind.imp": ["abolissais", "abolissais", "abolissait", "abolissions", "abolissiez", "abolissaient"],
+        "ind.ps": ["abolis", "abolis", "abolit", "abolîmes", "abolîtes", "abolirent"],
+        "ind.fut": ["abolirai", "aboliras", "abolira", "abolirons", "abolirez", "aboliront"],
+        "cond.pres": ["abolirais", "abolirais", "abolirait", "abolirions", "aboliriez", "aboliraient"],
+        "subj.pres": ["abolisse", "abolisses", "abolisse", "abolissions", "abolissiez", "abolissent"],
+        "subj.imp": ["abolisse", "abolisses", "abolît", "abolissions", "abolissiez", "abolissent"],
+        "imper.pres": ["abolis", "abolissons", "abolissez"]
+      },
+      "participe_present": "abolissant",
+      "participe_passe": ["aboli", "abolie", "abolis", "abolies"]
     }
   ]
 }
