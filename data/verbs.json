@@ -4775,6 +4775,24 @@
       },
       "participe_present": "dégageant",
       "participe_passe": ["dégagé", "dégagée", "dégagés", "dégagées"]
+    },
+    {
+      "id": "observer",
+      "infinitif": "observer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["observe", "observes", "observe", "observons", "observez", "observent"],
+        "ind.imp": ["observais", "observais", "observait", "observions", "observiez", "observaient"],
+        "ind.ps": ["observai", "observas", "observa", "observâmes", "observâtes", "observèrent"],
+        "ind.fut": ["observerai", "observeras", "observera", "observerons", "observerez", "observeront"],
+        "cond.pres": ["observerais", "observerais", "observerait", "observerions", "observeriez", "observeraient"],
+        "subj.pres": ["observe", "observes", "observe", "observions", "observiez", "observent"],
+        "subj.imp": ["observasse", "observasses", "observât", "observassions", "observassiez", "observassent"],
+        "imper.pres": ["observe", "observons", "observez"]
+      },
+      "participe_present": "observant",
+      "participe_passe": ["observé", "observée", "observés", "observées"]
     }
   ]
 }
