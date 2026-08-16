@@ -22542,6 +22542,24 @@
       },
       "participe_present": "dissolvant",
       "participe_passe": ["dissous", "dissoute", "dissous", "dissoutes"]
+    },
+    {
+      "id": "froisser",
+      "infinitif": "froisser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["froisse", "froisses", "froisse", "froissons", "froissez", "froissent"],
+        "ind.imp": ["froissais", "froissais", "froissait", "froissions", "froissiez", "froissaient"],
+        "ind.ps": ["froissai", "froissas", "froissa", "froissâmes", "froissâtes", "froissèrent"],
+        "ind.fut": ["froisserai", "froisseras", "froissera", "froisserons", "froisserez", "froisseront"],
+        "cond.pres": ["froisserais", "froisserais", "froisserait", "froisserions", "froisseriez", "froisseraient"],
+        "subj.pres": ["froisse", "froisses", "froisse", "froissions", "froissiez", "froissent"],
+        "subj.imp": ["froissasse", "froissasses", "froissât", "froissassions", "froissassiez", "froissassent"],
+        "imper.pres": ["froisse", "froissons", "froissez"]
+      },
+      "participe_present": "froissant",
+      "participe_passe": ["froissé", "froissée", "froissés", "froissées"]
     }
   ]
 }
