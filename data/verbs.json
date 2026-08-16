@@ -30619,6 +30619,24 @@
       },
       "participe_present": "omettant",
       "participe_passe": ["omis", "omise", "omis", "omises"]
+    },
+    {
+      "id": "attrister",
+      "infinitif": "attrister",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["attriste", "attristes", "attriste", "attristons", "attristez", "attristent"],
+        "ind.imp": ["attristais", "attristais", "attristait", "attristions", "attristiez", "attristaient"],
+        "ind.ps": ["attristai", "attristas", "attrista", "attristâmes", "attristâtes", "attristèrent"],
+        "ind.fut": ["attristerai", "attristeras", "attristera", "attristerons", "attristerez", "attristeront"],
+        "cond.pres": ["attristerais", "attristerais", "attristerait", "attristerions", "attristeriez", "attristeraient"],
+        "subj.pres": ["attriste", "attristes", "attriste", "attristions", "attristiez", "attristent"],
+        "subj.imp": ["attristasse", "attristasses", "attristât", "attristassions", "attristassiez", "attristassent"],
+        "imper.pres": ["attriste", "attristons", "attristez"]
+      },
+      "participe_present": "attristant",
+      "participe_passe": ["attristé", "attristée", "attristés", "attristées"]
     }
   ]
 }
