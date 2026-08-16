@@ -13936,6 +13936,25 @@
       },
       "participe_present": "tâchant",
       "participe_passe": ["tâché", "tâchée", "tâchés", "tâchées"]
+    },
+    {
+      "id": "consister",
+      "infinitif": "consister",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « consisté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["consiste", "consistes", "consiste", "consistons", "consistez", "consistent"],
+        "ind.imp": ["consistais", "consistais", "consistait", "consistions", "consistiez", "consistaient"],
+        "ind.ps": ["consistai", "consistas", "consista", "consistâmes", "consistâtes", "consistèrent"],
+        "ind.fut": ["consisterai", "consisteras", "consistera", "consisterons", "consisterez", "consisteront"],
+        "cond.pres": ["consisterais", "consisterais", "consisterait", "consisterions", "consisteriez", "consisteraient"],
+        "subj.pres": ["consiste", "consistes", "consiste", "consistions", "consistiez", "consistent"],
+        "subj.imp": ["consistasse", "consistasses", "consistât", "consistassions", "consistassiez", "consistassent"],
+        "imper.pres": ["consiste", "consistons", "consistez"]
+      },
+      "participe_present": "consistant",
+      "participe_passe": ["consisté", null, null, null]
     }
   ]
 }
