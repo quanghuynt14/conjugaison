@@ -2098,6 +2098,24 @@
       },
       "participe_present": "suffisant",
       "participe_passe": ["suffi", null, null, null]
+    },
+    {
+      "id": "cacher",
+      "infinitif": "cacher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cache", "caches", "cache", "cachons", "cachez", "cachent"],
+        "ind.imp": ["cachais", "cachais", "cachait", "cachions", "cachiez", "cachaient"],
+        "ind.ps": ["cachai", "cachas", "cacha", "cachâmes", "cachâtes", "cachèrent"],
+        "ind.fut": ["cacherai", "cacheras", "cachera", "cacherons", "cacherez", "cacheront"],
+        "cond.pres": ["cacherais", "cacherais", "cacherait", "cacherions", "cacheriez", "cacheraient"],
+        "subj.pres": ["cache", "caches", "cache", "cachions", "cachiez", "cachent"],
+        "subj.imp": ["cachasse", "cachasses", "cachât", "cachassions", "cachassiez", "cachassent"],
+        "imper.pres": ["cache", "cachons", "cachez"]
+      },
+      "participe_present": "cachant",
+      "participe_passe": ["caché", "cachée", "cachés", "cachées"]
     }
   ]
 }
