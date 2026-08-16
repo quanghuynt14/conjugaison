@@ -19051,6 +19051,24 @@
       },
       "participe_present": "déchargeant",
       "participe_passe": ["déchargé", "déchargée", "déchargés", "déchargées"]
+    },
+    {
+      "id": "résumer",
+      "infinitif": "résumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["résume", "résumes", "résume", "résumons", "résumez", "résument"],
+        "ind.imp": ["résumais", "résumais", "résumait", "résumions", "résumiez", "résumaient"],
+        "ind.ps": ["résumai", "résumas", "résuma", "résumâmes", "résumâtes", "résumèrent"],
+        "ind.fut": ["résumerai", "résumeras", "résumera", "résumerons", "résumerez", "résumeront"],
+        "cond.pres": ["résumerais", "résumerais", "résumerait", "résumerions", "résumeriez", "résumeraient"],
+        "subj.pres": ["résume", "résumes", "résume", "résumions", "résumiez", "résument"],
+        "subj.imp": ["résumasse", "résumasses", "résumât", "résumassions", "résumassiez", "résumassent"],
+        "imper.pres": ["résume", "résumons", "résumez"]
+      },
+      "participe_present": "résumant",
+      "participe_passe": ["résumé", "résumée", "résumés", "résumées"]
     }
   ]
 }
