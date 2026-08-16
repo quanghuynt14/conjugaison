@@ -21404,6 +21404,24 @@
       },
       "participe_present": "scrutant",
       "participe_passe": ["scruté", "scrutée", "scrutés", "scrutées"]
+    },
+    {
+      "id": "critiquer",
+      "infinitif": "critiquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["critique", "critiques", "critique", "critiquons", "critiquez", "critiquent"],
+        "ind.imp": ["critiquais", "critiquais", "critiquait", "critiquions", "critiquiez", "critiquaient"],
+        "ind.ps": ["critiquai", "critiquas", "critiqua", "critiquâmes", "critiquâtes", "critiquèrent"],
+        "ind.fut": ["critiquerai", "critiqueras", "critiquera", "critiquerons", "critiquerez", "critiqueront"],
+        "cond.pres": ["critiquerais", "critiquerais", "critiquerait", "critiquerions", "critiqueriez", "critiqueraient"],
+        "subj.pres": ["critique", "critiques", "critique", "critiquions", "critiquiez", "critiquent"],
+        "subj.imp": ["critiquasse", "critiquasses", "critiquât", "critiquassions", "critiquassiez", "critiquassent"],
+        "imper.pres": ["critique", "critiquons", "critiquez"]
+      },
+      "participe_present": "critiquant",
+      "participe_passe": ["critiqué", "critiquée", "critiqués", "critiquées"]
     }
   ]
 }
