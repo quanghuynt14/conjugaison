@@ -19433,6 +19433,24 @@
       },
       "participe_present": "larguant",
       "participe_passe": ["largué", "larguée", "largués", "larguées"]
+    },
+    {
+      "id": "indigner",
+      "infinitif": "indigner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["indigne", "indignes", "indigne", "indignons", "indignez", "indignent"],
+        "ind.imp": ["indignais", "indignais", "indignait", "indignions", "indigniez", "indignaient"],
+        "ind.ps": ["indignai", "indignas", "indigna", "indignâmes", "indignâtes", "indignèrent"],
+        "ind.fut": ["indignerai", "indigneras", "indignera", "indignerons", "indignerez", "indigneront"],
+        "cond.pres": ["indignerais", "indignerais", "indignerait", "indignerions", "indigneriez", "indigneraient"],
+        "subj.pres": ["indigne", "indignes", "indigne", "indignions", "indigniez", "indignent"],
+        "subj.imp": ["indignasse", "indignasses", "indignât", "indignassions", "indignassiez", "indignassent"],
+        "imper.pres": ["indigne", "indignons", "indignez"]
+      },
+      "participe_present": "indignant",
+      "participe_passe": ["indigné", "indignée", "indignés", "indignées"]
     }
   ]
 }
