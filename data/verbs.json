@@ -783,6 +783,24 @@
       },
       "participe_present": "rendant",
       "participe_passe": ["rendu", "rendue", "rendus", "rendues"]
+    },
+    {
+      "id": "finir",
+      "infinitif": "finir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["finis", "finis", "finit", "finissons", "finissez", "finissent"],
+        "ind.imp": ["finissais", "finissais", "finissait", "finissions", "finissiez", "finissaient"],
+        "ind.ps": ["finis", "finis", "finit", "finîmes", "finîtes", "finirent"],
+        "ind.fut": ["finirai", "finiras", "finira", "finirons", "finirez", "finiront"],
+        "cond.pres": ["finirais", "finirais", "finirait", "finirions", "finiriez", "finiraient"],
+        "subj.pres": ["finisse", "finisses", "finisse", "finissions", "finissiez", "finissent"],
+        "subj.imp": ["finisse", "finisses", "finît", "finissions", "finissiez", "finissent"],
+        "imper.pres": ["finis", "finissons", "finissez"]
+      },
+      "participe_present": "finissant",
+      "participe_passe": ["fini", "finie", "finis", "finies"]
     }
   ]
 }
