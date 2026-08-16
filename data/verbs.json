@@ -16060,6 +16060,24 @@
       },
       "participe_present": "convoquant",
       "participe_passe": ["convoqué", "convoquée", "convoqués", "convoquées"]
+    },
+    {
+      "id": "bander",
+      "infinitif": "bander",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bande", "bandes", "bande", "bandons", "bandez", "bandent"],
+        "ind.imp": ["bandais", "bandais", "bandait", "bandions", "bandiez", "bandaient"],
+        "ind.ps": ["bandai", "bandas", "banda", "bandâmes", "bandâtes", "bandèrent"],
+        "ind.fut": ["banderai", "banderas", "bandera", "banderons", "banderez", "banderont"],
+        "cond.pres": ["banderais", "banderais", "banderait", "banderions", "banderiez", "banderaient"],
+        "subj.pres": ["bande", "bandes", "bande", "bandions", "bandiez", "bandent"],
+        "subj.imp": ["bandasse", "bandasses", "bandât", "bandassions", "bandassiez", "bandassent"],
+        "imper.pres": ["bande", "bandons", "bandez"]
+      },
+      "participe_present": "bandant",
+      "participe_passe": ["bandé", "bandée", "bandés", "bandées"]
     }
   ]
 }
