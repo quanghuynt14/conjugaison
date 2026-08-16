@@ -8145,6 +8145,24 @@
       },
       "participe_present": "distinguant",
       "participe_passe": ["distingué", "distinguée", "distingués", "distinguées"]
+    },
+    {
+      "id": "accueillir",
+      "infinitif": "accueillir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["accueille", "accueilles", "accueille", "accueillons", "accueillez", "accueillent"],
+        "ind.imp": ["accueillais", "accueillais", "accueillait", "accueillions", "accueilliez", "accueillaient"],
+        "ind.ps": ["accueillis", "accueillis", "accueillit", "accueillîmes", "accueillîtes", "accueillirent"],
+        "ind.fut": ["accueillerai", "accueilleras", "accueillera", "accueillerons", "accueillerez", "accueilleront"],
+        "cond.pres": ["accueillerais", "accueillerais", "accueillerait", "accueillerions", "accueilleriez", "accueilleraient"],
+        "subj.pres": ["accueille", "accueilles", "accueille", "accueillions", "accueilliez", "accueillent"],
+        "subj.imp": ["accueillisse", "accueillisses", "accueillît", "accueillissions", "accueillissiez", "accueillissent"],
+        "imper.pres": ["accueille", "accueillons", "accueillez"]
+      },
+      "participe_present": "accueillant",
+      "participe_passe": ["accueilli", "accueillie", "accueillis", "accueillies"]
     }
   ]
 }
