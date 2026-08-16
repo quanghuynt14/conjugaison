@@ -15916,6 +15916,24 @@
       },
       "participe_present": "rédigeant",
       "participe_passe": ["rédigé", "rédigée", "rédigés", "rédigées"]
+    },
+    {
+      "id": "maîtriser",
+      "infinitif": "maîtriser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["maîtrise", "maîtrises", "maîtrise", "maîtrisons", "maîtrisez", "maîtrisent"],
+        "ind.imp": ["maîtrisais", "maîtrisais", "maîtrisait", "maîtrisions", "maîtrisiez", "maîtrisaient"],
+        "ind.ps": ["maîtrisai", "maîtrisas", "maîtrisa", "maîtrisâmes", "maîtrisâtes", "maîtrisèrent"],
+        "ind.fut": ["maîtriserai", "maîtriseras", "maîtrisera", "maîtriserons", "maîtriserez", "maîtriseront"],
+        "cond.pres": ["maîtriserais", "maîtriserais", "maîtriserait", "maîtriserions", "maîtriseriez", "maîtriseraient"],
+        "subj.pres": ["maîtrise", "maîtrises", "maîtrise", "maîtrisions", "maîtrisiez", "maîtrisent"],
+        "subj.imp": ["maîtrisasse", "maîtrisasses", "maîtrisât", "maîtrisassions", "maîtrisassiez", "maîtrisassent"],
+        "imper.pres": ["maîtrise", "maîtrisons", "maîtrisez"]
+      },
+      "participe_present": "maîtrisant",
+      "participe_passe": ["maîtrisé", "maîtrisée", "maîtrisés", "maîtrisées"]
     }
   ]
 }
