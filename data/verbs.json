@@ -19960,6 +19960,25 @@
       },
       "participe_present": "polissant",
       "participe_passe": ["poli", "polie", "polis", "polies"]
+    },
+    {
+      "id": "gésir",
+      "infinitif": "gésir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Il ne reste que le présent, l'imparfait et le participe présent — « ci-gît », « les ruines qui gisaient là ». Ni futur, ni passé simple, ni participe passé, donc aucun temps composé.",
+      "tenses": {
+        "ind.pres": ["gis", "gis", "gît", "gisons", "gisez", "gisent"],
+        "ind.imp": ["gisais", "gisais", "gisait", "gisions", "gisiez", "gisaient"],
+        "ind.ps": [null, null, null, null, null, null],
+        "ind.fut": [null, null, null, null, null, null],
+        "cond.pres": [null, null, null, null, null, null],
+        "subj.pres": [null, null, null, null, null, null],
+        "subj.imp": [null, null, null, null, null, null],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": "gisant",
+      "participe_passe": [null, null, null, null]
     }
   ]
 }
