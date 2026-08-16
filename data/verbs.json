@@ -6405,6 +6405,24 @@
       },
       "participe_present": "écartant",
       "participe_passe": ["écarté", "écartée", "écartés", "écartées"]
+    },
+    {
+      "id": "nourrir",
+      "infinitif": "nourrir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["nourris", "nourris", "nourrit", "nourrissons", "nourrissez", "nourrissent"],
+        "ind.imp": ["nourrissais", "nourrissais", "nourrissait", "nourrissions", "nourrissiez", "nourrissaient"],
+        "ind.ps": ["nourris", "nourris", "nourrit", "nourrîmes", "nourrîtes", "nourrirent"],
+        "ind.fut": ["nourrirai", "nourriras", "nourrira", "nourrirons", "nourrirez", "nourriront"],
+        "cond.pres": ["nourrirais", "nourrirais", "nourrirait", "nourririons", "nourririez", "nourriraient"],
+        "subj.pres": ["nourrisse", "nourrisses", "nourrisse", "nourrissions", "nourrissiez", "nourrissent"],
+        "subj.imp": ["nourrisse", "nourrisses", "nourrît", "nourrissions", "nourrissiez", "nourrissent"],
+        "imper.pres": ["nourris", "nourrissons", "nourrissez"]
+      },
+      "participe_present": "nourrissant",
+      "participe_passe": ["nourri", "nourrie", "nourris", "nourries"]
     }
   ]
 }
