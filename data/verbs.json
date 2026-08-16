@@ -22073,6 +22073,24 @@
       },
       "participe_present": "incitant",
       "participe_passe": ["incité", "incitée", "incités", "incitées"]
+    },
+    {
+      "id": "emprisonner",
+      "infinitif": "emprisonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emprisonne", "emprisonnes", "emprisonne", "emprisonnons", "emprisonnez", "emprisonnent"],
+        "ind.imp": ["emprisonnais", "emprisonnais", "emprisonnait", "emprisonnions", "emprisonniez", "emprisonnaient"],
+        "ind.ps": ["emprisonnai", "emprisonnas", "emprisonna", "emprisonnâmes", "emprisonnâtes", "emprisonnèrent"],
+        "ind.fut": ["emprisonnerai", "emprisonneras", "emprisonnera", "emprisonnerons", "emprisonnerez", "emprisonneront"],
+        "cond.pres": ["emprisonnerais", "emprisonnerais", "emprisonnerait", "emprisonnerions", "emprisonneriez", "emprisonneraient"],
+        "subj.pres": ["emprisonne", "emprisonnes", "emprisonne", "emprisonnions", "emprisonniez", "emprisonnent"],
+        "subj.imp": ["emprisonnasse", "emprisonnasses", "emprisonnât", "emprisonnassions", "emprisonnassiez", "emprisonnassent"],
+        "imper.pres": ["emprisonne", "emprisonnons", "emprisonnez"]
+      },
+      "participe_present": "emprisonnant",
+      "participe_passe": ["emprisonné", "emprisonnée", "emprisonnés", "emprisonnées"]
     }
   ]
 }
