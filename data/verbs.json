@@ -15698,6 +15698,24 @@
       },
       "participe_present": "lassant",
       "participe_passe": ["lassé", "lassée", "lassés", "lassées"]
+    },
+    {
+      "id": "irriter",
+      "infinitif": "irriter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["irrite", "irrites", "irrite", "irritons", "irritez", "irritent"],
+        "ind.imp": ["irritais", "irritais", "irritait", "irritions", "irritiez", "irritaient"],
+        "ind.ps": ["irritai", "irritas", "irrita", "irritâmes", "irritâtes", "irritèrent"],
+        "ind.fut": ["irriterai", "irriteras", "irritera", "irriterons", "irriterez", "irriteront"],
+        "cond.pres": ["irriterais", "irriterais", "irriterait", "irriterions", "irriteriez", "irriteraient"],
+        "subj.pres": ["irrite", "irrites", "irrite", "irritions", "irritiez", "irritent"],
+        "subj.imp": ["irritasse", "irritasses", "irritât", "irritassions", "irritassiez", "irritassent"],
+        "imper.pres": ["irrite", "irritons", "irritez"]
+      },
+      "participe_present": "irritant",
+      "participe_passe": ["irrité", "irritée", "irrités", "irritées"]
     }
   ]
 }
