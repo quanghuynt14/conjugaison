@@ -21927,6 +21927,24 @@
       },
       "participe_present": "interpellant",
       "participe_passe": ["interpellé", "interpellée", "interpellés", "interpellées"]
+    },
+    {
+      "id": "réapparaître",
+      "infinitif": "réapparaître",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "être",
+      "tenses": {
+        "ind.pres": ["réapparais", "réapparais", "réapparaît", "réapparaissons", "réapparaissez", "réapparaissent"],
+        "ind.imp": ["réapparaissais", "réapparaissais", "réapparaissait", "réapparaissions", "réapparaissiez", "réapparaissaient"],
+        "ind.ps": ["réapparus", "réapparus", "réapparut", "réapparûmes", "réapparûtes", "réapparurent"],
+        "ind.fut": ["réapparaîtrai", "réapparaîtras", "réapparaîtra", "réapparaîtrons", "réapparaîtrez", "réapparaîtront"],
+        "cond.pres": ["réapparaîtrais", "réapparaîtrais", "réapparaîtrait", "réapparaîtrions", "réapparaîtriez", "réapparaîtraient"],
+        "subj.pres": ["réapparaisse", "réapparaisses", "réapparaisse", "réapparaissions", "réapparaissiez", "réapparaissent"],
+        "subj.imp": ["réapparusse", "réapparusses", "réapparût", "réapparussions", "réapparussiez", "réapparussent"],
+        "imper.pres": ["réapparais", "réapparaissons", "réapparaissez"]
+      },
+      "participe_present": "réapparaissant",
+      "participe_passe": ["réapparu", "réapparue", "réapparus", "réapparues"]
     }
   ]
 }
