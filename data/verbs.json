@@ -965,6 +965,25 @@
       },
       "participe_present": "aidant",
       "participe_passe": ["aidé", "aidée", "aidés", "aidées"]
+    },
+    {
+      "id": "rentrer",
+      "infinitif": "rentrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "note": "Auxiliaire double. Sans complément d'objet, être : « je suis rentré ». Avec un complément d'objet direct, avoir : « j'ai rentré la voiture ». Les temps composés ci-dessous suivent la première construction.",
+      "tenses": {
+        "ind.pres": ["rentre", "rentres", "rentre", "rentrons", "rentrez", "rentrent"],
+        "ind.imp": ["rentrais", "rentrais", "rentrait", "rentrions", "rentriez", "rentraient"],
+        "ind.ps": ["rentrai", "rentras", "rentra", "rentrâmes", "rentrâtes", "rentrèrent"],
+        "ind.fut": ["rentrerai", "rentreras", "rentrera", "rentrerons", "rentrerez", "rentreront"],
+        "cond.pres": ["rentrerais", "rentrerais", "rentrerait", "rentrerions", "rentreriez", "rentreraient"],
+        "subj.pres": ["rentre", "rentres", "rentre", "rentrions", "rentriez", "rentrent"],
+        "subj.imp": ["rentrasse", "rentrasses", "rentrât", "rentrassions", "rentrassiez", "rentrassent"],
+        "imper.pres": ["rentre", "rentrons", "rentrez"]
+      },
+      "participe_present": "rentrant",
+      "participe_passe": ["rentré", "rentrée", "rentrés", "rentrées"]
     }
   ]
 }
