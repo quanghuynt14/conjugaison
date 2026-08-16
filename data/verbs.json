@@ -7187,6 +7187,24 @@
       },
       "participe_present": "imposant",
       "participe_passe": ["imposé", "imposée", "imposés", "imposées"]
+    },
+    {
+      "id": "renvoyer",
+      "infinitif": "renvoyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["renvoie", "renvoies", "renvoie", "renvoyons", "renvoyez", "renvoient"],
+        "ind.imp": ["renvoyais", "renvoyais", "renvoyait", "renvoyions", "renvoyiez", "renvoyaient"],
+        "ind.ps": ["renvoyai", "renvoyas", "renvoya", "renvoyâmes", "renvoyâtes", "renvoyèrent"],
+        "ind.fut": ["renverrai", "renverras", "renverra", "renverrons", "renverrez", "renverront"],
+        "cond.pres": ["renverrais", "renverrais", "renverrait", "renverrions", "renverriez", "renverraient"],
+        "subj.pres": ["renvoie", "renvoies", "renvoie", "renvoyions", "renvoyiez", "renvoient"],
+        "subj.imp": ["renvoyasse", "renvoyasses", "renvoyât", "renvoyassions", "renvoyassiez", "renvoyassent"],
+        "imper.pres": ["renvoie", "renvoyons", "renvoyez"]
+      },
+      "participe_present": "renvoyant",
+      "participe_passe": ["renvoyé", "renvoyée", "renvoyés", "renvoyées"]
     }
   ]
 }
