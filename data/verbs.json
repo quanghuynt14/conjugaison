@@ -11317,6 +11317,24 @@
       },
       "participe_present": "suggérant",
       "participe_passe": ["suggéré", "suggérée", "suggérés", "suggérées"]
+    },
+    {
+      "id": "troubler",
+      "infinitif": "troubler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trouble", "troubles", "trouble", "troublons", "troublez", "troublent"],
+        "ind.imp": ["troublais", "troublais", "troublait", "troublions", "troubliez", "troublaient"],
+        "ind.ps": ["troublai", "troublas", "troubla", "troublâmes", "troublâtes", "troublèrent"],
+        "ind.fut": ["troublerai", "troubleras", "troublera", "troublerons", "troublerez", "troubleront"],
+        "cond.pres": ["troublerais", "troublerais", "troublerait", "troublerions", "troubleriez", "troubleraient"],
+        "subj.pres": ["trouble", "troubles", "trouble", "troublions", "troubliez", "troublent"],
+        "subj.imp": ["troublasse", "troublasses", "troublât", "troublassions", "troublassiez", "troublassent"],
+        "imper.pres": ["trouble", "troublons", "troublez"]
+      },
+      "participe_present": "troublant",
+      "participe_passe": ["troublé", "troublée", "troublés", "troublées"]
     }
   ]
 }
