@@ -35879,6 +35879,24 @@
       },
       "participe_present": "oeuvrant",
       "participe_passe": ["oeuvré", "oeuvrée", "oeuvrés", "oeuvrées"]
+    },
+    {
+      "id": "colorier",
+      "infinitif": "colorier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["colorie", "colories", "colorie", "colorions", "coloriez", "colorient"],
+        "ind.imp": ["coloriais", "coloriais", "coloriait", "coloriions", "coloriiez", "coloriaient"],
+        "ind.ps": ["coloriai", "colorias", "coloria", "coloriâmes", "coloriâtes", "colorièrent"],
+        "ind.fut": ["colorierai", "colorieras", "coloriera", "colorierons", "colorierez", "colorieront"],
+        "cond.pres": ["colorierais", "colorierais", "colorierait", "colorierions", "colorieriez", "colorieraient"],
+        "subj.pres": ["colorie", "colories", "colorie", "coloriions", "coloriiez", "colorient"],
+        "subj.imp": ["coloriasse", "coloriasses", "coloriât", "coloriassions", "coloriassiez", "coloriassent"],
+        "imper.pres": ["colorie", "colorions", "coloriez"]
+      },
+      "participe_present": "coloriant",
+      "participe_passe": ["colorié", "coloriée", "coloriés", "coloriées"]
     }
   ]
 }
