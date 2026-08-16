@@ -11280,6 +11280,24 @@
       },
       "participe_present": "voilant",
       "participe_passe": ["voilé", "voilée", "voilés", "voilées"]
+    },
+    {
+      "id": "soupçonner",
+      "infinitif": "soupçonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["soupçonne", "soupçonnes", "soupçonne", "soupçonnons", "soupçonnez", "soupçonnent"],
+        "ind.imp": ["soupçonnais", "soupçonnais", "soupçonnait", "soupçonnions", "soupçonniez", "soupçonnaient"],
+        "ind.ps": ["soupçonnai", "soupçonnas", "soupçonna", "soupçonnâmes", "soupçonnâtes", "soupçonnèrent"],
+        "ind.fut": ["soupçonnerai", "soupçonneras", "soupçonnera", "soupçonnerons", "soupçonnerez", "soupçonneront"],
+        "cond.pres": ["soupçonnerais", "soupçonnerais", "soupçonnerait", "soupçonnerions", "soupçonneriez", "soupçonneraient"],
+        "subj.pres": ["soupçonne", "soupçonnes", "soupçonne", "soupçonnions", "soupçonniez", "soupçonnent"],
+        "subj.imp": ["soupçonnasse", "soupçonnasses", "soupçonnât", "soupçonnassions", "soupçonnassiez", "soupçonnassent"],
+        "imper.pres": ["soupçonne", "soupçonnons", "soupçonnez"]
+      },
+      "participe_present": "soupçonnant",
+      "participe_passe": ["soupçonné", "soupçonnée", "soupçonnés", "soupçonnées"]
     }
   ]
 }
