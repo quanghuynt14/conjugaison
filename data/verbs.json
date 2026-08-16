@@ -16078,6 +16078,24 @@
       },
       "participe_present": "bandant",
       "participe_passe": ["bandé", "bandée", "bandés", "bandées"]
+    },
+    {
+      "id": "démolir",
+      "infinitif": "démolir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["démolis", "démolis", "démolit", "démolissons", "démolissez", "démolissent"],
+        "ind.imp": ["démolissais", "démolissais", "démolissait", "démolissions", "démolissiez", "démolissaient"],
+        "ind.ps": ["démolis", "démolis", "démolit", "démolîmes", "démolîtes", "démolirent"],
+        "ind.fut": ["démolirai", "démoliras", "démolira", "démolirons", "démolirez", "démoliront"],
+        "cond.pres": ["démolirais", "démolirais", "démolirait", "démolirions", "démoliriez", "démoliraient"],
+        "subj.pres": ["démolisse", "démolisses", "démolisse", "démolissions", "démolissiez", "démolissent"],
+        "subj.imp": ["démolisse", "démolisses", "démolît", "démolissions", "démolissiez", "démolissent"],
+        "imper.pres": ["démolis", "démolissons", "démolissez"]
+      },
+      "participe_present": "démolissant",
+      "participe_passe": ["démoli", "démolie", "démolis", "démolies"]
     }
   ]
 }
