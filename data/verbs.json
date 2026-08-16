@@ -28376,6 +28376,25 @@
       },
       "participe_present": "décapitant",
       "participe_passe": ["décapité", "décapitée", "décapités", "décapitées"]
+    },
+    {
+      "id": "patauger",
+      "infinitif": "patauger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « pataugé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["patauge", "patauges", "patauge", "pataugeons", "pataugez", "pataugent"],
+        "ind.imp": ["pataugeais", "pataugeais", "pataugeait", "pataugions", "pataugiez", "pataugeaient"],
+        "ind.ps": ["pataugeai", "pataugeas", "pataugea", "pataugeâmes", "pataugeâtes", "pataugèrent"],
+        "ind.fut": ["pataugerai", "pataugeras", "pataugera", "pataugerons", "pataugerez", "pataugeront"],
+        "cond.pres": ["pataugerais", "pataugerais", "pataugerait", "pataugerions", "pataugeriez", "pataugeraient"],
+        "subj.pres": ["patauge", "patauges", "patauge", "pataugions", "pataugiez", "pataugent"],
+        "subj.imp": ["pataugeasse", "pataugeasses", "pataugeât", "pataugeassions", "pataugeassiez", "pataugeassent"],
+        "imper.pres": ["patauge", "pataugeons", "pataugez"]
+      },
+      "participe_present": "pataugeant",
+      "participe_passe": ["pataugé", null, null, null]
     }
   ]
 }
