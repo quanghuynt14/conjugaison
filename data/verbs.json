@@ -21314,6 +21314,24 @@
       },
       "participe_present": "récoltant",
       "participe_passe": ["récolté", "récoltée", "récoltés", "récoltées"]
+    },
+    {
+      "id": "engendrer",
+      "infinitif": "engendrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["engendre", "engendres", "engendre", "engendrons", "engendrez", "engendrent"],
+        "ind.imp": ["engendrais", "engendrais", "engendrait", "engendrions", "engendriez", "engendraient"],
+        "ind.ps": ["engendrai", "engendras", "engendra", "engendrâmes", "engendrâtes", "engendrèrent"],
+        "ind.fut": ["engendrerai", "engendreras", "engendrera", "engendrerons", "engendrerez", "engendreront"],
+        "cond.pres": ["engendrerais", "engendrerais", "engendrerait", "engendrerions", "engendreriez", "engendreraient"],
+        "subj.pres": ["engendre", "engendres", "engendre", "engendrions", "engendriez", "engendrent"],
+        "subj.imp": ["engendrasse", "engendrasses", "engendrât", "engendrassions", "engendrassiez", "engendrassent"],
+        "imper.pres": ["engendre", "engendrons", "engendrez"]
+      },
+      "participe_present": "engendrant",
+      "participe_passe": ["engendré", "engendrée", "engendrés", "engendrées"]
     }
   ]
 }
