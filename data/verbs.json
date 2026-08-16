@@ -10902,6 +10902,24 @@
       },
       "participe_present": "réagissant",
       "participe_passe": ["réagi", null, null, null]
+    },
+    {
+      "id": "consacrer",
+      "infinitif": "consacrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["consacre", "consacres", "consacre", "consacrons", "consacrez", "consacrent"],
+        "ind.imp": ["consacrais", "consacrais", "consacrait", "consacrions", "consacriez", "consacraient"],
+        "ind.ps": ["consacrai", "consacras", "consacra", "consacrâmes", "consacrâtes", "consacrèrent"],
+        "ind.fut": ["consacrerai", "consacreras", "consacrera", "consacrerons", "consacrerez", "consacreront"],
+        "cond.pres": ["consacrerais", "consacrerais", "consacrerait", "consacrerions", "consacreriez", "consacreraient"],
+        "subj.pres": ["consacre", "consacres", "consacre", "consacrions", "consacriez", "consacrent"],
+        "subj.imp": ["consacrasse", "consacrasses", "consacrât", "consacrassions", "consacrassiez", "consacrassent"],
+        "imper.pres": ["consacre", "consacrons", "consacrez"]
+      },
+      "participe_present": "consacrant",
+      "participe_passe": ["consacré", "consacrée", "consacrés", "consacrées"]
     }
   ]
 }
