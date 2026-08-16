@@ -25807,6 +25807,25 @@
       },
       "participe_present": "édifiant",
       "participe_passe": ["édifié", "édifiée", "édifiés", "édifiées"]
+    },
+    {
+      "id": "grimacer",
+      "infinitif": "grimacer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « grimacé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["grimace", "grimaces", "grimace", "grimaçons", "grimacez", "grimacent"],
+        "ind.imp": ["grimaçais", "grimaçais", "grimaçait", "grimacions", "grimaciez", "grimaçaient"],
+        "ind.ps": ["grimaçai", "grimaças", "grimaça", "grimaçâmes", "grimaçâtes", "grimacèrent"],
+        "ind.fut": ["grimacerai", "grimaceras", "grimacera", "grimacerons", "grimacerez", "grimaceront"],
+        "cond.pres": ["grimacerais", "grimacerais", "grimacerait", "grimacerions", "grimaceriez", "grimaceraient"],
+        "subj.pres": ["grimace", "grimaces", "grimace", "grimacions", "grimaciez", "grimacent"],
+        "subj.imp": ["grimaçasse", "grimaçasses", "grimaçât", "grimaçassions", "grimaçassiez", "grimaçassent"],
+        "imper.pres": ["grimace", "grimaçons", "grimacez"]
+      },
+      "participe_present": "grimaçant",
+      "participe_passe": ["grimacé", null, null, null]
     }
   ]
 }
