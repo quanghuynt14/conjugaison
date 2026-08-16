@@ -29418,6 +29418,24 @@
       },
       "participe_present": "rappliquant",
       "participe_passe": ["rappliqué", null, null, null]
+    },
+    {
+      "id": "injecter",
+      "infinitif": "injecter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["injecte", "injectes", "injecte", "injectons", "injectez", "injectent"],
+        "ind.imp": ["injectais", "injectais", "injectait", "injections", "injectiez", "injectaient"],
+        "ind.ps": ["injectai", "injectas", "injecta", "injectâmes", "injectâtes", "injectèrent"],
+        "ind.fut": ["injecterai", "injecteras", "injectera", "injecterons", "injecterez", "injecteront"],
+        "cond.pres": ["injecterais", "injecterais", "injecterait", "injecterions", "injecteriez", "injecteraient"],
+        "subj.pres": ["injecte", "injectes", "injecte", "injections", "injectiez", "injectent"],
+        "subj.imp": ["injectasse", "injectasses", "injectât", "injectassions", "injectassiez", "injectassent"],
+        "imper.pres": ["injecte", "injectons", "injectez"]
+      },
+      "participe_present": "injectant",
+      "participe_passe": ["injecté", "injectée", "injectés", "injectées"]
     }
   ]
 }
