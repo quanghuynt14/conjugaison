@@ -16531,6 +16531,24 @@
       },
       "participe_present": "revêtant",
       "participe_passe": ["revêtu", "revêtue", "revêtus", "revêtues"]
+    },
+    {
+      "id": "cerner",
+      "infinitif": "cerner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cerne", "cernes", "cerne", "cernons", "cernez", "cernent"],
+        "ind.imp": ["cernais", "cernais", "cernait", "cernions", "cerniez", "cernaient"],
+        "ind.ps": ["cernai", "cernas", "cerna", "cernâmes", "cernâtes", "cernèrent"],
+        "ind.fut": ["cernerai", "cerneras", "cernera", "cernerons", "cernerez", "cerneront"],
+        "cond.pres": ["cernerais", "cernerais", "cernerait", "cernerions", "cerneriez", "cerneraient"],
+        "subj.pres": ["cerne", "cernes", "cerne", "cernions", "cerniez", "cernent"],
+        "subj.imp": ["cernasse", "cernasses", "cernât", "cernassions", "cernassiez", "cernassent"],
+        "imper.pres": ["cerne", "cernons", "cernez"]
+      },
+      "participe_present": "cernant",
+      "participe_passe": ["cerné", "cernée", "cernés", "cernées"]
     }
   ]
 }
