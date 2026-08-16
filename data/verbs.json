@@ -3076,6 +3076,24 @@
       },
       "participe_present": "réussissant",
       "participe_passe": ["réussi", "réussie", "réussis", "réussies"]
+    },
+    {
+      "id": "casser",
+      "infinitif": "casser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["casse", "casses", "casse", "cassons", "cassez", "cassent"],
+        "ind.imp": ["cassais", "cassais", "cassait", "cassions", "cassiez", "cassaient"],
+        "ind.ps": ["cassai", "cassas", "cassa", "cassâmes", "cassâtes", "cassèrent"],
+        "ind.fut": ["casserai", "casseras", "cassera", "casserons", "casserez", "casseront"],
+        "cond.pres": ["casserais", "casserais", "casserait", "casserions", "casseriez", "casseraient"],
+        "subj.pres": ["casse", "casses", "casse", "cassions", "cassiez", "cassent"],
+        "subj.imp": ["cassasse", "cassasses", "cassât", "cassassions", "cassassiez", "cassassent"],
+        "imper.pres": ["casse", "cassons", "cassez"]
+      },
+      "participe_present": "cassant",
+      "participe_passe": ["cassé", "cassée", "cassés", "cassées"]
     }
   ]
 }
