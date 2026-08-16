@@ -29436,6 +29436,24 @@
       },
       "participe_present": "injectant",
       "participe_passe": ["injecté", "injectée", "injectés", "injectées"]
+    },
+    {
+      "id": "embaumer",
+      "infinitif": "embaumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["embaume", "embaumes", "embaume", "embaumons", "embaumez", "embaument"],
+        "ind.imp": ["embaumais", "embaumais", "embaumait", "embaumions", "embaumiez", "embaumaient"],
+        "ind.ps": ["embaumai", "embaumas", "embauma", "embaumâmes", "embaumâtes", "embaumèrent"],
+        "ind.fut": ["embaumerai", "embaumeras", "embaumera", "embaumerons", "embaumerez", "embaumeront"],
+        "cond.pres": ["embaumerais", "embaumerais", "embaumerait", "embaumerions", "embaumeriez", "embaumeraient"],
+        "subj.pres": ["embaume", "embaumes", "embaume", "embaumions", "embaumiez", "embaument"],
+        "subj.imp": ["embaumasse", "embaumasses", "embaumât", "embaumassions", "embaumassiez", "embaumassent"],
+        "imper.pres": ["embaume", "embaumons", "embaumez"]
+      },
+      "participe_present": "embaumant",
+      "participe_passe": ["embaumé", "embaumée", "embaumés", "embaumées"]
     }
   ]
 }
