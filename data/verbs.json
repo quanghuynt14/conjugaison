@@ -9266,6 +9266,24 @@
       },
       "participe_present": "inspirant",
       "participe_passe": ["inspiré", "inspirée", "inspirés", "inspirées"]
+    },
+    {
+      "id": "vêtir",
+      "infinitif": "vêtir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vêts", "vêts", "vêt", "vêtons", "vêtez", "vêtent"],
+        "ind.imp": ["vêtais", "vêtais", "vêtait", "vêtions", "vêtiez", "vêtaient"],
+        "ind.ps": ["vêtis", "vêtis", "vêtit", "vêtîmes", "vêtîtes", "vêtirent"],
+        "ind.fut": ["vêtirai", "vêtiras", "vêtira", "vêtirons", "vêtirez", "vêtiront"],
+        "cond.pres": ["vêtirais", "vêtirais", "vêtirait", "vêtirions", "vêtiriez", "vêtiraient"],
+        "subj.pres": ["vête", "vêtes", "vête", "vêtions", "vêtiez", "vêtent"],
+        "subj.imp": ["vêtisse", "vêtisses", "vêtît", "vêtissions", "vêtissiez", "vêtissent"],
+        "imper.pres": ["vêts", "vêtons", "vêtez"]
+      },
+      "participe_present": "vêtant",
+      "participe_passe": ["vêtu", "vêtue", "vêtus", "vêtues"]
     }
   ]
 }
