@@ -18114,6 +18114,24 @@
       },
       "participe_present": "contrariant",
       "participe_passe": ["contrarié", "contrariée", "contrariés", "contrariées"]
+    },
+    {
+      "id": "peupler",
+      "infinitif": "peupler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["peuple", "peuples", "peuple", "peuplons", "peuplez", "peuplent"],
+        "ind.imp": ["peuplais", "peuplais", "peuplait", "peuplions", "peupliez", "peuplaient"],
+        "ind.ps": ["peuplai", "peuplas", "peupla", "peuplâmes", "peuplâtes", "peuplèrent"],
+        "ind.fut": ["peuplerai", "peupleras", "peuplera", "peuplerons", "peuplerez", "peupleront"],
+        "cond.pres": ["peuplerais", "peuplerais", "peuplerait", "peuplerions", "peupleriez", "peupleraient"],
+        "subj.pres": ["peuple", "peuples", "peuple", "peuplions", "peupliez", "peuplent"],
+        "subj.imp": ["peuplasse", "peuplasses", "peuplât", "peuplassions", "peuplassiez", "peuplassent"],
+        "imper.pres": ["peuple", "peuplons", "peuplez"]
+      },
+      "participe_present": "peuplant",
+      "participe_passe": ["peuplé", "peuplée", "peuplés", "peuplées"]
     }
   ]
 }
