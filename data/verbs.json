@@ -23798,6 +23798,25 @@
       },
       "participe_present": "tabassant",
       "participe_passe": ["tabassé", "tabassée", "tabassés", "tabassées"]
+    },
+    {
+      "id": "mouvoir",
+      "infinitif": "mouvoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux graphies du participe passé masculin singulier : « mû », traditionnelle, et « mu », rectifiée en 1990. Le féminin n'a jamais eu d'accent : « mue ».",
+      "tenses": {
+        "ind.pres": ["meus", "meus", "meut", "mouvons", "mouvez", "meuvent"],
+        "ind.imp": ["mouvais", "mouvais", "mouvait", "mouvions", "mouviez", "mouvaient"],
+        "ind.ps": ["mus", "mus", "mut", "mûmes", "mûtes", "murent"],
+        "ind.fut": ["mouvrai", "mouvras", "mouvra", "mouvrons", "mouvrez", "mouvront"],
+        "cond.pres": ["mouvrais", "mouvrais", "mouvrait", "mouvrions", "mouvriez", "mouvraient"],
+        "subj.pres": ["meuve", "meuves", "meuve", "mouvions", "mouviez", "meuvent"],
+        "subj.imp": ["musse", "musses", "mût", "mussions", "mussiez", "mussent"],
+        "imper.pres": ["meus", "mouvons", "mouvez"]
+      },
+      "participe_present": "mouvant",
+      "participe_passe": [["mû", "mu"], "mue", "mus", "mues"]
     }
   ]
 }
