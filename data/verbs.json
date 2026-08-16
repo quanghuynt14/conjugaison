@@ -12008,6 +12008,25 @@
       },
       "participe_present": "traduisant",
       "participe_passe": ["traduit", "traduite", "traduits", "traduites"]
+    },
+    {
+      "id": "balayer",
+      "infinitif": "balayer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « je balaie » ou « je balaye ».",
+      "tenses": {
+        "ind.pres": [["balaie", "balaye"], ["balaies", "balayes"], ["balaie", "balaye"], "balayons", "balayez", ["balaient", "balayent"]],
+        "ind.imp": ["balayais", "balayais", "balayait", "balayions", "balayiez", "balayaient"],
+        "ind.ps": ["balayai", "balayas", "balaya", "balayâmes", "balayâtes", "balayèrent"],
+        "ind.fut": [["balaierai", "balayerai"], ["balaieras", "balayeras"], ["balaiera", "balayera"], ["balaierons", "balayerons"], ["balaierez", "balayerez"], ["balaieront", "balayeront"]],
+        "cond.pres": [["balaierais", "balayerais"], ["balaierais", "balayerais"], ["balaierait", "balayerait"], ["balaierions", "balayerions"], ["balaieriez", "balayeriez"], ["balaieraient", "balayeraient"]],
+        "subj.pres": [["balaie", "balaye"], ["balaies", "balayes"], ["balaie", "balaye"], "balayions", "balayiez", ["balaient", "balayent"]],
+        "subj.imp": ["balayasse", "balayasses", "balayât", "balayassions", "balayassiez", "balayassent"],
+        "imper.pres": [["balaie", "balaye"], "balayons", "balayez"]
+      },
+      "participe_present": "balayant",
+      "participe_passe": ["balayé", "balayée", "balayés", "balayées"]
     }
   ]
 }
