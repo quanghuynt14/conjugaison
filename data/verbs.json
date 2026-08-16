@@ -22633,6 +22633,25 @@
       },
       "participe_present": "exhibant",
       "participe_passe": ["exhibé", "exhibée", "exhibés", "exhibées"]
+    },
+    {
+      "id": "conférer",
+      "infinitif": "conférer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je conférerai » ou « je confèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["confère", "confères", "confère", "conférons", "conférez", "confèrent"],
+        "ind.imp": ["conférais", "conférais", "conférait", "conférions", "confériez", "conféraient"],
+        "ind.ps": ["conférai", "conféras", "conféra", "conférâmes", "conférâtes", "conférèrent"],
+        "ind.fut": [["conférerai", "confèrerai"], ["conféreras", "confèreras"], ["conférera", "confèrera"], ["conférerons", "confèrerons"], ["conférerez", "confèrerez"], ["conféreront", "confèreront"]],
+        "cond.pres": [["conférerais", "confèrerais"], ["conférerais", "confèrerais"], ["conférerait", "confèrerait"], ["conférerions", "confèrerions"], ["conféreriez", "confèreriez"], ["conféreraient", "confèreraient"]],
+        "subj.pres": ["confère", "confères", "confère", "conférions", "confériez", "confèrent"],
+        "subj.imp": ["conférasse", "conférasses", "conférât", "conférassions", "conférassiez", "conférassent"],
+        "imper.pres": ["confère", "conférons", "conférez"]
+      },
+      "participe_present": "conférant",
+      "participe_passe": ["conféré", "conférée", "conférés", "conférées"]
     }
   ]
 }
