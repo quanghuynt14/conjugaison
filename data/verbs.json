@@ -33285,6 +33285,24 @@
       },
       "participe_present": "trottinant",
       "participe_passe": ["trottiné", null, null, null]
+    },
+    {
+      "id": "parsemer",
+      "infinitif": "parsemer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["parsème", "parsèmes", "parsème", "parsemons", "parsemez", "parsèment"],
+        "ind.imp": ["parsemais", "parsemais", "parsemait", "parsemions", "parsemiez", "parsemaient"],
+        "ind.ps": ["parsemai", "parsemas", "parsema", "parsemâmes", "parsemâtes", "parsemèrent"],
+        "ind.fut": ["parsèmerai", "parsèmeras", "parsèmera", "parsèmerons", "parsèmerez", "parsèmeront"],
+        "cond.pres": ["parsèmerais", "parsèmerais", "parsèmerait", "parsèmerions", "parsèmeriez", "parsèmeraient"],
+        "subj.pres": ["parsème", "parsèmes", "parsème", "parsemions", "parsemiez", "parsèment"],
+        "subj.imp": ["parsemasse", "parsemasses", "parsemât", "parsemassions", "parsemassiez", "parsemassent"],
+        "imper.pres": ["parsème", "parsemons", "parsemez"]
+      },
+      "participe_present": "parsemant",
+      "participe_passe": ["parsemé", "parsemée", "parsemés", "parsemées"]
     }
   ]
 }
