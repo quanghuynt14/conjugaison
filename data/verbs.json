@@ -35641,6 +35641,24 @@
       },
       "participe_present": "tarant",
       "participe_passe": ["taré", "tarée", "tarés", "tarées"]
+    },
+    {
+      "id": "amortir",
+      "infinitif": "amortir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["amortis", "amortis", "amortit", "amortissons", "amortissez", "amortissent"],
+        "ind.imp": ["amortissais", "amortissais", "amortissait", "amortissions", "amortissiez", "amortissaient"],
+        "ind.ps": ["amortis", "amortis", "amortit", "amortîmes", "amortîtes", "amortirent"],
+        "ind.fut": ["amortirai", "amortiras", "amortira", "amortirons", "amortirez", "amortiront"],
+        "cond.pres": ["amortirais", "amortirais", "amortirait", "amortirions", "amortiriez", "amortiraient"],
+        "subj.pres": ["amortisse", "amortisses", "amortisse", "amortissions", "amortissiez", "amortissent"],
+        "subj.imp": ["amortisse", "amortisses", "amortît", "amortissions", "amortissiez", "amortissent"],
+        "imper.pres": ["amortis", "amortissons", "amortissez"]
+      },
+      "participe_present": "amortissant",
+      "participe_passe": ["amorti", "amortie", "amortis", "amorties"]
     }
   ]
 }
