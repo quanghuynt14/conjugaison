@@ -22981,6 +22981,24 @@
       },
       "participe_present": "blâmant",
       "participe_passe": ["blâmé", "blâmée", "blâmés", "blâmées"]
+    },
+    {
+      "id": "orienter",
+      "infinitif": "orienter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["oriente", "orientes", "oriente", "orientons", "orientez", "orientent"],
+        "ind.imp": ["orientais", "orientais", "orientait", "orientions", "orientiez", "orientaient"],
+        "ind.ps": ["orientai", "orientas", "orienta", "orientâmes", "orientâtes", "orientèrent"],
+        "ind.fut": ["orienterai", "orienteras", "orientera", "orienterons", "orienterez", "orienteront"],
+        "cond.pres": ["orienterais", "orienterais", "orienterait", "orienterions", "orienteriez", "orienteraient"],
+        "subj.pres": ["oriente", "orientes", "oriente", "orientions", "orientiez", "orientent"],
+        "subj.imp": ["orientasse", "orientasses", "orientât", "orientassions", "orientassiez", "orientassent"],
+        "imper.pres": ["oriente", "orientons", "orientez"]
+      },
+      "participe_present": "orientant",
+      "participe_passe": ["orienté", "orientée", "orientés", "orientées"]
     }
   ]
 }
