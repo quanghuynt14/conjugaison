@@ -3220,6 +3220,24 @@
       },
       "participe_present": "terminant",
       "participe_passe": ["terminé", "terminée", "terminés", "terminées"]
+    },
+    {
+      "id": "habiter",
+      "infinitif": "habiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["habite", "habites", "habite", "habitons", "habitez", "habitent"],
+        "ind.imp": ["habitais", "habitais", "habitait", "habitions", "habitiez", "habitaient"],
+        "ind.ps": ["habitai", "habitas", "habita", "habitâmes", "habitâtes", "habitèrent"],
+        "ind.fut": ["habiterai", "habiteras", "habitera", "habiterons", "habiterez", "habiteront"],
+        "cond.pres": ["habiterais", "habiterais", "habiterait", "habiterions", "habiteriez", "habiteraient"],
+        "subj.pres": ["habite", "habites", "habite", "habitions", "habitiez", "habitent"],
+        "subj.imp": ["habitasse", "habitasses", "habitât", "habitassions", "habitassiez", "habitassent"],
+        "imper.pres": ["habite", "habitons", "habitez"]
+      },
+      "participe_present": "habitant",
+      "participe_passe": ["habité", "habitée", "habités", "habitées"]
     }
   ]
 }
