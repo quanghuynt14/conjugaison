@@ -21819,6 +21819,24 @@
       },
       "participe_present": "mâchant",
       "participe_passe": ["mâché", "mâchée", "mâchés", "mâchées"]
+    },
+    {
+      "id": "piloter",
+      "infinitif": "piloter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pilote", "pilotes", "pilote", "pilotons", "pilotez", "pilotent"],
+        "ind.imp": ["pilotais", "pilotais", "pilotait", "pilotions", "pilotiez", "pilotaient"],
+        "ind.ps": ["pilotai", "pilotas", "pilota", "pilotâmes", "pilotâtes", "pilotèrent"],
+        "ind.fut": ["piloterai", "piloteras", "pilotera", "piloterons", "piloterez", "piloteront"],
+        "cond.pres": ["piloterais", "piloterais", "piloterait", "piloterions", "piloteriez", "piloteraient"],
+        "subj.pres": ["pilote", "pilotes", "pilote", "pilotions", "pilotiez", "pilotent"],
+        "subj.imp": ["pilotasse", "pilotasses", "pilotât", "pilotassions", "pilotassiez", "pilotassent"],
+        "imper.pres": ["pilote", "pilotons", "pilotez"]
+      },
+      "participe_present": "pilotant",
+      "participe_passe": ["piloté", "pilotée", "pilotés", "pilotées"]
     }
   ]
 }
