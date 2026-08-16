@@ -22379,6 +22379,24 @@
       },
       "participe_present": "gouvernant",
       "participe_passe": ["gouverné", "gouvernée", "gouvernés", "gouvernées"]
+    },
+    {
+      "id": "agresser",
+      "infinitif": "agresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["agresse", "agresses", "agresse", "agressons", "agressez", "agressent"],
+        "ind.imp": ["agressais", "agressais", "agressait", "agressions", "agressiez", "agressaient"],
+        "ind.ps": ["agressai", "agressas", "agressa", "agressâmes", "agressâtes", "agressèrent"],
+        "ind.fut": ["agresserai", "agresseras", "agressera", "agresserons", "agresserez", "agresseront"],
+        "cond.pres": ["agresserais", "agresserais", "agresserait", "agresserions", "agresseriez", "agresseraient"],
+        "subj.pres": ["agresse", "agresses", "agresse", "agressions", "agressiez", "agressent"],
+        "subj.imp": ["agressasse", "agressasses", "agressât", "agressassions", "agressassiez", "agressassent"],
+        "imper.pres": ["agresse", "agressons", "agressez"]
+      },
+      "participe_present": "agressant",
+      "participe_passe": ["agressé", "agressée", "agressés", "agressées"]
     }
   ]
 }
