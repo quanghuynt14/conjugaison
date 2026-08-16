@@ -4124,6 +4124,24 @@
       },
       "participe_present": "baissant",
       "participe_passe": ["baissé", "baissée", "baissés", "baissées"]
+    },
+    {
+      "id": "retirer",
+      "infinitif": "retirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["retire", "retires", "retire", "retirons", "retirez", "retirent"],
+        "ind.imp": ["retirais", "retirais", "retirait", "retirions", "retiriez", "retiraient"],
+        "ind.ps": ["retirai", "retiras", "retira", "retirâmes", "retirâtes", "retirèrent"],
+        "ind.fut": ["retirerai", "retireras", "retirera", "retirerons", "retirerez", "retireront"],
+        "cond.pres": ["retirerais", "retirerais", "retirerait", "retirerions", "retireriez", "retireraient"],
+        "subj.pres": ["retire", "retires", "retire", "retirions", "retiriez", "retirent"],
+        "subj.imp": ["retirasse", "retirasses", "retirât", "retirassions", "retirassiez", "retirassent"],
+        "imper.pres": ["retire", "retirons", "retirez"]
+      },
+      "participe_present": "retirant",
+      "participe_passe": ["retiré", "retirée", "retirés", "retirées"]
     }
   ]
 }
