@@ -30074,6 +30074,25 @@
       },
       "participe_present": "confisquant",
       "participe_passe": ["confisqué", "confisquée", "confisqués", "confisquées"]
+    },
+    {
+      "id": "ouïr",
+      "infinitif": "ouïr",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Verbe archaïque, gardé par « j'ai ouï dire » et par « oyez ». Le futur en donne trois : « j'oirai », « j'ouïrai » ou « j'orrai ».",
+      "tenses": {
+        "ind.pres": ["ois", "ois", "oit", "oyons", "oyez", "oient"],
+        "ind.imp": ["oyais", "oyais", "oyait", "oyions", "oyiez", "oyaient"],
+        "ind.ps": ["ouïs", "ouïs", "ouït", "ouïmes", "ouïtes", "ouïrent"],
+        "ind.fut": [["oirai", "ouïrai", "orrai"], ["oiras", "ouïras", "orras"], ["oira", "ouïra", "orra"], ["oirons", "ouïrons", "orrons"], ["oirez", "ouïrez", "orrez"], ["oiront", "ouïront", "orront"]],
+        "cond.pres": [["oirais", "ouïrais", "orrais"], ["oirais", "ouïrais", "orrais"], ["oirait", "ouïrait", "orrait"], ["oirions", "ouïrions", "orrions"], ["oiriez", "ouïriez", "orriez"], ["oiraient", "ouïraient", "orraient"]],
+        "subj.pres": ["oie", "oies", "oie", "oyions", "oyiez", "oient"],
+        "subj.imp": ["ouïsse", "ouïsses", "ouït", "ouïssions", "ouïssiez", "ouïssent"],
+        "imper.pres": ["ois", "oyons", "oyez"]
+      },
+      "participe_present": "oyant",
+      "participe_passe": ["ouï", "ouïe", "ouïs", "ouïes"]
     }
   ]
 }
