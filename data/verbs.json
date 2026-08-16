@@ -21440,6 +21440,24 @@
       },
       "participe_present": "dorant",
       "participe_passe": ["doré", "dorée", "dorés", "dorées"]
+    },
+    {
+      "id": "instruire",
+      "infinitif": "instruire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["instruis", "instruis", "instruit", "instruisons", "instruisez", "instruisent"],
+        "ind.imp": ["instruisais", "instruisais", "instruisait", "instruisions", "instruisiez", "instruisaient"],
+        "ind.ps": ["instruisis", "instruisis", "instruisit", "instruisîmes", "instruisîtes", "instruisirent"],
+        "ind.fut": ["instruirai", "instruiras", "instruira", "instruirons", "instruirez", "instruiront"],
+        "cond.pres": ["instruirais", "instruirais", "instruirait", "instruirions", "instruiriez", "instruiraient"],
+        "subj.pres": ["instruise", "instruises", "instruise", "instruisions", "instruisiez", "instruisent"],
+        "subj.imp": ["instruisisse", "instruisisses", "instruisît", "instruisissions", "instruisissiez", "instruisissent"],
+        "imper.pres": ["instruis", "instruisons", "instruisez"]
+      },
+      "participe_present": "instruisant",
+      "participe_passe": ["instruit", "instruite", "instruits", "instruites"]
     }
   ]
 }
