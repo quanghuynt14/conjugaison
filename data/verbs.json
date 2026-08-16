@@ -7223,6 +7223,24 @@
       },
       "participe_present": "vidant",
       "participe_passe": ["vidé", "vidée", "vidés", "vidées"]
+    },
+    {
+      "id": "étudier",
+      "infinitif": "étudier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["étudie", "étudies", "étudie", "étudions", "étudiez", "étudient"],
+        "ind.imp": ["étudiais", "étudiais", "étudiait", "étudiions", "étudiiez", "étudiaient"],
+        "ind.ps": ["étudiai", "étudias", "étudia", "étudiâmes", "étudiâtes", "étudièrent"],
+        "ind.fut": ["étudierai", "étudieras", "étudiera", "étudierons", "étudierez", "étudieront"],
+        "cond.pres": ["étudierais", "étudierais", "étudierait", "étudierions", "étudieriez", "étudieraient"],
+        "subj.pres": ["étudie", "étudies", "étudie", "étudiions", "étudiiez", "étudient"],
+        "subj.imp": ["étudiasse", "étudiasses", "étudiât", "étudiassions", "étudiassiez", "étudiassent"],
+        "imper.pres": ["étudie", "étudions", "étudiez"]
+      },
+      "participe_present": "étudiant",
+      "participe_passe": ["étudié", "étudiée", "étudiés", "étudiées"]
     }
   ]
 }
