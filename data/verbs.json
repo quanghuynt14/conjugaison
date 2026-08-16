@@ -21692,6 +21692,24 @@
       },
       "participe_present": "trébuchant",
       "participe_passe": ["trébuché", "trébuchée", "trébuchés", "trébuchées"]
+    },
+    {
+      "id": "expulser",
+      "infinitif": "expulser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["expulse", "expulses", "expulse", "expulsons", "expulsez", "expulsent"],
+        "ind.imp": ["expulsais", "expulsais", "expulsait", "expulsions", "expulsiez", "expulsaient"],
+        "ind.ps": ["expulsai", "expulsas", "expulsa", "expulsâmes", "expulsâtes", "expulsèrent"],
+        "ind.fut": ["expulserai", "expulseras", "expulsera", "expulserons", "expulserez", "expulseront"],
+        "cond.pres": ["expulserais", "expulserais", "expulserait", "expulserions", "expulseriez", "expulseraient"],
+        "subj.pres": ["expulse", "expulses", "expulse", "expulsions", "expulsiez", "expulsent"],
+        "subj.imp": ["expulsasse", "expulsasses", "expulsât", "expulsassions", "expulsassiez", "expulsassent"],
+        "imper.pres": ["expulse", "expulsons", "expulsez"]
+      },
+      "participe_present": "expulsant",
+      "participe_passe": ["expulsé", "expulsée", "expulsés", "expulsées"]
     }
   ]
 }
