@@ -819,6 +819,25 @@
       },
       "participe_present": "devenant",
       "participe_passe": ["devenu", "devenue", "devenus", "devenues"]
+    },
+    {
+      "id": "essayer",
+      "infinitif": "essayer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « j’essaie » ou « j’essaye ».",
+      "tenses": {
+        "ind.pres": [["essaie", "essaye"], ["essaies", "essayes"], ["essaie", "essaye"], "essayons", "essayez", ["essaient", "essayent"]],
+        "ind.imp": ["essayais", "essayais", "essayait", "essayions", "essayiez", "essayaient"],
+        "ind.ps": ["essayai", "essayas", "essaya", "essayâmes", "essayâtes", "essayèrent"],
+        "ind.fut": [["essaierai", "essayerai"], ["essaieras", "essayeras"], ["essaiera", "essayera"], ["essaierons", "essayerons"], ["essaierez", "essayerez"], ["essaieront", "essayeront"]],
+        "cond.pres": [["essaierais", "essayerais"], ["essaierais", "essayerais"], ["essaierait", "essayerait"], ["essaierions", "essayerions"], ["essaieriez", "essayeriez"], ["essaieraient", "essayeraient"]],
+        "subj.pres": [["essaie", "essaye"], ["essaies", "essayes"], ["essaie", "essaye"], "essayions", "essayiez", ["essaient", "essayent"]],
+        "subj.imp": ["essayasse", "essayasses", "essayât", "essayassions", "essayassiez", "essayassent"],
+        "imper.pres": [["essaie", "essaye"], "essayons", "essayez"]
+      },
+      "participe_present": "essayant",
+      "participe_passe": ["essayé", "essayée", "essayés", "essayées"]
     }
   ]
 }
