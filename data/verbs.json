@@ -28542,6 +28542,24 @@
       },
       "participe_present": "pivotant",
       "participe_passe": ["pivoté", null, null, null]
+    },
+    {
+      "id": "sillonner",
+      "infinitif": "sillonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sillonne", "sillonnes", "sillonne", "sillonnons", "sillonnez", "sillonnent"],
+        "ind.imp": ["sillonnais", "sillonnais", "sillonnait", "sillonnions", "sillonniez", "sillonnaient"],
+        "ind.ps": ["sillonnai", "sillonnas", "sillonna", "sillonnâmes", "sillonnâtes", "sillonnèrent"],
+        "ind.fut": ["sillonnerai", "sillonneras", "sillonnera", "sillonnerons", "sillonnerez", "sillonneront"],
+        "cond.pres": ["sillonnerais", "sillonnerais", "sillonnerait", "sillonnerions", "sillonneriez", "sillonneraient"],
+        "subj.pres": ["sillonne", "sillonnes", "sillonne", "sillonnions", "sillonniez", "sillonnent"],
+        "subj.imp": ["sillonnasse", "sillonnasses", "sillonnât", "sillonnassions", "sillonnassiez", "sillonnassent"],
+        "imper.pres": ["sillonne", "sillonnons", "sillonnez"]
+      },
+      "participe_present": "sillonnant",
+      "participe_passe": ["sillonné", "sillonnée", "sillonnés", "sillonnées"]
     }
   ]
 }
