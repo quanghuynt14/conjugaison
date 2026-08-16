@@ -29124,6 +29124,24 @@
       },
       "participe_present": "métamorphosant",
       "participe_passe": ["métamorphosé", "métamorphosée", "métamorphosés", "métamorphosées"]
+    },
+    {
+      "id": "bricoler",
+      "infinitif": "bricoler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["bricole", "bricoles", "bricole", "bricolons", "bricolez", "bricolent"],
+        "ind.imp": ["bricolais", "bricolais", "bricolait", "bricolions", "bricoliez", "bricolaient"],
+        "ind.ps": ["bricolai", "bricolas", "bricola", "bricolâmes", "bricolâtes", "bricolèrent"],
+        "ind.fut": ["bricolerai", "bricoleras", "bricolera", "bricolerons", "bricolerez", "bricoleront"],
+        "cond.pres": ["bricolerais", "bricolerais", "bricolerait", "bricolerions", "bricoleriez", "bricoleraient"],
+        "subj.pres": ["bricole", "bricoles", "bricole", "bricolions", "bricoliez", "bricolent"],
+        "subj.imp": ["bricolasse", "bricolasses", "bricolât", "bricolassions", "bricolassiez", "bricolassent"],
+        "imper.pres": ["bricole", "bricolons", "bricolez"]
+      },
+      "participe_present": "bricolant",
+      "participe_passe": ["bricolé", "bricolée", "bricolés", "bricolées"]
     }
   ]
 }
