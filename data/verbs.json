@@ -34012,6 +34012,24 @@
       },
       "participe_present": "désapprouvant",
       "participe_passe": ["désapprouvé", "désapprouvée", "désapprouvés", "désapprouvées"]
+    },
+    {
+      "id": "ancrer",
+      "infinitif": "ancrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ancre", "ancres", "ancre", "ancrons", "ancrez", "ancrent"],
+        "ind.imp": ["ancrais", "ancrais", "ancrait", "ancrions", "ancriez", "ancraient"],
+        "ind.ps": ["ancrai", "ancras", "ancra", "ancrâmes", "ancrâtes", "ancrèrent"],
+        "ind.fut": ["ancrerai", "ancreras", "ancrera", "ancrerons", "ancrerez", "ancreront"],
+        "cond.pres": ["ancrerais", "ancrerais", "ancrerait", "ancrerions", "ancreriez", "ancreraient"],
+        "subj.pres": ["ancre", "ancres", "ancre", "ancrions", "ancriez", "ancrent"],
+        "subj.imp": ["ancrasse", "ancrasses", "ancrât", "ancrassions", "ancrassiez", "ancrassent"],
+        "imper.pres": ["ancre", "ancrons", "ancrez"]
+      },
+      "participe_present": "ancrant",
+      "participe_passe": ["ancré", "ancrée", "ancrés", "ancrées"]
     }
   ]
 }
