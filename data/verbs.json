@@ -29857,6 +29857,24 @@
       },
       "participe_present": "labourant",
       "participe_passe": ["labouré", "labourée", "labourés", "labourées"]
+    },
+    {
+      "id": "pourchasser",
+      "infinitif": "pourchasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["pourchasse", "pourchasses", "pourchasse", "pourchassons", "pourchassez", "pourchassent"],
+        "ind.imp": ["pourchassais", "pourchassais", "pourchassait", "pourchassions", "pourchassiez", "pourchassaient"],
+        "ind.ps": ["pourchassai", "pourchassas", "pourchassa", "pourchassâmes", "pourchassâtes", "pourchassèrent"],
+        "ind.fut": ["pourchasserai", "pourchasseras", "pourchassera", "pourchasserons", "pourchasserez", "pourchasseront"],
+        "cond.pres": ["pourchasserais", "pourchasserais", "pourchasserait", "pourchasserions", "pourchasseriez", "pourchasseraient"],
+        "subj.pres": ["pourchasse", "pourchasses", "pourchasse", "pourchassions", "pourchassiez", "pourchassent"],
+        "subj.imp": ["pourchassasse", "pourchassasses", "pourchassât", "pourchassassions", "pourchassassiez", "pourchassassent"],
+        "imper.pres": ["pourchasse", "pourchassons", "pourchassez"]
+      },
+      "participe_present": "pourchassant",
+      "participe_passe": ["pourchassé", "pourchassée", "pourchassés", "pourchassées"]
     }
   ]
 }
