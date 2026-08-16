@@ -26353,6 +26353,24 @@
       },
       "participe_present": "propageant",
       "participe_passe": ["propagé", "propagée", "propagés", "propagées"]
+    },
+    {
+      "id": "terroriser",
+      "infinitif": "terroriser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["terrorise", "terrorises", "terrorise", "terrorisons", "terrorisez", "terrorisent"],
+        "ind.imp": ["terrorisais", "terrorisais", "terrorisait", "terrorisions", "terrorisiez", "terrorisaient"],
+        "ind.ps": ["terrorisai", "terrorisas", "terrorisa", "terrorisâmes", "terrorisâtes", "terrorisèrent"],
+        "ind.fut": ["terroriserai", "terroriseras", "terrorisera", "terroriserons", "terroriserez", "terroriseront"],
+        "cond.pres": ["terroriserais", "terroriserais", "terroriserait", "terroriserions", "terroriseriez", "terroriseraient"],
+        "subj.pres": ["terrorise", "terrorises", "terrorise", "terrorisions", "terrorisiez", "terrorisent"],
+        "subj.imp": ["terrorisasse", "terrorisasses", "terrorisât", "terrorisassions", "terrorisassiez", "terrorisassent"],
+        "imper.pres": ["terrorise", "terrorisons", "terrorisez"]
+      },
+      "participe_present": "terrorisant",
+      "participe_passe": ["terrorisé", "terrorisée", "terrorisés", "terrorisées"]
     }
   ]
 }
