@@ -15096,6 +15096,24 @@
       },
       "participe_present": "ornant",
       "participe_passe": ["orné", "ornée", "ornés", "ornées"]
+    },
+    {
+      "id": "abriter",
+      "infinitif": "abriter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["abrite", "abrites", "abrite", "abritons", "abritez", "abritent"],
+        "ind.imp": ["abritais", "abritais", "abritait", "abritions", "abritiez", "abritaient"],
+        "ind.ps": ["abritai", "abritas", "abrita", "abritâmes", "abritâtes", "abritèrent"],
+        "ind.fut": ["abriterai", "abriteras", "abritera", "abriterons", "abriterez", "abriteront"],
+        "cond.pres": ["abriterais", "abriterais", "abriterait", "abriterions", "abriteriez", "abriteraient"],
+        "subj.pres": ["abrite", "abrites", "abrite", "abritions", "abritiez", "abritent"],
+        "subj.imp": ["abritasse", "abritasses", "abritât", "abritassions", "abritassiez", "abritassent"],
+        "imper.pres": ["abrite", "abritons", "abritez"]
+      },
+      "participe_present": "abritant",
+      "participe_passe": ["abrité", "abritée", "abrités", "abritées"]
     }
   ]
 }
