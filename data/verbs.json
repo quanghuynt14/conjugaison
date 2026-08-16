@@ -28030,6 +28030,24 @@
       },
       "participe_present": "bafouillant",
       "participe_passe": ["bafouillé", "bafouillée", "bafouillés", "bafouillées"]
+    },
+    {
+      "id": "secourir",
+      "infinitif": "secourir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["secours", "secours", "secourt", "secourons", "secourez", "secourent"],
+        "ind.imp": ["secourais", "secourais", "secourait", "secourions", "secouriez", "secouraient"],
+        "ind.ps": ["secourus", "secourus", "secourut", "secourûmes", "secourûtes", "secoururent"],
+        "ind.fut": ["secourrai", "secourras", "secourra", "secourrons", "secourrez", "secourront"],
+        "cond.pres": ["secourrais", "secourrais", "secourrait", "secourrions", "secourriez", "secourraient"],
+        "subj.pres": ["secoure", "secoures", "secoure", "secourions", "secouriez", "secourent"],
+        "subj.imp": ["secourusse", "secourusses", "secourût", "secourussions", "secourussiez", "secourussent"],
+        "imper.pres": ["secours", "secourons", "secourez"]
+      },
+      "participe_present": "secourant",
+      "participe_passe": ["secouru", "secourue", "secourus", "secourues"]
     }
   ]
 }
