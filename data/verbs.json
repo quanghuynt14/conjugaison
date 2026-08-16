@@ -5317,6 +5317,25 @@
       },
       "participe_present": "remplissant",
       "participe_passe": ["rempli", "remplie", "remplis", "remplies"]
+    },
+    {
+      "id": "demeurer",
+      "infinitif": "demeurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "note": "Avec être au sens de rester : « il est demeuré silencieux ». Avec avoir au sens d'habiter, qui a vieilli : « il a demeuré vingt ans rue de Rivoli ».",
+      "tenses": {
+        "ind.pres": ["demeure", "demeures", "demeure", "demeurons", "demeurez", "demeurent"],
+        "ind.imp": ["demeurais", "demeurais", "demeurait", "demeurions", "demeuriez", "demeuraient"],
+        "ind.ps": ["demeurai", "demeuras", "demeura", "demeurâmes", "demeurâtes", "demeurèrent"],
+        "ind.fut": ["demeurerai", "demeureras", "demeurera", "demeurerons", "demeurerez", "demeureront"],
+        "cond.pres": ["demeurerais", "demeurerais", "demeurerait", "demeurerions", "demeureriez", "demeureraient"],
+        "subj.pres": ["demeure", "demeures", "demeure", "demeurions", "demeuriez", "demeurent"],
+        "subj.imp": ["demeurasse", "demeurasses", "demeurât", "demeurassions", "demeurassiez", "demeurassent"],
+        "imper.pres": ["demeure", "demeurons", "demeurez"]
+      },
+      "participe_present": "demeurant",
+      "participe_passe": ["demeuré", "demeurée", "demeurés", "demeurées"]
     }
   ]
 }
