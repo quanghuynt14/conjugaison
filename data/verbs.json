@@ -18887,6 +18887,24 @@
       },
       "participe_present": "grinçant",
       "participe_passe": ["grincé", null, null, null]
+    },
+    {
+      "id": "souiller",
+      "infinitif": "souiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["souille", "souilles", "souille", "souillons", "souillez", "souillent"],
+        "ind.imp": ["souillais", "souillais", "souillait", "souillions", "souilliez", "souillaient"],
+        "ind.ps": ["souillai", "souillas", "souilla", "souillâmes", "souillâtes", "souillèrent"],
+        "ind.fut": ["souillerai", "souilleras", "souillera", "souillerons", "souillerez", "souilleront"],
+        "cond.pres": ["souillerais", "souillerais", "souillerait", "souillerions", "souilleriez", "souilleraient"],
+        "subj.pres": ["souille", "souilles", "souille", "souillions", "souilliez", "souillent"],
+        "subj.imp": ["souillasse", "souillasses", "souillât", "souillassions", "souillassiez", "souillassent"],
+        "imper.pres": ["souille", "souillons", "souillez"]
+      },
+      "participe_present": "souillant",
+      "participe_passe": ["souillé", "souillée", "souillés", "souillées"]
     }
   ]
 }
