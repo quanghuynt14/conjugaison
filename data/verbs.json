@@ -23453,6 +23453,24 @@
       },
       "participe_present": "perturbant",
       "participe_passe": ["perturbé", "perturbée", "perturbés", "perturbées"]
+    },
+    {
+      "id": "percher",
+      "infinitif": "percher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["perche", "perches", "perche", "perchons", "perchez", "perchent"],
+        "ind.imp": ["perchais", "perchais", "perchait", "perchions", "perchiez", "perchaient"],
+        "ind.ps": ["perchai", "perchas", "percha", "perchâmes", "perchâtes", "perchèrent"],
+        "ind.fut": ["percherai", "percheras", "perchera", "percherons", "percherez", "percheront"],
+        "cond.pres": ["percherais", "percherais", "percherait", "percherions", "percheriez", "percheraient"],
+        "subj.pres": ["perche", "perches", "perche", "perchions", "perchiez", "perchent"],
+        "subj.imp": ["perchasse", "perchasses", "perchât", "perchassions", "perchassiez", "perchassent"],
+        "imper.pres": ["perche", "perchons", "perchez"]
+      },
+      "participe_present": "perchant",
+      "participe_passe": ["perché", "perchée", "perchés", "perchées"]
     }
   ]
 }
