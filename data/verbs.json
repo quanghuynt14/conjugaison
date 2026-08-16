@@ -5445,6 +5445,24 @@
       },
       "participe_present": "créant",
       "participe_passe": ["créé", "créée", "créés", "créées"]
+    },
+    {
+      "id": "surveiller",
+      "infinitif": "surveiller",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["surveille", "surveilles", "surveille", "surveillons", "surveillez", "surveillent"],
+        "ind.imp": ["surveillais", "surveillais", "surveillait", "surveillions", "surveilliez", "surveillaient"],
+        "ind.ps": ["surveillai", "surveillas", "surveilla", "surveillâmes", "surveillâtes", "surveillèrent"],
+        "ind.fut": ["surveillerai", "surveilleras", "surveillera", "surveillerons", "surveillerez", "surveilleront"],
+        "cond.pres": ["surveillerais", "surveillerais", "surveillerait", "surveillerions", "surveilleriez", "surveilleraient"],
+        "subj.pres": ["surveille", "surveilles", "surveille", "surveillions", "surveilliez", "surveillent"],
+        "subj.imp": ["surveillasse", "surveillasses", "surveillât", "surveillassions", "surveillassiez", "surveillassent"],
+        "imper.pres": ["surveille", "surveillons", "surveillez"]
+      },
+      "participe_present": "surveillant",
+      "participe_passe": ["surveillé", "surveillée", "surveillés", "surveillées"]
     }
   ]
 }
