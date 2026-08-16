@@ -7910,6 +7910,24 @@
       },
       "participe_present": "creusant",
       "participe_passe": ["creusé", "creusée", "creusés", "creusées"]
+    },
+    {
+      "id": "contenir",
+      "infinitif": "contenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["contiens", "contiens", "contient", "contenons", "contenez", "contiennent"],
+        "ind.imp": ["contenais", "contenais", "contenait", "contenions", "conteniez", "contenaient"],
+        "ind.ps": ["contins", "contins", "contint", "contînmes", "contîntes", "continrent"],
+        "ind.fut": ["contiendrai", "contiendras", "contiendra", "contiendrons", "contiendrez", "contiendront"],
+        "cond.pres": ["contiendrais", "contiendrais", "contiendrait", "contiendrions", "contiendriez", "contiendraient"],
+        "subj.pres": ["contienne", "contiennes", "contienne", "contenions", "conteniez", "contiennent"],
+        "subj.imp": ["continsse", "continsses", "contînt", "continssions", "continssiez", "continssent"],
+        "imper.pres": ["contiens", "contenons", "contenez"]
+      },
+      "participe_present": "contenant",
+      "participe_passe": ["contenu", "contenue", "contenus", "contenues"]
     }
   ]
 }
