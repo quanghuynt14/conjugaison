@@ -9448,6 +9448,24 @@
       },
       "participe_present": "détournant",
       "participe_passe": ["détourné", "détournée", "détournés", "détournées"]
+    },
+    {
+      "id": "fâcher",
+      "infinitif": "fâcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fâche", "fâches", "fâche", "fâchons", "fâchez", "fâchent"],
+        "ind.imp": ["fâchais", "fâchais", "fâchait", "fâchions", "fâchiez", "fâchaient"],
+        "ind.ps": ["fâchai", "fâchas", "fâcha", "fâchâmes", "fâchâtes", "fâchèrent"],
+        "ind.fut": ["fâcherai", "fâcheras", "fâchera", "fâcherons", "fâcherez", "fâcheront"],
+        "cond.pres": ["fâcherais", "fâcherais", "fâcherait", "fâcherions", "fâcheriez", "fâcheraient"],
+        "subj.pres": ["fâche", "fâches", "fâche", "fâchions", "fâchiez", "fâchent"],
+        "subj.imp": ["fâchasse", "fâchasses", "fâchât", "fâchassions", "fâchassiez", "fâchassent"],
+        "imper.pres": ["fâche", "fâchons", "fâchez"]
+      },
+      "participe_present": "fâchant",
+      "participe_passe": ["fâché", "fâchée", "fâchés", "fâchées"]
     }
   ]
 }
