@@ -4739,6 +4739,24 @@
       },
       "participe_present": "engageant",
       "participe_passe": ["engagé", "engagée", "engagés", "engagées"]
+    },
+    {
+      "id": "diriger",
+      "infinitif": "diriger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dirige", "diriges", "dirige", "dirigeons", "dirigez", "dirigent"],
+        "ind.imp": ["dirigeais", "dirigeais", "dirigeait", "dirigions", "dirigiez", "dirigeaient"],
+        "ind.ps": ["dirigeai", "dirigeas", "dirigea", "dirigeâmes", "dirigeâtes", "dirigèrent"],
+        "ind.fut": ["dirigerai", "dirigeras", "dirigera", "dirigerons", "dirigerez", "dirigeront"],
+        "cond.pres": ["dirigerais", "dirigerais", "dirigerait", "dirigerions", "dirigeriez", "dirigeraient"],
+        "subj.pres": ["dirige", "diriges", "dirige", "dirigions", "dirigiez", "dirigent"],
+        "subj.imp": ["dirigeasse", "dirigeasses", "dirigeât", "dirigeassions", "dirigeassiez", "dirigeassent"],
+        "imper.pres": ["dirige", "dirigeons", "dirigez"]
+      },
+      "participe_present": "dirigeant",
+      "participe_passe": ["dirigé", "dirigée", "dirigés", "dirigées"]
     }
   ]
 }
