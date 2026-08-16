@@ -32118,6 +32118,24 @@
       },
       "participe_present": "nécessitant",
       "participe_passe": ["nécessité", "nécessitée", "nécessités", "nécessitées"]
+    },
+    {
+      "id": "neutraliser",
+      "infinitif": "neutraliser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["neutralise", "neutralises", "neutralise", "neutralisons", "neutralisez", "neutralisent"],
+        "ind.imp": ["neutralisais", "neutralisais", "neutralisait", "neutralisions", "neutralisiez", "neutralisaient"],
+        "ind.ps": ["neutralisai", "neutralisas", "neutralisa", "neutralisâmes", "neutralisâtes", "neutralisèrent"],
+        "ind.fut": ["neutraliserai", "neutraliseras", "neutralisera", "neutraliserons", "neutraliserez", "neutraliseront"],
+        "cond.pres": ["neutraliserais", "neutraliserais", "neutraliserait", "neutraliserions", "neutraliseriez", "neutraliseraient"],
+        "subj.pres": ["neutralise", "neutralises", "neutralise", "neutralisions", "neutralisiez", "neutralisent"],
+        "subj.imp": ["neutralisasse", "neutralisasses", "neutralisât", "neutralisassions", "neutralisassiez", "neutralisassent"],
+        "imper.pres": ["neutralise", "neutralisons", "neutralisez"]
+      },
+      "participe_present": "neutralisant",
+      "participe_passe": ["neutralisé", "neutralisée", "neutralisés", "neutralisées"]
     }
   ]
 }
