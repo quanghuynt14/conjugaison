@@ -15132,6 +15132,24 @@
       },
       "participe_present": "emballant",
       "participe_passe": ["emballé", "emballée", "emballés", "emballées"]
+    },
+    {
+      "id": "vanter",
+      "infinitif": "vanter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["vante", "vantes", "vante", "vantons", "vantez", "vantent"],
+        "ind.imp": ["vantais", "vantais", "vantait", "vantions", "vantiez", "vantaient"],
+        "ind.ps": ["vantai", "vantas", "vanta", "vantâmes", "vantâtes", "vantèrent"],
+        "ind.fut": ["vanterai", "vanteras", "vantera", "vanterons", "vanterez", "vanteront"],
+        "cond.pres": ["vanterais", "vanterais", "vanterait", "vanterions", "vanteriez", "vanteraient"],
+        "subj.pres": ["vante", "vantes", "vante", "vantions", "vantiez", "vantent"],
+        "subj.imp": ["vantasse", "vantasses", "vantât", "vantassions", "vantassiez", "vantassent"],
+        "imper.pres": ["vante", "vantons", "vantez"]
+      },
+      "participe_present": "vantant",
+      "participe_passe": ["vanté", "vantée", "vantés", "vantées"]
     }
   ]
 }
