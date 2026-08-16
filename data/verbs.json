@@ -27140,6 +27140,24 @@
       },
       "participe_present": "angoissant",
       "participe_passe": ["angoissé", "angoissée", "angoissés", "angoissées"]
+    },
+    {
+      "id": "dégonfler",
+      "infinitif": "dégonfler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dégonfle", "dégonfles", "dégonfle", "dégonflons", "dégonflez", "dégonflent"],
+        "ind.imp": ["dégonflais", "dégonflais", "dégonflait", "dégonflions", "dégonfliez", "dégonflaient"],
+        "ind.ps": ["dégonflai", "dégonflas", "dégonfla", "dégonflâmes", "dégonflâtes", "dégonflèrent"],
+        "ind.fut": ["dégonflerai", "dégonfleras", "dégonflera", "dégonflerons", "dégonflerez", "dégonfleront"],
+        "cond.pres": ["dégonflerais", "dégonflerais", "dégonflerait", "dégonflerions", "dégonfleriez", "dégonfleraient"],
+        "subj.pres": ["dégonfle", "dégonfles", "dégonfle", "dégonflions", "dégonfliez", "dégonflent"],
+        "subj.imp": ["dégonflasse", "dégonflasses", "dégonflât", "dégonflassions", "dégonflassiez", "dégonflassent"],
+        "imper.pres": ["dégonfle", "dégonflons", "dégonflez"]
+      },
+      "participe_present": "dégonflant",
+      "participe_passe": ["dégonflé", "dégonflée", "dégonflés", "dégonflées"]
     }
   ]
 }
