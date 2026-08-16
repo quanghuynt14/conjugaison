@@ -7802,6 +7802,24 @@
       },
       "participe_present": "indiquant",
       "participe_passe": ["indiqué", "indiquée", "indiqués", "indiquées"]
+    },
+    {
+      "id": "chier",
+      "infinitif": "chier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chie", "chies", "chie", "chions", "chiez", "chient"],
+        "ind.imp": ["chiais", "chiais", "chiait", "chiions", "chiiez", "chiaient"],
+        "ind.ps": ["chiai", "chias", "chia", "chiâmes", "chiâtes", "chièrent"],
+        "ind.fut": ["chierai", "chieras", "chiera", "chierons", "chierez", "chieront"],
+        "cond.pres": ["chierais", "chierais", "chierait", "chierions", "chieriez", "chieraient"],
+        "subj.pres": ["chie", "chies", "chie", "chiions", "chiiez", "chient"],
+        "subj.imp": ["chiasse", "chiasses", "chiât", "chiassions", "chiassiez", "chiassent"],
+        "imper.pres": ["chie", "chions", "chiez"]
+      },
+      "participe_present": "chiant",
+      "participe_passe": ["chié", "chiée", "chiés", "chiées"]
     }
   ]
 }
