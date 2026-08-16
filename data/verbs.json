@@ -9376,6 +9376,24 @@
       },
       "participe_present": "régnant",
       "participe_passe": ["régné", null, null, null]
+    },
+    {
+      "id": "confondre",
+      "infinitif": "confondre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["confonds", "confonds", "confond", "confondons", "confondez", "confondent"],
+        "ind.imp": ["confondais", "confondais", "confondait", "confondions", "confondiez", "confondaient"],
+        "ind.ps": ["confondis", "confondis", "confondit", "confondîmes", "confondîtes", "confondirent"],
+        "ind.fut": ["confondrai", "confondras", "confondra", "confondrons", "confondrez", "confondront"],
+        "cond.pres": ["confondrais", "confondrais", "confondrait", "confondrions", "confondriez", "confondraient"],
+        "subj.pres": ["confonde", "confondes", "confonde", "confondions", "confondiez", "confondent"],
+        "subj.imp": ["confondisse", "confondisses", "confondît", "confondissions", "confondissiez", "confondissent"],
+        "imper.pres": ["confonds", "confondons", "confondez"]
+      },
+      "participe_present": "confondant",
+      "participe_passe": ["confondu", "confondue", "confondus", "confondues"]
     }
   ]
 }
