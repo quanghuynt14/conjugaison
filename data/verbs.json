@@ -33830,6 +33830,25 @@
       },
       "participe_present": "déliant",
       "participe_passe": ["délié", "déliée", "déliés", "déliées"]
+    },
+    {
+      "id": "harper",
+      "infinitif": "harper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "h_aspire": true,
+      "tenses": {
+        "ind.pres": ["harpe", "harpes", "harpe", "harpons", "harpez", "harpent"],
+        "ind.imp": ["harpais", "harpais", "harpait", "harpions", "harpiez", "harpaient"],
+        "ind.ps": ["harpai", "harpas", "harpa", "harpâmes", "harpâtes", "harpèrent"],
+        "ind.fut": ["harperai", "harperas", "harpera", "harperons", "harperez", "harperont"],
+        "cond.pres": ["harperais", "harperais", "harperait", "harperions", "harperiez", "harperaient"],
+        "subj.pres": ["harpe", "harpes", "harpe", "harpions", "harpiez", "harpent"],
+        "subj.imp": ["harpasse", "harpasses", "harpât", "harpassions", "harpassiez", "harpassent"],
+        "imper.pres": ["harpe", "harpons", "harpez"]
+      },
+      "participe_present": "harpant",
+      "participe_passe": ["harpé", "harpée", "harpés", "harpées"]
     }
   ]
 }
