@@ -152,13 +152,17 @@ PRONOUNS = ["me", "te", "se", "nous", "vous", "se"]
 PRONOUNS_IMPER = ["toi", "nous", "vous"]
 
 
-def elide(left, right):
+def elide(left, right, aspire=False):
     """« que » + « il » -> « qu’il ».
 
-    Le h aspiré n'est pas traité : aucun verbe français n'a de forme conjuguée
-    qui en commence une. Les noms en ont, pas les verbes.
+    Le h aspiré interdit l'élision : « je hurle », jamais « j'hurle ». On a
+    d'abord cru qu'aucun verbe français n'en commençait — les quatre premiers
+    n'en avaient pas —, et le générateur élidait devant tout h. Dix-huit verbes
+    de la série le démentent, hurler et haïr en tête ; verbs.json les marque.
     """
     head = right.split(" ", 1)[0]
+    if aspire and head[:1].lower() == "h":
+        return left + " " + right
     if left in ELIDABLE and head and head[0].lower() in VOWELS + "h":
         return left[:-1] + "’" + right
     return left + " " + right
@@ -181,11 +185,11 @@ def with_subject(verb, tense_key, i, form):
     if verb.get("pronominal"):
         if tense_key.startswith("imper."):
             return f"{form}-{PRONOUNS_IMPER[i]}"
-        form = elide(PRONOUNS[i], form)
+        form = elide(PRONOUNS[i], form, verb.get("h_aspire"))
     subject = subject_for(tense_key, i)
     if subject is None:
         return form
-    cell = elide(subject, form)
+    cell = elide(subject, form, verb.get("h_aspire"))
     return elide("que", cell) if tense_key.startswith("subj.") else cell
 
 
@@ -216,7 +220,7 @@ def lemma(verb):
     dans une page, le pronom étant deux mots plus loin.
     """
     if verb.get("pronominal"):
-        return elide("se", verb["infinitif"])
+        return elide("se", verb["infinitif"], verb.get("h_aspire"))
     return verb["infinitif"]
 
 
@@ -301,7 +305,8 @@ def nonfinite_cells(verb, key):
     if key == "part.pres":
         forms = variants(verb["participe_present"])
         if verb.get("pronominal"):
-            forms = [elide("se", form) for form in forms]
+            forms = [elide("se", form, verb.get("h_aspire"))
+                     for form in forms]
         return [forms]
     return [variants(cell) for cell in verb["participe_passe"]]
 

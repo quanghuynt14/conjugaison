@@ -23,6 +23,7 @@ Usage :
     python3 scripts/import_verbs.py --add [N]       # ajoute les N verbes suivants
     python3 scripts/import_verbs.py --message VERBE # le message de commit du verbe
     python3 scripts/import_verbs.py --verifie       # relit les verbes déjà écrits
+    python3 scripts/import_verbs.py --resynchronise # les refait depuis les sources
 """
 
 import csv
@@ -52,7 +53,13 @@ SOURCES = {
         "http://www.lexique.org/databases/Lexique383/Lexique383.tsv",
 }
 
-COMBIEN = 1000  # de verbes à faire entrer, en plus de ceux écrits à la main
+COMBIEN = 2000  # de verbes à faire entrer, en plus de ceux écrits à la main
+
+# Les quatre verbes écrits à la main avant que ce script existe. Ils comptent
+# dans le fichier mais pas dans les COMBIEN : sans quoi la longueur du
+# classement dépendrait de l'avancement de l'import, qui l'utilise. Elle en
+# dépendait, et rallonger la série de mille en avait produit trois mille.
+ECRITS_A_LA_MAIN = {"faire", "avoir", "vivre", "voir"}
 
 
 # --- ce que les sources ne disent pas ---------------------------------------
@@ -61,9 +68,10 @@ COMBIEN = 1000  # de verbes à faire entrer, en plus de ceux écrits à la main
 # verbes qui prennent être est fermée : les verbes de mouvement et de
 # changement d'état, plus tous les pronominaux. Partout ailleurs, avoir.
 ETRE = {
-    "aller", "arriver", "devenir", "entrer", "intervenir", "mourir", "naître",
-    "partir", "parvenir", "provenir", "redevenir", "repartir", "rester",
-    "retomber", "revenir", "tomber", "venir",
+    "advenir", "aller", "arriver", "décéder", "devenir", "entrer",
+    "intervenir", "mourir", "naître", "partir", "parvenir", "provenir",
+    "redevenir", "renaître", "repartir", "rester", "retomber", "revenir",
+    "réapparaître", "survenir", "tomber", "venir",
 }
 
 # Les deux auxiliaires, selon que le verbe a un complément d'objet direct ou
@@ -88,9 +96,32 @@ DOUBLE = {
 # La liste vient des étiquettes de Grammalecte (Dicollecte), qui les marque
 # d'un p ; elle est ici en toutes lettres pour qu'on puisse la lire.
 PRONOMINAUX = {
-    "accroupir", "agenouiller", "attarder", "efforcer", "emparer", "enfuir",
-    "envoler", "évader", "évanouir", "écrier", "écrouler", "marrer", "méfier",
-    "réfugier", "souvenir", "suicider",
+    "abstenir", "accouder", "accroupir", "affairer", "agenouiller", "attarder",
+    "blottir", "démener", "démerder", "dénuer", "efforcer", "emparer",
+    "empresser", "enfuir", "enquérir", "ensuivre", "envoler", "esclaffer",
+    "exclamer", "extasier", "fier", "gourer", "magner", "marrer", "méfier",
+    "méprendre", "obstiner", "raviser", "recroqueviller", "repentir",
+    "réfugier", "souvenir", "suicider", "tapir", "vautrer", "ébrouer",
+    "éprendre", "évader", "évanouir", "écrier", "écrouler",
+}
+
+# Les verbes qui ne se conjuguent qu'à la troisième personne. Ce n'est pas
+# Verbiste qui le dit — ses modèles sont réguliers et donneraient « je
+# résulte » —, c'est la grammaire : il résulte, il incombe, il s'ensuit, et
+# leurs pluriels. Les impersonnels que Verbiste connaît déjà (falloir,
+# pleuvoir, neiger, advenir) ont leur modèle troué et ne sont pas ici.
+TROISIEME_PERSONNE = {"résulter", "incomber", "ensuivre"}
+
+# Le h aspiré interdit l'élision : « je hurle », jamais « j'hurle ». Le
+# générateur élidait devant tout h, faute d'avoir rencontré un seul verbe qui
+# en commence — les quatre premiers n'en avaient pas. La liste vient du
+# Wiktionnaire, qui marque la vedette d'un {{h}} ou d'un {{h aspiré}} ; les
+# verbes en h qui n'y sont pas marqués ont le h muet et s'élident : j'habite,
+# j'hésite, j'honore.
+ASPIRE = {
+    "hacher", "haleter", "hanter", "happer", "harceler", "harper", "hasarder",
+    "hausser", "haver", "haïr", "heurter", "hisser", "hocher", "humer",
+    "hurler", "hâter", "héler", "hérisser",
 }
 
 # Verbiste donne le participe passé de fuir pour invariable. Le Robert et le
@@ -99,6 +130,41 @@ PRONOMINAUX = {
 CORRECTIONS = {
     "fuir":   {"participe_passe": ["fui", "fuie", "fuis", "fuies"]},
     "enfuir": {"participe_passe": ["enfui", "enfuie", "enfuis", "enfuies"]},
+
+    # Deux modèles rangent le participe passé dans un autre ordre que les 144
+    # autres — masculin, féminin, pluriels — et le contrôle de forme les a
+    # trouvés : « points » sortait en féminin singulier. Ici l'ordre du reste.
+    "poindre": {"participe_passe": ["point", "pointe", "points", "pointes"]},
+
+    # Deux verbes reçoivent un participe passé qui n'est pas le leur. Verbiste
+    # donne « gît » à gésir — c'est son présent — et « pu » à paître — c'est
+    # celui de pouvoir, et celui de repaître. Les deux verbes n'ont pas de
+    # participe passé, donc pas de temps composés ; Lexique 3 n'en atteste
+    # aucun. Sans la correction, chercher « pu » ouvrait le tableau de paître.
+    "gésir":  {"participe_passe": [None, None, None, None]},
+    "paître": {"participe_passe": [None, None, None, None]},
+
+    # « choyant » est le participe présent de choyer, pas de choir, qui n'en a
+    # pas. Le laisser donnait deux tableaux à qui cherche « choyant », dont un
+    # faux.
+    "choir":  {"participe_present": None},
+
+    # « absout » est la troisième personne du présent, pas un participe passé :
+    # Lexique n'atteste qu'absous. Et « dissolu » est l'adjectif — mœurs
+    # dissolues —, que les dictionnaires donnent à part.
+    "absoudre":  {"participe_passe": ["absous", "absoute", "absous",
+                                      "absoutes"]},
+    "dissoudre": {"participe_passe": ["dissous", "dissoute", "dissous",
+                                      "dissoutes"]},
+
+    # L'accent circonflexe de croître ne sert qu'à le distinguer de croire, et
+    # seul le masculin singulier en a besoin : crû, mais crue, crus, crues.
+    # C'est ce qu'atteste Lexique.
+    "croître": {"participe_passe": ["crû", "crue", "crus", "crues"]},
+
+    # « mû » d'abord, « mu » ensuite : l'ancienne graphie devant la rectifiée,
+    # comme partout ailleurs ici.
+    "mouvoir": {"participe_passe": [["mû", "mu"], "mue", "mus", "mues"]},
 }
 
 # L'autre écart, et il est de méthode. Un modèle Verbiste décline les quatre
@@ -122,6 +188,29 @@ CORRECTIONS = {
 # « une femme divorcée », « une civilisation disparue », « une silhouette
 # surgie », « une source jaillie de la roche ».
 INVARIABLES = {
+    "accéder", "acquiescer", "adhérer", "adonner", "affluer", "agoniser",
+    "bagarrer", "baver", "bourdonner", "broncher", "bâiller", "bénéficier",
+    "capituler", "chanceler", "cheminer", "chialer", "chuter", "clignoter",
+    "clocher", "communier", "contribuer", "coopérer", "coïncider", "crisser",
+    "crouler", "croître", "crépiter", "divaguer", "déambuler", "décamper",
+    "décroître", "défaillir", "dégouliner", "délirer", "démissionner",
+    "dérailler", "déraper", "enquêter", "enrager", "faiblir", "flipper",
+    "flirter", "flâner", "foirer", "fouiner", "frissonner", "fuser",
+    "gesticuler", "gicler", "glousser", "grelotter", "grimacer", "grincer",
+    "gésir", "haleter", "incomber", "jubiler", "languir", "loucher", "merder",
+    "miauler", "naviguer", "neiger", "officier", "opter", "osciller",
+    "palpiter", "patauger", "patienter", "persister", "pivoter",
+    "pleurnicher", "pouffer", "pécher", "pédaler", "périr", "raffoler",
+    "rappliquer", "rebondir", "refluer", "remédier", "resplendir",
+    "rivaliser", "ronronner", "roupiller", "ruer", "ruisseler", "ruser",
+    "râler", "référer", "résider", "résulter", "rêvasser", "sangloter",
+    "sautiller", "scintiller", "siéger", "sommeiller", "somnoler", "souper",
+    "stationner", "subsister", "succomber", "surfer", "séjourner", "tanguer",
+    "tituber", "tonner", "tourbillonner", "tournoyer", "tressaillir",
+    "trimer", "trinquer", "trotter", "trottiner", "trôner", "tâtonner",
+    "vaciller", "voguer", "voleter", "émaner", "éternuer", "étinceler",
+    "évoluer",
+
     "agir", "appartenir", "bavarder", "bondir", "briller",
     "circuler", "consister", "correspondre", "déconner", "déjeuner",
     "déplaire", "dîner", "dormir", "douter",
@@ -151,6 +240,28 @@ DEUX_GRAPHIES = {
 # auxiliaire qui hésite. Un verbe régulier n'en reçoit pas — il n'y a rien à
 # en dire que le tableau ne dise mieux.
 NOTES = {
+    # Les quatre écrites avant que ce script existe, reprises telles quelles :
+    # le fichier de données ne garde plus de note que la table ne connaisse,
+    # sans quoi --resynchronise les effacerait en refaisant les verbes.
+    "faire":
+        "Verbe irrégulier. Le radical change quatre fois : fai- (fais, "
+        "faisons), f- (font, ferai), fi- (fis), fass- (fasse). Attention à "
+        "« vous faites », l'une des trois formes en -tes de la langue, avec "
+        "« vous dites » et « vous êtes ».",
+    "avoir":
+        "Auxiliaire. Il sert à former les temps composés de la plupart des "
+        "verbes — d'où sa présence ici : sans lui, « j'ai fait » ne se "
+        "conjugue pas.",
+    "vivre":
+        "« je vis » est le présent de vivre et le passé simple de voir. Les "
+        "deux verbes sont ici pour cette raison : c'est le cas qui montre à "
+        "quoi sert une conjugaison inversée.",
+    "voir":
+        "Le subjonctif imparfait « que je visse » est aussi le présent de "
+        "visser, qui n'est pas dans ce jeu de données. La forme « vis », en "
+        "revanche, n'appartient pas à visser : son présent est « je visse », "
+        "seulement prononcé [vis].",
+
     "être":
         "L'autre auxiliaire. Il sert aux temps composés des verbes de "
         "mouvement et de tous les pronominaux, et à toute la voix passive. Son "
@@ -204,6 +315,78 @@ NOTES = {
     "accourir":
         "Les deux auxiliaires s'emploient : « il est accouru » regarde le "
         "résultat, « il a accouru » le mouvement.",
+    "gésir":
+        "Il ne reste que le présent, l'imparfait et le participe présent — "
+        "« ci-gît », « les ruines qui gisaient là ». Ni futur, ni passé simple, "
+        "ni participe passé, donc aucun temps composé.",
+    "paître":
+        "Ni passé simple, ni participe passé : le verbe n'a pas de temps "
+        "composés. « il a pu » appartient à pouvoir, et « repu » à repaître.",
+    "choir":
+        "Défectif, et littéraire. Ni imparfait, ni subjonctif, ni impératif, "
+        "et pas de participe présent — « choyant » est celui de choyer. Le "
+        "futur se dit « je choirai » ou « je cherrai ».",
+    "frire":
+        "Défectif : le présent s'arrête à trois personnes, l'impératif à une, "
+        "et il n'y a ni imparfait, ni passé simple, ni participe présent. Pour "
+        "le reste, on passe par faire : « nous faisons frire ».",
+    "renaître":
+        "Pas de participe passé, donc pas un seul temps composé : on ne dit "
+        "ni « il a rené », ni « il est rené ». La langue passe par un autre "
+        "verbe.",
+    "poindre":
+        "Le jour point, les bourgeons poignent — verbe littéraire, surtout à "
+        "la troisième personne, et sans impératif.",
+    "résulter":
+        "Verbe impersonnel ou de troisième personne : il résulte, elles "
+        "résultent. On ne dit pas « je résulte ».",
+    "incomber":
+        "Troisième personne seulement : « cette tâche lui incombe ». Le verbe "
+        "désigne ce qui revient à quelqu'un, jamais celui qui parle.",
+    "ensuivre":
+        "Troisième personne seulement, et toujours avec son pronom : « il "
+        "s'ensuit que », « les conséquences qui s'en sont suivies ».",
+    "dissoudre":
+        "Ni passé simple, ni subjonctif imparfait. Le participe passé est "
+        "« dissous, dissoute » ; « dissolu » est l'adjectif — des mœurs "
+        "dissolues —, que les dictionnaires donnent à part.",
+    "absoudre":
+        "Ni passé simple, ni subjonctif imparfait. Le participe passé est "
+        "« absous, absoute ».",
+    "croître":
+        "L'accent circonflexe ne sert qu'à séparer croître de croire, et "
+        "seules les formes ambiguës le portent : « je croîs » contre « je "
+        "crois », « crû » contre « cru », mais « crue », « crus », « crues ».",
+    "mouvoir":
+        "Deux graphies du participe passé masculin singulier : « mû », "
+        "traditionnelle, et « mu », rectifiée en 1990. Le féminin n'a jamais "
+        "eu d'accent : « mue ».",
+    "fleurir":
+        "Deux imparfaits et deux participes présents, et ils ne disent pas la "
+        "même chose : « fleurissait » pour la plante, « florissait » pour ce "
+        "qui prospère — un commerce florissant.",
+    "advenir":
+        "Verbe impersonnel ou de troisième personne : « il advient que », "
+        "« quoi qu'il advienne », « les malheurs advenus ». Pas d'impératif.",
+    "neiger":
+        "Verbe impersonnel : « il neige », et rien d'autre. Pas d'impératif, "
+        "et un participe passé qui ne s'accorde avec rien.",
+    "rasseoir":
+        "Trois conjugaisons coexistent, comme pour asseoir : « je rassieds » "
+        "et « je rassois » au présent, « je rassiérai », « je rasseyerai » ou "
+        "« je rassoirai » au futur.",
+    "ouïr":
+        "Verbe archaïque, gardé par « j'ai ouï dire » et par « oyez ». Le "
+        "futur en donne trois : « j'oirai », « j'ouïrai » ou « j'orrai ».",
+    "traire":
+        "Comme tous les verbes en -traire : ni passé simple, ni subjonctif "
+        "imparfait.",
+    "extraire":
+        "Comme tous les verbes en -traire : ni passé simple, ni subjonctif "
+        "imparfait.",
+    "soustraire":
+        "Comme tous les verbes en -traire : ni passé simple, ni subjonctif "
+        "imparfait.",
 }
 
 # Les verbes dont l'auxiliaire n'est pas celui que la table ETRE donnerait,
@@ -296,7 +479,8 @@ TEMPS = {
 }
 
 ORDRE_DES_CLES = ["id", "infinitif", "groupe", "auxiliaire", "pronominal",
-                  "note", "tenses", "participe_present", "participe_passe"]
+                  "h_aspire", "note", "tenses", "participe_present",
+                  "participe_passe"]
 
 
 def groupe_de(infinitif, participe_present):
@@ -354,8 +538,25 @@ def fabrique(infinitif, modele_nom, modeles_):
     pp = [case(radical, formes)
           for formes in modele[("Participe", "participe-passé")]]
     verbe["participe_passe"] = [pp[0], pp[2], pp[1], pp[3]]
-    if infinitif in INVARIABLES:
+    if infinitif in PRONOMINAUX:
+        verbe["pronominal"] = True
+    if infinitif in ASPIRE:
+        verbe["h_aspire"] = True
+    verbe["auxiliaire"] = auxiliaire_de(infinitif)
+
+    # Un participe conjugué avec être s'accorde toujours : avec le sujet, et
+    # sans avoir besoin d'un complément d'objet. La liste ne peut donc porter
+    # que sur des verbes en avoir, et le garde-fou vaut mieux qu'une relecture
+    # — c'est la faute que le croisement avec Lexique avait déjà relevée sept
+    # fois, et les vingt-cinq pronominaux du millier suivant la referaient.
+    if infinitif in INVARIABLES and verbe["auxiliaire"] == "avoir":
         verbe["participe_passe"] = [pp[0], None, None, None]
+
+    if infinitif in TROISIEME_PERSONNE:
+        for cle in verbe["tenses"]:
+            garde = () if cle.startswith("imper.") else (2, 5)
+            verbe["tenses"][cle] = [c if i in garde else None
+                                    for i, c in enumerate(verbe["tenses"][cle])]
 
     if modele_nom in DEUX_GRAPHIES:
         depuis, vers, place = DEUX_GRAPHIES[modele_nom]
@@ -367,9 +568,6 @@ def fabrique(infinitif, modele_nom, modeles_):
 
     verbe.update(CORRECTIONS.get(infinitif, {}))
 
-    if infinitif in PRONOMINAUX:
-        verbe["pronominal"] = True
-    verbe["auxiliaire"] = auxiliaire_de(infinitif)
     verbe["groupe"] = groupe_de(infinitif, forme_seule(verbe["participe_present"]))
     note = note_de(verbe)
     if note:
@@ -395,6 +593,15 @@ def exemple(verbe, cle, i):
     """La case telle qu'elle s'affichera : « je me souviens », « j'espérerai »."""
     formes = B.variants(verbe["tenses"][cle][i])
     return [B.with_subject(verbe, cle, i, f) for f in formes]
+
+
+def liste_ou(formes):
+    """« a » ou « b » ; « a », « b » ou « c ». Trois arrive : ouïr en a trois
+    au futur, rasseoir aussi."""
+    citees = [f"« {f} »" for f in formes]
+    if len(citees) == 1:
+        return citees[0]
+    return " ou ".join([", ".join(citees[:-1]), citees[-1]])
 
 
 def note_de(verbe):
@@ -426,18 +633,18 @@ def note_de(verbe):
     doubles = [cle for cle, cases in verbe["tenses"].items()
                if any(isinstance(c, list) for c in cases)]
     if set(doubles) == {"ind.fut", "cond.pres"}:
-        a, b = exemple(verbe, "ind.fut", 0)
         morceaux.append(
             f"Depuis les rectifications orthographiques de 1990, le futur et "
             f"le conditionnel s'écrivent aussi avec un accent grave : "
-            f"« {a} » ou « {b} ». Les deux sont admises.")
+            f"{liste_ou(exemple(verbe, 'ind.fut', 0))}. Les deux sont admises.")
     elif doubles:
         cle = next(c for c in TEMPS if c in doubles)
         i = next(i for i, c in enumerate(verbe["tenses"][cle])
                  if isinstance(c, list))
         formes = exemple(verbe, cle, i)
-        morceaux.append(f"Deux conjugaisons également correctes : "
-                        f"« {formes[0]} » ou « {formes[1]} ».")
+        combien = "Deux" if len(formes) == 2 else "Trois"
+        morceaux.append(f"{combien} conjugaisons également correctes : "
+                        f"{liste_ou(formes)}.")
 
     # Pourquoi cette entrée-là montre une forme là où les autres en montrent
     # quatre. La question se pose en lisant la page ; elle mérite sa phrase.
@@ -535,6 +742,23 @@ def ajouter(combien):
     ecrire(data)
 
 
+def resynchroniser():
+    """Refait chaque verbe présent depuis les sources, et réécrit le fichier.
+
+    `--verifie` compare les formes et s'arrête là. Quand ce sont les tables du
+    script qui changent — un h aspiré reconnu, un auxiliaire corrigé —, les
+    formes ne bougent pas mais le verbe, si. Le diff git dit alors exactement
+    ce que la table a changé, verbe par verbe.
+    """
+    data = charger()
+    modeles_ = modeles()
+    par_verbe = modele_de()
+    data["verbs"] = [fabrique(v["infinitif"], par_verbe[v["infinitif"]], modeles_)
+                     for v in data["verbs"]]
+    ecrire(data)
+    print(f"{len(data['verbs'])} verbes refaits depuis les sources")
+
+
 def verifier():
     """Ce que l'import produirait pour les verbes déjà écrits.
 
@@ -563,18 +787,18 @@ def main():
     if not args:
         sys.exit(__doc__)
     if args[0] == "--classement":
-        lignes = [f"# Les {COMBIEN} verbes français les plus fréquents, plus ceux",
-                  "# qui étaient déjà là. Source : Lexique 3.83 (lexique.org),",
+        lignes = [f"# Les {COMBIEN} verbes français les plus fréquents, plus les",
+                  "# quatre écrits à la main. Source : Lexique 3.83 (lexique.org),",
                   "# moyenne des fréquences par lemme dans les sous-titres de",
                   "# films et dans les livres, par million de mots. Ne sont",
                   "# gardés que les verbes que Verbiste sait conjuguer.",
                   "# verbe\tfréquence"]
-        presents = {v["id"] for v in charger()["verbs"]}
-        garde = []
+        garde, importes = [], 0
         for verbe, f in classement():
-            if len(garde) >= COMBIEN + len(presents):
+            if importes >= COMBIEN:
                 break
             garde.append((verbe, f))
+            importes += verbe not in ECRITS_A_LA_MAIN
         lignes += [f"{v}\t{f:.2f}" for v, f in garde]
         RANKING.write_text("\n".join(lignes) + "\n", encoding="utf-8")
         print(f"{RANKING.relative_to(ROOT)} : {len(garde)} verbes")
@@ -586,6 +810,8 @@ def main():
         verbe = next(v for v in data["verbs"] if v["id"] == args[1])
         deja = data["verbs"][:data["verbs"].index(verbe)]
         print(message(verbe, deja, par_verbe))
+    elif args[0] == "--resynchronise":
+        resynchroniser()
     elif args[0] == "--verifie":
         sys.exit(verifier())
     else:

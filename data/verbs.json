@@ -6087,6 +6087,7 @@
       "infinitif": "hurler",
       "groupe": "1ᵉʳ groupe",
       "auxiliaire": "avoir",
+      "h_aspire": true,
       "tenses": {
         "ind.pres": ["hurle", "hurles", "hurle", "hurlons", "hurlez", "hurlent"],
         "ind.imp": ["hurlais", "hurlais", "hurlait", "hurlions", "hurliez", "hurlaient"],
@@ -7717,6 +7718,7 @@
       "infinitif": "haïr",
       "groupe": "3ᵉ groupe",
       "auxiliaire": "avoir",
+      "h_aspire": true,
       "tenses": {
         "ind.pres": ["hais", "hais", "hait", "haïssons", "haïssez", "haïssent"],
         "ind.imp": ["haïssais", "haïssais", "haïssait", "haïssions", "haïssiez", "haïssaient"],
@@ -9054,6 +9056,7 @@
       "infinitif": "hausser",
       "groupe": "1ᵉʳ groupe",
       "auxiliaire": "avoir",
+      "h_aspire": true,
       "tenses": {
         "ind.pres": ["hausse", "hausses", "hausse", "haussons", "haussez", "haussent"],
         "ind.imp": ["haussais", "haussais", "haussait", "haussions", "haussiez", "haussaient"],
@@ -12252,6 +12255,7 @@
       "infinitif": "heurter",
       "groupe": "1ᵉʳ groupe",
       "auxiliaire": "avoir",
+      "h_aspire": true,
       "tenses": {
         "ind.pres": ["heurte", "heurtes", "heurte", "heurtons", "heurtez", "heurtent"],
         "ind.imp": ["heurtais", "heurtais", "heurtait", "heurtions", "heurtiez", "heurtaient"],
@@ -13179,6 +13183,7 @@
       "infinitif": "hocher",
       "groupe": "1ᵉʳ groupe",
       "auxiliaire": "avoir",
+      "h_aspire": true,
       "tenses": {
         "ind.pres": ["hoche", "hoches", "hoche", "hochons", "hochez", "hochent"],
         "ind.imp": ["hochais", "hochais", "hochait", "hochions", "hochiez", "hochaient"],
@@ -15958,6 +15963,7 @@
       "infinitif": "hisser",
       "groupe": "1ᵉʳ groupe",
       "auxiliaire": "avoir",
+      "h_aspire": true,
       "tenses": {
         "ind.pres": ["hisse", "hisses", "hisse", "hissons", "hissez", "hissent"],
         "ind.imp": ["hissais", "hissais", "hissait", "hissions", "hissiez", "hissaient"],
@@ -16193,6 +16199,7 @@
       "infinitif": "hâter",
       "groupe": "1ᵉʳ groupe",
       "auxiliaire": "avoir",
+      "h_aspire": true,
       "tenses": {
         "ind.pres": ["hâte", "hâtes", "hâte", "hâtons", "hâtez", "hâtent"],
         "ind.imp": ["hâtais", "hâtais", "hâtait", "hâtions", "hâtiez", "hâtaient"],
@@ -17355,6 +17362,7 @@
       "infinitif": "hanter",
       "groupe": "1ᵉʳ groupe",
       "auxiliaire": "avoir",
+      "h_aspire": true,
       "tenses": {
         "ind.pres": ["hante", "hantes", "hante", "hantons", "hantez", "hantent"],
         "ind.imp": ["hantais", "hantais", "hantait", "hantions", "hantiez", "hantaient"],
