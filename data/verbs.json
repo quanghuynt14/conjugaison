@@ -16896,6 +16896,24 @@
       },
       "participe_present": "excluant",
       "participe_passe": ["exclu", "exclue", "exclus", "exclues"]
+    },
+    {
+      "id": "brandir",
+      "infinitif": "brandir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["brandis", "brandis", "brandit", "brandissons", "brandissez", "brandissent"],
+        "ind.imp": ["brandissais", "brandissais", "brandissait", "brandissions", "brandissiez", "brandissaient"],
+        "ind.ps": ["brandis", "brandis", "brandit", "brandîmes", "brandîtes", "brandirent"],
+        "ind.fut": ["brandirai", "brandiras", "brandira", "brandirons", "brandirez", "brandiront"],
+        "cond.pres": ["brandirais", "brandirais", "brandirait", "brandirions", "brandiriez", "brandiraient"],
+        "subj.pres": ["brandisse", "brandisses", "brandisse", "brandissions", "brandissiez", "brandissent"],
+        "subj.imp": ["brandisse", "brandisses", "brandît", "brandissions", "brandissiez", "brandissent"],
+        "imper.pres": ["brandis", "brandissons", "brandissez"]
+      },
+      "participe_present": "brandissant",
+      "participe_passe": ["brandi", "brandie", "brandis", "brandies"]
     }
   ]
 }
