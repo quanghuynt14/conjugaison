@@ -33084,6 +33084,24 @@
       },
       "participe_present": "barricadant",
       "participe_passe": ["barricadé", "barricadée", "barricadés", "barricadées"]
+    },
+    {
+      "id": "flétrir",
+      "infinitif": "flétrir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["flétris", "flétris", "flétrit", "flétrissons", "flétrissez", "flétrissent"],
+        "ind.imp": ["flétrissais", "flétrissais", "flétrissait", "flétrissions", "flétrissiez", "flétrissaient"],
+        "ind.ps": ["flétris", "flétris", "flétrit", "flétrîmes", "flétrîtes", "flétrirent"],
+        "ind.fut": ["flétrirai", "flétriras", "flétrira", "flétrirons", "flétrirez", "flétriront"],
+        "cond.pres": ["flétrirais", "flétrirais", "flétrirait", "flétririons", "flétririez", "flétriraient"],
+        "subj.pres": ["flétrisse", "flétrisses", "flétrisse", "flétrissions", "flétrissiez", "flétrissent"],
+        "subj.imp": ["flétrisse", "flétrisses", "flétrît", "flétrissions", "flétrissiez", "flétrissent"],
+        "imper.pres": ["flétris", "flétrissons", "flétrissez"]
+      },
+      "participe_present": "flétrissant",
+      "participe_passe": ["flétri", "flétrie", "flétris", "flétries"]
     }
   ]
 }
