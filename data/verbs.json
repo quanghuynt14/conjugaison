@@ -13700,6 +13700,24 @@
       },
       "participe_present": "raccompagnant",
       "participe_passe": ["raccompagné", "raccompagnée", "raccompagnés", "raccompagnées"]
+    },
+    {
+      "id": "prolonger",
+      "infinitif": "prolonger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prolonge", "prolonges", "prolonge", "prolongeons", "prolongez", "prolongent"],
+        "ind.imp": ["prolongeais", "prolongeais", "prolongeait", "prolongions", "prolongiez", "prolongeaient"],
+        "ind.ps": ["prolongeai", "prolongeas", "prolongea", "prolongeâmes", "prolongeâtes", "prolongèrent"],
+        "ind.fut": ["prolongerai", "prolongeras", "prolongera", "prolongerons", "prolongerez", "prolongeront"],
+        "cond.pres": ["prolongerais", "prolongerais", "prolongerait", "prolongerions", "prolongeriez", "prolongeraient"],
+        "subj.pres": ["prolonge", "prolonges", "prolonge", "prolongions", "prolongiez", "prolongent"],
+        "subj.imp": ["prolongeasse", "prolongeasses", "prolongeât", "prolongeassions", "prolongeassiez", "prolongeassent"],
+        "imper.pres": ["prolonge", "prolongeons", "prolongez"]
+      },
+      "participe_present": "prolongeant",
+      "participe_passe": ["prolongé", "prolongée", "prolongés", "prolongées"]
     }
   ]
 }
