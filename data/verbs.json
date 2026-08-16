@@ -24389,6 +24389,24 @@
       },
       "participe_present": "suffoquant",
       "participe_passe": ["suffoqué", "suffoquée", "suffoqués", "suffoquées"]
+    },
+    {
+      "id": "balbutier",
+      "infinitif": "balbutier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["balbutie", "balbuties", "balbutie", "balbutions", "balbutiez", "balbutient"],
+        "ind.imp": ["balbutiais", "balbutiais", "balbutiait", "balbutiions", "balbutiiez", "balbutiaient"],
+        "ind.ps": ["balbutiai", "balbutias", "balbutia", "balbutiâmes", "balbutiâtes", "balbutièrent"],
+        "ind.fut": ["balbutierai", "balbutieras", "balbutiera", "balbutierons", "balbutierez", "balbutieront"],
+        "cond.pres": ["balbutierais", "balbutierais", "balbutierait", "balbutierions", "balbutieriez", "balbutieraient"],
+        "subj.pres": ["balbutie", "balbuties", "balbutie", "balbutiions", "balbutiiez", "balbutient"],
+        "subj.imp": ["balbutiasse", "balbutiasses", "balbutiât", "balbutiassions", "balbutiassiez", "balbutiassent"],
+        "imper.pres": ["balbutie", "balbutions", "balbutiez"]
+      },
+      "participe_present": "balbutiant",
+      "participe_passe": ["balbutié", "balbutiée", "balbutiés", "balbutiées"]
     }
   ]
 }
