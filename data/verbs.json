@@ -13518,6 +13518,24 @@
       },
       "participe_present": "bouleversant",
       "participe_passe": ["bouleversé", "bouleversée", "bouleversés", "bouleversées"]
+    },
+    {
+      "id": "procurer",
+      "infinitif": "procurer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["procure", "procures", "procure", "procurons", "procurez", "procurent"],
+        "ind.imp": ["procurais", "procurais", "procurait", "procurions", "procuriez", "procuraient"],
+        "ind.ps": ["procurai", "procuras", "procura", "procurâmes", "procurâtes", "procurèrent"],
+        "ind.fut": ["procurerai", "procureras", "procurera", "procurerons", "procurerez", "procureront"],
+        "cond.pres": ["procurerais", "procurerais", "procurerait", "procurerions", "procureriez", "procureraient"],
+        "subj.pres": ["procure", "procures", "procure", "procurions", "procuriez", "procurent"],
+        "subj.imp": ["procurasse", "procurasses", "procurât", "procurassions", "procurassiez", "procurassent"],
+        "imper.pres": ["procure", "procurons", "procurez"]
+      },
+      "participe_present": "procurant",
+      "participe_passe": ["procuré", "procurée", "procurés", "procurées"]
     }
   ]
 }
