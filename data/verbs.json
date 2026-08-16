@@ -21945,6 +21945,25 @@
       },
       "participe_present": "réapparaissant",
       "participe_passe": ["réapparu", "réapparue", "réapparus", "réapparues"]
+    },
+    {
+      "id": "râler",
+      "infinitif": "râler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « râlé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["râle", "râles", "râle", "râlons", "râlez", "râlent"],
+        "ind.imp": ["râlais", "râlais", "râlait", "râlions", "râliez", "râlaient"],
+        "ind.ps": ["râlai", "râlas", "râla", "râlâmes", "râlâtes", "râlèrent"],
+        "ind.fut": ["râlerai", "râleras", "râlera", "râlerons", "râlerez", "râleront"],
+        "cond.pres": ["râlerais", "râlerais", "râlerait", "râlerions", "râleriez", "râleraient"],
+        "subj.pres": ["râle", "râles", "râle", "râlions", "râliez", "râlent"],
+        "subj.imp": ["râlasse", "râlasses", "râlât", "râlassions", "râlassiez", "râlassent"],
+        "imper.pres": ["râle", "râlons", "râlez"]
+      },
+      "participe_present": "râlant",
+      "participe_passe": ["râlé", null, null, null]
     }
   ]
 }
