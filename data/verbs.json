@@ -22199,6 +22199,24 @@
       },
       "participe_present": "reparaissant",
       "participe_passe": ["reparu", "reparue", "reparus", "reparues"]
+    },
+    {
+      "id": "submerger",
+      "infinitif": "submerger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["submerge", "submerges", "submerge", "submergeons", "submergez", "submergent"],
+        "ind.imp": ["submergeais", "submergeais", "submergeait", "submergions", "submergiez", "submergeaient"],
+        "ind.ps": ["submergeai", "submergeas", "submergea", "submergeâmes", "submergeâtes", "submergèrent"],
+        "ind.fut": ["submergerai", "submergeras", "submergera", "submergerons", "submergerez", "submergeront"],
+        "cond.pres": ["submergerais", "submergerais", "submergerait", "submergerions", "submergeriez", "submergeraient"],
+        "subj.pres": ["submerge", "submerges", "submerge", "submergions", "submergiez", "submergent"],
+        "subj.imp": ["submergeasse", "submergeasses", "submergeât", "submergeassions", "submergeassiez", "submergeassent"],
+        "imper.pres": ["submerge", "submergeons", "submergez"]
+      },
+      "participe_present": "submergeant",
+      "participe_passe": ["submergé", "submergée", "submergés", "submergées"]
     }
   ]
 }
