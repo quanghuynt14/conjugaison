@@ -23055,6 +23055,25 @@
       },
       "participe_present": "repentant",
       "participe_passe": ["repenti", "repentie", "repentis", "repenties"]
+    },
+    {
+      "id": "souper",
+      "infinitif": "souper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « soupé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["soupe", "soupes", "soupe", "soupons", "soupez", "soupent"],
+        "ind.imp": ["soupais", "soupais", "soupait", "soupions", "soupiez", "soupaient"],
+        "ind.ps": ["soupai", "soupas", "soupa", "soupâmes", "soupâtes", "soupèrent"],
+        "ind.fut": ["souperai", "souperas", "soupera", "souperons", "souperez", "souperont"],
+        "cond.pres": ["souperais", "souperais", "souperait", "souperions", "souperiez", "souperaient"],
+        "subj.pres": ["soupe", "soupes", "soupe", "soupions", "soupiez", "soupent"],
+        "subj.imp": ["soupasse", "soupasses", "soupât", "soupassions", "soupassiez", "soupassent"],
+        "imper.pres": ["soupe", "soupons", "soupez"]
+      },
+      "participe_present": "soupant",
+      "participe_passe": ["soupé", null, null, null]
     }
   ]
 }
