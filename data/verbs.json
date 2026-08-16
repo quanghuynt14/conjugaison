@@ -33359,6 +33359,24 @@
       },
       "participe_present": "carrant",
       "participe_passe": ["carré", "carrée", "carrés", "carrées"]
+    },
+    {
+      "id": "stresser",
+      "infinitif": "stresser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["stresse", "stresses", "stresse", "stressons", "stressez", "stressent"],
+        "ind.imp": ["stressais", "stressais", "stressait", "stressions", "stressiez", "stressaient"],
+        "ind.ps": ["stressai", "stressas", "stressa", "stressâmes", "stressâtes", "stressèrent"],
+        "ind.fut": ["stresserai", "stresseras", "stressera", "stresserons", "stresserez", "stresseront"],
+        "cond.pres": ["stresserais", "stresserais", "stresserait", "stresserions", "stresseriez", "stresseraient"],
+        "subj.pres": ["stresse", "stresses", "stresse", "stressions", "stressiez", "stressent"],
+        "subj.imp": ["stressasse", "stressasses", "stressât", "stressassions", "stressassiez", "stressassent"],
+        "imper.pres": ["stresse", "stressons", "stressez"]
+      },
+      "participe_present": "stressant",
+      "participe_passe": ["stressé", "stressée", "stressés", "stressées"]
     }
   ]
 }
