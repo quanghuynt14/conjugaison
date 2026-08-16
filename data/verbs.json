@@ -6207,6 +6207,24 @@
       },
       "participe_present": "reculant",
       "participe_passe": ["reculé", "reculée", "reculés", "reculées"]
+    },
+    {
+      "id": "construire",
+      "infinitif": "construire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["construis", "construis", "construit", "construisons", "construisez", "construisent"],
+        "ind.imp": ["construisais", "construisais", "construisait", "construisions", "construisiez", "construisaient"],
+        "ind.ps": ["construisis", "construisis", "construisit", "construisîmes", "construisîtes", "construisirent"],
+        "ind.fut": ["construirai", "construiras", "construira", "construirons", "construirez", "construiront"],
+        "cond.pres": ["construirais", "construirais", "construirait", "construirions", "construiriez", "construiraient"],
+        "subj.pres": ["construise", "construises", "construise", "construisions", "construisiez", "construisent"],
+        "subj.imp": ["construisisse", "construisisses", "construisît", "construisissions", "construisissiez", "construisissent"],
+        "imper.pres": ["construis", "construisons", "construisez"]
+      },
+      "participe_present": "construisant",
+      "participe_passe": ["construit", "construite", "construits", "construites"]
     }
   ]
 }
