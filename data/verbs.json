@@ -10137,6 +10137,24 @@
       },
       "participe_present": "méfiant",
       "participe_passe": ["méfié", "méfiée", "méfiés", "méfiées"]
+    },
+    {
+      "id": "emprunter",
+      "infinitif": "emprunter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emprunte", "empruntes", "emprunte", "empruntons", "empruntez", "empruntent"],
+        "ind.imp": ["empruntais", "empruntais", "empruntait", "empruntions", "empruntiez", "empruntaient"],
+        "ind.ps": ["empruntai", "empruntas", "emprunta", "empruntâmes", "empruntâtes", "empruntèrent"],
+        "ind.fut": ["emprunterai", "emprunteras", "empruntera", "emprunterons", "emprunterez", "emprunteront"],
+        "cond.pres": ["emprunterais", "emprunterais", "emprunterait", "emprunterions", "emprunteriez", "emprunteraient"],
+        "subj.pres": ["emprunte", "empruntes", "emprunte", "empruntions", "empruntiez", "empruntent"],
+        "subj.imp": ["empruntasse", "empruntasses", "empruntât", "empruntassions", "empruntassiez", "empruntassent"],
+        "imper.pres": ["emprunte", "empruntons", "empruntez"]
+      },
+      "participe_present": "empruntant",
+      "participe_passe": ["emprunté", "empruntée", "empruntés", "empruntées"]
     }
   ]
 }
