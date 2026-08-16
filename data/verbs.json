@@ -22615,6 +22615,24 @@
       },
       "participe_present": "désertant",
       "participe_passe": ["déserté", "désertée", "désertés", "désertées"]
+    },
+    {
+      "id": "exhiber",
+      "infinitif": "exhiber",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exhibe", "exhibes", "exhibe", "exhibons", "exhibez", "exhibent"],
+        "ind.imp": ["exhibais", "exhibais", "exhibait", "exhibions", "exhibiez", "exhibaient"],
+        "ind.ps": ["exhibai", "exhibas", "exhiba", "exhibâmes", "exhibâtes", "exhibèrent"],
+        "ind.fut": ["exhiberai", "exhiberas", "exhibera", "exhiberons", "exhiberez", "exhiberont"],
+        "cond.pres": ["exhiberais", "exhiberais", "exhiberait", "exhiberions", "exhiberiez", "exhiberaient"],
+        "subj.pres": ["exhibe", "exhibes", "exhibe", "exhibions", "exhibiez", "exhibent"],
+        "subj.imp": ["exhibasse", "exhibasses", "exhibât", "exhibassions", "exhibassiez", "exhibassent"],
+        "imper.pres": ["exhibe", "exhibons", "exhibez"]
+      },
+      "participe_present": "exhibant",
+      "participe_passe": ["exhibé", "exhibée", "exhibés", "exhibées"]
     }
   ]
 }
