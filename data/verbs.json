@@ -4468,6 +4468,24 @@
       },
       "participe_present": "défendant",
       "participe_passe": ["défendu", "défendue", "défendus", "défendues"]
+    },
+    {
+      "id": "obtenir",
+      "infinitif": "obtenir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["obtiens", "obtiens", "obtient", "obtenons", "obtenez", "obtiennent"],
+        "ind.imp": ["obtenais", "obtenais", "obtenait", "obtenions", "obteniez", "obtenaient"],
+        "ind.ps": ["obtins", "obtins", "obtint", "obtînmes", "obtîntes", "obtinrent"],
+        "ind.fut": ["obtiendrai", "obtiendras", "obtiendra", "obtiendrons", "obtiendrez", "obtiendront"],
+        "cond.pres": ["obtiendrais", "obtiendrais", "obtiendrait", "obtiendrions", "obtiendriez", "obtiendraient"],
+        "subj.pres": ["obtienne", "obtiennes", "obtienne", "obtenions", "obteniez", "obtiennent"],
+        "subj.imp": ["obtinsse", "obtinsses", "obtînt", "obtinssions", "obtinssiez", "obtinssent"],
+        "imper.pres": ["obtiens", "obtenons", "obtenez"]
+      },
+      "participe_present": "obtenant",
+      "participe_passe": ["obtenu", "obtenue", "obtenus", "obtenues"]
     }
   ]
 }
