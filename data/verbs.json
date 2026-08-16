@@ -1862,6 +1862,24 @@
       },
       "participe_present": "imaginant",
       "participe_passe": ["imaginé", "imaginée", "imaginés", "imaginées"]
+    },
+    {
+      "id": "expliquer",
+      "infinitif": "expliquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["explique", "expliques", "explique", "expliquons", "expliquez", "expliquent"],
+        "ind.imp": ["expliquais", "expliquais", "expliquait", "expliquions", "expliquiez", "expliquaient"],
+        "ind.ps": ["expliquai", "expliquas", "expliqua", "expliquâmes", "expliquâtes", "expliquèrent"],
+        "ind.fut": ["expliquerai", "expliqueras", "expliquera", "expliquerons", "expliquerez", "expliqueront"],
+        "cond.pres": ["expliquerais", "expliquerais", "expliquerait", "expliquerions", "expliqueriez", "expliqueraient"],
+        "subj.pres": ["explique", "expliques", "explique", "expliquions", "expliquiez", "expliquent"],
+        "subj.imp": ["expliquasse", "expliquasses", "expliquât", "expliquassions", "expliquassiez", "expliquassent"],
+        "imper.pres": ["explique", "expliquons", "expliquez"]
+      },
+      "participe_present": "expliquant",
+      "participe_passe": ["expliqué", "expliquée", "expliqués", "expliquées"]
     }
   ]
 }
