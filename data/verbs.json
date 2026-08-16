@@ -18431,6 +18431,25 @@
       },
       "participe_present": "éblouissant",
       "participe_passe": ["ébloui", "éblouie", "éblouis", "éblouies"]
+    },
+    {
+      "id": "transférer",
+      "infinitif": "transférer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je transférerai » ou « je transfèrerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["transfère", "transfères", "transfère", "transférons", "transférez", "transfèrent"],
+        "ind.imp": ["transférais", "transférais", "transférait", "transférions", "transfériez", "transféraient"],
+        "ind.ps": ["transférai", "transféras", "transféra", "transférâmes", "transférâtes", "transférèrent"],
+        "ind.fut": [["transférerai", "transfèrerai"], ["transféreras", "transfèreras"], ["transférera", "transfèrera"], ["transférerons", "transfèrerons"], ["transférerez", "transfèrerez"], ["transféreront", "transfèreront"]],
+        "cond.pres": [["transférerais", "transfèrerais"], ["transférerais", "transfèrerais"], ["transférerait", "transfèrerait"], ["transférerions", "transfèrerions"], ["transféreriez", "transfèreriez"], ["transféreraient", "transfèreraient"]],
+        "subj.pres": ["transfère", "transfères", "transfère", "transférions", "transfériez", "transfèrent"],
+        "subj.imp": ["transférasse", "transférasses", "transférât", "transférassions", "transférassiez", "transférassent"],
+        "imper.pres": ["transfère", "transférons", "transférez"]
+      },
+      "participe_present": "transférant",
+      "participe_passe": ["transféré", "transférée", "transférés", "transférées"]
     }
   ]
 }
