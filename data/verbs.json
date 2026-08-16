@@ -28779,6 +28779,25 @@
       },
       "participe_present": "colorant",
       "participe_passe": ["coloré", "colorée", "colorés", "colorées"]
+    },
+    {
+      "id": "excéder",
+      "infinitif": "excéder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « j’excéderai » ou « j’excèderai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["excède", "excèdes", "excède", "excédons", "excédez", "excèdent"],
+        "ind.imp": ["excédais", "excédais", "excédait", "excédions", "excédiez", "excédaient"],
+        "ind.ps": ["excédai", "excédas", "excéda", "excédâmes", "excédâtes", "excédèrent"],
+        "ind.fut": [["excéderai", "excèderai"], ["excéderas", "excèderas"], ["excédera", "excèdera"], ["excéderons", "excèderons"], ["excéderez", "excèderez"], ["excéderont", "excèderont"]],
+        "cond.pres": [["excéderais", "excèderais"], ["excéderais", "excèderais"], ["excéderait", "excèderait"], ["excéderions", "excèderions"], ["excéderiez", "excèderiez"], ["excéderaient", "excèderaient"]],
+        "subj.pres": ["excède", "excèdes", "excède", "excédions", "excédiez", "excèdent"],
+        "subj.imp": ["excédasse", "excédasses", "excédât", "excédassions", "excédassiez", "excédassent"],
+        "imper.pres": ["excède", "excédons", "excédez"]
+      },
+      "participe_present": "excédant",
+      "participe_passe": ["excédé", "excédée", "excédés", "excédées"]
     }
   ]
 }
