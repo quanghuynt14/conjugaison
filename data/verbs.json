@@ -10375,6 +10375,25 @@
       },
       "participe_present": "débarquant",
       "participe_passe": ["débarqué", "débarquée", "débarqués", "débarquées"]
+    },
+    {
+      "id": "sécher",
+      "infinitif": "sécher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je sécherai » ou « je sècherai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["sèche", "sèches", "sèche", "séchons", "séchez", "sèchent"],
+        "ind.imp": ["séchais", "séchais", "séchait", "séchions", "séchiez", "séchaient"],
+        "ind.ps": ["séchai", "séchas", "sécha", "séchâmes", "séchâtes", "séchèrent"],
+        "ind.fut": [["sécherai", "sècherai"], ["sécheras", "sècheras"], ["séchera", "sèchera"], ["sécherons", "sècherons"], ["sécherez", "sècherez"], ["sécheront", "sècheront"]],
+        "cond.pres": [["sécherais", "sècherais"], ["sécherais", "sècherais"], ["sécherait", "sècherait"], ["sécherions", "sècherions"], ["sécheriez", "sècheriez"], ["sécheraient", "sècheraient"]],
+        "subj.pres": ["sèche", "sèches", "sèche", "séchions", "séchiez", "sèchent"],
+        "subj.imp": ["séchasse", "séchasses", "séchât", "séchassions", "séchassiez", "séchassent"],
+        "imper.pres": ["sèche", "séchons", "séchez"]
+      },
+      "participe_present": "séchant",
+      "participe_passe": ["séché", "séchée", "séchés", "séchées"]
     }
   ]
 }
