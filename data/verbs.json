@@ -4757,6 +4757,24 @@
       },
       "participe_present": "dirigeant",
       "participe_passe": ["dirigé", "dirigée", "dirigés", "dirigées"]
+    },
+    {
+      "id": "dégager",
+      "infinitif": "dégager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dégage", "dégages", "dégage", "dégageons", "dégagez", "dégagent"],
+        "ind.imp": ["dégageais", "dégageais", "dégageait", "dégagions", "dégagiez", "dégageaient"],
+        "ind.ps": ["dégageai", "dégageas", "dégagea", "dégageâmes", "dégageâtes", "dégagèrent"],
+        "ind.fut": ["dégagerai", "dégageras", "dégagera", "dégagerons", "dégagerez", "dégageront"],
+        "cond.pres": ["dégagerais", "dégagerais", "dégagerait", "dégagerions", "dégageriez", "dégageraient"],
+        "subj.pres": ["dégage", "dégages", "dégage", "dégagions", "dégagiez", "dégagent"],
+        "subj.imp": ["dégageasse", "dégageasses", "dégageât", "dégageassions", "dégageassiez", "dégageassent"],
+        "imper.pres": ["dégage", "dégageons", "dégagez"]
+      },
+      "participe_present": "dégageant",
+      "participe_passe": ["dégagé", "dégagée", "dégagés", "dégagées"]
     }
   ]
 }
