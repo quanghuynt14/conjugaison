@@ -27303,6 +27303,24 @@
       },
       "participe_present": "tortillant",
       "participe_passe": ["tortillé", "tortillée", "tortillés", "tortillées"]
+    },
+    {
+      "id": "exhaler",
+      "infinitif": "exhaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["exhale", "exhales", "exhale", "exhalons", "exhalez", "exhalent"],
+        "ind.imp": ["exhalais", "exhalais", "exhalait", "exhalions", "exhaliez", "exhalaient"],
+        "ind.ps": ["exhalai", "exhalas", "exhala", "exhalâmes", "exhalâtes", "exhalèrent"],
+        "ind.fut": ["exhalerai", "exhaleras", "exhalera", "exhalerons", "exhalerez", "exhaleront"],
+        "cond.pres": ["exhalerais", "exhalerais", "exhalerait", "exhalerions", "exhaleriez", "exhaleraient"],
+        "subj.pres": ["exhale", "exhales", "exhale", "exhalions", "exhaliez", "exhalent"],
+        "subj.imp": ["exhalasse", "exhalasses", "exhalât", "exhalassions", "exhalassiez", "exhalassent"],
+        "imper.pres": ["exhale", "exhalons", "exhalez"]
+      },
+      "participe_present": "exhalant",
+      "participe_passe": ["exhalé", "exhalée", "exhalés", "exhalées"]
     }
   ]
 }
