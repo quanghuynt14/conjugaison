@@ -34049,6 +34049,24 @@
       },
       "participe_present": "bagarrant",
       "participe_passe": ["bagarré", null, null, null]
+    },
+    {
+      "id": "siroter",
+      "infinitif": "siroter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sirote", "sirotes", "sirote", "sirotons", "sirotez", "sirotent"],
+        "ind.imp": ["sirotais", "sirotais", "sirotait", "sirotions", "sirotiez", "sirotaient"],
+        "ind.ps": ["sirotai", "sirotas", "sirota", "sirotâmes", "sirotâtes", "sirotèrent"],
+        "ind.fut": ["siroterai", "siroteras", "sirotera", "siroterons", "siroterez", "siroteront"],
+        "cond.pres": ["siroterais", "siroterais", "siroterait", "siroterions", "siroteriez", "siroteraient"],
+        "subj.pres": ["sirote", "sirotes", "sirote", "sirotions", "sirotiez", "sirotent"],
+        "subj.imp": ["sirotasse", "sirotasses", "sirotât", "sirotassions", "sirotassiez", "sirotassent"],
+        "imper.pres": ["sirote", "sirotons", "sirotez"]
+      },
+      "participe_present": "sirotant",
+      "participe_passe": ["siroté", "sirotée", "sirotés", "sirotées"]
     }
   ]
 }
