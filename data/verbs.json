@@ -7820,6 +7820,24 @@
       },
       "participe_present": "chiant",
       "participe_passe": ["chié", "chiée", "chiés", "chiées"]
+    },
+    {
+      "id": "nettoyer",
+      "infinitif": "nettoyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["nettoie", "nettoies", "nettoie", "nettoyons", "nettoyez", "nettoient"],
+        "ind.imp": ["nettoyais", "nettoyais", "nettoyait", "nettoyions", "nettoyiez", "nettoyaient"],
+        "ind.ps": ["nettoyai", "nettoyas", "nettoya", "nettoyâmes", "nettoyâtes", "nettoyèrent"],
+        "ind.fut": ["nettoierai", "nettoieras", "nettoiera", "nettoierons", "nettoierez", "nettoieront"],
+        "cond.pres": ["nettoierais", "nettoierais", "nettoierait", "nettoierions", "nettoieriez", "nettoieraient"],
+        "subj.pres": ["nettoie", "nettoies", "nettoie", "nettoyions", "nettoyiez", "nettoient"],
+        "subj.imp": ["nettoyasse", "nettoyasses", "nettoyât", "nettoyassions", "nettoyassiez", "nettoyassent"],
+        "imper.pres": ["nettoie", "nettoyons", "nettoyez"]
+      },
+      "participe_present": "nettoyant",
+      "participe_passe": ["nettoyé", "nettoyée", "nettoyés", "nettoyées"]
     }
   ]
 }
