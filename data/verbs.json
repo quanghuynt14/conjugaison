@@ -22433,6 +22433,24 @@
       },
       "participe_present": "pâlissant",
       "participe_passe": ["pâli", "pâlie", "pâlis", "pâlies"]
+    },
+    {
+      "id": "tutoyer",
+      "infinitif": "tutoyer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tutoie", "tutoies", "tutoie", "tutoyons", "tutoyez", "tutoient"],
+        "ind.imp": ["tutoyais", "tutoyais", "tutoyait", "tutoyions", "tutoyiez", "tutoyaient"],
+        "ind.ps": ["tutoyai", "tutoyas", "tutoya", "tutoyâmes", "tutoyâtes", "tutoyèrent"],
+        "ind.fut": ["tutoierai", "tutoieras", "tutoiera", "tutoierons", "tutoierez", "tutoieront"],
+        "cond.pres": ["tutoierais", "tutoierais", "tutoierait", "tutoierions", "tutoieriez", "tutoieraient"],
+        "subj.pres": ["tutoie", "tutoies", "tutoie", "tutoyions", "tutoyiez", "tutoient"],
+        "subj.imp": ["tutoyasse", "tutoyasses", "tutoyât", "tutoyassions", "tutoyassiez", "tutoyassent"],
+        "imper.pres": ["tutoie", "tutoyons", "tutoyez"]
+      },
+      "participe_present": "tutoyant",
+      "participe_passe": ["tutoyé", "tutoyée", "tutoyés", "tutoyées"]
     }
   ]
 }
