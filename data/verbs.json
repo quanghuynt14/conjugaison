@@ -28870,6 +28870,24 @@
       },
       "participe_present": "retroussant",
       "participe_passe": ["retroussé", "retroussée", "retroussés", "retroussées"]
+    },
+    {
+      "id": "affamer",
+      "infinitif": "affamer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affame", "affames", "affame", "affamons", "affamez", "affament"],
+        "ind.imp": ["affamais", "affamais", "affamait", "affamions", "affamiez", "affamaient"],
+        "ind.ps": ["affamai", "affamas", "affama", "affamâmes", "affamâtes", "affamèrent"],
+        "ind.fut": ["affamerai", "affameras", "affamera", "affamerons", "affamerez", "affameront"],
+        "cond.pres": ["affamerais", "affamerais", "affamerait", "affamerions", "affameriez", "affameraient"],
+        "subj.pres": ["affame", "affames", "affame", "affamions", "affamiez", "affament"],
+        "subj.imp": ["affamasse", "affamasses", "affamât", "affamassions", "affamassiez", "affamassent"],
+        "imper.pres": ["affame", "affamons", "affamez"]
+      },
+      "participe_present": "affamant",
+      "participe_passe": ["affamé", "affamée", "affamés", "affamées"]
     }
   ]
 }
