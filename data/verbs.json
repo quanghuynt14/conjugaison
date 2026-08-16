@@ -3310,6 +3310,25 @@
       },
       "participe_present": "menant",
       "participe_passe": ["mené", "menée", "menés", "menées"]
+    },
+    {
+      "id": "mentir",
+      "infinitif": "mentir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « menti » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["mens", "mens", "ment", "mentons", "mentez", "mentent"],
+        "ind.imp": ["mentais", "mentais", "mentait", "mentions", "mentiez", "mentaient"],
+        "ind.ps": ["mentis", "mentis", "mentit", "mentîmes", "mentîtes", "mentirent"],
+        "ind.fut": ["mentirai", "mentiras", "mentira", "mentirons", "mentirez", "mentiront"],
+        "cond.pres": ["mentirais", "mentirais", "mentirait", "mentirions", "mentiriez", "mentiraient"],
+        "subj.pres": ["mente", "mentes", "mente", "mentions", "mentiez", "mentent"],
+        "subj.imp": ["mentisse", "mentisses", "mentît", "mentissions", "mentissiez", "mentissent"],
+        "imper.pres": ["mens", "mentons", "mentez"]
+      },
+      "participe_present": "mentant",
+      "participe_passe": ["menti", null, null, null]
     }
   ]
 }
