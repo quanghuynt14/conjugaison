@@ -13173,6 +13173,24 @@
       },
       "participe_present": "correspondant",
       "participe_passe": ["correspondu", null, null, null]
+    },
+    {
+      "id": "hocher",
+      "infinitif": "hocher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["hoche", "hoches", "hoche", "hochons", "hochez", "hochent"],
+        "ind.imp": ["hochais", "hochais", "hochait", "hochions", "hochiez", "hochaient"],
+        "ind.ps": ["hochai", "hochas", "hocha", "hochâmes", "hochâtes", "hochèrent"],
+        "ind.fut": ["hocherai", "hocheras", "hochera", "hocherons", "hocherez", "hocheront"],
+        "cond.pres": ["hocherais", "hocherais", "hocherait", "hocherions", "hocheriez", "hocheraient"],
+        "subj.pres": ["hoche", "hoches", "hoche", "hochions", "hochiez", "hochent"],
+        "subj.imp": ["hochasse", "hochasses", "hochât", "hochassions", "hochassiez", "hochassent"],
+        "imper.pres": ["hoche", "hochons", "hochez"]
+      },
+      "participe_present": "hochant",
+      "participe_passe": ["hoché", "hochée", "hochés", "hochées"]
     }
   ]
 }
