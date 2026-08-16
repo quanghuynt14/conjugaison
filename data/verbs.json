@@ -16224,6 +16224,24 @@
       },
       "participe_present": "désespérant",
       "participe_passe": ["désespéré", "désespérée", "désespérés", "désespérées"]
+    },
+    {
+      "id": "négocier",
+      "infinitif": "négocier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["négocie", "négocies", "négocie", "négocions", "négociez", "négocient"],
+        "ind.imp": ["négociais", "négociais", "négociait", "négociions", "négociiez", "négociaient"],
+        "ind.ps": ["négociai", "négocias", "négocia", "négociâmes", "négociâtes", "négocièrent"],
+        "ind.fut": ["négocierai", "négocieras", "négociera", "négocierons", "négocierez", "négocieront"],
+        "cond.pres": ["négocierais", "négocierais", "négocierait", "négocierions", "négocieriez", "négocieraient"],
+        "subj.pres": ["négocie", "négocies", "négocie", "négociions", "négociiez", "négocient"],
+        "subj.imp": ["négociasse", "négociasses", "négociât", "négociassions", "négociassiez", "négociassent"],
+        "imper.pres": ["négocie", "négocions", "négociez"]
+      },
+      "participe_present": "négociant",
+      "participe_passe": ["négocié", "négociée", "négociés", "négociées"]
     }
   ]
 }
