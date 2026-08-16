@@ -24371,6 +24371,24 @@
       },
       "participe_present": "intitulant",
       "participe_passe": ["intitulé", "intitulée", "intitulés", "intitulées"]
+    },
+    {
+      "id": "suffoquer",
+      "infinitif": "suffoquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["suffoque", "suffoques", "suffoque", "suffoquons", "suffoquez", "suffoquent"],
+        "ind.imp": ["suffoquais", "suffoquais", "suffoquait", "suffoquions", "suffoquiez", "suffoquaient"],
+        "ind.ps": ["suffoquai", "suffoquas", "suffoqua", "suffoquâmes", "suffoquâtes", "suffoquèrent"],
+        "ind.fut": ["suffoquerai", "suffoqueras", "suffoquera", "suffoquerons", "suffoquerez", "suffoqueront"],
+        "cond.pres": ["suffoquerais", "suffoquerais", "suffoquerait", "suffoquerions", "suffoqueriez", "suffoqueraient"],
+        "subj.pres": ["suffoque", "suffoques", "suffoque", "suffoquions", "suffoquiez", "suffoquent"],
+        "subj.imp": ["suffoquasse", "suffoquasses", "suffoquât", "suffoquassions", "suffoquassiez", "suffoquassent"],
+        "imper.pres": ["suffoque", "suffoquons", "suffoquez"]
+      },
+      "participe_present": "suffoquant",
+      "participe_passe": ["suffoqué", "suffoquée", "suffoqués", "suffoquées"]
     }
   ]
 }
