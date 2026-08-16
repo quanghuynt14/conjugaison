@@ -15168,6 +15168,24 @@
       },
       "participe_present": "émergeant",
       "participe_passe": ["émergé", "émergée", "émergés", "émergées"]
+    },
+    {
+      "id": "dater",
+      "infinitif": "dater",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["date", "dates", "date", "datons", "datez", "datent"],
+        "ind.imp": ["datais", "datais", "datait", "dations", "datiez", "dataient"],
+        "ind.ps": ["datai", "datas", "data", "datâmes", "datâtes", "datèrent"],
+        "ind.fut": ["daterai", "dateras", "datera", "daterons", "daterez", "dateront"],
+        "cond.pres": ["daterais", "daterais", "daterait", "daterions", "dateriez", "dateraient"],
+        "subj.pres": ["date", "dates", "date", "dations", "datiez", "datent"],
+        "subj.imp": ["datasse", "datasses", "datât", "datassions", "datassiez", "datassent"],
+        "imper.pres": ["date", "datons", "datez"]
+      },
+      "participe_present": "datant",
+      "participe_passe": ["daté", "datée", "datés", "datées"]
     }
   ]
 }
