@@ -7946,6 +7946,24 @@
       },
       "participe_present": "condamnant",
       "participe_passe": ["condamné", "condamnée", "condamnés", "condamnées"]
+    },
+    {
+      "id": "trahir",
+      "infinitif": "trahir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trahis", "trahis", "trahit", "trahissons", "trahissez", "trahissent"],
+        "ind.imp": ["trahissais", "trahissais", "trahissait", "trahissions", "trahissiez", "trahissaient"],
+        "ind.ps": ["trahis", "trahis", "trahit", "trahîmes", "trahîtes", "trahirent"],
+        "ind.fut": ["trahirai", "trahiras", "trahira", "trahirons", "trahirez", "trahiront"],
+        "cond.pres": ["trahirais", "trahirais", "trahirait", "trahirions", "trahiriez", "trahiraient"],
+        "subj.pres": ["trahisse", "trahisses", "trahisse", "trahissions", "trahissiez", "trahissent"],
+        "subj.imp": ["trahisse", "trahisses", "trahît", "trahissions", "trahissiez", "trahissent"],
+        "imper.pres": ["trahis", "trahissons", "trahissez"]
+      },
+      "participe_present": "trahissant",
+      "participe_passe": ["trahi", "trahie", "trahis", "trahies"]
     }
   ]
 }
