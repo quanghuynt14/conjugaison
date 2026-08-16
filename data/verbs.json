@@ -27485,6 +27485,24 @@
       },
       "participe_present": "crépitant",
       "participe_passe": ["crépité", null, null, null]
+    },
+    {
+      "id": "surnommer",
+      "infinitif": "surnommer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["surnomme", "surnommes", "surnomme", "surnommons", "surnommez", "surnomment"],
+        "ind.imp": ["surnommais", "surnommais", "surnommait", "surnommions", "surnommiez", "surnommaient"],
+        "ind.ps": ["surnommai", "surnommas", "surnomma", "surnommâmes", "surnommâtes", "surnommèrent"],
+        "ind.fut": ["surnommerai", "surnommeras", "surnommera", "surnommerons", "surnommerez", "surnommeront"],
+        "cond.pres": ["surnommerais", "surnommerais", "surnommerait", "surnommerions", "surnommeriez", "surnommeraient"],
+        "subj.pres": ["surnomme", "surnommes", "surnomme", "surnommions", "surnommiez", "surnomment"],
+        "subj.imp": ["surnommasse", "surnommasses", "surnommât", "surnommassions", "surnommassiez", "surnommassent"],
+        "imper.pres": ["surnomme", "surnommons", "surnommez"]
+      },
+      "participe_present": "surnommant",
+      "participe_passe": ["surnommé", "surnommée", "surnommés", "surnommées"]
     }
   ]
 }
