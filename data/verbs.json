@@ -23725,6 +23725,24 @@
       },
       "participe_present": "reconstruisant",
       "participe_passe": ["reconstruit", "reconstruite", "reconstruits", "reconstruites"]
+    },
+    {
+      "id": "affaler",
+      "infinitif": "affaler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["affale", "affales", "affale", "affalons", "affalez", "affalent"],
+        "ind.imp": ["affalais", "affalais", "affalait", "affalions", "affaliez", "affalaient"],
+        "ind.ps": ["affalai", "affalas", "affala", "affalâmes", "affalâtes", "affalèrent"],
+        "ind.fut": ["affalerai", "affaleras", "affalera", "affalerons", "affalerez", "affaleront"],
+        "cond.pres": ["affalerais", "affalerais", "affalerait", "affalerions", "affaleriez", "affaleraient"],
+        "subj.pres": ["affale", "affales", "affale", "affalions", "affaliez", "affalent"],
+        "subj.imp": ["affalasse", "affalasses", "affalât", "affalassions", "affalassiez", "affalassent"],
+        "imper.pres": ["affale", "affalons", "affalez"]
+      },
+      "participe_present": "affalant",
+      "participe_passe": ["affalé", "affalée", "affalés", "affalées"]
     }
   ]
 }
