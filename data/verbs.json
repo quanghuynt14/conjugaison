@@ -28048,6 +28048,24 @@
       },
       "participe_present": "secourant",
       "participe_passe": ["secouru", "secourue", "secourus", "secourues"]
+    },
+    {
+      "id": "taquiner",
+      "infinitif": "taquiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["taquine", "taquines", "taquine", "taquinons", "taquinez", "taquinent"],
+        "ind.imp": ["taquinais", "taquinais", "taquinait", "taquinions", "taquiniez", "taquinaient"],
+        "ind.ps": ["taquinai", "taquinas", "taquina", "taquinâmes", "taquinâtes", "taquinèrent"],
+        "ind.fut": ["taquinerai", "taquineras", "taquinera", "taquinerons", "taquinerez", "taquineront"],
+        "cond.pres": ["taquinerais", "taquinerais", "taquinerait", "taquinerions", "taquineriez", "taquineraient"],
+        "subj.pres": ["taquine", "taquines", "taquine", "taquinions", "taquiniez", "taquinent"],
+        "subj.imp": ["taquinasse", "taquinasses", "taquinât", "taquinassions", "taquinassiez", "taquinassent"],
+        "imper.pres": ["taquine", "taquinons", "taquinez"]
+      },
+      "participe_present": "taquinant",
+      "participe_passe": ["taquiné", "taquinée", "taquinés", "taquinées"]
     }
   ]
 }
