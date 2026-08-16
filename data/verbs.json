@@ -36261,6 +36261,24 @@
       },
       "participe_present": "tramant",
       "participe_passe": ["tramé", "tramée", "tramés", "tramées"]
+    },
+    {
+      "id": "troquer",
+      "infinitif": "troquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["troque", "troques", "troque", "troquons", "troquez", "troquent"],
+        "ind.imp": ["troquais", "troquais", "troquait", "troquions", "troquiez", "troquaient"],
+        "ind.ps": ["troquai", "troquas", "troqua", "troquâmes", "troquâtes", "troquèrent"],
+        "ind.fut": ["troquerai", "troqueras", "troquera", "troquerons", "troquerez", "troqueront"],
+        "cond.pres": ["troquerais", "troquerais", "troquerait", "troquerions", "troqueriez", "troqueraient"],
+        "subj.pres": ["troque", "troques", "troque", "troquions", "troquiez", "troquent"],
+        "subj.imp": ["troquasse", "troquasses", "troquât", "troquassions", "troquassiez", "troquassent"],
+        "imper.pres": ["troque", "troquons", "troquez"]
+      },
+      "participe_present": "troquant",
+      "participe_passe": ["troqué", "troquée", "troqués", "troquées"]
     }
   ]
 }
