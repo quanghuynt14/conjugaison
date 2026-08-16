@@ -30912,6 +30912,24 @@
       },
       "participe_present": "consignant",
       "participe_passe": ["consigné", "consignée", "consignés", "consignées"]
+    },
+    {
+      "id": "ferrer",
+      "infinitif": "ferrer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ferre", "ferres", "ferre", "ferrons", "ferrez", "ferrent"],
+        "ind.imp": ["ferrais", "ferrais", "ferrait", "ferrions", "ferriez", "ferraient"],
+        "ind.ps": ["ferrai", "ferras", "ferra", "ferrâmes", "ferrâtes", "ferrèrent"],
+        "ind.fut": ["ferrerai", "ferreras", "ferrera", "ferrerons", "ferrerez", "ferreront"],
+        "cond.pres": ["ferrerais", "ferrerais", "ferrerait", "ferrerions", "ferreriez", "ferreraient"],
+        "subj.pres": ["ferre", "ferres", "ferre", "ferrions", "ferriez", "ferrent"],
+        "subj.imp": ["ferrasse", "ferrasses", "ferrât", "ferrassions", "ferrassiez", "ferrassent"],
+        "imper.pres": ["ferre", "ferrons", "ferrez"]
+      },
+      "participe_present": "ferrant",
+      "participe_passe": ["ferré", "ferrée", "ferrés", "ferrées"]
     }
   ]
 }
