@@ -25406,6 +25406,24 @@
       },
       "participe_present": "assoupissant",
       "participe_passe": ["assoupi", "assoupie", "assoupis", "assoupies"]
+    },
+    {
+      "id": "paumer",
+      "infinitif": "paumer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["paume", "paumes", "paume", "paumons", "paumez", "paument"],
+        "ind.imp": ["paumais", "paumais", "paumait", "paumions", "paumiez", "paumaient"],
+        "ind.ps": ["paumai", "paumas", "pauma", "paumâmes", "paumâtes", "paumèrent"],
+        "ind.fut": ["paumerai", "paumeras", "paumera", "paumerons", "paumerez", "paumeront"],
+        "cond.pres": ["paumerais", "paumerais", "paumerait", "paumerions", "paumeriez", "paumeraient"],
+        "subj.pres": ["paume", "paumes", "paume", "paumions", "paumiez", "paument"],
+        "subj.imp": ["paumasse", "paumasses", "paumât", "paumassions", "paumassiez", "paumassent"],
+        "imper.pres": ["paume", "paumons", "paumez"]
+      },
+      "participe_present": "paumant",
+      "participe_passe": ["paumé", "paumée", "paumés", "paumées"]
     }
   ]
 }
