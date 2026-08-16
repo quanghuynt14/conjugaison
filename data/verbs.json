@@ -13028,6 +13028,24 @@
       },
       "participe_present": "distrayant",
       "participe_passe": ["distrait", "distraite", "distraits", "distraites"]
+    },
+    {
+      "id": "étirer",
+      "infinitif": "étirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["étire", "étires", "étire", "étirons", "étirez", "étirent"],
+        "ind.imp": ["étirais", "étirais", "étirait", "étirions", "étiriez", "étiraient"],
+        "ind.ps": ["étirai", "étiras", "étira", "étirâmes", "étirâtes", "étirèrent"],
+        "ind.fut": ["étirerai", "étireras", "étirera", "étirerons", "étirerez", "étireront"],
+        "cond.pres": ["étirerais", "étirerais", "étirerait", "étirerions", "étireriez", "étireraient"],
+        "subj.pres": ["étire", "étires", "étire", "étirions", "étiriez", "étirent"],
+        "subj.imp": ["étirasse", "étirasses", "étirât", "étirassions", "étirassiez", "étirassent"],
+        "imper.pres": ["étire", "étirons", "étirez"]
+      },
+      "participe_present": "étirant",
+      "participe_passe": ["étiré", "étirée", "étirés", "étirées"]
     }
   ]
 }
