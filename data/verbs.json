@@ -22001,6 +22001,24 @@
       },
       "participe_present": "sanglotant",
       "participe_passe": ["sangloté", null, null, null]
+    },
+    {
+      "id": "chausser",
+      "infinitif": "chausser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["chausse", "chausses", "chausse", "chaussons", "chaussez", "chaussent"],
+        "ind.imp": ["chaussais", "chaussais", "chaussait", "chaussions", "chaussiez", "chaussaient"],
+        "ind.ps": ["chaussai", "chaussas", "chaussa", "chaussâmes", "chaussâtes", "chaussèrent"],
+        "ind.fut": ["chausserai", "chausseras", "chaussera", "chausserons", "chausserez", "chausseront"],
+        "cond.pres": ["chausserais", "chausserais", "chausserait", "chausserions", "chausseriez", "chausseraient"],
+        "subj.pres": ["chausse", "chausses", "chausse", "chaussions", "chaussiez", "chaussent"],
+        "subj.imp": ["chaussasse", "chaussasses", "chaussât", "chaussassions", "chaussassiez", "chaussassent"],
+        "imper.pres": ["chausse", "chaussons", "chaussez"]
+      },
+      "participe_present": "chaussant",
+      "participe_passe": ["chaussé", "chaussée", "chaussés", "chaussées"]
     }
   ]
 }
