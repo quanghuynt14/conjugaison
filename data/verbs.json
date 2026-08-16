@@ -26717,6 +26717,25 @@
       },
       "participe_present": "palpitant",
       "participe_passe": ["palpité", null, null, null]
+    },
+    {
+      "id": "résulter",
+      "infinitif": "résulter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Verbe impersonnel ou de troisième personne : il résulte, elles résultent. On ne dit pas « je résulte ».",
+      "tenses": {
+        "ind.pres": [null, null, "résulte", null, null, "résultent"],
+        "ind.imp": [null, null, "résultait", null, null, "résultaient"],
+        "ind.ps": [null, null, "résulta", null, null, "résultèrent"],
+        "ind.fut": [null, null, "résultera", null, null, "résulteront"],
+        "cond.pres": [null, null, "résulterait", null, null, "résulteraient"],
+        "subj.pres": [null, null, "résulte", null, null, "résultent"],
+        "subj.imp": [null, null, "résultât", null, null, "résultassent"],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": "résultant",
+      "participe_passe": ["résulté", null, null, null]
     }
   ]
 }
