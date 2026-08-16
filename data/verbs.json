@@ -17548,6 +17548,26 @@
       },
       "participe_present": "rouillant",
       "participe_passe": ["rouillé", "rouillée", "rouillés", "rouillées"]
+    },
+    {
+      "id": "évader",
+      "infinitif": "évader",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je m’évade » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["évade", "évades", "évade", "évadons", "évadez", "évadent"],
+        "ind.imp": ["évadais", "évadais", "évadait", "évadions", "évadiez", "évadaient"],
+        "ind.ps": ["évadai", "évadas", "évada", "évadâmes", "évadâtes", "évadèrent"],
+        "ind.fut": ["évaderai", "évaderas", "évadera", "évaderons", "évaderez", "évaderont"],
+        "cond.pres": ["évaderais", "évaderais", "évaderait", "évaderions", "évaderiez", "évaderaient"],
+        "subj.pres": ["évade", "évades", "évade", "évadions", "évadiez", "évadent"],
+        "subj.imp": ["évadasse", "évadasses", "évadât", "évadassions", "évadassiez", "évadassent"],
+        "imper.pres": ["évade", "évadons", "évadez"]
+      },
+      "participe_present": "évadant",
+      "participe_passe": ["évadé", "évadée", "évadés", "évadées"]
     }
   ]
 }
