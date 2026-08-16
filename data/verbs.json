@@ -18868,6 +18868,25 @@
       },
       "participe_present": "rajoutant",
       "participe_passe": ["rajouté", "rajoutée", "rajoutés", "rajoutées"]
+    },
+    {
+      "id": "grincer",
+      "infinitif": "grincer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « grincé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["grince", "grinces", "grince", "grinçons", "grincez", "grincent"],
+        "ind.imp": ["grinçais", "grinçais", "grinçait", "grincions", "grinciez", "grinçaient"],
+        "ind.ps": ["grinçai", "grinças", "grinça", "grinçâmes", "grinçâtes", "grincèrent"],
+        "ind.fut": ["grincerai", "grinceras", "grincera", "grincerons", "grincerez", "grinceront"],
+        "cond.pres": ["grincerais", "grincerais", "grincerait", "grincerions", "grinceriez", "grinceraient"],
+        "subj.pres": ["grince", "grinces", "grince", "grincions", "grinciez", "grincent"],
+        "subj.imp": ["grinçasse", "grinçasses", "grinçât", "grinçassions", "grinçassiez", "grinçassent"],
+        "imper.pres": ["grince", "grinçons", "grincez"]
+      },
+      "participe_present": "grinçant",
+      "participe_passe": ["grincé", null, null, null]
     }
   ]
 }
