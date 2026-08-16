@@ -31512,6 +31512,24 @@
       },
       "participe_present": "énumérant",
       "participe_passe": ["énuméré", "énumérée", "énumérés", "énumérées"]
+    },
+    {
+      "id": "casquer",
+      "infinitif": "casquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["casque", "casques", "casque", "casquons", "casquez", "casquent"],
+        "ind.imp": ["casquais", "casquais", "casquait", "casquions", "casquiez", "casquaient"],
+        "ind.ps": ["casquai", "casquas", "casqua", "casquâmes", "casquâtes", "casquèrent"],
+        "ind.fut": ["casquerai", "casqueras", "casquera", "casquerons", "casquerez", "casqueront"],
+        "cond.pres": ["casquerais", "casquerais", "casquerait", "casquerions", "casqueriez", "casqueraient"],
+        "subj.pres": ["casque", "casques", "casque", "casquions", "casquiez", "casquent"],
+        "subj.imp": ["casquasse", "casquasses", "casquât", "casquassions", "casquassiez", "casquassent"],
+        "imper.pres": ["casque", "casquons", "casquez"]
+      },
+      "participe_present": "casquant",
+      "participe_passe": ["casqué", "casquée", "casqués", "casquées"]
     }
   ]
 }
