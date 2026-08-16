@@ -16787,6 +16787,24 @@
       },
       "participe_present": "frémissant",
       "participe_passe": ["frémi", null, null, null]
+    },
+    {
+      "id": "associer",
+      "infinitif": "associer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["associe", "associes", "associe", "associons", "associez", "associent"],
+        "ind.imp": ["associais", "associais", "associait", "associions", "associiez", "associaient"],
+        "ind.ps": ["associai", "associas", "associa", "associâmes", "associâtes", "associèrent"],
+        "ind.fut": ["associerai", "associeras", "associera", "associerons", "associerez", "associeront"],
+        "cond.pres": ["associerais", "associerais", "associerait", "associerions", "associeriez", "associeraient"],
+        "subj.pres": ["associe", "associes", "associe", "associions", "associiez", "associent"],
+        "subj.imp": ["associasse", "associasses", "associât", "associassions", "associassiez", "associassent"],
+        "imper.pres": ["associe", "associons", "associez"]
+      },
+      "participe_present": "associant",
+      "participe_passe": ["associé", "associée", "associés", "associées"]
     }
   ]
 }
