@@ -30366,6 +30366,24 @@
       },
       "participe_present": "fanant",
       "participe_passe": ["fané", "fanée", "fanés", "fanées"]
+    },
+    {
+      "id": "approfondir",
+      "infinitif": "approfondir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["approfondis", "approfondis", "approfondit", "approfondissons", "approfondissez", "approfondissent"],
+        "ind.imp": ["approfondissais", "approfondissais", "approfondissait", "approfondissions", "approfondissiez", "approfondissaient"],
+        "ind.ps": ["approfondis", "approfondis", "approfondit", "approfondîmes", "approfondîtes", "approfondirent"],
+        "ind.fut": ["approfondirai", "approfondiras", "approfondira", "approfondirons", "approfondirez", "approfondiront"],
+        "cond.pres": ["approfondirais", "approfondirais", "approfondirait", "approfondirions", "approfondiriez", "approfondiraient"],
+        "subj.pres": ["approfondisse", "approfondisses", "approfondisse", "approfondissions", "approfondissiez", "approfondissent"],
+        "subj.imp": ["approfondisse", "approfondisses", "approfondît", "approfondissions", "approfondissiez", "approfondissent"],
+        "imper.pres": ["approfondis", "approfondissons", "approfondissez"]
+      },
+      "participe_present": "approfondissant",
+      "participe_passe": ["approfondi", "approfondie", "approfondis", "approfondies"]
     }
   ]
 }
