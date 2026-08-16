@@ -30785,6 +30785,24 @@
       },
       "participe_present": "coïncidant",
       "participe_passe": ["coïncidé", null, null, null]
+    },
+    {
+      "id": "saboter",
+      "infinitif": "saboter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sabote", "sabotes", "sabote", "sabotons", "sabotez", "sabotent"],
+        "ind.imp": ["sabotais", "sabotais", "sabotait", "sabotions", "sabotiez", "sabotaient"],
+        "ind.ps": ["sabotai", "sabotas", "sabota", "sabotâmes", "sabotâtes", "sabotèrent"],
+        "ind.fut": ["saboterai", "saboteras", "sabotera", "saboterons", "saboterez", "saboteront"],
+        "cond.pres": ["saboterais", "saboterais", "saboterait", "saboterions", "saboteriez", "saboteraient"],
+        "subj.pres": ["sabote", "sabotes", "sabote", "sabotions", "sabotiez", "sabotent"],
+        "subj.imp": ["sabotasse", "sabotasses", "sabotât", "sabotassions", "sabotassiez", "sabotassent"],
+        "imper.pres": ["sabote", "sabotons", "sabotez"]
+      },
+      "participe_present": "sabotant",
+      "participe_passe": ["saboté", "sabotée", "sabotés", "sabotées"]
     }
   ]
 }
