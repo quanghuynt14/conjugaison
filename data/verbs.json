@@ -16476,6 +16476,25 @@
       },
       "participe_present": "effleurant",
       "participe_passe": ["effleuré", "effleurée", "effleurés", "effleurées"]
+    },
+    {
+      "id": "piéger",
+      "infinitif": "piéger",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je piégerai » ou « je piègerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["piège", "pièges", "piège", "piégeons", "piégez", "piègent"],
+        "ind.imp": ["piégeais", "piégeais", "piégeait", "piégions", "piégiez", "piégeaient"],
+        "ind.ps": ["piégeai", "piégeas", "piégea", "piégeâmes", "piégeâtes", "piégèrent"],
+        "ind.fut": [["piégerai", "piègerai"], ["piégeras", "piègeras"], ["piégera", "piègera"], ["piégerons", "piègerons"], ["piégerez", "piègerez"], ["piégeront", "piègeront"]],
+        "cond.pres": [["piégerais", "piègerais"], ["piégerais", "piègerais"], ["piégerait", "piègerait"], ["piégerions", "piègerions"], ["piégeriez", "piègeriez"], ["piégeraient", "piègeraient"]],
+        "subj.pres": ["piège", "pièges", "piège", "piégions", "piégiez", "piègent"],
+        "subj.imp": ["piégeasse", "piégeasses", "piégeât", "piégeassions", "piégeassiez", "piégeassent"],
+        "imper.pres": ["piège", "piégeons", "piégez"]
+      },
+      "participe_present": "piégeant",
+      "participe_passe": ["piégé", "piégée", "piégés", "piégées"]
     }
   ]
 }
