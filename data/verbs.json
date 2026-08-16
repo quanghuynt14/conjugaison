@@ -23634,6 +23634,24 @@
       },
       "participe_present": "déformant",
       "participe_passe": ["déformé", "déformée", "déformés", "déformées"]
+    },
+    {
+      "id": "alimenter",
+      "infinitif": "alimenter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["alimente", "alimentes", "alimente", "alimentons", "alimentez", "alimentent"],
+        "ind.imp": ["alimentais", "alimentais", "alimentait", "alimentions", "alimentiez", "alimentaient"],
+        "ind.ps": ["alimentai", "alimentas", "alimenta", "alimentâmes", "alimentâtes", "alimentèrent"],
+        "ind.fut": ["alimenterai", "alimenteras", "alimentera", "alimenterons", "alimenterez", "alimenteront"],
+        "cond.pres": ["alimenterais", "alimenterais", "alimenterait", "alimenterions", "alimenteriez", "alimenteraient"],
+        "subj.pres": ["alimente", "alimentes", "alimente", "alimentions", "alimentiez", "alimentent"],
+        "subj.imp": ["alimentasse", "alimentasses", "alimentât", "alimentassions", "alimentassiez", "alimentassent"],
+        "imper.pres": ["alimente", "alimentons", "alimentez"]
+      },
+      "participe_present": "alimentant",
+      "participe_passe": ["alimenté", "alimentée", "alimentés", "alimentées"]
     }
   ]
 }
