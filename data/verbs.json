@@ -18814,6 +18814,24 @@
       },
       "participe_present": "élançant",
       "participe_passe": ["élancé", "élancée", "élancés", "élancées"]
+    },
+    {
+      "id": "bercer",
+      "infinitif": "bercer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["berce", "berces", "berce", "berçons", "bercez", "bercent"],
+        "ind.imp": ["berçais", "berçais", "berçait", "bercions", "berciez", "berçaient"],
+        "ind.ps": ["berçai", "berças", "berça", "berçâmes", "berçâtes", "bercèrent"],
+        "ind.fut": ["bercerai", "berceras", "bercera", "bercerons", "bercerez", "berceront"],
+        "cond.pres": ["bercerais", "bercerais", "bercerait", "bercerions", "berceriez", "berceraient"],
+        "subj.pres": ["berce", "berces", "berce", "bercions", "berciez", "bercent"],
+        "subj.imp": ["berçasse", "berçasses", "berçât", "berçassions", "berçassiez", "berçassent"],
+        "imper.pres": ["berce", "berçons", "bercez"]
+      },
+      "participe_present": "berçant",
+      "participe_passe": ["bercé", "bercée", "bercés", "bercées"]
     }
   ]
 }
