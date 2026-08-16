@@ -36243,6 +36243,24 @@
       },
       "participe_present": "mordillant",
       "participe_passe": ["mordillé", "mordillée", "mordillés", "mordillées"]
+    },
+    {
+      "id": "tramer",
+      "infinitif": "tramer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trame", "trames", "trame", "tramons", "tramez", "trament"],
+        "ind.imp": ["tramais", "tramais", "tramait", "tramions", "tramiez", "tramaient"],
+        "ind.ps": ["tramai", "tramas", "trama", "tramâmes", "tramâtes", "tramèrent"],
+        "ind.fut": ["tramerai", "trameras", "tramera", "tramerons", "tramerez", "trameront"],
+        "cond.pres": ["tramerais", "tramerais", "tramerait", "tramerions", "trameriez", "trameraient"],
+        "subj.pres": ["trame", "trames", "trame", "tramions", "tramiez", "trament"],
+        "subj.imp": ["tramasse", "tramasses", "tramât", "tramassions", "tramassiez", "tramassent"],
+        "imper.pres": ["trame", "tramons", "tramez"]
+      },
+      "participe_present": "tramant",
+      "participe_passe": ["tramé", "tramée", "tramés", "tramées"]
     }
   ]
 }
