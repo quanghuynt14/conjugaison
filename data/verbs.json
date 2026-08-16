@@ -32301,6 +32301,25 @@
       },
       "participe_present": "déchiquetant",
       "participe_passe": ["déchiqueté", "déchiquetée", "déchiquetés", "déchiquetées"]
+    },
+    {
+      "id": "hacher",
+      "infinitif": "hacher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "h_aspire": true,
+      "tenses": {
+        "ind.pres": ["hache", "haches", "hache", "hachons", "hachez", "hachent"],
+        "ind.imp": ["hachais", "hachais", "hachait", "hachions", "hachiez", "hachaient"],
+        "ind.ps": ["hachai", "hachas", "hacha", "hachâmes", "hachâtes", "hachèrent"],
+        "ind.fut": ["hacherai", "hacheras", "hachera", "hacherons", "hacherez", "hacheront"],
+        "cond.pres": ["hacherais", "hacherais", "hacherait", "hacherions", "hacheriez", "hacheraient"],
+        "subj.pres": ["hache", "haches", "hache", "hachions", "hachiez", "hachent"],
+        "subj.imp": ["hachasse", "hachasses", "hachât", "hachassions", "hachassiez", "hachassent"],
+        "imper.pres": ["hache", "hachons", "hachez"]
+      },
+      "participe_present": "hachant",
+      "participe_passe": ["haché", "hachée", "hachés", "hachées"]
     }
   ]
 }
