@@ -4902,6 +4902,24 @@
       },
       "participe_present": "élevant",
       "participe_passe": ["élevé", "élevée", "élevés", "élevées"]
+    },
+    {
+      "id": "prévoir",
+      "infinitif": "prévoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prévois", "prévois", "prévoit", "prévoyons", "prévoyez", "prévoient"],
+        "ind.imp": ["prévoyais", "prévoyais", "prévoyait", "prévoyions", "prévoyiez", "prévoyaient"],
+        "ind.ps": ["prévis", "prévis", "prévit", "prévîmes", "prévîtes", "prévirent"],
+        "ind.fut": ["prévoirai", "prévoiras", "prévoira", "prévoirons", "prévoirez", "prévoiront"],
+        "cond.pres": ["prévoirais", "prévoirais", "prévoirait", "prévoirions", "prévoiriez", "prévoiraient"],
+        "subj.pres": ["prévoie", "prévoies", "prévoie", "prévoyions", "prévoyiez", "prévoient"],
+        "subj.imp": ["prévisse", "prévisses", "prévît", "prévissions", "prévissiez", "prévissent"],
+        "imper.pres": ["prévois", "prévoyons", "prévoyez"]
+      },
+      "participe_present": "prévoyant",
+      "participe_passe": ["prévu", "prévue", "prévus", "prévues"]
     }
   ]
 }
