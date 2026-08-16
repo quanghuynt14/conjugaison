@@ -4703,6 +4703,24 @@
       },
       "participe_present": "regrettant",
       "participe_passe": ["regretté", "regrettée", "regrettés", "regrettées"]
+    },
+    {
+      "id": "relever",
+      "infinitif": "relever",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["relève", "relèves", "relève", "relevons", "relevez", "relèvent"],
+        "ind.imp": ["relevais", "relevais", "relevait", "relevions", "releviez", "relevaient"],
+        "ind.ps": ["relevai", "relevas", "releva", "relevâmes", "relevâtes", "relevèrent"],
+        "ind.fut": ["relèverai", "relèveras", "relèvera", "relèverons", "relèverez", "relèveront"],
+        "cond.pres": ["relèverais", "relèverais", "relèverait", "relèverions", "relèveriez", "relèveraient"],
+        "subj.pres": ["relève", "relèves", "relève", "relevions", "releviez", "relèvent"],
+        "subj.imp": ["relevasse", "relevasses", "relevât", "relevassions", "relevassiez", "relevassent"],
+        "imper.pres": ["relève", "relevons", "relevez"]
+      },
+      "participe_present": "relevant",
+      "participe_passe": ["relevé", "relevée", "relevés", "relevées"]
     }
   ]
 }
