@@ -32320,6 +32320,24 @@
       },
       "participe_present": "hachant",
       "participe_passe": ["haché", "hachée", "hachés", "hachées"]
+    },
+    {
+      "id": "dévier",
+      "infinitif": "dévier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dévie", "dévies", "dévie", "dévions", "déviez", "dévient"],
+        "ind.imp": ["déviais", "déviais", "déviait", "déviions", "déviiez", "déviaient"],
+        "ind.ps": ["déviai", "dévias", "dévia", "déviâmes", "déviâtes", "dévièrent"],
+        "ind.fut": ["dévierai", "dévieras", "déviera", "dévierons", "dévierez", "dévieront"],
+        "cond.pres": ["dévierais", "dévierais", "dévierait", "dévierions", "dévieriez", "dévieraient"],
+        "subj.pres": ["dévie", "dévies", "dévie", "déviions", "déviiez", "dévient"],
+        "subj.imp": ["déviasse", "déviasses", "déviât", "déviassions", "déviassiez", "déviassent"],
+        "imper.pres": ["dévie", "dévions", "déviez"]
+      },
+      "participe_present": "déviant",
+      "participe_passe": ["dévié", "déviée", "déviés", "déviées"]
     }
   ]
 }
