@@ -29381,6 +29381,24 @@
       },
       "participe_present": "tressant",
       "participe_passe": ["tressé", "tressée", "tressés", "tressées"]
+    },
+    {
+      "id": "aiguiser",
+      "infinitif": "aiguiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aiguise", "aiguises", "aiguise", "aiguisons", "aiguisez", "aiguisent"],
+        "ind.imp": ["aiguisais", "aiguisais", "aiguisait", "aiguisions", "aiguisiez", "aiguisaient"],
+        "ind.ps": ["aiguisai", "aiguisas", "aiguisa", "aiguisâmes", "aiguisâtes", "aiguisèrent"],
+        "ind.fut": ["aiguiserai", "aiguiseras", "aiguisera", "aiguiserons", "aiguiserez", "aiguiseront"],
+        "cond.pres": ["aiguiserais", "aiguiserais", "aiguiserait", "aiguiserions", "aiguiseriez", "aiguiseraient"],
+        "subj.pres": ["aiguise", "aiguises", "aiguise", "aiguisions", "aiguisiez", "aiguisent"],
+        "subj.imp": ["aiguisasse", "aiguisasses", "aiguisât", "aiguisassions", "aiguisassiez", "aiguisassent"],
+        "imper.pres": ["aiguise", "aiguisons", "aiguisez"]
+      },
+      "participe_present": "aiguisant",
+      "participe_passe": ["aiguisé", "aiguisée", "aiguisés", "aiguisées"]
     }
   ]
 }
