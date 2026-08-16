@@ -34597,6 +34597,25 @@
       },
       "participe_present": "resplendissant",
       "participe_passe": ["resplendi", null, null, null]
+    },
+    {
+      "id": "tonner",
+      "infinitif": "tonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « tonné » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["tonne", "tonnes", "tonne", "tonnons", "tonnez", "tonnent"],
+        "ind.imp": ["tonnais", "tonnais", "tonnait", "tonnions", "tonniez", "tonnaient"],
+        "ind.ps": ["tonnai", "tonnas", "tonna", "tonnâmes", "tonnâtes", "tonnèrent"],
+        "ind.fut": ["tonnerai", "tonneras", "tonnera", "tonnerons", "tonnerez", "tonneront"],
+        "cond.pres": ["tonnerais", "tonnerais", "tonnerait", "tonnerions", "tonneriez", "tonneraient"],
+        "subj.pres": ["tonne", "tonnes", "tonne", "tonnions", "tonniez", "tonnent"],
+        "subj.imp": ["tonnasse", "tonnasses", "tonnât", "tonnassions", "tonnassiez", "tonnassent"],
+        "imper.pres": ["tonne", "tonnons", "tonnez"]
+      },
+      "participe_present": "tonnant",
+      "participe_passe": ["tonné", null, null, null]
     }
   ]
 }
