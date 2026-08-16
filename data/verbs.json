@@ -32410,6 +32410,24 @@
       },
       "participe_present": "lorgnant",
       "participe_passe": ["lorgné", "lorgnée", "lorgnés", "lorgnées"]
+    },
+    {
+      "id": "dégrader",
+      "infinitif": "dégrader",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dégrade", "dégrades", "dégrade", "dégradons", "dégradez", "dégradent"],
+        "ind.imp": ["dégradais", "dégradais", "dégradait", "dégradions", "dégradiez", "dégradaient"],
+        "ind.ps": ["dégradai", "dégradas", "dégrada", "dégradâmes", "dégradâtes", "dégradèrent"],
+        "ind.fut": ["dégraderai", "dégraderas", "dégradera", "dégraderons", "dégraderez", "dégraderont"],
+        "cond.pres": ["dégraderais", "dégraderais", "dégraderait", "dégraderions", "dégraderiez", "dégraderaient"],
+        "subj.pres": ["dégrade", "dégrades", "dégrade", "dégradions", "dégradiez", "dégradent"],
+        "subj.imp": ["dégradasse", "dégradasses", "dégradât", "dégradassions", "dégradassiez", "dégradassent"],
+        "imper.pres": ["dégrade", "dégradons", "dégradez"]
+      },
+      "participe_present": "dégradant",
+      "participe_passe": ["dégradé", "dégradée", "dégradés", "dégradées"]
     }
   ]
 }
