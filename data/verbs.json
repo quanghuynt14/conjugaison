@@ -2332,6 +2332,24 @@
       },
       "participe_present": "sauvant",
       "participe_passe": ["sauvé", "sauvée", "sauvés", "sauvées"]
+    },
+    {
+      "id": "préparer",
+      "infinitif": "préparer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["prépare", "prépares", "prépare", "préparons", "préparez", "préparent"],
+        "ind.imp": ["préparais", "préparais", "préparait", "préparions", "prépariez", "préparaient"],
+        "ind.ps": ["préparai", "préparas", "prépara", "préparâmes", "préparâtes", "préparèrent"],
+        "ind.fut": ["préparerai", "prépareras", "préparera", "préparerons", "préparerez", "prépareront"],
+        "cond.pres": ["préparerais", "préparerais", "préparerait", "préparerions", "prépareriez", "prépareraient"],
+        "subj.pres": ["prépare", "prépares", "prépare", "préparions", "prépariez", "préparent"],
+        "subj.imp": ["préparasse", "préparasses", "préparât", "préparassions", "préparassiez", "préparassent"],
+        "imper.pres": ["prépare", "préparons", "préparez"]
+      },
+      "participe_present": "préparant",
+      "participe_passe": ["préparé", "préparée", "préparés", "préparées"]
     }
   ]
 }
