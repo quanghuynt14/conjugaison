@@ -15734,6 +15734,24 @@
       },
       "participe_present": "massacrant",
       "participe_passe": ["massacré", "massacrée", "massacrés", "massacrées"]
+    },
+    {
+      "id": "gronder",
+      "infinitif": "gronder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["gronde", "grondes", "gronde", "grondons", "grondez", "grondent"],
+        "ind.imp": ["grondais", "grondais", "grondait", "grondions", "grondiez", "grondaient"],
+        "ind.ps": ["grondai", "grondas", "gronda", "grondâmes", "grondâtes", "grondèrent"],
+        "ind.fut": ["gronderai", "gronderas", "grondera", "gronderons", "gronderez", "gronderont"],
+        "cond.pres": ["gronderais", "gronderais", "gronderait", "gronderions", "gronderiez", "gronderaient"],
+        "subj.pres": ["gronde", "grondes", "gronde", "grondions", "grondiez", "grondent"],
+        "subj.imp": ["grondasse", "grondasses", "grondât", "grondassions", "grondassiez", "grondassent"],
+        "imper.pres": ["gronde", "grondons", "grondez"]
+      },
+      "participe_present": "grondant",
+      "participe_passe": ["grondé", "grondée", "grondés", "grondées"]
     }
   ]
 }
