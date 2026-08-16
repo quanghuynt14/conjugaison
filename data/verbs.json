@@ -16603,6 +16603,24 @@
       },
       "participe_present": "reparlant",
       "participe_passe": ["reparlé", "reparlée", "reparlés", "reparlées"]
+    },
+    {
+      "id": "supprimer",
+      "infinitif": "supprimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["supprime", "supprimes", "supprime", "supprimons", "supprimez", "suppriment"],
+        "ind.imp": ["supprimais", "supprimais", "supprimait", "supprimions", "supprimiez", "supprimaient"],
+        "ind.ps": ["supprimai", "supprimas", "supprima", "supprimâmes", "supprimâtes", "supprimèrent"],
+        "ind.fut": ["supprimerai", "supprimeras", "supprimera", "supprimerons", "supprimerez", "supprimeront"],
+        "cond.pres": ["supprimerais", "supprimerais", "supprimerait", "supprimerions", "supprimeriez", "supprimeraient"],
+        "subj.pres": ["supprime", "supprimes", "supprime", "supprimions", "supprimiez", "suppriment"],
+        "subj.imp": ["supprimasse", "supprimasses", "supprimât", "supprimassions", "supprimassiez", "supprimassent"],
+        "imper.pres": ["supprime", "supprimons", "supprimez"]
+      },
+      "participe_present": "supprimant",
+      "participe_passe": ["supprimé", "supprimée", "supprimés", "supprimées"]
     }
   ]
 }
