@@ -1241,6 +1241,25 @@
       },
       "participe_present": "changeant",
       "participe_passe": ["changé", "changée", "changés", "changées"]
+    },
+    {
+      "id": "dormir",
+      "infinitif": "dormir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « dormi » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["dors", "dors", "dort", "dormons", "dormez", "dorment"],
+        "ind.imp": ["dormais", "dormais", "dormait", "dormions", "dormiez", "dormaient"],
+        "ind.ps": ["dormis", "dormis", "dormit", "dormîmes", "dormîtes", "dormirent"],
+        "ind.fut": ["dormirai", "dormiras", "dormira", "dormirons", "dormirez", "dormiront"],
+        "cond.pres": ["dormirais", "dormirais", "dormirait", "dormirions", "dormiriez", "dormiraient"],
+        "subj.pres": ["dorme", "dormes", "dorme", "dormions", "dormiez", "dorment"],
+        "subj.imp": ["dormisse", "dormisses", "dormît", "dormissions", "dormissiez", "dormissent"],
+        "imper.pres": ["dors", "dormons", "dormez"]
+      },
+      "participe_present": "dormant",
+      "participe_passe": ["dormi", null, null, null]
     }
   ]
 }
