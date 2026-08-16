@@ -21350,6 +21350,24 @@
       },
       "participe_present": "flippant",
       "participe_passe": ["flippé", "flippée", "flippés", "flippées"]
+    },
+    {
+      "id": "enflammer",
+      "infinitif": "enflammer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enflamme", "enflammes", "enflamme", "enflammons", "enflammez", "enflamment"],
+        "ind.imp": ["enflammais", "enflammais", "enflammait", "enflammions", "enflammiez", "enflammaient"],
+        "ind.ps": ["enflammai", "enflammas", "enflamma", "enflammâmes", "enflammâtes", "enflammèrent"],
+        "ind.fut": ["enflammerai", "enflammeras", "enflammera", "enflammerons", "enflammerez", "enflammeront"],
+        "cond.pres": ["enflammerais", "enflammerais", "enflammerait", "enflammerions", "enflammeriez", "enflammeraient"],
+        "subj.pres": ["enflamme", "enflammes", "enflamme", "enflammions", "enflammiez", "enflamment"],
+        "subj.imp": ["enflammasse", "enflammasses", "enflammât", "enflammassions", "enflammassiez", "enflammassent"],
+        "imper.pres": ["enflamme", "enflammons", "enflammez"]
+      },
+      "participe_present": "enflammant",
+      "participe_passe": ["enflammé", "enflammée", "enflammés", "enflammées"]
     }
   ]
 }
