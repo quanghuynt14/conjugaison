@@ -6567,6 +6567,25 @@
       },
       "participe_present": "plaisantant",
       "participe_passe": ["plaisanté", "plaisantée", "plaisantés", "plaisantées"]
+    },
+    {
+      "id": "pleuvoir",
+      "infinitif": "pleuvoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Verbe impersonnel — « il pleut ». Le pluriel existe au figuré, où le sujet redevient quelqu'un ou quelque chose : « les coups pleuvent ». Pas d'impératif.",
+      "tenses": {
+        "ind.pres": [null, null, "pleut", null, null, "pleuvent"],
+        "ind.imp": [null, null, "pleuvait", null, null, "pleuvaient"],
+        "ind.ps": [null, null, "plut", null, null, "plurent"],
+        "ind.fut": [null, null, "pleuvra", null, null, "pleuvront"],
+        "cond.pres": [null, null, "pleuvrait", null, null, "pleuvraient"],
+        "subj.pres": [null, null, "pleuve", null, null, "pleuvent"],
+        "subj.imp": [null, null, "plût", null, null, "plussent"],
+        "imper.pres": [null, null, null]
+      },
+      "participe_present": "pleuvant",
+      "participe_passe": ["plu", null, null, null]
     }
   ]
 }
