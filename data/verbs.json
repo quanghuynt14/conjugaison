@@ -1003,6 +1003,24 @@
       },
       "participe_present": "semblant",
       "participe_passe": ["semblé", null, null, null]
+    },
+    {
+      "id": "tirer",
+      "infinitif": "tirer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["tire", "tires", "tire", "tirons", "tirez", "tirent"],
+        "ind.imp": ["tirais", "tirais", "tirait", "tirions", "tiriez", "tiraient"],
+        "ind.ps": ["tirai", "tiras", "tira", "tirâmes", "tirâtes", "tirèrent"],
+        "ind.fut": ["tirerai", "tireras", "tirera", "tirerons", "tirerez", "tireront"],
+        "cond.pres": ["tirerais", "tirerais", "tirerait", "tirerions", "tireriez", "tireraient"],
+        "subj.pres": ["tire", "tires", "tire", "tirions", "tiriez", "tirent"],
+        "subj.imp": ["tirasse", "tirasses", "tirât", "tirassions", "tirassiez", "tirassent"],
+        "imper.pres": ["tire", "tirons", "tirez"]
+      },
+      "participe_present": "tirant",
+      "participe_passe": ["tiré", "tirée", "tirés", "tirées"]
     }
   ]
 }
