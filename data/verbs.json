@@ -24335,6 +24335,24 @@
       },
       "participe_present": "recroquevillant",
       "participe_passe": ["recroquevillé", "recroquevillée", "recroquevillés", "recroquevillées"]
+    },
+    {
+      "id": "adoucir",
+      "infinitif": "adoucir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["adoucis", "adoucis", "adoucit", "adoucissons", "adoucissez", "adoucissent"],
+        "ind.imp": ["adoucissais", "adoucissais", "adoucissait", "adoucissions", "adoucissiez", "adoucissaient"],
+        "ind.ps": ["adoucis", "adoucis", "adoucit", "adoucîmes", "adoucîtes", "adoucirent"],
+        "ind.fut": ["adoucirai", "adouciras", "adoucira", "adoucirons", "adoucirez", "adouciront"],
+        "cond.pres": ["adoucirais", "adoucirais", "adoucirait", "adoucirions", "adouciriez", "adouciraient"],
+        "subj.pres": ["adoucisse", "adoucisses", "adoucisse", "adoucissions", "adoucissiez", "adoucissent"],
+        "subj.imp": ["adoucisse", "adoucisses", "adoucît", "adoucissions", "adoucissiez", "adoucissent"],
+        "imper.pres": ["adoucis", "adoucissons", "adoucissez"]
+      },
+      "participe_present": "adoucissant",
+      "participe_passe": ["adouci", "adoucie", "adoucis", "adoucies"]
     }
   ]
 }
