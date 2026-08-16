@@ -34745,6 +34745,24 @@
       },
       "participe_present": "affublant",
       "participe_passe": ["affublé", "affublée", "affublés", "affublées"]
+    },
+    {
+      "id": "crucifier",
+      "infinitif": "crucifier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["crucifie", "crucifies", "crucifie", "crucifions", "crucifiez", "crucifient"],
+        "ind.imp": ["crucifiais", "crucifiais", "crucifiait", "crucifiions", "crucifiiez", "crucifiaient"],
+        "ind.ps": ["crucifiai", "crucifias", "crucifia", "crucifiâmes", "crucifiâtes", "crucifièrent"],
+        "ind.fut": ["crucifierai", "crucifieras", "crucifiera", "crucifierons", "crucifierez", "crucifieront"],
+        "cond.pres": ["crucifierais", "crucifierais", "crucifierait", "crucifierions", "crucifieriez", "crucifieraient"],
+        "subj.pres": ["crucifie", "crucifies", "crucifie", "crucifiions", "crucifiiez", "crucifient"],
+        "subj.imp": ["crucifiasse", "crucifiasses", "crucifiât", "crucifiassions", "crucifiassiez", "crucifiassent"],
+        "imper.pres": ["crucifie", "crucifions", "crucifiez"]
+      },
+      "participe_present": "crucifiant",
+      "participe_passe": ["crucifié", "crucifiée", "crucifiés", "crucifiées"]
     }
   ]
 }
