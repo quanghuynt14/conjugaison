@@ -35187,6 +35187,24 @@
       },
       "participe_present": "référant",
       "participe_passe": ["référé", null, null, null]
+    },
+    {
+      "id": "agglutiner",
+      "infinitif": "agglutiner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["agglutine", "agglutines", "agglutine", "agglutinons", "agglutinez", "agglutinent"],
+        "ind.imp": ["agglutinais", "agglutinais", "agglutinait", "agglutinions", "agglutiniez", "agglutinaient"],
+        "ind.ps": ["agglutinai", "agglutinas", "agglutina", "agglutinâmes", "agglutinâtes", "agglutinèrent"],
+        "ind.fut": ["agglutinerai", "agglutineras", "agglutinera", "agglutinerons", "agglutinerez", "agglutineront"],
+        "cond.pres": ["agglutinerais", "agglutinerais", "agglutinerait", "agglutinerions", "agglutineriez", "agglutineraient"],
+        "subj.pres": ["agglutine", "agglutines", "agglutine", "agglutinions", "agglutiniez", "agglutinent"],
+        "subj.imp": ["agglutinasse", "agglutinasses", "agglutinât", "agglutinassions", "agglutinassiez", "agglutinassent"],
+        "imper.pres": ["agglutine", "agglutinons", "agglutinez"]
+      },
+      "participe_present": "agglutinant",
+      "participe_passe": ["agglutiné", "agglutinée", "agglutinés", "agglutinées"]
     }
   ]
 }
