@@ -29784,6 +29784,24 @@
       },
       "participe_present": "languissant",
       "participe_passe": ["langui", null, null, null]
+    },
+    {
+      "id": "recopier",
+      "infinitif": "recopier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["recopie", "recopies", "recopie", "recopions", "recopiez", "recopient"],
+        "ind.imp": ["recopiais", "recopiais", "recopiait", "recopiions", "recopiiez", "recopiaient"],
+        "ind.ps": ["recopiai", "recopias", "recopia", "recopiâmes", "recopiâtes", "recopièrent"],
+        "ind.fut": ["recopierai", "recopieras", "recopiera", "recopierons", "recopierez", "recopieront"],
+        "cond.pres": ["recopierais", "recopierais", "recopierait", "recopierions", "recopieriez", "recopieraient"],
+        "subj.pres": ["recopie", "recopies", "recopie", "recopiions", "recopiiez", "recopient"],
+        "subj.imp": ["recopiasse", "recopiasses", "recopiât", "recopiassions", "recopiassiez", "recopiassent"],
+        "imper.pres": ["recopie", "recopions", "recopiez"]
+      },
+      "participe_present": "recopiant",
+      "participe_passe": ["recopié", "recopiée", "recopiés", "recopiées"]
     }
   ]
 }
