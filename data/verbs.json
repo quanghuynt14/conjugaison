@@ -28978,6 +28978,24 @@
       },
       "participe_present": "décomposant",
       "participe_passe": ["décomposé", "décomposée", "décomposés", "décomposées"]
+    },
+    {
+      "id": "intercepter",
+      "infinitif": "intercepter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["intercepte", "interceptes", "intercepte", "interceptons", "interceptez", "interceptent"],
+        "ind.imp": ["interceptais", "interceptais", "interceptait", "interceptions", "interceptiez", "interceptaient"],
+        "ind.ps": ["interceptai", "interceptas", "intercepta", "interceptâmes", "interceptâtes", "interceptèrent"],
+        "ind.fut": ["intercepterai", "intercepteras", "interceptera", "intercepterons", "intercepterez", "intercepteront"],
+        "cond.pres": ["intercepterais", "intercepterais", "intercepterait", "intercepterions", "intercepteriez", "intercepteraient"],
+        "subj.pres": ["intercepte", "interceptes", "intercepte", "interceptions", "interceptiez", "interceptent"],
+        "subj.imp": ["interceptasse", "interceptasses", "interceptât", "interceptassions", "interceptassiez", "interceptassent"],
+        "imper.pres": ["intercepte", "interceptons", "interceptez"]
+      },
+      "participe_present": "interceptant",
+      "participe_passe": ["intercepté", "interceptée", "interceptés", "interceptées"]
     }
   ]
 }
