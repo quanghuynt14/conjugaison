@@ -22763,6 +22763,24 @@
       },
       "participe_present": "tournoyant",
       "participe_passe": ["tournoyé", null, null, null]
+    },
+    {
+      "id": "emménager",
+      "infinitif": "emménager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emménage", "emménages", "emménage", "emménageons", "emménagez", "emménagent"],
+        "ind.imp": ["emménageais", "emménageais", "emménageait", "emménagions", "emménagiez", "emménageaient"],
+        "ind.ps": ["emménageai", "emménageas", "emménagea", "emménageâmes", "emménageâtes", "emménagèrent"],
+        "ind.fut": ["emménagerai", "emménageras", "emménagera", "emménagerons", "emménagerez", "emménageront"],
+        "cond.pres": ["emménagerais", "emménagerais", "emménagerait", "emménagerions", "emménageriez", "emménageraient"],
+        "subj.pres": ["emménage", "emménages", "emménage", "emménagions", "emménagiez", "emménagent"],
+        "subj.imp": ["emménageasse", "emménageasses", "emménageât", "emménageassions", "emménageassiez", "emménageassent"],
+        "imper.pres": ["emménage", "emménageons", "emménagez"]
+      },
+      "participe_present": "emménageant",
+      "participe_passe": ["emménagé", "emménagée", "emménagés", "emménagées"]
     }
   ]
 }
