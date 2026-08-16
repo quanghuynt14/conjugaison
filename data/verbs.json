@@ -33994,6 +33994,24 @@
       },
       "participe_present": "adonnant",
       "participe_passe": ["adonné", "adonnée", "adonnés", "adonnées"]
+    },
+    {
+      "id": "désapprouver",
+      "infinitif": "désapprouver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["désapprouve", "désapprouves", "désapprouve", "désapprouvons", "désapprouvez", "désapprouvent"],
+        "ind.imp": ["désapprouvais", "désapprouvais", "désapprouvait", "désapprouvions", "désapprouviez", "désapprouvaient"],
+        "ind.ps": ["désapprouvai", "désapprouvas", "désapprouva", "désapprouvâmes", "désapprouvâtes", "désapprouvèrent"],
+        "ind.fut": ["désapprouverai", "désapprouveras", "désapprouvera", "désapprouverons", "désapprouverez", "désapprouveront"],
+        "cond.pres": ["désapprouverais", "désapprouverais", "désapprouverait", "désapprouverions", "désapprouveriez", "désapprouveraient"],
+        "subj.pres": ["désapprouve", "désapprouves", "désapprouve", "désapprouvions", "désapprouviez", "désapprouvent"],
+        "subj.imp": ["désapprouvasse", "désapprouvasses", "désapprouvât", "désapprouvassions", "désapprouvassiez", "désapprouvassent"],
+        "imper.pres": ["désapprouve", "désapprouvons", "désapprouvez"]
+      },
+      "participe_present": "désapprouvant",
+      "participe_passe": ["désapprouvé", "désapprouvée", "désapprouvés", "désapprouvées"]
     }
   ]
 }
