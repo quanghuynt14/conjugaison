@@ -18205,6 +18205,24 @@
       },
       "participe_present": "élargissant",
       "participe_passe": ["élargi", "élargie", "élargis", "élargies"]
+    },
+    {
+      "id": "plaider",
+      "infinitif": "plaider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["plaide", "plaides", "plaide", "plaidons", "plaidez", "plaident"],
+        "ind.imp": ["plaidais", "plaidais", "plaidait", "plaidions", "plaidiez", "plaidaient"],
+        "ind.ps": ["plaidai", "plaidas", "plaida", "plaidâmes", "plaidâtes", "plaidèrent"],
+        "ind.fut": ["plaiderai", "plaideras", "plaidera", "plaiderons", "plaiderez", "plaideront"],
+        "cond.pres": ["plaiderais", "plaiderais", "plaiderait", "plaiderions", "plaideriez", "plaideraient"],
+        "subj.pres": ["plaide", "plaides", "plaide", "plaidions", "plaidiez", "plaident"],
+        "subj.imp": ["plaidasse", "plaidasses", "plaidât", "plaidassions", "plaidassiez", "plaidassent"],
+        "imper.pres": ["plaide", "plaidons", "plaidez"]
+      },
+      "participe_present": "plaidant",
+      "participe_passe": ["plaidé", "plaidée", "plaidés", "plaidées"]
     }
   ]
 }
