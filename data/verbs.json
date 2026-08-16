@@ -31367,6 +31367,24 @@
       },
       "participe_present": "muant",
       "participe_passe": ["mué", "muée", "mués", "muées"]
+    },
+    {
+      "id": "stimuler",
+      "infinitif": "stimuler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["stimule", "stimules", "stimule", "stimulons", "stimulez", "stimulent"],
+        "ind.imp": ["stimulais", "stimulais", "stimulait", "stimulions", "stimuliez", "stimulaient"],
+        "ind.ps": ["stimulai", "stimulas", "stimula", "stimulâmes", "stimulâtes", "stimulèrent"],
+        "ind.fut": ["stimulerai", "stimuleras", "stimulera", "stimulerons", "stimulerez", "stimuleront"],
+        "cond.pres": ["stimulerais", "stimulerais", "stimulerait", "stimulerions", "stimuleriez", "stimuleraient"],
+        "subj.pres": ["stimule", "stimules", "stimule", "stimulions", "stimuliez", "stimulent"],
+        "subj.imp": ["stimulasse", "stimulasses", "stimulât", "stimulassions", "stimulassiez", "stimulassent"],
+        "imper.pres": ["stimule", "stimulons", "stimulez"]
+      },
+      "participe_present": "stimulant",
+      "participe_passe": ["stimulé", "stimulée", "stimulés", "stimulées"]
     }
   ]
 }
