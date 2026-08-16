@@ -35897,6 +35897,24 @@
       },
       "participe_present": "coloriant",
       "participe_passe": ["colorié", "coloriée", "coloriés", "coloriées"]
+    },
+    {
+      "id": "emmêler",
+      "infinitif": "emmêler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["emmêle", "emmêles", "emmêle", "emmêlons", "emmêlez", "emmêlent"],
+        "ind.imp": ["emmêlais", "emmêlais", "emmêlait", "emmêlions", "emmêliez", "emmêlaient"],
+        "ind.ps": ["emmêlai", "emmêlas", "emmêla", "emmêlâmes", "emmêlâtes", "emmêlèrent"],
+        "ind.fut": ["emmêlerai", "emmêleras", "emmêlera", "emmêlerons", "emmêlerez", "emmêleront"],
+        "cond.pres": ["emmêlerais", "emmêlerais", "emmêlerait", "emmêlerions", "emmêleriez", "emmêleraient"],
+        "subj.pres": ["emmêle", "emmêles", "emmêle", "emmêlions", "emmêliez", "emmêlent"],
+        "subj.imp": ["emmêlasse", "emmêlasses", "emmêlât", "emmêlassions", "emmêlassiez", "emmêlassent"],
+        "imper.pres": ["emmêle", "emmêlons", "emmêlez"]
+      },
+      "participe_present": "emmêlant",
+      "participe_passe": ["emmêlé", "emmêlée", "emmêlés", "emmêlées"]
     }
   ]
 }
