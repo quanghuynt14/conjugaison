@@ -7529,6 +7529,24 @@
       },
       "participe_present": "pesant",
       "participe_passe": ["pesé", "pesée", "pesés", "pesées"]
+    },
+    {
+      "id": "abattre",
+      "infinitif": "abattre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["abats", "abats", "abat", "abattons", "abattez", "abattent"],
+        "ind.imp": ["abattais", "abattais", "abattait", "abattions", "abattiez", "abattaient"],
+        "ind.ps": ["abattis", "abattis", "abattit", "abattîmes", "abattîtes", "abattirent"],
+        "ind.fut": ["abattrai", "abattras", "abattra", "abattrons", "abattrez", "abattront"],
+        "cond.pres": ["abattrais", "abattrais", "abattrait", "abattrions", "abattriez", "abattraient"],
+        "subj.pres": ["abatte", "abattes", "abatte", "abattions", "abattiez", "abattent"],
+        "subj.imp": ["abattisse", "abattisses", "abattît", "abattissions", "abattissiez", "abattissent"],
+        "imper.pres": ["abats", "abattons", "abattez"]
+      },
+      "participe_present": "abattant",
+      "participe_passe": ["abattu", "abattue", "abattus", "abattues"]
     }
   ]
 }
