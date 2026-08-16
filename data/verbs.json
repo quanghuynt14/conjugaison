@@ -17678,6 +17678,25 @@
       },
       "participe_present": "anéantissant",
       "participe_passe": ["anéanti", "anéantie", "anéantis", "anéanties"]
+    },
+    {
+      "id": "rôder",
+      "infinitif": "rôder",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « rôdé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["rôde", "rôdes", "rôde", "rôdons", "rôdez", "rôdent"],
+        "ind.imp": ["rôdais", "rôdais", "rôdait", "rôdions", "rôdiez", "rôdaient"],
+        "ind.ps": ["rôdai", "rôdas", "rôda", "rôdâmes", "rôdâtes", "rôdèrent"],
+        "ind.fut": ["rôderai", "rôderas", "rôdera", "rôderons", "rôderez", "rôderont"],
+        "cond.pres": ["rôderais", "rôderais", "rôderait", "rôderions", "rôderiez", "rôderaient"],
+        "subj.pres": ["rôde", "rôdes", "rôde", "rôdions", "rôdiez", "rôdent"],
+        "subj.imp": ["rôdasse", "rôdasses", "rôdât", "rôdassions", "rôdassiez", "rôdassent"],
+        "imper.pres": ["rôde", "rôdons", "rôdez"]
+      },
+      "participe_present": "rôdant",
+      "participe_passe": ["rôdé", null, null, null]
     }
   ]
 }
