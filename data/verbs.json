@@ -7169,6 +7169,24 @@
       },
       "participe_present": "menaçant",
       "participe_passe": ["menacé", "menacée", "menacés", "menacées"]
+    },
+    {
+      "id": "imposer",
+      "infinitif": "imposer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["impose", "imposes", "impose", "imposons", "imposez", "imposent"],
+        "ind.imp": ["imposais", "imposais", "imposait", "imposions", "imposiez", "imposaient"],
+        "ind.ps": ["imposai", "imposas", "imposa", "imposâmes", "imposâtes", "imposèrent"],
+        "ind.fut": ["imposerai", "imposeras", "imposera", "imposerons", "imposerez", "imposeront"],
+        "cond.pres": ["imposerais", "imposerais", "imposerait", "imposerions", "imposeriez", "imposeraient"],
+        "subj.pres": ["impose", "imposes", "impose", "imposions", "imposiez", "imposent"],
+        "subj.imp": ["imposasse", "imposasses", "imposât", "imposassions", "imposassiez", "imposassent"],
+        "imper.pres": ["impose", "imposons", "imposez"]
+      },
+      "participe_present": "imposant",
+      "participe_passe": ["imposé", "imposée", "imposés", "imposées"]
     }
   ]
 }
