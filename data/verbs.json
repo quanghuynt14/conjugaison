@@ -765,6 +765,24 @@
       },
       "participe_present": "tuant",
       "participe_passe": ["tué", "tuée", "tués", "tuées"]
+    },
+    {
+      "id": "rendre",
+      "infinitif": "rendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rends", "rends", "rend", "rendons", "rendez", "rendent"],
+        "ind.imp": ["rendais", "rendais", "rendait", "rendions", "rendiez", "rendaient"],
+        "ind.ps": ["rendis", "rendis", "rendit", "rendîmes", "rendîtes", "rendirent"],
+        "ind.fut": ["rendrai", "rendras", "rendra", "rendrons", "rendrez", "rendront"],
+        "cond.pres": ["rendrais", "rendrais", "rendrait", "rendrions", "rendriez", "rendraient"],
+        "subj.pres": ["rende", "rendes", "rende", "rendions", "rendiez", "rendent"],
+        "subj.imp": ["rendisse", "rendisses", "rendît", "rendissions", "rendissiez", "rendissent"],
+        "imper.pres": ["rends", "rendons", "rendez"]
+      },
+      "participe_present": "rendant",
+      "participe_passe": ["rendu", "rendue", "rendus", "rendues"]
     }
   ]
 }
