@@ -10666,6 +10666,24 @@
       },
       "participe_present": "concentrant",
       "participe_passe": ["concentré", "concentrée", "concentrés", "concentrées"]
+    },
+    {
+      "id": "craquer",
+      "infinitif": "craquer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["craque", "craques", "craque", "craquons", "craquez", "craquent"],
+        "ind.imp": ["craquais", "craquais", "craquait", "craquions", "craquiez", "craquaient"],
+        "ind.ps": ["craquai", "craquas", "craqua", "craquâmes", "craquâtes", "craquèrent"],
+        "ind.fut": ["craquerai", "craqueras", "craquera", "craquerons", "craquerez", "craqueront"],
+        "cond.pres": ["craquerais", "craquerais", "craquerait", "craquerions", "craqueriez", "craqueraient"],
+        "subj.pres": ["craque", "craques", "craque", "craquions", "craquiez", "craquent"],
+        "subj.imp": ["craquasse", "craquasses", "craquât", "craquassions", "craquassiez", "craquassent"],
+        "imper.pres": ["craque", "craquons", "craquez"]
+      },
+      "participe_present": "craquant",
+      "participe_passe": ["craqué", "craquée", "craqués", "craquées"]
     }
   ]
 }
