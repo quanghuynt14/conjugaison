@@ -22289,6 +22289,24 @@
       },
       "participe_present": "accommodant",
       "participe_passe": ["accommodé", "accommodée", "accommodés", "accommodées"]
+    },
+    {
+      "id": "aplatir",
+      "infinitif": "aplatir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["aplatis", "aplatis", "aplatit", "aplatissons", "aplatissez", "aplatissent"],
+        "ind.imp": ["aplatissais", "aplatissais", "aplatissait", "aplatissions", "aplatissiez", "aplatissaient"],
+        "ind.ps": ["aplatis", "aplatis", "aplatit", "aplatîmes", "aplatîtes", "aplatirent"],
+        "ind.fut": ["aplatirai", "aplatiras", "aplatira", "aplatirons", "aplatirez", "aplatiront"],
+        "cond.pres": ["aplatirais", "aplatirais", "aplatirait", "aplatirions", "aplatiriez", "aplatiraient"],
+        "subj.pres": ["aplatisse", "aplatisses", "aplatisse", "aplatissions", "aplatissiez", "aplatissent"],
+        "subj.imp": ["aplatisse", "aplatisses", "aplatît", "aplatissions", "aplatissiez", "aplatissent"],
+        "imper.pres": ["aplatis", "aplatissons", "aplatissez"]
+      },
+      "participe_present": "aplatissant",
+      "participe_passe": ["aplati", "aplatie", "aplatis", "aplaties"]
     }
   ]
 }
