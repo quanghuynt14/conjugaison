@@ -11064,6 +11064,24 @@
       },
       "participe_present": "signalant",
       "participe_passe": ["signalé", "signalée", "signalés", "signalées"]
+    },
+    {
+      "id": "décrocher",
+      "infinitif": "décrocher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décroche", "décroches", "décroche", "décrochons", "décrochez", "décrochent"],
+        "ind.imp": ["décrochais", "décrochais", "décrochait", "décrochions", "décrochiez", "décrochaient"],
+        "ind.ps": ["décrochai", "décrochas", "décrocha", "décrochâmes", "décrochâtes", "décrochèrent"],
+        "ind.fut": ["décrocherai", "décrocheras", "décrochera", "décrocherons", "décrocherez", "décrocheront"],
+        "cond.pres": ["décrocherais", "décrocherais", "décrocherait", "décrocherions", "décrocheriez", "décrocheraient"],
+        "subj.pres": ["décroche", "décroches", "décroche", "décrochions", "décrochiez", "décrochent"],
+        "subj.imp": ["décrochasse", "décrochasses", "décrochât", "décrochassions", "décrochassiez", "décrochassent"],
+        "imper.pres": ["décroche", "décrochons", "décrochez"]
+      },
+      "participe_present": "décrochant",
+      "participe_passe": ["décroché", "décrochée", "décrochés", "décrochées"]
     }
   ]
 }
