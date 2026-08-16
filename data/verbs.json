@@ -9339,6 +9339,24 @@
       },
       "participe_present": "réclamant",
       "participe_passe": ["réclamé", "réclamée", "réclamés", "réclamées"]
+    },
+    {
+      "id": "conserver",
+      "infinitif": "conserver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["conserve", "conserves", "conserve", "conservons", "conservez", "conservent"],
+        "ind.imp": ["conservais", "conservais", "conservait", "conservions", "conserviez", "conservaient"],
+        "ind.ps": ["conservai", "conservas", "conserva", "conservâmes", "conservâtes", "conservèrent"],
+        "ind.fut": ["conserverai", "conserveras", "conservera", "conserverons", "conserverez", "conserveront"],
+        "cond.pres": ["conserverais", "conserverais", "conserverait", "conserverions", "conserveriez", "conserveraient"],
+        "subj.pres": ["conserve", "conserves", "conserve", "conservions", "conserviez", "conservent"],
+        "subj.imp": ["conservasse", "conservasses", "conservât", "conservassions", "conservassiez", "conservassent"],
+        "imper.pres": ["conserve", "conservons", "conservez"]
+      },
+      "participe_present": "conservant",
+      "participe_passe": ["conservé", "conservée", "conservés", "conservées"]
     }
   ]
 }
