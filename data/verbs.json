@@ -19616,6 +19616,24 @@
       },
       "participe_present": "délirant",
       "participe_passe": ["déliré", null, null, null]
+    },
+    {
+      "id": "redonner",
+      "infinitif": "redonner",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["redonne", "redonnes", "redonne", "redonnons", "redonnez", "redonnent"],
+        "ind.imp": ["redonnais", "redonnais", "redonnait", "redonnions", "redonniez", "redonnaient"],
+        "ind.ps": ["redonnai", "redonnas", "redonna", "redonnâmes", "redonnâtes", "redonnèrent"],
+        "ind.fut": ["redonnerai", "redonneras", "redonnera", "redonnerons", "redonnerez", "redonneront"],
+        "cond.pres": ["redonnerais", "redonnerais", "redonnerait", "redonnerions", "redonneriez", "redonneraient"],
+        "subj.pres": ["redonne", "redonnes", "redonne", "redonnions", "redonniez", "redonnent"],
+        "subj.imp": ["redonnasse", "redonnasses", "redonnât", "redonnassions", "redonnassiez", "redonnassent"],
+        "imper.pres": ["redonne", "redonnons", "redonnez"]
+      },
+      "participe_present": "redonnant",
+      "participe_passe": ["redonné", "redonnée", "redonnés", "redonnées"]
     }
   ]
 }
