@@ -13227,6 +13227,24 @@
       },
       "participe_present": "déménageant",
       "participe_passe": ["déménagé", "déménagée", "déménagés", "déménagées"]
+    },
+    {
+      "id": "mépriser",
+      "infinitif": "mépriser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["méprise", "méprises", "méprise", "méprisons", "méprisez", "méprisent"],
+        "ind.imp": ["méprisais", "méprisais", "méprisait", "méprisions", "méprisiez", "méprisaient"],
+        "ind.ps": ["méprisai", "méprisas", "méprisa", "méprisâmes", "méprisâtes", "méprisèrent"],
+        "ind.fut": ["mépriserai", "mépriseras", "méprisera", "mépriserons", "mépriserez", "mépriseront"],
+        "cond.pres": ["mépriserais", "mépriserais", "mépriserait", "mépriserions", "mépriseriez", "mépriseraient"],
+        "subj.pres": ["méprise", "méprises", "méprise", "méprisions", "méprisiez", "méprisent"],
+        "subj.imp": ["méprisasse", "méprisasses", "méprisât", "méprisassions", "méprisassiez", "méprisassent"],
+        "imper.pres": ["méprise", "méprisons", "méprisez"]
+      },
+      "participe_present": "méprisant",
+      "participe_passe": ["méprisé", "méprisée", "méprisés", "méprisées"]
     }
   ]
 }
