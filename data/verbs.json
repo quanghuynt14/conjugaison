@@ -8091,6 +8091,24 @@
       },
       "participe_present": "bossant",
       "participe_passe": ["bossé", "bossée", "bossés", "bossées"]
+    },
+    {
+      "id": "visiter",
+      "infinitif": "visiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["visite", "visites", "visite", "visitons", "visitez", "visitent"],
+        "ind.imp": ["visitais", "visitais", "visitait", "visitions", "visitiez", "visitaient"],
+        "ind.ps": ["visitai", "visitas", "visita", "visitâmes", "visitâtes", "visitèrent"],
+        "ind.fut": ["visiterai", "visiteras", "visitera", "visiterons", "visiterez", "visiteront"],
+        "cond.pres": ["visiterais", "visiterais", "visiterait", "visiterions", "visiteriez", "visiteraient"],
+        "subj.pres": ["visite", "visites", "visite", "visitions", "visitiez", "visitent"],
+        "subj.imp": ["visitasse", "visitasses", "visitât", "visitassions", "visitassiez", "visitassent"],
+        "imper.pres": ["visite", "visitons", "visitez"]
+      },
+      "participe_present": "visitant",
+      "participe_passe": ["visité", "visitée", "visités", "visitées"]
     }
   ]
 }
