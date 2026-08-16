@@ -24552,6 +24552,25 @@
       },
       "participe_present": "rebondissant",
       "participe_passe": ["rebondi", "rebondie", "rebondis", "rebondies"]
+    },
+    {
+      "id": "frayer",
+      "infinitif": "frayer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Deux conjugaisons également correctes : « je fraie » ou « je fraye ».",
+      "tenses": {
+        "ind.pres": [["fraie", "fraye"], ["fraies", "frayes"], ["fraie", "fraye"], "frayons", "frayez", ["fraient", "frayent"]],
+        "ind.imp": ["frayais", "frayais", "frayait", "frayions", "frayiez", "frayaient"],
+        "ind.ps": ["frayai", "frayas", "fraya", "frayâmes", "frayâtes", "frayèrent"],
+        "ind.fut": [["fraierai", "frayerai"], ["fraieras", "frayeras"], ["fraiera", "frayera"], ["fraierons", "frayerons"], ["fraierez", "frayerez"], ["fraieront", "frayeront"]],
+        "cond.pres": [["fraierais", "frayerais"], ["fraierais", "frayerais"], ["fraierait", "frayerait"], ["fraierions", "frayerions"], ["fraieriez", "frayeriez"], ["fraieraient", "frayeraient"]],
+        "subj.pres": [["fraie", "fraye"], ["fraies", "frayes"], ["fraie", "fraye"], "frayions", "frayiez", ["fraient", "frayent"]],
+        "subj.imp": ["frayasse", "frayasses", "frayât", "frayassions", "frayassiez", "frayassent"],
+        "imper.pres": [["fraie", "fraye"], "frayons", "frayez"]
+      },
+      "participe_present": "frayant",
+      "participe_passe": ["frayé", "frayée", "frayés", "frayées"]
     }
   ]
 }
