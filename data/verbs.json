@@ -1039,6 +1039,24 @@
       },
       "participe_present": "portant",
       "participe_passe": ["porté", "portée", "portés", "portées"]
+    },
+    {
+      "id": "écouter",
+      "infinitif": "écouter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["écoute", "écoutes", "écoute", "écoutons", "écoutez", "écoutent"],
+        "ind.imp": ["écoutais", "écoutais", "écoutait", "écoutions", "écoutiez", "écoutaient"],
+        "ind.ps": ["écoutai", "écoutas", "écouta", "écoutâmes", "écoutâtes", "écoutèrent"],
+        "ind.fut": ["écouterai", "écouteras", "écoutera", "écouterons", "écouterez", "écouteront"],
+        "cond.pres": ["écouterais", "écouterais", "écouterait", "écouterions", "écouteriez", "écouteraient"],
+        "subj.pres": ["écoute", "écoutes", "écoute", "écoutions", "écoutiez", "écoutent"],
+        "subj.imp": ["écoutasse", "écoutasses", "écoutât", "écoutassions", "écoutassiez", "écoutassent"],
+        "imper.pres": ["écoute", "écoutons", "écoutez"]
+      },
+      "participe_present": "écoutant",
+      "participe_passe": ["écouté", "écoutée", "écoutés", "écoutées"]
     }
   ]
 }
