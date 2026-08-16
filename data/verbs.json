@@ -13209,6 +13209,24 @@
       },
       "participe_present": "encourageant",
       "participe_passe": ["encouragé", "encouragée", "encouragés", "encouragées"]
+    },
+    {
+      "id": "déménager",
+      "infinitif": "déménager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déménage", "déménages", "déménage", "déménageons", "déménagez", "déménagent"],
+        "ind.imp": ["déménageais", "déménageais", "déménageait", "déménagions", "déménagiez", "déménageaient"],
+        "ind.ps": ["déménageai", "déménageas", "déménagea", "déménageâmes", "déménageâtes", "déménagèrent"],
+        "ind.fut": ["déménagerai", "déménageras", "déménagera", "déménagerons", "déménagerez", "déménageront"],
+        "cond.pres": ["déménagerais", "déménagerais", "déménagerait", "déménagerions", "déménageriez", "déménageraient"],
+        "subj.pres": ["déménage", "déménages", "déménage", "déménagions", "déménagiez", "déménagent"],
+        "subj.imp": ["déménageasse", "déménageasses", "déménageât", "déménageassions", "déménageassiez", "déménageassent"],
+        "imper.pres": ["déménage", "déménageons", "déménagez"]
+      },
+      "participe_present": "déménageant",
+      "participe_passe": ["déménagé", "déménagée", "déménagés", "déménagées"]
     }
   ]
 }
