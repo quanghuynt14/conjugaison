@@ -29637,6 +29637,24 @@
       },
       "participe_present": "épouvantant",
       "participe_passe": ["épouvanté", "épouvantée", "épouvantés", "épouvantées"]
+    },
+    {
+      "id": "avorter",
+      "infinitif": "avorter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["avorte", "avortes", "avorte", "avortons", "avortez", "avortent"],
+        "ind.imp": ["avortais", "avortais", "avortait", "avortions", "avortiez", "avortaient"],
+        "ind.ps": ["avortai", "avortas", "avorta", "avortâmes", "avortâtes", "avortèrent"],
+        "ind.fut": ["avorterai", "avorteras", "avortera", "avorterons", "avorterez", "avorteront"],
+        "cond.pres": ["avorterais", "avorterais", "avorterait", "avorterions", "avorteriez", "avorteraient"],
+        "subj.pres": ["avorte", "avortes", "avorte", "avortions", "avortiez", "avortent"],
+        "subj.imp": ["avortasse", "avortasses", "avortât", "avortassions", "avortassiez", "avortassent"],
+        "imper.pres": ["avorte", "avortons", "avortez"]
+      },
+      "participe_present": "avortant",
+      "participe_passe": ["avorté", "avortée", "avortés", "avortées"]
     }
   ]
 }
