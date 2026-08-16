@@ -3401,6 +3401,24 @@
       },
       "participe_present": "installant",
       "participe_passe": ["installé", "installée", "installés", "installées"]
+    },
+    {
+      "id": "rejoindre",
+      "infinitif": "rejoindre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rejoins", "rejoins", "rejoint", "rejoignons", "rejoignez", "rejoignent"],
+        "ind.imp": ["rejoignais", "rejoignais", "rejoignait", "rejoignions", "rejoigniez", "rejoignaient"],
+        "ind.ps": ["rejoignis", "rejoignis", "rejoignit", "rejoignîmes", "rejoignîtes", "rejoignirent"],
+        "ind.fut": ["rejoindrai", "rejoindras", "rejoindra", "rejoindrons", "rejoindrez", "rejoindront"],
+        "cond.pres": ["rejoindrais", "rejoindrais", "rejoindrait", "rejoindrions", "rejoindriez", "rejoindraient"],
+        "subj.pres": ["rejoigne", "rejoignes", "rejoigne", "rejoignions", "rejoigniez", "rejoignent"],
+        "subj.imp": ["rejoignisse", "rejoignisses", "rejoignît", "rejoignissions", "rejoignissiez", "rejoignissent"],
+        "imper.pres": ["rejoins", "rejoignons", "rejoignez"]
+      },
+      "participe_present": "rejoignant",
+      "participe_passe": ["rejoint", "rejointe", "rejoints", "rejointes"]
     }
   ]
 }
