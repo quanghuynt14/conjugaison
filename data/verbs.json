@@ -33794,6 +33794,24 @@
       },
       "participe_present": "hasardant",
       "participe_passe": ["hasardé", "hasardée", "hasardés", "hasardées"]
+    },
+    {
+      "id": "licencier",
+      "infinitif": "licencier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["licencie", "licencies", "licencie", "licencions", "licenciez", "licencient"],
+        "ind.imp": ["licenciais", "licenciais", "licenciait", "licenciions", "licenciiez", "licenciaient"],
+        "ind.ps": ["licenciai", "licencias", "licencia", "licenciâmes", "licenciâtes", "licencièrent"],
+        "ind.fut": ["licencierai", "licencieras", "licenciera", "licencierons", "licencierez", "licencieront"],
+        "cond.pres": ["licencierais", "licencierais", "licencierait", "licencierions", "licencieriez", "licencieraient"],
+        "subj.pres": ["licencie", "licencies", "licencie", "licenciions", "licenciiez", "licencient"],
+        "subj.imp": ["licenciasse", "licenciasses", "licenciât", "licenciassions", "licenciassiez", "licenciassent"],
+        "imper.pres": ["licencie", "licencions", "licenciez"]
+      },
+      "participe_present": "licenciant",
+      "participe_passe": ["licencié", "licenciée", "licenciés", "licenciées"]
     }
   ]
 }
