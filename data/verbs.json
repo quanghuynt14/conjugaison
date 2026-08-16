@@ -6459,6 +6459,24 @@
       },
       "participe_present": "peignant",
       "participe_passe": ["peint", "peinte", "peints", "peintes"]
+    },
+    {
+      "id": "déposer",
+      "infinitif": "déposer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dépose", "déposes", "dépose", "déposons", "déposez", "déposent"],
+        "ind.imp": ["déposais", "déposais", "déposait", "déposions", "déposiez", "déposaient"],
+        "ind.ps": ["déposai", "déposas", "déposa", "déposâmes", "déposâtes", "déposèrent"],
+        "ind.fut": ["déposerai", "déposeras", "déposera", "déposerons", "déposerez", "déposeront"],
+        "cond.pres": ["déposerais", "déposerais", "déposerait", "déposerions", "déposeriez", "déposeraient"],
+        "subj.pres": ["dépose", "déposes", "dépose", "déposions", "déposiez", "déposent"],
+        "subj.imp": ["déposasse", "déposasses", "déposât", "déposassions", "déposassiez", "déposassent"],
+        "imper.pres": ["dépose", "déposons", "déposez"]
+      },
+      "participe_present": "déposant",
+      "participe_passe": ["déposé", "déposée", "déposés", "déposées"]
     }
   ]
 }
