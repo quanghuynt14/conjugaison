@@ -5608,6 +5608,24 @@
       },
       "participe_present": "éteignant",
       "participe_passe": ["éteint", "éteinte", "éteints", "éteintes"]
+    },
+    {
+      "id": "étendre",
+      "infinitif": "étendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["étends", "étends", "étend", "étendons", "étendez", "étendent"],
+        "ind.imp": ["étendais", "étendais", "étendait", "étendions", "étendiez", "étendaient"],
+        "ind.ps": ["étendis", "étendis", "étendit", "étendîmes", "étendîtes", "étendirent"],
+        "ind.fut": ["étendrai", "étendras", "étendra", "étendrons", "étendrez", "étendront"],
+        "cond.pres": ["étendrais", "étendrais", "étendrait", "étendrions", "étendriez", "étendraient"],
+        "subj.pres": ["étende", "étendes", "étende", "étendions", "étendiez", "étendent"],
+        "subj.imp": ["étendisse", "étendisses", "étendît", "étendissions", "étendissiez", "étendissent"],
+        "imper.pres": ["étends", "étendons", "étendez"]
+      },
+      "participe_present": "étendant",
+      "participe_passe": ["étendu", "étendue", "étendus", "étendues"]
     }
   ]
 }
