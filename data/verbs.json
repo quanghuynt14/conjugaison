@@ -36168,6 +36168,24 @@
       },
       "participe_present": "manigançant",
       "participe_passe": ["manigancé", "manigancée", "manigancés", "manigancées"]
+    },
+    {
+      "id": "énoncer",
+      "infinitif": "énoncer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["énonce", "énonces", "énonce", "énonçons", "énoncez", "énoncent"],
+        "ind.imp": ["énonçais", "énonçais", "énonçait", "énoncions", "énonciez", "énonçaient"],
+        "ind.ps": ["énonçai", "énonças", "énonça", "énonçâmes", "énonçâtes", "énoncèrent"],
+        "ind.fut": ["énoncerai", "énonceras", "énoncera", "énoncerons", "énoncerez", "énonceront"],
+        "cond.pres": ["énoncerais", "énoncerais", "énoncerait", "énoncerions", "énonceriez", "énonceraient"],
+        "subj.pres": ["énonce", "énonces", "énonce", "énoncions", "énonciez", "énoncent"],
+        "subj.imp": ["énonçasse", "énonçasses", "énonçât", "énonçassions", "énonçassiez", "énonçassent"],
+        "imper.pres": ["énonce", "énonçons", "énoncez"]
+      },
+      "participe_present": "énonçant",
+      "participe_passe": ["énoncé", "énoncée", "énoncés", "énoncées"]
     }
   ]
 }
