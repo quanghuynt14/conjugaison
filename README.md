@@ -21,8 +21,8 @@ la page s'ouvre sur ceci :
 Puis la conjugaison complète de *vivre* et de *voir*, les cases d'où vient la
 forme surlignées.
 
-**1 004 verbes** : les mille plus fréquents du français, plus les quatre écrits
-à la main avant que l'import existe. 38 917 formes, 96 435 analyses.
+**2 004 verbes** : les deux mille plus fréquents du français, plus les quatre
+écrits à la main avant que l'import existe. 77 277 formes, 192 069 analyses.
 
 ## Essayer
 
@@ -149,8 +149,9 @@ avoir, où il est le présent puis l'auxiliaire du passé composé, et faire,
 vivre, voir, où il n'est que l'auxiliaire. Le dictionnaire ne disait nulle part
 qu'`ai` est un auxiliaire.
 
-À mille verbes, il en ouvre **neuf cent cinquante-six** — sept mégaoctets, la
-même ligne recopiée. Voir plus bas ce qu'on en a fait.
+À mille verbes, il en ouvrait **neuf cent cinquante-six** — sept mégaoctets, la
+même ligne recopiée ; à deux mille, ce serait le double. Voir plus bas ce qu'on
+en a fait.
 
 Ces lignes ne sont pas groupées à part : elles prennent leur rang dans l'ordre
 des temps, comme les autres. Pour `vécu`, `Participe passé` arrive donc en
@@ -180,10 +181,10 @@ le subjonctif imparfait de *faire*, côte à côte. Utile. Même chose pour `eut
 `eût` et `vit` / `vît`. `verify_lookup.py` l'autorise explicitement : une seule
 entrée **exacte**, et les autres doivent être la même forme aux accents près.
 
-## Mille verbes, et d'où ils viennent
+## Deux mille verbes, et d'où ils viennent
 
-Quatre verbes s'écrivent à la main. Mille, non : ce sont mille occasions de se
-tromper d'un accent circonflexe. Ils viennent de deux sources citables, et
+Quatre verbes s'écrivent à la main. Deux mille, non : ce sont deux mille
+occasions de se tromper d'un accent circonflexe. Ils viennent de deux sources citables, et
 `scripts/import_verbs.py` n'invente rien entre les deux.
 
 **Verbiste** (Pierre Sarrazin, GPL) donne les formes : 146 modèles de
@@ -192,37 +193,49 @@ donne `je parle`. C'est la méthode d'un Bescherelle — un tableau, un renvoi. 
 le prend chez [verbecc](https://github.com/bretttolbert/verbecc), qui
 l'entretient.
 
-**Lexique 3.83** (New & Pallier) donne l'ordre, et « les mille plus fréquents »
-veut dire quelque chose de précis : la moyenne des fréquences par lemme dans les
-sous-titres de films et dans les livres, par million de mots. Le classement est
-versionné dans `data/frequence.txt` — mille imports n'ont pas à relire
-vingt-cinq mégaoctets chacun.
+**[Lexique 3.83](http://www.lexique.org)** (New & Pallier) donne l'ordre, et
+« les deux mille plus fréquents » veut dire quelque chose de précis : la
+moyenne des fréquences par lemme dans les sous-titres de films et dans les
+livres, par million de mots. Le classement est versionné dans
+`data/frequence.txt` — deux mille imports n'ont pas à relire vingt-cinq
+mégaoctets chacun.
 
 Le premier essai a porté sur les quatre verbes déjà écrits : l'import devait les
-retrouver **case pour case**. Zéro écart. C'est ce qui a autorisé les mille
-suivants, et `import_verbs.py --verifie` le rejoue sur les 1 004.
+retrouver **case pour case**. Zéro écart. C'est ce qui a autorisé les deux mille
+suivants, et `import_verbs.py --verifie` le rejoue sur les 2 004.
 
 ### Ce que les sources ne disent pas
 
-Quatre tables, en toutes lettres dans le script pour qu'on puisse les discuter.
+Six tables, en toutes lettres dans le script pour qu'on puisse les discuter.
 
 **L'auxiliaire**, que Verbiste ne donne pas. La liste des verbes qui prennent
 `être` est fermée — mouvement, changement d'état, et tous les pronominaux. Onze
 prennent les deux, selon qu'ils ont un complément d'objet : « je suis sorti »,
 mais « j'ai sorti la poubelle ». Leur note le dit avec l'exemple.
 
-**Les seize verbes essentiellement pronominaux.** « je souviens » ne se dit pas.
-Le lemme s'écrit *se souvenir*, se range à *souvenir*, et la conjugaison porte
-le pronom : `je me souviens`, `souviens-toi`, `je me suis souvenu`.
+**Les quarante et un verbes essentiellement pronominaux.** « je souviens » ne se
+dit pas. Le lemme s'écrit *se souvenir*, se range à *souvenir*, et la
+conjugaison porte le pronom : `je me souviens`, `souviens-toi`, `je me suis
+souvenu`.
 
-**Les soixante-trois participes invariables.** Un modèle Verbiste décline les
-quatre accords, parce qu'un modèle est un jeu de terminaisons ; mais « j'ai
-dormi » ne donnera jamais « dormie ». Le modèle ne peut pas le savoir — il est
-partagé entre des verbes transitifs et d'autres qui ne le sont pas. La liste
-vient des étiquettes de transitivité de Grammalecte.
+**Les cent soixante-dix-neuf participes invariables.** Un modèle Verbiste
+décline les quatre accords, parce qu'un modèle est un jeu de terminaisons ;
+mais « j'ai dormi » ne donnera jamais « dormie ». Le modèle ne peut pas le
+savoir — il est partagé entre des verbes transitifs et d'autres qui ne le sont
+pas. La liste vient des étiquettes de transitivité de Grammalecte, et le
+croisement avec Lexique en a retiré quinze : un participe s'accorde aussi par
+le sujet, et aussi quand il sert d'adjectif — un chien enragé, une revue parue.
+
+**Les dix-huit verbes à h aspiré**, qui n'élident pas : `je hurle`, `je hais`,
+`je hâte`. La liste vient du Wiktionnaire ; les verbes en h qui n'y sont pas
+marqués s'élident — `j'habite`, `j'hésite`, `j'honore`.
+
+**Les trois verbes de troisième personne** que Verbiste conjugue partout :
+il résulte, il incombe, il s'ensuit. Les impersonnels qu'il connaît déjà —
+falloir, pleuvoir, neiger, advenir — ont leur modèle troué et ne sont pas là.
 
 **Les notes**, quand il y a quelque chose à dire : une case vide, deux formes
-concurrentes, un auxiliaire qui hésite. **135 verbes sur 1 004** en ont une. Un
+concurrentes, un auxiliaire qui hésite. **329 verbes sur 2 004** en ont une. Un
 verbe régulier n'en reçoit pas ; le tableau en dit déjà plus.
 
 ### Deux sources valent mieux qu'une
@@ -241,6 +254,47 @@ parue », « les terres émergées », « un projet abouti ».
 deux. Verbiste note « je céderai ou je cèderai » pour huit modèles en `é_er`,
 mais ne connaît que « je protègerai », et que « je sécherai ». La manquante est
 rétablie, l'ancienne devant, comme dans les modèles voisins.
+
+### Ce que le deuxième millier a corrigé
+
+Mille verbes de plus, et les mêmes contrôles repassés dessus. Ils ont trouvé six
+choses, dont quatre étaient déjà dans le dictionnaire installé.
+
+**`j'hurle`.** Le générateur élidait devant tout h, et son commentaire
+l'assumait : « aucun verbe français n'a de forme conjuguée qui commence par un h
+aspiré ». C'était faux. Dix-huit verbes de la série le démentent, dont huit
+étaient déjà entrés — hurler, haïr, hausser, heurter, hocher, hisser, hâter,
+hanter. La liste vient du Wiktionnaire, qui marque la vedette d'un `{{h}}` ; les
+verbes en h qui n'y sont pas marqués s'élident, et la coupure est nette :
+j'habite, j'hésite, j'honore d'un côté, je hurle, je hais de l'autre.
+
+**Deux modèles rangent le participe passé dans un autre ordre que les 144
+autres.** Le contrôle qui le dit tient en trois lignes : le masculin pluriel
+s'écrit comme le masculin singulier plus un s, le féminin plus un e. Cinq
+verbes sur 2 004 y échappent ; trois à bon droit — `dû`/`due`, `dissous`/
+`dissoute`, `absous`/`absoute` — et deux parce que Verbiste les range
+autrement : `points` sortait en féminin singulier de poindre.
+
+**Deux participes passés appartenaient à un autre verbe.** Verbiste donne
+« gît » à gésir, qui est son présent, et « pu » à paître, qui est celui de
+pouvoir. Ni l'un ni l'autre n'a de participe passé, donc pas de temps composés,
+et Lexique n'en atteste aucun. Sans la correction, chercher `pu` ouvrait le
+tableau de paître.
+
+**`nous avons frit`.** Un temps composé était construit sur le temps simple qui
+lui correspond : pas de « nous frisons », donc pas de « nous avons frit ». La
+règle est juste pour falloir, qui ne se conjugue qu'à la troisième personne, et
+fausse pour tout défectif qui n'est pas impersonnel. Un temps composé se
+construit sur l'auxiliaire : la question est de savoir si le verbe se conjugue à
+cette personne-là, pas si cette case simple existe. Elle rend le passé antérieur
+des verbes en -traire — `j'eus extrait` — et les pluriels composés de clore.
+
+**`ils adviennent`** manquait : Verbiste ne donne à advenir que le singulier.
+**`j'accroîs`** en avait un de trop : le circonflexe de croître ne sert qu'à le
+séparer de croire, et accroître n'a personne dont se séparer.
+
+Le reste est le bruit habituel de Lexique, qui range sous le participe les noms
+homographes — une cheminée, une fusée, un jubilé, la ruée, des péchés.
 
 ### Ce qu'un verbe irrégulier apprend à un générateur
 
@@ -276,17 +330,17 @@ Deux règles justes à quatre verbes deviennent fausses à mille.
 
 `tu` est le participe passé de *taire*. C'est aussi le mot que le générateur
 écrit devant chaque case composée, et les citations se cherchaient dans la case
-entière : l'entrée `tu` ouvrait **mille tableaux** pour dire que « tu as pris »
-contient « tu ». On ne cherche plus que dans la partie verbale de la case —
+entière : l'entrée `tu` ouvrait **un tableau par verbe du dictionnaire** pour
+dire que « tu as pris » contient « tu ». On ne cherche plus que dans la partie verbale de la case —
 `as pris`, jamais le sujet qu'on vient d'ajouter.
 
 Et un verbe dont **toutes** les lignes sont citées ne possède pas la forme : il
 la tient de son auxiliaire. Ces verbes-là ne sortent plus leur conjugaison ; une
 phrase les compte, en tête de l'entrée, avec trois exemples :
 
-> **Auxiliaire** : cette forme construit aussi les temps composés de 957 autres
-> verbes du dictionnaire — « il a abandonné », « il a abattu », « il a
-> abordé »…
+> **Auxiliaire** : cette forme construit aussi les temps composés de 1925 autres
+> verbes du dictionnaire — « il a abaissé », « il a abandonné », « il a
+> abattu »…
 
 `vécu` ne bouge pas : ses quarante-six lignes sont dans le tableau de *vivre*,
 et *vivre* possède la forme. L'entrée `a` passe de **7 Mo à 7 ko**.
@@ -385,8 +439,8 @@ trois répondent.
 Le Multidictionnaire est excellent, mais il répond en lexicographe — la
 prononciation, les sens, les emplois. Il ne vous dit pas *quelle personne de
 quel temps* vous avez sous les yeux. C'est le seul trou que celui-ci remplit,
-et c'est ce qui décidait s'il valait la peine d'encoder mille verbes. Il les a
-maintenant ; les six mille autres coûtent le même geste, répété.
+et c'est ce qui décidait s'il valait la peine d'encoder mille verbes. Il en a
+deux mille ; les cinq mille autres coûtent le même geste, répété.
 
 ## Construire
 
@@ -424,14 +478,15 @@ passe `-v 10.11`, qui produit `Contents/Resources/`, un index trie et
 
 ## Ce que ça coûte à l'échelle
 
-Ce n'est plus une estimation sur des verbes synthétiques. Mesuré sur les mille :
+Ce n'est plus une estimation sur des verbes synthétiques. Mesuré à chaque
+palier :
 
-| | 4 verbes | 1 004 verbes |
-|---|---|---|
-| entrées | 162 | 38 917 |
-| XML source | 1,2 Mo | 291 Mo |
-| **bundle** | 356 ko | **10 Mo** |
-| compilation | 1 s | **4 min 27 s** |
+| | 4 verbes | 1 004 verbes | 2 004 verbes |
+|---|---|---|---|
+| entrées | 162 | 38 917 | 77 277 |
+| XML source | 1,2 Mo | 291 Mo | 581 Mo |
+| **bundle** | 356 ko | 10 Mo | **20 Mo** |
+| compilation | 1 s | 4 min 27 s | **9 min 01 s** |
 
 Le XML est énorme et le bundle ne l'est pas — vingt-sept fois plus petit. C'est
 le découpage par forme qui le veut : chaque forme d'un verbe reçoit sa copie de
@@ -442,9 +497,10 @@ Il l'était deux fois plus cher avant qu'on arrête d'ouvrir neuf cent
 cinquante-six tableaux sur `ai` : 548 Mo de source, dont la moitié en lignes
 d'auxiliaire recopiées.
 
-À 7 011 verbes — tout Verbiste — comptez, au même rythme, une source de deux
-gigaoctets et une demi-heure de compilation. C'est le seul vrai mur, et il est
-loin.
+Tout est linéaire, y compris la compilation : deux fois plus de verbes, deux
+fois plus de tout. À 7 011 verbes — tout Verbiste — comptez donc deux
+gigaoctets de source et une demi-heure de compilation. C'est le seul vrai mur,
+et il est loin.
 
 ## Disposition
 
@@ -478,8 +534,8 @@ Les trois manques de la preuve de concept sont comblés : la source libre est
 Verbiste, les pronominaux ont leur pronom, le participe s'accorde avec le sujet
 quand l'auxiliaire est `être`. Restent ceux-ci.
 
-- **Les six mille autres verbes.** Verbiste en connaît 7 011 ; le classement
-  s'arrête à mille parce que c'est ce qui a été relu, pas parce que le
+- **Les cinq mille autres verbes.** Verbiste en connaît 7 011 ; le classement
+  s'arrête à deux mille parce que c'est ce qui a été relu, pas parce que le
   générateur bute. `make verbe N=100` continue la série.
 - **Les verbes occasionnellement pronominaux.** *se laver*, *s'appeler*,
   *se demander* : le dictionnaire les conjugue à la voix active seulement.
