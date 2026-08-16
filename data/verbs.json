@@ -24187,6 +24187,24 @@
       },
       "participe_present": "affaiblissant",
       "participe_passe": ["affaibli", "affaiblie", "affaiblis", "affaiblies"]
+    },
+    {
+      "id": "déprimer",
+      "infinitif": "déprimer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["déprime", "déprimes", "déprime", "déprimons", "déprimez", "dépriment"],
+        "ind.imp": ["déprimais", "déprimais", "déprimait", "déprimions", "déprimiez", "déprimaient"],
+        "ind.ps": ["déprimai", "déprimas", "déprima", "déprimâmes", "déprimâtes", "déprimèrent"],
+        "ind.fut": ["déprimerai", "déprimeras", "déprimera", "déprimerons", "déprimerez", "déprimeront"],
+        "cond.pres": ["déprimerais", "déprimerais", "déprimerait", "déprimerions", "déprimeriez", "déprimeraient"],
+        "subj.pres": ["déprime", "déprimes", "déprime", "déprimions", "déprimiez", "dépriment"],
+        "subj.imp": ["déprimasse", "déprimasses", "déprimât", "déprimassions", "déprimassiez", "déprimassent"],
+        "imper.pres": ["déprime", "déprimons", "déprimez"]
+      },
+      "participe_present": "déprimant",
+      "participe_passe": ["déprimé", "déprimée", "déprimés", "déprimées"]
     }
   ]
 }
