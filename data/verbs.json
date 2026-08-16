@@ -23872,6 +23872,24 @@
       },
       "participe_present": "intégrant",
       "participe_passe": ["intégré", "intégrée", "intégrés", "intégrées"]
+    },
+    {
+      "id": "scier",
+      "infinitif": "scier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["scie", "scies", "scie", "scions", "sciez", "scient"],
+        "ind.imp": ["sciais", "sciais", "sciait", "sciions", "sciiez", "sciaient"],
+        "ind.ps": ["sciai", "scias", "scia", "sciâmes", "sciâtes", "scièrent"],
+        "ind.fut": ["scierai", "scieras", "sciera", "scierons", "scierez", "scieront"],
+        "cond.pres": ["scierais", "scierais", "scierait", "scierions", "scieriez", "scieraient"],
+        "subj.pres": ["scie", "scies", "scie", "sciions", "sciiez", "scient"],
+        "subj.imp": ["sciasse", "sciasses", "sciât", "sciassions", "sciassiez", "sciassent"],
+        "imper.pres": ["scie", "scions", "sciez"]
+      },
+      "participe_present": "sciant",
+      "participe_passe": ["scié", "sciée", "sciés", "sciées"]
     }
   ]
 }
