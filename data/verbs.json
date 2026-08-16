@@ -21746,6 +21746,24 @@
       },
       "participe_present": "accentuant",
       "participe_passe": ["accentué", "accentuée", "accentués", "accentuées"]
+    },
+    {
+      "id": "brailler",
+      "infinitif": "brailler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["braille", "brailles", "braille", "braillons", "braillez", "braillent"],
+        "ind.imp": ["braillais", "braillais", "braillait", "braillions", "brailliez", "braillaient"],
+        "ind.ps": ["braillai", "braillas", "brailla", "braillâmes", "braillâtes", "braillèrent"],
+        "ind.fut": ["braillerai", "brailleras", "braillera", "braillerons", "braillerez", "brailleront"],
+        "cond.pres": ["braillerais", "braillerais", "braillerait", "braillerions", "brailleriez", "brailleraient"],
+        "subj.pres": ["braille", "brailles", "braille", "braillions", "brailliez", "braillent"],
+        "subj.imp": ["braillasse", "braillasses", "braillât", "braillassions", "braillassiez", "braillassent"],
+        "imper.pres": ["braille", "braillons", "braillez"]
+      },
+      "participe_present": "braillant",
+      "participe_passe": ["braillé", "braillée", "braillés", "braillées"]
     }
   ]
 }
