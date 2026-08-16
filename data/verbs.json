@@ -24988,6 +24988,24 @@
       },
       "participe_present": "dénouant",
       "participe_passe": ["dénoué", "dénouée", "dénoués", "dénouées"]
+    },
+    {
+      "id": "enrager",
+      "infinitif": "enrager",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enrage", "enrages", "enrage", "enrageons", "enragez", "enragent"],
+        "ind.imp": ["enrageais", "enrageais", "enrageait", "enragions", "enragiez", "enrageaient"],
+        "ind.ps": ["enrageai", "enrageas", "enragea", "enrageâmes", "enrageâtes", "enragèrent"],
+        "ind.fut": ["enragerai", "enrageras", "enragera", "enragerons", "enragerez", "enrageront"],
+        "cond.pres": ["enragerais", "enragerais", "enragerait", "enragerions", "enrageriez", "enrageraient"],
+        "subj.pres": ["enrage", "enrages", "enrage", "enragions", "enragiez", "enragent"],
+        "subj.imp": ["enrageasse", "enrageasses", "enrageât", "enrageassions", "enrageassiez", "enrageassent"],
+        "imper.pres": ["enrage", "enrageons", "enragez"]
+      },
+      "participe_present": "enrageant",
+      "participe_passe": ["enragé", "enragée", "enragés", "enragées"]
     }
   ]
 }
