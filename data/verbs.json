@@ -6933,6 +6933,24 @@
       },
       "participe_present": "renonçant",
       "participe_passe": ["renoncé", "renoncée", "renoncés", "renoncées"]
+    },
+    {
+      "id": "croiser",
+      "infinitif": "croiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["croise", "croises", "croise", "croisons", "croisez", "croisent"],
+        "ind.imp": ["croisais", "croisais", "croisait", "croisions", "croisiez", "croisaient"],
+        "ind.ps": ["croisai", "croisas", "croisa", "croisâmes", "croisâtes", "croisèrent"],
+        "ind.fut": ["croiserai", "croiseras", "croisera", "croiserons", "croiserez", "croiseront"],
+        "cond.pres": ["croiserais", "croiserais", "croiserait", "croiserions", "croiseriez", "croiseraient"],
+        "subj.pres": ["croise", "croises", "croise", "croisions", "croisiez", "croisent"],
+        "subj.imp": ["croisasse", "croisasses", "croisât", "croisassions", "croisassiez", "croisassent"],
+        "imper.pres": ["croise", "croisons", "croisez"]
+      },
+      "participe_present": "croisant",
+      "participe_passe": ["croisé", "croisée", "croisés", "croisées"]
     }
   ]
 }
