@@ -25006,6 +25006,24 @@
       },
       "participe_present": "enrageant",
       "participe_passe": ["enragé", "enragée", "enragés", "enragées"]
+    },
+    {
+      "id": "rendormir",
+      "infinitif": "rendormir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["rendors", "rendors", "rendort", "rendormons", "rendormez", "rendorment"],
+        "ind.imp": ["rendormais", "rendormais", "rendormait", "rendormions", "rendormiez", "rendormaient"],
+        "ind.ps": ["rendormis", "rendormis", "rendormit", "rendormîmes", "rendormîtes", "rendormirent"],
+        "ind.fut": ["rendormirai", "rendormiras", "rendormira", "rendormirons", "rendormirez", "rendormiront"],
+        "cond.pres": ["rendormirais", "rendormirais", "rendormirait", "rendormirions", "rendormiriez", "rendormiraient"],
+        "subj.pres": ["rendorme", "rendormes", "rendorme", "rendormions", "rendormiez", "rendorment"],
+        "subj.imp": ["rendormisse", "rendormisses", "rendormît", "rendormissions", "rendormissiez", "rendormissent"],
+        "imper.pres": ["rendors", "rendormons", "rendormez"]
+      },
+      "participe_present": "rendormant",
+      "participe_passe": ["rendormi", "rendormie", "rendormis", "rendormies"]
     }
   ]
 }
