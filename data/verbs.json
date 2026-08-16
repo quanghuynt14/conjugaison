@@ -2986,6 +2986,24 @@
       },
       "participe_present": "amusant",
       "participe_passe": ["amusé", "amusée", "amusés", "amusées"]
+    },
+    {
+      "id": "lâcher",
+      "infinitif": "lâcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["lâche", "lâches", "lâche", "lâchons", "lâchez", "lâchent"],
+        "ind.imp": ["lâchais", "lâchais", "lâchait", "lâchions", "lâchiez", "lâchaient"],
+        "ind.ps": ["lâchai", "lâchas", "lâcha", "lâchâmes", "lâchâtes", "lâchèrent"],
+        "ind.fut": ["lâcherai", "lâcheras", "lâchera", "lâcherons", "lâcherez", "lâcheront"],
+        "cond.pres": ["lâcherais", "lâcherais", "lâcherait", "lâcherions", "lâcheriez", "lâcheraient"],
+        "subj.pres": ["lâche", "lâches", "lâche", "lâchions", "lâchiez", "lâchent"],
+        "subj.imp": ["lâchasse", "lâchasses", "lâchât", "lâchassions", "lâchassiez", "lâchassent"],
+        "imper.pres": ["lâche", "lâchons", "lâchez"]
+      },
+      "participe_present": "lâchant",
+      "participe_passe": ["lâché", "lâchée", "lâchés", "lâchées"]
     }
   ]
 }
