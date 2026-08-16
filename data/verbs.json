@@ -9048,6 +9048,24 @@
       },
       "participe_present": "crachant",
       "participe_passe": ["craché", "crachée", "crachés", "crachées"]
+    },
+    {
+      "id": "hausser",
+      "infinitif": "hausser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["hausse", "hausses", "hausse", "haussons", "haussez", "haussent"],
+        "ind.imp": ["haussais", "haussais", "haussait", "haussions", "haussiez", "haussaient"],
+        "ind.ps": ["haussai", "haussas", "haussa", "haussâmes", "haussâtes", "haussèrent"],
+        "ind.fut": ["hausserai", "hausseras", "haussera", "hausserons", "hausserez", "hausseront"],
+        "cond.pres": ["hausserais", "hausserais", "hausserait", "hausserions", "hausseriez", "hausseraient"],
+        "subj.pres": ["hausse", "hausses", "hausse", "haussions", "haussiez", "haussent"],
+        "subj.imp": ["haussasse", "haussasses", "haussât", "haussassions", "haussassiez", "haussassent"],
+        "imper.pres": ["hausse", "haussons", "haussez"]
+      },
+      "participe_present": "haussant",
+      "participe_passe": ["haussé", "haussée", "haussés", "haussées"]
     }
   ]
 }
