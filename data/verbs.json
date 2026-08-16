@@ -1626,6 +1626,24 @@
       },
       "participe_present": "souvenant",
       "participe_passe": ["souvenu", "souvenue", "souvenus", "souvenues"]
+    },
+    {
+      "id": "jeter",
+      "infinitif": "jeter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["jette", "jettes", "jette", "jetons", "jetez", "jettent"],
+        "ind.imp": ["jetais", "jetais", "jetait", "jetions", "jetiez", "jetaient"],
+        "ind.ps": ["jetai", "jetas", "jeta", "jetâmes", "jetâtes", "jetèrent"],
+        "ind.fut": ["jetterai", "jetteras", "jettera", "jetterons", "jetterez", "jetteront"],
+        "cond.pres": ["jetterais", "jetterais", "jetterait", "jetterions", "jetteriez", "jetteraient"],
+        "subj.pres": ["jette", "jettes", "jette", "jetions", "jetiez", "jettent"],
+        "subj.imp": ["jetasse", "jetasses", "jetât", "jetassions", "jetassiez", "jetassent"],
+        "imper.pres": ["jette", "jetons", "jetez"]
+      },
+      "participe_present": "jetant",
+      "participe_passe": ["jeté", "jetée", "jetés", "jetées"]
     }
   ]
 }
