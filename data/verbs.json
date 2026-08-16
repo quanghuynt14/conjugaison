@@ -14700,6 +14700,24 @@
       },
       "participe_present": "préoccupant",
       "participe_passe": ["préoccupé", "préoccupée", "préoccupés", "préoccupées"]
+    },
+    {
+      "id": "fendre",
+      "infinitif": "fendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["fends", "fends", "fend", "fendons", "fendez", "fendent"],
+        "ind.imp": ["fendais", "fendais", "fendait", "fendions", "fendiez", "fendaient"],
+        "ind.ps": ["fendis", "fendis", "fendit", "fendîmes", "fendîtes", "fendirent"],
+        "ind.fut": ["fendrai", "fendras", "fendra", "fendrons", "fendrez", "fendront"],
+        "cond.pres": ["fendrais", "fendrais", "fendrait", "fendrions", "fendriez", "fendraient"],
+        "subj.pres": ["fende", "fendes", "fende", "fendions", "fendiez", "fendent"],
+        "subj.imp": ["fendisse", "fendisses", "fendît", "fendissions", "fendissiez", "fendissent"],
+        "imper.pres": ["fends", "fendons", "fendez"]
+      },
+      "participe_present": "fendant",
+      "participe_passe": ["fendu", "fendue", "fendus", "fendues"]
     }
   ]
 }
