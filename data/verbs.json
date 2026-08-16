@@ -35094,6 +35094,26 @@
       },
       "participe_present": "dilatant",
       "participe_passe": ["dilaté", "dilatée", "dilatés", "dilatées"]
+    },
+    {
+      "id": "héler",
+      "infinitif": "héler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "h_aspire": true,
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je hélerai » ou « je hèlerai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["hèle", "hèles", "hèle", "hélons", "hélez", "hèlent"],
+        "ind.imp": ["hélais", "hélais", "hélait", "hélions", "héliez", "hélaient"],
+        "ind.ps": ["hélai", "hélas", "héla", "hélâmes", "hélâtes", "hélèrent"],
+        "ind.fut": [["hélerai", "hèlerai"], ["héleras", "hèleras"], ["hélera", "hèlera"], ["hélerons", "hèlerons"], ["hélerez", "hèlerez"], ["héleront", "hèleront"]],
+        "cond.pres": [["hélerais", "hèlerais"], ["hélerais", "hèlerais"], ["hélerait", "hèlerait"], ["hélerions", "hèlerions"], ["héleriez", "hèleriez"], ["héleraient", "hèleraient"]],
+        "subj.pres": ["hèle", "hèles", "hèle", "hélions", "héliez", "hèlent"],
+        "subj.imp": ["hélasse", "hélasses", "hélât", "hélassions", "hélassiez", "hélassent"],
+        "imper.pres": ["hèle", "hélons", "hélez"]
+      },
+      "participe_present": "hélant",
+      "participe_passe": ["hélé", "hélée", "hélés", "hélées"]
     }
   ]
 }
