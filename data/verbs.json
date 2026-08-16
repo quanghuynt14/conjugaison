@@ -4866,6 +4866,24 @@
       },
       "participe_present": "avouant",
       "participe_passe": ["avoué", "avouée", "avoués", "avouées"]
+    },
+    {
+      "id": "baiser",
+      "infinitif": "baiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["baise", "baises", "baise", "baisons", "baisez", "baisent"],
+        "ind.imp": ["baisais", "baisais", "baisait", "baisions", "baisiez", "baisaient"],
+        "ind.ps": ["baisai", "baisas", "baisa", "baisâmes", "baisâtes", "baisèrent"],
+        "ind.fut": ["baiserai", "baiseras", "baisera", "baiserons", "baiserez", "baiseront"],
+        "cond.pres": ["baiserais", "baiserais", "baiserait", "baiserions", "baiseriez", "baiseraient"],
+        "subj.pres": ["baise", "baises", "baise", "baisions", "baisiez", "baisent"],
+        "subj.imp": ["baisasse", "baisasses", "baisât", "baisassions", "baisassiez", "baisassent"],
+        "imper.pres": ["baise", "baisons", "baisez"]
+      },
+      "participe_present": "baisant",
+      "participe_passe": ["baisé", "baisée", "baisés", "baisées"]
     }
   ]
 }
