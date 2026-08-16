@@ -12593,6 +12593,24 @@
       },
       "participe_present": "ressortant",
       "participe_passe": ["ressorti", "ressortie", "ressortis", "ressorties"]
+    },
+    {
+      "id": "émouvoir",
+      "infinitif": "émouvoir",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["émeus", "émeus", "émeut", "émouvons", "émouvez", "émeuvent"],
+        "ind.imp": ["émouvais", "émouvais", "émouvait", "émouvions", "émouviez", "émouvaient"],
+        "ind.ps": ["émus", "émus", "émut", "émûmes", "émûtes", "émurent"],
+        "ind.fut": ["émouvrai", "émouvras", "émouvra", "émouvrons", "émouvrez", "émouvront"],
+        "cond.pres": ["émouvrais", "émouvrais", "émouvrait", "émouvrions", "émouvriez", "émouvraient"],
+        "subj.pres": ["émeuve", "émeuves", "émeuve", "émouvions", "émouviez", "émeuvent"],
+        "subj.imp": ["émusse", "émusses", "émût", "émussions", "émussiez", "émussent"],
+        "imper.pres": ["émeus", "émouvons", "émouvez"]
+      },
+      "participe_present": "émouvant",
+      "participe_passe": ["ému", "émue", "émus", "émues"]
     }
   ]
 }
