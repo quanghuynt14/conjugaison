@@ -15297,6 +15297,24 @@
       },
       "participe_present": "douant",
       "participe_passe": ["doué", "douée", "doués", "douées"]
+    },
+    {
+      "id": "salir",
+      "infinitif": "salir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["salis", "salis", "salit", "salissons", "salissez", "salissent"],
+        "ind.imp": ["salissais", "salissais", "salissait", "salissions", "salissiez", "salissaient"],
+        "ind.ps": ["salis", "salis", "salit", "salîmes", "salîtes", "salirent"],
+        "ind.fut": ["salirai", "saliras", "salira", "salirons", "salirez", "saliront"],
+        "cond.pres": ["salirais", "salirais", "salirait", "salirions", "saliriez", "saliraient"],
+        "subj.pres": ["salisse", "salisses", "salisse", "salissions", "salissiez", "salissent"],
+        "subj.imp": ["salisse", "salisses", "salît", "salissions", "salissiez", "salissent"],
+        "imper.pres": ["salis", "salissons", "salissez"]
+      },
+      "participe_present": "salissant",
+      "participe_passe": ["sali", "salie", "salis", "salies"]
     }
   ]
 }
