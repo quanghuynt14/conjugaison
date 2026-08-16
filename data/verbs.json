@@ -458,6 +458,24 @@
       },
       "participe_present": "mettant",
       "participe_passe": ["mis", "mise", "mis", "mises"]
+    },
+    {
+      "id": "attendre",
+      "infinitif": "attendre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["attends", "attends", "attend", "attendons", "attendez", "attendent"],
+        "ind.imp": ["attendais", "attendais", "attendait", "attendions", "attendiez", "attendaient"],
+        "ind.ps": ["attendis", "attendis", "attendit", "attendîmes", "attendîtes", "attendirent"],
+        "ind.fut": ["attendrai", "attendras", "attendra", "attendrons", "attendrez", "attendront"],
+        "cond.pres": ["attendrais", "attendrais", "attendrait", "attendrions", "attendriez", "attendraient"],
+        "subj.pres": ["attende", "attendes", "attende", "attendions", "attendiez", "attendent"],
+        "subj.imp": ["attendisse", "attendisses", "attendît", "attendissions", "attendissiez", "attendissent"],
+        "imper.pres": ["attends", "attendons", "attendez"]
+      },
+      "participe_present": "attendant",
+      "participe_passe": ["attendu", "attendue", "attendus", "attendues"]
     }
   ]
 }
