@@ -27267,6 +27267,24 @@
       },
       "participe_present": "enivrant",
       "participe_passe": ["enivré", "enivrée", "enivrés", "enivrées"]
+    },
+    {
+      "id": "inclure",
+      "infinitif": "inclure",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["inclus", "inclus", "inclut", "incluons", "incluez", "incluent"],
+        "ind.imp": ["incluais", "incluais", "incluait", "incluions", "incluiez", "incluaient"],
+        "ind.ps": ["inclus", "inclus", "inclut", "inclûmes", "inclûtes", "inclurent"],
+        "ind.fut": ["inclurai", "incluras", "inclura", "inclurons", "inclurez", "incluront"],
+        "cond.pres": ["inclurais", "inclurais", "inclurait", "inclurions", "incluriez", "incluraient"],
+        "subj.pres": ["inclue", "inclues", "inclue", "incluions", "incluiez", "incluent"],
+        "subj.imp": ["inclusse", "inclusses", "inclût", "inclussions", "inclussiez", "inclussent"],
+        "imper.pres": ["inclus", "incluons", "incluez"]
+      },
+      "participe_present": "incluant",
+      "participe_passe": ["inclus", "incluse", "inclus", "incluses"]
     }
   ]
 }
