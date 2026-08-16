@@ -5572,6 +5572,24 @@
       },
       "participe_present": "représentant",
       "participe_passe": ["représenté", "représentée", "représentés", "représentées"]
+    },
+    {
+      "id": "dépêcher",
+      "infinitif": "dépêcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dépêche", "dépêches", "dépêche", "dépêchons", "dépêchez", "dépêchent"],
+        "ind.imp": ["dépêchais", "dépêchais", "dépêchait", "dépêchions", "dépêchiez", "dépêchaient"],
+        "ind.ps": ["dépêchai", "dépêchas", "dépêcha", "dépêchâmes", "dépêchâtes", "dépêchèrent"],
+        "ind.fut": ["dépêcherai", "dépêcheras", "dépêchera", "dépêcherons", "dépêcherez", "dépêcheront"],
+        "cond.pres": ["dépêcherais", "dépêcherais", "dépêcherait", "dépêcherions", "dépêcheriez", "dépêcheraient"],
+        "subj.pres": ["dépêche", "dépêches", "dépêche", "dépêchions", "dépêchiez", "dépêchent"],
+        "subj.imp": ["dépêchasse", "dépêchasses", "dépêchât", "dépêchassions", "dépêchassiez", "dépêchassent"],
+        "imper.pres": ["dépêche", "dépêchons", "dépêchez"]
+      },
+      "participe_present": "dépêchant",
+      "participe_passe": ["dépêché", "dépêchée", "dépêchés", "dépêchées"]
     }
   ]
 }
