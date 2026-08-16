@@ -5844,6 +5844,25 @@
       },
       "participe_present": "enfermant",
       "participe_passe": ["enfermé", "enfermée", "enfermés", "enfermées"]
+    },
+    {
+      "id": "trembler",
+      "infinitif": "trembler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « tremblé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["tremble", "trembles", "tremble", "tremblons", "tremblez", "tremblent"],
+        "ind.imp": ["tremblais", "tremblais", "tremblait", "tremblions", "trembliez", "tremblaient"],
+        "ind.ps": ["tremblai", "tremblas", "trembla", "tremblâmes", "tremblâtes", "tremblèrent"],
+        "ind.fut": ["tremblerai", "trembleras", "tremblera", "tremblerons", "tremblerez", "trembleront"],
+        "cond.pres": ["tremblerais", "tremblerais", "tremblerait", "tremblerions", "trembleriez", "trembleraient"],
+        "subj.pres": ["tremble", "trembles", "tremble", "tremblions", "trembliez", "tremblent"],
+        "subj.imp": ["tremblasse", "tremblasses", "tremblât", "tremblassions", "tremblassiez", "tremblassent"],
+        "imper.pres": ["tremble", "tremblons", "tremblez"]
+      },
+      "participe_present": "tremblant",
+      "participe_passe": ["tremblé", null, null, null]
     }
   ]
 }
