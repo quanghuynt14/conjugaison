@@ -18358,6 +18358,24 @@
       },
       "participe_present": "attendrissant",
       "participe_passe": ["attendri", "attendrie", "attendris", "attendries"]
+    },
+    {
+      "id": "cultiver",
+      "infinitif": "cultiver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["cultive", "cultives", "cultive", "cultivons", "cultivez", "cultivent"],
+        "ind.imp": ["cultivais", "cultivais", "cultivait", "cultivions", "cultiviez", "cultivaient"],
+        "ind.ps": ["cultivai", "cultivas", "cultiva", "cultivâmes", "cultivâtes", "cultivèrent"],
+        "ind.fut": ["cultiverai", "cultiveras", "cultivera", "cultiverons", "cultiverez", "cultiveront"],
+        "cond.pres": ["cultiverais", "cultiverais", "cultiverait", "cultiverions", "cultiveriez", "cultiveraient"],
+        "subj.pres": ["cultive", "cultives", "cultive", "cultivions", "cultiviez", "cultivent"],
+        "subj.imp": ["cultivasse", "cultivasses", "cultivât", "cultivassions", "cultivassiez", "cultivassent"],
+        "imper.pres": ["cultive", "cultivons", "cultivez"]
+      },
+      "participe_present": "cultivant",
+      "participe_passe": ["cultivé", "cultivée", "cultivés", "cultivées"]
     }
   ]
 }
