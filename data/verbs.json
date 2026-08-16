@@ -20656,6 +20656,25 @@
       },
       "participe_present": "régalant",
       "participe_passe": ["régalé", "régalée", "régalés", "régalées"]
+    },
+    {
+      "id": "compléter",
+      "infinitif": "compléter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Depuis les rectifications orthographiques de 1990, le futur et le conditionnel s'écrivent aussi avec un accent grave : « je compléterai » ou « je complèterai ». Les deux sont admises.",
+      "tenses": {
+        "ind.pres": ["complète", "complètes", "complète", "complétons", "complétez", "complètent"],
+        "ind.imp": ["complétais", "complétais", "complétait", "complétions", "complétiez", "complétaient"],
+        "ind.ps": ["complétai", "complétas", "compléta", "complétâmes", "complétâtes", "complétèrent"],
+        "ind.fut": [["compléterai", "complèterai"], ["compléteras", "complèteras"], ["complétera", "complètera"], ["compléterons", "complèterons"], ["compléterez", "complèterez"], ["compléteront", "complèteront"]],
+        "cond.pres": [["compléterais", "complèterais"], ["compléterais", "complèterais"], ["compléterait", "complèterait"], ["compléterions", "complèterions"], ["compléteriez", "complèteriez"], ["compléteraient", "complèteraient"]],
+        "subj.pres": ["complète", "complètes", "complète", "complétions", "complétiez", "complètent"],
+        "subj.imp": ["complétasse", "complétasses", "complétât", "complétassions", "complétassiez", "complétassent"],
+        "imper.pres": ["complète", "complétons", "complétez"]
+      },
+      "participe_present": "complétant",
+      "participe_passe": ["complété", "complétée", "complétés", "complétées"]
     }
   ]
 }
