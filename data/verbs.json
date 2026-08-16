@@ -10117,6 +10117,26 @@
       },
       "participe_present": "frottant",
       "participe_passe": ["frotté", "frottée", "frottés", "frottées"]
+    },
+    {
+      "id": "méfier",
+      "infinitif": "méfier",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "être",
+      "pronominal": true,
+      "note": "Verbe essentiellement pronominal : il ne s'emploie qu'avec un pronom réfléchi. On dit « je me méfie » ; la forme nue ne se conjugue pas. Ses temps composés prennent être.",
+      "tenses": {
+        "ind.pres": ["méfie", "méfies", "méfie", "méfions", "méfiez", "méfient"],
+        "ind.imp": ["méfiais", "méfiais", "méfiait", "méfiions", "méfiiez", "méfiaient"],
+        "ind.ps": ["méfiai", "méfias", "méfia", "méfiâmes", "méfiâtes", "méfièrent"],
+        "ind.fut": ["méfierai", "méfieras", "méfiera", "méfierons", "méfierez", "méfieront"],
+        "cond.pres": ["méfierais", "méfierais", "méfierait", "méfierions", "méfieriez", "méfieraient"],
+        "subj.pres": ["méfie", "méfies", "méfie", "méfiions", "méfiiez", "méfient"],
+        "subj.imp": ["méfiasse", "méfiasses", "méfiât", "méfiassions", "méfiassiez", "méfiassent"],
+        "imper.pres": ["méfie", "méfions", "méfiez"]
+      },
+      "participe_present": "méfiant",
+      "participe_passe": ["méfié", "méfiée", "méfiés", "méfiées"]
     }
   ]
 }
