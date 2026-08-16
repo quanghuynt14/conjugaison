@@ -1934,6 +1934,24 @@
       },
       "participe_present": "rencontrant",
       "participe_passe": ["rencontré", "rencontrée", "rencontrés", "rencontrées"]
+    },
+    {
+      "id": "décider",
+      "infinitif": "décider",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["décide", "décides", "décide", "décidons", "décidez", "décident"],
+        "ind.imp": ["décidais", "décidais", "décidait", "décidions", "décidiez", "décidaient"],
+        "ind.ps": ["décidai", "décidas", "décida", "décidâmes", "décidâtes", "décidèrent"],
+        "ind.fut": ["déciderai", "décideras", "décidera", "déciderons", "déciderez", "décideront"],
+        "cond.pres": ["déciderais", "déciderais", "déciderait", "déciderions", "décideriez", "décideraient"],
+        "subj.pres": ["décide", "décides", "décide", "décidions", "décidiez", "décident"],
+        "subj.imp": ["décidasse", "décidasses", "décidât", "décidassions", "décidassiez", "décidassent"],
+        "imper.pres": ["décide", "décidons", "décidez"]
+      },
+      "participe_present": "décidant",
+      "participe_passe": ["décidé", "décidée", "décidés", "décidées"]
     }
   ]
 }
