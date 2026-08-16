@@ -15934,6 +15934,24 @@
       },
       "participe_present": "maîtrisant",
       "participe_passe": ["maîtrisé", "maîtrisée", "maîtrisés", "maîtrisées"]
+    },
+    {
+      "id": "limiter",
+      "infinitif": "limiter",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["limite", "limites", "limite", "limitons", "limitez", "limitent"],
+        "ind.imp": ["limitais", "limitais", "limitait", "limitions", "limitiez", "limitaient"],
+        "ind.ps": ["limitai", "limitas", "limita", "limitâmes", "limitâtes", "limitèrent"],
+        "ind.fut": ["limiterai", "limiteras", "limitera", "limiterons", "limiterez", "limiteront"],
+        "cond.pres": ["limiterais", "limiterais", "limiterait", "limiterions", "limiteriez", "limiteraient"],
+        "subj.pres": ["limite", "limites", "limite", "limitions", "limitiez", "limitent"],
+        "subj.imp": ["limitasse", "limitasses", "limitât", "limitassions", "limitassiez", "limitassent"],
+        "imper.pres": ["limite", "limitons", "limitez"]
+      },
+      "participe_present": "limitant",
+      "participe_passe": ["limité", "limitée", "limités", "limitées"]
     }
   ]
 }
