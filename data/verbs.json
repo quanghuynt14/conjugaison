@@ -27778,6 +27778,24 @@
       },
       "participe_present": "meublant",
       "participe_passe": ["meublé", "meublée", "meublés", "meublées"]
+    },
+    {
+      "id": "saper",
+      "infinitif": "saper",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["sape", "sapes", "sape", "sapons", "sapez", "sapent"],
+        "ind.imp": ["sapais", "sapais", "sapait", "sapions", "sapiez", "sapaient"],
+        "ind.ps": ["sapai", "sapas", "sapa", "sapâmes", "sapâtes", "sapèrent"],
+        "ind.fut": ["saperai", "saperas", "sapera", "saperons", "saperez", "saperont"],
+        "cond.pres": ["saperais", "saperais", "saperait", "saperions", "saperiez", "saperaient"],
+        "subj.pres": ["sape", "sapes", "sape", "sapions", "sapiez", "sapent"],
+        "subj.imp": ["sapasse", "sapasses", "sapât", "sapassions", "sapassiez", "sapassent"],
+        "imper.pres": ["sape", "sapons", "sapez"]
+      },
+      "participe_present": "sapant",
+      "participe_passe": ["sapé", "sapée", "sapés", "sapées"]
     }
   ]
 }
