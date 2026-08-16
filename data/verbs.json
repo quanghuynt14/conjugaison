@@ -24934,6 +24934,24 @@
       },
       "participe_present": "oscillant",
       "participe_passe": ["oscillé", null, null, null]
+    },
+    {
+      "id": "redoubler",
+      "infinitif": "redoubler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["redouble", "redoubles", "redouble", "redoublons", "redoublez", "redoublent"],
+        "ind.imp": ["redoublais", "redoublais", "redoublait", "redoublions", "redoubliez", "redoublaient"],
+        "ind.ps": ["redoublai", "redoublas", "redoubla", "redoublâmes", "redoublâtes", "redoublèrent"],
+        "ind.fut": ["redoublerai", "redoubleras", "redoublera", "redoublerons", "redoublerez", "redoubleront"],
+        "cond.pres": ["redoublerais", "redoublerais", "redoublerait", "redoublerions", "redoubleriez", "redoubleraient"],
+        "subj.pres": ["redouble", "redoubles", "redouble", "redoublions", "redoubliez", "redoublent"],
+        "subj.imp": ["redoublasse", "redoublasses", "redoublât", "redoublassions", "redoublassiez", "redoublassent"],
+        "imper.pres": ["redouble", "redoublons", "redoublez"]
+      },
+      "participe_present": "redoublant",
+      "participe_passe": ["redoublé", "redoublée", "redoublés", "redoublées"]
     }
   ]
 }
