@@ -20291,6 +20291,24 @@
       },
       "participe_present": "peinant",
       "participe_passe": ["peiné", "peinée", "peinés", "peinées"]
+    },
+    {
+      "id": "poster",
+      "infinitif": "poster",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["poste", "postes", "poste", "postons", "postez", "postent"],
+        "ind.imp": ["postais", "postais", "postait", "postions", "postiez", "postaient"],
+        "ind.ps": ["postai", "postas", "posta", "postâmes", "postâtes", "postèrent"],
+        "ind.fut": ["posterai", "posteras", "postera", "posterons", "posterez", "posteront"],
+        "cond.pres": ["posterais", "posterais", "posterait", "posterions", "posteriez", "posteraient"],
+        "subj.pres": ["poste", "postes", "poste", "postions", "postiez", "postent"],
+        "subj.imp": ["postasse", "postasses", "postât", "postassions", "postassiez", "postassent"],
+        "imper.pres": ["poste", "postons", "postez"]
+      },
+      "participe_present": "postant",
+      "participe_passe": ["posté", "postée", "postés", "postées"]
     }
   ]
 }
