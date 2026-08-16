@@ -22817,6 +22817,24 @@
       },
       "participe_present": "pillant",
       "participe_passe": ["pillé", "pillée", "pillés", "pillées"]
+    },
+    {
+      "id": "trouer",
+      "infinitif": "trouer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["troue", "troues", "troue", "trouons", "trouez", "trouent"],
+        "ind.imp": ["trouais", "trouais", "trouait", "trouions", "trouiez", "trouaient"],
+        "ind.ps": ["trouai", "trouas", "troua", "trouâmes", "trouâtes", "trouèrent"],
+        "ind.fut": ["trouerai", "troueras", "trouera", "trouerons", "trouerez", "troueront"],
+        "cond.pres": ["trouerais", "trouerais", "trouerait", "trouerions", "troueriez", "troueraient"],
+        "subj.pres": ["troue", "troues", "troue", "trouions", "trouiez", "trouent"],
+        "subj.imp": ["trouasse", "trouasses", "trouât", "trouassions", "trouassiez", "trouassent"],
+        "imper.pres": ["troue", "trouons", "trouez"]
+      },
+      "participe_present": "trouant",
+      "participe_passe": ["troué", "trouée", "troués", "trouées"]
     }
   ]
 }
