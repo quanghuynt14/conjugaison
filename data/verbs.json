@@ -1734,6 +1734,25 @@
       },
       "participe_present": "excusant",
       "participe_passe": ["excusé", "excusée", "excusés", "excusées"]
+    },
+    {
+      "id": "rire",
+      "infinitif": "rire",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « ri » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["ris", "ris", "rit", "rions", "riez", "rient"],
+        "ind.imp": ["riais", "riais", "riait", "riions", "riiez", "riaient"],
+        "ind.ps": ["ris", "ris", "rit", "rîmes", "rîtes", "rirent"],
+        "ind.fut": ["rirai", "riras", "rira", "rirons", "rirez", "riront"],
+        "cond.pres": ["rirais", "rirais", "rirait", "ririons", "ririez", "riraient"],
+        "subj.pres": ["rie", "ries", "rie", "riions", "riiez", "rient"],
+        "subj.imp": ["risse", "risses", "rît", "rissions", "rissiez", "rissent"],
+        "imper.pres": ["ris", "rions", "riez"]
+      },
+      "participe_present": "riant",
+      "participe_passe": ["ri", null, null, null]
     }
   ]
 }
