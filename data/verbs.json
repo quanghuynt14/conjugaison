@@ -35569,6 +35569,24 @@
       },
       "participe_present": "sucrant",
       "participe_passe": ["sucré", "sucrée", "sucrés", "sucrées"]
+    },
+    {
+      "id": "raviver",
+      "infinitif": "raviver",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["ravive", "ravives", "ravive", "ravivons", "ravivez", "ravivent"],
+        "ind.imp": ["ravivais", "ravivais", "ravivait", "ravivions", "raviviez", "ravivaient"],
+        "ind.ps": ["ravivai", "ravivas", "raviva", "ravivâmes", "ravivâtes", "ravivèrent"],
+        "ind.fut": ["raviverai", "raviveras", "ravivera", "raviverons", "raviverez", "raviveront"],
+        "cond.pres": ["raviverais", "raviverais", "raviverait", "raviverions", "raviveriez", "raviveraient"],
+        "subj.pres": ["ravive", "ravives", "ravive", "ravivions", "raviviez", "ravivent"],
+        "subj.imp": ["ravivasse", "ravivasses", "ravivât", "ravivassions", "ravivassiez", "ravivassent"],
+        "imper.pres": ["ravive", "ravivons", "ravivez"]
+      },
+      "participe_present": "ravivant",
+      "participe_passe": ["ravivé", "ravivée", "ravivés", "ravivées"]
     }
   ]
 }
