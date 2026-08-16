@@ -2750,6 +2750,24 @@
       },
       "participe_present": "avançant",
       "participe_passe": ["avancé", "avancée", "avancés", "avancées"]
+    },
+    {
+      "id": "promettre",
+      "infinitif": "promettre",
+      "groupe": "3ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["promets", "promets", "promet", "promettons", "promettez", "promettent"],
+        "ind.imp": ["promettais", "promettais", "promettait", "promettions", "promettiez", "promettaient"],
+        "ind.ps": ["promis", "promis", "promit", "promîmes", "promîtes", "promirent"],
+        "ind.fut": ["promettrai", "promettras", "promettra", "promettrons", "promettrez", "promettront"],
+        "cond.pres": ["promettrais", "promettrais", "promettrait", "promettrions", "promettriez", "promettraient"],
+        "subj.pres": ["promette", "promettes", "promette", "promettions", "promettiez", "promettent"],
+        "subj.imp": ["promisse", "promisses", "promît", "promissions", "promissiez", "promissent"],
+        "imper.pres": ["promets", "promettons", "promettez"]
+      },
+      "participe_present": "promettant",
+      "participe_passe": ["promis", "promise", "promis", "promises"]
     }
   ]
 }
