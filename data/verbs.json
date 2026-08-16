@@ -7729,6 +7729,25 @@
       },
       "participe_present": "haïssant",
       "participe_passe": ["haï", "haïe", "haïs", "haïes"]
+    },
+    {
+      "id": "résister",
+      "infinitif": "résister",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « résisté » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["résiste", "résistes", "résiste", "résistons", "résistez", "résistent"],
+        "ind.imp": ["résistais", "résistais", "résistait", "résistions", "résistiez", "résistaient"],
+        "ind.ps": ["résistai", "résistas", "résista", "résistâmes", "résistâtes", "résistèrent"],
+        "ind.fut": ["résisterai", "résisteras", "résistera", "résisterons", "résisterez", "résisteront"],
+        "cond.pres": ["résisterais", "résisterais", "résisterait", "résisterions", "résisteriez", "résisteraient"],
+        "subj.pres": ["résiste", "résistes", "résiste", "résistions", "résistiez", "résistent"],
+        "subj.imp": ["résistasse", "résistasses", "résistât", "résistassions", "résistassiez", "résistassent"],
+        "imper.pres": ["résiste", "résistons", "résistez"]
+      },
+      "participe_present": "résistant",
+      "participe_passe": ["résisté", null, null, null]
     }
   ]
 }
