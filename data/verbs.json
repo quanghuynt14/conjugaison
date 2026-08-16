@@ -15970,6 +15970,24 @@
       },
       "participe_present": "hissant",
       "participe_passe": ["hissé", "hissée", "hissés", "hissées"]
+    },
+    {
+      "id": "assommer",
+      "infinitif": "assommer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assomme", "assommes", "assomme", "assommons", "assommez", "assomment"],
+        "ind.imp": ["assommais", "assommais", "assommait", "assommions", "assommiez", "assommaient"],
+        "ind.ps": ["assommai", "assommas", "assomma", "assommâmes", "assommâtes", "assommèrent"],
+        "ind.fut": ["assommerai", "assommeras", "assommera", "assommerons", "assommerez", "assommeront"],
+        "cond.pres": ["assommerais", "assommerais", "assommerait", "assommerions", "assommeriez", "assommeraient"],
+        "subj.pres": ["assomme", "assommes", "assomme", "assommions", "assommiez", "assomment"],
+        "subj.imp": ["assommasse", "assommasses", "assommât", "assommassions", "assommassiez", "assommassent"],
+        "imper.pres": ["assomme", "assommons", "assommez"]
+      },
+      "participe_present": "assommant",
+      "participe_passe": ["assommé", "assommée", "assommés", "assommées"]
     }
   ]
 }
