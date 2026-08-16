@@ -21476,6 +21476,24 @@
       },
       "participe_present": "qualifiant",
       "participe_passe": ["qualifié", "qualifiée", "qualifiés", "qualifiées"]
+    },
+    {
+      "id": "brosser",
+      "infinitif": "brosser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["brosse", "brosses", "brosse", "brossons", "brossez", "brossent"],
+        "ind.imp": ["brossais", "brossais", "brossait", "brossions", "brossiez", "brossaient"],
+        "ind.ps": ["brossai", "brossas", "brossa", "brossâmes", "brossâtes", "brossèrent"],
+        "ind.fut": ["brosserai", "brosseras", "brossera", "brosserons", "brosserez", "brosseront"],
+        "cond.pres": ["brosserais", "brosserais", "brosserait", "brosserions", "brosseriez", "brosseraient"],
+        "subj.pres": ["brosse", "brosses", "brosse", "brossions", "brossiez", "brossent"],
+        "subj.imp": ["brossasse", "brossasses", "brossât", "brossassions", "brossassiez", "brossassent"],
+        "imper.pres": ["brosse", "brossons", "brossez"]
+      },
+      "participe_present": "brossant",
+      "participe_passe": ["brossé", "brossée", "brossés", "brossées"]
     }
   ]
 }
