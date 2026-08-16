@@ -11517,6 +11517,24 @@
       },
       "participe_present": "fêtant",
       "participe_passe": ["fêté", "fêtée", "fêtés", "fêtées"]
+    },
+    {
+      "id": "tracer",
+      "infinitif": "tracer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["trace", "traces", "trace", "traçons", "tracez", "tracent"],
+        "ind.imp": ["traçais", "traçais", "traçait", "tracions", "traciez", "traçaient"],
+        "ind.ps": ["traçai", "traças", "traça", "traçâmes", "traçâtes", "tracèrent"],
+        "ind.fut": ["tracerai", "traceras", "tracera", "tracerons", "tracerez", "traceront"],
+        "cond.pres": ["tracerais", "tracerais", "tracerait", "tracerions", "traceriez", "traceraient"],
+        "subj.pres": ["trace", "traces", "trace", "tracions", "traciez", "tracent"],
+        "subj.imp": ["traçasse", "traçasses", "traçât", "traçassions", "traçassiez", "traçassent"],
+        "imper.pres": ["trace", "traçons", "tracez"]
+      },
+      "participe_present": "traçant",
+      "participe_passe": ["tracé", "tracée", "tracés", "tracées"]
     }
   ]
 }
