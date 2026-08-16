@@ -892,6 +892,24 @@
       },
       "participe_present": "ouvrant",
       "participe_passe": ["ouvert", "ouverte", "ouverts", "ouvertes"]
+    },
+    {
+      "id": "commencer",
+      "infinitif": "commencer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["commence", "commences", "commence", "commençons", "commencez", "commencent"],
+        "ind.imp": ["commençais", "commençais", "commençait", "commencions", "commenciez", "commençaient"],
+        "ind.ps": ["commençai", "commenças", "commença", "commençâmes", "commençâtes", "commencèrent"],
+        "ind.fut": ["commencerai", "commenceras", "commencera", "commencerons", "commencerez", "commenceront"],
+        "cond.pres": ["commencerais", "commencerais", "commencerait", "commencerions", "commenceriez", "commenceraient"],
+        "subj.pres": ["commence", "commences", "commence", "commencions", "commenciez", "commencent"],
+        "subj.imp": ["commençasse", "commençasses", "commençât", "commençassions", "commençassiez", "commençassent"],
+        "imper.pres": ["commence", "commençons", "commencez"]
+      },
+      "participe_present": "commençant",
+      "participe_passe": ["commencé", "commencée", "commencés", "commencées"]
     }
   ]
 }
