@@ -27814,6 +27814,24 @@
       },
       "participe_present": "vissant",
       "participe_passe": ["vissé", "vissée", "vissés", "vissées"]
+    },
+    {
+      "id": "arborer",
+      "infinitif": "arborer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["arbore", "arbores", "arbore", "arborons", "arborez", "arborent"],
+        "ind.imp": ["arborais", "arborais", "arborait", "arborions", "arboriez", "arboraient"],
+        "ind.ps": ["arborai", "arboras", "arbora", "arborâmes", "arborâtes", "arborèrent"],
+        "ind.fut": ["arborerai", "arboreras", "arborera", "arborerons", "arborerez", "arboreront"],
+        "cond.pres": ["arborerais", "arborerais", "arborerait", "arborerions", "arboreriez", "arboreraient"],
+        "subj.pres": ["arbore", "arbores", "arbore", "arborions", "arboriez", "arborent"],
+        "subj.imp": ["arborasse", "arborasses", "arborât", "arborassions", "arborassiez", "arborassent"],
+        "imper.pres": ["arbore", "arborons", "arborez"]
+      },
+      "participe_present": "arborant",
+      "participe_passe": ["arboré", "arborée", "arborés", "arborées"]
     }
   ]
 }
