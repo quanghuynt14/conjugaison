@@ -13082,6 +13082,24 @@
       },
       "participe_present": "apaisant",
       "participe_passe": ["apaisé", "apaisée", "apaisés", "apaisées"]
+    },
+    {
+      "id": "défiler",
+      "infinitif": "défiler",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["défile", "défiles", "défile", "défilons", "défilez", "défilent"],
+        "ind.imp": ["défilais", "défilais", "défilait", "défilions", "défiliez", "défilaient"],
+        "ind.ps": ["défilai", "défilas", "défila", "défilâmes", "défilâtes", "défilèrent"],
+        "ind.fut": ["défilerai", "défileras", "défilera", "défilerons", "défilerez", "défileront"],
+        "cond.pres": ["défilerais", "défilerais", "défilerait", "défilerions", "défileriez", "défileraient"],
+        "subj.pres": ["défile", "défiles", "défile", "défilions", "défiliez", "défilent"],
+        "subj.imp": ["défilasse", "défilasses", "défilât", "défilassions", "défilassiez", "défilassent"],
+        "imper.pres": ["défile", "défilons", "défilez"]
+      },
+      "participe_present": "défilant",
+      "participe_passe": ["défilé", "défilée", "défilés", "défilées"]
     }
   ]
 }
