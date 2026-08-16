@@ -6713,6 +6713,24 @@
       },
       "participe_present": "confiant",
       "participe_passe": ["confié", "confiée", "confiés", "confiées"]
+    },
+    {
+      "id": "débarrasser",
+      "infinitif": "débarrasser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["débarrasse", "débarrasses", "débarrasse", "débarrassons", "débarrassez", "débarrassent"],
+        "ind.imp": ["débarrassais", "débarrassais", "débarrassait", "débarrassions", "débarrassiez", "débarrassaient"],
+        "ind.ps": ["débarrassai", "débarrassas", "débarrassa", "débarrassâmes", "débarrassâtes", "débarrassèrent"],
+        "ind.fut": ["débarrasserai", "débarrasseras", "débarrassera", "débarrasserons", "débarrasserez", "débarrasseront"],
+        "cond.pres": ["débarrasserais", "débarrasserais", "débarrasserait", "débarrasserions", "débarrasseriez", "débarrasseraient"],
+        "subj.pres": ["débarrasse", "débarrasses", "débarrasse", "débarrassions", "débarrassiez", "débarrassent"],
+        "subj.imp": ["débarrassasse", "débarrassasses", "débarrassât", "débarrassassions", "débarrassassiez", "débarrassassent"],
+        "imper.pres": ["débarrasse", "débarrassons", "débarrassez"]
+      },
+      "participe_present": "débarrassant",
+      "participe_passe": ["débarrassé", "débarrassée", "débarrassés", "débarrassées"]
     }
   ]
 }
