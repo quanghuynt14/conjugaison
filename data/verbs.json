@@ -34542,6 +34542,24 @@
       },
       "participe_present": "endommageant",
       "participe_passe": ["endommagé", "endommagée", "endommagés", "endommagées"]
+    },
+    {
+      "id": "enfourcher",
+      "infinitif": "enfourcher",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["enfourche", "enfourches", "enfourche", "enfourchons", "enfourchez", "enfourchent"],
+        "ind.imp": ["enfourchais", "enfourchais", "enfourchait", "enfourchions", "enfourchiez", "enfourchaient"],
+        "ind.ps": ["enfourchai", "enfourchas", "enfourcha", "enfourchâmes", "enfourchâtes", "enfourchèrent"],
+        "ind.fut": ["enfourcherai", "enfourcheras", "enfourchera", "enfourcherons", "enfourcherez", "enfourcheront"],
+        "cond.pres": ["enfourcherais", "enfourcherais", "enfourcherait", "enfourcherions", "enfourcheriez", "enfourcheraient"],
+        "subj.pres": ["enfourche", "enfourches", "enfourche", "enfourchions", "enfourchiez", "enfourchent"],
+        "subj.imp": ["enfourchasse", "enfourchasses", "enfourchât", "enfourchassions", "enfourchassiez", "enfourchassent"],
+        "imper.pres": ["enfourche", "enfourchons", "enfourchez"]
+      },
+      "participe_present": "enfourchant",
+      "participe_passe": ["enfourché", "enfourchée", "enfourchés", "enfourchées"]
     }
   ]
 }
