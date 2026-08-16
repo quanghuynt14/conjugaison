@@ -25096,6 +25096,25 @@
       },
       "participe_present": "gavant",
       "participe_passe": ["gavé", "gavée", "gavés", "gavées"]
+    },
+    {
+      "id": "acquiescer",
+      "infinitif": "acquiescer",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "note": "Le participe passé « acquiescé » est invariable : le verbe ne prend pas de complément d'objet direct, donc rien ne s'accorde avec lui.",
+      "tenses": {
+        "ind.pres": ["acquiesce", "acquiesces", "acquiesce", "acquiesçons", "acquiescez", "acquiescent"],
+        "ind.imp": ["acquiesçais", "acquiesçais", "acquiesçait", "acquiescions", "acquiesciez", "acquiesçaient"],
+        "ind.ps": ["acquiesçai", "acquiesças", "acquiesça", "acquiesçâmes", "acquiesçâtes", "acquiescèrent"],
+        "ind.fut": ["acquiescerai", "acquiesceras", "acquiescera", "acquiescerons", "acquiescerez", "acquiesceront"],
+        "cond.pres": ["acquiescerais", "acquiescerais", "acquiescerait", "acquiescerions", "acquiesceriez", "acquiesceraient"],
+        "subj.pres": ["acquiesce", "acquiesces", "acquiesce", "acquiescions", "acquiesciez", "acquiescent"],
+        "subj.imp": ["acquiesçasse", "acquiesçasses", "acquiesçât", "acquiesçassions", "acquiesçassiez", "acquiesçassent"],
+        "imper.pres": ["acquiesce", "acquiesçons", "acquiescez"]
+      },
+      "participe_present": "acquiesçant",
+      "participe_passe": ["acquiescé", null, null, null]
     }
   ]
 }
