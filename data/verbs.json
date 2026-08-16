@@ -25388,6 +25388,24 @@
       },
       "participe_present": "enflant",
       "participe_passe": ["enflé", "enflée", "enflés", "enflées"]
+    },
+    {
+      "id": "assoupir",
+      "infinitif": "assoupir",
+      "groupe": "2ᵉ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["assoupis", "assoupis", "assoupit", "assoupissons", "assoupissez", "assoupissent"],
+        "ind.imp": ["assoupissais", "assoupissais", "assoupissait", "assoupissions", "assoupissiez", "assoupissaient"],
+        "ind.ps": ["assoupis", "assoupis", "assoupit", "assoupîmes", "assoupîtes", "assoupirent"],
+        "ind.fut": ["assoupirai", "assoupiras", "assoupira", "assoupirons", "assoupirez", "assoupiront"],
+        "cond.pres": ["assoupirais", "assoupirais", "assoupirait", "assoupirions", "assoupiriez", "assoupiraient"],
+        "subj.pres": ["assoupisse", "assoupisses", "assoupisse", "assoupissions", "assoupissiez", "assoupissent"],
+        "subj.imp": ["assoupisse", "assoupisses", "assoupît", "assoupissions", "assoupissiez", "assoupissent"],
+        "imper.pres": ["assoupis", "assoupissons", "assoupissez"]
+      },
+      "participe_present": "assoupissant",
+      "participe_passe": ["assoupi", "assoupie", "assoupis", "assoupies"]
     }
   ]
 }
