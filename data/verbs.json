@@ -7475,6 +7475,24 @@
       },
       "participe_present": "soutenant",
       "participe_passe": ["soutenu", "soutenue", "soutenus", "soutenues"]
+    },
+    {
+      "id": "organiser",
+      "infinitif": "organiser",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["organise", "organises", "organise", "organisons", "organisez", "organisent"],
+        "ind.imp": ["organisais", "organisais", "organisait", "organisions", "organisiez", "organisaient"],
+        "ind.ps": ["organisai", "organisas", "organisa", "organisâmes", "organisâtes", "organisèrent"],
+        "ind.fut": ["organiserai", "organiseras", "organisera", "organiserons", "organiserez", "organiseront"],
+        "cond.pres": ["organiserais", "organiserais", "organiserait", "organiserions", "organiseriez", "organiseraient"],
+        "subj.pres": ["organise", "organises", "organise", "organisions", "organisiez", "organisent"],
+        "subj.imp": ["organisasse", "organisasses", "organisât", "organisassions", "organisassiez", "organisassent"],
+        "imper.pres": ["organise", "organisons", "organisez"]
+      },
+      "participe_present": "organisant",
+      "participe_passe": ["organisé", "organisée", "organisés", "organisées"]
     }
   ]
 }
