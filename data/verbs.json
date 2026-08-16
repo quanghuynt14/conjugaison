@@ -33849,6 +33849,24 @@
       },
       "participe_present": "harpant",
       "participe_passe": ["harpé", "harpée", "harpés", "harpées"]
+    },
+    {
+      "id": "dissuader",
+      "infinitif": "dissuader",
+      "groupe": "1ᵉʳ groupe",
+      "auxiliaire": "avoir",
+      "tenses": {
+        "ind.pres": ["dissuade", "dissuades", "dissuade", "dissuadons", "dissuadez", "dissuadent"],
+        "ind.imp": ["dissuadais", "dissuadais", "dissuadait", "dissuadions", "dissuadiez", "dissuadaient"],
+        "ind.ps": ["dissuadai", "dissuadas", "dissuada", "dissuadâmes", "dissuadâtes", "dissuadèrent"],
+        "ind.fut": ["dissuaderai", "dissuaderas", "dissuadera", "dissuaderons", "dissuaderez", "dissuaderont"],
+        "cond.pres": ["dissuaderais", "dissuaderais", "dissuaderait", "dissuaderions", "dissuaderiez", "dissuaderaient"],
+        "subj.pres": ["dissuade", "dissuades", "dissuade", "dissuadions", "dissuadiez", "dissuadent"],
+        "subj.imp": ["dissuadasse", "dissuadasses", "dissuadât", "dissuadassions", "dissuadassiez", "dissuadassent"],
+        "imper.pres": ["dissuade", "dissuadons", "dissuadez"]
+      },
+      "participe_present": "dissuadant",
+      "participe_passe": ["dissuadé", "dissuadée", "dissuadés", "dissuadées"]
     }
   ]
 }
