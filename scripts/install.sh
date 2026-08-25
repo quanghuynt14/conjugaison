@@ -45,19 +45,14 @@ if [ -z "$SOURCE_DIR" ]; then
   mkdir -p "$SOURCE_DIR"
   echo "  Téléchargement de la dernière version…"
 
-  if curl -fsSL -o "$tmp/probe" "https://api.github.com/repos/$REPO/releases/latest" 2>/dev/null \
-     && ! grep -q '"message": *"Not Found"' "$tmp/probe"; then
-    curl -fsSL -o "$SOURCE_DIR/$ASSET" \
-      "https://github.com/$REPO/releases/latest/download/$ASSET"
-  elif command -v gh >/dev/null 2>&1 && gh auth status >/dev/null 2>&1; then
-    gh release download --repo "$REPO" --pattern '*.dictionary.zip' --dir "$SOURCE_DIR"
-  else
-    cat >&2 <<'ERR'
+  if ! curl -fsSL -o "$SOURCE_DIR/$ASSET" \
+      "https://github.com/$REPO/releases/latest/download/$ASSET"; then
+    cat >&2 <<ERR
 
-  Impossible de récupérer l'archive.
+  Téléchargement impossible : $ASSET
 
-  Si le dépôt est privé, il faut `gh` authentifié sur ce Mac
-  (« gh auth login »), ou copier le .zip à la main et relancer :
+  Vérifiez la connexion, ou prenez l'archive à la main sur
+  https://github.com/$REPO/releases/latest puis relancez :
 
       sh install.sh ~/Downloads
 
