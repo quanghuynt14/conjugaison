@@ -127,12 +127,18 @@ dist:
 	@echo "  → $(DIST)/  (l'archive et install.sh)"
 
 # Une version sur GitHub, pour que l'installation tienne en une ligne.
+#
+# On regarde si la version existe avant de choisir, plutôt que « create ||
+# upload » : le `||` avalait l'erreur de `create` et n'affichait que celle du
+# repli — « release not found », qui ne dit rien de la cause.
 release: dist
 	@v=$$(date +%Y.%m.%d); \
-	gh release create "v$$v" $(DIST)/$(ASSET) $(DIST)/install.sh \
-		--title "Conjugaison $$v" \
-		--notes "Conjugaison inversée pour Dictionary.app." \
-		|| gh release upload "v$$v" $(DIST)/$(ASSET) $(DIST)/install.sh --clobber
-
+	if gh release view "v$$v" >/dev/null 2>&1; then \
+		gh release upload "v$$v" $(DIST)/$(ASSET) $(DIST)/install.sh --clobber; \
+	else \
+		gh release create "v$$v" $(DIST)/$(ASSET) $(DIST)/install.sh \
+			--title "Conjugaison $$v" \
+			--notes "Conjugaison inversée pour Dictionary.app."; \
+	fi
 clean:
 	rm -rf $(DICT_DEV_KIT_OBJ_DIR) $(DIST) src/conjugaison.xml
