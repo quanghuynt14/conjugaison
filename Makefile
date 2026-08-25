@@ -12,7 +12,7 @@ export DICT_DEV_KIT_OBJ_DIR
 
 DESTINATION_FOLDER  = $(HOME)/Library/Dictionaries
 
-.PHONY: all xml build install uninstall setup clean check verify refresh verbe
+.PHONY: all xml build install uninstall setup clean check verify refresh verbe dist release
 
 all: install
 
@@ -98,5 +98,41 @@ check: xml
 verify:
 	python3 scripts/verify_lookup.py
 
+# --- distribution ---------------------------------------------------------
+#
+# Un bundle .dictionary est un dossier de données : il se copie d'un Mac à
+# l'autre tel quel. Rien à compiler en face — le DDK, Python, Rosetta, Verbiste
+# et les vingt-cinq mégaoctets de Lexique ne servent qu'à le *fabriquer*.
+#
+# `ditto -c -k` plutôt que `zip` : c'est l'outil d'Apple, il préserve ce qu'un
+# bundle attend, et c'est le pendant exact du `ditto -x -k` de install.sh.
+#
+# L'archive porte un nom en minuscules sans accent. GitHub remplace tout
+# caractère non-ASCII du nom d'un fichier de version par un point, et l'URL de
+# téléchargement rend alors 404 ; « Conjugaison » y échappe, mais autant que la
+# règle soit la même dans les deux dépôts.
+DIST  = dist
+ASSET = conjugaison.dictionary.zip
+
+dist:
+	@test -d "$(DESTINATION_FOLDER)/$(DICT_NAME).dictionary" || \
+		{ echo "✗ $(DICT_NAME).dictionary pas installé — lancez make install"; exit 1; }
+	@mkdir -p $(DIST)
+	@rm -f "$(DIST)/$(ASSET)"
+	@ditto -c -k --sequesterRsrc --keepParent \
+		"$(DESTINATION_FOLDER)/$(DICT_NAME).dictionary" "$(DIST)/$(ASSET)"
+	@cp scripts/install.sh $(DIST)/
+	@printf "  %-28s %5.1f Mo\n" "$(ASSET)" \
+		$$(echo "$$(stat -f %z "$(DIST)/$(ASSET)")/1000000" | bc -l)
+	@echo "  → $(DIST)/  (l'archive et install.sh)"
+
+# Une version sur GitHub, pour que l'installation tienne en une ligne.
+release: dist
+	@v=$$(date +%Y.%m.%d); \
+	gh release create "v$$v" $(DIST)/$(ASSET) $(DIST)/install.sh \
+		--title "Conjugaison $$v" \
+		--notes "Conjugaison inversée pour Dictionary.app." \
+		|| gh release upload "v$$v" $(DIST)/$(ASSET) $(DIST)/install.sh --clobber
+
 clean:
-	rm -rf $(DICT_DEV_KIT_OBJ_DIR) src/conjugaison.xml
+	rm -rf $(DICT_DEV_KIT_OBJ_DIR) $(DIST) src/conjugaison.xml

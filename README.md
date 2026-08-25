@@ -24,21 +24,52 @@ forme surlignées.
 **2 004 verbes** : les deux mille plus fréquents du français, plus les quatre
 écrits à la main avant que l'import existe. 77 277 formes, 192 069 analyses.
 
-## Essayer
+## Installer
 
-Le dictionnaire est compilé et installé. Il reste à le cocher :
+```bash
+curl -fsSL https://raw.githubusercontent.com/quanghuynt14/conjugaison/HEAD/scripts/install.sh | sh
+```
 
-1. Ouvrez **Dictionary.app**.
+Dix mégaoctets, quelques secondes. Rien à compiler : un bundle `.dictionary`
+est un dossier de **données**, pas un programme — ni Python, ni le DDK, ni
+Rosetta, ni Verbiste, ni les vingt-cinq mégaoctets de Lexique, qui ne servent
+qu'à le *fabriquer*.
+
+Il reste **une chose, à faire une seule fois**, et qu'aucun script ne peut
+faire à votre place :
+
+1. Ouvrez **Dictionnaire.app**.
 2. **Dictionnaire › Réglages** (⌘,).
-3. Cochez **Conjugaison**, et montez-le en tête si vous voulez.
-4. Cherchez `vis`, puis `fasse`, puis `faites`. Puis `souviens`, `faut`,
-   `paye`, `pris`.
+3. Cochez **Conjugaison française**, et montez-la en tête.
+
+Cherchez ensuite `vis`, puis `fasse`, `faites`, `souviens`, `faut`, `paye`,
+`pris`. Ou ⌃⌘D sur n'importe quel verbe, n'importe où dans macOS.
+
+<details>
+<summary>Sans le tube, ou hors ligne</summary>
+
+Le même script accepte un dossier contenant l'archive — celle de la
+[dernière version](https://github.com/quanghuynt14/conjugaison/releases/latest),
+ou celle que `make dist` fabrique ici :
+
+```bash
+sh install.sh                 # l'archive posée à côté
+sh install.sh ~/Downloads
+```
+
+</details>
 
 Sans ouvrir l'app :
 
 ```bash
 make verify        # interroge le bundle installé par l'API de macOS
 ```
+
+### À côté
+
+[**dictionnaire**](https://github.com/quanghuynt14/dictionnaire) donne le
+*sens* — français→vietnamien et anglais→vietnamien. Les deux s'installent
+côte à côte : `allions` ouvre sa conjugaison ici, sa traduction là.
 
 ## Le découpage : une entrée par forme
 
@@ -444,8 +475,13 @@ deux mille ; les cinq mille autres coûtent le même geste, répété.
 
 ## Construire
 
+Rien de tout ça n'est nécessaire pour *se servir* du dictionnaire — seulement
+pour le refaire, ou pour lui ajouter des verbes.
+
 ```bash
 make            # setup + xml + compilation + installation
+make dist       # → dist/ : l'archive et install.sh
+make release    # publie une version datée sur GitHub
 make check      # l'analyse est-elle écrite, et juste ?
 make verify     # le bundle installé sait-il y répondre ?
 make verbe      # le prochain verbe de data/frequence.txt entre (N=10 : dix)
