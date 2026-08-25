@@ -53,9 +53,20 @@ Le même script accepte un dossier contenant l'archive — celle de la
 ou celle que `make dist` fabrique ici :
 
 ```bash
-sh install.sh                 # l'archive posée à côté
-sh install.sh ~/Downloads
+sh install.sh                 # conjugaison.dictionary.zip posé à côté
+sh install.sh ~/Downloads     # ou dans le dossier indiqué
 ```
+
+Posé à côté, il ne cherche que **son** archive, par son nom. Il cherchait
+n'importe quel `*.dictionary.zip`, et rangé dans un dossier qui en contenait
+un autre il installait celui-là en annonçant une réussite. Un dossier passé en
+argument garde l'ancien comportement : là, c'est un choix explicite.
+
+Il refait les deux gestes que ce dépôt a appris à ses dépens, avec leurs
+raisons écrites dans son en-tête : `rm -rf` avant `ditto`, sinon macOS garde un
+index périmé et le dictionnaire disparaît de la fenêtre de consultation ; et un
+`pkill -f` sur les services XPC de consultation, que `killall` ne reconnaît
+pas. Il enlève aussi la quarantaine d'un fichier téléchargé.
 
 </details>
 
