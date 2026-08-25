@@ -131,14 +131,36 @@ dist:
 # On regarde si la version existe avant de choisir, plutôt que « create ||
 # upload » : le `||` avalait l'erreur de `create` et n'affichait que celle du
 # repli — « release not found », qui ne dit rien de la cause.
+#
+# Les notes passent par un fichier plutôt que par `--notes "…$$(printf '\n')…"` :
+# la substitution de commande mange les sauts de ligne finaux, donc ce
+# printf-là rendait la chaîne vide et collait toutes les lignes en une seule.
+# Elles sont réécrites même quand la version existe : `upload` ne les touche pas.
 release: dist
 	@v=$$(date +%Y.%m.%d); \
+	notes=$$(mktemp); \
+	{ \
+		echo "Conjugaison inversée pour Dictionary.app."; \
+		echo; \
+		echo "Sélectionnez une forme conjuguée, ⌃⌘D, et la page s'ouvre sur les verbes"; \
+		echo "qui la produisent, avec la case d'où elle vient."; \
+		echo; \
+		echo "## Installer"; \
+		echo; \
+		echo '```bash'; \
+		echo "curl -fsSL https://raw.githubusercontent.com/quanghuynt14/conjugaison/HEAD/scripts/install.sh | sh"; \
+		echo '```'; \
+		echo; \
+		echo "Puis cochez « Conjugaison française » dans Dictionnaire.app > Réglages."; \
+	} > "$$notes"; \
 	if gh release view "v$$v" >/dev/null 2>&1; then \
 		gh release upload "v$$v" $(DIST)/$(ASSET) $(DIST)/install.sh --clobber; \
+		gh release edit "v$$v" --notes-file "$$notes" >/dev/null; \
 	else \
 		gh release create "v$$v" $(DIST)/$(ASSET) $(DIST)/install.sh \
-			--title "Conjugaison $$v" \
-			--notes "Conjugaison inversée pour Dictionary.app."; \
-	fi
+			--title "Conjugaison $$v" --notes-file "$$notes"; \
+	fi; \
+	rm -f "$$notes"
+
 clean:
 	rm -rf $(DICT_DEV_KIT_OBJ_DIR) $(DIST) src/conjugaison.xml
